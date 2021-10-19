@@ -1,0 +1,304 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(tidyverse)
+library(raster)
+library(sf)
+```
+
+# 读入数据
+
+```{r}
+traits <- read.csv("COMBINE_mammal_traits_data//COMBINE_archives//trait_data_imputed.csv")
+Chinese_species_distribution_grid <- read.csv("../chinese_terrestral//species_distribution_grid_filtered.csv",
+                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+chinese_traits <- traits[traits$iucn2020_binomial %in% unique(Chinese_species_distribution_grid$species),] # select chinese mammal
+```
+
+```{r}
+length(unique(chinese_traits$iucn2020_binomial)) # number of chinese mammal species
+```
+
+# 哺乳动物丰富度
+
+```{r}
+# calculate species richness
+mammals <- filter(Chinese_species_distribution_grid,class == 'mammal') %>%
+    group_by(grid_id) %>% summarize(richness = length(unique(species)))
+china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
+grid <- st_read("../chinese_terrestral//input//grid.shp")
+south_ocean <- st_read("../chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
+map <- left_join(mammals,grid,by = c('grid_id'='id'))
+filter(Chinese_species_distribution_grid,class == 'mammal')$species %>% unique() %>% length()
+options(repr.plot.width=12, repr.plot.height=10)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("richness")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+# 数据清洗
+
+```{r}
+# data clean of chinese_traits
+# summary(chinese_traits)
+chinese_traits <- dplyr::select(chinese_traits,-c(order,family,genus,species,phylacine_binomial,adult_forearm_length_mm,maturity_d,male_maturity_d,
+                                                    teat_number_n,neonate_mass_g,weaning_mass_g,density_n_km2,home_range_km2,social_group_n,island_endemicity,
+                                                    biogeographical_realm,glaciation,marine,freshwater,island_dwelling,disected_by_mountains,
+                                                    dispersal_km,upper_elevation_m,lower_elevation_m,altitude_breadth_m,terrestrial_non.volant)
+                                               )
+summary(chinese_traits)
+```
+
+```{r}
+# recode foraging_stratum
+unique(chinese_traits$foraging_stratum)
+chinese_traits$foraging_stratum <- dplyr::recode(chinese_traits$foraging_stratum,'Ar'=1,'G'=2,'A'=3,'S'=4)
+chinese_traits$hibernation_torpor <- as.factor(chinese_traits$hibernation_torpor)
+chinese_traits$fossoriality <- as.factor(chinese_traits$fossoriality)
+chinese_traits$foraging_stratum <- as.factor(chinese_traits$foraging_stratum)
+chinese_traits$activity_cycle <- as.factor(chinese_traits$activity_cycle)
+chinese_traits$terrestrial_volant <- as.factor(chinese_traits$terrestrial_volant)
+```
+
+```{r}
+# # one hot encoding of categorical variables if used missForest
+# chinese_traits <- data.table::setDT(chinese_traits)
+# chinese_traits$foraging_stratum <- as.factor(chinese_traits$foraging_stratum)
+# activity_cycle_labels=c('nocturnal only','mixed','diurnal only')
+# chinese_traits$activity_cycle <- activity_cycle_labels[chinese_traits$activity_cycle] %>% as.factor()
+# fossoriality_labels <- c('fossorial','above_ground_dwelling')
+# chinese_traits$fossoriality <- fossoriality_labels[chinese_traits$fossoriality] %>% as.factor()
+# chinese_traits <- mltools::one_hot(chinese_traits,cols=c('activity_cycle','fossoriality','foraging_stratum'),dropCols = TRUE)
+# colnames(chinese_traits)[1] <- "species"
+```
+
+# 缺失值填充
+
+
+## missMFD填充缺失值
+
+```{r}
+# remove duplicated species and transfer species names to row names
+chinese_traits <- chinese_traits[!duplicated(chinese_traits$iucn2020_binomial),]
+row.names(chinese_traits) <- chinese_traits$iucn2020_binomial
+chinese_traits <- dplyr::select(chinese_traits,-iucn2020_binomial)
+colnames(chinese_traits)
+```
+
+```{r}
+chinese_traits <- dplyr::select(chinese_traits,
+                                adult_mass_g,brain_mass_g,adult_body_length_mm,max_longevity_d,
+                                female_maturity_d,age_first_reproduction_d,gestation_length_d,litter_size_n,litters_per_year_n,interbirth_interval_d,
+                                weaning_age_d,generation_length_d,
+                                hibernation_torpor,fossoriality,
+                                dphy_invertebrate,dphy_vertebrate,dphy_plant,
+                                det_vend,det_vect,det_vfish,det_vunk,det_scav,det_fruit,det_nect,det_seed,det_plantother,det_diet_breadth_n,trophic_level,
+                                foraging_stratum,
+                                activity_cycle,
+                                terrestrial_volant,
+                                habitat_breadth_n)
+```
+
+```{r}
+chinese_traits_missmfa <- missMDA::imputeMFA(chinese_traits,group=c(4,6,2,2,3,11,1,1,1,1),
+                                             type=c(rep('s',3),'n',rep('s',2),rep('n',3),'s'))
+str(chinese_traits_missmfa$completeObs)
+```
+
+## missForest填充缺失值
+
+```{r}
+# fill NA by random forest
+chinese_traits_imputed <- missForest::missForest(chinese_traits[,-1])
+# summary(chinese_traits_imputed$ximp)
+```
+
+```{r}
+# data standardize transform
+# library(ggplot2)
+# chinese_traits_imputed$ximp <- scale(chinese_traits_imputed$ximp,center = TRUE, scale = TRUE)
+```
+
+# 数据降维
+
+
+## FactoMineR
+
+```{r}
+row.names(chinese_traits_missmfa$completeObs) <- row.names(chinese_traits)
+mfa <- FactoMineR::MFA(chinese_traits_missmfa$completeObs,
+                       group = c(4,6,2,2,3,11,1,1,1,1),
+                       type = c(rep('s',3),'n',rep('s',2),rep('n',3),'s'),
+                       name.group = c('bodymass','reproduction','growth','hibernation','dphy_diet','det_diet','foraging_stratum','activity_cycle','fly','habitat_breadth'),
+                       num.group.sup = c(1,10),
+                       ncp = 5)
+```
+
+### 结果可视化
+
+```{r}
+library(factoextra)
+eig.val <- get_eigenvalue(mfa)
+head(eig.val,n=15)
+fviz_screeplot(mfa,addlabels = TRUE,ncp=10)
+```
+
+```{r}
+fviz_mfa_var(mfa, "group") # the correlation between groups and dimensions. red color = active groups of variables; green color = supplementary groups of variables
+```
+
+```{r}
+fviz_mfa_var(mfa, "quanti.var", palette = "jco", 
+             col.var.sup = "violet", repel = TRUE, 
+            geom = c("point", "text"), legend = "bottom") # Correlation between quantitative variables and dimensions
+# Contributions to dimension 1
+fviz_contrib(mfa, choice = "quanti.var", axes = 1, top = 20,
+             palette = "jco")
+# Contributions to dimension 2
+fviz_contrib(mfa, choice = "quanti.var", axes = 2, top = 20,
+             palette = "jco")
+```
+
+```{r}
+# functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+fviz_mfa_ind(mfa, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE)
+```
+
+```{r}
+ind_mfa <- get_mfa_ind(mfa)$coord
+head(ind_mfa)
+```
+
+## PCA
+
+```{r}
+# # PCA
+# library(psych)
+# paran::paran(chinese_traits_imputed$ximp,iterations = 5000) # Horn's method for determining the number of retaining principal components
+# princomp <- princomp(chinese_traits_imputed$ximp,cor = T)
+# summary(princomp,loadings = TRUE)
+# fit <- principal(chinese_traits_imputed$ximp, nfactors=7,rotate="varimax") # extract PCA result
+# PC <- as.data.frame(fit$scores)
+```
+
+```{r}
+# nrow(PC)
+# traits_PCA <- cbind(chinese_traits$species,PC)
+# colnames(traits_PCA)[1] <- "species"
+# length(unique(traits_PCA$species))
+# traits_PCA <- traits_PCA[!duplicated(traits_PCA$species),]
+# head(traits_PCA)
+```
+
+# 计算功能多样性
+
+```{r}
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- filter(
+                                                    Chinese_species_distribution_grid,
+                                                    species %in% unique(row.names(chinese_traits))
+                                                    ) %>% 
+                                              dplyr::select(grid_id,species)
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,species,occurrence) 
+
+# to matrix
+Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
+grid_id <- Chinese_species_distribution_grid_selected$grid_id
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, row.names(ind_mfa)) %>% data.matrix()
+rownames(Chinese_species_distribution_grid_selected) <- grid_id
+nrow(Chinese_species_distribution_grid_selected) # sites that has mammal
+
+# row.names(traits_PCA) <- traits_PCA[,1] # transform to matrix
+# traits_PCA <- traits_PCA[,+-1] %>% data.matrix()
+```
+
+```{r}
+# head(china_sub)
+head(ind_mfa)
+library(FD)
+FD <- dbFD(ind_mfa,Chinese_species_distribution_grid_selected)
+```
+
+```{r}
+result <- data.frame(FD$FRic,FD$FEve,FD$FDiv,FD$FDis,FD$RaoQ)
+result <- mutate(result,grid_id = as.numeric(grid_id))
+write.csv(result,"result_mammal.csv",row.names=F)
+result <- left_join(result, grid, by = c('grid_id'='id'))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.FRic,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FRic")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.FEve,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FEve")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.FDiv,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FDiv")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.FDis,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FDis")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.RaoQ,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("RaoQ")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
