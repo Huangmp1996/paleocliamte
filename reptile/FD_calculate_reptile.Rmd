@@ -1,0 +1,103 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(tidyverse)
+library(sf)
+```
+
+```{r}
+# lizard_map <- st_read('data_reptile/Chinese213lizards_9_27/Chinese_lizards_214_version20200927.shp')
+grid <- st_read('../chinese_terrestral/input/grid.shp')
+```
+
+```{r}
+# lizard_map <- st_transform(lizard_map,crs = st_crs(grid)) %>% st_buffer(dist=0)
+# inte <- st_intersection(lizard_map, grid) %>% mutate(area=st_area(geometry)) %>% 
+#             st_set_geometry(NULL) %>% select(c(Group_,Binomial,id,area))
+# write.csv(inte,'lizard_species_distribution_grid.csv',row.names = F) # if want to write out 'inte'
+```
+
+```{r}
+Chinese_species_distribution_grid  <- read.csv('lizard_species_distribution_grid.csv')
+```
+
+# 物种丰富度
+
+```{r}
+# calculate species richness
+lizards <- group_by(Chinese_species_distribution_grid,id) %>% summarize(richness = length(unique(Binomial)))
+china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
+grid <- st_read("../chinese_terrestral//input//grid.shp")
+south_ocean <- st_read("../chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
+map <- left_join(lizards,grid,by = 'id')
+Chinese_species_distribution_grid$Binomial %>% unique() %>% length()
+options(repr.plot.width=12, repr.plot.height=10)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("richness")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+# 数据整合
+
+```{r}
+chinese_lizards <- read.csv('data_reptile/Spatial_patterns_in_the_size_of_Chinese_lizards/Appendix_data.csv') %>% select(-c(Max.based.on,References))
+china_reptile <- read.csv("china_reptile.csv")
+
+invasion <- read.csv("data_reptile/Allen_et_al_Amphibian_reptile_invasion_life_history/Allen et al17EL_reptile_invasion_and_life_history.csv")
+invasion$Species <- gsub('_',' ',invasion$Species)
+invasion <- filter(invasion,Species %in% chinese_lizards$Species)
+Traits_of_lizards_of_the_world <- read.csv("data_reptile/The_global_biogeography_of_lizard_functional_groups/Traits_of_lizards_of_the_world/Appendix_S1_Lizard_data_version_1.0.csv") %>% 
+                                        filter(Binomial %in% chinese_lizards$Species) %>% 
+                                        select(Binomial,maximum_SVL,female_SVL,hatchling.neonate_SVL,Activity_time,diet,foraging_mode,
+                                               reproductive_mode, clutch_size,smallest_clutch,largest_clutch,
+                                              breeding_age_months,mean_body_temperature_of_active_animals_in_the_wild)
+# amniota <- read.csv("data_reptile/amniote_database/Data_Files/Amniote_Sparse_Table_Aug_2015.csv") %>% filter(class == 'Reptilia')
+# amniota[amniota == -999] <- NA
+# amniota$Binomial <- paste(amniota$genus,amniota$species,sep = ' ')
+# amniota <- filter(amniota,Binomial %in% chinese_lizards$Species) %>% select(-c(subspecies,weaning_weight_g,fledging_age_d,inter_litter_or_interbirth_interval_y,
+#                                                                               fledging_mass_g,female_body_mass_at_maturity_g,dataset))
+
+Chinese_species_distribution_grid <- read.csv("../chinese_terrestral//species_distribution_grid_filtered.csv",
+                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+```
+
+```{r}
+chinese_traits <- full_join(invasion,Traits_of_lizards_of_the_world,by = c('Species' = 'Binomial')) %>% 
+                        full_join(chinese_lizards,by = 'Species')
+```
+
+```{r}
+chinese_traits <- mutate(chinese_traits,clutch_size_mean = (smallest_clutch + largest_clutch)/2)
+chinese_traits$clutch_size_mean <- ifelse(is.na(chinese_traits$clutch_size_mean),chinese_traits$Clutch_size,chinese_traits$clutch_size_mean)
+```
+
+```{r}
+summary(chinese_traits)
+```
+
+```{r}
+
+```
+
+```{r}
+# write.csv(chinese_traits,'chinese_traits_lizards.csv',row.names = F)
+```
