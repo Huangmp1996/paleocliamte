@@ -1,0 +1,302 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(picante)
+library(tidyverse)
+library(sf)
+```
+
+# 计算系统发育多样性
+
+```{r}
+phylogenetic_calculate <- function(taxon){
+    library(dplyr)
+    library(picante)
+    library(tidyr)
+    phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree")
+    # select taxon distribution
+    chinese_wild_life_list <- read.csv('chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
+                            select('scientificName','kingdomName','phylumName','className','orderName','familyName')
+    Chinese_species_distribution_grid <- read.csv("./chinese_terrestral//species_distribution_grid_filtered.csv",
+                                                  header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                        group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+    Chinese_species_distribution_grid <- left_join(Chinese_species_distribution_grid,chinese_wild_life_list,by = c('species' = 'scientificName'))
+    Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid,class %in% taxon,
+                                                         !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
+                                                                           'Phaethontidae','Diomedeidae','Stercorariidae','Sulidae',
+                                                                           'Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae', # marine bird
+                                                                           'Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
+                                                                           'Kogiidae','Dugongidae','Iniidae','Phocoenidae','Physeteridae',
+                                                                           'Phocidae','Otariidae','Sirenia')))) %>%  # marine mammal
+                                                    dplyr::select(grid_id,className,orderName,familyName,species) %>% as.data.frame() 
+    Chinese_species_distribution_grid_selected$species <- gsub(" ","_",Chinese_species_distribution_grid_selected$species)
+    Chinese_species_distribution_grid_selected <- tidyr::unite(Chinese_species_distribution_grid_selected,taxa,
+                                                                c(className,orderName,familyName,species),sep = '_',remove = F) %>% 
+                                                        select(grid_id,taxa)
+    tips <- intersect(phy$tip.label,Chinese_species_distribution_grid_selected$taxa) # species belong to taxon  has phylogeny data
+#     print(paste0(taxon,'_has_phylogeny_data:',length(unique(tips))))
+    # transform to distribution matrix
+    Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid_selected,taxa %in% tips)
+    Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+    Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,taxa,occurrence)
+    Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
+    grid_id <- Chinese_species_distribution_grid_selected[,1]
+    Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+    Chinese_species_distribution_grid_selected <- as.matrix(Chinese_species_distribution_grid_selected)
+    rownames(Chinese_species_distribution_grid_selected) <- paste0('grid_',grid_id)
+    #calculate
+    phy_tmp <- keep.tip(phy,tips)
+    phy.dist <- cophenetic(phy_tmp)
+    nti <- ses.mntd(Chinese_species_distribution_grid_selected,phy.dist,null.model = 'taxa.labels') %>% mutate(NTI = -1*mntd.obs.z)
+    nri <- ses.mpd(Chinese_species_distribution_grid_selected,phy.dist,null.model = 'taxa.labels') %>% mutate(NRI = -1*mpd.obs.z)
+    faith_pd <- ses.pd(Chinese_species_distribution_grid_selected,phy,include.root=TRUE)
+    
+    # integrate results
+    faith_pd$grid_id <- row.names(faith_pd)
+    nti$grid_id <- row.names(nti)
+    nri$grid_id <- row.names(nri)
+    tmp_result <- full_join(nri,nti,by = 'grid_id') %>% full_join(faith_pd,by = 'grid_id')
+    tmp_result$grid_id <- gsub('grid_','',tmp_result$grid_id) %>% as.numeric()
+    colnames(tmp_result) <- ifelse(colnames(tmp_result)!='grid_id',paste0(taxon,'_',colnames(tmp_result)),'grid_id')
+    write.csv(tmp_result,paste0(taxon,'_phylogenetic_diversity.csv'),row.names = F)
+    return(tmp_result)
+}
+```
+
+```{r}
+taxon <- c('amphibian','ave','mammal')
+
+library(foreach)
+library(doParallel)
+print(paste0('CPUs_used:',length(taxon)))
+cl <- makeCluster(length(taxon))
+registerDoParallel(cl)
+phylog_list <- foreach(
+    i = taxon,
+    .combine = list,
+    .packages = c("picante","dplyr",'tidyr'),
+    .verbose = T
+) %dopar% phylogenetic_calculate(i)
+stopCluster(cl)
+```
+
+## 导入系统发育多样性计算结果
+
+```{r}
+amphibian_phylog <- read.csv("./amphibian_phylogenetic_diversity.csv") %>% 
+                        select(grid_id,paste0('amphibian_',c(ntaxa.x,mpd.obs.z,mntd.obs.z,SR,PD)))
+ave_phylog <- read.csv("./ave_phylogenetic_diversity.csv") %>% select(grid_id,ntaxa.x,mpd.obs.z,mntd.obs.z,SR,PD)
+mammal_phylog <- read.csv("./mammal_phylogenetic_diversity.csv") %>% select(grid_id,ntaxa.x,mpd.obs.z,mntd.obs.z,SR,PD)
+
+```
+
+## 地图
+
+```{r}
+china_map <- st_read("./chinese_terrestral//SHP//China_map.shp")
+grid <- st_read("./chinese_terrestral//input//grid.shp")
+south_ocean <- st_read("./chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
+amphibian_map <- left_join(amphibian_phylog,grid,by = c('grid_id'='id'))
+ave_map <- left_join(ave_phylog,grid,by = c('grid_id'='id'))
+mammal_map <- left_join(mammal_phylog,grid,by = c('grid_id'='id'))
+```
+
+# phylogenetic structure
+
+
+## 两栖类
+
+```{r}
+options(repr.plot.width=12, repr.plot.height=10)
+
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = amphibian_map,aes(fill = PD,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("amphibian_faith_pd")+
+    labs(fill = "Faith's pd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = amphibian_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("amphibian_nri")+
+    labs(fill = 'Nearest Relative Index (NRI)')+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = amphibian_map,aes(fill = nti,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    labs(fill = 'Nearest Taxon Index (NTI)')+
+    ggtitle("amphibian_nti")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+## 蜥蜴类
+
+```{r}
+squamate_phy <- read.tree('reptile/data_reptile/squam_shl_new_Consensus_9755.tre')
+chinese_lizards <- read.csv('reptile/data_reptile/Spatial_patterns_in_the_size_of_Chinese_lizards/Appendix_data.csv') %>% 
+                        select(Species,Name_in_Tonini_et_al_2016) %>% filter(!is.na(Name_in_Tonini_et_al_2016))
+lizard_species_distribution_grid  <- read.csv('./reptile/lizard_species_distribution_grid.csv') %>% 
+                                        right_join(chinese_lizards,by = c('Binomial'='Species')) %>% select(id,Name_in_Tonini_et_al_2016)
+lizard_species_distribution_grid$Name_in_Tonini_et_al_2016 <- gsub(' ','_',lizard_species_distribution_grid$Name_in_Tonini_et_al_2016)
+```
+
+```{r}
+tips <- lizard_species_distribution_grid$Name_in_Tonini_et_al_2016
+tips <- intersect(squamate_phy$tip.label,tips)
+phy_tmp <- keep.tip(squamate_phy,tips)
+```
+
+```{r}
+lizard_species_distribution_grid$occurrence <- rep(1,nrow(lizard_species_distribution_grid))
+lizard_species_distribution_grid <- spread(lizard_species_distribution_grid,Name_in_Tonini_et_al_2016,occurrence)
+lizard_species_distribution_grid[is.na(lizard_species_distribution_grid)] <- 0
+row.names(lizard_species_distribution_grid) <- lizard_species_distribution_grid$id
+lizard_species_distribution_grid <- lizard_species_distribution_grid[,-1]
+lizard_species_distribution_grid <- as.matrix(lizard_species_distribution_grid)
+```
+
+```{r}
+phy.dist <- cophenetic(phy_tmp)
+nti <- ses.mntd(lizard_species_distribution_grid,phy.dist,null.model = 'taxa.labels')
+nri <- ses.mpd(lizard_species_distribution_grid,phy.dist,null.model = 'taxa.labels')
+faith_pd <- pd(lizard_species_distribution_grid,phy_tmp)
+print(head(nti))
+faith_pd$id <- row.names(faith_pd)
+nti$id <- row.names(nti)
+nri$id <- row.names(nri)
+lizard_phylog <- full_join(nri,nti,by = 'id') %>% full_join(faith_pd,by = 'id') %>% select(id,ntaxa.x,mpd.obs.z,mntd.obs.z,SR,PD)
+lizard_phylog$nti <- lizard_phylog$mntd.obs.z * (-1)
+lizard_phylog$nri <- lizard_phylog$mpd.obs.z * (-1)
+grid$id <- as.numeric(grid$id)
+lizard_phylog$id <- as.numeric(lizard_phylog$id)
+lizard_map <- left_join(lizard_phylog,grid,by = 'id')
+
+write.csv(lizard_phylog,'lizard_phylogenetic_diversity.csv',row.names = F)
+```
+
+```{r}
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = lizard_map,aes(fill = PD,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("lizard_faith_pd")+
+    labs(fill = "Faith's pd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = lizard_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("lizard_nri")+
+    labs(fill = 'Nearest Relative Index (NRI)')+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = lizard_map,aes(fill = nti,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    labs(fill = 'Nearest Taxon Index (NTI)')+
+    ggtitle("lizard_nti")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+## 鸟类
+
+```{r}
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = ave_map,aes(fill = PD,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("ave_faith_pd")+
+    labs(fill = "Faith's pd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = ave_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("ave_nri")+
+    labs(fill = 'Nearest Relative Index (NRI)')+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = ave_map,aes(fill = nti,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    labs(fill = 'Nearest Taxon Index (NTI)')+
+    ggtitle("ave_nti")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+## 哺乳类
+
+```{r}
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = mammal_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("mammal_faith_pd")+
+    labs(fill = "Faith's pd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = mammal_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("mammal_nri")+
+    labs(fill = 'Nearest Relative Index (NRI)')+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = mammal_map,aes(fill = nti,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    labs(fill = 'Nearest Taxon Index (NTI)')+
+    ggtitle("mammal_nti")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
