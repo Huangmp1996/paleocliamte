@@ -16,43 +16,57 @@ jupyter:
 library(tidyverse)
 library(raster)
 library(sf)
+library(FD)
 ```
 
-# 读入数据
-
-```{r}
-traits <- read.csv("COMBINE_mammal_traits_data//COMBINE_archives//trait_data_imputed.csv")
-Chinese_species_distribution_grid <- read.csv("../chinese_terrestral//species_distribution_grid_filtered.csv",
-                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
-                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
-chinese_traits <- traits[traits$iucn2020_binomial %in% unique(Chinese_species_distribution_grid$species),] # select chinese mammal
-```
-
-```{r}
-length(unique(chinese_traits$iucn2020_binomial)) # number of chinese mammal species
-```
-
-# 哺乳动物丰富度
+# 陆生哺乳动物丰富度
 
 ```{r}
 # calculate species richness
-mammals <- filter(Chinese_species_distribution_grid,class == 'mammal') %>%
-    group_by(grid_id) %>% summarize(richness = length(unique(species)))
+chinese_wild_life_list <- read.csv('../chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
+                        dplyr::select('scientificName','kingdomName','phylumName','className','orderName','familyName')
+Chinese_species_distribution_grid <- read.csv("../chinese_terrestral//species_distribution_grid_filtered.csv",
+                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                                group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup() %>% 
+                                                filter(class == 'mammal') %>% 
+                                                left_join(chinese_wild_life_list,by = c('species' = 'scientificName')) %>% 
+                                                filter(!(familyName %in% toupper(c('Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
+                                                                                   'Kogiidae','Dugongidae','Iniidae','Phocoenidae',
+                                                                                   'Physeteridae','Phocidae','Otariidae','Sirenia')))) %>% 
+                                                dplyr::select("class","species","grid_id")
+
+Chinese_species_distribution_grid$species %>% unique() %>% length() # number of Chinese mammal species have distribution
+mammals <- group_by(Chinese_species_distribution_grid,grid_id) %>% summarize(richness = length(unique(species)))
 china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
 grid <- st_read("../chinese_terrestral//input//grid.shp")
 south_ocean <- st_read("../chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
 map <- left_join(mammals,grid,by = c('grid_id'='id'))
-filter(Chinese_species_distribution_grid,class == 'mammal')$species %>% unique() %>% length()
 options(repr.plot.width=12, repr.plot.height=10)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("richness")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('mammal_species_richness.tiff',height = 7,width = 7,units = 'in',dpi=300)
+```
+
+# 读入数据
+
+```{r}
+traits <- read.csv("COMBINE_mammal_traits_data//COMBINE_archives//trait_data_imputed.csv")
+chinese_traits <- traits[traits$iucn2020_binomial %in% unique(Chinese_species_distribution_grid$species),]
+# select terrestrail chinese mammal
+chinese_traits <- chinese_traits[!(chinese_traits$family %in% c('Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae','Kogiidae','Dugongidae',
+                                                                'Iniidae','Phocoenidae','Physeteridae','Phocidae','Otariidae','Sirenia')),]
+```
+
+```{r}
+setdiff(unique(Chinese_species_distribution_grid$species),chinese_traits$iucn2020_binomial) # species have distribution but not have traits
+length(unique(chinese_traits$iucn2020_binomial)) # number of chinese mammal species
 ```
 
 # 数据清洗
@@ -60,7 +74,7 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
 ```{r}
 # data clean of chinese_traits
 # summary(chinese_traits)
-chinese_traits <- dplyr::select(chinese_traits,-c(order,family,genus,species,phylacine_binomial,adult_forearm_length_mm,maturity_d,male_maturity_d,
+chinese_traits <- dplyr::select(chinese_traits,-c(starts_with('det'),order,family,genus,species,phylacine_binomial,adult_forearm_length_mm,maturity_d,male_maturity_d,
                                                     teat_number_n,neonate_mass_g,weaning_mass_g,density_n_km2,home_range_km2,social_group_n,island_endemicity,
                                                     biogeographical_realm,glaciation,marine,freshwater,island_dwelling,disected_by_mountains,
                                                     dispersal_km,upper_elevation_m,lower_elevation_m,altitude_breadth_m,terrestrial_non.volant)
@@ -71,12 +85,15 @@ summary(chinese_traits)
 ```{r}
 # recode foraging_stratum
 unique(chinese_traits$foraging_stratum)
-chinese_traits$foraging_stratum <- dplyr::recode(chinese_traits$foraging_stratum,'Ar'=1,'G'=2,'A'=3,'S'=4)
-chinese_traits$hibernation_torpor <- as.factor(chinese_traits$hibernation_torpor)
-chinese_traits$fossoriality <- as.factor(chinese_traits$fossoriality)
-chinese_traits$foraging_stratum <- as.factor(chinese_traits$foraging_stratum)
-chinese_traits$activity_cycle <- as.factor(chinese_traits$activity_cycle)
-chinese_traits$terrestrial_volant <- as.factor(chinese_traits$terrestrial_volant)
+chinese_traits <- within(chinese_traits,{
+    foraging_stratum <- dplyr::recode(foraging_stratum,'Ar'=1,'G'=2,'A'=3,'S'=4,'M'=5)
+    hibernation_torpor <- as.factor(hibernation_torpor)
+    fossoriality <- as.factor(fossoriality)
+    foraging_stratum <- as.factor(foraging_stratum)
+    activity_cycle <- as.factor(activity_cycle)
+    terrestrial_volant <- as.factor(terrestrial_volant)
+}) %>% filter(!is.na(adult_mass_g))
+
 ```
 
 ```{r}
@@ -111,7 +128,8 @@ chinese_traits <- dplyr::select(chinese_traits,
                                 weaning_age_d,generation_length_d,
                                 hibernation_torpor,fossoriality,
                                 dphy_invertebrate,dphy_vertebrate,dphy_plant,
-                                det_vend,det_vect,det_vfish,det_vunk,det_scav,det_fruit,det_nect,det_seed,det_plantother,det_diet_breadth_n,trophic_level,
+                                # det_vend,det_vect,det_vfish,det_vunk,det_scav,det_fruit,det_nect,det_seed,det_plantother,det_diet_breadth_n,
+                                trophic_level,
                                 foraging_stratum,
                                 activity_cycle,
                                 terrestrial_volant,
@@ -119,7 +137,7 @@ chinese_traits <- dplyr::select(chinese_traits,
 ```
 
 ```{r}
-chinese_traits_missmfa <- missMDA::imputeMFA(chinese_traits,group=c(4,6,2,2,3,11,1,1,1,1),
+chinese_traits_missmfa <- missMDA::imputeMFA(chinese_traits,group=c(4,6,2,2,3,1,1,1,1,1),
                                              type=c(rep('s',3),'n',rep('s',2),rep('n',3),'s'))
 str(chinese_traits_missmfa$completeObs)
 ```
@@ -146,40 +164,40 @@ chinese_traits_imputed <- missForest::missForest(chinese_traits[,-1])
 ```{r}
 row.names(chinese_traits_missmfa$completeObs) <- row.names(chinese_traits)
 mfa <- FactoMineR::MFA(chinese_traits_missmfa$completeObs,
-                       group = c(4,6,2,2,3,11,1,1,1,1),
+                       group = c(4,6,2,2,3,1,1,1,1,1),
                        type = c(rep('s',3),'n',rep('s',2),rep('n',3),'s'),
-                       name.group = c('bodymass','reproduction','growth','hibernation','dphy_diet','det_diet','foraging_stratum','activity_cycle','fly','habitat_breadth'),
+                       name.group = c('bodymass','reproduction','growth','hibernation','dphy_diet','trophic_level','foraging_stratum','activity_cycle','fly','habitat_breadth'),
                        num.group.sup = c(1,10),
                        ncp = 5)
 ```
 
-### 结果可视化
+## 结果可视化
 
 ```{r}
 library(factoextra)
+options(repr.plot.width=9,repr.plot.height=6)
 eig.val <- get_eigenvalue(mfa)
-head(eig.val,n=15)
 fviz_screeplot(mfa,addlabels = TRUE,ncp=10)
 ```
 
 ```{r}
-fviz_mfa_var(mfa, "group") # the correlation between groups and dimensions. red color = active groups of variables; green color = supplementary groups of variables
-```
-
-```{r}
-fviz_mfa_var(mfa, "quanti.var", palette = "jco", 
+options(repr.plot.width=18,repr.plot.height=14)
+p1 <- fviz_mfa_var(mfa, "group") # the correlation between groups and dimensions. red color = active groups of variables; green color = supplementary groups of variables
+p2 <- fviz_mfa_var(mfa, "quanti.var", palette = "jco", 
              col.var.sup = "violet", repel = TRUE, 
             geom = c("point", "text"), legend = "bottom") # Correlation between quantitative variables and dimensions
 # Contributions to dimension 1
-fviz_contrib(mfa, choice = "quanti.var", axes = 1, top = 20,
+p3 <- fviz_contrib(mfa, choice = "quanti.var", axes = 1, top = 20,
              palette = "jco")
 # Contributions to dimension 2
-fviz_contrib(mfa, choice = "quanti.var", axes = 2, top = 20,
+p4 <- fviz_contrib(mfa, choice = "quanti.var", axes = 2, top = 20,
              palette = "jco")
+ggpubr::ggarrange(p1,p2,p3,p4,ncol = 2,nrow = 2)
 ```
 
 ```{r}
 # functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+options(repr.plot.width=14,repr.plot.height=12)
 fviz_mfa_ind(mfa, col.ind = "cos2", 
              gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
              repel = TRUE)
@@ -190,28 +208,10 @@ ind_mfa <- get_mfa_ind(mfa)$coord
 head(ind_mfa)
 ```
 
-## PCA
-
-```{r}
-# # PCA
-# library(psych)
-# paran::paran(chinese_traits_imputed$ximp,iterations = 5000) # Horn's method for determining the number of retaining principal components
-# princomp <- princomp(chinese_traits_imputed$ximp,cor = T)
-# summary(princomp,loadings = TRUE)
-# fit <- principal(chinese_traits_imputed$ximp, nfactors=7,rotate="varimax") # extract PCA result
-# PC <- as.data.frame(fit$scores)
-```
-
-```{r}
-# nrow(PC)
-# traits_PCA <- cbind(chinese_traits$species,PC)
-# colnames(traits_PCA)[1] <- "species"
-# length(unique(traits_PCA$species))
-# traits_PCA <- traits_PCA[!duplicated(traits_PCA$species),]
-# head(traits_PCA)
-```
-
 # 计算功能多样性
+
+
+## total
 
 ```{r}
 # # distribution data
@@ -226,31 +226,137 @@ Chinese_species_distribution_grid_selected <- spread(Chinese_species_distributio
 
 # to matrix
 Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
-grid_id <- Chinese_species_distribution_grid_selected$grid_id
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, 'grid_id', row.names(ind_mfa)) %>% 
+                                                        as.matrix()
+row.names(Chinese_species_distribution_grid_selected) <- Chinese_species_distribution_grid_selected[,1]
 Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
-Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, row.names(ind_mfa)) %>% data.matrix()
-rownames(Chinese_species_distribution_grid_selected) <- grid_id
-nrow(Chinese_species_distribution_grid_selected) # sites that has mammal
-
-# row.names(traits_PCA) <- traits_PCA[,1] # transform to matrix
-# traits_PCA <- traits_PCA[,+-1] %>% data.matrix()
+nrow(Chinese_species_distribution_grid_selected) # sites that has species
 ```
 
 ```{r}
-# head(china_sub)
-head(ind_mfa)
-library(FD)
-FD <- dbFD(ind_mfa,Chinese_species_distribution_grid_selected)
+# # head(china_sub)
+# head(ind_mfa)
+# FD <- dbFD(ind_mfa,Chinese_species_distribution_grid_selected)
 ```
 
 ```{r}
-result <- data.frame(FD$FRic,FD$FEve,FD$FDiv,FD$FDis,FD$RaoQ)
-result <- mutate(result,grid_id = as.numeric(grid_id))
-write.csv(result,"result_mammal.csv",row.names=F)
+# result <- data.frame(FD$FRic,FD$FEve,FD$FDiv,FD$FDis,FD$RaoQ)
+# result <- mutate(result,grid_id = as.numeric(row.names(result)))
+# write.csv(result,"result_mammal.csv",row.names=F)
+result <- read.csv('result_mammal.csv')
 result <- left_join(result, grid, by = c('grid_id'='id'))
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = result,aes(fill = FD.FRic,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = result,aes(fill = FD.FRic,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FRic")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('mammam_FRic.tiff',height= 7,width= 7,units= 'in', dpi= 300)
+```
+
+```{r}
+p5 <- ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.FEve,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FEve")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+p6 <- ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.FDiv,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FDiv")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+p7 <- ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.FDis,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FDis")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+p8 <- ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result,aes(fill = FD.RaoQ,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("RaoQ")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggpubr::ggarrange(p5,p6,p7,p8,ncol = 2,nrow = 2)
+ggsave('mammam_FEve.tiff',p5,height= 7,width= 7,units= 'in', dpi= 300)
+ggsave('mammam_FDiv.tiff',p6,height= 7,width= 7,units= 'in', dpi= 300)
+```
+
+## det diet
+
+```{r}
+det <- dplyr::select(chinese_traits_missmfa$completeObs,starts_with('dphy'))
+# PCA
+paran::paran(det,iterations = 5000) # Horn's method for determining the number of retaining principal components
+princomp <- princomp(det,cor = T)
+pca_var <- get_pca_var(princomp)
+# head(pca_var$contrib)
+options(repr.plot.width=9,repr.plot.height=6)
+# Contributions to dimension 1
+p9 <- fviz_contrib(princomp, choice = "var", axes = 1, top = 20,
+             palette = "jco")
+# Contributions to dimension 2
+p10 <- fviz_contrib(princomp, choice = "var", axes = 2, top = 20,
+             palette = "jco")
+ggpubr::ggarrange(p9,p10,ncol = 2,nrow = 1)
+# functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+options(repr.plot.width=14,repr.plot.height=12)
+fviz_pca_ind(princomp, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE)
+
+ind_pca <- get_pca_ind(princomp)$coord[,1:3]
+```
+
+```{r}
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- filter(
+                                                    Chinese_species_distribution_grid,
+                                                    species %in% unique(row.names(ind_pca))
+                                                    ) %>% 
+                                              dplyr::select(grid_id,species)
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,species,occurrence) 
+Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
+
+# to matrix
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, 'grid_id', row.names(ind_pca)) %>% 
+                                                        as.matrix()
+row.names(Chinese_species_distribution_grid_selected) <- Chinese_species_distribution_grid_selected[,1]
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+nrow(Chinese_species_distribution_grid_selected) # sites that has species
+```
+
+```{r}
+FD_det <- dbFD(ind_pca,Chinese_species_distribution_grid_selected)
+```
+
+```{r}
+result_det <- data.frame(FD_det$FRic,FD_det$FEve,FD_det$FDiv,FD_det$FDis,FD_det$RaoQ)
+result_det <- mutate(result_det,grid_id = as.numeric(row.names(result_det)))
+# write.csv(result_det,"result_det_mammal.csv",row.names=F)
+result_det <- left_join(result_det, grid, by = c('grid_id'='id'))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result_det,aes(fill = FD_det.FRic,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("FRic")+
     theme_bw()+
@@ -259,44 +365,156 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
           plot.title = element_text(hjust = 0.5))
 ```
 
+## body mass
+
 ```{r}
+mass <- dplyr::select(chinese_traits_missmfa$completeObs,adult_mass_g,brain_mass_g,adult_body_length_mm,max_longevity_d)
+# PCA
+library(psych)
+# paran::paran(mass,iterations = 5000) # Horn's method for massermining the number of retaining principal components
+princomp <- princomp(mass,cor = T)
+pca_var <- get_pca_var(princomp)
+options(repr.plot.width=9,repr.plot.height=6)
+fviz_screeplot(princomp)
+# Contributions to dimension 1
+p11 <- fviz_contrib(princomp, choice = "var", axes = 1, top = 20,
+             palette = "jco")
+# Contributions to dimension 2
+p12 <- fviz_contrib(princomp, choice = "var", axes = 2, top = 20,
+             palette = "jco")
+ggpubr::ggarrange(p11,p12,ncol = 2,nrow = 1)
+# functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+options(repr.plot.width=14,repr.plot.height=12)
+fviz_pca_ind(princomp, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE)
+
+ind_pca <- get_pca_ind(princomp)$coord[,1:2]
+```
+
+```{r}
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- filter(
+                                                    Chinese_species_distribution_grid,
+                                                    species %in% unique(row.names(ind_pca))
+                                                    ) %>% 
+                                              dplyr::select(grid_id,species)
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,species,occurrence) 
+Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
+
+# to matrix
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, 'grid_id', row.names(ind_pca)) %>% 
+                                                        as.matrix()
+row.names(Chinese_species_distribution_grid_selected) <- Chinese_species_distribution_grid_selected[,1]
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+nrow(Chinese_species_distribution_grid_selected) # sites that has species
+```
+
+```{r}
+FD_mass <- dbFD(ind_pca,Chinese_species_distribution_grid_selected)
+```
+
+```{r}
+result_mass <- data.frame(FD_mass$FRic,FD_mass$FEve,FD_mass$FDiv,FD_mass$FDis,FD_mass$RaoQ)
+result_mass <- mutate(result_mass,grid_id = as.numeric(row.names(result_mass)))
+write.csv(result_mass,"result_mass_mammal.csv",row.names=F)
+result_mass <- left_join(result_mass, grid, by = c('grid_id'='id'))
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = result,aes(fill = FD.FEve,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result_mass,aes(fill = FD_mass.FRic,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
-    ggtitle("FEve")+
+    ggtitle("FRic")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
 ```
 
+## reproduction
+
 ```{r}
+reproduction <- dplyr::select(chinese_traits_missmfa$completeObs,female_maturity_d,age_first_reproduction_d,gestation_length_d,
+                      litter_size_n,litters_per_year_n,interbirth_interval_d,weaning_age_d,generation_length_d)
+# PCA
+library(psych)
+# paran::paran(reproduction,iterations = 5000) # Horn's method for reproductionermining the number of retaining principal components
+princomp <- princomp(reproduction,cor = T)
+pca_var <- get_pca_var(princomp)
+options(repr.plot.width=9,repr.plot.height=6)
+fviz_screeplot(princomp)
+# Contributions to dimension 1
+p13 <- fviz_contrib(princomp, choice = "var", axes = 1, top = 20,
+             palette = "jco")
+# Contributions to dimension 2
+p14 <- fviz_contrib(princomp, choice = "var", axes = 2, top = 20,
+             palette = "jco")
+ggpubr::ggarrange(p13,p14,ncol = 2,nrow = 1)
+# functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+options(repr.plot.width=14,repr.plot.height=12)
+fviz_pca_ind(princomp, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE)
+
+ind_pca <- get_pca_ind(princomp)$coord[,1:2]
+```
+
+```{r}
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- filter(
+                                                    Chinese_species_distribution_grid,
+                                                    species %in% unique(row.names(ind_pca))
+                                                    ) %>% 
+                                              dplyr::select(grid_id,species)
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,species,occurrence) 
+Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
+
+# to matrix
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, 'grid_id', row.names(ind_pca)) %>% 
+                                                        as.matrix()
+row.names(Chinese_species_distribution_grid_selected) <- Chinese_species_distribution_grid_selected[,1]
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+nrow(Chinese_species_distribution_grid_selected) # sites that has species
+```
+
+```{r}
+FD_reproduction <- dbFD(ind_pca,Chinese_species_distribution_grid_selected)
+```
+
+```{r}
+result_reproduction <- data.frame(FD_reproduction$FRic,FD_reproduction$FEve,FD_reproduction$FDiv,FD_reproduction$FDis,FD_reproduction$RaoQ)
+result_reproduction <- mutate(result_reproduction,grid_id = as.numeric(row.names(result_reproduction)))
+write.csv(result_reproduction,"result_reproduction_mammal.csv",row.names=F)
+result_reproduction <- left_join(result_reproduction, grid, by = c('grid_id'='id'))
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = result,aes(fill = FD.FDiv,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result_reproduction,aes(fill = FD_reproduction.FRic,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
-    ggtitle("FDiv")+
+    ggtitle("FRic")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
 ```
 
-```{r}
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = result,aes(fill = FD.FDis,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
-    ggtitle("FDis")+
-    theme_bw()+
-    theme(panel.grid.major=element_blank(),
-          panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
-```
+# Funtional rarity
 
 ```{r}
+dist_matrix <- funrar::compute_dist_matrix(chinese_traits_missmfa$completeObs,metric = "gower")
+funrar <- funrar::funrar(Chinese_species_distribution_grid_selected, dist_matrix, rel_abund = FALSE)
+uniqueness <- left_join(funrar$Ui,Chinese_species_distribution_grid,by = 'species')
+uniq_top_30_sp <- arrange(funrar$Ui,desc(Ui))[1:60,]$species
+top_30_tb <- filter(uniqueness,species %in% uniq_top_30_sp) %>% group_by(grid_id) %>% summarise(species_number=length(species))
+
+top_30_tb_map <- left_join(top_30_tb, grid, by = c('grid_id'='id'))
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = result,aes(fill = FD.RaoQ,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = top_30_tb_map,aes(fill = species_number,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
-    ggtitle("RaoQ")+
+    ggtitle("rar_top_30_dis")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
