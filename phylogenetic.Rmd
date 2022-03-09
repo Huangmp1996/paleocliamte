@@ -16,16 +16,41 @@ jupyter:
 library(picante)
 library(tidyverse)
 library(sf)
+library(ggtree)
+```
+
+# 可视化
+
+```{r}
+phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
+```
+
+```{r}
+label <- as.data.frame(phy$tip.label)
+colnames(label) <- c('taxa')
+label <- tidyr::separate(label,taxa,into = c('class','order','family','genus','species'),remove = F) %>% select(taxa,class)
+group_by(label,class) %>% summarise(sum=length(taxa))
+groupInfo <- split(label$taxa, label$class)
+```
+
+```{r}
+tree <- ggtree::groupOTU(phy, groupInfo)
+ggtree(tree, layout="fan", ladderize = FALSE,aes(color=group)) +  geom_treescale()+
+    theme(legend.position = "right")
+ggsave('tree2.treefile.dated.tree_with_outgroup.pdf',height = 250,width = 250,units = 'mm')
 ```
 
 # 计算系统发育多样性
+
+
+## 计算
 
 ```{r}
 phylogenetic_calculate <- function(taxon){
     library(dplyr)
     library(picante)
     library(tidyr)
-    phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree")
+    phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
     # select taxon distribution
     chinese_wild_life_list <- read.csv('chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
                             select('scientificName','kingdomName','phylumName','className','orderName','familyName')
@@ -34,12 +59,14 @@ phylogenetic_calculate <- function(taxon){
                                         group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
     Chinese_species_distribution_grid <- left_join(Chinese_species_distribution_grid,chinese_wild_life_list,by = c('species' = 'scientificName'))
     Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid,class %in% taxon,
-                                                         !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
-                                                                           'Phaethontidae','Diomedeidae','Stercorariidae','Sulidae',
-                                                                           'Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae', # marine bird
-                                                                           'Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
-                                                                           'Kogiidae','Dugongidae','Iniidae','Phocoenidae','Physeteridae',
-                                                                           'Phocidae','Otariidae','Sirenia')))) %>%  # marine mammal
+                                                     !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
+                                                                       'Phaethontidae','Diomedeidae','Stercorariidae','Sulidae',
+                                                                       'Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae', # marine bird
+                                                                       'Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
+                                                                       'Kogiidae','Dugongidae','Iniidae','Phocoenidae','Physeteridae',
+                                                                       'Phocidae','Otariidae','Sirenia',# marine mammal
+                                                                        'Dermochelyidae','Cheloniidae'))), # sea turtle
+                                                    !(genusName %in% c('Emydocephalus','Hydrophis','Laticauda'))) %>%  # sea snake
                                                     dplyr::select(grid_id,className,orderName,familyName,species) %>% as.data.frame() 
     Chinese_species_distribution_grid_selected$species <- gsub(" ","_",Chinese_species_distribution_grid_selected$species)
     Chinese_species_distribution_grid_selected <- tidyr::unite(Chinese_species_distribution_grid_selected,taxa,
@@ -76,30 +103,59 @@ phylogenetic_calculate <- function(taxon){
 ```
 
 ```{r}
-taxon <- c('amphibian','ave','mammal')
+# species with phylogeny
+phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
+# select taxon distribution
+chinese_wild_life_list <- read.csv('chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
+                        select('scientificName','kingdomName','phylumName','className','orderName','familyName','genusName')
+Chinese_species_distribution_grid <- read.csv("./chinese_terrestral//species_distribution_grid_filtered.csv",
+                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+Chinese_species_distribution_grid <- left_join(Chinese_species_distribution_grid,chinese_wild_life_list,by = c('species' = 'scientificName'))
+Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid,
+                                                     !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
+                                                                       'Phaethontidae','Diomedeidae','Stercorariidae','Sulidae',
+                                                                       'Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae', # marine bird
+                                                                       'Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
+                                                                       'Kogiidae','Dugongidae','Iniidae','Phocoenidae','Physeteridae',
+                                                                       'Phocidae','Otariidae','Sirenia',# marine mammal
+                                                                        'Dermochelyidae','Cheloniidae'))), # sea turtle
+                                                    !(genusName %in% c('Emydocephalus','Hydrophis','Laticauda'))) %>%  # sea snake
+                                                dplyr::select(grid_id,className,orderName,familyName,species) %>% as.data.frame() 
+Chinese_species_distribution_grid_selected$species <- gsub(" ","_",Chinese_species_distribution_grid_selected$species)
+Chinese_species_distribution_grid_selected <- tidyr::unite(Chinese_species_distribution_grid_selected,taxa,
+                                                            c(className,orderName,familyName,species),sep = '_',remove = F) %>% 
+                                                    select(className,taxa)  %>% distinct()
+Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid_selected,taxa %in% phy$tip.label)
+table(Chinese_species_distribution_grid_selected$className)
+```
 
-library(foreach)
-library(doParallel)
-print(paste0('CPUs_used:',length(taxon)))
-cl <- makeCluster(length(taxon))
-registerDoParallel(cl)
-phylog_list <- foreach(
-    i = taxon,
-    .combine = list,
-    .packages = c("picante","dplyr",'tidyr'),
-    .verbose = T
-) %dopar% phylogenetic_calculate(i)
-stopCluster(cl)
+```{r}
+# taxon <- c('amphibian','ave','mammal')
+
+# library(foreach)
+# library(doParallel)
+# print(paste0('CPUs_used:',length(taxon)))
+# cl <- makeCluster(length(taxon))
+# registerDoParallel(cl)
+# phylog_list <- foreach(
+#     i = taxon,
+#     .combine = list,
+#     .packages = c("picante","dplyr",'tidyr'),
+#     .verbose = T
+# ) %dopar% phylogenetic_calculate(i)
+# stopCluster(cl)
 ```
 
 ## 导入系统发育多样性计算结果
 
 ```{r}
 amphibian_phylog <- read.csv("./amphibian_phylogenetic_diversity.csv") %>% 
-                        select(grid_id,paste0('amphibian_',c(ntaxa.x,mpd.obs.z,mntd.obs.z,SR,PD)))
-ave_phylog <- read.csv("./ave_phylogenetic_diversity.csv") %>% select(grid_id,ntaxa.x,mpd.obs.z,mntd.obs.z,SR,PD)
-mammal_phylog <- read.csv("./mammal_phylogenetic_diversity.csv") %>% select(grid_id,ntaxa.x,mpd.obs.z,mntd.obs.z,SR,PD)
-
+                        select(grid_id,paste0('amphibian_',c('ntaxa.x','NRI','NTI','pd.obs','pd.obs.z')))
+ave_phylog <- read.csv("./ave_phylogenetic_diversity.csv") %>% 
+                        select(grid_id,paste0('ave_',c('ntaxa.x','NRI','NTI','pd.obs','pd.obs.z')))
+mammal_phylog <- read.csv("./mammal_phylogenetic_diversity.csv") %>% 
+                        select(grid_id,paste0('mammal_',c('ntaxa.x','NRI','NTI','pd.obs','pd.obs.z')))
 ```
 
 ## 地图
@@ -108,6 +164,9 @@ mammal_phylog <- read.csv("./mammal_phylogenetic_diversity.csv") %>% select(grid
 china_map <- st_read("./chinese_terrestral//SHP//China_map.shp")
 grid <- st_read("./chinese_terrestral//input//grid.shp")
 south_ocean <- st_read("./chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
+```
+
+```{r}
 amphibian_map <- left_join(amphibian_phylog,grid,by = c('grid_id'='id'))
 ave_map <- left_join(ave_phylog,grid,by = c('grid_id'='id'))
 mammal_map <- left_join(mammal_phylog,grid,by = c('grid_id'='id'))
@@ -123,7 +182,7 @@ options(repr.plot.width=12, repr.plot.height=10)
 
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = amphibian_map,aes(fill = PD,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = amphibian_map,aes(fill = amphibian_pd.obs,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("amphibian_faith_pd")+
     labs(fill = "Faith's pd")+
@@ -131,9 +190,21 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('amphibian/amphibian_faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = amphibian_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = amphibian_map,aes(fill = amphibian_pd.obs.z,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("amphibian_ses.faith_pd")+
+    labs(fill = "Faith's pd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('amphibian/amphibian_ses.faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = amphibian_map,aes(fill =amphibian_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("amphibian_nri")+
     labs(fill = 'Nearest Relative Index (NRI)')+
@@ -141,9 +212,10 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('amphibian/amphibian_NRI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = amphibian_map,aes(fill = nti,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = amphibian_map,aes(fill = amphibian_NTI,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     labs(fill = 'Nearest Taxon Index (NTI)')+
     ggtitle("amphibian_nti")+
@@ -151,57 +223,60 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('amphibian/amphibian_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
 ## 蜥蜴类
 
 ```{r}
-squamate_phy <- read.tree('reptile/data_reptile/squam_shl_new_Consensus_9755.tre')
-chinese_lizards <- read.csv('reptile/data_reptile/Spatial_patterns_in_the_size_of_Chinese_lizards/Appendix_data.csv') %>% 
-                        select(Species,Name_in_Tonini_et_al_2016) %>% filter(!is.na(Name_in_Tonini_et_al_2016))
 lizard_species_distribution_grid  <- read.csv('./reptile/lizard_species_distribution_grid.csv') %>% 
-                                        right_join(chinese_lizards,by = c('Binomial'='Species')) %>% select(id,Name_in_Tonini_et_al_2016)
-lizard_species_distribution_grid$Name_in_Tonini_et_al_2016 <- gsub(' ','_',lizard_species_distribution_grid$Name_in_Tonini_et_al_2016)
+                                        group_by(Binomial,id) %>% summarise(area = sum(area)) %>% ungroup()
+taxonomy <- read.table('./chinese_terrestral/chinese_wildlife_list/taxonomy_.csv',sep=',',col.names='taxa')
+taxonomy <- tidyr::separate(taxonomy,taxa,into=c('className','orderName','familyName','genusName','speciesName'),remove=F) %>% 
+            tidyr::unite(species,c(genusName,speciesName),sep = ' ')
+lizard_species_distribution_grid <- left_join(lizard_species_distribution_grid,taxonomy,by = c('Binomial'='species')) %>% 
+                                        select(id,taxa)
 ```
 
 ```{r}
-tips <- lizard_species_distribution_grid$Name_in_Tonini_et_al_2016
-tips <- intersect(squamate_phy$tip.label,tips)
-phy_tmp <- keep.tip(squamate_phy,tips)
+phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
+tips <- intersect(phy$tip.label,lizard_species_distribution_grid$taxa)
+phy_tmp <- keep.tip(phy,tips)
+lizard_species_distribution_grid <- filter(lizard_species_distribution_grid,taxa %in% tips)
 ```
 
 ```{r}
 lizard_species_distribution_grid$occurrence <- rep(1,nrow(lizard_species_distribution_grid))
-lizard_species_distribution_grid <- spread(lizard_species_distribution_grid,Name_in_Tonini_et_al_2016,occurrence)
+lizard_species_distribution_grid <- spread(lizard_species_distribution_grid,taxa,occurrence)
 lizard_species_distribution_grid[is.na(lizard_species_distribution_grid)] <- 0
-row.names(lizard_species_distribution_grid) <- lizard_species_distribution_grid$id
+grid_id <- lizard_species_distribution_grid$id
 lizard_species_distribution_grid <- lizard_species_distribution_grid[,-1]
 lizard_species_distribution_grid <- as.matrix(lizard_species_distribution_grid)
+row.names(lizard_species_distribution_grid) <- paste0('grid_',grid_id)
 ```
 
 ```{r}
 phy.dist <- cophenetic(phy_tmp)
-nti <- ses.mntd(lizard_species_distribution_grid,phy.dist,null.model = 'taxa.labels')
-nri <- ses.mpd(lizard_species_distribution_grid,phy.dist,null.model = 'taxa.labels')
-faith_pd <- pd(lizard_species_distribution_grid,phy_tmp)
-print(head(nti))
-faith_pd$id <- row.names(faith_pd)
-nti$id <- row.names(nti)
-nri$id <- row.names(nri)
-lizard_phylog <- full_join(nri,nti,by = 'id') %>% full_join(faith_pd,by = 'id') %>% select(id,ntaxa.x,mpd.obs.z,mntd.obs.z,SR,PD)
-lizard_phylog$nti <- lizard_phylog$mntd.obs.z * (-1)
-lizard_phylog$nri <- lizard_phylog$mpd.obs.z * (-1)
-grid$id <- as.numeric(grid$id)
-lizard_phylog$id <- as.numeric(lizard_phylog$id)
-lizard_map <- left_join(lizard_phylog,grid,by = 'id')
+nti <- ses.mntd(lizard_species_distribution_grid,phy.dist,null.model = 'taxa.labels') %>% mutate(NTI = -1*mntd.obs.z)
+nri <- ses.mpd(lizard_species_distribution_grid,phy.dist,null.model = 'taxa.labels') %>% mutate(NRI = -1*mpd.obs.z)
+faith_pd <- ses.pd(lizard_species_distribution_grid,phy_tmp,include.root=TRUE)
 
-write.csv(lizard_phylog,'lizard_phylogenetic_diversity.csv',row.names = F)
+faith_pd$grid_id <- row.names(faith_pd)
+nti$grid_id <- row.names(nti)
+nri$grid_id <- row.names(nri)
+lizard_phylog <- full_join(nri,nti,by = 'grid_id') %>% full_join(faith_pd,by = 'grid_id') %>% 
+                        select(grid_id,ntaxa.x,NRI,NTI,pd.obs,pd.obs.z)
+colnames(lizard_phylog) <- ifelse(colnames(lizard_phylog)!='grid_id',paste0('lizard','_',colnames(lizard_phylog)),'grid_id')
+grid$id <- as.numeric(grid$id)
+lizard_phylog$grid_id <- gsub('grid_','',lizard_phylog$grid_id) %>% as.numeric()
+# write.csv(lizard_phylog,'lizard_phylogenetic_diversity.csv',row.names = F)
 ```
 
 ```{r}
+lizard_map <- left_join(lizard_phylog,grid,by = c('grid_id'='id'))
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = lizard_map,aes(fill = PD,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = lizard_map,aes(fill = lizard_pd.obs,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("lizard_faith_pd")+
     labs(fill = "Faith's pd")+
@@ -209,9 +284,21 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('reptile/lizard_faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = lizard_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = lizard_map,aes(fill = lizard_pd.obs.z,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("lizard_ses.faith_pd")+
+    labs(fill = "ses.Faith's pd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('reptile/lizard_ses.faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = lizard_map,aes(fill = lizard_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("lizard_nri")+
     labs(fill = 'Nearest Relative Index (NRI)')+
@@ -219,9 +306,10 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('reptile/lizard_NRI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = lizard_map,aes(fill = nti,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = lizard_map,aes(fill = lizard_NTI,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     labs(fill = 'Nearest Taxon Index (NTI)')+
     ggtitle("lizard_nti")+
@@ -229,6 +317,7 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('reptile/lizard_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
 ## 鸟类
@@ -236,7 +325,7 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
 ```{r}
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = ave_map,aes(fill = PD,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = ave_map,aes(fill = ave_pd.obs,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("ave_faith_pd")+
     labs(fill = "Faith's pd")+
@@ -244,9 +333,21 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('Ave/bird_faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = ave_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = ave_map,aes(fill = ave_pd.obs.z,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("ave_ses.faith_pd")+
+    labs(fill = "ses.Faith's pd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('Ave/bird_ses.faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = ave_map,aes(fill = ave_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("ave_nri")+
     labs(fill = 'Nearest Relative Index (NRI)')+
@@ -254,9 +355,10 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('Ave/bird_NRI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = ave_map,aes(fill = nti,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = ave_map,aes(fill = ave_NTI,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     labs(fill = 'Nearest Taxon Index (NTI)')+
     ggtitle("ave_nti")+
@@ -264,6 +366,7 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('Ave/bird_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
 ## 哺乳类
@@ -271,7 +374,7 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
 ```{r}
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = mammal_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = mammal_map,aes(fill = mammal_pd.obs,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("mammal_faith_pd")+
     labs(fill = "Faith's pd")+
@@ -279,9 +382,21 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('mammal/mammal_faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = mammal_map,aes(fill = nri,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = mammal_map,aes(fill = mammal_pd.obs.z,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("mammal_ses.faith_pd")+
+    labs(fill = "ses.Faith's pd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('mammal/mammal_ses.faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = mammal_map,aes(fill = mammal_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("mammal_nri")+
     labs(fill = 'Nearest Relative Index (NRI)')+
@@ -289,9 +404,10 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('mammal/mammal_NRI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = mammal_map,aes(fill = nti,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = mammal_map,aes(fill = mammal_NTI,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     labs(fill = 'Nearest Taxon Index (NTI)')+
     ggtitle("mammal_nti")+
@@ -299,4 +415,166 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('mammal/mammal_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
+```
+
+# β diversity
+
+```{r}
+phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
+# select taxon distribution
+chinese_wild_life_list <- read.csv('chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
+                        select('scientificName','kingdomName','phylumName','className','orderName','familyName','genusName')
+Chinese_species_distribution_grid <- read.csv("./chinese_terrestral//species_distribution_grid_filtered.csv",
+                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+Chinese_species_distribution_grid <- left_join(Chinese_species_distribution_grid,chinese_wild_life_list,by = c('species' = 'scientificName'))
+Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid,
+                                                     !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
+                                                                       'Phaethontidae','Diomedeidae','Stercorariidae','Sulidae',
+                                                                       'Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae', # marine bird
+                                                                       'Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
+                                                                       'Kogiidae','Dugongidae','Iniidae','Phocoenidae','Physeteridae',
+                                                                       'Phocidae','Otariidae','Sirenia',# marine mammal
+                                                                        'Dermochelyidae','Cheloniidae'))), # sea turtle
+                                                    !(genusName %in% c('Emydocephalus','Hydrophis','Laticauda'))) %>%  # sea snake
+                                                dplyr::select(grid_id,className,orderName,familyName,species) %>% as.data.frame() 
+Chinese_species_distribution_grid_selected$species <- gsub(" ","_",Chinese_species_distribution_grid_selected$species)
+Chinese_species_distribution_grid_selected <- tidyr::unite(Chinese_species_distribution_grid_selected,taxa,
+                                                            c(className,orderName,familyName,species),sep = '_',remove = F) %>% 
+                                                    select(grid_id,taxa)
+```
+
+## phyloregion
+
+```{r}
+library(phyloregion)
+```
+
+```{r}
+phy$tip.label <- str_extract(phy$tip.label,'[A-Z](?=[a-z])(.+)')
+Chinese_species_distribution_grid_selected$taxa <- str_extract(Chinese_species_distribution_grid_selected$taxa,'[A-Z](?=[a-z])(.+)')
+Chinese_species_distribution_grid_selected_sparse <- phyloregion::long2sparse(Chinese_species_distribution_grid_selected,
+                                                                              grids = 'grid_id',species = 'taxa')
+subphy <- phyloregion::match_phylo_comm(phy,Chinese_species_distribution_grid_selected_sparse,delete_empty_rows = T)$phy
+submat <- phyloregion::match_phylo_comm(phy,Chinese_species_distribution_grid_selected_sparse,delete_empty_rows = T)$com
+beta_mat <- phyloregion::phylobeta(submat,subphy)
+str(beta_mat) #where βsor is Sørensen dissimilarity, βsim is Simpson dissimilarity (= turnover component of Sørensen dissimilarity), βsne is the nestedness component of Sørensen dissimilarity
+```
+
+```{r}
+optim <- optimal_phyloregion(beta_mat$phylo.beta.sor, method = "average", k = 20)
+```
+
+```{r}
+str(optim)
+```
+
+```{r}
+phylore <- phyloregion(beta_mat$phylo.beta.sor, k = optim$optimal$k, method = "average")
+```
+
+```{r}
+str(phylore)
+```
+
+```{r}
+head(phylore$membership)
+phylore$membership$cluster <- as.factor(phylore$membership$cluster)
+grid$id <- as.character(grid$id)
+cluster_cut_map <- left_join(phylore$membership,grid,by = c('grids'='id'))
+options(repr.plot.width=14, repr.plot.height=12)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = cluster_cut_map,aes(fill = cluster,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_manual(values =c("#C1D84D", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#990000","#9900cc","#66FF66","#663300","#354DD2","#CC0033","#660066"))+ # fill 
+    ggtitle("phyloregions")+
+    labs(fill = "phylo realms")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('phyloregions.tiff',width = 7,height = 7,units = 'in',dpi = 300)
+```
+
+## nestedness
+
+```{r}
+beta_ratio_cal <- function(i, phylo.beta.sor.long, phylo.beta.sne.long){
+    no. <-  c((i-103):(i-101),i-1,i+1,(i+101):(i+103))
+    sor_mean <- filter(phylo.beta.sor.long,row == i, col %in% no.) %>% pull(value) %>% mean()
+    sne_mean <- filter(phylo.beta.sne.long,row == i, col %in% no.) %>% pull(value) %>% mean()
+    ratio <- sne_mean/sor_mean
+    result <- data.frame(i,ratio)
+    return(result)
+}
+```
+
+```{r}
+phylo.beta.sor.long <- reshape2::melt(as.matrix(beta_mat$phylo.beta.sor), varnames = c("row", "col"))
+phylo.beta.sne.long <- reshape2::melt(as.matrix(beta_mat$phylo.beta.sne), varnames = c("row", "col"))
+
+library("doParallel")      #加载doParallel包用于之后注册进程
+library("foreach")         #导入foreach包
+cl <- makeCluster(40)      
+registerDoParallel(cl)       #进行进程注册
+beta_ratio <- foreach(
+    i = unique(phylo.beta.sor.long$row),          #输入等待请求的参数
+    .export = c('phylo.beta.sor.long', 'phylo.beta.sne.long'),
+    .combine = rbind,  #返回结果的整合
+    .packages = c("dplyr","magrittr") #多个进程共享的系统环境
+) %dopar% beta_ratio_cal(i, phylo.beta.sor.long, phylo.beta.sne.long)
+stopCluster(cl)
+
+```
+
+```{r}
+beta_ratio$i <- as.character(beta_ratio$i)
+beta_ratio_map <- left_join(beta_ratio,grid,by = c('i'='id'))
+options(repr.plot.width=14, repr.plot.height=12)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = beta_ratio_map,aes(fill = ratio,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("beta_nestedness_ratio")+
+    labs(fill = "nestedness")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('beta_nestedness_ratio.tiff',width = 7,height = 7,units = 'in',dpi = 300)
+write.csv(beta_ratio,'beta_ratio.csv',row.names = F)
+```
+
+```{r}
+library(DHARMa)
+env <- read.csv("./environment_variables.csv")
+env$id <- as.character(env$id)
+df <- left_join(beta_ratio,env,by = c('i'='id')) %>% select(i, x, y, prec, tavg, LGM_tavg_velocity,dem_value,ratio) %>% na.omit() 
+df <- df[,4:8]%>% scale() %>% as.data.frame() %>% cbind(df[,1:3])
+fml <- as.formula('ratio ~ prec + tavg + LGM_tavg_velocity + dem_value')
+print(fml)
+m_non <- lm(fml, df)
+# # plot residuals
+# df$resid <- resid(m_non)
+# ggplot(df, aes(x = x, y = y, size = resid)) +
+#   geom_point(alpha=0.2) +
+#   scale_size_continuous(range = c(0.1,3))
+
+# formal test
+sims <- simulateResiduals(m_non)
+moran <- testSpatialAutocorrelation(sims, x = df$x, y = df$y, plot = FALSE) # # need to take into account space if p < 0.05
+print(moran)
+if (moran$p.value < 0.05){
+    # fit the model
+    spamm_fml <- as.formula('ratio ~ prec + tavg + LGM_tavg_velocity + dem_value + Matern(1 | x + y)')
+    m_spamm <- spaMM::fitme(spamm_fml, data = df, family = "gaussian") # this take a bit of time
+    summary_table <- as.data.frame(summary(m_spamm)$beta_table)
+    print(summary_table)
+}
+
+```
+
+```{r}
+write.csv(summary_table,'spamm_model_result_beta_nestedness.csv',row.names=F)
 ```
