@@ -26,9 +26,12 @@ phylogenetic_calculate <- function(taxon){
     phy.dist <- cophenetic(phy_tmp)
     nti <- ses.mntd(Chinese_species_distribution_grid_selected,phy.dist,null.model = 'taxa.labels')
     nri <- ses.mpd(Chinese_species_distribution_grid_selected,phy.dist,null.model = 'taxa.labels')
+    faith_pd <- pd(Chinese_species_distribution_grid_selected,phy)
+    print(head(nti))
+    faith_pd$grid_id <- row.names(faith_pd)
     nti$grid_id <- row.names(nti)
     nri$grid_id <- row.names(nri)
-    tmp_result <- full_join(nri,nti,by = 'grid_id')
+    tmp_result <- full_join(nri,nti,by = 'grid_id') %>% full_join(faith_pd,by = 'grid_id')
     return(tmp_result)
 }
 
