@@ -1,0 +1,273 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(tidyverse)
+library(factoextra)
+library(sf)
+```
+
+```{r}
+Chinese_species_distribution_grid <- read.csv("../chinese_terrestral//species_distribution_grid_filtered.csv",
+                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                    filter(class == 'amphibian') %>% 
+                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+```
+
+# 物种丰富度
+
+```{r}
+filter(Chinese_species_distribution_grid,class == 'amphibian')$species %>% unique() %>% length() # number of Chinese amphibians
+amphibian <- filter(Chinese_species_distribution_grid,class == 'amphibian') %>%
+    group_by(grid_id) %>% summarize(richness = length(unique(species)))
+china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
+grid <- st_read("../chinese_terrestral//input//grid.shp")
+south_ocean <- st_read("../chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
+map <- left_join(amphibian,grid,by = c('grid_id'='id'))
+options(repr.plot.width=12, repr.plot.height=10)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("richness")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('amphibian_species_richness.tiff',height = 7,width = 7,units = 'in',dpi=300)
+```
+
+# 读入性状数据
+
+```{r}
+Ecological_chinese <- read.csv("Ecological_correlates_of_extinction_risk_in_Chinese_amphibians.csv") # already corrected iucn2020_binomial according to https://www.amphibiachina.org/
+setdiff(Ecological_chinese$iucn2020_binomial,Chinese_species_distribution_grid$species)
+chinese_traits <- filter(Ecological_chinese, iucn2020_binomial %in% Chinese_species_distribution_grid$species)
+# data from online dataset
+AmphiBIO <- read.csv('AmphiBIO_v1/AmphiBIO_v1.csv') %>% select('Species',starts_with('Litter_size'))
+Fei <- read.csv('chinese_amphibian_2020.csv') # Fei et. al 2012
+parental_care_in_frogs <- read.csv(
+                'Vagi_et_al_Climate_and_mating_systems_as_drivers_of global_diversity_of_parental_care_in_frogs/Vagi_et_al_S3_Amphibian_Supplementary_data.csv') %>% 
+                    select('Species','Clutch_size')
+Hallman <- read.csv('Hallmann_Griebeler_Amphibian_Dataset.csv') %>% select('Species','Clutch_size')
+amphibianweb <- read.csv('amphibianbiodiversity_supplementary_material_1.csv') %>% select( 'Order','Species','SVL','Brood_Size')
+
+from_SM <- full_join(parental_care_in_frogs,Hallman,by = 'Species') %>% full_join(amphibianweb,by = 'Species') %>% 
+                filter(Species %in% Ecological_chinese$Species)
+
+chinese_traits <- left_join(chinese_traits,AmphiBIO,by = 'Species') %>% left_join(Fei,by = 'iucn2020_binomial') %>% 
+                        left_join(from_SM,by = 'Species')
+head(chinese_traits)
+```
+
+```{r}
+chinese_traits <- within(chinese_traits, {
+    min_clutch_size <- ifelse(is.na(min_clutch_size_from_Feiliang),Litter_size_min_n,min_clutch_size_from_Feiliang)
+    max_clutch_size <- ifelse(is.na(max_clutch_size_from_Feiliang),Litter_size_max_n,max_clutch_size_from_Feiliang)
+    clutch_size_mean <- (max_clutch_size + min_clutch_size)/2
+    clutch_size_mean <- ifelse(is.na(clutch_size_mean),Clutch_size.x,clutch_size_mean)
+    clutch_size_mean <- ifelse(is.na(clutch_size_mean),Clutch_size.y,clutch_size_mean)
+    clutch_size_mean <- ifelse(is.na(clutch_size_mean),Brood_Size,clutch_size_mean)
+    
+    Body_size_mm <- as.numeric(Body_size_mm)
+    Egg_size <- as.numeric(Egg_size)
+    Development_mode <- as.factor(Development_mode)
+    Breeding_site <- as.factor(Breeding_site)
+    Adult_microhabitat <- as.factor(Adult_microhabitat)
+    Reproductive_cycle <- as.factor(Reproductive_cycle)
+    Parent_care <- as.factor(Parent_care)
+    Fertilization_type <- as.factor(Fertilization_type)
+    Habitat_specificity <- as.numeric(Habitat_specificity)
+}
+) %>% select(colnames(Ecological_chinese),-c(Species,Family))  # delete 'clutch_size_mean' (NA's:137) 
+summary(chinese_traits)
+
+```
+
+# 降维
+
+```{r}
+row.names(chinese_traits) <- chinese_traits$iucn2020_binomial
+chinese_traits_used <- select(chinese_traits, -iucn2020_binomial)
+colnames(chinese_traits_used)
+mfa <- FactoMineR::MFA(chinese_traits_used,
+                       group = c(2,1,2,1,2,1),
+                       type = c('s',rep('n',4),'s'),
+                       name.group = c('bodymass','Development_mode','microhabitat','Reproductive_cycle','Parent_care','Habitat_specificity'),
+                       ncp = 8)
+ind_mfa <- get_mfa_ind(mfa)$coord
+```
+
+```{r}
+options(repr.plot.width=9,repr.plot.height=6)
+eig.val <- get_eigenvalue(mfa)
+fviz_screeplot(mfa,addlabels = TRUE,ncp=8)
+```
+
+```{r}
+options(repr.plot.width=20,repr.plot.height=8)
+p1 <- fviz_mfa_var(mfa, "quanti.var", palette = "jco", 
+             col.var.sup = "violet", repel = TRUE, 
+            geom = c("point", "text"), legend = "bottom") # Correlation between quantitative variables and dimensions
+# Contributions to dimension 1
+p2 <- fviz_contrib(mfa, choice = "quanti.var", axes = 1, top = 20,
+             palette = "jco")
+# Contributions to dimension 2
+p3 <- fviz_contrib(mfa, choice = "quanti.var", axes = 2, top = 20,
+             palette = "jco")
+ggpubr::ggarrange(p1,p2,p3,ncol = 3)
+```
+
+```{r}
+# functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+options(repr.plot.width=16,repr.plot.height=14)
+fviz_mfa_ind(mfa, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE)
+```
+
+# 功能多样性计算
+
+```{r}
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- filter(
+                                                    Chinese_species_distribution_grid,
+                                                    species %in% unique(row.names(chinese_traits_used))
+                                                    ) %>% 
+                                              dplyr::select(grid_id,species) %>% as.data.frame()
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,species,occurrence) 
+
+# to matrix
+Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
+row.names(Chinese_species_distribution_grid_selected) <- Chinese_species_distribution_grid_selected$grid_id
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, -grid_id) 
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected,row.names(ind_mfa)) 
+nrow(Chinese_species_distribution_grid_selected) # sites that has amphibian
+
+```
+
+```{r}
+library(FD)
+FD <- dbFD(ind_mfa,Chinese_species_distribution_grid_selected)
+```
+
+```{r}
+options(repr.plot.width=15,repr.plot.height=14)
+# result <- data.frame(FD$FRic,FD$FEve,FD$FDiv,FD$FDis,FD$RaoQ)
+# result <- mutate(result,grid_id = as.numeric(row.names(Chinese_species_distribution_grid_selected)))
+# write.csv(result,'amphibian_result.csv',row.names = F)
+result <- read.csv('amphibian_result.csv')
+result <- left_join(result, grid, by = c('grid_id'='id'))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = filter(result,!is.na(FD.FRic)),aes(fill = FD.FRic,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FRic")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('amphibian_FRic.tiff',height = 7,width = 7,units = 'in',dpi=300)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = filter(result,!is.na(FD.FDiv)),aes(fill = FD.FDiv,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FDiv")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('amphibian_FDiv.tiff',height = 7,width = 7,units = 'in',dpi=300)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = filter(result,!is.na(FD.FEve)),aes(fill = FD.FEve,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FD.FEve")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('amphibian_FD.Eve.tiff',height = 7,width = 7,units = 'in',dpi=300)
+```
+
+## body size
+
+```{r}
+body_size <- select(chinese_traits,iucn2020_binomial,Body_size_mm,Egg_size)
+row.names(body_size) <- body_size$iucn2020_binomial
+body_size <- select(body_size,-iucn2020_binomial)
+```
+
+```{r}
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- filter(
+                                                    Chinese_species_distribution_grid,
+                                                    species %in% unique(row.names(body_size))
+                                                    ) %>% 
+                                              dplyr::select(grid_id,species) %>% as.data.frame()
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,species,occurrence) 
+
+# to matrix
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, 'grid_id', row.names(body_size)) %>% 
+                                                        as.matrix()
+row.names(Chinese_species_distribution_grid_selected) <- Chinese_species_distribution_grid_selected[,1]
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+nrow(Chinese_species_distribution_grid_selected) # sites that has species
+```
+
+```{r}
+library(FD)
+FD_body_size <- dbFD(body_size,Chinese_species_distribution_grid_selected)
+```
+
+```{r}
+result_body_size <- data.frame(FD_body_size$FRic,FD_body_size$FEve,FD_body_size$FDiv,FD_body_size$FDis,FD_body_size$RaoQ)
+result_body_size <- mutate(result_body_size,grid_id = as.numeric(row.names(Chinese_species_distribution_grid_selected)))
+write.csv(result_body_size,'amphibian_body_size_result.csv',row.names = F)
+result_body_size <- left_join(result_body_size, grid, by = c('grid_id'='id'))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = filter(result_body_size,!is.na(FD_body_size.FRic)),aes(fill = FD_body_size.FRic,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FRic")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+# Funtional rarity
+
+```{r}
+dist_matrix <- funrar::compute_dist_matrix(chinese_traits_used,metric = "gower")
+funrar <- funrar::funrar(Chinese_species_distribution_grid_selected, dist_matrix, rel_abund = FALSE)
+uniqueness <- left_join(funrar$Ui,Chinese_species_distribution_grid,by = 'species')
+uniq_top_30_sp <- arrange(funrar$Ui,desc(Ui))[1:60,]$species
+top_30_tb <- filter(uniqueness,species %in% uniq_top_30_sp) %>% group_by(grid_id) %>% summarise(species_number=length(species))
+
+top_30_tb_map <- left_join(top_30_tb, grid, by = c('grid_id'='id'))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = top_30_tb_map,aes(fill = species_number,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("rar_top_30_dis")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
