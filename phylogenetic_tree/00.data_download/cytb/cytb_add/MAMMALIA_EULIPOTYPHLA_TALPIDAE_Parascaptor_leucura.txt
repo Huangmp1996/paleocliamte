@@ -1,0 +1,10 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	NC_056332.1	16875	Parascaptor leucura mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	MW114662.1	16875	Parascaptor leucura mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	KC256947.1	1140	Parascaptor leucura voucher Muli12001 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	KC192654.1	1125	Parascaptor leucura voucher MGDW4005 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	HG737882.1	1140	Parascaptor leucura mitochondrial cytb gene for cytochrome b, specimen voucher KIZ:0810480
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	HG737881.1	1140	Parascaptor leucura mitochondrial cytb gene for cytochrome b, specimen voucher KIZ:0810390
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	HG737880.1	1140	Parascaptor leucura mitochondrial cytb gene for cytochrome b, specimen voucher KIZ:0810072
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	HG737879.1	1140	Parascaptor leucura mitochondrial cytb gene for cytochrome b, specimen voucher KIZ:226065
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	HG737878.1	1140	Parascaptor leucura mitochondrial cytb gene for cytochrome b, specimen voucher KIZ:0412179
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Parascaptor_leucura	HG737877.1	1140	Parascaptor leucura mitochondrial cytb gene for cytochrome b, specimen voucher KIZ:DY0054

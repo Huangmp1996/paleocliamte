@@ -1,0 +1,6 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	EU809939.1	17244	Cuora galbinifrons mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	JN860623.1	1143	Cuora galbinifrons voucher ANUM26080316 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	JN860622.1	1143	Cuora galbinifrons voucher ANUM26080060 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	NC_014102.1	17244	Cuora galbinifrons mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	EU930739.1	560	Cuora galbinifrons isolate 2 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AB090056.1	457	Cistoclemmys galbinifrons mitochondrial gene for 16S rRNA, partial sequence

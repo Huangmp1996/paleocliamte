@@ -1,0 +1,27 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	MN122832.1	16824	Carpodacus erythrinus mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481522.1	694	Carpodacus erythrinus voucher UWBM 44603 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481518.1	694	Carpodacus erythrinus voucher UWBM 66445 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481517.1	694	Carpodacus erythrinus voucher UWBM 74301 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481516.1	694	Carpodacus erythrinus voucher UWBM 60009 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481515.1	681	Carpodacus erythrinus voucher UWBM 82295 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481514.1	681	Carpodacus erythrinus voucher UWBM 64699 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481513.1	681	Carpodacus erythrinus voucher UWBM 78449 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481512.1	679	Carpodacus erythrinus voucher UWBM 57894 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481511.1	678	Carpodacus erythrinus voucher UWBM 71722 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481510.1	676	Carpodacus erythrinus voucher UWBM 46298 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481509.1	687	Carpodacus erythrinus voucher UWBM 51563 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481508.1	673	Carpodacus erythrinus voucher UWBM 49436 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481507.1	667	Carpodacus erythrinus voucher UWBM 60115 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481506.1	666	Carpodacus erythrinus voucher UWBM 46369 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481505.1	694	Carpodacus erythrinus voucher UWBM 51703 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GU571802.1	648	Carpodacus erythrinus voucher BISE-Aves121 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GU571801.1	648	Carpodacus erythrinus voucher BISE-Aves258 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GU571800.1	648	Carpodacus erythrinus voucher BISE-Aves294 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GU571324.1	749	Carpodacus erythrinus voucher NHMO-BC235 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GU571323.1	749	Carpodacus erythrinus voucher NHMO-BC234 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481521.1	673	Carpodacus erythrinus voucher UWBM 47013 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481520.1	670	Carpodacus erythrinus voucher UWBM 49445 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	GQ481519.1	670	Carpodacus erythrinus voucher UWBM 73101 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	KX283103.1	517	Carpodacus erythrinus voucher AI-B106 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	KM078766.1	16820	Carpodacus erythrinus mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_erythrinus	NC_025597.1	16820	Carpodacus erythrinus mitochondrion, complete genome

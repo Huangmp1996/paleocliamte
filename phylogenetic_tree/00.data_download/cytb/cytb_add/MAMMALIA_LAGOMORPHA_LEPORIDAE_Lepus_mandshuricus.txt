@@ -1,0 +1,47 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132672.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK288
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132671.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK286
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132670.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK285
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132669.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK281
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132668.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK277
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132667.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK273
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132666.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK272
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132665.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK270
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132656.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK249
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132655.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK248
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132654.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK247
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132653.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK246
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132652.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK245
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	LC132638.1	1140	Lepus mandshuricus mitochondrial gene for cytochrome b, partial cds, isolate: GK210
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM233091.1	1140	Lepus mandshuricus isolate MA13 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM233090.1	1140	Lepus mandshuricus isolate ME5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM233089.1	1140	Lepus mandshuricus isolate MA8 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM233088.1	1140	Lepus mandshuricus isolate MA10 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM233077.1	1140	Lepus mandshuricus isolate MA12 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM233014.1	1140	Lepus mandshuricus isolate MA9 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM233011.1	1140	Lepus mandshuricus isolate MA1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM233010.1	1140	Lepus mandshuricus isolate ME cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM232996.1	1140	Lepus mandshuricus isolate ME6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM232995.1	1140	Lepus mandshuricus isolate MA7 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM232994.1	1140	Lepus mandshuricus isolate MA3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM232993.1	1140	Lepus mandshuricus isolate MA2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM232992.1	1140	Lepus mandshuricus isolate MA4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	HM232991.1	1140	Lepus mandshuricus isolate MA11 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY745121.1	1140	Lepus mandshuricus isolate s17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY745120.1	1140	Lepus mandshuricus isolate s8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY745119.1	1140	Lepus mandshuricus isolate s7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY745118.1	1140	Lepus mandshuricus isolate s14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY745117.1	1140	Lepus mandshuricus isolate s11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY650900.1	1140	Lepus mandshuricus haplotype 7 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY650899.1	1140	Lepus mandshuricus haplotype 6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY650898.1	1140	Lepus mandshuricus haplotype 5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY650897.1	1140	Lepus mandshuricus haplotype 4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY650896.1	1140	Lepus mandshuricus haplotype 3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY650895.1	1140	Lepus mandshuricus haplotype 2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AY650894.1	1140	Lepus mandshuricus haplotype 1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	DQ793163.1	1140	Lepus mandshuricus isolate black5 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	DQ793162.1	1140	Lepus mandshuricus isolate grey1 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AJ279423.1	1140	Lepus mandshuricus cytb gene for cytochrome b, haplotype 2
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AJ287975.1	591	Lepus mandschuricus mitochondrial partial D-loop, isolate dalian3
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AJ287974.1	591	Lepus mandschuricus mitochondrial partial D-loop, isolate dalian2
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AJ287973.1	591	Lepus mandschuricus mitochondrial partial D-loop, isolate dalian1
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_mandshuricus	AJ279422.1	1140	Lepus mandshuricus cytb gene for cytochrome b, haplotype 1

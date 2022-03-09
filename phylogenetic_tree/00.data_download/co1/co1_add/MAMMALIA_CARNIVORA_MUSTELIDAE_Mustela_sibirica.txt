@@ -1,0 +1,25 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MW625812.1	16488	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MN206976.1	16558	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MN264435.1	16529	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MH818224.1	16476	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017421.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB14
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017420.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB13
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017419.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB12
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017418.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB09
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017417.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB07
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017416.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB05
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017415.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB04
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017414.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB03
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017413.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB02
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017397.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB11
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017396.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB10
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017395.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB08
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017394.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB06
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017393.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB01
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	HM106317.1	16559	Mustela sibirica voucher YP6136 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	KP992957.1	516	Mustela sibirica isolate MS5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	KP992956.1	516	Mustela sibirica isolate MS4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	KP992955.1	516	Mustela sibirica isolate MS3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	KP992954.1	516	Mustela sibirica isolate MS2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	KP992953.1	516	Mustela sibirica isolate MS1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	NC_020637.1	16559	Mustela sibirica voucher YP6136 mitochondrion, complete genome

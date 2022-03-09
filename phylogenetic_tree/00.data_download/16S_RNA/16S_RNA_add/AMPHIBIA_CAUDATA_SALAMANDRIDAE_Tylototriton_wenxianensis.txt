@@ -1,0 +1,45 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800605.1	506	Tylototriton wenxianensis voucher CIB2010123102 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800604.1	506	Tylototriton wenxianensis voucher CIB2010123101 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800603.1	506	Tylototriton wenxianensis voucher CIBWH10007 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800602.1	506	Tylototriton wenxianensis voucher CIBWH10003 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800601.1	506	Tylototriton wenxianensis voucher CIBWH10002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800600.1	506	Tylototriton wenxianensis voucher CIBWH10001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800580.1	506	Tylototriton wenxianensis voucher CIBWg20090730004 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800579.1	506	Tylototriton wenxianensis voucher CIB20090527 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800578.1	506	Tylototriton wenxianensis voucher CIBWg20090730005 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800577.1	506	Tylototriton wenxianensis voucher CIBWg20090730003 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800576.1	506	Tylototriton wenxianensis voucher CIBWg20090730002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800575.1	506	Tylototriton wenxianensis voucher CIBWg20090730001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800574.1	506	Tylototriton wenxianensis voucher CIBWG20090601001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800573.1	506	Tylototriton wenxianensis voucher CIBWG20090601002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800572.1	506	Tylototriton wenxianensis voucher CIBwa20090602 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800571.1	506	Tylototriton wenxianensis voucher CIBwa20090601 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800568.1	506	Tylototriton wenxianensis voucher CIB20081202 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800567.1	506	Tylototriton wenxianensis voucher CIB20081201 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800545.1	506	Tylototriton wenxianensis voucher CIBWG20060007 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800544.1	506	Tylototriton wenxianensis voucher CIBWG200600019 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800543.1	506	Tylototriton wenxianensis voucher CIB20070638 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800542.1	506	Tylototriton wenxianensis voucher CIB20070639 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800541.1	506	Tylototriton wenxianensis voucher CIB20080003 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KY800540.1	506	Tylototriton wenxianensis voucher CIB20080002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	NC_027507.1	16265	Tylototriton wenxianensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KR733683.1	16265	Tylototriton wenxianensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733383.1	1729	Tylototriton wenxianensis voucher GNU110911002 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733382.1	1728	Tylototriton wenxianensis voucher GNU110911001 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733381.1	1730	Tylototriton wenxianensis voucher GNU110905002 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733380.1	1730	Tylototriton wenxianensis voucher GNU110905001 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733379.1	1731	Tylototriton wenxianensis voucher GZNU200884 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733378.1	1730	Tylototriton wenxianensis voucher GZNU20060626002 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733377.1	1730	Tylototriton wenxianensis voucher GZNU20060626001 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733376.1	1730	Tylototriton wenxianensis voucher GZNU09052902 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	KC733375.1	1730	Tylototriton wenxianensis voucher GZNU09052901 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824181.1	559	Tylototriton wenxianensis isolate KIZ0805195 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824180.1	559	Tylototriton wenxianensis isolate KIZ0805193 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824179.1	556	Tylototriton wenxianensis isolate HSU090060 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824178.1	559	Tylototriton wenxianensis isolate HSU090059 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824177.1	553	Tylototriton wenxianensis isolate HSU090018 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824176.1	557	Tylototriton wenxianensis isolate HSU090017 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824175.1	557	Tylototriton wenxianensis isolate HSU090016 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824174.1	559	Tylototriton wenxianensis isolate HSU090004 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	JQ824173.1	559	Tylototriton wenxianensis isolate HSU090003 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_wenxianensis	EU880341.1	16259	Tylototriton wenxianensis mitochondrion, partial genome

@@ -1,0 +1,28 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MW625812.1	16488	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MN206976.1	16558	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MN264435.1	16529	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MH818224.1	16476	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017421.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB14
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017420.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB13
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017419.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB12
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017418.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB09
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017417.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB07
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017416.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB05
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017415.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB04
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017414.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB03
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017413.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB02
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017397.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB11
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017396.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB10
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017395.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB08
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017394.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB06
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017393.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB01
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AY750631.1	1044	Mustela sibirica NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	HM106317.1	16559	Mustela sibirica voucher YP6136 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	NC_020637.1	16559	Mustela sibirica voucher YP6136 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB601555.1	1044	Mustela sibirica mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS1146
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564167.1	1044	Mustela sibirica mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Tetsuji Hosoda:TH98
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564166.1	1044	Mustela sibirica mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Tetsuji Hosoda:TH56
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564165.1	1044	Mustela sibirica mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Tetsuji Hosoda:TH51
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564164.1	1044	Mustela sibirica mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS1145
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564163.1	1044	Mustela sibirica mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS1121
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564162.1	1044	Mustela sibirica mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Alexei P. Kryukov:AK#9

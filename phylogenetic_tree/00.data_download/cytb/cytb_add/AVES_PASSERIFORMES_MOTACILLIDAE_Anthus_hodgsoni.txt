@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_hodgsoni	KX189345.1	16886	Anthus hodgsoni mitochondrion, partial genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_hodgsoni	KJ456193.1	1143	Anthus hodgsoni cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_hodgsoni	D38341.1	293	Anthus hodgsoni gene for 18S rRNA, partial sequence

@@ -1,0 +1,7 @@
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531279.1	963	Bombina fortinuptialis voucher IZCAS:H30099 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531212.1	942	Bombina fortinuptialis voucher IZCAS:H30052 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531211.1	942	Bombina fortinuptialis voucher IZCAS:H30051 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531210.1	942	Bombina fortinuptialis voucher IZCAS:H30050 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	DQ925797.1	1002	Bombina fortinuptialis isolate JX5-26 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	NC_006402.1	17575	Bombina fortinuptialis mitochondrion, complete genome
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	AY458591.1	17575	Bombina fortinuptialis mitochondrion, complete genome

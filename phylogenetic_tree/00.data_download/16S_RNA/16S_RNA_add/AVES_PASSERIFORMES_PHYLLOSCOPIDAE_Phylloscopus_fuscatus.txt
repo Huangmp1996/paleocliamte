@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_fuscatus	NC_046416.1	16922	Phylloscopus fuscatus mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_fuscatus	MG681101.1	16922	Phylloscopus fuscatus mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_fuscatus	EU794944.1	667	Phylloscopus fuscatus robustus isolate 5779 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_fuscatus	EU794943.1	667	Phylloscopus fuscatus robustus isolate 5778 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_fuscatus	EU794942.1	667	Phylloscopus fuscatus weigoldi isolate 414 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_fuscatus	EU794941.1	667	Phylloscopus fuscatus fuscatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_fuscatus	EU794933.1	667	Phylloscopus fuscatus fuscatus isolate 92 16S ribosomal RNA gene, partial sequence; mitochondrial

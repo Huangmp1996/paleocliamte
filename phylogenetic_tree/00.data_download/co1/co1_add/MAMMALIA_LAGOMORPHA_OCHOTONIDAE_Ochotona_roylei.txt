@@ -1,0 +1,8 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_roylei	MN547463.1	16481	Ochotona roylei voucher GZ17003 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_roylei	MN547462.1	16540	Ochotona roylei voucher GW14042 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_roylei	MN547461.1	16485	Ochotona roylei voucher XZ16313 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_roylei	KY045814.1	1542	Ochotona roylei cytocrome c oxidase subunit 1 (cox1) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_roylei	KR732590.1	1542	Ochotona roylei cytocrome c oxidase subunit 1 (cox1) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_roylei	KY024837.1	1533	Ochotona roylei isolate LP01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_roylei	KY024836.1	620	Ochotona roylei isolate CS03 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_roylei	KY024835.1	1525	Ochotona roylei isolate AP01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial

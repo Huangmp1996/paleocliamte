@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	AY128549.1	841	Alcippe chrysotis forresti cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	JF756763.1	914	Alcippe chrysotis voucher NTNU T4129 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	HM140313.1	621	Alcippe chrysotis isolate 3681 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	KJ456323.1	1032	Alcippe chrysotis voucher CAS:95891 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	JX236393.1	1118	Alcippe chrysotis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	JN827091.1	1143	Alcippe chrysotis voucher KUNHM 11078 cytochrome b (CYTB) gene, complete cds; mitochondrial

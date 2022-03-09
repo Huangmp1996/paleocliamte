@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	MK599092.1	1140	Seicercus affinis voucher SR2016-308 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	MK599091.1	1129	Seicercus affinis voucher SR2016-407 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	MH079370.1	1046	Seicercus affinis intermedius voucher IOZ 18247 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	MH079369.1	1045	Seicercus affinis intermedius voucher IOZ 18246 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	AY635071.1	1038	Seicercus affinis intermedius cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	AY635070.1	1038	Seicercus affinis intermedius cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	AY635069.1	1038	Seicercus affinis intermedius cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	AY635066.1	1038	Seicercus affinis intermedius cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	AY635063.1	1038	Seicercus affinis ocularis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	KJ456460.1	1143	Seicercus affinis cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	AY606148.1	668	Seicercus affinis isolate a2047 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	AY606146.1	668	Seicercus affinis isolate a2042 cytochrome b (cytb) gene, partial cds; mitochondrial

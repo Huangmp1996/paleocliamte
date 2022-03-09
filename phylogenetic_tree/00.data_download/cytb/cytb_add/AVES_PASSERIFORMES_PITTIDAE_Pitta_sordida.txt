@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	NC_051463.1	17733	Pitta sordida mitochondrion, complete genome
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	MN356273.1	17733	Pitta sordida mitochondrion, complete genome
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	MN991612.1	1143	Pitta sordida voucher LSUMNS B-51072 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	X60948.1	924	Pitta sordida mitochondrial gene for cytochrome b, exon 33
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	KJ456408.1	1080	Pitta sordida voucher NRM:20076314 cytochrome b (cytb) gene, partial cds; mitochondrial

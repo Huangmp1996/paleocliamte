@@ -1,0 +1,4 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	NC_000878.1	18068	Falco peregrinus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	AF090338.1	18068	Falco peregrinus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	JX029991.1	17527	Falco peregrinus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	JQ282801.1	18115	Falco peregrinus mitochondrion, complete genome

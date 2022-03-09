@@ -1,0 +1,6 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	MN356435.1	16692	Charadrius alexandrinus mitochondrion, partial genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AF417931.1	1143	Charadrius alexandrinus cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	NC_041118.1	16905	Charadrius alexandrinus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	MF565382.1	16905	Charadrius alexandrinus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	KX534437.1	1010	Charadrius alexandrinus voucher UMMZ-T567 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AH003632.2	558	Charadrius alexandrinus cytochrome b (cyt b) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_nipalensis	AF484840.1	477	Actinodura nipalensis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_nipalensis	KJ456177.1	1041	Actinodura nipalensis voucher AMNH:5594 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_nipalensis	JN826994.1	967	Actinodura nipalensis voucher AMNH DOT5636 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_nipalensis	JN826993.1	967	Actinodura nipalensis voucher AMNH DOT5594 cytochrome b (CYTB) gene, partial cds; mitochondrial

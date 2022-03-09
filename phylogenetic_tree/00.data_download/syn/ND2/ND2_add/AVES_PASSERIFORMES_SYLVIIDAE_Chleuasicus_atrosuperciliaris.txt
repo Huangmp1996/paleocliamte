@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Chleuasicus_atrosuperciliaris	JF756799.1	1041	Paradoxornis atrosuperciliaris atrosuperciliaris voucher NTNU T3068 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Chleuasicus_atrosuperciliaris	JF756798.1	1041	Paradoxornis atrosuperciliaris voucher NTNU T1468 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Chleuasicus_atrosuperciliaris	JF756797.1	1041	Paradoxornis atrosuperciliaris voucher NTNU T1467 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Chleuasicus_atrosuperciliaris	KJ455532.1	1041	Paradoxornis atrosuperciliaris voucher USNM B15167 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

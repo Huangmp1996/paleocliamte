@@ -1,0 +1,13 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	MZ150870.1	218	Cervus hanglu bactrianus breed Lydekker, 1900 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	KU709868.1	374	Cervus elaphus hanglu isolate UKN1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	KU709867.1	374	Cervus elaphus hanglu isolate CEH3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	KU709866.1	374	Cervus elaphus hanglu isolate CEH2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	KU709865.1	374	Cervus elaphus hanglu isolate CEH1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	GU457435.1	16351	Cervus elaphus yarkandensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	KF141939.1	1134	Cervus elaphus bactrianus isolate BAT2 tRNA-Thr gene, partial sequence; tRNA-Pro gene, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	KF141938.1	1133	Cervus elaphus bactrianus isolate BAT1 tRNA-Thr gene, partial sequence; tRNA-Pro gene, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	NC_013840.1	16351	Cervus elaphus yarkandensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	HM852905.1	439	Cervus elaphus yarkandensis 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	DQ191149.1	955	Cervus elaphus yarkandensis isolate B2 12S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	DQ191145.1	955	Cervus elaphus yarkandensis isolate A1 12S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_hanglu	DQ153244.1	955	Cervus elaphus yarkandensis 12S ribosomal RNA gene, complete sequence; mitochondrial

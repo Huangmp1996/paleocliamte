@@ -1,0 +1,8 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_leucocephalus	MT806068.1	16556	Trachypithecus poliocephalus isolate TPOL1 mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_leucocephalus	MT806067.1	16557	Trachypithecus poliocephalus isolate 2014B002 mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_leucocephalus	NC_034795.1	16556	Trachypithecus poliocephalus mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_leucocephalus	KY024473.1	16556	Trachypithecus poliocephalus mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_leucocephalus	JF816056.1	573	Trachypithecus poliocephalus haplotype GCB02 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_leucocephalus	JF816055.1	573	Trachypithecus poliocephalus haplotype GCB01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_leucocephalus	HQ613912.1	573	Trachypithecus poliocephalus haplotype WA cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_leucocephalus	EU004473.1	573	Trachypithecus poliocephalus cytochrome b gene, partial cds; mitochondrial

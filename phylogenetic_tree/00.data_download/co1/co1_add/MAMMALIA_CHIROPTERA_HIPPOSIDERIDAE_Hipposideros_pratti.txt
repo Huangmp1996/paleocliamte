@@ -1,0 +1,10 @@
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	HM540611.1	657	Hipposideros pratti voucher ROM MAM 112354 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	HM540610.1	612	Hipposideros pratti voucher ROM MAM 114933 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	HM540609.1	584	Hipposideros pratti voucher ZMMU S-167168 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	HM540608.1	599	Hipposideros pratti voucher ZMMU S-167161 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	KR908668.1	584	Hipposideros pratti haplotype Hap_6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	KR908667.1	584	Hipposideros pratti haplotype Hap_5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	KR908666.1	584	Hipposideros pratti haplotype Hap_4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	KR908665.1	584	Hipposideros pratti haplotype Hap_3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	KR908664.1	584	Hipposideros pratti haplotype Hap_2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_pratti	KR908663.1	584	Hipposideros pratti haplotype Hap_1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

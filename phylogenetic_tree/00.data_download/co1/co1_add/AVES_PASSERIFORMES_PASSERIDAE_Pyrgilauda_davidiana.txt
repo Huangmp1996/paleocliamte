@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	GQ482175.1	694	Montifringilla davidiana voucher UWBM 57838 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	GQ482174.1	694	Montifringilla davidiana voucher UWBM 57837 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	NC_025915.1	16912	Pyrgilauda davidiana mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	KJ148632.1	16912	Pyrgilauda davidiana mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	JQ175417.1	649	Montifringilla davidiana voucher USNM:Birds:586681 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

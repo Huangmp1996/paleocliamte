@@ -1,0 +1,36 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MW625810.1	16555	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205236.1	957	Martes flavigula isolate 15154_Russia NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205235.1	957	Martes flavigula isolate MARTEN6_N4_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205234.1	957	Martes flavigula isolate MARTEN5_N3_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205233.1	957	Martes flavigula isolate MARTEN4_S12_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205232.1	957	Martes flavigula isolate MARTEN3_S13_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205231.1	957	Martes flavigula isolate MARTEN2_S6_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205230.1	957	Martes flavigula isolate MARTEN1_C4_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205229.1	957	Martes flavigula isolate 9539_C1_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205228.1	957	Martes flavigula isolate 4078_N1_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205227.1	957	Martes flavigula isolate 15253_C2_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205226.1	957	Martes flavigula isolate 4096_S1_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205225.1	957	Martes flavigula isolate 15252_S2_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205224.1	957	Martes flavigula isolate 15220_S4_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205223.1	957	Martes flavigula isolate 15219_S11_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205222.1	957	Martes flavigula isolate 15218_S9_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205221.1	957	Martes flavigula isolate 15216_S7_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205220.1	957	Martes flavigula isolate 15215_N6_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205219.1	957	Martes flavigula isolate 15213_S8_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205218.1	957	Martes flavigula isolate 15212_N5_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205217.1	957	Martes flavigula isolate 15210_C5_Korea NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205216.1	957	Martes flavigula isolate 5_Korea_C3 NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205215.1	957	Martes flavigula isolate 4_Korea_S5 NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205214.1	957	Martes flavigula isolate 3_Korea_S10 NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205213.1	957	Martes flavigula isolate 2_Korea_N2 NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205212.1	957	Martes flavigula isolate 1_Korea_S3 NADH:ubiquinone oxidoreductase core subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AY882061.1	1044	Martes flavigula NADH dehydrogenase 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AY750623.1	1044	Martes flavigula NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	HM106326.1	16467	Martes flavigula voucher YP6016 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	FJ719367.1	16549	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	KM347744.1	16533	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	NC_012141.1	16549	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB601552.1	1044	Martes flavigula mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS844
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB564139.1	1044	Martes flavigula mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Tetsuji Hosoda:TH444
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB564138.1	1044	Martes flavigula mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: NMNS:707
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB564137.1	1044	Martes flavigula mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS858

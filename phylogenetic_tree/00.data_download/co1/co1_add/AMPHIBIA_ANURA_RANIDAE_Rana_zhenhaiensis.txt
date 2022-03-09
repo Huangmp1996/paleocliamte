@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_zhenhaiensis	MN218687.1	19205	Rana zhenhaiensis voucher ZHLW20190723 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_zhenhaiensis	MT418664.1	647	Rana zhenhaiensis voucher SYS a007422 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_zhenhaiensis	MT418657.1	647	Rana zhenhaiensis voucher SYS a007000 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_zhenhaiensis	MT418650.1	647	Rana zhenhaiensis voucher SYS a006208 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_zhenhaiensis	MT418620.1	647	Rana zhenhaiensis voucher SYS a001952 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_zhenhaiensis	JF939065.1	558	Rana zhenhaiensis voucher KIZ0803271 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial

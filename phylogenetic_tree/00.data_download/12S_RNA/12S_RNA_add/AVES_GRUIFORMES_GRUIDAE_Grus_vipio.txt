@@ -1,0 +1,5 @@
+AVES_GRUIFORMES_GRUIDAE_Grus_vipio	LC541482.1	16671	Antigone vipio TMZ1097 mitochondrial DNA, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_vipio	NC_021368.1	16678	Grus vipio mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_vipio	FJ769852.1	16678	Grus vipio mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_vipio	AY447953.1	316	Grus vipio 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GRUIFORMES_GRUIDAE_Grus_vipio	DQ485812.1	1045	Grus vipio 12S ribosomal RNA and tRNA-Val genes, complete sequence; mitochondrial

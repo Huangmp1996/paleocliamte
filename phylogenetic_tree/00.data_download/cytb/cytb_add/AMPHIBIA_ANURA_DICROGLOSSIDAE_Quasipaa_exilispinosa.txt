@@ -1,0 +1,19 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	NC_056269.1	17046	Quasipaa exilispinosa voucher LSU20200418001WY mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678217.1	810	Quasipaa exilispinosa voucher KIZ08994 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678216.1	810	Quasipaa exilispinosa voucher KIZ08993 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678203.1	810	Quasipaa exilispinosa voucher KIZ08939 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678202.1	752	Quasipaa exilispinosa voucher KIZ08938 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678201.1	810	Quasipaa exilispinosa voucher KIZ08937 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678200.1	739	Quasipaa exilispinosa voucher KIZ08936 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678199.1	698	Quasipaa exilispinosa voucher KIZ08935 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678198.1	741	Quasipaa exilispinosa voucher KIZ08934 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678197.1	773	Quasipaa exilispinosa voucher KIZ08933 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678196.1	810	Quasipaa exilispinosa voucher KIZ08932 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678181.1	810	Quasipaa exilispinosa voucher KIZ07222 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678180.1	808	Quasipaa exilispinosa voucher KIZ07220 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678179.1	810	Quasipaa exilispinosa voucher KIZ07219 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678126.1	810	Quasipaa exilispinosa voucher KIZ01575 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678125.1	810	Quasipaa exilispinosa voucher KIZ01574 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT678124.1	810	Quasipaa exilispinosa voucher KIZ01573 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT561179.1	17046	Quasipaa exilispinosa voucher LSU20200418001WY mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	KF199151.1	14903	Quasipaa exilispinosa mitochondrion, partial genome

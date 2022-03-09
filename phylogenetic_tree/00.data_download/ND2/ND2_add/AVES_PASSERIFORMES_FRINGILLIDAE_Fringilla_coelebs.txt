@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460875.1	834	Fringilla coelebs isolate 17-025 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460874.1	834	Fringilla coelebs isolate 17-016 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460873.1	834	Fringilla coelebs isolate 17-010 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460872.1	834	Fringilla coelebs isolate 17-006 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460871.1	835	Fringilla coelebs isolate 17-005 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460870.1	835	Fringilla coelebs isolate 2L55179 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460869.1	835	Fringilla coelebs isolate 18-611 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460868.1	835	Fringilla coelebs isolate 2L55177 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460867.1	835	Fringilla coelebs isolate 1N23582 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460866.1	835	Fringilla coelebs isolate 18-609 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460865.1	835	Fringilla coelebs isolate 2N96525 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460864.1	835	Fringilla coelebs isolate N636250 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460863.1	835	Fringilla coelebs isolate 2L55180 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460862.1	835	Fringilla coelebs isolate 16-135 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460861.1	834	Fringilla coelebs isolate 16-132 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460860.1	835	Fringilla coelebs isolate 16-129 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460859.1	835	Fringilla coelebs isolate 16-123 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460858.1	835	Fringilla coelebs isolate 16-120 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460857.1	835	Fringilla coelebs isolate 16-113 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460856.1	835	Fringilla coelebs isolate 16-109 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460855.1	834	Fringilla coelebs isolate 16-107 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460854.1	834	Fringilla coelebs isolate 16-103 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460853.1	834	Fringilla coelebs isolate 16-102 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460852.1	834	Fringilla coelebs isolate 16-100 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460851.1	835	Fringilla coelebs isolate MA407UN1 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460850.1	835	Fringilla coelebs isolate A407548 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460849.1	835	Fringilla coelebs isolate A407546 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460848.1	835	Fringilla coelebs isolate A407544 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460847.1	835	Fringilla coelebs isolate A407543 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460846.1	835	Fringilla coelebs isolate A407542 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460845.1	835	Fringilla coelebs isolate A407541 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460844.1	835	Fringilla coelebs isolate A407539 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460843.1	835	Fringilla coelebs isolate A407538 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460842.1	835	Fringilla coelebs isolate 18-607 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460841.1	835	Fringilla coelebs isolate 18-606 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460840.1	835	Fringilla coelebs isolate 18-605 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460839.1	835	Fringilla coelebs isolate 18-600 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460838.1	835	Fringilla coelebs isolate 18-598 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460837.1	835	Fringilla coelebs isolate 18-597 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460836.1	835	Fringilla coelebs isolate 18-596 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460835.1	835	Fringilla coelebs isolate 18-595 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460834.1	835	Fringilla coelebs isolate 18-594 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460833.1	835	Fringilla coelebs isolate 18-593 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460832.1	835	Fringilla coelebs isolate 4L88828 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460831.1	835	Fringilla coelebs isolate 4L88827 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460830.1	835	Fringilla coelebs isolate 4L88826 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460829.1	835	Fringilla coelebs isolate 4L88825 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460828.1	835	Fringilla coelebs isolate 1N23572 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460827.1	835	Fringilla coelebs isolate 1N23571 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460826.1	835	Fringilla coelebs isolate 4L88819 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460825.1	835	Fringilla coelebs isolate 4L88816 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460824.1	835	Fringilla coelebs isolate 4L88814 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460823.1	835	Fringilla coelebs isolate 4L88813 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460822.1	835	Fringilla coelebs isolate 4L88812 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460821.1	835	Fringilla coelebs isolate 4L88811 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460820.1	835	Fringilla coelebs isolate 4L88807 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460819.1	835	Fringilla coelebs isolate 4L88806 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460818.1	835	Fringilla coelebs isolate 16-053 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460817.1	835	Fringilla coelebs isolate 16-049 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460816.1	835	Fringilla coelebs isolate 16-048 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460815.1	835	Fringilla coelebs isolate 16-047 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460814.1	835	Fringilla coelebs isolate 16-046 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460813.1	834	Fringilla coelebs isolate 18-682 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460812.1	834	Fringilla coelebs isolate 18-681 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460811.1	834	Fringilla coelebs isolate 18-680 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460810.1	834	Fringilla coelebs isolate 18-671 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460809.1	834	Fringilla coelebs isolate 18-669 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460808.1	834	Fringilla coelebs isolate 18-662 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460807.1	834	Fringilla coelebs isolate 18-658 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460806.1	834	Fringilla coelebs isolate 18-642 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460805.1	835	Fringilla coelebs isolate AZ407UN6 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460804.1	835	Fringilla coelebs isolate AZ407UN4 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460803.1	835	Fringilla coelebs isolate AZ407UN3 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460802.1	835	Fringilla coelebs isolate AZ407UN2 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460801.1	835	Fringilla coelebs isolate AZ407UN1 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460800.1	835	Fringilla coelebs isolate A407600 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460799.1	835	Fringilla coelebs isolate A407596 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460798.1	835	Fringilla coelebs isolate A407595 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MW460797.1	835	Fringilla coelebs isolate A407593 NADH dehydrogenase subunit 2 (nad2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MN122830.1	16341	Fringilla coelebs mitochondrion, partial genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KX109695.1	1041	Fringilla coelebs voucher MTD-C61071 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF447281.1	1398	Fringilla coelebs NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF407045.1	1089	Fringilla coelebs tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	HM159186.1	1040	Fringilla coelebs voucher FRCO NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	FJ547500.1	1041	Fringilla coelebs voucher UAAAC svd3243 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859254.1	1016	Fringilla coelebs isolate BKS1655 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859253.1	1041	Fringilla coelebs isolate SVD1898 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859252.1	1041	Fringilla coelebs isolate SVD1897 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859251.1	1041	Fringilla coelebs isolate SVD1770 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859250.1	1036	Fringilla coelebs isolate SVD1679 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859249.1	1041	Fringilla coelebs isolate IUK311 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859248.1	1041	Fringilla coelebs isolate BKS1790 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859247.1	1041	Fringilla coelebs isolate BKS1789 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859246.1	1041	Fringilla coelebs isolate BKS1660 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KU859245.1	1041	Fringilla coelebs isolate BKS1657 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KM078769.1	16801	Fringilla coelebs mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	NC_025599.1	16801	Fringilla coelebs mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	JN715455.1	1041	Fringilla coelebs NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672966.1	1041	Fringilla coelebs isolate A285750 (FC_MOR_05) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672965.1	1041	Fringilla coelebs isolate A285749 (FC_MOR_04) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

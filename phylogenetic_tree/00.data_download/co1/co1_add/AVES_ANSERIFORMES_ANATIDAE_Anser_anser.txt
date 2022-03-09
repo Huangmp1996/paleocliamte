@@ -1,0 +1,9 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	MN122908.1	16742	Anser anser mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	MK133021.1	16743	Anser anser breed Landes goose mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	MH041463.1	676	Anser anser isolate FACU EEO2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	JN793564.1	617	Anser anser voucher AURH1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	GU571728.1	648	Anser anser voucher BISE-Aves24 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	GU571727.1	648	Anser anser voucher BISE-Aves412 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	GU571243.1	753	Anser anser voucher NHMO-BC394 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	GU571242.1	955	Anser anser voucher NHMO-BC395 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_anser	NC_011196.1	16738	Anser anser mitochondrion, complete genome

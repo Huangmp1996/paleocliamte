@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	FJ379296.1	16753	Dendrocygna javanica mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	EU585648.1	1045	Dendrocygna javanica voucher IPMB 455 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	KC439264.1	428	Dendrocygna javanica cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	NC_012844.1	16753	Dendrocygna javanica mitochondrion, complete genome

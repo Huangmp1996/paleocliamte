@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	NC_040990.1	16860	Calidris ruficollis mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	MG736926.1	16860	Calidris ruficollis mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	MK262224.1	648	Calidris ruficollis voucher SP494 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	KF009527.1	900	Calidris ruficollis voucher MKP 2209 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	JQ174235.1	652	Calidris ruficollis voucher USNM:Birds:633343 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

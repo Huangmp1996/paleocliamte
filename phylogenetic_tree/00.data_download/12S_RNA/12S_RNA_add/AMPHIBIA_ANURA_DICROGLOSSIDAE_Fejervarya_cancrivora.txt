@@ -1,0 +1,35 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	MW007342.1	1920	Fejervarya cancrivora isolate SH13_008 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU652694.1	17843	Fejervarya cancrivora mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	NC_012647.1	17843	Fejervarya cancrivora mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	AY880471.1	322	Fejervarya cancrivora 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	AY880451.1	379	Fejervarya cancrivora 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	AB488859.1	417	Fejervarya cancrivora mitochondrial gene for 12S ribosomal RNA, partial sequence, country: Malaysia:Selangor
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU979789.1	359	Fejervarya cancrivora voucher MVZ239403 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	DQ458238.1	738	Fejervarya cancrivora voucher SCUMH021 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435300.1	447	Fejervarya cancrivora haplotype Jiadong-6 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435299.1	444	Fejervarya cancrivora haplotype Jiadong-5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435298.1	432	Fejervarya cancrivora haplotype Jiadong-4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435297.1	447	Fejervarya cancrivora haplotype Jiadong-3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435296.1	432	Fejervarya cancrivora haplotype Fangliao-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435295.1	441	Fejervarya cancrivora haplotype Jiadong-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435294.1	444	Fejervarya cancrivora haplotype Jiadong-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435293.1	448	Fejervarya cancrivora haplotype Fangliao-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435292.1	430	Fejervarya cancrivora haplotype Donggang-10 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435291.1	433	Fejervarya cancrivora haplotype Donggang-9 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435290.1	446	Fejervarya cancrivora haplotype Donggang-8 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435289.1	441	Fejervarya cancrivora haplotype Donggang-7 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435288.1	442	Fejervarya cancrivora haplotype Donggang-6 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435287.1	446	Fejervarya cancrivora haplotype Donggang-5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435286.1	448	Fejervarya cancrivora haplotype Donggang-4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435285.1	449	Fejervarya cancrivora haplotype Donggang-3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU435284.1	441	Fejervarya cancrivora haplotype Donggang-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	AF206092.1	509	Fejervarya cancrivora voucher ROM 1059 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU477521.1	586	Fejervarya cancrivora isolate sin-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU477520.1	355	Fejervarya cancrivora isolate fan-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU477519.1	550	Fejervarya cancrivora isolate jaid-p 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU477518.1	449	Fejervarya cancrivora isolate jaid-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU477517.1	437	Fejervarya cancrivora isolate dong-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU477516.1	597	Fejervarya cancrivora isolate Lin-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	AB070738.1	551	Fejervarya cancrivorus mitochondrial gene for 16S rRNA, partial sequence, isolate:cancri
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	AB070731.1	417	Fejervarya cancrivorus mitochondrial genes for tRNA-Phe, 12S rRNA, partial sequences, isolate:cancri(T)
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	AB070730.1	417	Fejervarya cancrivorus mitochondrial genes for tRNA-Phe, 12S rRNA, partial sequences, isolate:cancri(P)

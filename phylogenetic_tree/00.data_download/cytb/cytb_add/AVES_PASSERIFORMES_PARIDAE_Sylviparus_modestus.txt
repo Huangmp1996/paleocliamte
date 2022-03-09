@@ -1,0 +1,22 @@
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	AY308733.1	1042	Sylviparus modestus modestus MCZ 185445 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327959.1	1143	Sylviparus modestus voucher IZCAS:19898 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327958.1	1143	Sylviparus modestus voucher IZCAS:19897 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327957.1	1143	Sylviparus modestus voucher IZCAS:19841 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327956.1	1143	Sylviparus modestus voucher IZCAS:18697 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327955.1	1143	Sylviparus modestus voucher IZCAS:16728 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327954.1	1143	Sylviparus modestus voucher IZCAS:15553 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327953.1	1143	Sylviparus modestus voucher IZCAS:8842 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327952.1	1143	Sylviparus modestus voucher IZCAS:8841 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327951.1	1143	Sylviparus modestus voucher IZCAS:8840 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327950.1	1143	Sylviparus modestus voucher IZCAS:8839 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327949.1	1143	Sylviparus modestus voucher IZCAS:8838 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327948.1	1143	Sylviparus modestus voucher KIZ:glgs1259 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327947.1	1143	Sylviparus modestus voucher KIZ:glgs1241 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KT327946.1	1143	Sylviparus modestus voucher KIZ:glgs1240 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KP642167.2	17086	Sylviparus modestus voucher IZCAS:IOZ8837 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	NC_026793.1	17086	Sylviparus modestus voucher IZCAS:IOZ8837 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	KJ456483.1	1026	Sylviparus modestus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	HM185371.1	948	Sylviparus modestus voucher KIZglgs1241 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	HM185370.1	948	Sylviparus modestus voucher KIZglgs1240 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	HM185311.1	1201	Sylviparus modestus voucher KIZglgs1240 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Sylviparus_modestus	HM185310.1	1201	Sylviparus modestus voucher KIZglgs1241 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

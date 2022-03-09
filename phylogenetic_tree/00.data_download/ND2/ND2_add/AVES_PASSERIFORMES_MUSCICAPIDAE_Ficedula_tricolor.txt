@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_tricolor	DQ674477.1	961	Ficedula tricolor NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_tricolor	KJ455435.1	1041	Ficedula tricolor NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_tricolor	KJ909999.1	1041	Ficedula tricolor voucher KU11224 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_tricolor	JX256057.1	1023	Ficedula tricolor voucher MNHN 15.49 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial

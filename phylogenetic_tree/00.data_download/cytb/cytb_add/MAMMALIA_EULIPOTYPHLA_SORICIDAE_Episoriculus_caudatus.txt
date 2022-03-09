@@ -1,0 +1,13 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	NC_026131.1	17129	Episoriculus caudatus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	KM503097.1	17129	Episoriculus caudatus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981277.1	1140	Episoriculus caudatus isolate Epicau19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981276.1	1140	Episoriculus caudatus isolate Epicau18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981275.1	1140	Episoriculus caudatus isolate Epicau13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981274.1	1140	Episoriculus caudatus isolate Epicau12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981273.1	1140	Episoriculus caudatus isolate Epicau11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981272.1	1140	Episoriculus caudatus isolate Epicau08 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	D85352.1	402	Episoriculus caudatus mitochondrial gene for cytochrome b, partial cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	AB175115.1	1140	Episoriculus caudatus soluensis mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	AB175114.1	1140	Episoriculus caudatus soluensis mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	AB175113.1	1140	Episoriculus caudatus soluensis mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	AB175112.1	1140	Episoriculus caudatus soluensis mitochondrial gene for cytochrome b, complete cds

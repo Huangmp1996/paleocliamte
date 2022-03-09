@@ -1,0 +1,3 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	NC_052836.1	17105	Gekko subpalmatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	MK680534.1	17105	Gekko subpalmatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	JN019063.1	1323	Gekko subpalmatus voucher AMB 6567 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; and tRNA-Cys gene, partial sequence; mitochondrial

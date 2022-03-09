@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	GQ482503.1	666	Plectrophenax nivalis voucher UWBM 82268 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	GU572047.1	648	Plectrophenax nivalis voucher BISE-Aves299 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	GU571579.1	693	Plectrophenax nivalis voucher NHMO-BC385 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	GU571578.1	705	Plectrophenax nivalis voucher NHMO-BC195 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	GU571204.1	648	Plectrophenax nivalis voucher BISE-Aves221 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ433117.1	670	Plectrophenax nivalis voucher NRM 946531 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ433116.1	599	Plectrophenax nivalis voucher B06047 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	KF946829.1	613	Plectrophenax nivalis insulae voucher ZMA56672 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

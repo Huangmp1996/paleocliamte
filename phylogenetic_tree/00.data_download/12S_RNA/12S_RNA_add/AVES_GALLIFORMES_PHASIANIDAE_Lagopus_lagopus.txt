@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_lagopus	NC_035568.1	16677	Lagopus lagopus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_lagopus	KX609784.1	16677	Lagopus lagopus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_lagopus	AF222583.1	967	Lagopus lagopus 12S small subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_lagopus	AF230152.1	324	Lagopus lagopus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

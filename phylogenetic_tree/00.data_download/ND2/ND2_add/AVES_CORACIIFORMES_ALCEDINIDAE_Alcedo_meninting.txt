@@ -1,0 +1,5 @@
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_meninting	MG008074.1	1041	Alcedo meninting voucher KUNHM 17720 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_meninting	MG008073.1	1041	Alcedo meninting voucher KUNHM 12592 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_meninting	AY998921.1	345	Alcedo menninting voucher LSUMNS 168286 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_meninting	DQ640774.1	1036	Alcedo meninting voucher MNHN 05-03 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_meninting	KJ455316.1	1041	Alcedo meninting voucher UWBM:82081 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

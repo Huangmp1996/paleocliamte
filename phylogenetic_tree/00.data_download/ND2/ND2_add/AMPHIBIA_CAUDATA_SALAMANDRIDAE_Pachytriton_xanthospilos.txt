@@ -1,0 +1,28 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KU375020.1	1124	Pachytriton xanthospilos voucher KIZ021812 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KU375019.1	1124	Pachytriton xanthospilos voucher KIZ06752 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KU375018.1	1124	Pachytriton xanthospilos voucher KIZ06751 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KU375017.1	1124	Pachytriton xanthospilos voucher KIZ06750 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152554.1	1181	Pachytriton xanthospilos isolate YPX16820 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152553.1	1181	Pachytriton xanthospilos isolate YPX16819 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152552.1	1181	Pachytriton xanthospilos isolate YPX16818 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152551.1	1181	Pachytriton xanthospilos isolate YPX15895 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152550.1	1181	Pachytriton xanthospilos isolate YPX15894 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152549.1	1181	Pachytriton xanthospilos isolate YPX15893 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152535.1	1181	Pachytriton xanthospilos isolate 24855 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152534.1	1181	Pachytriton xanthospilos isolate 24854 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152533.1	1181	Pachytriton xanthospilos isolate 24853 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152532.1	1181	Pachytriton xanthospilos isolate 24852 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152531.1	1181	Pachytriton xanthospilos isolate 24851 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152527.1	1181	Pachytriton xanthospilos isolate 24846 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152526.1	1181	Pachytriton xanthospilos isolate 24844 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	KT152525.1	1181	Pachytriton xanthospilos isolate 24842 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237745.1	1181	Pachytriton xanthospilos voucher CIB 97905 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237744.1	1181	Pachytriton xanthospilos voucher CIB 97904 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237743.1	1181	Pachytriton xanthospilos voucher CIB 97903 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237742.1	1181	Pachytriton xanthospilos voucher CIB 97902 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237741.1	1181	Pachytriton xanthospilos voucher CIB 97901 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237740.1	1181	Pachytriton xanthospilos voucher CIB 97900 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237734.1	1181	Pachytriton xanthospilos voucher KIZ 06752 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237733.1	1181	Pachytriton xanthospilos voucher KIZ 06751 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237732.1	1181	Pachytriton xanthospilos voucher KIZ 06750 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_xanthospilos	JX237730.1	1181	Pachytriton xanthospilos voucher Pet 001 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

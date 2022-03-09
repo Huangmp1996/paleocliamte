@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	NC_026034.1	16360	Myospalax psilurus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	JX014234.1	16360	Myospalax psilurus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	AF326250.1	951	Myospalax psilurus isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	AF326249.1	952	Myospalax psilurus isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

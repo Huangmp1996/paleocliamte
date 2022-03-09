@@ -1,0 +1,7 @@
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	MH218120.1	960	Merops viridis americanus voucher FMNH:358336 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	MH218119.1	939	Merops viridis americanus voucher FMNH:358335 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	NC_034642.1	18295	Merops viridis mitochondrion, complete genome
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	KU821702.1	18295	Merops viridis mitochondrion, complete genome
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	EU166941.1	2679	Merops viridis tRNA-Leu gene, partial sequence; NADH dehydrogenase subunit 1 gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Asn and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	EU021528.1	1041	Merops viridis americanus voucher LSUMNS B27104 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	EU021527.1	1041	Merops viridis viridis voucher LSUMNS B51022 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

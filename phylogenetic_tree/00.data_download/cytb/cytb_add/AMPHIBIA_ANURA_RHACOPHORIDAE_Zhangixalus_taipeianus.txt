@@ -1,0 +1,21 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00726.1	762	Rhacophorus Taipeianus clone U12 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00725.1	723	Rhacophorus Taipeianus clone D1 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00724.1	723	Rhacophorus Taipeianus clone D2 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00723.1	722	Rhacophorus Taipeianus clone D3 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00722.1	762	Rhacophorus Taipeianus clone L1 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00721.1	722	Rhacophorus Taipeianus clone M1 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00720.1	722	Rhacophorus Taipeianus clone T1 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00719.1	722	Rhacophorus Taipeianus clone U11 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00718.1	722	Rhacophorus Taipeianus clone Y3 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00717.1	723	Rhacophorus Taipeianus clone U2 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00716.1	722	Rhacophorus Taipeianus clone U3 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00715.1	722	Rhacophorus Taipeianus clone U4 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00714.1	722	Rhacophorus Taipeianus clone Y11 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00713.1	762	Rhacophorus Taipeianus clone Y12 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00712.1	722	Rhacophorus Taipeianus clone Y21 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00711.1	762	Rhacophorus Taipeianus clone Y22 mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00708.1	722	Rhacophorus Taipeianus clone SI mitochondrion cytochrome b gene, partial cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00729.1	722	Rhacophorus taipeianus clone M2 cytochrome b gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00728.1	722	Rhacophorus taipeianus clone T2 cytochrome b gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00727.1	761	Rhacophorus taipeianus clone T3 cytochrome b gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_taipeianus	U00696.1	764	Rhacophorus Taipeianus clone S2 mitochondrion cytochrome b gene, partial cds

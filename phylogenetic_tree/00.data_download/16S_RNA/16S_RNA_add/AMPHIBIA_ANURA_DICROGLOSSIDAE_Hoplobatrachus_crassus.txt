@@ -1,0 +1,25 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983033.1	485	Hoplobatrachus crassus voucher CDZMTU283 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983032.1	485	Hoplobatrachus crassus voucher CDZMTU282 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983031.1	503	Hoplobatrachus crassus voucher CDZMTU281 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983030.1	503	Hoplobatrachus crassus voucher CDZMTU280 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983029.1	485	Hoplobatrachus crassus voucher CDZMTU279 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983028.1	503	Hoplobatrachus crassus voucher CDZMTU278 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983027.1	503	Hoplobatrachus crassus voucher CDZMTU277 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983026.1	503	Hoplobatrachus crassus voucher CDZMTU276 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983025.1	485	Hoplobatrachus crassus voucher CDZMTU275 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983024.1	503	Hoplobatrachus crassus voucher CDZMTU274 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983023.1	503	Hoplobatrachus crassus voucher CDZMTU273 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983022.1	503	Hoplobatrachus crassus voucher CDZMTU272 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983021.1	503	Hoplobatrachus crassus voucher CDZMTU271 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	MT983020.1	485	Hoplobatrachus crassus voucher CDZMTU270 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AB671184.1	554	Hoplobatrachus crassus mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: IABHU<JPN>:3973
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AB530503.1	1454	Hoplobatrachus crassus mitochondrial genes for 16S rRNA, tRNA-Val, partial sequence, haplotype: Hcra-Bd1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AB543601.1	1454	Hoplobatrachus crassus mitochondrial genes for 16S rRNA, tRNA-Val, partial sequence, haplotype: Hcra-Bd2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	DQ346972.1	1374	Hoplobatrachus crassus isolate 0107 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AY014375.1	547	Hoplobatrachus crassus isolate Unaw 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AY014369.1	548	Hoplobatrachus crassus isolate 107 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AF249013.1	749	Hoplobatrachus crassus 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AY341688.1	658	Hoplobatrachus crassus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AF249044.1	555	Hoplobatrachus crassus 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AB290413.1	517	Hoplobatrachus crassus mitochondrial gene for 16S rRNA, partial sequence, haplotype: cra-assa-A
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AB272595.1	517	Hoplobatrachus crassus mitochondrial gene for 16S rRNA, partial sequence, haplotype: cra-khul-A

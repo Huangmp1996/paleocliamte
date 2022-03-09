@@ -1,0 +1,38 @@
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	NC_058082.1	626048145	Bufo gargarizans isolate SCDJY-AF-19 chromosome 3, ASM1485885v1, whole genome shotgun sequence
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	NC_058089.1	133019451	Bufo gargarizans isolate SCDJY-AF-19 chromosome 10, ASM1485885v1, whole genome shotgun sequence
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133358.1	959	Bufo gargarizans andrewsi voucher KIZYPX14110 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133335.1	1933	Bufo gargarizans andrewsi voucher KIZ045050 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133334.1	1931	Bufo gargarizans voucher KIZ045227 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133333.1	1392	Bufo gargarizans voucher KIZYPX40664 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133332.1	1394	Bufo gargarizans voucher KIZYPX40666 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133331.1	1870	Bufo gargarizans voucher KIZ016492 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133330.1	1908	Bufo gargarizans voucher KIZ019263 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133329.1	1911	Bufo gargarizans voucher KIZ019290 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133328.1	1910	Bufo gargarizans voucher KIZYPX30298 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133327.1	1917	Bufo gargarizans voucher KIZ019288 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133326.1	1917	Bufo gargarizans voucher KIZ08276 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133325.1	1930	Bufo gargarizans voucher KIZYPX30299 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133324.1	1931	Bufo gargarizans voucher KIZYPX16231 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MW133323.1	1931	Bufo gargarizans voucher KIZ045186 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MK031442.1	1860	Bufo gargarizans 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	MK031441.1	1864	Bufo gargarizans voucher BG107 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	DQ283230.1	2423	Bufo gargarizans andrewsi voucher CAS 214911 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	KU321581.1	17407	Bufo gargarizans mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	FJ882843.1	3351	Bufo gargarizans voucher ZMMSU A-4127; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	FJ882808.1	3871	Bufo gargarizans andrewsi voucher CAS 228184; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	DQ158428.1	2351	Bufo gargarizans andrewsi voucher USNM 292081 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	DQ158427.1	1716	Bufo gargarizans andrewsi voucher CAS 214911 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	KX016027.1	903	Bufo gargarizans 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	DQ275350.1	17277	Bufo gargarizans mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	KF665018.1	377	Bufo gargarizans voucher CAS 242154 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	KM587710.1	17719	Bufo gargarizans minshanicus mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	KJ803016.1	906	Bufo gargarizans andrewsi 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	NC_008410.1	17277	Bufo gargarizans mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	AB159477.1	690	Bufo gargarizans mitochondrial genes for tRNA-Leu(CUN), tRNA-Thr, tRNA-Pro, tRNA-Phe, and 12S rRNA, complete and partial sequence, haplotype:B.j.gar
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	AB159475.1	690	Bufo gargarizans miyakonis mitochondrial genes for tRNA-Leu(CUN), tRNA-Thr, tRNA-Pro, tRNA-Phe, and 12S rRNA, complete and partial sequence, haplotype:B.j.miy
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	AF315131.1	563	Bufo gargarizans 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	AF205541.1	388	Bufo gargarizans 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	AF160767.1	377	Bufo gargarizans KIZ-96L078 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	AF160764.1	377	Bufo andrewsi KIZ-95L004 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	AF218711.1	425	Bufo gargarizans 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_gargarizans	U52720.1	871	Bufo gargarizans MVZ 211360 12S ribosomal RNA gene, mitochondrial gene encoding mitochondrial rRNA, partial sequence

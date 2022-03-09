@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_campbelli	EF025538.3	3218	Phodopus campbelli haplotype 01 cytochrome b gene, complete cds; tRNA-Thr and tRNA-Pro genes, control region, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_campbelli	AY997823.1	901	Phodopus campbelli 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_campbelli	AM000048.1	789	Phodopus campbelli partial vwf gene for von Willebrand factor
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_campbelli	AJ973389.1	925	Phodopus campbelli mitochondrial partial cytb gene for cytochrome b

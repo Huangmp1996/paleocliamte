@@ -1,0 +1,100 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536372.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM11507
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536367.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM12207
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536326.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM12603
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536325.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM12559
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536324.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM12465
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536323.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM11951
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536322.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM11783
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536321.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM11782
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536320.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM11610
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536319.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM11604
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536318.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM11569
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR536317.1	1140	Crocidura suaveolens mitochondrion mRNA for Cytochrome b (cytb gene), specimen voucher TAUM11502
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690944.1	1128	Crocidura suaveolens isolate csd2349 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690943.1	1128	Crocidura suaveolens isolate csd2348 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690942.1	1128	Crocidura suaveolens isolate csd2347 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690941.1	1128	Crocidura suaveolens isolate csd2346 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690940.1	1128	Crocidura suaveolens isolate csd2345 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690939.1	1128	Crocidura suaveolens isolate csd2344 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690938.1	1128	Crocidura suaveolens isolate csd2343 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690937.1	1128	Crocidura suaveolens isolate SQ88 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690936.1	1128	Crocidura suaveolens isolate SQ70 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690935.1	1128	Crocidura suaveolens isolate SQ69 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690934.1	1128	Crocidura suaveolens isolate SQ68 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690933.1	1128	Crocidura suaveolens isolate SQ67 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690932.1	1128	Crocidura suaveolens isolate SQ66 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690931.1	1128	Crocidura suaveolens isolate SQ65 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MN690930.1	1128	Crocidura suaveolens isolate SQ64 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988055.1	772	Crocidura suaveolens voucher eNAV2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988054.1	1036	Crocidura suaveolens voucher SCAN03 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988053.1	1036	Crocidura suaveolens voucher SUNG04 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988052.1	1035	Crocidura suaveolens voucher SISCEN06 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988051.1	1036	Crocidura suaveolens voucher SISCEN01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988050.1	1036	Crocidura suaveolens voucher SALM85 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988049.1	1036	Crocidura suaveolens voucher SALM05 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988048.1	1036	Crocidura suaveolens voucher SALM16 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988047.1	1229	Crocidura suaveolens voucher CS4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988046.1	1229	Crocidura suaveolens voucher CS3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988045.1	1131	Crocidura suaveolens voucher CS2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988044.1	1152	Crocidura suaveolens voucher CS1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988043.1	1036	Crocidura suaveolens voucher AYA15 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988042.1	1036	Crocidura suaveolens voucher AYA14 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988041.1	1036	Crocidura suaveolens voucher AYA12 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988040.1	1036	Crocidura suaveolens voucher 6804.1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988039.1	1036	Crocidura suaveolens voucher SOPI12 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988038.1	1036	Crocidura suaveolens voucher SMEN01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988037.1	1251	Crocidura suaveolens voucher 2901 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988036.1	1251	Crocidura suaveolens voucher 2805 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988035.1	1251	Crocidura suaveolens voucher 2803 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988034.1	1251	Crocidura suaveolens voucher 2802 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988033.1	1251	Crocidura suaveolens voucher 2801 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988032.1	1251	Crocidura suaveolens voucher 1502 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988031.1	1251	Crocidura suaveolens voucher 1501 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988030.1	1238	Crocidura suaveolens voucher 1409 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988029.1	1251	Crocidura suaveolens voucher 1408 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988028.1	1251	Crocidura suaveolens voucher 1407 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988027.1	1251	Crocidura suaveolens voucher 1406 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988026.1	1236	Crocidura suaveolens voucher 1403 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988025.1	1251	Crocidura suaveolens voucher 1402 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988024.1	1251	Crocidura suaveolens voucher 1401 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988023.1	1251	Crocidura suaveolens voucher 1302 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988022.1	1251	Crocidura suaveolens voucher 1301 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988021.1	1036	Crocidura suaveolens voucher SARG08 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988020.1	1036	Crocidura suaveolens voucher SARG04 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988019.1	1036	Crocidura suaveolens voucher 020.10 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988018.1	1036	Crocidura suaveolens voucher 020.8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988017.1	1036	Crocidura suaveolens voucher 020.7 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988016.1	1036	Crocidura suaveolens voucher 020.6 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988015.1	1036	Crocidura suaveolens voucher 020.5 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988014.1	1036	Crocidura suaveolens voucher 020.4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988013.1	1036	Crocidura suaveolens voucher 020.1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988012.1	1251	Crocidura suaveolens voucher PV2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988011.1	1251	Crocidura suaveolens voucher OV5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988010.1	1251	Crocidura suaveolens voucher G9 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988009.1	1251	Crocidura suaveolens voucher D74 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988008.1	1251	Crocidura suaveolens voucher D71 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988007.1	1251	Crocidura suaveolens voucher CS74 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988006.1	1251	Crocidura suaveolens voucher CC24 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988005.1	1251	Crocidura suaveolens voucher CC23 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988004.1	1054	Crocidura suaveolens voucher OV8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988003.1	1055	Crocidura suaveolens voucher OV7 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988002.1	1073	Crocidura suaveolens voucher OV6 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988001.1	1048	Crocidura suaveolens voucher OV2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF988000.1	1083	Crocidura suaveolens voucher OV23 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987999.1	1048	Crocidura suaveolens voucher OV22 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987998.1	1121	Crocidura suaveolens voucher OV21 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987997.1	1122	Crocidura suaveolens voucher OV20 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987996.1	1052	Crocidura suaveolens voucher OV19 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987995.1	1054	Crocidura suaveolens voucher OV17 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987994.1	1056	Crocidura suaveolens voucher OV11 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987993.1	1101	Crocidura suaveolens voucher G7 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987992.1	1121	Crocidura suaveolens voucher G5 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987991.1	1122	Crocidura suaveolens voucher G4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987990.1	1121	Crocidura suaveolens voucher G3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987989.1	1120	Crocidura suaveolens voucher G2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987988.1	1095	Crocidura suaveolens voucher G12 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987987.1	1121	Crocidura suaveolens voucher G11 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987986.1	1124	Crocidura suaveolens voucher G10 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987985.1	1092	Crocidura suaveolens voucher OV12 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987984.1	1096	Crocidura suaveolens voucher G8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	MF987983.1	1108	Crocidura suaveolens voucher G6 cytochrome b (Cytb) gene, partial cds; mitochondrial

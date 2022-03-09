@@ -1,0 +1,6 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	NC_023351.1	17460	Nectogale elegans mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	KC503902.1	17460	Nectogale elegans mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981248.1	591	Nectogale elegans isolate Neceleg8 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981247.1	591	Nectogale elegans isolate Neceleg7 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981246.1	591	Nectogale elegans isolate Neceleg2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981245.1	591	Nectogale elegans isolate Neceleg1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

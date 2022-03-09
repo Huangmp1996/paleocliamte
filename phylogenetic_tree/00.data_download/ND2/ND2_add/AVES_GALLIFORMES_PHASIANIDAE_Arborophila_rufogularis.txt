@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufogularis	FJ752424.1	16726	Arborophila rufogularis mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufogularis	KP119004.1	1008	Arborophila rufogularis voucher HH01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufogularis	KC778825.1	1026	Arborophila rufogularis NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufogularis	NC_020584.1	16726	Arborophila rufogularis mitochondrion, complete genome

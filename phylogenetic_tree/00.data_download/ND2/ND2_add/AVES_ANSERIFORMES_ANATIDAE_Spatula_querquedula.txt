@@ -1,0 +1,3 @@
+AVES_ANSERIFORMES_ANATIDAE_Spatula_querquedula	EU585673.1	1041	Anas querquedula voucher IPMB 4191 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_querquedula	AF059146.1	1093	Anas querquedula tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Spatula_querquedula	AF059086.1	1074	Anas querquedula cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products

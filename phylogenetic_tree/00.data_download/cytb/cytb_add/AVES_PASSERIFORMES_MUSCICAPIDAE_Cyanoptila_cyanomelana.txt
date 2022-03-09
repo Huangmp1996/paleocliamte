@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	KP337025.1	974	Cyanoptila cyanomelana isolate 16356 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	DQ365019.1	1143	Cyanoptila cyanomelana cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	HQ896033.1	16802	Cyanoptila cyanomelana mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	HM633286.1	1041	Cyanoptila cyanomelana voucher DZUG-U307 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	NC_015232.1	16802	Cyanoptila cyanomelana mitochondrion, complete genome

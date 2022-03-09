@@ -1,0 +1,41 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482587.1	694	Pyrrhula pyrrhula voucher UWBM 64790 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482586.1	694	Pyrrhula pyrrhula voucher UWBM 78212 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482585.1	688	Pyrrhula pyrrhula voucher UWBM 66529 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482584.1	683	Pyrrhula pyrrhula voucher UWBM 74319 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482583.1	682	Pyrrhula pyrrhula voucher UWBM 47593 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482582.1	682	Pyrrhula pyrrhula voucher UWBM 74862 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482581.1	674	Pyrrhula pyrrhula voucher UWBM 56768 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482580.1	674	Pyrrhula pyrrhula voucher UWBM 49773 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482579.1	673	Pyrrhula pyrrhula voucher UWBM 51637 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482578.1	673	Pyrrhula pyrrhula voucher UWBM 73660 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482577.1	671	Pyrrhula pyrrhula voucher UWBM 44038 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GU572069.1	648	Pyrrhula pyrrhula voucher BISE-Aves231 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GU572068.1	648	Pyrrhula pyrrhula voucher BISE-Aves356 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GU571602.1	711	Pyrrhula pyrrhula voucher NHMO-BC574 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GU571601.1	718	Pyrrhula pyrrhula voucher NHMO-BC573 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GU571600.1	747	Pyrrhula pyrrhula voucher NHMO-BC534 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GU571599.1	729	Pyrrhula pyrrhula voucher NHMO-BC535 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GU571598.1	751	Pyrrhula pyrrhula voucher NHMO-BC76 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482592.1	694	Pyrrhula pyrrhula voucher ZMMU RYA 1686 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482591.1	694	Pyrrhula pyrrhula voucher ZMMU RYA 1677 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482590.1	694	Pyrrhula pyrrhula voucher ZMMU RYA 1676 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482589.1	694	Pyrrhula pyrrhula voucher ZMMU RYA 1699b cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	GQ482588.1	694	Pyrrhula pyrrhula voucher ZMMU RYA 1687 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KM078804.1	16831	Pyrrhula pyrrhula mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843730.1	600	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO233-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843729.1	654	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO516-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843728.1	636	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO232-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843118.1	712	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM514-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843117.1	701	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM442-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843116.1	659	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM452-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843115.1	636	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM839-12
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843114.1	708	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM672-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843113.1	666	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM394-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843112.1	663	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM214-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AB843111.1	708	Pyrrhula pyrrhula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM671-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	NC_025625.1	16831	Pyrrhula pyrrhula mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KF946840.1	603	Pyrrhula pyrrhula europoea voucher ZMA60137 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KF946839.1	604	Pyrrhula pyrrhula europoea voucher ZMA58795 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KF946838.1	606	Pyrrhula pyrrhula europoea voucher ZMA58794 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KF946837.1	561	Pyrrhula pyrrhula europoea voucher ZMA58793 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KF946836.1	559	Pyrrhula pyrrhula europoea voucher ZMA56673 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

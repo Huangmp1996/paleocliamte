@@ -1,0 +1,3 @@
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	DQ888663.1	957	Hipposideros armiger isolate HA01 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	NC_018540.1	16784	Hipposideros armiger mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN980966.1	16784	Hipposideros armiger mitochondrion, complete genome

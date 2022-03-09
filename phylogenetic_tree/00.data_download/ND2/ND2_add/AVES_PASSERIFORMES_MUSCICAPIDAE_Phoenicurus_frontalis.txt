@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	NC_053917.1	16776	Phoenicurus frontalis mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	MT360379.1	16776	Phoenicurus frontalis mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	GU930812.1	1041	Phoenicurus frontalis voucher AMNH DOT5565 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	KJ455552.1	1041	Phoenicurus frontalis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

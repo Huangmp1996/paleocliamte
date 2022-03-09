@@ -1,0 +1,3 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	EU585681.1	1011	Anser fabalis voucher IPMB 41649 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	HQ890328.1	16688	Anser fabalis mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	JQ282384.1	487	Anser fabalis NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

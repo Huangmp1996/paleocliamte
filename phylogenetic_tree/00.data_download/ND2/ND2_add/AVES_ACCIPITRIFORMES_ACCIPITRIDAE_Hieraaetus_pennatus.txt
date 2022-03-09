@@ -1,0 +1,3 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	MK294165.1	17666	Hieraaetus pennatus mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	AY987111.1	1041	Hieraaetus pennatus voucher UMMZ 75313 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	AY987110.1	1041	Hieraaetus pennatus voucher WOB, Captive, Photo WOB-5 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

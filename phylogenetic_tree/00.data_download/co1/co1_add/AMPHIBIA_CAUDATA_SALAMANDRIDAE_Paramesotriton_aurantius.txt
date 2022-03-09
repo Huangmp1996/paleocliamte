@@ -1,0 +1,4 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_aurantius	NC_053903.1	16313	Paramesotriton aurantius mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_aurantius	MW056201.1	16313	Paramesotriton aurantius mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_aurantius	MK086019.1	594	Paramesotriton aurantius isolate SWFUYuan1361 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_aurantius	MK086018.1	594	Paramesotriton aurantius isolate KIZ012879 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

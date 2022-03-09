@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_popei	MK201300.1	585	Hebius popei voucher CHS154 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_popei	KJ685705.1	1074	Hebius popei voucher GP63 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_popei	KJ685697.1	1074	Hebius popei voucher GP2386 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_popei	KJ685692.1	1073	Hebius popei voucher GP2169 cytochrome b (cytb) gene, partial cds; mitochondrial

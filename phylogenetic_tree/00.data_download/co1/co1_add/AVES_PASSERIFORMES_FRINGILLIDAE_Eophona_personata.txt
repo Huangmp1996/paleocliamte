@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Eophona_personata	GQ481604.1	681	Eophona personata voucher UWBM 75166 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Eophona_personata	GQ481603.1	655	Eophona personata voucher UWBM 75152 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Eophona_personata	KX812499.1	16771	Eophona personata mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Eophona_personata	AB843498.1	695	Eophona personata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO467-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Eophona_personata	AB842757.1	672	Eophona personata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM511-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Eophona_personata	AB842756.1	685	Eophona personata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM535-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Eophona_personata	AB842755.1	696	Eophona personata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM767-11

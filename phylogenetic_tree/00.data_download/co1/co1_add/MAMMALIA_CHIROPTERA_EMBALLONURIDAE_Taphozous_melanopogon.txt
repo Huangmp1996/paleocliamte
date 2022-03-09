@@ -1,0 +1,31 @@
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MZ286363.1	16566	Taphozous melanopogon mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK728950.1	682	Taphozous melanopogon isolate S36 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK728949.1	676	Taphozous melanopogon isolate S34 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK728948.1	676	Taphozous melanopogon isolate S33 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK728947.1	678	Taphozous melanopogon isolate M3 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK728946.1	679	Taphozous melanopogon isolate M2 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK728945.1	681	Taphozous melanopogon isolate M1 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410418.1	1545	Taphozous melanopogon isolate MM4390M30 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410417.1	1545	Taphozous melanopogon isolate MM4389M29 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410416.1	1545	Taphozous melanopogon isolate MM4378M18 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410415.1	1545	Taphozous melanopogon isolate MM4377M17 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410414.1	1545	Taphozous melanopogon isolate MM4376M16 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410413.1	1545	Taphozous melanopogon isolate MM4375M15 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410412.1	1545	Taphozous melanopogon isolate MM4374M14 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410411.1	1545	Taphozous melanopogon isolate MM4373M13 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410410.1	1545	Taphozous melanopogon isolate MM4372M12 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410409.1	1545	Taphozous melanopogon isolate MM4371M11 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410408.1	1545	Taphozous melanopogon isolate MM4370M10 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410407.1	1545	Taphozous melanopogon isolate MM4369M9 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410406.1	1545	Taphozous melanopogon isolate MM4368M8 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410405.1	1545	Taphozous melanopogon isolate MM4367M7 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410404.1	1545	Taphozous melanopogon isolate MM4366M6 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	HM541975.1	531	Taphozous melanopogon voucher ROM MAM 110980 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	HM541974.1	657	Taphozous melanopogon voucher ROM MAM 110981 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	HM541973.1	657	Taphozous melanopogon voucher ROM MAM 110983 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	HM541972.1	657	Taphozous melanopogon voucher ROM MAM 110984 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	HM541971.1	657	Taphozous melanopogon voucher ROM MAM 110985 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	HM541970.1	657	Taphozous melanopogon voucher ROM MAM 110986 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	HM541969.1	657	Taphozous melanopogon voucher ROM MAM 111014 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	HM541968.1	421	Taphozous melanopogon voucher ZMMU S-174651 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	JF444115.1	654	Taphozous melanopogon voucher ROM 110982 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

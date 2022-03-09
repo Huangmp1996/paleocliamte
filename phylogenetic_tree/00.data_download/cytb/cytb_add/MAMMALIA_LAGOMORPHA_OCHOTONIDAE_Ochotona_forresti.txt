@@ -1,0 +1,17 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KX989537.1	1140	Ochotona forresti voucher SAF 07680 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024917.1	1140	Ochotona forresti isolate YL02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024916.1	1113	Ochotona forresti isolate YL01 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024915.1	1140	Ochotona forresti isolate GL09 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024914.1	1140	Ochotona forresti isolate GL08 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024913.1	1140	Ochotona forresti isolate GL07 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024912.1	1140	Ochotona forresti isolate GL06 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024911.1	1140	Ochotona forresti isolate GL05 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024910.1	1140	Ochotona forresti isolate GL04 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024909.1	1140	Ochotona forresti isolate GL03 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024908.1	1140	Ochotona forresti isolate GL02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024907.1	1140	Ochotona forresti isolate GL01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KY024906.1	1140	Ochotona forresti isolate Gali01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	AF272998.1	1140	Ochotona forresti cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KU359628.1	1137	Ochotona forresti isolate CYRD02001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KU359627.1	1137	Ochotona forresti isolate RD0202 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_forresti	KU359626.1	1137	Ochotona forresti isolate XZ13027 cytochrome b (cytb) gene, partial cds; mitochondrial

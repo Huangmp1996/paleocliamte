@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_himalayana	MK305281.1	16442	Marmota himalayana mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_himalayana	NC_018367.1	16443	Marmota himalayana mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_himalayana	JX069958.1	16443	Marmota himalayana mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_himalayana	JX962054.1	653	Marmota himalayana isolate QHMX85_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_himalayana	JX962053.1	653	Marmota himalayana isolate QHMX70_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

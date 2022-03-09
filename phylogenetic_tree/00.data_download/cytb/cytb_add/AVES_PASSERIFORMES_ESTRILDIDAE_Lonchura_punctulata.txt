@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	MT050608.1	1041	Lonchura punctulata cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	MN991593.1	1143	Lonchura punctulata voucher LSUMNS B-84863 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	EU423954.1	921	Lonchura punctulata punctulata isolate 1417 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	NC_028036.1	16824	Lonchura punctulata mitochondrion, complete genome
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	KR184724.1	16824	Lonchura punctulata mitochondrion, complete genome
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	KJ456325.1	1143	Lonchura punctulata voucher CAS:92755 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	KC439278.1	422	Lonchura punctulata cytochrome b (cytb) gene, partial cds; mitochondrial

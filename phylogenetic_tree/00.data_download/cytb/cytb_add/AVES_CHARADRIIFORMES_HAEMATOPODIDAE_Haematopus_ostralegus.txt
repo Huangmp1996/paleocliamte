@@ -1,0 +1,7 @@
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	LR595930.1	1071	Haematopus ostralegus mitochondrion partial cytb gene for Cytochrome b, specimen voucher NA, isolate HO03
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	MH727533.1	16798	Haematopus ostralegus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	EF514928.1	389	Haematopus ostralegus ostralegus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	NC_034237.1	16798	Haematopus ostralegus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	KY419886.1	16798	Haematopus ostralegus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	EU166998.1	1143	Haematopus ostralegus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	AF440782.1	1143	Haematopus ostralegus cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product

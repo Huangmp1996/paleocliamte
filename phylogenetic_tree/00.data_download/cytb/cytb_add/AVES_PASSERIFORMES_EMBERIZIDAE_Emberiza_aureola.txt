@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	LC541464.1	16797	Schoeniclus aureolus ornatus 1999-0362 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	KP877778.1	1035	Schoeniclus aureolus ornatus isolate MAR5927 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	KP877741.1	652	Schoeniclus aureolus aureolus isolate MAR4474 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	KP877740.1	617	Schoeniclus aureolus ornatus isolate MAR4362 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	NC_022150.1	16800	Emberiza aureola mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	KF111713.1	16800	Emberiza aureola mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	EU325735.1	1076	Emberiza aureola ornata cytochrome b gene, partial cds; mitochondrial

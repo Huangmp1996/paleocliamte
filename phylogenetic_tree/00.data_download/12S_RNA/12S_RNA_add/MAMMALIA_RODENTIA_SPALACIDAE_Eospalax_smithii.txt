@@ -1,0 +1,28 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	NC_048987.1	16350	Eospalax smithii mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	MH891800.1	16350	Eospalax smithii mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339021.1	1140	Eospalax smithii isolate 05 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339020.1	1140	Eospalax smithii isolate 03 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339019.1	1140	Eospalax smithii isolate 02 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339018.1	1140	Eospalax smithii isolate 01 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339030.1	952	Eospalax smithii isolate 05 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339029.1	952	Eospalax smithii isolate 03 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339028.1	952	Eospalax smithii isolate 02 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339027.1	952	Eospalax smithii isolate 01 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522006.1	817	Eospalax smithii voucher Dazumu(s)52 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522005.1	817	Eospalax smithii voucher Dazumu(s)51 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521998.1	817	Eospalax smithii voucher Ashinu(s)87 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521996.1	815	Eospalax smithii voucher Shiergou(s)155 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521992.1	815	Eospalax smithii voucher Shiergou(s)161 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521991.1	815	Eospalax smithii voucher Machang(s)13 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521990.1	815	Eospalax smithii voucher Machang(s)11 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521976.1	816	Eospalax smithii voucher Songduo(s)83 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521969.1	816	Eospalax smithii voucher Xizhang(s)2-9 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521965.1	816	Eospalax smithii voucher Xizhang(s)05 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521964.1	816	Eospalax smithii voucher Xizhang(s)01 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521963.1	816	Eospalax smithii voucher Xizhang(s)2-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521962.1	816	Eospalax smithii voucher Xizhang(s)026 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521952.1	818	Eospalax smithii voucher Dazumu(s)47 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521950.1	817	Eospalax smithii voucher Dazumu(s)41 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521949.1	817	Eospalax smithii voucher Dazumu(s)43 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521948.1	817	Eospalax smithii voucher Dazumu(s)45 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF521946.1	816	Eospalax smithii voucher Machang(s)15 12S ribosomal RNA gene, partial sequence; mitochondrial

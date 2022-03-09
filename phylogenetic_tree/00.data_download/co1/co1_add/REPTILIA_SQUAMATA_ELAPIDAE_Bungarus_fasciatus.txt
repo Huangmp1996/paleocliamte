@@ -1,0 +1,24 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MN722642.1	429	Bungarus fasciatus voucher MZMU1421 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MT439325.1	472	Bungarus fasciatus isolate BZ1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK064841.1	657	Bungarus fasciatus voucher CHS727 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK064798.1	657	Bungarus fasciatus voucher CHS647 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK064719.1	657	Bungarus fasciatus voucher CHS285 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MF099660.1	658	Bungarus fasciatus voucher JHS02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MF099659.1	658	Bungarus fasciatus voucher JHS01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	KY769767.1	567	Bungarus fasciatus voucher MVZ 226611 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	KY769766.1	567	Bungarus fasciatus voucher MVZ 226610 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	KY769765.1	567	Bungarus fasciatus voucher MVZ 226609 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	KY769764.1	567	Bungarus fasciatus voucher MVZ 224275 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	KY769763.1	567	Bungarus fasciatus voucher MVZ 224274 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	AB920191.1	723	Bungarus fasciatus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: BFA3
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	AB920190.1	560	Bungarus fasciatus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: BFA2
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	AB920189.1	721	Bungarus fasciatus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: BFA1
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	JF700190.1	658	Bungarus fasciatus voucher AS57MT01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	EU579523.1	17234	Bungarus fasciatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	JN833616.1	658	Bungarus fasciatus isolate BF2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	JN833615.1	658	Bungarus fasciatus isolate BF1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	GU570586.1	245	Bungarus fasciatus voucher CFSLK Bf01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	GU570574.1	173	Bungarus fasciatus voucher CFSLK Bf01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	KF698924.1	658	Bungarus fasciatus voucher S-118 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	KF698923.1	658	Bungarus fasciatus voucher S-117 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	NC_011393.1	17234	Bungarus fasciatus mitochondrion, complete genome

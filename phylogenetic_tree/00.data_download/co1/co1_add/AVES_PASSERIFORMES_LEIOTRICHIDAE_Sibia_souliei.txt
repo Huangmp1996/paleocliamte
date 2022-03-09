@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_souliei	MH265778.1	394	Sibia souliei souliei voucher MNHN 1928-36 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_souliei	MH265777.1	633	Sibia souliei griseinucha voucher MNHN 7-13 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_souliei	GU139489.1	615	Actinodura souliei voucher KIZ ALS301 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_souliei	GU139488.1	615	Actinodura souliei voucher KIZ ALS300 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

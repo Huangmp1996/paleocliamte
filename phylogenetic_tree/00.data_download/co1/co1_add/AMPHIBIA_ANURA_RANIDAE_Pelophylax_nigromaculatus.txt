@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	AY607307.1	2013	Rana nigromaculata voucher CAS 194407 NADH dehydrogenase subunit 1 (nad1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (nad2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	MH481280.1	658	Pelophylax nigromaculatus isolate HSSA0007 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	MH481279.1	658	Pelophylax nigromaculatus isolate HSSA0008 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	MH481278.1	658	Pelophylax nigromaculatus isolate HSSA0009 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	KT878718.1	17567	Pelophylax nigromaculatus mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ798857.1	783	Rana nigromaculata voucher GRKOAM0000100718 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ798856.1	783	Rana nigromaculata voucher GRKOAM0000100715 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ798855.1	783	Rana nigromaculata voucher NIBRAM0000000610 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ844522.1	600	Pelophylax nigromaculatus voucher GRKOAM0000100718 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ844521.1	600	Pelophylax nigromaculatus voucher NIBRAM0000000630 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ844520.1	600	Pelophylax nigromaculatus voucher NIBRAM0000000610 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	NC_002805.1	17804	Rana nigromaculata mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	AB043889.1	17804	Pelophylax nigromaculatus mitochondrial DNA, complete genome

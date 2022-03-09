@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PARIDAE_Parus_monticolus	KX388481.1	16771	Parus monticolus isolate 5331 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_monticolus	KX388474.1	16772	Parus monticolus isolate 1238 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_monticolus	NC_028187.1	16771	Parus monticolus voucher PMON20150704V1 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_monticolus	KT373848.1	16771	Parus monticolus voucher PMON20150704V1 mitochondrion, complete genome

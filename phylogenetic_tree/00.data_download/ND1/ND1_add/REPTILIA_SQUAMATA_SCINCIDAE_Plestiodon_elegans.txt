@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150801.1	1355	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R36177
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150800.1	1355	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R66355
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150799.1	1356	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R71915
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150798.1	1356	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R71914
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC147648.1	1355	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R66354
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	HM160812.1	1189	Plestiodon elegans voucher MVZ231241 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile gene, complete sequence; and tRNA-Gln gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	HM160811.1	1189	Plestiodon elegans voucher MCZZ39486 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile gene, complete sequence; and tRNA-Gln gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	HM160810.1	1189	Plestiodon elegans voucher MCB673 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile gene, complete sequence; and tRNA-Gln gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	KM017746.1	17058	Plestiodon elegans mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	NC_024576.1	17304	Plestiodon elegans mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	KJ643142.1	17304	Plestiodon elegans mitochondrion, complete genome

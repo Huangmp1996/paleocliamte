@@ -1,0 +1,29 @@
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	NC_048470.1	17855	Eremophila alpestris isolate J3 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	MH061203.1	17702	Eremophila alpestris isolate J4 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	MH061202.1	17855	Eremophila alpestris isolate J3 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	GQ481854.1	694	Eremophila alpestris voucher UWBM 60039 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	AY666513.1	693	Eremophila alpestris voucher 1B-1178 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	AY666324.1	557	Eremophila alpestris voucher 1B-592 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	GU571381.1	683	Eremophila alpestris voucher NHMO-BC219 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	GU571380.1	741	Eremophila alpestris voucher NHMO-BC94 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952473.1	651	Eremophila alpestris haplotype 16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952472.1	651	Eremophila alpestris haplotype 15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952471.1	651	Eremophila alpestris haplotype 14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952470.1	651	Eremophila alpestris haplotype 13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952469.1	651	Eremophila alpestris haplotype 12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952468.1	651	Eremophila alpestris haplotype 11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952467.1	651	Eremophila alpestris haplotype 10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952466.1	651	Eremophila alpestris haplotype 9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952465.1	651	Eremophila alpestris haplotype 8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952464.1	651	Eremophila alpestris haplotype 7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952463.1	651	Eremophila alpestris haplotype 6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952462.1	651	Eremophila alpestris haplotype 5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952461.1	651	Eremophila alpestris haplotype 4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952460.1	651	Eremophila alpestris haplotype 3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952459.1	651	Eremophila alpestris haplotype 2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ952458.1	651	Eremophila alpestris haplotype 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	GQ481853.1	694	Eremophila alpestris voucher UWBM 59836 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	GQ481852.1	660	Eremophila alpestris voucher UWBM 66333 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ465328.1	612	Eremophila alpestris albigula voucher MFUM 20042 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	DQ432916.1	651	Eremophila alpestris voucher USNM 626605 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	KC954609.1	684	Eremophila alpestris strigata voucher USNM:602465 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

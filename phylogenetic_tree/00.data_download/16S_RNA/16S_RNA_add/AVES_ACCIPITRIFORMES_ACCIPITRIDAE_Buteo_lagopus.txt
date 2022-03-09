@@ -1,0 +1,4 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	NC_029189.1	18559	Buteo lagopus voucher AHNU:A0381 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	KP337337.1	18559	Buteo lagopus voucher AHNU:A0381 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GQ264622.1	2637	Buteo lagopus voucher LSUMZ B8683 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA genes, complete sequence; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GQ264621.1	2637	Buteo lagopus voucher LSUMZ B45908 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA genes, complete sequence; mitochondrial

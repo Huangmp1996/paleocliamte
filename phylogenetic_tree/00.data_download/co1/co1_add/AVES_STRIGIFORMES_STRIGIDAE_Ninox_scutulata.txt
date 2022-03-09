@@ -1,0 +1,16 @@
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	EU251422.1	1551	Ninox scutulata cytochrome oxidase subunit 1 (CO1) gene, complete cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	NC_029384.1	16208	Ninox scutulata mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	KT943750.1	16208	Ninox scutulata mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB843617.1	682	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO435-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB843616.1	701	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO484-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB843615.1	679	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO431-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842968.1	661	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM037-08
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842967.1	695	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM524-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842966.1	709	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM523-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842965.1	706	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM522-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842964.1	661	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM694-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842963.1	639	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM797-11
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842962.1	649	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM134-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842961.1	645	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM395-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842960.1	670	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM244-10
+AVES_STRIGIFORMES_STRIGIDAE_Ninox_scutulata	AB842959.1	690	Ninox scutulata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM245-10

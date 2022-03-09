@@ -1,0 +1,5 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_eleryi	MF537345.1	654	Murina eleryi voucher PS160217.27 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_eleryi	MF537344.1	654	Murina eleryi voucher PS160217.6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_eleryi	KT762293.1	640	Murina eleryi voucher ROM MAM 116199 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_eleryi	KT762292.1	640	Murina eleryi voucher ROM MAM 111286 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_eleryi	KT762291.1	640	Murina eleryi voucher HNHM 2007.28.2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

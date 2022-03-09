@@ -1,0 +1,3 @@
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	NC_034642.1	18295	Merops viridis mitochondrion, complete genome
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	KU821702.1	18295	Merops viridis mitochondrion, complete genome
+AVES_CORACIIFORMES_MEROPIDAE_Merops_viridis	EU167003.1	1143	Merops viridis cytochrome b (cytb) gene, complete cds; mitochondrial

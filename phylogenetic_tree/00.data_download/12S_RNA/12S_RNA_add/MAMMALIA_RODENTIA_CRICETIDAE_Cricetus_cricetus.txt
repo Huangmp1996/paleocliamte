@@ -1,0 +1,6 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	MF405145.2	16264	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	NC_037888.1	16263	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	MF034880.1	16263	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AY997834.1	907	Cricetus cricetus 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AM000051.1	789	Cricetus cricetus partial vwf gene for von Willebrand factor
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ973392.1	925	Cricetus cricetus mitochondrial partial cytb gene for cytochrome b

@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_lagopus	NC_035568.1	16677	Lagopus lagopus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_lagopus	KX609784.1	16677	Lagopus lagopus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_lagopus	AF222552.1	1041	Lagopus lagopus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_lagopus	AF230116.1	170	Lagopus lagopus NADH subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product

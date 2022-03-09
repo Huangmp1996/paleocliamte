@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	LC541432.1	17939	Locustella pryeri pryeri 1995-1003 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	NC_029151.1	17968	Megalurus pryeri mitochondrion, complete genome
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	KJ001760.1	17968	Megalurus pryeri mitochondrion, complete genome
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB843596.1	689	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO252-10
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB843595.1	693	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO450-10
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB842934.1	666	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM116-10
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB842933.1	710	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM719-11
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB842932.1	706	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM718-11
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB842931.1	576	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM115-10
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB842930.1	601	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM232-10
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB842929.1	663	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM126-10
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB842928.1	591	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM006-08
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AB842927.1	696	Megalurus pryeri mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM720-11

@@ -1,0 +1,13 @@
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	MN868243.1	16727	Arborophila gingica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	FJ752425.1	16728	Arborophila gingica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057843.1	1035	Arborophila gingica gingica isolate BM03 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057842.1	1035	Arborophila gingica gingica isolate BM02 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057841.1	1035	Arborophila gingica guangxiensis isolate BM007 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057840.1	1035	Arborophila gingica guangxiensis isolate BM006 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057839.1	1035	Arborophila gingica guangxiensis isolate BM005 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057838.1	1035	Arborophila gingica guangxiensis isolate BM004 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057837.1	1035	Arborophila gingica guangxiensis isolate BM003 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057836.1	1035	Arborophila gingica guangxiensis isolate BM002 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KP119003.1	1008	Arborophila gingica guangxiensis voucher BM001 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KP119002.1	1008	Arborophila gingica gingica voucher BM01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KC778812.1	1025	Arborophila gingica NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_GRUIFORMES_GRUIDAE_Grus_antigone	NC_020581.1	16549	Grus antigone mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_antigone	FJ769854.1	16549	Grus antigone mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_antigone	DQ485814.1	1045	Grus antigone 12S ribosomal RNA and tRNA-Val genes, complete sequence; mitochondrial
+AVES_GRUIFORMES_GRUIDAE_Grus_antigone	U77165.1	381	Grus antigone 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene, partial sequence

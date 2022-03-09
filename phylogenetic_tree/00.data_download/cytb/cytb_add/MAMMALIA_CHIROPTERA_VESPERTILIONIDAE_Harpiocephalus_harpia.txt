@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Harpiocephalus_harpia	MN885881.1	16446	Harpiocephalus harpia mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Harpiocephalus_harpia	MH137366.1	1140	Harpiocephalus harpia isolate VN11-1288 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Harpiocephalus_harpia	GQ168923.1	1041	Harpiocephalus harpia isolate B cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Harpiocephalus_harpia	GQ168918.1	1041	Harpiocephalus harpia isolate A cytochrome b (cytb) gene, partial cds; mitochondrial

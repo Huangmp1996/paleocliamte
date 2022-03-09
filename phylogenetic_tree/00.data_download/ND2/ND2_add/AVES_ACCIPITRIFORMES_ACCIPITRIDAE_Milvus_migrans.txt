@@ -1,0 +1,32 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	MH536185.1	262	Milvus migrans parasitus voucher 3LF-4002 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	MH536184.1	262	Milvus migrans parasitus voucher 3LF-2835 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	NC_038195.1	18016	Milvus migrans voucher IN1594 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	MG930481.1	18016	Milvus migrans voucher IN1594 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY987133.1	1041	Milvus migrans voucher AMNH 388140 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994476.1	1041	Milvus migrans migrans voucher NBPC F00059 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994475.1	1041	Milvus migrans migrans voucher NBPC F00056 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994474.1	1041	Milvus migrans migrans voucher NBPC F00053 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994473.1	1041	Milvus migrans migrans voucher NBPC F00050 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994472.1	1041	Milvus migrans migrans voucher NBPC F00022 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994458.1	1041	Milvus migrans parasitus voucher CRH 8 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994457.1	1041	Milvus migrans parasitus voucher WOB 10 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994456.1	1041	Milvus migrans parasitus voucher AMNH 532032 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994455.1	1041	Milvus migrans parasitus voucher AMNH 264858 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994454.1	1041	Milvus migrans parasitus voucher AMNH 531965 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994453.1	1041	Milvus migrans parasitus voucher AMNH 257718 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994452.1	1041	Milvus migrans parasitus voucher AMNH 531971 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994451.1	1041	Milvus migrans parasitus voucher AMNH 388140 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994449.1	1041	Milvus migrans parasitus voucher AMNH 789260 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994448.1	1041	Milvus migrans voucher AMNH 532038 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994447.1	1041	Milvus migrans migrans voucher NBPC 1HC NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994446.1	1041	Milvus migrans voucher UMMZ 150962 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994445.1	1041	Milvus migrans migrans voucher AMNH 464875 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994444.1	1041	Milvus migrans migrans voucher AMNH 531883 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994443.1	1041	Milvus migrans migrans voucher AMNH 289860 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994442.1	1041	Milvus migrans migrans voucher AMNH 531936 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994441.1	1041	Milvus migrans affinis voucher AMNH 532051 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994440.1	1041	Milvus migrans affinis voucher AMNH 704655 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994439.1	1041	Milvus migrans affinis voucher AMNH 532063 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994438.1	1041	Milvus migrans affinis voucher AMNH 532081 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994435.1	1041	Milvus migrans govinda voucher UMMZ 140425 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AY994434.1	1041	Milvus migrans govinda voucher UMMZ 78382 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

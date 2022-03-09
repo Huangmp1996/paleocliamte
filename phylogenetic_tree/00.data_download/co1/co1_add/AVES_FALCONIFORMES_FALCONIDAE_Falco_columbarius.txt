@@ -1,0 +1,14 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	AY666522.1	687	Falco columbarius voucher 1B-3690 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	GU571879.1	648	Falco columbarius voucher BISE-Aves20 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	GU571878.1	648	Falco columbarius voucher BISE-Aves353 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	GU571385.1	720	Falco columbarius voucher NHMO-BC42 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	GU571384.1	745	Falco columbarius voucher NHMO-BC14 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	GQ481874.1	660	Falco columbarius voucher UWBM 44262 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	DQ432924.1	624	Falco columbarius voucher USNM B16851 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	NC_025579.1	17516	Falco columbarius mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	KM264304.1	17516	Falco columbarius mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	KF537263.2	944	Falco columbarius voucher CQSAS-FE cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	KF946664.1	674	Falco columbarius aesalon voucher ZMA60127 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	KF946663.1	674	Falco columbarius aesalon voucher ZMA58840 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	DQ434594.1	697	Falco columbarius voucher BIOUG<CAN>:MSISL005 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	DQ434593.1	664	Falco columbarius voucher BIOUG<CAN>:STA001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

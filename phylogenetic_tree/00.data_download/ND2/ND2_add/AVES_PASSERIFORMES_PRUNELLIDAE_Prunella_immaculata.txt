@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_immaculata	KX109711.1	955	Prunella immaculata isolate MAR6443 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_immaculata	KJ455603.1	1032	Prunella immaculata NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_immaculata	KC759267.1	1041	Prunella immaculata voucher KU15219 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_immaculata	KC759266.1	1041	Prunella immaculata voucher KU15218 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

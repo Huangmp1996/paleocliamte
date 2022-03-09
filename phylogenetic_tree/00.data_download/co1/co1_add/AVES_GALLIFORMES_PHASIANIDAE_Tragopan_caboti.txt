@@ -1,0 +1,3 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	JF834906.1	663	Tragopan caboti cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	GU187969.1	16727	Tragopan caboti mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	NC_013619.1	16727	Tragopan caboti mitochondrion, complete genome

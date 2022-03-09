@@ -1,0 +1,4 @@
+AVES_GRUIFORMES_RALLIDAE_Zapornia_akool	NC_023982.1	16950	Amaurornis akool mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Zapornia_akool	KJ192198.1	16950	Amaurornis akool mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Zapornia_akool	JQ342142.1	934	Amaurornis akool isolate HJKE2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Zapornia_akool	JQ342141.1	934	Amaurornis akool isolate HJKE1 cytochrome b (cytb) gene, partial cds; mitochondrial

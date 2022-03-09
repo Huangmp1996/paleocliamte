@@ -1,0 +1,8 @@
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	MN276053.1	17604	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	NC_041422.1	17835	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	MF346692.1	17835	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	AY422979.1	960	Otus sunia isolate 2 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	AY422978.1	960	Otus sunia isolate 1 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	EU601117.1	901	Otus sunia isolate O31 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	EU348927.1	948	Otus sunia malayanus voucher IPMB 9575 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	EU348990.1	1041	Otus sunia malayanus voucher IPMB 9575 cytochrome b (cytb) gene, partial cds; mitochondrial

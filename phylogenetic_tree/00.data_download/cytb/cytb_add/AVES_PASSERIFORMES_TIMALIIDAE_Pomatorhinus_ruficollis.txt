@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	MN356378.1	14895	Pomatorhinus ruficollis mitochondrion, partial genome
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HM140317.1	621	Pomatorhinus ruficollis isolate 2879 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529203.1	1040	Pomatorhinus ruficollis bakeri voucher USNM:B5760 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529202.1	924	Pomatorhinus ruficollis bakeri voucher USNM:B5672 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529201.1	1040	Pomatorhinus ruficollis bakeri voucher USNM:B5662 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529198.1	1040	Pomatorhinus ruficollis reconditus voucher AMNH:204854 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529197.1	1040	Pomatorhinus ruficollis stridulus voucher AMNH:114767 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529196.1	1040	Pomatorhinus ruficollis stridulus voucher AMNH:417967 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529195.1	1040	Pomatorhinus ruficollis stridulus voucher AMNH:143094 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529194.1	1040	Pomatorhinus ruficollis similis voucher AMNH:586136 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529193.1	1040	Pomatorhinus ruficollis similis voucher AMNH:306668 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529192.1	1040	Pomatorhinus ruficollis saturatus voucher AMNH:290862 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529191.1	1040	Pomatorhinus ruficollis voucher AMNH:801176 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529190.1	1040	Pomatorhinus ruficollis reconditus voucher AMNH:586087 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529189.1	1040	Pomatorhinus ruficollis nigrostellatus voucher AMNH:586161 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529188.1	1040	Pomatorhinus ruficollis nigrostellatus voucher AMNH:586154 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529187.1	1040	Pomatorhinus ruficollis reconditus voucher FMNH:89144 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529186.1	1040	Pomatorhinus ruficollis reconditus voucher FMNH:89135 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529185.1	1040	Pomatorhinus ruficollis voucher BMNH:1949.Whil.13277 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529184.1	1040	Pomatorhinus ruficollis similis voucher BMNH:1948.27.406 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529183.1	1040	Pomatorhinus ruficollis reconditus voucher AMNH:204846 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529182.1	1040	Pomatorhinus ruficollis reconditus voucher AMNH:204836 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529181.1	1040	Pomatorhinus ruficollis similis voucher AMNH:586090 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529180.1	1040	Pomatorhinus ruficollis similis voucher AMNH:586088 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529179.1	1040	Pomatorhinus ruficollis similis voucher FMNH:79020 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HQ529178.1	1040	Pomatorhinus ruficollis saturatus voucher FMNH:79018 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	GU724382.1	1143	Pomatorhinus ruficollis similis voucher KIZ:GLGS1835 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	GU724378.1	1143	Pomatorhinus ruficollis stridulus voucher NTNU:T0030 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	NC_029769.1	17009	Pomatorhinus ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KT970675.1	17009	Pomatorhinus ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750094.1	1143	Pomatorhinus ruficollis voucher KIZ:200905 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750093.1	1143	Pomatorhinus ruficollis voucher KIZ:200904 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750092.1	1143	Pomatorhinus ruficollis voucher KIZ:200903 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750091.1	1143	Pomatorhinus ruficollis voucher KIZ:200902 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750090.1	1143	Pomatorhinus ruficollis voucher KIZ:YL20080099 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750089.1	1143	Pomatorhinus ruficollis voucher KIZ:0907PE49 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750088.1	1143	Pomatorhinus ruficollis voucher KIZ:0907PE51 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750087.1	1143	Pomatorhinus ruficollis voucher KIZ:PE042 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750086.1	1143	Pomatorhinus ruficollis voucher KIZ:0907PE52 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750085.1	1143	Pomatorhinus ruficollis voucher KIZ:GLGS2145 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750084.1	1143	Pomatorhinus ruficollis voucher KIZ:YL20080169 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750083.1	1143	Pomatorhinus ruficollis voucher KIZ:YL07313 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750082.1	1143	Pomatorhinus ruficollis voucher KIZ:YL20080098 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750081.1	1143	Pomatorhinus ruficollis voucher KIZ:GLGS6521 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750080.1	1143	Pomatorhinus ruficollis voucher KIZ:GLGS6347 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750079.1	1143	Pomatorhinus ruficollis voucher KIZ:0907PE31 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750078.1	1143	Pomatorhinus ruficollis voucher KIZ:0907PE50 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750077.1	1143	Pomatorhinus ruficollis voucher KIZ:D01 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750076.1	1143	Pomatorhinus ruficollis voucher KIZ:GLGS6450 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750075.1	1143	Pomatorhinus ruficollis voucher KIZ:GLGS5819 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750074.1	1143	Pomatorhinus ruficollis voucher GEIC:S00446 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750073.1	1143	Pomatorhinus ruficollis voucher GEIC:S00340 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750072.1	1143	Pomatorhinus ruficollis voucher NTNU:T0041 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750071.1	1143	Pomatorhinus ruficollis voucher NTNU:T0042 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750070.1	1143	Pomatorhinus ruficollis voucher NTNU:T0909 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750069.1	1143	Pomatorhinus ruficollis voucher NTNU:T0855 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750068.1	1143	Pomatorhinus ruficollis voucher NTNU:T0043 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750067.1	1143	Pomatorhinus ruficollis voucher KIZ:TP007 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750066.1	1143	Pomatorhinus ruficollis voucher GEIC:S00457 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750065.1	1143	Pomatorhinus ruficollis voucher KIZ:LS006 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750064.1	1143	Pomatorhinus ruficollis voucher GEIC:S00514 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750063.1	1143	Pomatorhinus ruficollis voucher KIZ:LS005 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750062.1	1143	Pomatorhinus ruficollis voucher KIZ:DYS453 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750061.1	1143	Pomatorhinus ruficollis voucher KIZ:DYS143 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750060.1	1143	Pomatorhinus ruficollis voucher GEIC:S00513 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750059.1	1143	Pomatorhinus ruficollis voucher GEIC:S00518 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750058.1	1143	Pomatorhinus ruficollis voucher GEIC:S00517 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750057.1	1143	Pomatorhinus ruficollis voucher KIZ:DYS029 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750056.1	1143	Pomatorhinus ruficollis voucher GEIC:S00516 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750055.1	1143	Pomatorhinus ruficollis voucher KIZ:DYS446 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750054.1	1143	Pomatorhinus ruficollis voucher GEIC:S00458 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750053.1	1143	Pomatorhinus ruficollis voucher KIZ:DYS210 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750052.1	1143	Pomatorhinus ruficollis voucher KIZ:AH09015 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750051.1	1143	Pomatorhinus ruficollis voucher NTNU:T0048 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750050.1	1143	Pomatorhinus ruficollis voucher KIZ:WS029 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750049.1	1143	Pomatorhinus ruficollis voucher KIZ:WS028 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750048.1	1143	Pomatorhinus ruficollis voucher IOZ LZP059 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750047.1	1143	Pomatorhinus ruficollis voucher IOZ LZP057 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750046.1	1143	Pomatorhinus ruficollis voucher IOZ LZP058 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750045.1	1143	Pomatorhinus ruficollis voucher IOZ LZP029 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750044.1	1143	Pomatorhinus ruficollis voucher GEIC:S00483 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750043.1	1143	Pomatorhinus ruficollis voucher GEIC:S00456 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750042.1	1143	Pomatorhinus ruficollis voucher KIZ:LS007 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750041.1	1143	Pomatorhinus ruficollis voucher KIZ:TP006 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750040.1	1143	Pomatorhinus ruficollis voucher IOZ LZP007 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750039.1	1143	Pomatorhinus ruficollis voucher NTNU:T0047 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750038.1	1143	Pomatorhinus ruficollis voucher KIZ:WS003 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750037.1	1143	Pomatorhinus ruficollis voucher NTNU:T0044 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750036.1	1143	Pomatorhinus ruficollis voucher GEIC:S00512 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750035.1	1143	Pomatorhinus ruficollis voucher KIZ:DYS131 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750034.1	1143	Pomatorhinus ruficollis voucher KIZ:DYS066 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750033.1	1143	Pomatorhinus ruficollis voucher KIZ:DYS142 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750032.1	1143	Pomatorhinus ruficollis voucher KIZ:LS001 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750031.1	1143	Pomatorhinus ruficollis voucher GEIC:S00282 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750030.1	1143	Pomatorhinus ruficollis voucher IOZ SNJ08204 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750029.1	1143	Pomatorhinus ruficollis voucher IOZ SNJ08200 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750028.1	1143	Pomatorhinus ruficollis voucher GEIC:S00559 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750027.1	1143	Pomatorhinus ruficollis voucher KIZ:AH09045 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750026.1	1143	Pomatorhinus ruficollis voucher KIZ:AH09047 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KF750025.1	1143	Pomatorhinus ruficollis voucher KIZ:AH09046 cytochrome b (Cytb) gene, complete cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_pallidus	MN991331.1	1041	Alophoixus pallidus voucher AMNH DOT 12242 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_pallidus	MG762096.1	1041	Alophoixus pallidus voucher MNHN ZO 2013-198 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_pallidus	GQ242078.1	1041	Criniger pallidus voucher NRM 20046822 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_pallidus	GU112646.1	1041	Criniger pallidus voucher KU10111 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_pallidus	GQ369685.1	1041	Criniger pallidus henrici isolate D11 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

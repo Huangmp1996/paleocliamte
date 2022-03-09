@@ -1,0 +1,4 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	DQ333808.1	16401	Hynobius amjiensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	AY915932.1	1456	Hynobius amjiensis voucher RM9869 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	AY593162.1	1044	Hynobius amjiensis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	NC_008076.1	16401	Hynobius amjiensis mitochondrion, complete genome

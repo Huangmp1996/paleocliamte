@@ -1,0 +1,27 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	NC_057099.1	16534	Semnopithecus schistaceus mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919069.1	746	Semnopithecus schistaceus isolate CES18329 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919068.1	699	Semnopithecus schistaceus isolate CES17317 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919067.1	699	Semnopithecus schistaceus isolate CES17316 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919066.1	699	Semnopithecus schistaceus isolate CES17312 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919065.1	699	Semnopithecus schistaceus isolate CES17305 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919064.1	699	Semnopithecus schistaceus isolate CES17366 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919063.1	699	Semnopithecus schistaceus isolate CES17384 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919062.1	699	Semnopithecus schistaceus isolate CES17362 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919061.1	699	Semnopithecus schistaceus isolate CES17358 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919060.1	699	Semnopithecus schistaceus isolate CES17351 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919059.1	699	Semnopithecus schistaceus isolate CES17346 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919058.1	699	Semnopithecus schistaceus isolate CES17340 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919057.1	699	Semnopithecus schistaceus isolate CES18304 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919056.1	685	Semnopithecus schistaceus isolate CES18302 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919055.1	746	Semnopithecus schistaceus isolate CES13335 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919054.1	746	Semnopithecus schistaceus isolate CES13324 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919053.1	696	Semnopithecus schistaceus isolate CES12317 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919052.1	746	Semnopithecus schistaceus isolate CES15327 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919051.1	746	Semnopithecus schistaceus isolate CES15320 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919050.1	746	Semnopithecus schistaceus isolate CES15313 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919049.1	746	Semnopithecus schistaceus isolate CES15311 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919048.1	746	Semnopithecus schistaceus isolate CES13345 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919047.1	746	Semnopithecus schistaceus isolate CES15324 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919046.1	746	Semnopithecus schistaceus isolate CES13325 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MT919045.1	746	Semnopithecus schistaceus isolate CES15308 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Semnopithecus_schistaceus	MN163131.1	16534	Semnopithecus schistaceus mitochondrion, complete genome

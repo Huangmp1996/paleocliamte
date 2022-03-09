@@ -1,0 +1,24 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	MK091912.1	606	Pipistrellus javanicus voucher 12-hu-ih-882 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	MG821176.1	658	Pipistrellus javanicus voucher NHM.OU.CHI.117.2015 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	KX496358.1	728	Pipistrellus javanicus voucher VN11-0379 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	JF444029.1	438	Pipistrellus javanicus voucher ZMMU S-186643 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM914967.1	658	Pipistrellus javanicus voucher ZMMU S-173381 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM914966.1	658	Pipistrellus javanicus voucher ZMMU S-173376 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM914965.1	614	Pipistrellus javanicus voucher ZMMU S-178366 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541255.1	657	Pipistrellus javanicus voucher ROM MAM 110657 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541254.1	657	Pipistrellus javanicus voucher ROM MAM 112343 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541253.1	610	Pipistrellus javanicus voucher ROM MAM 107710 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541252.1	655	Pipistrellus javanicus voucher ROM MAM 116475 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541251.1	657	Pipistrellus javanicus voucher ROM MAM 116451 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541250.1	657	Pipistrellus javanicus voucher ROM MAM 116434 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541249.1	657	Pipistrellus javanicus voucher ROM MAM 118234 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541248.1	421	Pipistrellus javanicus voucher ROM MAM 112338 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541247.1	657	Pipistrellus javanicus voucher ROM MAM 107711 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541246.1	421	Pipistrellus javanicus voucher ROM MAM 107598 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541245.1	657	Pipistrellus javanicus voucher ROM MAM 107599 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541244.1	421	Pipistrellus javanicus voucher ROM MAM 106171 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541243.1	657	Pipistrellus javanicus voucher ROM MAM 106414 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541242.1	657	Pipistrellus javanicus voucher CMF960409-21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541241.1	657	Pipistrellus javanicus voucher ZMMU S-165018 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	HM541227.1	421	Pipistrellus javanicus babu voucher ZMMU S-164508 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_javanicus	KM069429.1	469	Pipistrellus javanicus voucher NHM.OU.CHI.AN2.2012 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

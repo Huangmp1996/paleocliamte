@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	MT472777.1	826	Sitta himalayensis isolate MAR90087 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	NC_042730.1	16822	Sitta himalayensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	MK343426.1	16822	Sitta himalayensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	KJ456470.1	1138	Sitta himalayensis voucher FMNH:218800 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	U63399.1	491	Sitta himalayensis cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

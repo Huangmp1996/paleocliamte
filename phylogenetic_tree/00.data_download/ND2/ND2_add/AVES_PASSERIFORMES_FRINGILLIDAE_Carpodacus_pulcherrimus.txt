@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	NC_051538.1	16797	Carpodacus pulcherrimus mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	MT648821.1	16797	Carpodacus pulcherrimus mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	JN715431.1	1041	Carpodacus pulcherrimus NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	KF194159.1	1041	Carpodacus pulcherrimus voucher MAR 7533 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	KF194156.1	1017	Carpodacus pulcherrimus voucher MTD C64235 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	KF194155.1	1041	Carpodacus pulcherrimus voucher MAR 4198 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	KF194154.1	1041	Carpodacus pulcherrimus voucher MTD C64234 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	KF194141.1	1041	Carpodacus pulcherrimus voucher MAR 5936 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_pulcherrimus	KF194131.1	1038	Carpodacus pulcherrimus voucher NRM 20026494 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	NC_037189.1	16880	Abrornis proregulus mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	MG189603.1	16880	Abrornis proregulus mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	EU794947.1	668	Phylloscopus proregulus isolate 1396 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	AJ224493.1	377	Phylloscopus proregulus mitochondrion 16S rRNA gene, partial

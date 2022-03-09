@@ -1,0 +1,20 @@
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	OK605093.1	669	Alectoris chukar isolate Ata-125 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	OK393768.1	669	Alectoris chukar voucher 197485 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MF459715.1	136	Alectoris chukar voucher Ac 001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KY829450.1	16688	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KT180226.1	312	Alectoris chukar isolate U1 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KT803621.1	648	Alectoris chukar isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	JF498828.1	694	Alectoris chukar voucher USNM:643433 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	JF498827.1	694	Alectoris chukar voucher USNM:643569 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	JF498826.1	694	Alectoris chukar voucher USNM:643570 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	AY666409.1	662	Alectoris chukar voucher 1B-2702 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GQ481316.1	694	Alectoris chukar voucher UWBM 57853 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GQ481315.1	694	Alectoris chukar voucher UWBM 57857 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GQ481314.1	694	Alectoris chukar voucher UWBM 46516 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GQ481313.1	694	Alectoris chukar voucher UWBM 46402 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ808621.1	679	Alectoris chukar voucher KU08002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ752426.1	16686	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ465298.1	612	Alectoris chukar voucher NRM 20036338 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	DQ432706.1	606	Alectoris chukar voucher FAA221 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KT806484.1	16685	Alectoris chukar isolate HLSSJ1508 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	NC_020585.1	16686	Alectoris chukar mitochondrion, complete genome

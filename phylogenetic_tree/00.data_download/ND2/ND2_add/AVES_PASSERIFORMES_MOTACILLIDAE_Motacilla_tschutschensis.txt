@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MN217252.1	16829	Motacilla tschutschensis mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578357.1	1041	Motacilla tschutschensis voucher ZMMU:CBH3405 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578356.1	1041	Motacilla tschutschensis voucher ZMMU:CBH2911 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578355.1	1041	Motacilla tschutschensis voucher ZMMU:RYA0988 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578354.1	1041	Motacilla tschutschensis voucher UWBM:47582 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578353.1	1041	Motacilla tschutschensis voucher UWBM:47581 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578352.1	1041	Motacilla tschutschensis voucher UWBM:47505 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578351.1	1041	Motacilla tschutschensis voucher UWBM:47504 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578350.1	1041	Motacilla tschutschensis voucher UWBM:47386 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578349.1	1041	Motacilla tschutschensis voucher UWBM:46975 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578348.1	1041	Motacilla tschutschensis voucher UWBM:58420 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578347.1	1041	Motacilla tschutschensis voucher UWBM:47164 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578346.1	1041	Motacilla tschutschensis voucher UWBM:47162 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578345.1	1041	Motacilla tschutschensis voucher UWBM:47051 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578344.1	1041	Motacilla tschutschensis voucher UWBM:47176 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578343.1	1041	Motacilla tschutschensis voucher UWBM:46881 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578342.1	1041	Motacilla tschutschensis voucher ZMMU:RYA0863 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578341.1	1041	Motacilla tschutschensis voucher ZMMU:RYA0862 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578340.1	1041	Motacilla tschutschensis voucher ZMMU:RYA0793 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578339.1	1041	Motacilla tschutschensis voucher UWBM:59717 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578338.1	1041	Motacilla tschutschensis voucher UWBM:59716 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578337.1	1041	Motacilla tschutschensis voucher UWBM:59715 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578336.1	1041	Motacilla tschutschensis voucher UWBM:59881 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578335.1	1041	Motacilla tschutschensis voucher UWBM:59868 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578334.1	1041	Motacilla tschutschensis voucher UWBM:59846 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578333.1	1041	Motacilla tschutschensis voucher UWBM:59687 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578332.1	1041	Motacilla tschutschensis voucher UWBM:47050 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578331.1	1041	Motacilla tschutschensis voucher UWBM:43920 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578330.1	1041	Motacilla tschutschensis voucher UWBM:43956 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578329.1	1041	Motacilla tschutschensis voucher UWBM:43953 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578328.1	1041	Motacilla tschutschensis voucher UWBM:43952 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578327.1	1041	Motacilla tschutschensis voucher UWBM:43949 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578326.1	1041	Motacilla tschutschensis voucher UWBM:43941 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578325.1	1041	Motacilla tschutschensis voucher UWBM:82257 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578324.1	1041	Motacilla tschutschensis voucher MMNH<USA-MN>:SVD2917 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578323.1	1041	Motacilla tschutschensis voucher UWBM:82253 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578322.1	1041	Motacilla tschutschensis voucher MMNH<USA-MN>:SVD2908 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578321.1	1041	Motacilla tschutschensis voucher MMNH<USA-MN>:SVD2907 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578320.1	1041	Motacilla tschutschensis voucher UWBM:82243 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578319.1	1041	Motacilla tschutschensis voucher SDM NVF 9599 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578318.1	1041	Motacilla tschutschensis voucher MMNH<USA-MN>:SVD2961 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578317.1	1041	Motacilla tschutschensis voucher SDM NVF 9583 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578316.1	1041	Motacilla tschutschensis voucher MMNH<USA-MN>:SVD3075 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578315.1	1041	Motacilla tschutschensis voucher UWBM:82294 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578314.1	1041	Motacilla tschutschensis voucher UWBM:82291 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578313.1	1041	Motacilla tschutschensis voucher UWBM:82279 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578312.1	1041	Motacilla tschutschensis voucher SDM NVF 9530 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578311.1	1041	Motacilla tschutschensis voucher SDM NVF 9532 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578310.1	1041	Motacilla tschutschensis voucher SDM NVF 9529 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578309.1	1041	Motacilla tschutschensis voucher SDM NVF 9531 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578308.1	1041	Motacilla tschutschensis voucher SDM NVF 9528 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578307.1	1041	Motacilla tschutschensis voucher SDM NVF 9533 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578306.1	1041	Motacilla tschutschensis voucher SDM NVF 9527 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578305.1	1041	Motacilla tschutschensis voucher UWBM:44276 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578304.1	1041	Motacilla tschutschensis voucher UWBM:44275 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578303.1	1041	Motacilla tschutschensis voucher UWBM:44274 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578302.1	1041	Motacilla tschutschensis voucher UWBM:44273 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578301.1	1041	Motacilla tschutschensis voucher UWBM:44272 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578300.1	1041	Motacilla tschutschensis voucher UWBM:44515 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578299.1	1041	Motacilla tschutschensis voucher UWBM:44481 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578298.1	1041	Motacilla tschutschensis voucher UWBM:44480 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578297.1	1041	Motacilla tschutschensis voucher UWBM:44254 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578296.1	1041	Motacilla tschutschensis voucher SDM NVF13545 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578295.1	1041	Motacilla tschutschensis voucher SDM NVF13543 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578294.1	1041	Motacilla tschutschensis voucher SDM NVF13538 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578293.1	1041	Motacilla tschutschensis voucher SDM NVF13535 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578292.1	1041	Motacilla tschutschensis voucher SDM NVF13536 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578291.1	1041	Motacilla tschutschensis voucher SDM NVF13540 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578290.1	1041	Motacilla tschutschensis voucher SDM NVF13533 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578289.1	1041	Motacilla tschutschensis voucher SDM NVF13532 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578288.1	1041	Motacilla tschutschensis voucher SDM NVF13531 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578287.1	1041	Motacilla tschutschensis voucher SDM NVF13530 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578286.1	1041	Motacilla tschutschensis voucher SDM NVF13528 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578285.1	1041	Motacilla tschutschensis voucher UWBM:70351 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578284.1	1041	Motacilla tschutschensis voucher UWBM:70349 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578283.1	1041	Motacilla tschutschensis voucher UWBM:70348 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578282.1	1041	Motacilla tschutschensis voucher UWBM:70347 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578281.1	1041	Motacilla tschutschensis voucher UWBM:70345 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578280.1	1041	Motacilla tschutschensis voucher UWBM:70344 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578279.1	1041	Motacilla tschutschensis voucher UWBM:70343 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578278.1	1041	Motacilla tschutschensis voucher UWBM:70342 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578277.1	1041	Motacilla tschutschensis voucher UWBM:70341 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578276.1	1041	Motacilla tschutschensis voucher ZMMU:R118756 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578275.1	1041	Motacilla tschutschensis voucher ZMMU:R118754 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578274.1	1041	Motacilla tschutschensis voucher UWBM:56932 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578273.1	1041	Motacilla tschutschensis voucher UWBM:56738 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578272.1	1041	Motacilla tschutschensis voucher UWBM:56737 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578271.1	1041	Motacilla tschutschensis voucher UWBM:56736 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578270.1	1041	Motacilla tschutschensis voucher UWBM:56713 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578269.1	1041	Motacilla tschutschensis voucher UWBM:56555 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578268.1	1041	Motacilla tschutschensis voucher UWBM:56535 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578267.1	1041	Motacilla tschutschensis voucher UWBM:71201 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578266.1	1041	Motacilla tschutschensis voucher UWBM:71200 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578265.1	1041	Motacilla tschutschensis voucher UWBM:71198 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578264.1	1041	Motacilla tschutschensis voucher UWBM:71195 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578263.1	1041	Motacilla tschutschensis voucher UWBM:71194 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578262.1	1041	Motacilla tschutschensis voucher UWBM:59645 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578261.1	1041	Motacilla tschutschensis voucher UWBM:59635 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578260.1	1041	Motacilla tschutschensis voucher UWBM:59634 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MG578259.1	1041	Motacilla tschutschensis voucher UWBM:59629 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	AY986770.1	547	Ardeola bacchus oocyte maturation factor Mos (c-mos) gene, partial cds
+AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	NC_025921.1	19341	Ardeola bacchus mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	KJ190952.1	19341	Ardeola bacchus mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	AF407138.1	976	Ardeola bacchus 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,6 @@
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	EF661586.1	16642	Manouria impressa mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	NC_011815.1	16642	Manouria impressa mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	GU477773.1	429	Manouria impressa 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	DQ497283.1	560	Manouria impressa isolate 16S15 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	DQ497263.1	396	Manouria impressa isolate 12S16 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	AF043411.1	390	Manouria impressa 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

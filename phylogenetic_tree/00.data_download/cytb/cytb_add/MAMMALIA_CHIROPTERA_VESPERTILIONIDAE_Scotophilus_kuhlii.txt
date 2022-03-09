@@ -1,0 +1,57 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820602.1	1140	Scotophilus kuhlii isolate MT1709 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820601.1	1140	Scotophilus kuhlii isolate MT1707 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820600.1	1140	Scotophilus kuhlii isolate MT1706 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820599.1	1140	Scotophilus kuhlii isolate VN6145 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820598.1	1140	Scotophilus kuhlii isolate VN6153 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820597.1	1140	Scotophilus kuhlii isolate VN6146 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820596.1	1140	Scotophilus kuhlii isolate VN6147 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820595.1	1140	Scotophilus kuhlii isolate VN7301 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820594.1	1140	Scotophilus kuhlii isolate MM3303 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820593.1	1140	Scotophilus kuhlii isolate MM3300 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820592.1	1140	Scotophilus kuhlii isolate MM3297 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820591.1	1140	Scotophilus kuhlii isolate MM3184 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820590.1	1140	Scotophilus kuhlii isolate MM3183 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820589.1	1140	Scotophilus kuhlii isolate MM3182 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820588.1	1140	Scotophilus kuhlii isolate MM3176 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820587.1	1140	Scotophilus kuhlii isolate MM3174 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820586.1	1140	Scotophilus kuhlii isolate MM3172 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820585.1	1140	Scotophilus kuhlii isolate MM3171 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820584.1	1140	Scotophilus kuhlii isolate MM3168 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820583.1	1140	Scotophilus kuhlii isolate MM3302 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820582.1	1140	Scotophilus kuhlii isolate MM3185 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820581.1	1140	Scotophilus kuhlii isolate MM3169 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820580.1	1140	Scotophilus kuhlii isolate MM3186 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820579.1	1140	Scotophilus kuhlii isolate MM3305 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820578.1	1140	Scotophilus kuhlii isolate MM3304 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820577.1	1140	Scotophilus kuhlii isolate MM3301 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820576.1	1140	Scotophilus kuhlii isolate MM3298 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820575.1	1140	Scotophilus kuhlii isolate MM3170 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT820574.1	1140	Scotophilus kuhlii isolate MM3175 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT750321.1	1140	Scotophilus kuhlii isolate CC-45 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT750320.1	1140	Scotophilus kuhlii isolate CC-43 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT750319.1	318	Scotophilus kuhlii isolate CC-31 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	MT750318.1	1077	Scotophilus kuhlii isolate CC-28 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	LC426468.1	1770	Scotophilus kuhlii PyV1-YHAC9 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	LC426467.1	1771	Scotophilus kuhlii PyV2-YSAC17 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	LC426466.1	1771	Scotophilus kuhlii PyV1-YSAC16 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	LC426465.1	1771	Scotophilus kuhlii PyV24-LSC2 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750931.1	1140	Scotophilus kuhlii voucher MVZ 186421 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750930.1	1140	Scotophilus kuhlii voucher ROM 110957 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750929.1	1140	Scotophilus kuhlii voucher ROM 110956 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750928.1	1110	Scotophilus kuhlii voucher ROM 110843 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750927.1	1140	Scotophilus kuhlii voucher ROM 110842 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750926.1	1140	Scotophilus kuhlii voucher ROM 110841 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750925.1	1140	Scotophilus kuhlii voucher ROM 110840 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750924.1	1140	Scotophilus kuhlii voucher ROM 110837 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750923.1	1140	Scotophilus kuhlii voucher ROM 110835 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750922.1	1140	Scotophilus kuhlii voucher AK 21489 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750921.1	1140	Scotophilus kuhlii voucher AK 21485 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750920.1	1140	Scotophilus kuhlii voucher AK 21484 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750919.1	1140	Scotophilus kuhlii voucher AK 21482 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750918.1	1140	Scotophilus kuhlii voucher AK 21481 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750917.1	1140	Scotophilus kuhlii voucher AK 21479 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750916.1	1140	Scotophilus kuhlii voucher AK 21477 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750915.1	1140	Scotophilus kuhlii voucher AK 21476 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750914.1	1140	Scotophilus kuhlii voucher EAR 1266 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EU750913.1	1140	Scotophilus kuhlii voucher MVZ 186418 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Scotophilus_kuhlii	EF543860.1	1140	Scotophilus kuhlii isolate CHSY20 cytochrome b (cytb) gene, complete cds; mitochondrial

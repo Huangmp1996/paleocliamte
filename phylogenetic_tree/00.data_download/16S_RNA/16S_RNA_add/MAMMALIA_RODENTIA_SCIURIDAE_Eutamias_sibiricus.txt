@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LC500167.1	465	Tamias sibiricus mitochondrial gene for 16S ribosomal RNA, partial sequence, note: sample name: OI9
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	NC_025277.1	16558	Tamias sibiricus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	KF668525.1	16558	Tamias sibiricus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	AY227475.1	549	Tamias sibiricus isolate Tsb2 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	AF147695.1	433	Tamias sibiricus 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

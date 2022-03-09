@@ -1,0 +1,6 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	MG763890.1	544	Pipistrellus abramus isolate 2017-1502 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	MG763889.1	544	Pipistrellus abramus isolate 2016-2300 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	KX355640.1	17236	Pipistrellus abramus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	AB061528.1	16976	Pipistrellus abramus mitochondrial DNA, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	NC_005436.1	16976	Pipistrellus abramus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	AB079821.1	957	Pipistrellus abramus mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	MN122892.1	16868	Luscinia svecica mitochondrion, partial genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GU571966.1	648	Luscinia svecica voucher BISE-Aves157 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GU571965.1	648	Luscinia svecica voucher BISE-Aves310 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GU571476.1	697	Luscinia svecica voucher NHMO-BC478 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GU571475.1	740	Luscinia svecica voucher NHMO-BC477 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GQ482148.1	694	Luscinia svecica voucher ZMMU RYA 1927 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GQ482147.1	694	Luscinia svecica voucher ZMMU RYA 1926 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GQ482146.1	694	Luscinia svecica voucher UWBM 44132 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GQ482145.1	694	Luscinia svecica voucher UWBM 75800 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GQ482144.1	694	Luscinia svecica voucher UWBM 49697 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GQ482143.1	694	Luscinia svecica voucher UWBM 59422 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	GQ482142.1	694	Luscinia svecica voucher UWBM 74242 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	DQ433777.1	672	Luscinia svecica voucher UWBM 44078 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	DQ433776.1	635	Luscinia svecica voucher UWBM 67624 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	DQ433005.1	652	Luscinia svecica voucher USNM 608996 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KX283127.1	493	Luscinia svecica voucher AI-B209 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KP252211.1	652	Luscinia svecica voucher USNM 645865 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KP252210.1	652	Luscinia svecica voucher USNM 645872 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KP252209.1	652	Luscinia svecica voucher USNM 645871 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KP252208.1	652	Luscinia svecica voucher USNM 645866 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KP252207.1	652	Luscinia svecica voucher USNM 645864 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789641.1	602	Luscinia svecica voucher NHMO-38692 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789640.1	602	Luscinia svecica voucher NHMO-38683 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789639.1	602	Luscinia svecica voucher NHMO-38684 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789638.1	602	Luscinia svecica voucher NHMO-38685 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789637.1	602	Luscinia svecica voucher NHMO-38687 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789636.1	602	Luscinia svecica voucher NHMO-38688 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789635.1	602	Luscinia svecica voucher NHMO-38689 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789634.1	602	Luscinia svecica voucher NHMO-38690 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789633.1	602	Luscinia svecica voucher NHMO-38691 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789632.1	602	Luscinia svecica voucher NHMO-38693 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789631.1	602	Luscinia svecica voucher NHMO-38694 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789630.1	602	Luscinia svecica voucher NHMO-38695 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789629.1	602	Luscinia svecica voucher NHMO-38696 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789628.1	602	Luscinia svecica voucher NHMO-38697 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789627.1	602	Luscinia svecica voucher NHMO-38699 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789626.1	602	Luscinia svecica voucher NHMO-38700 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789625.1	602	Luscinia svecica voucher NHMO-38701 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789624.1	602	Luscinia svecica voucher NHMO-38702 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789623.1	602	Luscinia svecica voucher NHMO-38703 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789622.1	602	Luscinia svecica voucher NHMO-38704 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789621.1	602	Luscinia svecica voucher NHMO-38705 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789620.1	602	Luscinia svecica voucher NHMO-38671 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789619.1	602	Luscinia svecica voucher NHMO-38659 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789618.1	602	Luscinia svecica voucher NHMO-38661 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789617.1	602	Luscinia svecica voucher NHMO-38662 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789616.1	602	Luscinia svecica voucher NHMO-38664 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789615.1	602	Luscinia svecica voucher NHMO-38665 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789614.1	602	Luscinia svecica voucher NHMO-38667 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789613.1	602	Luscinia svecica voucher NHMO-38668 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789612.1	602	Luscinia svecica voucher NHMO-38669 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789611.1	602	Luscinia svecica voucher NHMO-38672 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789610.1	602	Luscinia svecica voucher NHMO-38675 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789609.1	602	Luscinia svecica voucher NHMO-38676 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789608.1	602	Luscinia svecica voucher NHMO-38677 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789607.1	602	Luscinia svecica voucher NHMO-38679 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789606.1	602	Luscinia svecica voucher NHMO-38681 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789605.1	602	Luscinia svecica voucher NHMO-34449 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789604.1	602	Luscinia svecica voucher NHMO-34417 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789603.1	602	Luscinia svecica voucher NHMO-34427 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789602.1	602	Luscinia svecica voucher NHMO-34428 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789601.1	602	Luscinia svecica voucher NHMO-34409 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789600.1	602	Luscinia svecica voucher NHMO-34426 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789599.1	602	Luscinia svecica voucher NHMO-34415 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789598.1	602	Luscinia svecica voucher NHMO-34420 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789597.1	602	Luscinia svecica voucher NHMO-34422 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789596.1	602	Luscinia svecica voucher NHMO-34437 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789595.1	602	Luscinia svecica voucher NHMO-34445 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789594.1	602	Luscinia svecica voucher NHMO-34446 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789593.1	602	Luscinia svecica voucher NHMO-34447 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789592.1	602	Luscinia svecica voucher NHMO-34448 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789591.1	602	Luscinia svecica voucher NHMO-34451 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789590.1	602	Luscinia svecica voucher NHMO-34416 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789589.1	602	Luscinia svecica voucher NHMO-37429 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789588.1	602	Luscinia svecica voucher NHMO-37430 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789587.1	602	Luscinia svecica voucher NHMO-37431 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789586.1	602	Luscinia svecica voucher NHMO-37432 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789585.1	602	Luscinia svecica voucher NHMO-37433 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789584.1	602	Luscinia svecica voucher NHMO-37434 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789583.1	602	Luscinia svecica voucher NHMO-37436 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789582.1	602	Luscinia svecica voucher NHMO-37439 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789581.1	602	Luscinia svecica voucher NHMO-37440 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789580.1	602	Luscinia svecica voucher NHMO-37441 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789579.1	602	Luscinia svecica voucher NHMO-37442 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789578.1	602	Luscinia svecica voucher NHMO-37443 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789577.1	602	Luscinia svecica voucher NHMO-37445 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789576.1	602	Luscinia svecica voucher NHMO-37447 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789575.1	602	Luscinia svecica voucher NHMO-37448 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789574.1	602	Luscinia svecica voucher NHMO-37449 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789573.1	602	Luscinia svecica voucher NHMO-32291 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789572.1	602	Luscinia svecica voucher NHMO-37451 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789571.1	602	Luscinia svecica voucher NHMO-40753 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789570.1	602	Luscinia svecica voucher NHMO-40754 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789569.1	602	Luscinia svecica voucher NHMO-40743 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789568.1	602	Luscinia svecica voucher NHMO-40744 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789567.1	602	Luscinia svecica voucher NHMO-40745 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789566.1	602	Luscinia svecica voucher NHMO-40746 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789565.1	602	Luscinia svecica voucher NHMO-40747 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789564.1	602	Luscinia svecica voucher NHMO-40748 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanecula_svecica	KC789563.1	602	Luscinia svecica voucher NHMO-40749 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

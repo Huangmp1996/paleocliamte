@@ -1,0 +1,22 @@
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	NC_051558.1	16914	Nucifraga caryocatactes mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	MT506195.1	16914	Nucifraga caryocatactes mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482243.1	694	Nucifraga caryocatactes voucher UWBM 47598 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482242.1	694	Nucifraga caryocatactes voucher UWBM 66384 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482241.1	694	Nucifraga caryocatactes voucher UWBM 44365 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482240.1	694	Nucifraga caryocatactes voucher UWBM 59995 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482239.1	683	Nucifraga caryocatactes voucher UWBM 73681 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482238.1	677	Nucifraga caryocatactes voucher UWBM 75159 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482237.1	673	Nucifraga caryocatactes voucher UWBM 43817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482236.1	672	Nucifraga caryocatactes voucher UWBM 56746 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GQ482235.1	672	Nucifraga caryocatactes voucher UWBM 46286 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571990.1	648	Nucifraga caryocatactes voucher BISE-Aves119 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571989.1	648	Nucifraga caryocatactes voucher BISE-Aves276 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571501.1	722	Nucifraga caryocatactes voucher NHMO-BC284 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571500.1	735	Nucifraga caryocatactes voucher NHMO-BC592 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571499.1	733	Nucifraga caryocatactes voucher NHMO-BC591 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571498.1	747	Nucifraga caryocatactes voucher NHMO-BC536 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571497.1	697	Nucifraga caryocatactes voucher NHMO-BC537 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571496.1	751	Nucifraga caryocatactes voucher NHMO-BC72 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571495.1	689	Nucifraga caryocatactes voucher NHMO-BC519 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	GU571494.1	684	Nucifraga caryocatactes voucher NHMO-BC518 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	AB843622.1	697	Nucifraga caryocatactes mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO506-10

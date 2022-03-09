@@ -1,0 +1,7 @@
+AVES_PICIFORMES_PICIDAE_Picumnus_innominatus	NC_039537.1	17180	Picumnus innominatus mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Picumnus_innominatus	KX831678.1	17180	Picumnus innominatus mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Picumnus_innominatus	MF766690.1	1041	Picumnus innominatus voucher MNHN Uncat. 31-92 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picumnus_innominatus	DQ479155.1	1041	Picumnus innominatus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picumnus_innominatus	DQ188173.1	1036	Picumnus innominatus chinensis isolate M46 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picumnus_innominatus	DQ188171.1	1036	Picumnus innominatus malayorum isolate M66 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picumnus_innominatus	DQ188170.1	1036	Picumnus innominatus malayorum isolate O76 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

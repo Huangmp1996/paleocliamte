@@ -1,0 +1,92 @@
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT622509.1	16690	Canis lupus isolate DM1124 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042364.1	16724	Canis lupus isolate Wolf.WI.W081311JDN1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042363.1	16724	Canis lupus isolate Wolf.WI.W051810DS1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042362.1	16724	Canis lupus isolate Wolf.WI.W051810JH1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042361.1	16724	Canis lupus isolate Wolf.WI.W081111WJP1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042360.1	16724	Canis lupus isolate Wolf.WI.W092511BJC1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042359.1	16724	Canis lupus isolate Wolf.WI.W051910BP2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042358.1	16724	Canis lupus isolate Wolf.WI.W020411CAH2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042346.1	16731	Canis lupus isolate Wolf.WY.O30104 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042345.1	16731	Canis lupus isolate Wolf.WY.O30103 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042344.1	16731	Canis lupus isolate Wolf.WY.O21369 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042343.1	16730	Canis lupus isolate Wolf.WI.W082010BK1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042342.1	16730	Canis lupus isolate Wolf.WI.W060411ADW1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042341.1	16730	Canis lupus isolate Wolf.WI.W051910BP3 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042340.1	16730	Canis lupus isolate Wolf.WI.W092811JIM1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042339.1	16730	Canis lupus isolate Wolf.WI.J30945 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042338.1	16730	Canis lupus isolate Wolf.WY.O21375 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042337.1	16731	Canis lupus isolate Wolf.WY.O10741 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042336.1	16730	Canis lupus isolate Wolf.WY.O31009 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042335.1	16731	Canis lupus isolate Wolf.WY.O10737 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042334.1	16730	Canis lupus isolate Wolf.ID.N20749 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042333.1	16730	Canis lupus isolate Wolf.WY.O30105 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042332.1	16730	Canis lupus isolate Wolf.WY.O10735 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042331.1	16731	Canis lupus isolate Wolf.WY.O10734 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042330.1	16730	Canis lupus isolate Wolf.ID.N20748 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042329.1	16730	Canis lupus isolate Wolf.WY.O10742 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042328.1	16730	Canis lupus isolate Wolf.ID.N20737 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042327.1	16731	Canis lupus isolate Wolf.ID.N20735 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042326.1	16730	Canis lupus isolate Wolf.ID.N20736 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042325.1	16730	Canis lupus familiaris isolate Dog.GIL00111.Pekingese mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042324.1	16731	Canis lupus familiaris isolate Dog.GIL00001 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042323.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1293 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042322.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1294 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042321.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1126 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042320.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1292 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042319.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1291 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042318.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1290 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042317.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1289 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042316.1	16732	Canis lupus familiaris isolate Dog.GIL00123.Labradoodle mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042315.1	16732	Canis lupus familiaris isolate Dog.GIL00112.Saint_Bernard mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042314.1	16730	Canis lupus familiaris isolate Dog.GIL00121.Great_Pyrenees mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042313.1	16730	Canis lupus familiaris isolate Dog.GIL00002 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ531908.1	209	Canis lupus familiaris voucher AIWC 306 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN509797.1	16731	Canis lupus familiaris isolate PQ2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN509796.1	16760	Canis lupus familiaris isolate PQ1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367915.1	15458	Canis lupus isolate S14-0332 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367914.1	15458	Canis lupus lycaon isolate S14-0331 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367913.1	15458	Canis lupus familiaris isolate S12-0692 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367898.1	15458	Canis lupus isolate NMNH-52057 voucher NMNH-52057 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367897.1	15458	Canis lupus lycaon isolate MCZ-BOM-11183 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	NC_002008.4	16727	Canis lupus familiaris mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW979409.1	315	Canis lupus familiaris voucher AIWC 201 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT539210.1	55	Canis lupus familiaris isolate 6 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT539209.1	139	Canis lupus familiaris isolate 5 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT539208.1	132	Canis lupus familiaris isolate 4 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT539207.1	54	Canis lupus familiaris isolate 3 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT539206.1	54	Canis lupus familiaris isolate 2 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT539205.1	55	Canis lupus familiaris isolate 1 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW549038.1	16726	Canis lupus familiaris mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW051511.1	16761	Canis lupus familiaris breed Basenji mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524705.1	140	Canis lupus familiaris isolate VM22519-022 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524704.1	140	Canis lupus familiaris isolate VM22519-021 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524701.1	140	Canis lupus familiaris isolate VM22519-018 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524694.1	139	Canis lupus familiaris isolate VM22519-010 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524691.1	140	Canis lupus familiaris isolate VM22519-005 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524687.1	139	Canis lupus familiaris isolate VM22519-001 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524686.1	137	Canis lupus familiaris isolate VM22219-021 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524685.1	140	Canis lupus familiaris isolate VM22219-018 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524683.1	140	Canis lupus familiaris isolate VM22219-016 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524681.1	140	Canis lupus familiaris isolate VM22219-014 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524679.1	139	Canis lupus familiaris isolate VM22219-010 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524677.1	140	Canis lupus familiaris isolate VM22219-008 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524663.1	140	Canis lupus familiaris isolate VM22119-002 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524661.1	140	Canis lupus familiaris isolate VM22019-018 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524659.1	140	Canis lupus familiaris isolate VM22019-016 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524658.1	140	Canis lupus familiaris isolate VM22019-015 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524655.1	138	Canis lupus familiaris isolate VM22019-011 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524633.1	140	Canis lupus familiaris isolate VM171019-003 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524631.1	140	Canis lupus familiaris isolate VM161019-011 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524626.1	140	Canis lupus familiaris isolate VM161019-006 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524624.1	142	Canis lupus familiaris isolate VM161019-004 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524620.1	140	Canis lupus familiaris isolate VM161019-001 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524619.1	140	Canis lupus familiaris isolate VM110619-023 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524615.1	141	Canis lupus familiaris isolate VM110619-018 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524612.1	140	Canis lupus familiaris isolate VM110619-013 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524554.1	139	Canis lupus familiaris isolate VM103019-014_2 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524551.1	140	Canis lupus familiaris isolate VM103019-012 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524548.1	140	Canis lupus familiaris isolate VM103019-008 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524544.1	140	Canis lupus familiaris isolate VM103019-004 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524540.1	139	Canis lupus familiaris isolate VM102819-023 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524521.1	140	Canis lupus familiaris isolate VM102319-022 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW524515.1	142	Canis lupus familiaris isolate VM102319-017_2 small subunit ribosomal RNA gene, partial sequence; mitochondrial

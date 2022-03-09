@@ -1,0 +1,4 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	AF172383.1	300	Vanellus vanellus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	NC_025637.1	16795	Vanellus vanellus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KM577158.1	16795	Vanellus vanellus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	JQ342156.1	934	Vanellus vanellus isolate FTMJ1 cytochrome b (cytb) gene, partial cds; mitochondrial

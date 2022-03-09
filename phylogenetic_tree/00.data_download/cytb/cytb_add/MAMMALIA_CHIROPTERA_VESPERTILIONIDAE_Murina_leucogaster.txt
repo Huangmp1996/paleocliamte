@@ -1,0 +1,12 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KX467598.1	1140	Murina leucogaster voucher HLJ-004 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KF294304.1	1140	Murina leucogaster isolate Neixiang-27 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KF294303.1	1140	Murina leucogaster isolate Neixiang-23 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KF294302.1	1140	Murina leucogaster isolate Neixiang-14 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KF294301.1	1140	Murina leucogaster isolate Lushi-216 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KF294300.1	1140	Murina leucogaster isolate Lushi-212 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	GQ168912.1	1041	Murina leucogaster isolate A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	GQ168910.1	1041	Murina leucogaster isolate C cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	NC_025949.1	16823	Murina leucogaster mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KM893454.1	16823	Murina leucogaster mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	JX465367.1	1140	Murina leucogaster isolate YichangMl1 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	AB085733.1	1140	Murina leucogaster mitochondrial cytb gene for cytochrome b, complete cds

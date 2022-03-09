@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_PELLORNEIDAE_Turdinus_brevicaudatus	MK567188.1	893	Turdinus brevicaudatus voucher SR2016-570 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Turdinus_brevicaudatus	HQ529042.1	519	Napothera brevicaudata voucher AMNH:DOT 2639 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Turdinus_brevicaudatus	JN826598.1	1041	Napothera brevicaudata voucher KUNHM 10351 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

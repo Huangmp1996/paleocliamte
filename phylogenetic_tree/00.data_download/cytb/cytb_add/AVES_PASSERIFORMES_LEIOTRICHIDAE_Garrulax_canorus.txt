@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	EU447082.1	846	Garrulax canorus canorus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333160.1	1143	Garrulax canorus owstoni isolate T950 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333159.1	1143	Garrulax canorus owstoni isolate T951 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333158.1	1143	Garrulax canorus owstoni isolate T949 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333157.1	1143	Garrulax canorus owstoni isolate T0779 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333156.1	1143	Garrulax canorus owstoni isolate T0777 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333155.1	1143	Garrulax canorus canorus isolate T0578 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333154.1	1143	Garrulax canorus canorus isolate T0593 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333153.1	1143	Garrulax canorus canorus isolate T0330 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333152.1	1143	Garrulax canorus canorus isolate T0417 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333151.1	1143	Garrulax canorus canorus isolate T0416 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333150.1	1143	Garrulax canorus canorus isolate T0415 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333149.1	1143	Garrulax canorus canorus isolate T0414 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333148.1	1143	Garrulax canorus canorus isolate T0569 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333147.1	1143	Garrulax canorus canorus isolate T0574 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333146.1	1143	Garrulax canorus canorus isolate T0374 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333145.1	1143	Garrulax canorus canorus isolate T0373 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333144.1	1143	Garrulax canorus canorus isolate T0372 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333143.1	1143	Garrulax canorus canorus isolate T0371 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333142.1	1143	Garrulax canorus canorus isolate T0380 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333141.1	1143	Garrulax canorus canorus isolate T0381 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333140.1	1143	Garrulax canorus canorus isolate T0383 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333139.1	1143	Garrulax canorus canorus isolate T0382 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333138.1	1143	Garrulax canorus canorus isolate T0352 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333137.1	1143	Garrulax canorus canorus isolate T0353 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333136.1	1143	Garrulax canorus canorus isolate T0342 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333135.1	1143	Garrulax canorus canorus isolate T0341 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333134.1	1143	Garrulax canorus canorus isolate T0248 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333133.1	1143	Garrulax canorus canorus isolate T0244 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333132.1	1143	Garrulax canorus canorus isolate T0243 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333131.1	1143	Garrulax canorus canorus isolate T0242 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333130.1	1143	Garrulax canorus canorus isolate T0039 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333129.1	1143	Garrulax canorus canorus isolate T0228 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333128.1	1143	Garrulax canorus canorus isolate T0230 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333127.1	1143	Garrulax canorus canorus isolate T0231 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	AY333126.1	1143	Garrulax canorus canorus isolate T0232 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841473.1	1092	Garrulax canorus canorus isolate T0821 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841472.1	1092	Garrulax canorus canorus isolate T0820 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841471.1	1092	Garrulax canorus canorus isolate T0819 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841470.1	1092	Garrulax canorus canorus isolate T0818 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841469.1	1092	Garrulax canorus canorus isolate T0817 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841468.1	1092	Garrulax canorus canorus isolate T0816 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841467.1	1092	Garrulax canorus canorus isolate T0815 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841466.1	1092	Garrulax canorus canorus isolate T0814 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841465.1	1092	Garrulax canorus canorus isolate T0798 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841464.1	1092	Garrulax canorus canorus isolate T0797 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841463.1	1092	Garrulax canorus canorus isolate T0796 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841462.1	1092	Garrulax canorus canorus isolate T0795 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841461.1	1092	Garrulax canorus canorus isolate T0794 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841460.1	1092	Garrulax canorus canorus isolate T0793 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841459.1	1092	Garrulax canorus canorus isolate T0792 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841458.1	1092	Garrulax canorus canorus isolate T0791 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841457.1	1092	Garrulax canorus canorus isolate T0790 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841456.1	1092	Garrulax canorus canorus isolate T0789 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841455.1	1092	Garrulax canorus canorus isolate T0788 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841454.1	1092	Garrulax canorus canorus isolate T0787 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841453.1	1092	Garrulax canorus canorus isolate T0786 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841452.1	1092	Garrulax canorus canorus isolate T0785 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841451.1	1092	Garrulax canorus canorus isolate T0784 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841450.1	1092	Garrulax canorus canorus isolate T0783 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841449.1	1092	Garrulax canorus canorus isolate T0782 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841448.1	1092	Garrulax canorus canorus isolate T0592 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841447.1	1092	Garrulax canorus canorus isolate T0591 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841446.1	1092	Garrulax canorus canorus isolate T0590 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841445.1	1092	Garrulax canorus canorus isolate T0589 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841444.1	1092	Garrulax canorus canorus isolate T0588 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841443.1	1092	Garrulax canorus canorus isolate T0587 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841442.1	1092	Garrulax canorus canorus isolate T0586 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841441.1	1092	Garrulax canorus canorus isolate T0585 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841440.1	1092	Garrulax canorus canorus isolate T0584 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841439.1	1092	Garrulax canorus canorus isolate T0583 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841438.1	1092	Garrulax canorus canorus isolate T0582 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841437.1	1092	Garrulax canorus canorus isolate T0581 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841436.1	1092	Garrulax canorus canorus isolate T0580 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841435.1	1092	Garrulax canorus canorus isolate T0579 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841434.1	1092	Garrulax canorus canorus isolate T0578 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841433.1	1092	Garrulax canorus canorus isolate T0577 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841432.1	1092	Garrulax canorus canorus isolate T0576 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841431.1	1092	Garrulax canorus canorus isolate T0575 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841430.1	1092	Garrulax canorus canorus isolate T0574 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841429.1	1092	Garrulax canorus canorus isolate T0573 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841428.1	1092	Garrulax canorus canorus isolate T0572 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841427.1	1092	Garrulax canorus canorus isolate T0571 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841426.1	1092	Garrulax canorus canorus isolate T0570 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841425.1	1092	Garrulax canorus canorus isolate T0569 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841424.1	1092	Garrulax canorus canorus isolate T0568 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841423.1	1092	Garrulax canorus canorus isolate T0567 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841422.1	1092	Garrulax canorus canorus isolate T0566 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841421.1	1092	Garrulax canorus canorus isolate T0565 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841420.1	1092	Garrulax canorus canorus isolate T0504 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841419.1	1092	Garrulax canorus canorus isolate T0503 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841418.1	1092	Garrulax canorus canorus isolate T0502 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841417.1	1092	Garrulax canorus canorus isolate T0501 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841416.1	1092	Garrulax canorus canorus isolate T0500 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841415.1	1092	Garrulax canorus canorus isolate T0499 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841414.1	1092	Garrulax canorus canorus isolate T0498 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841413.1	1092	Garrulax canorus canorus isolate T0497 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841412.1	1092	Garrulax canorus canorus isolate T0496 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841411.1	1092	Garrulax canorus canorus isolate T0495 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	FJ841410.1	1092	Garrulax canorus canorus isolate T0494 cytochrome b gene, partial cds; mitochondrial

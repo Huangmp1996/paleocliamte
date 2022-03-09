@@ -1,0 +1,3 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_flavomaculatus	AY915965.1	1454	Ranodon flavomaculatus NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_flavomaculatus	NC_020635.1	16389	Pseudohynobius flavomaculatus voucher CIB-XM2084 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_flavomaculatus	FJ532059.1	16389	Pseudohynobius flavomaculatus voucher CIB-XM2084 mitochondrion, complete genome

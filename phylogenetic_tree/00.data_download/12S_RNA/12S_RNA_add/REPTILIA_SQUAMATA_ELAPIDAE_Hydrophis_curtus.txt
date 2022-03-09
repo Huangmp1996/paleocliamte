@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	MT712129.1	17839	Hydrophis curtus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	NC_046794.1	17702	Hydrophis curtus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	MK953549.1	17702	Hydrophis curtus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KX239653.1	937	Hydrophis curtus 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	EU547134.1	947	Lapemis curtus 12S ribosomal RNA gene, partial sequence; mitochondrial

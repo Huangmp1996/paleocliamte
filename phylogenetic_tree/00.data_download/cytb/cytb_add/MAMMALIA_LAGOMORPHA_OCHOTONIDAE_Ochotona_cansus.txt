@@ -1,0 +1,100 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547423.1	16397	Ochotona cansus voucher JJSA479 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547422.1	16373	Ochotona cansus voucher JJSB031 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547421.1	16388	Ochotona cansus voucher JLCYZ01001 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547420.1	16390	Ochotona cansus voucher BLG038 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547419.1	16392	Ochotona cansus voucher YX13003 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547418.1	16394	Ochotona cansus voucher QH13019 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547417.1	16393	Ochotona cansus voucher QH12164 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547416.1	16395	Ochotona cansus voucher GSLTYLG0201 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547415.1	16380	Ochotona cansus voucher QL12014 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547414.1	16459	Ochotona cansus voucher BY13005 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547413.1	16382	Ochotona cansus voucher QH13006 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	MN547412.1	16388	Ochotona cansus voucher QH12055 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KX354164.1	562	Ochotona cansus voucher Ch11-167 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KX354163.1	1038	Ochotona cansus voucher ZMMU:S-195203 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805409.1	1705	Ochotona cansus voucher SX2012052 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805408.1	1705	Ochotona cansus voucher SX2012024 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805407.1	1705	Ochotona cansus voucher SX2012023 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805406.1	1705	Ochotona cansus voucher SX2012022 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805405.1	1705	Ochotona cansus voucher SX2012021 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805404.1	1705	Ochotona cansus voucher SX2012019 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805403.1	1705	Ochotona cansus voucher SX2012016 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805402.1	1705	Ochotona cansus voucher SX2012015 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805401.1	1705	Ochotona cansus voucher SX2012014 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805400.1	1705	Ochotona cansus voucher SX2012013 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805399.1	1705	Ochotona cansus voucher SX2012010 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805398.1	1705	Ochotona cansus voucher Shanxi2012005 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805397.1	1705	Ochotona cansus voucher Shanxi2012004 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805396.1	1705	Ochotona cansus voucher Shanxi2012003 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805395.1	1705	Ochotona cansus voucher Shanxi2012002 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805394.1	1705	Ochotona cansus voucher Shanxi2012001 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805393.1	1705	Ochotona cansus voucher QH11-520 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805392.1	1705	Ochotona cansus voucher QH11-628 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805391.1	1705	Ochotona cansus voucher QH11-625 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805390.1	1705	Ochotona cansus voucher QH11-591 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805389.1	1705	Ochotona cansus voucher 14RE004 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805388.1	1705	Ochotona cansus voucher 14RE001 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805387.1	1705	Ochotona cansus voucher S-195547 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805386.1	1705	Ochotona cansus voucher S-195546 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805385.1	1705	Ochotona cansus voucher S-195545 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805384.1	1705	Ochotona cansus voucher WL15514 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805383.1	1705	Ochotona cansus voucher WL15505 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805382.1	1705	Ochotona cansus voucher WL15490 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805381.1	1705	Ochotona cansus voucher WL140132 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805380.1	1706	Ochotona cansus voucher KKA053 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805379.1	1706	Ochotona cansus voucher KKA050 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805378.1	1706	Ochotona cansus voucher KKA049 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805377.1	1706	Ochotona cansus voucher KKA048 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805376.1	1706	Ochotona cansus voucher KKA047 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805375.1	1706	Ochotona cansus voucher DCB085 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805374.1	1706	Ochotona cansus voucher DCB083 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805373.1	1706	Ochotona cansus voucher DCB082 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805372.1	1706	Ochotona cansus voucher DCA088 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805371.1	1706	Ochotona cansus voucher DCA084 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805370.1	1706	Ochotona cansus voucher GSBS-110 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805369.1	1706	Ochotona cansus voucher GSBS-105 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805368.1	1706	Ochotona cansus voucher GSBS-104 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805367.1	1706	Ochotona cansus voucher GSBS-103 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805366.1	1706	Ochotona cansus voucher GSBS-102 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT805365.1	1706	Ochotona cansus voucher GSBS-101 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT779489.1	600	Ochotona cansus voucher MSB232799 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KT779488.1	524	Ochotona cansus voucher MSB232800 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KY024889.1	1140	Ochotona cansus isolate LH02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KY024888.1	1140	Ochotona cansus isolate LH01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KY024887.1	1104	Ochotona cansus isolate CS01 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	AF273007.1	1140	Ochotona cansus morosa cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	AF273006.1	1140	Ochotona cansus cansus isolate 93J019 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	AF273005.1	1140	Ochotona cansus stevensi cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	AF273003.1	1140	Ochotona cansus cansus isolate 93J020 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359694.1	1119	Ochotona cansus isolate JJSA479 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359693.1	1128	Ochotona cansus isolate TJH15024 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359692.1	1128	Ochotona cansus isolate TJH15026 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359691.1	1128	Ochotona cansus isolate TJH15025 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359690.1	1128	Ochotona cansus isolate TJH15033 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359689.1	1128	Ochotona cansus isolate TJH15028 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359688.1	1128	Ochotona cansus isolate TJH15034 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359687.1	1128	Ochotona cansus isolate TJH15027 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359686.1	1089	Ochotona cansus isolate TJH15031 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359685.1	1131	Ochotona cansus isolate TJH15032 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359684.1	1137	Ochotona cansus isolate SDG04001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359683.1	1137	Ochotona cansus isolate DWD06001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359682.1	1137	Ochotona cansus isolate HLSG3510A001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359681.1	1137	Ochotona cansus isolate SDG05004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359680.1	1108	Ochotona cansus isolate HL14031 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359679.1	1111	Ochotona cansus isolate HL14030 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359678.1	1137	Ochotona cansus isolate JJSA411 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359677.1	1137	Ochotona cansus isolate JJSA482 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359676.1	1107	Ochotona cansus isolate JJSB031 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359675.1	1137	Ochotona cansus isolate JJSB050 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359674.1	1137	Ochotona cansus isolate JJSB173 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359673.1	1137	Ochotona cansus isolate YLG0122 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359672.1	1137	Ochotona cansus isolate YSSL01005 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359671.1	1137	Ochotona cansus isolate REG02004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359670.1	1137	Ochotona cansus isolate YLG0205 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359669.1	1137	Ochotona cansus isolate QH12164 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359668.1	1137	Ochotona cansus isolate YLG0309 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359667.1	1137	Ochotona cansus isolate QH13019 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359666.1	1137	Ochotona cansus isolate SDG05003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359665.1	1137	Ochotona cansus isolate YLG0202 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359664.1	1137	Ochotona cansus isolate YX13003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_cansus	KU359663.1	1137	Ochotona cansus isolate YX13010 cytochrome b (cytb) gene, partial cds; mitochondrial

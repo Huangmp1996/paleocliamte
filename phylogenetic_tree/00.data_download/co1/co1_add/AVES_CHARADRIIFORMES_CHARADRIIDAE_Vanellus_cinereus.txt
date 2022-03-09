@@ -1,0 +1,6 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_cinereus	MW303998.1	17078	Vanellus cinereus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_cinereus	AB843271.1	652	Vanellus cinereus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM841-12
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_cinereus	AB843270.1	656	Vanellus cinereus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM840-12
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_cinereus	KM873665.1	17135	Vanellus cinereus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_cinereus	NC_025514.1	17074	Vanellus cinereus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_cinereus	KM404175.1	17074	Vanellus cinereus mitochondrion, complete genome

@@ -1,0 +1,28 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190185.1	403	Leiolepis reevesii rubritaeniata isolate DK10 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190184.1	403	Leiolepis reevesii rubritaeniata isolate DK09 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190183.1	403	Leiolepis reevesii rubritaeniata isolate DK08 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190182.1	403	Leiolepis reevesii rubritaeniata isolate DK07 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190181.1	403	Leiolepis reevesii rubritaeniata isolate DK06 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190180.1	403	Leiolepis reevesii rubritaeniata isolate DK05 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190179.1	403	Leiolepis reevesii rubritaeniata isolate DK04 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190178.1	403	Leiolepis reevesii rubritaeniata isolate DK03 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190177.1	403	Leiolepis reevesii rubritaeniata isolate DK02 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190176.1	403	Leiolepis reevesii rubritaeniata isolate DK01 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190148.1	403	Leiolepis reevesii isolate TA12 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190147.1	403	Leiolepis reevesii isolate TA11 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190146.1	403	Leiolepis reevesii isolate TA10 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190145.1	403	Leiolepis reevesii isolate TA09 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190144.1	403	Leiolepis reevesii isolate TA08 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190143.1	403	Leiolepis reevesii isolate TA07 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190142.1	404	Leiolepis reevesii isolate TH04 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190141.1	405	Leiolepis reevesii isolate TH03 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190140.1	404	Leiolepis reevesii isolate TH02 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	MZ190139.1	404	Leiolepis reevesii isolate TH01 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	NC_024179.1	16908	Leiolepis reevesii voucher SY3 mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	KJ530718.1	16908	Leiolepis reevesii mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	AB537553.1	16052	Leiolepis reevesii rubritaeniata mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	AF215262.1	492	Leiolepis reevesii reevesii 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	EU428189.1	493	Leiolepis reevesii isolate C7 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	EU428188.1	491	Leiolepis reevesii isolate C5 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	AF378376.1	493	Leiolepis reevesii reevesii 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Leiolepis_reevesii	AB480293.1	471	Leiolepis reevesii rubritaeniata mitochondrial gene for 16S rRNA, partial sequence, isolate: Korah1

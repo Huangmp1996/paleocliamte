@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Abroscopus_schisticeps	MK598999.1	1032	Abroscopus schisticeps voucher MAR-3088 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Abroscopus_schisticeps	MK598998.1	1062	Abroscopus schisticeps voucher MAR-8533 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Abroscopus_schisticeps	EU861032.1	606	Abroscopus schisticeps cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,40 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	MT981518.1	682	Polypedates megacephalus isolate PM02 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	NC_043955.1	19952	Polypedates megacephalus voucher 20130003 mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	MH936677.1	19952	Polypedates megacephalus voucher 20130003 mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	MH034316.1	588	Polypedates megacephalus voucher JLZ-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	MH034315.1	588	Polypedates megacephalus voucher 16066 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	MH034314.1	588	Polypedates megacephalus voucher 16080 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	AY458598.1	16473	Polypedates megacephalus mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	HQ844998.1	697	Polypedates megacephalus cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996828.1	561	Polypedates megacephalus haplotype C135 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996748.1	561	Polypedates megacephalus haplotype C046 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996722.1	561	Polypedates megacephalus haplotype A135 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996721.1	561	Polypedates megacephalus haplotype A134 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996720.1	561	Polypedates megacephalus haplotype A133 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996719.1	561	Polypedates megacephalus haplotype A132 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996718.1	561	Polypedates megacephalus haplotype A131 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996717.1	561	Polypedates megacephalus haplotype A129 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996716.1	561	Polypedates megacephalus haplotype A127 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996715.1	561	Polypedates megacephalus haplotype A125 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP996690.1	561	Polypedates megacephalus haplotype 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KP776990.1	682	Polypedates megacephalus isolate A1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087893.1	705	Polypedates megacephalus voucher 0869Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087892.1	705	Polypedates megacephalus voucher 0946Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087891.1	705	Polypedates megacephalus voucher 0945Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087890.1	705	Polypedates megacephalus voucher 0944Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087889.1	705	Polypedates megacephalus voucher 0055Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087888.1	663	Polypedates megacephalus voucher THNHM_20487 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087887.1	691	Polypedates megacephalus voucher 0176Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087886.1	705	Polypedates megacephalus voucher 0118Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087885.1	705	Polypedates megacephalus voucher 0920Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087884.1	705	Polypedates megacephalus voucher 0913Y2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087883.1	705	Polypedates megacephalus voucher 0912Y2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087882.1	705	Polypedates megacephalus voucher K3032 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087881.1	658	Polypedates megacephalus voucher THNHM_20401 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087880.1	705	Polypedates megacephalus voucher 0997Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087879.1	667	Polypedates megacephalus voucher 0987Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087878.1	705	Polypedates megacephalus voucher 0965Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087877.1	705	Polypedates megacephalus voucher 2003.0411 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087876.1	644	Polypedates megacephalus voucher 447D cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087875.1	705	Polypedates megacephalus voucher K750 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Polypedates_megacephalus	KR087874.1	705	Polypedates megacephalus voucher 2000.2946 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

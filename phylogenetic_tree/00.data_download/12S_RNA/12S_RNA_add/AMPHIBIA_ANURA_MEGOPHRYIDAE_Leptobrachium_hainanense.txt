@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_hainanense	AB530447.1	1917	Leptobrachium hainanense mitochondrial genes for 16S rRNA, tRNA-Val, 12S rRNA, partial and complete sequence, isolate: KUHE UNL L68
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_hainanense	AB719259.1	2389	Leptobrachium hainanense mitochondrial genes for 12S rRNA, tRNA-Val and 16S rRNA, partial and complete sequence, specimen_voucher: KUHE:UNL L68
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_hainanense	EF544234.1	1933	Leptobrachium hainanense voucher ZYC 1552 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_hainanense	EF544233.1	1934	Leptobrachium hainanense voucher SN 030043 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

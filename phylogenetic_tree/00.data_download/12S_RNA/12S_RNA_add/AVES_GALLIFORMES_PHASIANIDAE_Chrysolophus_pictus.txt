@@ -1,0 +1,8 @@
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	MW151829.1	1881	Chrysolophus pictus D-loop, partial sequence; tRNA-Phe, 12S ribosomal RNA, and tRNA-Glu genes, complete sequence; and D-loop, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	MN857545.1	16678	Chrysolophus pictus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	MG735217.1	16678	Chrysolophus pictus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	HQ221859.1	16678	Chrysolophus pictus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	FJ752433.1	16678	Chrysolophus pictus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	LC012932.1	651	Chrysolophus pictus mitochondrial gene for 12S rRNA, partial sequence
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	KC749452.1	969	Chrysolophus pictus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	NC_014576.1	16678	Chrysolophus pictus mitochondrion, complete genome

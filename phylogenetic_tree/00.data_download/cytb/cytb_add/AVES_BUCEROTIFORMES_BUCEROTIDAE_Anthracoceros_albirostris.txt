@@ -1,0 +1,4 @@
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Anthracoceros_albirostris	U89190.1	1143	Anthracoceros albirostris cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Anthracoceros_albirostris	GU257911.1	1143	Anthracoceros albirostris albirostris isolate PH cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Anthracoceros_albirostris	AF346950.1	1016	Anthracoceros albirostris albirostris isolate 44 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Anthracoceros_albirostris	AF346949.1	876	Anthracoceros albirostris albirostris isolate 43 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product

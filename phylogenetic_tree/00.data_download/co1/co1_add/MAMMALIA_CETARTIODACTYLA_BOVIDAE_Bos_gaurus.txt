@@ -1,0 +1,15 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MT360653.1	16345	Bos gaurus isolate GR04 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MT360652.1	16345	Bos gaurus isolate GR03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MT345893.1	16345	Bos gaurus isolate GR02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MT345892.1	16345	Bos gaurus isolate GR01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MK393428.1	406	Bos gaurus voucher ZSI/SRC B-56 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MK393427.1	406	Bos gaurus voucher ZSI/SRC B-43 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MK393426.1	406	Bos gaurus voucher ZSI/SRC B-44 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MN102713.1	404	Bos gaurus voucher ZSI/SRC B-85 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MK770201.1	16367	Bos gaurus isolate S0029 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	JN714181.1	653	Bos gaurus isolate WF-RFDF-14-3 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	JN714180.1	653	Bos gaurus isolate WF-RFDF-14-2 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	JN714179.1	653	Bos gaurus isolate WF-RFDF-14-1 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	NC_024818.1	16345	Bos gaurus isolate Mondulkiri mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	JN632604.1	16345	Bos gaurus isolate Mondulkiri mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	KF808255.1	606	Bos gaurus voucher MAM-5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

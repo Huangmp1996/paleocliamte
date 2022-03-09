@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_laoensis	LC105642.1	886	Lycodon laoensis mitochondrial Cytb gene for cytochrome b, partial cds, isolate: LLA1
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_laoensis	LC105619.1	718	Lycodon laoensis mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds, isolate: LLA1
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_laoensis	KC010371.1	558	Lycodon laoensis voucher KU:328529 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_laoensis	KC010370.1	1110	Lycodon laoensis voucher LSUHC8481 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_laoensis	KC010369.1	558	Lycodon laoensis voucher FMNH:262186 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_laoensis	KC010368.1	1110	Lycodon laoensis voucher FMNH:258659 cytochrome b (cytb) gene, partial cds; mitochondrial

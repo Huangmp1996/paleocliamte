@@ -1,0 +1,80 @@
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MW023795.1	1113	Rattus andamanensis isolate Ruili-132 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	NC_046686.1	16304	Rattus andamanensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MK558274.1	16304	Rattus andamanensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748344.1	1128	Rattus andamanensis isolate zj0922 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748343.1	1128	Rattus andamanensis isolate zj0920 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748320.1	1113	Rattus andamanensis isolate MT11276 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748319.1	1137	Rattus andamanensis isolate MT11275 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748318.1	1137	Rattus andamanensis isolate MT11270 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748317.1	1136	Rattus andamanensis isolate MT11269 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748316.1	1113	Rattus andamanensis isolate MT11263 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748315.1	1137	Rattus andamanensis isolate MT11262 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748314.1	1128	Rattus andamanensis isolate MT11244 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748313.1	1137	Rattus andamanensis isolate MT11243 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748312.1	1128	Rattus andamanensis isolate MT11242 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748309.1	1128	Rattus andamanensis isolate MT11231 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748308.1	1137	Rattus andamanensis isolate MT11230 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748307.1	1137	Rattus andamanensis isolate MT11229 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748306.1	1137	Rattus andamanensis isolate MT11228 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748305.1	1137	Rattus andamanensis isolate MT11215 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748304.1	1137	Rattus andamanensis isolate MT11214 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748303.1	1128	Rattus andamanensis isolate MT11213 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748302.1	1137	Rattus andamanensis isolate MT11212 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748301.1	1128	Rattus andamanensis isolate MT11210 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748300.1	1134	Rattus andamanensis isolate MT11209 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748297.1	1124	Rattus andamanensis isolate MT11205 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748296.1	1137	Rattus andamanensis isolate MT11203 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748295.1	1116	Rattus andamanensis isolate MT11202 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748294.1	1137	Rattus andamanensis isolate MT11201 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748293.1	1128	Rattus andamanensis isolate MT11200 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748289.1	1137	Rattus andamanensis isolate MT11189 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748288.1	1137	Rattus andamanensis isolate MT11186 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748287.1	1137	Rattus andamanensis isolate MT11185 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748286.1	1137	Rattus andamanensis isolate MT11184 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748285.1	1137	Rattus andamanensis isolate MT11183 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748284.1	1137	Rattus andamanensis isolate MT11178 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748278.1	1137	Rattus andamanensis isolate MT11167 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748277.1	1137	Rattus andamanensis isolate MT11166 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748276.1	1133	Rattus andamanensis isolate MT11029 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748270.1	1137	Rattus andamanensis isolate MT019 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748268.1	1134	Rattus andamanensis isolate jp0803004 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748267.1	1128	Rattus andamanensis isolate jp0803003 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748266.1	1128	Rattus andamanensis isolate jp0803002 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748265.1	1128	Rattus andamanensis isolate jp0802002 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748260.1	1137	Rattus andamanensis isolate HN13035 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748259.1	1113	Rattus andamanensis isolate HN13034 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748254.1	1137	Rattus andamanensis isolate HN13021 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748252.1	1137	Rattus andamanensis isolate HN13014 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748251.1	1137	Rattus andamanensis isolate hn13013 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MG748250.1	1137	Rattus andamanensis isolate HN13012 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KY754124.1	424	Rattus andamanensis cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	HM217403.1	1119	Rattus andamanensis voucher R3087 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	HM217396.1	1128	Rattus andamanensis voucher R2953 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KC010173.1	858	Rattus andamanensis haplotype HCBRA05 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KC010172.1	852	Rattus andamanensis haplotype HCBRA04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KC010171.1	870	Rattus andamanensis haplotype HCBRA03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KC010170.1	898	Rattus andamanensis haplotype HCBRA02 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KC010169.1	858	Rattus andamanensis haplotype HCBRA01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JX573333.1	1140	Rattus andamanensis voucher KIZ:CMR22 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JX573332.1	1140	Rattus andamanensis voucher KIZ:CMR21 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JQ814249.1	774	Rattus andamanensis voucher FMNH:168825 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JQ814211.1	1143	Rattus andamanensis voucher MVZ:Mamm:193096 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JQ814208.1	1143	Rattus andamanensis voucher MVZ:Mamm:176532 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JQ814207.1	1143	Rattus andamanensis voucher MVZ:Mamm:176530 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775874.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate BZM8
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775873.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate BZM7
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775872.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate BZM4
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775871.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate BZM3
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775870.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate BZM1
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775869.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate K90
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775868.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate K79
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775867.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate R3
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	FR775866.1	1143	Rattus andamanensis mitochondrial cytb gene for cytochrome b, isolate R1
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JQ823538.1	1143	Rattus andamanensis isolate MVZ193095 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JN675487.1	945	Rattus andamanensis isolate 103Ran_50 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JN675486.1	945	Rattus andamanensis isolate 102Ran_50 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JN675485.1	945	Rattus andamanensis isolate 100Ran_48 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JN675484.1	945	Rattus andamanensis isolate 97Ran_46 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JN675483.1	945	Rattus andamanensis isolate 96Ran_46 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JN675482.1	945	Rattus andamanensis isolate 88Ran_44 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JN675481.1	945	Rattus andamanensis isolate 66Ran_35 cytochrome b (cytb) gene, partial cds; mitochondrial

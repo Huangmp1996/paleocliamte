@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_gouldiae	NC_027241.1	16893	Aethopyga gouldiae mitochondrion, complete genome
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_gouldiae	KP772257.1	16893	Aethopyga gouldiae mitochondrion, complete genome
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_gouldiae	KJ455308.1	1041	Aethopyga gouldiae NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_gouldiae	KC122448.1	1041	Aethopyga gouldiae voucher KU11236 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_gouldiae	KC122447.1	1041	Aethopyga gouldiae voucher KU11048 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

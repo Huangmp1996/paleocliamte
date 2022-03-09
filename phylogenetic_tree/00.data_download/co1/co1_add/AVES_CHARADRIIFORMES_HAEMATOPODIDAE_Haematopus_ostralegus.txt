@@ -1,0 +1,14 @@
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	LR595929.1	703	Haematopus ostralegus mitochondrion partial COI gene for Cytochrome oxidase subunit I, specimen voucher NA, isolate HO03
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	MH727533.1	16798	Haematopus ostralegus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	GQ481972.1	694	Haematopus ostralegus voucher UWBM 56916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	EF514936.1	611	Haematopus ostralegus ostralegus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	NC_034237.1	16798	Haematopus ostralegus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	KY419886.1	16798	Haematopus ostralegus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	GU571919.1	648	Haematopus ostralegus voucher BISE-Aves183 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	GU571918.1	648	Haematopus ostralegus voucher BISE-Aves444 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	GU571427.1	729	Haematopus ostralegus voucher NHMO-BC382 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	GU571426.1	727	Haematopus ostralegus voucher NHMO-BC383 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	GQ481973.1	694	Haematopus ostralegus voucher UWBM 49540 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	GQ481971.1	694	Haematopus ostralegus voucher UWBM 49759 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	KF946703.1	693	Haematopus ostralegus ostralegus voucher Tissue459 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_HAEMATOPODIDAE_Haematopus_ostralegus	KF946702.1	693	Haematopus ostralegus ostralegus voucher Tissue458 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

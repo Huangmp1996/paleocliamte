@@ -1,0 +1,26 @@
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	MK262035.1	648	Ardea alba voucher SP150 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	JF499092.1	675	Ardea alba voucher USNM:641853 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804904.1	674	Ardea alba isolate Ardalb8 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804903.1	701	Ardea alba isolate Ardalb7 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804902.1	694	Ardea alba isolate Ardalb6 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804901.1	694	Ardea alba isolate Ardalb5 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804900.1	690	Ardea alba isolate Ardalb4 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804899.1	680	Ardea alba isolate Ardalb3 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804898.1	656	Ardea alba isolate Ardalb2 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	DQ433328.1	681	Ardea alba voucher CWS28228 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	DQ433327.1	680	Ardea alba voucher CWS28235 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	DQ432747.1	651	Ardea alba voucher USNM 626549 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	EF515753.1	686	Ardea alba voucher KRIBB2276 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	AB843364.1	665	Ardea alba mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO075-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	AB843363.1	649	Ardea alba mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO090-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	AB842564.1	653	Ardea alba mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM354-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	AB842563.1	660	Ardea alba mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM241-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	KM894278.1	652	Ardea alba voucher 646957 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	KM894277.1	652	Ardea alba voucher 646774 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	KC708544.1	671	Ardea alba isolate 3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	JN850706.1	658	Ardea alba isolate D07_973 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	JN850685.1	658	Ardea alba isolate D07_1232 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	JN850680.1	658	Ardea alba isolate D07_1079 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	FJ027162.1	694	Ardea alba voucher MACN-Or-ct 2373 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	FJ027161.1	694	Ardea alba voucher MACN-Or-ct 1704 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	FJ027160.1	682	Ardea alba voucher MACN-Or-ct 1650 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	AF342867.1	924	Carpodacus roseus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	DQ236208.1	606	Carpodacus roseus clone cro-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	DQ236207.1	500	Carpodacus roseus clone cro-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	DQ792777.1	1143	Carpodacus roseus isolate 104 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	DQ792776.1	1143	Carpodacus roseus isolate 4 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	DQ792775.1	1143	Carpodacus roseus isolate 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	KM078779.1	16796	Carpodacus roseus mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	NC_025607.1	16796	Carpodacus roseus mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	KF194085.1	672	Carpodacus roseus voucher MTD C61316 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	KR017980.1	944	Falco cherrug voucher FSAC-CQSAS cytochrome oxidase subunit 1 (COX-1) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	NC_026715.1	18059	Falco cherrug mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	KP337902.1	18059	Falco cherrug mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	JQ319872.1	1011	Falco cherrug isolate F-c1 cytochrome b (cytb) gene, partial cds; mitochondrial

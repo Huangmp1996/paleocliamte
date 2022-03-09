@@ -1,0 +1,9 @@
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	NC_009492.1	16805	Ailuropoda melanoleuca mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	MH102403.1	16805	Ailuropoda melanoleuca mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	EF212882.1	16805	Ailuropoda melanoleuca mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	EF196663.1	16747	Ailuropoda melanoleuca mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	KP306767.1	1423	Ailuropoda melanoleuca voucher JDS 05001 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	KP306766.1	1423	Ailuropoda melanoleuca voucher JDS 97001 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	FM177761.1	16796	Ailuropoda melanoleuca complete mitochondrial genome
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	AM711896.1	16846	Ailuropoda melanoleuca complete mitochondrial genome
+MAMMALIA_CARNIVORA_URSIDAE_Ailuropoda_melanoleuca	AF306945.1	545	Ailuropoda melanoleuca 16S ribosomal RNA gene, partial sequence

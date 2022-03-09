@@ -1,0 +1,3 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	NC_056273.1	16799	Tringa stagnatilis mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	MT572847.1	16799	Tringa stagnatilis mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	AY894287.1	976	Tringa stagnatilis NADH dehydrogenase subunit 1 (ND1) gene, partial cds; and tRNA-Ile gene, complete sequence; mitochondrial

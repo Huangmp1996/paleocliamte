@@ -1,0 +1,100 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	LC480764.1	1141	Salamandrella keyserlingii T93ueno mitochondrial cytb gene for cytochrome b, partial cds
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	LC480763.1	1141	Salamandrella keyserlingii T83ueno mitochondrial cytb gene for cytochrome b, partial cds
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	LC480762.1	1141	Salamandrella keyserlingii Kamishihoro1 mitochondrial cytb gene for cytochrome b, partial cds
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319825.1	906	Salamandrella keyserlingii isolate S14 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319824.1	912	Salamandrella keyserlingii isolate D16 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319823.1	912	Salamandrella keyserlingii isolate D15 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319822.1	771	Salamandrella keyserlingii isolate D9 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319821.1	678	Salamandrella keyserlingii isolate D7 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319820.1	912	Salamandrella keyserlingii isolate D6 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319819.1	912	Salamandrella keyserlingii isolate B13 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319818.1	892	Salamandrella keyserlingii isolate B12 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	MH319817.1	961	Salamandrella keyserlingii isolate B11 cytochrome b (CytB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157027.1	780	Salamandrella keyserlingii isolate K113 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157026.1	780	Salamandrella keyserlingii isolate K112 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157025.1	780	Salamandrella keyserlingii isolate K111 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157024.1	780	Salamandrella keyserlingii isolate K110 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157023.1	780	Salamandrella keyserlingii isolate K109 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157022.1	780	Salamandrella keyserlingii isolate K108 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157021.1	780	Salamandrella keyserlingii isolate K105 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157020.1	780	Salamandrella keyserlingii isolate K104 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157019.1	780	Salamandrella keyserlingii isolate K103 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157018.1	780	Salamandrella keyserlingii isolate K102 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157017.1	780	Salamandrella keyserlingii isolate K101 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157016.1	780	Salamandrella keyserlingii isolate K100 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157015.1	780	Salamandrella keyserlingii isolate K99 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157014.1	780	Salamandrella keyserlingii isolate K98 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157013.1	780	Salamandrella keyserlingii isolate K94 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157012.1	780	Salamandrella keyserlingii isolate K83 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157011.1	780	Salamandrella keyserlingii isolate K82 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157010.1	780	Salamandrella keyserlingii isolate K71 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157009.1	780	Salamandrella keyserlingii isolate K61 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157008.1	780	Salamandrella keyserlingii isolate K49 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157007.1	780	Salamandrella keyserlingii isolate K48 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157006.1	780	Salamandrella keyserlingii isolate K47 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157005.1	780	Salamandrella keyserlingii isolate K46 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157004.1	780	Salamandrella keyserlingii isolate K45 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157003.1	780	Salamandrella keyserlingii isolate K44 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157002.1	780	Salamandrella keyserlingii isolate K43 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157001.1	780	Salamandrella keyserlingii isolate K34 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU157000.1	780	Salamandrella keyserlingii isolate K33 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156999.1	780	Salamandrella keyserlingii isolate K32 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156998.1	780	Salamandrella keyserlingii isolate K31 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156997.1	780	Salamandrella keyserlingii isolate K30 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156996.1	780	Salamandrella keyserlingii isolate K29 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156995.1	780	Salamandrella keyserlingii isolate K28 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156994.1	780	Salamandrella keyserlingii isolate K25 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156993.1	780	Salamandrella keyserlingii isolate K24 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156992.1	780	Salamandrella keyserlingii isolate K15 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156991.1	780	Salamandrella keyserlingii isolate K14 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156990.1	780	Salamandrella keyserlingii isolate K13 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156989.1	780	Salamandrella keyserlingii isolate K12 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156988.1	780	Salamandrella keyserlingii isolate K11 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156987.1	780	Salamandrella keyserlingii isolate K10 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156986.1	780	Salamandrella keyserlingii isolate K5 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156985.1	780	Salamandrella keyserlingii isolate K2 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156984.1	780	Salamandrella keyserlingii isolate K1 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156983.1	780	Salamandrella keyserlingii isolate S48 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156982.1	780	Salamandrella keyserlingii isolate S47 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156981.1	780	Salamandrella keyserlingii isolate S46 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156980.1	780	Salamandrella keyserlingii isolate S45 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156979.1	780	Salamandrella keyserlingii isolate S43 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156978.1	780	Salamandrella keyserlingii isolate S41 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156977.1	780	Salamandrella keyserlingii isolate S40 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156976.1	780	Salamandrella keyserlingii isolate S39 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156975.1	780	Salamandrella keyserlingii isolate S37 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156974.1	780	Salamandrella keyserlingii isolate S33 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156973.1	780	Salamandrella keyserlingii isolate S31 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156972.1	780	Salamandrella keyserlingii isolate S24 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156971.1	780	Salamandrella keyserlingii isolate S17 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156970.1	780	Salamandrella keyserlingii isolate S16 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156969.1	780	Salamandrella keyserlingii isolate S13 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156968.1	780	Salamandrella keyserlingii isolate S10 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156967.1	780	Salamandrella keyserlingii isolate S9 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156966.1	780	Salamandrella keyserlingii isolate S7 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	EU156965.1	780	Salamandrella keyserlingii isolate S1 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	DQ333814.1	16338	Salamandrella keyserlingii mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701989.1	825	Salamandrella keyserlingii isolate Vladivostok_5-4 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701988.1	825	Salamandrella keyserlingii isolate Vladivostok_5-6 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701987.1	825	Salamandrella keyserlingii isolate Vladivostok_5-5 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701986.1	825	Salamandrella keyserlingii isolate Vladivostok_5-3 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701985.1	825	Salamandrella keyserlingii isolate Vladivostok_5-2 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701984.1	825	Salamandrella keyserlingii isolate Vladivostok_5-1 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701983.1	825	Salamandrella keyserlingii isolate Vladivostok_4-5 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701982.1	825	Salamandrella keyserlingii isolate Vladivostok_4-4 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701981.1	825	Salamandrella keyserlingii isolate Vladivostok_4-3 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701980.1	825	Salamandrella keyserlingii isolate Vladivostok_4-2 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701979.1	825	Salamandrella keyserlingii isolate Vladivostok_4-1 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701978.1	825	Salamandrella keyserlingii isolate Vladivostok_3-8 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701977.1	825	Salamandrella keyserlingii isolate Vladivostok_3-7 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701976.1	825	Salamandrella keyserlingii isolate Vladivostok_3-6 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701975.1	825	Salamandrella keyserlingii isolate Vladivostok_3-5 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701974.1	825	Salamandrella keyserlingii isolate Vladivostok_3-4 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701973.1	825	Salamandrella keyserlingii isolate Vladivostok_3-3 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701972.1	825	Salamandrella keyserlingii isolate Vladivostok_3-2 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701971.1	825	Salamandrella keyserlingii isolate Vladivostok_3-1 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701970.1	825	Salamandrella keyserlingii isolate Vladivostok_2-9 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701969.1	825	Salamandrella keyserlingii isolate Vladivostok_2-7 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701968.1	825	Salamandrella keyserlingii isolate Vladivostok_2-6 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701967.1	825	Salamandrella keyserlingii isolate Vladivostok_2-2 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY701966.1	825	Salamandrella keyserlingii isolate Vladivostok_2-11 cytochrome b gene, partial cds; mitochondrial

@@ -1,0 +1,3 @@
+MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	MT410898.1	16241	Micromys minutus isolate DM59c mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	NC_027932.1	16232	Micromys minutus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	KP399599.1	16232	Micromys minutus mitochondrion, complete genome

@@ -1,0 +1,11 @@
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	NC_015526.1	16692	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	MT410882.1	16773	Phasianus colchicus mitochondrion, partial genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	EU845770.1	1023	Phasianus colchicus voucher 6 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	AF222561.1	1041	Phasianus colchicus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GU214316.1	1023	Phasianus colchicus isolate 28 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	FJ752430.1	16683	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KU049722.1	16688	Phasianus colchicus alaschanicus isolate HLSHJZ16688 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	JF739859.1	16692	Phasianus colchicus voucher AHNU:A0035 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KT364526.1	16687	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KF854340.1	1075	Phasianus colchicus voucher UWBM 68237 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KC495447.1	363	Phasianus colchicus isolate RNP001 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

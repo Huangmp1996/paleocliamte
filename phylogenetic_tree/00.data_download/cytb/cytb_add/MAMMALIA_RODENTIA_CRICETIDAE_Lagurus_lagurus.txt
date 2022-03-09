@@ -1,0 +1,6 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Lagurus_lagurus	MK750939.1	1140	Lagurus lagurus voucher ZMMU:S-180394 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lagurus_lagurus	MK750938.1	1140	Lagurus lagurus voucher ZMMU:S-180392 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lagurus_lagurus	MK750937.1	1140	Lagurus lagurus voucher ZMMU:S-192640 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lagurus_lagurus	MK750936.1	1140	Lagurus lagurus voucher ZMMU:S-196434 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lagurus_lagurus	MK750935.1	1140	Lagurus lagurus voucher ZMMU:S-196433 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lagurus_lagurus	AF429818.1	1092	Lagurus lagurus isolate LL2 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

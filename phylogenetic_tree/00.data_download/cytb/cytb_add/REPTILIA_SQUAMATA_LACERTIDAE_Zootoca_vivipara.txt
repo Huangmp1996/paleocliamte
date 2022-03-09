@@ -1,0 +1,100 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MN122865.1	17051	Zootoca vivipara mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MN015205.1	1143	Zootoca vivipara isolate MV.LAC-188 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MN015145.1	1143	Zootoca vivipara isolate AKL_25 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH049459.1	311	Zootoca vivipara carniolica voucher M_Ver_Zovi_37 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH049458.1	311	Zootoca vivipara carniolica voucher MZUT R. 36 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH049457.1	311	Zootoca vivipara carniolica voucher MZUT R 91.5 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH049456.1	311	Zootoca vivipara carniolica voucher MZUT R 91.19 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH049455.1	311	Zootoca vivipara carniolica voucher MZUT R 1417.9 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH049454.1	311	Zootoca vivipara carniolica voucher MZUT R 1417.2 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395927.1	380	Zootoca vivipara isolate VX_1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395926.1	290	Zootoca vivipara isolate VU_3 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395925.1	281	Zootoca vivipara isolate VU_1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395924.1	392	Zootoca vivipara isolate VG_2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395923.1	326	Zootoca vivipara isolate ROM24300 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395922.1	226	Zootoca vivipara isolate HRF00041 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395921.1	376	Zootoca vivipara isolate ELT05324 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395920.1	345	Zootoca vivipara isolate CB_1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395919.1	367	Zootoca vivipara isolate VC_4 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395918.1	366	Zootoca vivipara isolate ELCZvSPC2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395917.1	301	Zootoca vivipara isolate ELCZvSPC1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395916.1	336	Zootoca vivipara isolate ZS_16 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395915.1	239	Zootoca vivipara isolate ROM24748 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395914.1	352	Zootoca vivipara isolate ROM24298 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395913.1	374	Zootoca vivipara isolate ELT07095 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395912.1	397	Zootoca vivipara isolate ELT07094 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395911.1	383	Zootoca vivipara isolate ELT07093 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395910.1	381	Zootoca vivipara isolate ELT07092 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395909.1	376	Zootoca vivipara isolate ELT07091 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395908.1	373	Zootoca vivipara isolate ELT07090 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395907.1	406	Zootoca vivipara isolate ELT07089 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395906.1	375	Zootoca vivipara isolate ELT07088 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395905.1	415	Zootoca vivipara isolate ELT07087 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395904.1	375	Zootoca vivipara isolate ELT07086 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395903.1	383	Zootoca vivipara isolate CB_4 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395902.1	336	Zootoca vivipara isolate ZU_6 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395901.1	321	Zootoca vivipara isolate ZU_3 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395900.1	304	Zootoca vivipara isolate ZF_29 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395899.1	213	Zootoca vivipara isolate HRF00089 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395898.1	363	Zootoca vivipara isolate HRF00084 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395897.1	415	Zootoca vivipara isolate ELT07111 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395896.1	359	Zootoca vivipara isolate ELT07099 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395895.1	284	Zootoca vivipara isolate ELT03883 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395894.1	377	Zootoca vivipara isolate ELT03838 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395893.1	373	Zootoca vivipara isolate WE_9 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395892.1	410	Zootoca vivipara isolate WE_7 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395891.1	395	Zootoca vivipara isolate WE_6 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395890.1	154	Zootoca vivipara isolate VK_23 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395889.1	353	Zootoca vivipara isolate VK_22 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395888.1	304	Zootoca vivipara isolate HRF00022 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395887.1	406	Zootoca vivipara isolate ELT07333 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395886.1	388	Zootoca vivipara isolate ELT07332 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395885.1	383	Zootoca vivipara isolate ELT07302 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395884.1	260	Zootoca vivipara isolate ELT07301 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395883.1	273	Zootoca vivipara isolate ELT07288 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395882.1	360	Zootoca vivipara isolate ELT03938 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395881.1	417	Zootoca vivipara isolate ELT03937 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395880.1	410	Zootoca vivipara isolate ELT03935 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395879.1	422	Zootoca vivipara isolate ELT03817 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395878.1	352	Zootoca vivipara isolate ZN_1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395877.1	284	Zootoca vivipara isolate ZM_2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395876.1	426	Zootoca vivipara isolate ZL_1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395875.1	308	Zootoca vivipara isolate NZ_15 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395874.1	310	Zootoca vivipara isolate NZ_12 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395873.1	307	Zootoca vivipara isolate NZ_11 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395872.1	340	Zootoca vivipara isolate ELT07110 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395871.1	339	Zootoca vivipara isolate ELT07109 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MH395870.1	308	Zootoca vivipara isolate ELT07108 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KY762177.1	379	Zootoca vivipara voucher SPM004074 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KP881727.1	385	Zootoca vivipara voucher TM cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KP881726.1	385	Zootoca vivipara voucher SM cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KP881725.1	385	Zootoca vivipara voucher FM1 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KP881724.1	385	Zootoca vivipara voucher BM2 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KP881723.1	385	Zootoca vivipara voucher BM1 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714929.1	1168	Zootoca vivipara haplotype OS10 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714928.1	1168	Zootoca vivipara haplotype OS9 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714927.1	1168	Zootoca vivipara haplotype OS8 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714926.1	1168	Zootoca vivipara haplotype OS7 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714925.1	1168	Zootoca vivipara haplotype OS5 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714924.1	1168	Zootoca vivipara haplotype OS4 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714923.1	1168	Zootoca vivipara haplotype OS3 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714922.1	1168	Zootoca vivipara haplotype OF4 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714921.1	1168	Zootoca vivipara haplotype OF3 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714920.1	1168	Zootoca vivipara haplotype OF2 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714919.1	1168	Zootoca vivipara haplotype OF1 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714918.1	1168	Zootoca vivipara haplotype OC5 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714917.1	1168	Zootoca vivipara haplotype OC4 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714916.1	1168	Zootoca vivipara haplotype OC2 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714915.1	1168	Zootoca vivipara haplotype OC1 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714914.1	1168	Zootoca vivipara haplotype VH2 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714913.1	1168	Zootoca vivipara haplotype VH1 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714912.1	1168	Zootoca vivipara haplotype PA2 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714911.1	1168	Zootoca vivipara haplotype PA1 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714910.1	1168	Zootoca vivipara haplotype VU9 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714909.1	1168	Zootoca vivipara haplotype VU8 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714908.1	1168	Zootoca vivipara haplotype VU7 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714907.1	1168	Zootoca vivipara haplotype VU6 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714906.1	1168	Zootoca vivipara haplotype VU5 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714905.1	1168	Zootoca vivipara haplotype VU4 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714904.1	1168	Zootoca vivipara haplotype VU3 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	AY714903.1	1168	Zootoca vivipara haplotype VU2 cytochrome b gene, complete cds; mitochondrial

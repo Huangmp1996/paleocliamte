@@ -1,0 +1,19 @@
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	NC_050894.1	18190	Pareas boulengeri mitochondrion, complete genome
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MN866896.1	18190	Pareas boulengeri mitochondrion, complete genome
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK135096.1	1095	Pareas boulengeri voucher GP4886 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK135095.1	1095	Pareas boulengeri voucher GP4827 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK135094.1	1095	Pareas boulengeri voucher GP3428 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK135093.1	1095	Pareas boulengeri voucher GP4716 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK135092.1	1095	Pareas boulengeri voucher GP3095 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK135091.1	1095	Pareas boulengeri voucher GP207 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK135090.1	1095	Pareas boulengeri voucher GP2923 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK201584.1	585	Pareas boulengeri voucher CHS885 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK201241.1	585	Pareas boulengeri voucher CHS020 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK201240.1	585	Pareas boulengeri voucher CHS019 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	JF827684.1	1086	Pareas boulengeri isolate shennongjia2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	JF827683.1	1086	Pareas boulengeri isolate luxi2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	JF827682.1	1086	Pareas boulengeri isolate shennongjia1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	JF827681.1	1086	Pareas boulengeri isolate luxi1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	JF827680.1	1086	Pareas boulengeri isolate lichuan cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	JF827679.1	1044	Pareas boulengeri isolate jiannan cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	JF827678.1	1086	Pareas boulengeri isolate enshi cytochrome b (cytb) gene, partial cds; mitochondrial

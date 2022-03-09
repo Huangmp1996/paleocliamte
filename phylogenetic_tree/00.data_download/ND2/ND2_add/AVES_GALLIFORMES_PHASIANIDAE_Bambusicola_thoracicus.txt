@@ -1,0 +1,7 @@
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_thoracicus	EU845773.1	1023	Bambusicola thoracica voucher 510 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_thoracicus	EU845753.1	1023	Bambusicola thoracica voucher 511 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_thoracicus	EU845752.1	1023	Bambusicola thoracica voucher 513 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_thoracicus	EU165706.1	16726	Bambusicola thoracica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_thoracicus	AF222538.1	1041	Bambusicola thoracica NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_thoracicus	GU214305.1	1023	Bambusicola thoracica isolate 509 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_thoracicus	NC_011816.1	16726	Bambusicola thoracica mitochondrion, complete genome

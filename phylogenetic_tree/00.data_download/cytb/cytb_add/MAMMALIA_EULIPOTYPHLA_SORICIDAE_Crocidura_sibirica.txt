@@ -1,0 +1,31 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	MH349094.1	17192	Crocidura sibirica mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	EU742583.1	1140	Crocidura sibirica voucher f.c. Teletzkoe 19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY994390.1	1140	Crocidura sibirica isolate A-0V-23-A cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY994389.1	1137	Crocidura sibirica isolate A-0V-22-A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843486.1	998	Crocidura sibirica isolate RU8 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843485.1	998	Crocidura sibirica isolate RU7 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843484.1	998	Crocidura sibirica isolate RU9 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843474.1	998	Crocidura sibirica isolate CN11 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843473.1	998	Crocidura sibirica isolate CN6 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843472.1	998	Crocidura sibirica isolate CN8 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843471.1	998	Crocidura sibirica isolate CN3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843470.1	998	Crocidura sibirica isolate CN1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843469.1	998	Crocidura sibirica isolate CN7 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843468.1	998	Crocidura sibirica isolate CN2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843465.1	998	Crocidura sibirica isolate CN5 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843464.1	998	Crocidura sibirica isolate CN9 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843463.1	998	Crocidura sibirica isolate CN4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AY843462.1	998	Crocidura sibirica isolate CN10 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	HM586996.1	1140	Crocidura sibirica voucher ZMMU:64/07_Csib_Teletzkoe_46 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	HM586995.1	1127	Crocidura sibirica voucher ZMMU:64/07_Csib_Teletzkoe_45 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	HM586994.1	1037	Crocidura sibirica voucher ZMMU:64/07_Csib_Teletzkoe_14 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	HM586993.1	1140	Crocidura sibirica voucher AS_Csib_Teletzkoe_15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB066260.1	402	Crocidura sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate:OCUMS-6410
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB077087.1	1140	Crocidura sibirica Cytb gene for cytochrome b, complete cds, specimen_voucher:SO2000/7/28-3
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB077086.1	1140	Crocidura sibirica Cytb gene for cytochrome b, complete cds, specimen_voucher:SO2000/7/27-1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB077085.1	1140	Crocidura sibirica Cytb gene for cytochrome b, complete cds, specimen_voucher:SO2Kmisc59
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB077084.1	1140	Crocidura sibirica Cytb gene for cytochrome b, complete cds, specimen_voucher:SO99/11/12-2
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB077083.1	1140	Crocidura sibirica Cytb gene for cytochrome b, complete cds, specimen_voucher:SO99/11/12-1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB077279.1	1140	Crocidura sibirica Cytb gene for cytochrome b, complete cds, specimen_voucher:SO01misc-20
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB077089.1	1140	Crocidura sibirica Cytb gene for cytochrome b, complete cds, specimen_voucher:SO01misc-9
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_sibirica	AB077088.1	1140	Crocidura sibirica Cytb gene for cytochrome b, complete cds, specimen_voucher:KT-Mon95-07

@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Euprepiophis_perlacea	MK199115.1	1029	Euprepiophis perlacea voucher CHS847 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Euprepiophis_perlacea	NC_024546.1	17160	Euprepiophis perlacea voucher SCUM120628 mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Euprepiophis_perlacea	KF750656.1	17160	Euprepiophis perlacea mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Euprepiophis_perlacea	KF850472.1	17160	Euprepiophis perlacea voucher SCUM120628 mitochondrion, complete genome

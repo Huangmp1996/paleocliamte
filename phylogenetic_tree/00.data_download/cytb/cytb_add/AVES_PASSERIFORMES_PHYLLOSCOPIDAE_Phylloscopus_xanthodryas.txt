@@ -1,0 +1,18 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	L77138.1	906	Phylloscopus borealis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	MH079391.1	1076	Seicercus xanthodryas voucher DZUG U1000 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	HQ243663.1	214	Phylloscopus borealis xanthodryas voucher BMNH:1898.9.1.264 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	HQ243662.1	214	Phylloscopus borealis xanthodryas voucher BMNH:1898.9.1.263 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362466.1	1951	Phylloscopus borealis xanthodryas mitochondrial ND5, cytb genes for NADH dehydrogenase subunit 5, cytochrome b, partial and complete cds, isolate: ishizuchi803
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362465.1	1951	Phylloscopus borealis xanthodryas mitochondrial ND5, cytb genes for NADH dehydrogenase subunit 5, cytochrome b, partial and complete cds, isolate: ishizuchi801
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362458.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: sobo966
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362457.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: Hachi294
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362456.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: YatsgMM
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362455.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: odaiPb3
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362454.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: ishizuchi804
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362453.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: odaiPb1
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362452.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: Yatsg703
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362451.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: YatsgLBY
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362450.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: Fuji515
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362449.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: Fuji516
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362448.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: Yatsg704
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthodryas	AB362447.1	1012	Phylloscopus borealis xanthodryas mitochondrial cytb gene for cytochrome b, partial cds, isolate: Hachi04Pb1

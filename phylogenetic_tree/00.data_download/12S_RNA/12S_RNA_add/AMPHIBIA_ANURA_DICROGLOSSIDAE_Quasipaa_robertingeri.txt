@@ -1,0 +1,12 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	KY441640.1	18520	Quasipaa robertingeri mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	EU979754.1	358	Paa robertingeri voucher YNU-HU20025105 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	EU979671.1	406	Paa robertingeri voucher YNU-HU20025105 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	EU979670.1	370	Paa robertingeri voucher YNU-HU20025106 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	DQ458244.1	711	Paa robertingeri voucher SCUM0405169 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	DQ118478.1	557	Paa robertingeri voucher KizYP014 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	DQ118476.1	506	Paa robertingeri voucher KizYP218 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	DQ118434.1	364	Paa robertingeri voucher KizYP014 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	DQ118432.1	346	Paa robertingeri voucher KizYP218 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	GQ225872.1	375	Paa robertingeri voucher CIB<CHN>:F97007 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	AF315141.1	551	Paa robertingeri 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_robertingeri	AF205551.1	383	Paa robertingeri 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

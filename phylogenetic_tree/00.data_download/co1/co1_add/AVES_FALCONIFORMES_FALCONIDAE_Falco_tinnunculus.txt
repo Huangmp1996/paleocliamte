@@ -1,0 +1,30 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	MT773161.1	683	Falco tinnunculus isolate 10Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	MN122821.1	15276	Falco tinnunculus mitochondrion, partial genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	MK932909.1	695	Falco tinnunculus voucher KU341 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KY754508.1	697	Falco tinnunculus voucher Bird19 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KT803630.1	648	Falco tinnunculus isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	EU196361.1	17663	Falco tinnunculus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	GU571887.1	638	Falco tinnunculus voucher BISE-Aves94 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	GU571886.1	648	Falco tinnunculus voucher BISE-Aves325 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	GU571394.1	725	Falco tinnunculus voucher NHMO-BC498 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	GU571393.1	719	Falco tinnunculus voucher NHMO-BC41 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	GQ481883.1	694	Falco tinnunculus voucher UWBM 46489 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	GQ481882.1	694	Falco tinnunculus voucher UWBM 46363 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	GQ481881.1	694	Falco tinnunculus voucher UWBM 61104 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	EF515774.1	686	Falco tinnunculus voucher KRIBB2095 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KJ862132.1	648	Falco tinnunculus voucher B13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	AB843510.1	685	Falco tinnunculus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO143-10
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	AB843509.1	687	Falco tinnunculus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO523-10
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	AB842771.1	649	Falco tinnunculus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM097-10
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	AB842770.1	637	Falco tinnunculus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM111-10
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	AB842769.1	687	Falco tinnunculus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM534-10
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KF946678.1	693	Falco tinnunculus tinnunculus voucher ZMA58839 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KF946677.1	693	Falco tinnunculus tinnunculus voucher ZMA58838 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KF946676.1	668	Falco tinnunculus tinnunculus voucher ZMA58837 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KF946675.1	668	Falco tinnunculus tinnunculus voucher ZMA58774 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KF946674.1	693	Falco tinnunculus tinnunculus voucher ZMA58754 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KF946673.1	693	Falco tinnunculus tinnunculus voucher ZMA58752 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KF946672.1	693	Falco tinnunculus tinnunculus voucher ZMA58296 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KF946671.1	693	Falco tinnunculus tinnunculus voucher Tissue456 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	NC_011307.1	17663	Falco tinnunculus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	JN801316.1	651	Falco tinnunculus voucher USNM 621281 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

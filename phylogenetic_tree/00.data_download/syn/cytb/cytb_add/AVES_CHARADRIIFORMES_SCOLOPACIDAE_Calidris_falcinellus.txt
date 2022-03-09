@@ -1,0 +1,3 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	MW160420.1	15555	Limicola falcinellus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	EF373139.1	963	Limicola falcinellus voucher SBB-032 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	KC969172.1	1005	Limicola falcinellus cytochrome b (cytb) gene, partial cds; mitochondrial

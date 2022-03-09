@@ -1,0 +1,19 @@
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	NC_053106.1	17009	Panurus biarmicus mitochondrion, complete genome
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	MN356370.1	17009	Panurus biarmicus mitochondrion, complete genome
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GU572000.1	648	Panurus biarmicus voucher BISE-Aves58 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GU571999.1	648	Panurus biarmicus voucher BISE-Aves295 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GU571521.1	700	Panurus biarmicus voucher NHMO-BC581 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GU571520.1	696	Panurus biarmicus voucher NHMO-BC582 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GU571519.1	737	Panurus biarmicus voucher NHMO-BC128 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GQ482293.1	694	Panurus biarmicus voucher UWBM 61235 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GQ482292.1	694	Panurus biarmicus voucher UWBM 59726 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GQ482291.1	694	Panurus biarmicus voucher UWBM 56573 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	GQ482290.1	658	Panurus biarmicus voucher UWBM 67702 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	KF946781.1	693	Panurus biarmicus biarmicus voucher ZMA58856 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	KF946780.1	693	Panurus biarmicus biarmicus voucher ZMA58855 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	KF946779.1	693	Panurus biarmicus biarmicus voucher ZMA58854 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	KF946778.1	693	Panurus biarmicus biarmicus voucher ZMA58265 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	KF946777.1	693	Panurus biarmicus biarmicus voucher ZMA58264 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	KF946776.1	693	Panurus biarmicus biarmicus voucher ZMA58263 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	KF946775.1	693	Panurus biarmicus biarmicus voucher ZMA58262 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	KF946774.1	693	Panurus biarmicus biarmicus voucher ZMA57318 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

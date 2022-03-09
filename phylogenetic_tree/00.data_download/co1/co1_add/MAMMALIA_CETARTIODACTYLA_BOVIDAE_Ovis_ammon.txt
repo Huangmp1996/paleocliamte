@@ -1,0 +1,16 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768090.1	16613	Ovis ammon isolate ARG93 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768089.1	16613	Ovis ammon isolate ARG82 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768088.1	16613	Ovis ammon isolate ARG31 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768087.1	16621	Ovis ammon isolate ARG23 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768086.1	16613	Ovis ammon isolate ARG21 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768085.1	16621	Ovis ammon isolate ARG20 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768084.1	16621	Ovis ammon isolate ARG19 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768083.1	16613	Ovis ammon isolate ARG104 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	NC_047196.1	16612	Ovis ammon ammon mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MN564883.1	16612	Ovis ammon ammon mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MH261364.1	668	Ovis ammon polii voucher PBRC-M4F cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KX609626.1	16618	Ovis ammon darwini mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KT781689.1	16613	Ovis ammon mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	JX101654.1	16688	Ovis ammon hodgsoni mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	NC_020656.1	16613	Ovis ammon isolate h77 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	HM236188.1	16613	Ovis ammon isolate h77 mitochondrion, complete genome

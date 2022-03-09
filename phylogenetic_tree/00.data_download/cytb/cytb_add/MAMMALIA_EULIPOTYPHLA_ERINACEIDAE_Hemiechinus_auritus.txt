@@ -1,0 +1,19 @@
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KY558564.1	743	Hemiechinus auritus isolate BCEAW29 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KY558563.1	743	Hemiechinus auritus isolate BCEAW28 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KY558562.1	743	Hemiechinus auritus isolate Kuwait_2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KY558561.1	743	Hemiechinus auritus isolate Jordan_3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	HQ857522.1	1140	Hemiechinus auritus clone 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783140.1	1090	Hemiechinus auritus voucher Ha-Eg cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783139.1	1113	Hemiechinus auritus voucher Ha-SU10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783138.1	1140	Hemiechinus auritus voucher ZMMU S-176502 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783137.1	1140	Hemiechinus auritus voucher ZMMU S-176495 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783136.1	1136	Hemiechinus auritus voucher ZMMU S-182738 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783135.1	1082	Hemiechinus auritus voucher ZMMU S-176497 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783134.1	1119	Hemiechinus auritus voucher ZMMU S-189092 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783133.1	1136	Hemiechinus auritus voucher ZMMU S-181312 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783132.1	1140	Hemiechinus auritus voucher ZMMU S-187081 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783131.1	1131	Hemiechinus auritus voucher ZMMU S-187080 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783130.1	1140	Hemiechinus auritus voucher ZMMU S-176501 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783129.1	1140	Hemiechinus auritus voucher Ha-70/2006 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	KF783128.1	1140	Hemiechinus auritus voucher ZMMU S-176498 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hemiechinus_auritus	NC_005033.1	17283	Hemiechinus auritus mitochondrion, complete genome

@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	DQ307012.1	1041	Syrmaticus reevesi NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	DQ768271.1	1041	Syrmaticus reevesii NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	NC_010770.1	16678	Syrmaticus reevesii mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	AB164623.1	16678	Syrmaticus reevesii mitochondrial DNA, complete genome

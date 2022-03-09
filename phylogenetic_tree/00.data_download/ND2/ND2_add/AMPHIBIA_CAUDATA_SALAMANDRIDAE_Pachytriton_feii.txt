@@ -1,0 +1,26 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KU375023.1	1124	Pachytriton feii voucher KIZ04230 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KU375022.1	1124	Pachytriton feii voucher KIZ04229 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KU375021.1	1124	Pachytriton feii voucher KIZ04228 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	NC_029345.1	16293	Pachytriton feii mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT899979.1	16293	Pachytriton feii mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152545.1	1181	Pachytriton feii isolate YPX6158 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152544.1	1181	Pachytriton feii isolate YPX6157 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152543.1	1181	Pachytriton feii isolate YPX6156 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152542.1	1181	Pachytriton feii isolate YPX6155 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152541.1	1181	Pachytriton feii isolate YPX6154 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152540.1	1181	Pachytriton feii isolate 24863 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152539.1	1181	Pachytriton feii isolate 24862 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152538.1	1181	Pachytriton feii isolate 24861 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152537.1	1181	Pachytriton feii isolate 24860 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152536.1	1181	Pachytriton feii isolate 24859 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152530.1	1181	Pachytriton feii isolate MVZ230356 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152529.1	1181	Pachytriton feii isolate MVZ230355 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152528.1	1181	Pachytriton feii isolate MVZ230354 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX907849.1	1197	Pachytriton feii voucher CIB 95912 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX907848.1	1197	Pachytriton feii voucher CIB 95913 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX907847.1	1197	Pachytriton feii voucher CIB 95914 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237739.1	1181	Pachytriton feii voucher KIZ 04232 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237738.1	1181	Pachytriton feii voucher KIZ 04231 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237737.1	1181	Pachytriton feii voucher KIZ 04230 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237736.1	1181	Pachytriton feii voucher KIZ 04229 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237735.1	1181	Pachytriton feii voucher KIZ 04228 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

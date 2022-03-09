@@ -1,0 +1,10 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	MN427892.1	19604	Rhacophorus omeimontis mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	NC_046387.1	19604	Rhacophorus omeimontis mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KU840492.1	745	Rhacophorus omeimontis clone 12S11 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	LC010595.1	2422	Rhacophorus omeimontis mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: CIB<CHN>:20060104
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	JX219421.1	1945	Rhacophorus omeimontis voucher SC080505 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	JX219420.1	1945	Rhacophorus omeimontis voucher Li02 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	JX219419.1	1945	Rhacophorus omeimontis voucher RaoZT0806010 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	EU215535.1	1906	Rhacophorus omeimontis voucher SCUM 0606137L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	EF564493.1	423	Rhacophorus omeimontis isolate KIZ2006025 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	EF564492.1	421	Rhacophorus omeimontis isolate KIZ060821282 12S ribosomal RNA gene, partial sequence; mitochondrial

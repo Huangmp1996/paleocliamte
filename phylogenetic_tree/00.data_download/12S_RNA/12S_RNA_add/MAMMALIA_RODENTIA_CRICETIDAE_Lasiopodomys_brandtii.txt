@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_brandtii	NC_057534.1	16557	Lasiopodomys brandtii voucher LB01 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_brandtii	MT614216.1	16557	Lasiopodomys brandtii voucher LB03 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_brandtii	MT614215.1	16557	Lasiopodomys brandtii voucher LB02 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_brandtii	MT614214.1	16557	Lasiopodomys brandtii voucher LB01 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_brandtii	MN614478.1	16557	Lasiopodomys brandtii mitochondrion, complete genome

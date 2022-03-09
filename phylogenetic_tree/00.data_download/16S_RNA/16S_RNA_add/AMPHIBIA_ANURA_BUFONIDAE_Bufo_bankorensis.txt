@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	JN653291.1	512	Bufo bankorensis isolate BbankBB99 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	JN653290.1	512	Bufo bankorensis isolate BbankBB98 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	JN098486.1	234	Bufo bankorensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	AB159589.1	516	Bufo bankorensis mitochondrial gene for 16S rRNA, partial sequence, haplotype:B.j.ban
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	AF160786.1	565	Bufo bankorensis KIZ-97L366 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,52 @@
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	EF529930.1	1143	Plectrophenax nivalis cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AF284074.1	1234	Plectrophenax nivalis NADH dehydrogenase subunit 5 (ND5) and cytochrome b (CYTB) genes, partial cds; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ489326.1	1123	Plectrophenax nivalis voucher UAM 9307 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ489325.1	1123	Plectrophenax nivalis voucher UAM 17404 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ489324.1	1123	Plectrophenax nivalis voucher UAM 17400 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ489323.1	1123	Plectrophenax nivalis voucher UAM 17398 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ489322.1	1123	Plectrophenax nivalis voucher UAM 17412 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ489321.1	1123	Plectrophenax nivalis voucher UAM 17407 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	DQ489320.1	1123	Plectrophenax nivalis voucher UAM 17406 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156465.1	1123	Plectrophenax nivalis specimen-voucher UAM 7335 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156464.1	1123	Plectrophenax nivalis specimen-voucher UAM 7806 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156463.1	1123	Plectrophenax nivalis specimen-voucher UAM 14147 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156462.1	1123	Plectrophenax nivalis specimen-voucher UAM 7774 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156461.1	1123	Plectrophenax nivalis specimen-voucher UAM 7775 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156460.1	1123	Plectrophenax nivalis specimen-voucher UAM 8621 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156459.1	1123	Plectrophenax nivalis specimen-voucher UAM 11128 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156458.1	1123	Plectrophenax nivalis specimen-voucher UAM 11108 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156457.1	1123	Plectrophenax nivalis specimen-voucher UAM 11129 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156456.1	1123	Plectrophenax nivalis specimen-voucher UAM 14146 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156455.1	1123	Plectrophenax nivalis specimen-voucher UAM 11855 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156454.1	1123	Plectrophenax nivalis specimen-voucher UAM 11856 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156453.1	1123	Plectrophenax nivalis specimen-voucher UAM 11841 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156452.1	1123	Plectrophenax nivalis specimen-voucher UAM 11843 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156451.1	1123	Plectrophenax nivalis specimen-voucher UAM 11842 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156450.1	1123	Plectrophenax nivalis specimen-voucher UAM 8476 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156449.1	1123	Plectrophenax nivalis specimen-voucher UAM 8474 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156448.1	1123	Plectrophenax nivalis specimen-voucher UAM 10043 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156447.1	1123	Plectrophenax nivalis specimen-voucher UAM 10045 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156446.1	1123	Plectrophenax nivalis specimen-voucher UAM 10044 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156445.1	1123	Plectrophenax nivalis specimen-voucher UAM 10046 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156444.1	1123	Plectrophenax nivalis specimen-voucher UAM 10038 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156443.1	1123	Plectrophenax nivalis specimen-voucher UAM 10039 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156442.1	1123	Plectrophenax nivalis specimen-voucher UAM 9319 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156441.1	1123	Plectrophenax nivalis specimen-voucher UAM 9320 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156440.1	1123	Plectrophenax nivalis specimen-voucher UAM 14712 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156439.1	1123	Plectrophenax nivalis specimen-voucher UAM 14676 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156438.1	1123	Plectrophenax nivalis specimen-voucher UAM 14610 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156437.1	1123	Plectrophenax nivalis specimen-voucher UAM 9864 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156436.1	1123	Plectrophenax nivalis specimen-voucher UAM 14675 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156435.1	1123	Plectrophenax nivalis specimen-voucher UAM 9863 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156434.1	1123	Plectrophenax nivalis specimen-voucher UAM 9873 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156433.1	1123	Plectrophenax nivalis specimen-voucher UAM 9900 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156432.1	1123	Plectrophenax nivalis specimen-voucher UAM 8430 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156431.1	1123	Plectrophenax nivalis specimen-voucher UAM 7275 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156430.1	1123	Plectrophenax nivalis specimen-voucher UAM 7260 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156429.1	1123	Plectrophenax nivalis specimen-voucher UAM 7657 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156428.1	1123	Plectrophenax nivalis specimen-voucher UAM 7655 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156427.1	1123	Plectrophenax nivalis specimen-voucher UAM 7353 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY156426.1	1123	Plectrophenax nivalis specimen-voucher UAM 8429 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	AY228077.1	879	Plectrophenax nivalis NRM 986392 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	KP877807.1	1035	Plectrophenax nivalis isolate MTDTC591 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Plectrophenax_nivalis	EU325768.1	1076	Plectrophenax nivalis cytochrome b gene, partial cds; mitochondrial

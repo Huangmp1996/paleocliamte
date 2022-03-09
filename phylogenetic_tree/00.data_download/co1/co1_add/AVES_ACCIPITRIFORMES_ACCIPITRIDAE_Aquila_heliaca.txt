@@ -1,0 +1,7 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_heliaca	KY754483.1	697	Aquila heliaca voucher NMW Tsk8806 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_heliaca	NC_035806.1	18067	Aquila heliaca mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_heliaca	KU646835.1	18067	Aquila heliaca mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_heliaca	DQ834325.1	439	Aquila heliaca haplotype D cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_heliaca	DQ834324.1	439	Aquila heliaca haplotype C cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_heliaca	DQ834323.1	439	Aquila heliaca haplotype B cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_heliaca	DQ834322.1	439	Aquila heliaca haplotype A cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

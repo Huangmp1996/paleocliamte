@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	NC_053710.1	16852	Certhia himalayana mitochondrion, complete genome
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	MT438431.1	614	Certhia himalayana isolate MAR3318 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	MN624167.1	16852	Certhia himalayana mitochondrion, complete genome

@@ -1,0 +1,9 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	EF987741.1	1140	Mustela eversmannii cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	AB082970.1	1185	Mustela eversmannii irbp gene for interphotoreceptor retinoid binding protein, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	AF068542.1	337	Mustela eversmanni isolate C9 cytochrome b (cytb) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	AF068541.1	337	Mustela eversmanni isolate C8 cytochrome b (cytb) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	AF068540.1	337	Mustela eversmanni isolate C7 cytochrome b (cytb) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	NC_028013.1	16463	Mustela eversmannii mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	KT224449.1	16463	Mustela eversmannii mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	AB026102.1	1140	Mustela eversmannii mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_eversmanii	AB051261.1	402	Mustela eversmannii mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS826

@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	NC_052836.1	17105	Gekko subpalmatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	MK680534.1	17105	Gekko subpalmatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	EU417715.1	825	Gekko subpalmatus isolate CD3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	EU417714.1	825	Gekko subpalmatus isolate CD2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	EU417713.1	825	Gekko subpalmatus isolate CD1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

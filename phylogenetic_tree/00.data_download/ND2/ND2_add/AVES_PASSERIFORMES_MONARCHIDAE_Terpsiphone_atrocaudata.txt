@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	NC_032725.1	16954	Terpsiphone atrocaudata mitochondrion, complete genome
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	KT901458.1	16954	Terpsiphone atrocaudata mitochondrion, complete genome
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	KP069649.1	1041	Terpsiphone atrocaudata voucher KUNHM 17892 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	KP069625.1	1041	Terpsiphone atrocaudata voucher KUNHM 17913 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	JQ885788.1	1036	Terpsiphone atrocaudata illex voucher NRM 68545 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	JQ885787.1	1036	Terpsiphone atrocaudata atrocaudata voucher NRM 68533 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

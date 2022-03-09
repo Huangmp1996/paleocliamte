@@ -1,0 +1,6 @@
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	KT962834.1	17424	Pelochelys cantorii isolate Guangyuan mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	JF719809.1	16897	Pelochelys cantorii mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	JN016747.1	17612	Pelochelys cantorii isolate Yongjia mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	NC_015825.1	17499	Pelochelys cantorii isolate Xiamen mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	JN016746.1	17499	Pelochelys cantorii isolate Xiamen mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	HQ329785.1	650	Pelochelys cantorii isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

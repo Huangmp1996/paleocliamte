@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KX014768.1	931	Aegithalos concinnus talifuensis voucher NRM 571743 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KX014767.1	931	Aegithalos concinnus talifuensis voucher NRM 571740 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KX014766.1	931	Aegithalos concinnus concinnus voucher NRM 571736 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KX014765.1	931	Aegithalos concinnus concinnus voucher NRM 571732 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	DQ008519.1	1038	Aegithalos concinnus iredalei cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	AY755556.1	605	Aegithalos concinnus voucher MAR 3292 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	AY755555.1	590	Aegithalos concinnus voucher MAR 2702 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244442.1	983	Aegithalos concinnus talifuensis isolate 3292 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244441.1	850	Aegithalos concinnus concinnus isolate MAR_7807_F cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244440.1	850	Aegithalos concinnus concinnus isolate MAR_7805_F cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244428.1	983	Aegithalos concinnus manipurensis isolate ired25_04722 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244427.1	970	Aegithalos concinnus iredalei isolate 4101 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244426.1	983	Aegithalos concinnus iredalei isolate ired23_04128 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244425.1	850	Aegithalos concinnus concinnus isolate conc22_07808 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244424.1	850	Aegithalos concinnus concinnus isolate conc21_07806 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244423.1	850	Aegithalos concinnus concinnus isolate conc20_07804 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244422.1	850	Aegithalos concinnus concinnus isolate conc19_07803 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244421.1	850	Aegithalos concinnus concinnus isolate conc18_07802 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244420.1	847	Aegithalos concinnus isolate 3087 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU244419.1	983	Aegithalos concinnus isolate 1974 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KJ456178.1	1143	Aegithalos concinnus voucher AMNH:5545 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KF951092.1	17940	Aegithalos concinnus talifuensis mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KF951091.1	17940	Aegithalos concinnus concinnus mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	JX398849.1	1143	Aegithalos concinnus voucher KU:6798 cytochrome b (CytB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HM185382.1	948	Aegithalos concinnus voucher IOZ5344 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HM185381.1	948	Aegithalos concinnus voucher IOZ3661 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HM185380.1	948	Aegithalos concinnus voucher IOZ1499 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HM185379.1	948	Aegithalos concinnus voucher IOZ1152 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HM185304.1	1201	Aegithalos concinnus voucher IOZ1152 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HM185303.1	1201	Aegithalos concinnus voucher IOZ1499 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HM185302.1	1201	Aegithalos concinnus voucher IOZ3661 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HM185301.1	1201	Aegithalos concinnus voucher IOZ5344 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605491.1	984	Aegithalos concinnus voucher IOZ13984 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605490.1	984	Aegithalos concinnus voucher IOZ13966 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605489.1	984	Aegithalos concinnus voucher IOZ13955 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605488.1	984	Aegithalos concinnus voucher IOZ13954 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605487.1	984	Aegithalos concinnus voucher IOZ13953 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605486.1	984	Aegithalos concinnus voucher IOZ13952 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605485.1	984	Aegithalos concinnus voucher IOZ13951 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605484.1	984	Aegithalos concinnus voucher IOZ13950 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605483.1	984	Aegithalos concinnus voucher IOZ13986 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605482.1	984	Aegithalos concinnus voucher IOZ13985 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605481.1	984	Aegithalos concinnus voucher IOZ13928 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605480.1	984	Aegithalos concinnus voucher IOZ10995 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605479.1	984	Aegithalos concinnus voucher IOZ10994 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605478.1	984	Aegithalos concinnus voucher IOZ10993 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605477.1	984	Aegithalos concinnus voucher IOZ10992 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605476.1	984	Aegithalos concinnus voucher IOZ10991 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605475.1	984	Aegithalos concinnus voucher IOZ5360 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605474.1	984	Aegithalos concinnus voucher IOZ5359 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605473.1	984	Aegithalos concinnus voucher IOZ5358 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605472.1	984	Aegithalos concinnus voucher IOZ5357 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605471.1	984	Aegithalos concinnus voucher IOZ5356 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605470.1	984	Aegithalos concinnus voucher IOZ5344 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605469.1	984	Aegithalos concinnus voucher IOZ12098 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605468.1	984	Aegithalos concinnus voucher IOZ12097 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605467.1	984	Aegithalos concinnus voucher IOZ12096 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605466.1	984	Aegithalos concinnus voucher IOZ5209 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605465.1	984	Aegithalos concinnus voucher IOZ12095 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605464.1	984	Aegithalos concinnus voucher IOZ12094 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605463.1	984	Aegithalos concinnus voucher IOZ12093 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605462.1	984	Aegithalos concinnus voucher IOZ12092 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605461.1	984	Aegithalos concinnus voucher IOZ12091 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605460.1	984	Aegithalos concinnus voucher IOZ12090 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605459.1	984	Aegithalos concinnus voucher IOZ12089 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605458.1	984	Aegithalos concinnus voucher IOZ12088 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605457.1	984	Aegithalos concinnus voucher IOZ12087 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605456.1	984	Aegithalos concinnus voucher IOZ5208 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605455.1	984	Aegithalos concinnus voucher IOZ5363 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605454.1	984	Aegithalos concinnus voucher IOZ5362 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605453.1	984	Aegithalos concinnus voucher IOZ5361 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605452.1	984	Aegithalos concinnus voucher IOZ5207 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605451.1	984	Aegithalos concinnus voucher IOZ4659 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605450.1	984	Aegithalos concinnus voucher IOZ4658 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605449.1	984	Aegithalos concinnus voucher IOZ8734 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605448.1	984	Aegithalos concinnus voucher IOZ8733 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605447.1	984	Aegithalos concinnus voucher IOZ8732 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605446.1	984	Aegithalos concinnus voucher IOZ8731 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605445.1	984	Aegithalos concinnus voucher IOZ8730 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605444.1	984	Aegithalos concinnus voucher IOZ4657 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605443.1	984	Aegithalos concinnus voucher IOZ8729 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605442.1	984	Aegithalos concinnus voucher IOZ8728 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605441.1	984	Aegithalos concinnus voucher IOZ8727 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605440.1	984	Aegithalos concinnus voucher IOZ8726 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605439.1	984	Aegithalos concinnus voucher IOZ8725 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605438.1	984	Aegithalos concinnus voucher IOZ8724 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605437.1	984	Aegithalos concinnus voucher IOZ8723 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605436.1	984	Aegithalos concinnus voucher IOZ8159 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605435.1	984	Aegithalos concinnus voucher IOZ8158 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605434.1	984	Aegithalos concinnus voucher IOZ8157 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605433.1	984	Aegithalos concinnus voucher IOZ8042 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605432.1	984	Aegithalos concinnus voucher IOZ8041 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605431.1	984	Aegithalos concinnus voucher IOZ8537 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605430.1	984	Aegithalos concinnus voucher IOZ8040 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605429.1	984	Aegithalos concinnus voucher IOZ8529 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605428.1	984	Aegithalos concinnus voucher IOZ8322 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605427.1	984	Aegithalos concinnus voucher IOZ8321 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605426.1	984	Aegithalos concinnus voucher IOZ8320 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605425.1	984	Aegithalos concinnus voucher IOZ8319 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	HQ605424.1	984	Aegithalos concinnus voucher IOZ8318 cytochrome b (cyt b) gene, partial cds; mitochondrial

@@ -1,0 +1,6 @@
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_pentadactyla	MT335859.1	16573	Manis pentadactyla mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_pentadactyla	AY011188.1	812	Manis pentadactyla 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_pentadactyla	MG196307.1	16573	Manis pentadactyla isolate EP3 mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_pentadactyla	KT445978.1	16577	Manis pentadactyla isolate MPE899 mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_pentadactyla	NC_016008.1	16578	Manis pentadactyla mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_pentadactyla	JN411577.1	16578	Manis pentadactyla mitochondrion, complete genome

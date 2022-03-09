@@ -1,0 +1,39 @@
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	MN337354.1	853	Montifringilla ruficollis isolate MAR2206 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	KC836121.1	16909	Montifringilla ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	DQ244062.1	879	Montifringilla ruficollis voucher QPR cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY961963.1	879	Montifringilla ruficollis voucher QPR0029 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY961962.1	879	Montifringilla ruficollis voucher QPR0018 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY961961.1	879	Montifringilla ruficollis voucher QPR0013 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY961960.1	879	Montifringilla ruficollis voucher QPR0008 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY961959.1	879	Montifringilla ruficollis voucher QPR0007 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY961958.1	879	Montifringilla ruficollis voucher QPR0027 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY961957.1	879	Montifringilla ruficollis voucher QPR0010 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825329.1	879	Montifringilla ruficollis voucher QPR0034 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825328.1	879	Montifringilla ruficollis voucher QPR0033 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825327.1	879	Montifringilla ruficollis voucher QPR0032 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825326.1	879	Montifringilla ruficollis voucher QPR0031 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825325.1	879	Montifringilla ruficollis voucher QPR0030 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825324.1	879	Montifringilla ruficollis voucher QPR0028 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825323.1	879	Montifringilla ruficollis voucher QPR0026 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825322.1	879	Montifringilla ruficollis voucher QPR0025 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825321.1	879	Montifringilla ruficollis voucher QPR0024 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825320.1	879	Montifringilla ruficollis voucher QPR0023 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825319.1	879	Montifringilla ruficollis voucher QPR0022 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825318.1	879	Montifringilla ruficollis voucher QPR0021 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825317.1	879	Montifringilla ruficollis voucher QPR0020 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825316.1	879	Montifringilla ruficollis voucher QPR0019 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825315.1	879	Montifringilla ruficollis voucher QPR0017 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825314.1	879	Montifringilla ruficollis voucher QPR0016 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825313.1	879	Montifringilla ruficollis voucher QPR0015 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825312.1	879	Montifringilla ruficollis voucher QPR0014 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825311.1	879	Montifringilla ruficollis voucher QPR0012 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825310.1	879	Montifringilla ruficollis voucher QPR0011 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825309.1	879	Montifringilla ruficollis voucher QPR0009 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825308.1	879	Montifringilla ruficollis voucher QPR0006 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825307.1	879	Montifringilla ruficollis voucher QPR0005 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825306.1	879	Montifringilla ruficollis voucher QPR0004 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825305.1	879	Montifringilla ruficollis voucher QPR0003 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825304.1	879	Montifringilla ruficollis voucher QPR0002 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY825303.1	879	Montifringilla ruficollis voucher QPR0001 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	AY228068.1	879	Montifringilla ruficollis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	NC_022815.1	16909	Montifringilla ruficollis mitochondrion, complete genome

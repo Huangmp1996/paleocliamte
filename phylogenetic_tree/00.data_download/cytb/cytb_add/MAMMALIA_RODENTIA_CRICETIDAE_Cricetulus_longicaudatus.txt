@@ -1,0 +1,36 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MH580901.1	1052	Cricetulus longicaudatus haplotype Clo4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793226.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-g17-64 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793225.1	1140	Cricetulus longicaudatus voucher ZMMU:S-195542 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793224.1	1140	Cricetulus longicaudatus voucher ZMMU:S-192239 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793223.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-04-4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793222.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-02-15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793221.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-25-02 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793220.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-03-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793219.1	1140	Cricetulus longicaudatus voucher ZMMU:S-179160 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793218.1	1140	Cricetulus longicaudatus voucher ZMMU:S-187364 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793217.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-15-185 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793216.1	1140	Cricetulus longicaudatus voucher ZMMU:S-179328 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793215.1	1140	Cricetulus longicaudatus voucher ZMMU:S-189005 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793214.1	1140	Cricetulus longicaudatus voucher ZMMU:S-190978 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793213.1	1140	Cricetulus longicaudatus voucher ZMMU:S-190977 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793212.1	1140	Cricetulus longicaudatus voucher ZMMU:S-188999 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793211.1	1140	Cricetulus longicaudatus voucher ZMMU:S-188994 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793210.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-15-81 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793209.1	1140	Cricetulus longicaudatus voucher ZMMU:S-189004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793208.1	1140	Cricetulus longicaudatus voucher ZMMU:S-189003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793207.1	1140	Cricetulus longicaudatus voucher ZMMU:S-187379 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793206.1	1140	Cricetulus longicaudatus voucher ZMMU:S-187378 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793205.1	1140	Cricetulus longicaudatus voucher ZMMU:S-187376 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793204.1	1140	Cricetulus longicaudatus voucher ZMMU:S-187368 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793203.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-F093 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG793202.1	1140	Cricetulus longicaudatus voucher ZMMU:VSL-552-09 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG685540.1	1140	Cricetulus longicaudatus isolate 449106 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG685539.1	1124	Cricetulus longicaudatus isolate 70 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG685538.1	1116	Cricetulus longicaudatus isolate 2002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	KY993921.1	1140	Cricetulus longicaudatus isolate f.c. Clo7 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	KY993920.1	1140	Cricetulus longicaudatus isolate f.c. Clo6 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	NC_025330.1	16302	Cricetulus longicaudatus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	KM067270.1	16302	Cricetulus longicaudatus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	AY997832.1	907	Cricetulus longicaudatus 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	AM000045.1	789	Cricetulus longicaudatus partial vwf gene for von Willebrand factor
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	AJ973386.1	925	Cricetulus longicaudatus mitochondrial partial cytb gene for cytochrome b

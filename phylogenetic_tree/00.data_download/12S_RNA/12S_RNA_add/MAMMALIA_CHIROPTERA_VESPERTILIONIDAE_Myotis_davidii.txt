@@ -1,0 +1,19 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	NW_006288189.1	80311	Myotis davidii unplaced genomic scaffold, ASM32734v1 scaffold2257, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	NW_006290471.1	39693	Myotis davidii unplaced genomic scaffold, ASM32734v1 scaffold4139, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	NW_006291530.1	145892	Myotis davidii unplaced genomic scaffold, ASM32734v1 scaffold1561, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	NW_006294069.1	4432120	Myotis davidii unplaced genomic scaffold, ASM32734v1 scaffold363, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	NW_006297663.1	56040	Myotis davidii unplaced genomic scaffold, ASM32734v1 scaffold1887, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KB104740.1	80311	Myotis davidii unplaced genomic scaffold scaffold2257, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KB107022.1	39693	Myotis davidii unplaced genomic scaffold scaffold4139, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KB108081.1	145892	Myotis davidii unplaced genomic scaffold scaffold1561, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KB110675.1	61046	Myotis davidii unplaced genomic scaffold scaffold2803, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KB113082.1	682957	Myotis davidii unplaced genomic scaffold scaffold925, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KF894932.1	964	Myotis davidii voucher JiangXi0989 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KF894931.1	964	Myotis davidii voucher JiangSu0831 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KF894930.1	965	Myotis davidii voucher GuiZhou0774 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KF894929.1	965	Myotis davidii voucher GuangXi0710 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KF894928.1	965	Myotis davidii voucher GuangDong0838 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KF894927.1	964	Myotis davidii voucher AnHui089 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	NC_025568.1	17531	Myotis davidii mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	KM233172.1	17531	Myotis davidii mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_davidii	DQ989604.1	705	Myotis davidii voucher GZNU200318 12S ribosomal RNA gene, partial sequence; mitochondrial

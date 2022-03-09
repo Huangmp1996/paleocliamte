@@ -1,0 +1,31 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	NC_046914.1	16415	Macroglossus sobrinus isolate JPH07 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	MN816327.1	16415	Macroglossus sobrinus isolate JPH07 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	GU684763.1	658	Macroglossus sobrinus voucher ZMMU S-184670 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	GU684755.1	658	Macroglossus sobrinus voucher ZMMU S-184669 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	KY315496.1	629	Macroglossus sobrinus voucher MZF00687 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	KY315495.1	674	Macroglossus sobrinus voucher MZF00691 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	KY315494.1	612	Macroglossus sobrinus voucher MZF01004 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540829.1	657	Macroglossus sobrinus voucher ROM MAM 113054 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540828.1	657	Macroglossus sobrinus voucher ROM MAM 118191 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540827.1	657	Macroglossus sobrinus voucher ROM MAM 111264 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540826.1	657	Macroglossus sobrinus voucher ROM MAM 111257 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540825.1	657	Macroglossus sobrinus voucher ROM MAM 111401 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540824.1	655	Macroglossus sobrinus voucher ROM MAM 117918 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540823.1	657	Macroglossus sobrinus voucher ROM MAM 111249 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540822.1	657	Macroglossus sobrinus voucher ROM MAM 111250 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540821.1	642	Macroglossus sobrinus voucher ROM MAM 111251 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540820.1	651	Macroglossus sobrinus voucher ROM MAM 111252 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540819.1	654	Macroglossus sobrinus voucher ROM MAM 111253 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540818.1	657	Macroglossus sobrinus voucher ROM MAM 111254 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540817.1	657	Macroglossus sobrinus voucher ROM MAM 111255 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540816.1	657	Macroglossus sobrinus voucher ROM MAM 111256 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540815.1	650	Macroglossus sobrinus voucher ROM MAM 111258 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540814.1	657	Macroglossus sobrinus voucher ROM MAM 111259 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540813.1	657	Macroglossus sobrinus voucher ROM MAM 111260 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540812.1	657	Macroglossus sobrinus voucher ROM MAM 111261 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540811.1	657	Macroglossus sobrinus voucher ROM MAM 111262 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540810.1	657	Macroglossus sobrinus voucher ROM MAM 111263 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540809.1	657	Macroglossus sobrinus voucher EBD 25697 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540808.1	657	Macroglossus sobrinus voucher CMF920710-02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540807.1	657	Macroglossus sobrinus voucher ZMMU S-167140 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Macroglossus_sobrinus	HM540806.1	421	Macroglossus sobrinus voucher ZMMU S-165038 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

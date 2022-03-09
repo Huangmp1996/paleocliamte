@@ -1,0 +1,87 @@
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	MN356124.1	16810	Chlamydotis macqueenii mitochondrion, partial genome
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	MK714019.1	16821	Chlamydotis macqueenii mitochondrion, partial genome
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY259920.1	1045	Chlamydotis undulata macqueenii S58 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY259919.1	1045	Chlamydotis undulata macqueenii S73 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY259918.1	1045	Chlamydotis undulata macqueenii S74 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078574.1	264	Chlamydotis undulata macqueenii isolate WKZH06 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078573.1	264	Chlamydotis undulata macqueenii isolate WKZH05 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078572.1	264	Chlamydotis undulata macqueenii isolate WKZH04 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078571.1	264	Chlamydotis undulata macqueenii isolate WKZH03 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078570.1	264	Chlamydotis undulata macqueenii isolate WKZH02 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078569.1	264	Chlamydotis undulata macqueenii isolate WKZH01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078568.1	264	Chlamydotis undulata macqueenii isolate SI04 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078567.1	264	Chlamydotis undulata macqueenii isolate SI03 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078566.1	264	Chlamydotis undulata macqueenii isolate SI02 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078565.1	264	Chlamydotis undulata macqueenii isolate SI01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078564.1	264	Chlamydotis undulata macqueenii isolate SA02 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078563.1	264	Chlamydotis undulata macqueenii isolate SA01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078562.1	264	Chlamydotis undulata macqueenii isolate OM16 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078561.1	264	Chlamydotis undulata macqueenii isolate NAG08 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078560.1	264	Chlamydotis undulata macqueenii isolate NAG07 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078559.1	264	Chlamydotis undulata macqueenii isolate NAG06 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078558.1	264	Chlamydotis undulata macqueenii isolate NAG04 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078557.1	264	Chlamydotis undulata macqueenii isolate NAG03 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078556.1	264	Chlamydotis undulata macqueenii isolate NAG02 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078555.1	264	Chlamydotis undulata macqueenii isolate NAG01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078554.1	264	Chlamydotis undulata macqueenii isolate IR05 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078553.1	264	Chlamydotis undulata macqueenii isolate IR04 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078552.1	264	Chlamydotis undulata macqueenii isolate IR03 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078551.1	264	Chlamydotis undulata macqueenii isolate IR02 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078550.1	264	Chlamydotis undulata macqueenii isolate IR01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078549.1	264	Chlamydotis undulata macqueenii isolate GANSU04 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078548.1	264	Chlamydotis undulata macqueenii isolate GANSU03 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078547.1	264	Chlamydotis undulata macqueenii isolate GANSU02 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078546.1	264	Chlamydotis undulata macqueenii isolate GANSU01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078545.1	264	Chlamydotis undulata macqueenii isolate EKZH21 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078544.1	264	Chlamydotis undulata macqueenii isolate EKZH18 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078543.1	264	Chlamydotis undulata macqueenii isolate EKZH17 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078542.1	264	Chlamydotis undulata macqueenii isolate EKZH16 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078541.1	264	Chlamydotis undulata macqueenii isolate EKZH15 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078540.1	264	Chlamydotis undulata macqueenii isolate EKZH14 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078539.1	264	Chlamydotis undulata macqueenii isolate EKZH13 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078538.1	264	Chlamydotis undulata macqueenii isolate EKZH12 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078537.1	264	Chlamydotis undulata macqueenii isolate EKZH11 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078536.1	264	Chlamydotis undulata macqueenii isolate EKZH01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078535.1	264	Chlamydotis undulata macqueenii isolate CH14 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078534.1	264	Chlamydotis undulata macqueenii isolate CH13 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078533.1	264	Chlamydotis undulata macqueenii isolate CH12 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078532.1	264	Chlamydotis undulata macqueenii isolate CH10 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078531.1	264	Chlamydotis undulata macqueenii isolate CH09 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078530.1	264	Chlamydotis undulata macqueenii isolate CH08 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078529.1	264	Chlamydotis undulata macqueenii isolate CH07 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078528.1	264	Chlamydotis undulata macqueenii isolate CH06 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078527.1	264	Chlamydotis undulata macqueenii isolate CH02 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078526.1	264	Chlamydotis undulata macqueenii isolate AFG01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078525.1	264	Chlamydotis undulata macqueenii isolate AD20 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078524.1	264	Chlamydotis undulata macqueenii isolate AD19 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078523.1	264	Chlamydotis undulata macqueenii isolate AD17 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078522.1	264	Chlamydotis undulata macqueenii isolate AD16 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078521.1	264	Chlamydotis undulata macqueenii isolate AD15 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078520.1	264	Chlamydotis undulata macqueenii isolate AD14 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078519.1	264	Chlamydotis undulata macqueenii isolate AD12 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078518.1	264	Chlamydotis undulata macqueenii isolate AD11 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078517.1	264	Chlamydotis undulata macqueenii isolate AD10 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078516.1	264	Chlamydotis undulata macqueenii isolate AD09 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078515.1	264	Chlamydotis undulata macqueenii isolate AD08 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078514.1	264	Chlamydotis undulata macqueenii isolate AD07 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078513.1	264	Chlamydotis undulata macqueenii isolate AD06 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078512.1	264	Chlamydotis undulata macqueenii isolate AD04 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078511.1	264	Chlamydotis undulata macqueenii isolate AD01 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AY078581.1	1143	Chlamydotis undulata macqueenii cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	KF137588.1	1042	Chlamydotis undulata macqueenii voucher NWRC A3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	KF137587.1	1042	Chlamydotis undulata macqueenii voucher NWRC A2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	KF137586.1	1042	Chlamydotis undulata macqueenii voucher NWRC A1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	KF137585.1	1042	Chlamydotis undulata macqueenii voucher Mendelssohn 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	KF137584.1	1042	Chlamydotis undulata macqueenii voucher IFCDW 3BP cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511462.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7494
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511461.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7493
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511460.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7492
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511459.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7252
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511458.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7251
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511457.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7250
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511456.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7247
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511455.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7246
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511454.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7245
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511453.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7067
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511452.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7066
+AVES_OTIDIFORMES_OTIDIDAE_Chlamydotis_macqueenii	AJ511451.1	1143	Chlamydotis undulata macqueenii mitochondrial cyt b gene for cytochrome b, specimen voucher 7065

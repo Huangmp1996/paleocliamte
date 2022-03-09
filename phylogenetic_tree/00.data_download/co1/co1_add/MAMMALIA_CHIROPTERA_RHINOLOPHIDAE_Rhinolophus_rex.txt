@@ -1,0 +1,25 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765746.1	657	Rhinolophus rex isolate GX07016 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765744.1	642	Rhinolophus rex isolate YN15036 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765743.1	648	Rhinolophus rex isolate YN15044 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765742.1	648	Rhinolophus rex isolate YN15040 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765741.1	645	Rhinolophus rex isolate YN15039 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765738.1	657	Rhinolophus rex isolate GZ08045 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765737.1	657	Rhinolophus rex isolate GZ08033 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765736.1	645	Rhinolophus rex isolate GZ08043 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765735.1	657	Rhinolophus rex isolate GZ08030 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765734.1	642	Rhinolophus rex isolate HuN15090 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765733.1	657	Rhinolophus rex isolate GX07017 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765732.1	657	Rhinolophus rex isolate GX07005 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765731.1	657	Rhinolophus rex isolate GX07015 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765730.1	657	Rhinolophus rex isolate GZ07061 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765729.1	657	Rhinolophus rex isolate GZ08031 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765728.1	657	Rhinolophus rex isolate GZ08039 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765727.1	657	Rhinolophus rex isolate HuN10138 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765726.1	657	Rhinolophus rex isolate HuN15069 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765725.1	657	Rhinolophus rex isolate HuN10120 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765724.1	657	Rhinolophus rex isolate GZ08037 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765723.1	645	Rhinolophus rex isolate GX10010 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG765681.1	594	Rhinolophus rex isolate CQ08036 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	FJ840488.1	507	Rhinolophus rex haplotype GZNU200312 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	NC_028536.1	16845	Rhinolophus rex mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	KT599913.1	16845	Rhinolophus rex mitochondrion, complete genome

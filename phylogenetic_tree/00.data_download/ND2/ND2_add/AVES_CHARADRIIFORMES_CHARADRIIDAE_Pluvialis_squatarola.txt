@@ -1,0 +1,16 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	NC_056257.1	16860	Pluvialis squatarola mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	MT561267.1	16860	Pluvialis squatarola mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM776974.1	1036	Pluvialis squatarola voucher UAM:14240 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM776973.1	1036	Pluvialis squatarola voucher UAM:14239 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM776972.1	1036	Pluvialis squatarola voucher UAM:14241 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640807.1	1036	Pluvialis squatarola isolate UWBM43931 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640806.1	1036	Pluvialis squatarola isolate UWBM51608 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640805.1	1036	Pluvialis squatarola isolate UWBM44500 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640804.1	1036	Pluvialis squatarola isolate UWBM43963 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640803.1	1036	Pluvialis squatarola isolate UWBM43964 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640802.1	1036	Pluvialis squatarola isolate UAM13390 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640801.1	1036	Pluvialis squatarola isolate UAM14238 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640800.1	1036	Pluvialis squatarola isolate UAM13389 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640799.1	1036	Pluvialis squatarola isolate UAM13488 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	HM640798.1	1036	Pluvialis squatarola isolate UAM13347 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_squatarola	EF373259.1	990	Pluvialis squatarola voucher TP7 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,0 +1,32 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082608.1	1146	Odorrana tormota haplotype 30 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082607.1	1146	Odorrana tormota haplotype 29 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082606.1	1146	Odorrana tormota haplotype 28 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082605.1	1146	Odorrana tormota haplotype 27 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082604.1	1146	Odorrana tormota haplotype 26 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082603.1	1146	Odorrana tormota haplotype 25 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082602.1	1146	Odorrana tormota haplotype 24 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082601.1	1146	Odorrana tormota haplotype 23 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082600.1	1146	Odorrana tormota haplotype 22 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082599.1	1146	Odorrana tormota haplotype 21 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082598.1	1146	Odorrana tormota haplotype 20 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082597.1	1146	Odorrana tormota haplotype 19 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082596.1	1146	Odorrana tormota haplotype 18 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082595.1	1146	Odorrana tormota haplotype 17 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082594.1	1146	Odorrana tormota haplotype 16 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082593.1	1137	Odorrana tormota haplotype 15 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082592.1	1146	Odorrana tormota haplotype 14 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082591.1	1146	Odorrana tormota haplotype 13 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082590.1	1146	Odorrana tormota haplotype 12 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082589.1	1146	Odorrana tormota haplotype 11 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082588.1	1146	Odorrana tormota haplotype 10 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082587.1	1146	Odorrana tormota haplotype 9 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082586.1	1146	Odorrana tormota haplotype 8 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082585.1	1146	Odorrana tormota haplotype 7 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082584.1	1146	Odorrana tormota haplotype 6 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082583.1	1146	Odorrana tormota haplotype 5 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082582.1	1146	Odorrana tormota haplotype 4 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082581.1	1146	Odorrana tormota haplotype 3 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082580.1	1146	Odorrana tormota haplotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	MN082579.1	1146	Odorrana tormota haplotype 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	DQ835616.1	17962	Amolops tormotus mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	NC_009423.1	17962	Amolops tormotus mitochondrion, complete genome

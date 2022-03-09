@@ -1,0 +1,19 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MH034210.1	588	Hoplobatrachus rugulosus voucher 15993 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MH034209.1	588	Hoplobatrachus rugulosus voucher 17953 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MH034208.1	588	Hoplobatrachus rugulosus voucher 18076 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MH034207.1	588	Hoplobatrachus rugulosus voucher 18196 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MH034206.1	588	Hoplobatrachus rugulosus voucher JLZ-2-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MH034205.1	588	Hoplobatrachus rugulosus voucher 15457 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MG935526.1	655	Hoplobatrachus rugulosus voucher USNM:Herp:520480 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MG935525.1	655	Hoplobatrachus rugulosus voucher USNM:Herp:524038 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	JX181763.1	20926	Hoplobatrachus rugulosus mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR087678.1	705	Hoplobatrachus rugulosus voucher 2007.6265 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR087677.1	705	Hoplobatrachus rugulosus voucher TAD_P318 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR087676.1	705	Hoplobatrachus rugulosus voucher K3178 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR087675.1	705	Hoplobatrachus rugulosus voucher 2003.8636 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR087674.1	705	Hoplobatrachus rugulosus voucher 0033Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KC196066.1	16903	Hoplobatrachus rugulosus mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	NC_019615.1	20309	Hoplobatrachus rugulosus mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	HM104684.1	20309	Hoplobatrachus rugulosus voucher JHHWW001 mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	JN700894.1	564	Hoplobatrachus rugulosus voucher KIZ08847 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	JN700893.1	565	Hoplobatrachus rugulosus voucher KIZ-JX0254 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

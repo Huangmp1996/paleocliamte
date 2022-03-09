@@ -1,0 +1,22 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	MF580220.1	658	Actitis hypoleucos voucher USNM:Birds:653357 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	JF499075.1	668	Actitis hypoleucos voucher USNM:641779 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	JF498755.1	654	Actitis hypoleucos voucher USNM 641323 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	EU525285.1	623	Actitis hypoleucos voucher COSA 57 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	EU525284.1	900	Actitis hypoleucos voucher MKP 1460 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	EU525283.1	630	Actitis hypoleucos voucher COSA 55 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	EU525282.1	649	Actitis hypoleucos voucher MKP 1361 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GU571700.1	648	Actitis hypoleucos voucher BISE-Aves42 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GU571699.1	648	Actitis hypoleucos voucher BISE-Aves418 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GU571223.1	751	Actitis hypoleucos voucher NHMO-BC275 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GU571222.1	750	Actitis hypoleucos voucher NHMO-BC17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GQ481288.1	694	Actitis hypoleucos voucher UWBM 46623 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GQ481287.1	694	Actitis hypoleucos voucher UWBM 49579 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GQ481286.1	694	Actitis hypoleucos voucher UWBM 43824 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GQ481285.1	694	Actitis hypoleucos voucher UWBM 46392 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	GQ481284.1	694	Actitis hypoleucos voucher UWBM 60137 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	EF515749.1	686	Actitis hypoleucos voucher KRIBB1235 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	AB843335.1	662	Actitis hypoleucos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO059-10
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	AB842517.1	649	Actitis hypoleucos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM594-10
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	AB842516.1	660	Actitis hypoleucos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM462-10
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	AB842515.1	654	Actitis hypoleucos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM792-11
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Actitis_hypoleucos	JN801257.1	670	Actitis hypoleucos voucher USNM 613020 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,3 @@
+MAMMALIA_RODENTIA_MURIDAE_Hapalomys_delacouri	MZ159976.1	16314	Hapalomys delacouri mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Hapalomys_delacouri	MG189666.1	1140	Hapalomys delacouri voucher R 5237 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Hapalomys_delacouri	KY753998.1	1104	Hapalomys delacouri cytochrome b (cytb) gene, partial cds; mitochondrial

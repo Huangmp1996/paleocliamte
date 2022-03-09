@@ -1,0 +1,7 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	MW625811.1	16404	Meles leucurus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	NC_039173.1	16529	Meles leucurus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	MF497304.1	16529	Meles leucurus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	MH155253.1	555	Meles leucurus 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KU707936.1	16496	Meles leucurus amurensis isolate Meles_leucurus_KOR002 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KU707935.1	16497	Meles leucurus amurensis isolate Meles_leucurus_KOR001 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KU052604.1	16497	Meles leucurus amurensis mitochondrion, complete genome

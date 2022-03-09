@@ -1,0 +1,5 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_tsinpaensis	DQ333813.1	16380	Pseudohynobius tsinpaensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_tsinpaensis	KP233806.1	16378	Liua tsinpaensis voucher Tsinpa20141205 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_tsinpaensis	NC_008081.1	16380	Liua tsinpaensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_tsinpaensis	AY916012.1	1070	Pseudohynobius tsinpaensis voucher JF044 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_tsinpaensis	AY593112.1	933	Pseudohynobius tsinpaensis 12S ribosomal RNA gene, partial sequence; mitochondrial

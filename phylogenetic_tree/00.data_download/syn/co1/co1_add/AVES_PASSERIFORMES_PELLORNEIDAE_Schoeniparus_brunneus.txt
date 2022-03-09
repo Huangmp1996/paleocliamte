@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_brunneus	HM140295.1	594	Alcippe brunnea isolate 5185 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_brunneus	FJ754292.1	594	Alcippe brunnea cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_brunneus	JQ173946.1	652	Alcippe brunnea voucher USNM:Birds:620572 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_brunneus	JQ173945.1	652	Alcippe brunnea voucher USNM:Birds:609272 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

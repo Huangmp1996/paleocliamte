@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_magnirostris	Y10737.1	1041	P.magnirostris mitochondrial cytb gene, partial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_magnirostris	MH079309.1	1076	Phylloscopus magnirostris voucher DZUG U4654 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_magnirostris	MH079308.1	1037	Phylloscopus magnirostris voucher IOZ 16269 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_magnirostris	AY887681.1	1038	Phylloscopus magnirostris cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_magnirostris	AY635056.1	1038	Phylloscopus magnirostris cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_magnirostris	L77129.1	910	Phylloscopus magnirostris cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_magnirostris	HQ608867.1	1176	Phylloscopus magnirostris isolate Y10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_magnirostris	HQ608822.1	1143	Phylloscopus magnirostris isolate Y2 cytochrome b (cytb) gene, complete cds; mitochondrial

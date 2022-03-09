@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MN356415.1	16732	Limosa lapponica mitochondrion, partial genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	NC_046765.1	16773	Limosa lapponica mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK341549.1	16773	Limosa lapponica mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KX371106.1	16732	Limosa lapponica baueri mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KC969111.1	665	Limosa lapponica NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

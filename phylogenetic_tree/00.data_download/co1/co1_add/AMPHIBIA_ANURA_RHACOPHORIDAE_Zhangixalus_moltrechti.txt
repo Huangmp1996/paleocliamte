@@ -1,0 +1,12 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	LC386533.1	1554	Rhacophorus moltrechti KUHE:31070 mitochondrial COX1 gene for cytochrome c oxidase subunit 1, complete cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	MH034341.1	588	Rhacophorus moltrechti voucher 17697 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	MH034340.1	588	Rhacophorus moltrechti voucher 17525 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	MH034339.1	588	Rhacophorus moltrechti voucher 10890 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	MH034338.1	588	Rhacophorus moltrechti voucher NMNSF10881 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	MH034337.1	588	Rhacophorus moltrechti voucher 18295 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	MH034336.1	588	Rhacophorus moltrechti voucher 17965 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	MH034335.1	588	Rhacophorus moltrechti voucher 17885 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	MH034334.1	588	Rhacophorus moltrechti voucher 17804 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	HQ650556.1	657	Rhacophorus moltrechti cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	DQ468684.1	658	Rhacophorus moltrechti voucher A538 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_moltrechti	KP996794.1	561	Rhacophorus moltrechti haplotype C097 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

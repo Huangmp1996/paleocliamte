@@ -1,0 +1,31 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MK089295.1	16845	Rhinolophus ferrumequinum mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MT407327.1	658	Rhinolophus ferrumequinum voucher MB57 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MT563413.1	642	Rhinolophus ferrumequinum voucher Z000114 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MT563416.1	642	Rhinolophus ferrumequinum voucher Z000117 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MT563415.1	642	Rhinolophus ferrumequinum voucher Z000116 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MT563414.1	642	Rhinolophus ferrumequinum voucher Z000115 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MT563412.1	642	Rhinolophus ferrumequinum voucher Z000112 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	HQ580334.1	657	Rhinolophus ferrumequinum voucher ZMMU SVK 10-01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	HQ580333.1	657	Rhinolophus ferrumequinum voucher ZMMU SVK 10-00 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KY754545.1	249	Rhinolophus ferrumequinum voucher NMW 52173 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KY754544.1	462	Rhinolophus ferrumequinum voucher NMW 54795 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KX756026.1	203	Rhinolophus ferrumequinum isolate UNH_RHFE_Gd20778 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KX756025.1	203	Rhinolophus ferrumequinum isolate UNH_RHFE_Gd20777 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	JN392460.1	16839	Rhinolophus ferrumequinum korai mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	JF443129.1	657	Rhinolophus ferrumequinum voucher ZMMU S-183046 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KP993025.1	516	Rhinolophus ferrumequinum isolate RF4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KP993024.1	516	Rhinolophus ferrumequinum isolate RF3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KP993023.1	516	Rhinolophus ferrumequinum isolate RF2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KP993022.1	516	Rhinolophus ferrumequinum isolate RF1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KT783534.1	16760	Rhinolophus ferrumequinum tragatus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KT779432.1	16804	Rhinolophus ferrumequinum nippon mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	NC_020326.1	16870	Rhinolophus ferrumequinum quelpartis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	JX084273.1	16870	Rhinolophus ferrumequinum quelpartis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	NC_016191.1	16839	Rhinolophus ferrumequinum korai mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FR856836.1	556	Rhinolophus ferrumequinum mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL01204
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FR856835.1	556	Rhinolophus ferrumequinum mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00502
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FR856834.1	556	Rhinolophus ferrumequinum mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00393
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FR856833.1	556	Rhinolophus ferrumequinum mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00376
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FR856832.1	556	Rhinolophus ferrumequinum mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00354
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FR856831.1	556	Rhinolophus ferrumequinum mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00327
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FR856830.1	556	Rhinolophus ferrumequinum mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00316

@@ -1,0 +1,7 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_chinensis	NC_035008.1	16361	Paramesotriton chinensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_chinensis	KY609177.1	16361	Paramesotriton chinensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_chinensis	FJ938048.1	1768	Paramesotriton chinensis haplotype GZNU200806087 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_chinensis	AY079461.1	353	Paramesotriton chinensis isolate CHI05 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_chinensis	AY079460.1	353	Paramesotriton chinensis isolate CHI04 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_chinensis	AY079459.1	353	Paramesotriton chinensis isolate CHI03 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_chinensis	AY079458.1	353	Paramesotriton chinensis isolate CHI02 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

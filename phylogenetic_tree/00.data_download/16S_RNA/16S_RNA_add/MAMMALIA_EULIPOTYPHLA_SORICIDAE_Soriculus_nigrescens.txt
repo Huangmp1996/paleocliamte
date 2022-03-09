@@ -1,0 +1,7 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	NC_052688.1	17284	Soriculus nigrescens mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	KY454853.1	17284	Soriculus nigrescens mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981105.1	1575	Soriculus nigrescens isolate Sorinig8 16S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981104.1	1575	Soriculus nigrescens isolate Sorinig7 16S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981103.1	1575	Soriculus nigrescens isolate Sorinig6 16S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981102.1	1575	Soriculus nigrescens isolate Sorinig1 16S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981065.1	1410	Soriculus nigrescens isolate Sorinig3 16S ribosomal RNA gene, partial sequence; mitochondrial

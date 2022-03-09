@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK199040.1	1026	Lycodon rufozonatus voucher CHS710 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK198987.1	1026	Lycodon rufozonatus voucher CHS601 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF148622.1	17189	Dinodon rufozonatum mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	NC_024559.1	17188	Lycodon rufozonatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KJ179950.1	17188	Dinodon rufozonatum mitochondrion, complete genome

@@ -1,0 +1,12 @@
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU182950.1	700	Meriones meridianus clone 138 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU182941.1	647	Meriones meridianus clone 138 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU156738.1	1124	Meriones meridianus voucher Y181 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU156737.1	1124	Meriones meridianus voucher 138 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU156736.1	1099	Meriones meridianus voucher 137 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763077.1	529	Meriones meridianus voucher y181 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763076.1	529	Meriones meridianus voucher 138 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763075.1	529	Meriones meridianus voucher 137-1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763074.1	531	Meriones meridianus voucher 137 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763073.1	530	Meriones meridianus voucher 35 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	NC_027684.1	16376	Meriones meridianus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KR013227.1	16376	Meriones meridianus mitochondrion, complete genome

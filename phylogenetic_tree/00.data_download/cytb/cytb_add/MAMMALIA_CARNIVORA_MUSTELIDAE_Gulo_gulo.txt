@@ -1,0 +1,94 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339430.1	1130	Gulo gulo isolate NK125728 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339429.1	1130	Gulo gulo isolate NK125727 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339428.1	1140	Gulo gulo isolate NK140436 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339427.1	1140	Gulo gulo isolate NK140435 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339426.1	1140	Gulo gulo isolate NK125744 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339425.1	1140	Gulo gulo isolate NK125742 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339424.1	1140	Gulo gulo isolate AF1355 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339423.1	1140	Gulo gulo isolate NK147951 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339422.1	1140	Gulo gulo isolate NK147949 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339421.1	1140	Gulo gulo isolate NK147946 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339420.1	1140	Gulo gulo isolate NK147943 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339419.1	1140	Gulo gulo isolate NK140457 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339418.1	1140	Gulo gulo isolate NK140449 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339417.1	1140	Gulo gulo isolate NK140440 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339416.1	1140	Gulo gulo isolate NK140433 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339415.1	1140	Gulo gulo isolate NK140432 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339414.1	1140	Gulo gulo isolate NK125745 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339413.1	1140	Gulo gulo isolate NK125739 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339412.1	1140	Gulo gulo isolate NK125734 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339411.1	1140	Gulo gulo isolate NK125733 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339410.1	1140	Gulo gulo isolate NK147963 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339409.1	1140	Gulo gulo isolate NK125743 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339408.1	1140	Gulo gulo isolate AF55372 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339407.1	1140	Gulo gulo isolate NK125748 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339406.1	1140	Gulo gulo isolate AF55408 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339405.1	1140	Gulo gulo isolate NK140455 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339404.1	1140	Gulo gulo isolate AF11801 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339403.1	1140	Gulo gulo isolate NK147924 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339402.1	1140	Gulo gulo isolate AF55410 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339401.1	1140	Gulo gulo isolate AF55353 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339400.1	1138	Gulo gulo isolate NK147919 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339399.1	1138	Gulo gulo isolate AF55401 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339398.1	1133	Gulo gulo isolate NK125729 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339397.1	1135	Gulo gulo isolate NK125732 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339396.1	1130	Gulo gulo isolate NK125731 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339395.1	1140	Gulo gulo isolate NK147925 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339394.1	1131	Gulo gulo isolate NK140439 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339393.1	1140	Gulo gulo isolate NK125738 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339392.1	1140	Gulo gulo isolate NK125749 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	MT339391.1	1104	Gulo gulo isolate NK125752 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AB082962.1	1188	Gulo gulo irbp gene for interphotoreceptor retinoid binding protein, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02000259.1	348625	Gulo gulo genome assembly, contig: scaffold1023, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02000392.1	347650	Gulo gulo genome assembly, contig: scaffold1035, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02001684.1	60887	Gulo gulo genome assembly, contig: scaffold11512, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02003288.1	50187	Gulo gulo genome assembly, contig: scaffold12957, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02004915.1	41696	Gulo gulo genome assembly, contig: scaffold14420, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02020323.1	214813	Gulo gulo genome assembly, contig: scaffold2839, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02022346.1	207604	Gulo gulo genome assembly, contig: scaffold3038, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02034087.1	161864	Gulo gulo genome assembly, contig: scaffold4372, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02041506.1	135604	Gulo gulo genome assembly, contig: scaffold5466, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02042593.1	131921	Gulo gulo genome assembly, contig: scaffold5657, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02042705.1	130203	Gulo gulo genome assembly, contig: scaffold5758, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02042801.1	129478	Gulo gulo genome assembly, contig: scaffold5844, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206375.1	1140	Gulo gulo voucher AF56901 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206374.1	1140	Gulo gulo voucher AF51875 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206373.1	1140	Gulo gulo voucher AF51874 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206372.1	1140	Gulo gulo voucher AF51819 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206371.1	1140	Gulo gulo voucher AF51817 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206370.1	1140	Gulo gulo voucher AF15901 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206369.1	1140	Gulo gulo voucher AF1355 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206368.1	1140	Gulo gulo voucher AF52388 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206367.1	1140	Gulo gulo voucher AF52358 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206366.1	1140	Gulo gulo voucher AF52357 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206365.1	1140	Gulo gulo voucher AF52361 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206364.1	1140	Gulo gulo voucher AF45974 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206363.1	1140	Gulo gulo voucher AF45948 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206362.1	1140	Gulo gulo voucher AF45909 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206361.1	1140	Gulo gulo voucher AF55402 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206360.1	1140	Gulo gulo voucher AF55396 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206359.1	1140	Gulo gulo voucher AF55325 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206358.1	1140	Gulo gulo voucher AF55323 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206357.1	1140	Gulo gulo voucher AF55320 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206356.1	1140	Gulo gulo voucher AF55394 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206355.1	1140	Gulo gulo voucher AF354 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206354.1	1140	Gulo gulo voucher AF56909 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206353.1	1140	Gulo gulo voucher AF56908 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206352.1	1140	Gulo gulo voucher AF56907 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206351.1	1140	Gulo gulo voucher AF56906 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206350.1	1140	Gulo gulo voucher AF56904 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	DQ206349.1	1140	Gulo gulo voucher AF56902 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	L77960.2	401	Gulo gulo cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AF498222.1	284	Gulo gulo rhodopsin (rho) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AF498198.1	622	Gulo gulo growth hormone receptor precursor (ghr) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AF498143.1	369	Gulo gulo nicotinic cholinergic receptor alpha polypeptide 1 precursor (chrna1) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AF498120.1	298	Gulo gulo apolipoprotein B-100 (apoB-100) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AF498174.1	417	Gulo gulo feline sarcoma proto-oncogene (c-fes) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	EF581373.1	1140	Gulo gulo cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KP642036.1	4844	Gulo gulo tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete sequence; cytochrome b (CYTB) gene, complete cds; and tRNA-Thr and tRNA-Pro genes and D-loop, complete sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KR611313.1	16575	Gulo gulo mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KF415127.1	16537	Gulo gulo mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	NC_009685.1	16541	Gulo gulo mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AB051245.1	1140	Gulo gulo mitochondrial cytb gene for cytochrome b, complete cds, isolate: TH150HS1603
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AM711901.1	16541	Gulo gulo complete mitochondrial genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	X94921.1	1140	G.gulo mitochondrial DNA for cytochrome b (complete sequence)

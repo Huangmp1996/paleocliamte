@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	AF094623.1	861	Acrocephalus aedon cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	HQ608890.1	1176	Acrocephalus aedon isolate Y33 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	HQ608854.1	1143	Acrocephalus aedon isolate Y34 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	FJ883020.1	728	Acrocephalus aedon cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	AJ004778.1	1041	Acrocephalus aedon mitochondrial cytb gene
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	AF094653.1	520	Acrocephalus aedon 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

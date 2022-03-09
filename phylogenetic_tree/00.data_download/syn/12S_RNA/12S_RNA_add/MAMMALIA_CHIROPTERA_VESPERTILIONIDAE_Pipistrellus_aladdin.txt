@@ -1,0 +1,26 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028631.1	376	Pipistrellus pipistrellus voucher Px05_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028630.1	286	Pipistrellus pipistrellus voucher Px04_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028629.1	391	Pipistrellus pipistrellus voucher Px03_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028628.1	391	Pipistrellus pipistrellus voucher Px02_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028627.1	330	Pipistrellus pipistrellus voucher Px01_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028626.1	376	Pipistrellus pipistrellus voucher Pp25_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028625.1	375	Pipistrellus pipistrellus voucher Pp24_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028624.1	378	Pipistrellus pipistrellus voucher Pp22_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028623.1	375	Pipistrellus pipistrellus voucher Pp20_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028622.1	376	Pipistrellus pipistrellus voucher Pp19_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028621.1	374	Pipistrellus pipistrellus voucher Pp12_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028620.1	283	Pipistrellus pipistrellus voucher Pp11_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028619.1	281	Pipistrellus pipistrellus voucher Pp10_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028618.1	294	Pipistrellus pipistrellus voucher Pp08_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028617.1	303	Pipistrellus pipistrellus voucher Pp07_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028616.1	305	Pipistrellus pipistrellus voucher Pp06_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028615.1	316	Pipistrellus pipistrellus voucher Pp04_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028614.1	301	Pipistrellus pipistrellus voucher Pp03_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028613.1	346	Pipistrellus pipistrellus voucher Pp02_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028612.1	353	Pipistrellus pipistrellus voucher Pp01_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028611.1	391	Pipistrellus pipistrellus voucher Px104_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028610.1	328	Pipistrellus pipistrellus voucher Px103_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028609.1	303	Pipistrellus pipistrellus voucher Px102_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN028608.1	341	Pipistrellus pipistrellus voucher Px101_12S small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	HM561630.1	2682	Pipistrellus pipistrellus voucher MHNG1956.031 (M1439) tRNA-Phe gene, partial sequence; 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AF326105.1	2604	Pipistrellus pipistrellus 12S ribosomal RNA gene, complete sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, complete sequence; mitochondrial genes for mitochondrial products

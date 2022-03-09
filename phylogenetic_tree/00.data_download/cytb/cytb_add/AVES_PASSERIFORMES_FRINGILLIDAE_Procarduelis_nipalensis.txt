@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Procarduelis_nipalensis	AF342866.1	924	Carpodacus nipalensis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Procarduelis_nipalensis	HQ735379.1	1121	Carpodacus nipalensis isolate T5105 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Procarduelis_nipalensis	KF194121.1	844	Carpodacus nipalensis voucher NME cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Procarduelis_nipalensis	KF194184.1	1083	Carpodacus nipalensis isolate ES11 cytochrome b (cytb) gene, partial cds; mitochondrial

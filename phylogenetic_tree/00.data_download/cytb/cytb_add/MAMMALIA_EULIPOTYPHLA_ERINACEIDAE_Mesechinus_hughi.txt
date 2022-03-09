@@ -1,0 +1,4 @@
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Mesechinus_hughi	MK881608.1	1140	Mesechinus hughi voucher XC18001 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Mesechinus_hughi	HQ857531.1	1140	Mesechinus hughi clone 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Mesechinus_hughi	HQ857530.1	1140	Mesechinus hughi clone 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Mesechinus_hughi	KT824773.1	16842	Mesechinus hughi miodon voucher MMIOD20150925 mitochondrion, complete genome

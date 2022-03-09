@@ -1,0 +1,8 @@
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MN365836.1	16170	Manis javanica mitochondrion, partial genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MG196309.1	16577	Manis javanica isolate MJA633 mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MG196302.1	16578	Manis javanica isolate EP2 mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	KT445979.1	16593	Manis javanica isolate MP_PG03-UM mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	NC_026781.1	16576	Manis javanica isolate T298 mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	KP306515.1	16576	Manis javanica isolate T298 mitochondrion, complete genome
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	JN709878.1	304	Manis javanica isolate BinhThuan 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	JN709877.1	304	Manis javanica isolate IEBR 16S ribosomal RNA gene, partial sequence; mitochondrial

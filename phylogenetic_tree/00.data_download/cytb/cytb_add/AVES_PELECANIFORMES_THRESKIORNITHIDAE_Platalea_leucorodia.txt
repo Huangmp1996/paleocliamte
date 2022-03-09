@@ -1,0 +1,8 @@
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	MH645665.1	718	Platalea leucorodia cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	KT901459.1	16846	Platalea leucorodia mitochondrion, complete genome
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	HM804892.1	429	Platalea leucorodia isolate Plaleu1 cytochrome b gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GU346983.1	772	Platalea leucorodia archeri isolate pla3527 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GU346982.1	772	Platalea leucorodia isolate pl2648 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GU346981.1	772	Platalea leucorodia isolate pl2629 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GQ199608.1	16715	Platalea leucorodia mitochondrion, complete genome
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	NC_012772.1	16715	Platalea leucorodia mitochondrion, complete genome

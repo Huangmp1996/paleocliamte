@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	MW257214.1	16760	Urva javanica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY117548.1	16343	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AY873843.1	16763	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	NC_006835.1	16763	Herpestes javanicus mitochondrion, complete genome

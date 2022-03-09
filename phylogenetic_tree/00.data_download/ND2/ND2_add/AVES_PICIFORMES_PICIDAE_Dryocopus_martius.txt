@@ -1,0 +1,3 @@
+AVES_PICIFORMES_PICIDAE_Dryocopus_martius	LC541437.1	16801	Dryocopus martius martius 2002-0288 mitochondrial DNA, complete genome
+AVES_PICIFORMES_PICIDAE_Dryocopus_martius	DQ479185.1	1041	Dryocopus martius NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dryocopus_martius	DQ188166.1	1036	Dryocopus martius isolate C30 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

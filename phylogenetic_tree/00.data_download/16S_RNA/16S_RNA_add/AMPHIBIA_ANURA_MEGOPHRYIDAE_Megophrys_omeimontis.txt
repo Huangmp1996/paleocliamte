@@ -1,0 +1,21 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MN781104.1	528	Megophrys omeimontis voucher CS20190518034 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MN781103.1	528	Megophrys omeimontis voucher CS20190518033 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MN781102.1	528	Megophrys omeimontis voucher CS20190518039 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MN781101.1	528	Megophrys omeimontis voucher CS20190518036 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MN781100.1	528	Megophrys omeimontis voucher CS20190518032 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MN781099.1	528	Megophrys omeimontis voucher CS20190518035 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MN781098.1	528	Megophrys omeimontis voucher CS20190518038 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MN781097.1	528	Megophrys omeimontis voucher CS20190518040 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406896.1	535	Megophrys omeimontis isolate 5330 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406887.1	535	Megophrys omeimontis isolate 5301 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406866.1	535	Megophrys omeimontis isolate 4939 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406865.1	535	Megophrys omeimontis isolate 4918 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406864.1	535	Megophrys omeimontis isolate 4916 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406710.1	535	Megophrys omeimontis isolate 2741 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	KY022207.1	1868	Xenophrys omeimontis voucher KU KUH 311761 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	KY022206.1	1851	Xenophrys omeimontis voucher KU KUH 311800 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	KX811884.1	528	Xenophrys omeimontis isolate KIZ025765 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	KX811883.1	528	Xenophrys omeimontis isolate KIZ09072 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	KP728257.1	17013	Xenophrys omeimontis mitochondrion, partial genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	EF397242.1	1914	Megophrys omeimontis voucher ROM40462 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	AY561307.1	408	Megophrys omeimontis 16S ribosomal RNA gene, partial sequence; mitochondrial

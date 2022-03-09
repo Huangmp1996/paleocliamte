@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	AF484880.1	477	Pteruthius xanthochloris cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	EF453348.1	1143	Pteruthius xanthochlorus occidentalis voucher AMNH 304523 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	EF453347.1	1143	Pteruthius xanthochlorus voucher AMNH 591791 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	EF453346.1	1143	Pteruthius xanthochlorus pallidus voucher AMNH 423870 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	EF453345.1	1143	Pteruthius xanthochlorus pallidus voucher AMNH 306968 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	EF453344.1	1143	Pteruthius xanthochlorus occidentalis voucher AMNH 257555 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	EF453343.1	1143	Pterythius pallidus hybrida voucher AMNH 306103 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	EF453342.1	1143	Pteruthius xanthochlorus voucher AMNH DOT 5586 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_xanthochlorus	JQ864521.1	1026	Pteruthius xanthochlorus cytochrome b (cytb) gene, complete cds; mitochondrial

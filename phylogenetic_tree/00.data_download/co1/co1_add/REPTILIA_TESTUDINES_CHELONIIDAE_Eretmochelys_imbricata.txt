@@ -1,0 +1,46 @@
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	DQ533485.1	16478	Eretmochelys imbricata mitochondrion, complete genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	MF571906.1	16498	Eretmochelys imbricata isolate Cc-C-2 mitochondrion, complete genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991344.1	521	Eretmochelys imbricata voucher EICOI1.1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991343.1	521	Eretmochelys imbricata voucher EICOI2.1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991342.1	521	Eretmochelys imbricata voucher EICOI3.1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991341.1	521	Eretmochelys imbricata voucher EICOI4.1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991340.1	521	Eretmochelys imbricata voucher EICOI5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991339.1	521	Eretmochelys imbricata voucher EICOI6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991338.1	521	Eretmochelys imbricata voucher EICOI7 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991337.1	521	Eretmochelys imbricata voucher EICOI8 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991336.1	521	Eretmochelys imbricata voucher EICOI9 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991335.1	521	Eretmochelys imbricata voucher EICOI10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991334.1	521	Eretmochelys imbricata voucher EICOI11 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991333.1	521	Eretmochelys imbricata voucher EICOI12 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991332.1	521	Eretmochelys imbricata voucher EICOI13 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991331.1	521	Eretmochelys imbricata voucher EICOI14 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991330.1	521	Eretmochelys imbricata voucher EICOI15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991329.1	521	Eretmochelys imbricata voucher EICOI16 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JN991328.1	521	Eretmochelys imbricata voucher EICOI17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	GQ152887.1	815	Eretmochelys imbricata voucher EI-COI-A1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	GQ152886.1	815	Eretmochelys imbricata voucher EI-COI-P2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	GQ152885.1	815	Eretmochelys imbricata voucher EI-COI-P1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	KP221806.1	16386	Eretmochelys imbricata mitochondrion, complete genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571768.1	611	Eretmochelys imbricata voucher EICOI006 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571767.1	611	Eretmochelys imbricata voucher EICOI007 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571766.1	611	Eretmochelys imbricata voucher EICOI008 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571765.1	611	Eretmochelys imbricata voucher EICOI009 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571764.1	611	Eretmochelys imbricata voucher EICOI010 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571763.1	611	Eretmochelys imbricata voucher EICOI011 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571762.1	611	Eretmochelys imbricata voucher EICOI012 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571761.1	611	Eretmochelys imbricata voucher EICOI013 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571760.1	611	Eretmochelys imbricata voucher EICOI014 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571759.1	611	Eretmochelys imbricata voucher EICOI015 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571758.1	611	Eretmochelys imbricata voucher EICOI016 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571757.1	611	Eretmochelys imbricata voucher EICOI017 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571756.1	611	Eretmochelys imbricata voucher EICOI001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571755.1	611	Eretmochelys imbricata voucher EICOI002 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571754.1	611	Eretmochelys imbricata voucher EICOI003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571753.1	611	Eretmochelys imbricata voucher EICOI004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX571752.1	611	Eretmochelys imbricata voucher EICOI005 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	KC129172.1	475	Eretmochelys imbricata voucher AS15MT02 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	KC129171.1	475	Eretmochelys imbricata voucher AS15MT01 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	NC_012398.1	16478	Eretmochelys imbricata mitochondrion, complete genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX454986.1	16347	Eretmochelys imbricata isolate 72489 mitochondrion, partial genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX454980.1	16349	Eretmochelys imbricata isolate 61392 mitochondrion, partial genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX454970.1	16354	Eretmochelys imbricata isolate 5787 mitochondrion, partial genome

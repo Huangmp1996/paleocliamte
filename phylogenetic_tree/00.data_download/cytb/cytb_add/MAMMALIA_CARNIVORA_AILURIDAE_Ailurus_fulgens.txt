@@ -1,0 +1,61 @@
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	MK886830.1	16517	Ailurus fulgens mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849776.1	398	Ailurus fulgens isolate RP95 haplotype J cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849775.1	398	Ailurus fulgens isolate RP94 haplotype I cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849774.1	398	Ailurus fulgens isolate RP87 haplotype H cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849773.1	398	Ailurus fulgens isolate RP90 haplotype G cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849772.1	398	Ailurus fulgens isolate RP59 haplotype G cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849771.1	398	Ailurus fulgens isolate RP65 haplotype F cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849770.1	398	Ailurus fulgens isolate RP74 haplotype E cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849769.1	398	Ailurus fulgens isolate RP72 haplotype E cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849768.1	398	Ailurus fulgens isolate RP04 haplotype D cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849767.1	398	Ailurus fulgens isolate RP93 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849766.1	398	Ailurus fulgens isolate RP91 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849765.1	398	Ailurus fulgens isolate RP88 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849764.1	398	Ailurus fulgens isolate RP82 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849763.1	398	Ailurus fulgens isolate RP79 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849762.1	398	Ailurus fulgens isolate RP78 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849761.1	398	Ailurus fulgens isolate RP73 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849760.1	398	Ailurus fulgens isolate RP71 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849759.1	398	Ailurus fulgens isolate RP70 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849758.1	398	Ailurus fulgens isolate RP69 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849757.1	398	Ailurus fulgens isolate RP67 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849756.1	398	Ailurus fulgens isolate RP63 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849755.1	398	Ailurus fulgens isolate RP60 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849754.1	398	Ailurus fulgens isolate RP53 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849753.1	398	Ailurus fulgens isolate RP50 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849752.1	398	Ailurus fulgens isolate RP49 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849751.1	398	Ailurus fulgens isolate RP47 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849750.1	398	Ailurus fulgens isolate RP45 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849749.1	398	Ailurus fulgens isolate RP05 haplotype C cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849748.1	398	Ailurus fulgens isolate RP75 haplotype B cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849747.1	398	Ailurus fulgens isolate RP48 haplotype B cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849746.1	398	Ailurus fulgens isolate RP81 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849745.1	398	Ailurus fulgens isolate RP80 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849744.1	398	Ailurus fulgens isolate RP77 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849743.1	398	Ailurus fulgens isolate RP76 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849742.1	398	Ailurus fulgens isolate RP55 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849741.1	398	Ailurus fulgens isolate RP54 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849740.1	398	Ailurus fulgens isolate RP52 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849739.1	398	Ailurus fulgens isolate RP51 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849738.1	398	Ailurus fulgens isolate RP46 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AY849737.1	398	Ailurus fulgens isolate RP44 haplotype A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262366.1	407	Ailurus fulgens tissue-type dried skin cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262365.1	407	Ailurus fulgens tissue-type dried skin and hair cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262364.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262363.1	407	Ailurus fulgens tissue-type hair cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262362.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262361.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	U12827.1	376	Ailurus fulgens cytochrome B gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262373.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262372.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262371.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262370.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262369.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262368.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF262367.1	407	Ailurus fulgens cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	NC_011124.1	16493	Ailurus fulgens mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	NC_009691.1	16374	Ailurus fulgens styani mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	L21875.1	397	Ailurus fulgens mitochondrial cytochrome b gene, 5' end
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AM711897.1	16493	Ailurus fulgens complete mitochondrial genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AB291074.1	16374	Ailurus fulgens styani mitochondrial DNA, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	X94919.1	1140	A.fulgens mitochondrial DNA for cytochrome b (complete sequence)

@@ -1,0 +1,56 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MK047379.1	1144	Cricetulus kamensis voucher SN1805 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MK047378.1	1144	Cricetulus kamensis voucher SN1804 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MK047377.1	1144	Cricetulus kamensis voucher SN1803 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MK047376.1	1144	Cricetulus kamensis voucher SN1802 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MK047375.1	1144	Cricetulus kamensis voucher SN1801 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142312.1	1144	Cricetulus kamensis voucher SG1504 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142311.1	1144	Cricetulus kamensis voucher SG1503 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142310.1	1144	Cricetulus kamensis voucher RKZ1508 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142309.1	1144	Cricetulus kamensis voucher RKZ1507 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142308.1	1144	Cricetulus kamensis voucher RKZ1506 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142307.1	1144	Cricetulus kamensis voucher RKZ1505 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142306.1	1144	Cricetulus kamensis voucher RKZ1504 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142305.1	1144	Cricetulus kamensis voucher RKZ1503 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142304.1	1144	Cricetulus kamensis voucher RKZ1502 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142303.1	1144	Cricetulus kamensis voucher RKZ1501 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142302.1	1144	Cricetulus kamensis voucher QML1503 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142301.1	1144	Cricetulus kamensis voucher QML1502 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142300.1	1144	Cricetulus kamensis voucher PL1565 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142299.1	1144	Cricetulus kamensis voucher PL1549 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142298.1	1144	Cricetulus kamensis voucher PL1532 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142297.1	1144	Cricetulus kamensis voucher PL1506 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142296.1	1144	Cricetulus kamensis voucher NLM1615 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142295.1	1144	Cricetulus kamensis voucher NLM1614 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142294.1	1144	Cricetulus kamensis voucher NLM1613 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142293.1	1144	Cricetulus kamensis voucher NLM1612 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142292.1	1144	Cricetulus kamensis voucher NLM1611 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142291.1	1144	Cricetulus kamensis voucher NLM1610 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142290.1	1144	Cricetulus kamensis voucher ND1506 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142289.1	1144	Cricetulus kamensis voucher ND1505 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142288.1	1144	Cricetulus kamensis voucher ND1504 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142287.1	1144	Cricetulus kamensis voucher ND1502 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142286.1	1144	Cricetulus kamensis voucher ND1501 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142285.1	1144	Cricetulus kamensis voucher LX1508 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142284.1	1144	Cricetulus kamensis voucher LX1507 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142283.1	1144	Cricetulus kamensis voucher LX1504 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142282.1	1144	Cricetulus kamensis voucher LX1503 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142281.1	1144	Cricetulus kamensis voucher LX1502 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142280.1	1144	Cricetulus kamensis voucher LX1501 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142279.1	1144	Cricetulus kamensis voucher LS1502 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142278.1	1144	Cricetulus kamensis voucher DR1514 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142277.1	1144	Cricetulus kamensis voucher DR1513 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142276.1	1144	Cricetulus kamensis voucher DR1512 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142275.1	1144	Cricetulus kamensis voucher DR1504 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142274.1	1144	Cricetulus kamensis voucher DR1503 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142273.1	1144	Cricetulus kamensis voucher DR1502 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142272.1	1144	Cricetulus kamensis voucher DR1501 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142271.1	1144	Cricetulus kamensis voucher CN1511 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142270.1	1144	Cricetulus kamensis voucher CN1510 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH142269.1	1144	Cricetulus kamensis voucher CN1501 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	KY753967.1	1140	Cricetulus kamensis cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	KX058134.1	1144	Cricetulus kamensis kozlovi voucher 1504 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	KX058133.1	1144	Cricetulus kamensis kamensis voucher 1503 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	KX058132.1	1144	Cricetulus kamensis lama voucher 1502 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	KX058131.1	1144	Cricetulus kamensis alticola voucher 1501 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	NC_024592.1	16270	Cricetulus kamensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	KJ680375.1	16270	Cricetulus kamensis mitochondrion, complete genome

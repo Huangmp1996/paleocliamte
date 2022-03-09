@@ -1,0 +1,39 @@
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748340.1	1137	Rattus pyctoris isolate xcy04001 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748339.1	1137	Rattus pyctoris isolate xcy03002 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748338.1	1128	Rattus pyctoris isolate xcy02001 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748337.1	1125	Rattus pyctoris isolate wys15034 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748336.1	1134	Rattus pyctoris isolate wys15033 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748335.1	1134	Rattus pyctoris isolate wys15031 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748334.1	1128	Rattus pyctoris isolate wys15030 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748333.1	1137	Rattus pyctoris isolate wys15029 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748332.1	1136	Rattus pyctoris isolate wys15028 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748331.1	1137	Rattus pyctoris isolate wl14010 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748328.1	1128	Rattus pyctoris isolate tjh15014 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748327.1	1133	Rattus pyctoris isolate tjh14053 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748326.1	1123	Rattus pyctoris isolate rap09083 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748325.1	1128	Rattus pyctoris isolate QCMZ690601 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748324.1	1134	Rattus pyctoris isolate NMGHLR030 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748323.1	1133	Rattus pyctoris isolate NMGHLE010 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748322.1	1128	Rattus pyctoris isolate NJ15010 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748321.1	1128	Rattus pyctoris isolate MT11280 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748311.1	1128	Rattus pyctoris isolate MT11233 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748310.1	1137	Rattus pyctoris isolate MT11232 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748299.1	1128	Rattus pyctoris isolate MT11207 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748298.1	1136	Rattus pyctoris isolate MT11206 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748292.1	1137	Rattus pyctoris isolate MT11199 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748291.1	1137	Rattus pyctoris isolate MT11197 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748290.1	1137	Rattus pyctoris isolate MT11196 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748283.1	1136	Rattus pyctoris isolate MT11177 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748282.1	1137	Rattus pyctoris isolate MT11176 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748281.1	1113	Rattus pyctoris isolate MT11175 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748280.1	1137	Rattus pyctoris isolate MT11174 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748279.1	1113	Rattus pyctoris isolate MT11173 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748275.1	1113	Rattus pyctoris isolate MT11028 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748274.1	1137	Rattus pyctoris isolate MT11027 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748273.1	1105	Rattus pyctoris isolate MT035 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	MG748271.1	1133	Rattus pyctoris isolate MT020 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	KY587430.1	945	Rattus pyctoris isolate NP16117 cytochrome B (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	KY587429.1	1143	Rattus pyctoris isolate NP15034 cytochrome B (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	KY587428.1	1143	Rattus pyctoris isolate NP15002 cytochrome B (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	JN675512.1	945	Rattus pyctoris isolate 30Rpy_19 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_pyctoris	JN675511.1	945	Rattus pyctoris isolate 29Rpy_19 cytochrome b (cytb) gene, partial cds; mitochondrial

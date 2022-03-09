@@ -1,0 +1,23 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	MG821182.1	660	Myotis horsfieldii voucher NHM.OU.CHI.186.2015 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	MG821163.1	622	Myotis horsfieldii voucher NHM.OU.CHI.13.2017 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	GU684797.1	658	Myotis horsfieldii voucher ZMMU S-184678 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	GU684787.1	658	Myotis horsfieldii voucher ZMMU S-184677 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	NC_036325.1	17083	Myotis horsfieldii mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	MF143494.1	17083	Myotis horsfieldii mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	JN847712.1	657	Myotis horsfieldii cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541112.1	657	Myotis horsfieldii voucher ROM MAM 106168 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541111.1	657	Myotis horsfieldii voucher ROM MAM 110508 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541110.1	421	Myotis horsfieldii voucher ROM MAM 110530 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541109.1	569	Myotis horsfieldii voucher ROM MAM 110588 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541108.1	421	Myotis horsfieldii voucher ROM MAM 107597 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541107.1	567	Myotis horsfieldii voucher ROM MAM 110490 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541106.1	651	Myotis horsfieldii voucher ROM MAM 117941 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541105.1	650	Myotis horsfieldii voucher ROM MAM 117942 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541104.1	657	Myotis horsfieldii voucher ROM MAM 110669 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541103.1	421	Myotis horsfieldii voucher EBD 25126 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541102.1	421	Myotis horsfieldii voucher SMF 83725 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541101.1	421	Myotis horsfieldii voucher CMF920706-02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541100.1	421	Myotis horsfieldii voucher HZM 20.36494 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	HM541099.1	421	Myotis horsfieldii voucher ZMMU S-173407 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	JF443984.1	657	Myotis horsfieldii voucher ROM 118042 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	JF443983.1	657	Myotis horsfieldii voucher ROM 110706 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

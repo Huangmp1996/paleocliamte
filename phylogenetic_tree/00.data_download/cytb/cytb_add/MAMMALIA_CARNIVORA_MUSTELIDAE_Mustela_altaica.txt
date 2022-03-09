@@ -1,0 +1,7 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	AB082968.1	1185	Mustela altaica irbp gene for interphotoreceptor retinoid binding protein, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	NC_021751.1	16521	Mustela altaica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	KC815122.1	16521	Mustela altaica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	AB026100.1	1140	Mustela altaica mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	AB051255.1	402	Mustela altaica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH149HS1518
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	AB051254.1	402	Mustela altaica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH148HS1517
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	AB051239.1	1140	Mustela altaica mitochondrial cytb gene for cytochrome b, complete cds, isolate: TH147HS1516

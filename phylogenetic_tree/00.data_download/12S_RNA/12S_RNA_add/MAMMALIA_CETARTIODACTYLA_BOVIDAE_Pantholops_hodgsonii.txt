@@ -1,0 +1,6 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	NC_007441.1	16498	Pantholops hodgsonii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	DQ191826.1	16498	Pantholops hodgsonii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	AF400659.1	956	Pantholops hodgsoni 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	AF400658.1	1424	Pantholops hodgsoni 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	AF401512.1	438	Pantholops hodgsonii 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	U86976.1	241	Pantholops hodgsoni 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

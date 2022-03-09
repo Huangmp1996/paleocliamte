@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_STENOSTIRIDAE_Culicicapa_ceylonensis	MK598896.1	601	Culicicapa ceylonensis voucher SR2016-635 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STENOSTIRIDAE_Culicicapa_ceylonensis	NC_042191.1	16851	Culicicapa ceylonensis mitochondrion, complete genome
+AVES_PASSERIFORMES_STENOSTIRIDAE_Culicicapa_ceylonensis	MH880820.1	16851	Culicicapa ceylonensis mitochondrion, complete genome
+AVES_PASSERIFORMES_STENOSTIRIDAE_Culicicapa_ceylonensis	EF422247.1	1176	Culicicapa ceylonensis cytohrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STENOSTIRIDAE_Culicicapa_ceylonensis	JQ174591.1	652	Culicicapa ceylonensis voucher USNM:Birds:631817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STENOSTIRIDAE_Culicicapa_ceylonensis	JQ174590.1	652	Culicicapa ceylonensis voucher USNM:Birds:586589 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

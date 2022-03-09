@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	NC_051558.1	16914	Nucifraga caryocatactes mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	MT506195.1	16914	Nucifraga caryocatactes mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	JQ864467.1	1041	Nucifraga caryocatactes voucher NRM 20036577 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	JQ023995.1	1029	Nucifraga caryocatactes voucher ZMUC 138408 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

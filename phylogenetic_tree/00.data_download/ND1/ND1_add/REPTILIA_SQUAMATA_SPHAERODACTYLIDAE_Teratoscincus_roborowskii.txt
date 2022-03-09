@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	NC_053655.1	16693	Teratoscincus roborowskii mitochondrion, complete genome
+REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	MT107158.1	16693	Teratoscincus roborowskii mitochondrion, complete genome
+REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	KP115216.1	16635	Teratoscincus roborowskii voucher XF001 mitochondrion, complete genome
+REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	AF114252.1	1768	Teratoscincus roborowskii voucher CAS:HERP:171203 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

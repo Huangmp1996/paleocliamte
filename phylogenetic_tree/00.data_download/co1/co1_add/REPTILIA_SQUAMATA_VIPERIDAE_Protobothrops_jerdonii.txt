@@ -1,0 +1,16 @@
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	MK064879.1	657	Protobothrops jerdonii voucher CHS787 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	MK064809.1	657	Protobothrops jerdonii voucher CHS669 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	MK064742.1	657	Protobothrops jerdonii voucher CHS350 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403656.1	655	Protobothrops jerdonii voucher GP1085 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403655.1	635	Protobothrops jerdonii voucher GP1084 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403654.1	637	Protobothrops jerdonii voucher GP855 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403653.1	648	Protobothrops jerdonii voucher GP853 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403652.1	655	Protobothrops jerdonii voucher GP346 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403651.1	656	Protobothrops jerdonii voucher GP345 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403650.1	644	Protobothrops jerdonii voucher GP13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403649.1	642	Protobothrops jerdonii voucher GP12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KP403648.1	657	Protobothrops jerdonii voucher GP9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KF170929.1	1546	Protobothrops jerdonii cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	JX233624.1	658	Protobothrops jerdonii isolate PJ1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	NC_021402.1	17239	Protobothrops jerdonii mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KC112560.1	17239	Protobothrops jerdonii mitochondrion, complete genome

@@ -1,0 +1,17 @@
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	LC619130.1	658	Nyctereutes procyonoides viverrinus FA_51 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	MG256392.1	16714	Nyctereutes procyonoides mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KX467624.1	609	Nyctereutes procyonoides cytochrome c oxidase subunit II (COX2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KX467623.1	595	Nyctereutes procyonoides cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	JN703388.1	471	Nyctereutes procyonoides isolate COX123 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	GU256221.1	16713	Nyctereutes procyonoides mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	AF028197.1	588	Nyctereutes procyonoides cytochrome c oxidase subunit I (COI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KP992976.1	516	Nyctereutes procyonoides isolate NP8 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KP992975.1	516	Nyctereutes procyonoides isolate NP7 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KP992974.1	516	Nyctereutes procyonoides isolate NP6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KP992973.1	516	Nyctereutes procyonoides isolate NP5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KP992972.1	516	Nyctereutes procyonoides isolate NP4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KP992971.1	516	Nyctereutes procyonoides isolate NP3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KP992970.1	516	Nyctereutes procyonoides isolate NP2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KP992969.1	516	Nyctereutes procyonoides isolate NP1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KF709435.1	16802	Nyctereutes procyonoides koreensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	NC_013700.1	16713	Nyctereutes procyonoides mitochondrion, complete genome

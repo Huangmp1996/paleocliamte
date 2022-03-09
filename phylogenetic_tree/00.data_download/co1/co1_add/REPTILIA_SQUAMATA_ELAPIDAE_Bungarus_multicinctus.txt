@@ -1,0 +1,100 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MZ031514.1	202	Bungarus multicinctus voucher BSM12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MZ031441.1	658	Bungarus multicinctus voucher BSF12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165159.1	613	Bungarus multicinctus wanghaotingi voucher JK20181101 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165158.1	613	Bungarus multicinctus wanghaotingi voucher CIB ML20170801 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165157.1	613	Bungarus multicinctus wanghaotingi voucher CIB MLMY20170801 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165154.1	613	Bungarus multicinctus voucher CIB DL18090210 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165153.1	613	Bungarus multicinctus voucher CIB DL18090209 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165152.1	613	Bungarus multicinctus voucher CIB104228 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165151.1	613	Bungarus multicinctus voucher CIB93923 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165150.1	613	Bungarus multicinctus voucher SYNU R180305 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK064887.1	657	Bungarus multicinctus voucher CHS800 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK064808.1	657	Bungarus multicinctus voucher CHS666 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK064799.1	657	Bungarus multicinctus voucher CHS648 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK064596.1	657	Bungarus multicinctus voucher CHS024 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK064595.1	657	Bungarus multicinctus voucher CHS023 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736889.1	658	Bungarus multicinctus isolate JQS18 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736888.1	658	Bungarus multicinctus isolate JQS07 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736887.1	658	Bungarus multicinctus isolate JQS04 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736886.1	658	Bungarus multicinctus isolate JQS20 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736885.1	658	Bungarus multicinctus isolate JQA02 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736884.1	658	Bungarus multicinctus isolate JQS51 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736883.1	658	Bungarus multicinctus isolate JQS50 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736882.1	658	Bungarus multicinctus isolate JQS49 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736881.1	658	Bungarus multicinctus isolate JQS48 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736880.1	658	Bungarus multicinctus isolate JQS47 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736879.1	658	Bungarus multicinctus isolate JQS46 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736878.1	658	Bungarus multicinctus isolate JQS37 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736877.1	658	Bungarus multicinctus isolate JQS36 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736876.1	658	Bungarus multicinctus isolate JQS34 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736875.1	658	Bungarus multicinctus isolate JQS32 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736874.1	658	Bungarus multicinctus isolate JQS31 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736873.1	658	Bungarus multicinctus isolate JQA04 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736872.1	658	Bungarus multicinctus isolate JQA03 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736871.1	658	Bungarus multicinctus isolate JQM12 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736870.1	658	Bungarus multicinctus isolate JQM11 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736869.1	658	Bungarus multicinctus isolate JQS22 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736868.1	658	Bungarus multicinctus isolate JQS21 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736867.1	658	Bungarus multicinctus isolate JQM31 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736866.1	658	Bungarus multicinctus isolate JQM30 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736865.1	658	Bungarus multicinctus isolate JQM28 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736864.1	658	Bungarus multicinctus isolate JQM27 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736863.1	658	Bungarus multicinctus isolate JQM26 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736862.1	658	Bungarus multicinctus isolate JQM25 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736861.1	658	Bungarus multicinctus isolate JQM24 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736860.1	658	Bungarus multicinctus isolate JQM22 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736859.1	658	Bungarus multicinctus isolate JQM21 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736858.1	658	Bungarus multicinctus isolate JQM20 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736857.1	658	Bungarus multicinctus isolate JQM19 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736856.1	658	Bungarus multicinctus isolate JQM18 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736855.1	658	Bungarus multicinctus isolate JQM17 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736854.1	658	Bungarus multicinctus isolate JQM16 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736853.1	658	Bungarus multicinctus isolate JQM15 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736852.1	658	Bungarus multicinctus isolate JQM14 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736851.1	658	Bungarus multicinctus isolate JQM13 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736850.1	658	Bungarus multicinctus isolate JQS13 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736849.1	658	Bungarus multicinctus isolate JQS12 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736848.1	658	Bungarus multicinctus isolate JQS11 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736847.1	658	Bungarus multicinctus isolate JQM10 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736846.1	658	Bungarus multicinctus isolate JQM06 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736845.1	658	Bungarus multicinctus isolate JQM05 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736844.1	658	Bungarus multicinctus isolate JQM04 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736843.1	658	Bungarus multicinctus isolate JQM03 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736842.1	658	Bungarus multicinctus isolate JQM02 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736841.1	658	Bungarus multicinctus isolate JQS10 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736840.1	658	Bungarus multicinctus isolate JQS09 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736839.1	658	Bungarus multicinctus isolate JQS08 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736838.1	658	Bungarus multicinctus isolate JQA01 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736837.1	658	Bungarus multicinctus isolate JQS06 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736836.1	658	Bungarus multicinctus isolate JQS05 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736835.1	658	Bungarus multicinctus isolate JQS03 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736834.1	658	Bungarus multicinctus isolate JQS02 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736833.1	658	Bungarus multicinctus isolate JQS01 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736832.1	658	Bungarus multicinctus isolate JQS28 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736831.1	658	Bungarus multicinctus isolate JQM37 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736830.1	658	Bungarus multicinctus isolate JQM36 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736829.1	658	Bungarus multicinctus isolate JQM35 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736828.1	658	Bungarus multicinctus isolate JQM34 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736827.1	658	Bungarus multicinctus isolate JQM33 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736826.1	658	Bungarus multicinctus isolate JQM32 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736825.1	658	Bungarus multicinctus isolate JQM29 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736824.1	658	Bungarus multicinctus isolate JQM23 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736823.1	658	Bungarus multicinctus isolate JQM09 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736822.1	658	Bungarus multicinctus isolate JQM08 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736821.1	658	Bungarus multicinctus isolate JQM07 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG736820.1	658	Bungarus multicinctus isolate JQM01 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KP749821.1	658	Bungarus multicinctus multicinctus isolate RN1231 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KP749820.1	658	Bungarus multicinctus multicinctus isolate RN1198 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KP749818.1	658	Bungarus multicinctus multicinctus isolate RN1073 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KP749815.1	658	Bungarus multicinctus multicinctus isolate RN0893 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KP749814.1	658	Bungarus multicinctus multicinctus isolate RN0869 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KP749806.1	658	Bungarus multicinctus multicinctus isolate RN0304 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KP749805.1	658	Bungarus multicinctus multicinctus isolate RN0296 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MF099666.1	658	Bungarus multicinctus voucher YHS12 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MF099665.1	658	Bungarus multicinctus voucher YHS11 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MF099664.1	658	Bungarus multicinctus voucher YHS10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MF099663.1	658	Bungarus multicinctus voucher YHS08 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MF099662.1	658	Bungarus multicinctus voucher YHS07 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MF099661.1	658	Bungarus multicinctus voucher YHS01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	JN860065.1	658	Bungarus multicinctus isolate BM15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	JN860064.1	658	Bungarus multicinctus isolate BM14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

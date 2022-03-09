@@ -1,0 +1,12 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	MN122893.1	9562	Calidris alpina mitochondrion, partial genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	GQ481434.1	694	Calidris alpina voucher UWBM 51106 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	GQ481433.1	694	Calidris alpina voucher UWBM 49659 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	AY666415.1	654	Calidris alpina voucher MKP 2377 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	AY666371.1	694	Calidris alpina voucher JGS 1851 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	GU571777.1	648	Calidris alpina voucher BISE-Aves139 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	GU571776.1	648	Calidris alpina voucher BISE-Aves378 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	GU571298.1	749	Calidris alpina voucher NHMO-BC194 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	GU571297.1	750	Calidris alpina voucher NHMO-BC193 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	DQ432798.1	652	Calidris alpina voucher USNM 626403 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	KF946614.1	693	Calidris alpina alpina voucher ZMA58700 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_alpina	KF009520.1	886	Calidris alpina voucher 168188046 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

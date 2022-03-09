@@ -1,0 +1,30 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KU374994.1	1129	Pachytriton feii voucher KIZ04230 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KU374993.1	1129	Pachytriton feii voucher KIZ04229 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KU374992.1	1129	Pachytriton feii voucher KIZ04228 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	NC_029345.1	16293	Pachytriton feii mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT899979.1	16293	Pachytriton feii mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152407.1	1174	Pachytriton feii isolate YPX6158 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152406.1	1174	Pachytriton feii isolate YPX6157 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152405.1	1174	Pachytriton feii isolate YPX6156 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152404.1	1174	Pachytriton feii isolate YPX6155 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152403.1	1174	Pachytriton feii isolate YPX6154 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152402.1	1173	Pachytriton feii isolate 24863 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152401.1	1173	Pachytriton feii isolate 24862 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152400.1	1173	Pachytriton feii isolate 24861 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152399.1	1173	Pachytriton feii isolate 24860 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152398.1	1173	Pachytriton feii isolate 24859 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152392.1	1174	Pachytriton feii isolate MVZ230356 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152391.1	1174	Pachytriton feii isolate MVZ230355 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	KT152390.1	1174	Pachytriton feii isolate MVZ230354 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	AB638632.1	1141	Pachytriton feii mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:200805046
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	AB638631.1	1141	Pachytriton feii mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:200805014
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	AB638630.1	1141	Pachytriton feii mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:200805013
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	AB638629.1	1141	Pachytriton feii mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:200805012
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX907947.1	1170	Pachytriton feii voucher CIB 95912 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX907946.1	1170	Pachytriton feii voucher CIB 95913 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX907945.1	1170	Pachytriton feii voucher CIB 95914 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237759.1	1174	Pachytriton feii voucher KIZ 04232 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237758.1	1174	Pachytriton feii voucher KIZ 04231 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237757.1	1174	Pachytriton feii voucher KIZ 04230 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237756.1	1174	Pachytriton feii voucher KIZ 04229 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_feii	JX237755.1	1174	Pachytriton feii voucher KIZ 04228 cytochrome b (cytb) gene, complete cds; mitochondrial

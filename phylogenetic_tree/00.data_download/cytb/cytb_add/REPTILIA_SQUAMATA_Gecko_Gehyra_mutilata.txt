@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_Gecko_Gehyra_mutilata	AY217802.1	699	Gehyra mutilata isolate K6 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Gehyra_mutilata	FJ830054.1	714	Gehyra mutilata voucher GmReu1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Gehyra_mutilata	KF258137.1	369	Gehyra mutilata voucher 2011R3121 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Gehyra_mutilata	KF258135.1	368	Gehyra mutilata voucher 2011R3116 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Gehyra_mutilata	KF258116.1	333	Gehyra mutilata voucher 2011R3121 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Gehyra_mutilata	KF258115.1	333	Gehyra mutilata voucher 2011R3120 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Gehyra_mutilata	KF258114.1	333	Gehyra mutilata voucher 2011R3116 cytochrome b (CYTB) gene, partial cds; mitochondrial

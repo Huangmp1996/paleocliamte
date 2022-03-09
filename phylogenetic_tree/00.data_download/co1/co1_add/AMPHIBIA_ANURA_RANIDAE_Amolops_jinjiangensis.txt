@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_jinjiangensis	MZ292455.1	17780	Amolops jinjiangensis voucher xm6120 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_jinjiangensis	MN961404.1	570	Amolops jinjiangensis voucher KIZ047095 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_jinjiangensis	MN961403.1	570	Amolops jinjiangensis voucher SCUM050435CHX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_jinjiangensis	MN961402.1	570	Amolops jinjiangensis voucher SCUM050434CHX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_jinjiangensis	MK568316.1	633	Amolops jinjiangensis voucher SYS a004571 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_jinjiangensis	JN700803.1	602	Amolops jinjiangensis voucher SCUM050434CHX cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

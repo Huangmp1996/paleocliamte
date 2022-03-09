@@ -1,0 +1,17 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	LC465613.1	1079	Microhyla heymonsi Ry2740 mitochondrial cytb gene for cytochrome b, partial cds
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	LC465612.1	1079	Microhyla heymonsi KUHE:23856 mitochondrial cytb gene for cytochrome b, partial cds
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	LC465611.1	1079	Microhyla heymonsi KUHE:50505 mitochondrial cytb gene for cytochrome b, partial cds
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	LC090063.1	537	Microhyla heymonsi mitochondrial Cytb gene for cytochrome b, partial cds, specimen_voucher: IABHU<JPN>:21026
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	AY458596.1	16707	Microhyla heymonsi mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141546.1	512	Microhyla heymonsi isolate MicrohylaHey>Monsi_JS2_SG tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141545.1	530	Microhyla heymonsi isolate MicrohylaHey>Monsi_1153_TH tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141544.1	522	Microhyla heymonsi isolate MicrohylaHey>Monsi_JS3_SG tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141543.1	522	Microhyla heymonsi isolate MicrohylaHey>Monsi_JS6_SG tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141542.1	522	Microhyla heymonsi isolate MicrohylaHey>Monsi_1205_TH tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141541.1	522	Microhyla heymonsi isolate MicrohylaHey>Monsi_JS4_SG tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141540.1	522	Microhyla heymonsi isolate MicrohylaHey>Monsi_JS5_SG tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141539.1	521	Microhyla heymonsi isolate MicrohylaHey>Monsi_1152_TH tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141538.1	521	Microhyla heymonsi isolate MicrohylaHey>Monsi_JS8_SG tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141537.1	521	Microhyla heymonsi isolate MicrohylaHey>Monsi_JS7_SG tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	HQ141536.1	519	Microhyla heymonsi isolate MicrohylaHey>Monsi_1136_TH tRNA-Glu gene, partial sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_heymonsi	NC_006406.1	16707	Microhyla heymonsi mitochondrion, complete genome

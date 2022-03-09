@@ -1,0 +1,100 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MZ066788.1	103	Pipistrellus pipistrellus isolate 133323 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MZ066787.1	103	Pipistrellus pipistrellus isolate 133331 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MZ066786.1	103	Pipistrellus pipistrellus isolate 133330 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MZ066785.1	103	Pipistrellus pipistrellus isolate 1331522 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MZ066784.1	103	Pipistrellus pipistrellus isolate 133152 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MZ066783.1	103	Pipistrellus pipistrellus isolate 133120 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MZ066773.1	103	Pipistrellus pipistrellus isolate 133225 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045615.1	612	Pipistrellus pipistrellus isolate Px05 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045614.1	627	Pipistrellus pipistrellus isolate Px04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045613.1	612	Pipistrellus pipistrellus isolate Px03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045612.1	621	Pipistrellus pipistrellus isolate Pp25 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045611.1	621	Pipistrellus pipistrellus isolate Pp24 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045610.1	621	Pipistrellus pipistrellus isolate Pp22 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045609.1	621	Pipistrellus pipistrellus isolate Pp20 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045608.1	612	Pipistrellus pipistrellus isolate Pp12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045607.1	612	Pipistrellus pipistrellus isolate Pp11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045606.1	612	Pipistrellus pipistrellus isolate Pp10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045605.1	612	Pipistrellus pipistrellus isolate Pp09 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045604.1	663	Pipistrellus pipistrellus isolate Pp08 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045603.1	612	Pipistrellus pipistrellus isolate Pp07 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045602.1	612	Pipistrellus pipistrellus isolate Pp06 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045601.1	612	Pipistrellus pipistrellus isolate Pp04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045600.1	612	Pipistrellus pipistrellus isolate Pp03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045599.1	627	Pipistrellus pipistrellus isolate Pp02 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045598.1	612	Pipistrellus pipistrellus isolate Px104 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045597.1	612	Pipistrellus pipistrellus isolate Px103 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MN045596.1	627	Pipistrellus pipistrellus isolate Px102 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	LC426476.1	1961	Pipistrellus pipistrellus PyV-YXAF6 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	LC426475.1	1960	Pipistrellus pipistrellus PyV10-YXAC25 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	LC426473.1	2042	Pipistrellus pipistrellus PyV8-SHZC27 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MK045859.1	522	Pipistrellus pipistrellus isolate CCPp2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MK045858.1	522	Pipistrellus pipistrellus isolate CCPp1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MK045857.1	519	Pipistrellus pipistrellus isolate XYPp4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MK045856.1	520	Pipistrellus pipistrellus isolate XYPp3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MF106223.1	553	Pipistrellus pipistrellus isolate Bat31lu cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	MF106222.1	553	Pipistrellus pipistrellus isolate Bat04K cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX375162.1	721	Pipistrellus pipistrellus haplotype Jordan 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX537507.1	571	Pipistrellus pipistrellus haplotype RO3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX537506.1	571	Pipistrellus pipistrellus haplotype RO2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX537505.1	571	Pipistrellus pipistrellus haplotype RO1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085224.1	571	Pipistrellus pipistrellus haplotype SK12 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085223.1	571	Pipistrellus pipistrellus haplotype SK11 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085222.1	571	Pipistrellus pipistrellus haplotype SK10 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085221.1	571	Pipistrellus pipistrellus haplotype SK9 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085220.1	571	Pipistrellus pipistrellus haplotype SK8 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085219.1	571	Pipistrellus pipistrellus haplotype SK7 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085218.1	571	Pipistrellus pipistrellus haplotype SK6 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085217.1	571	Pipistrellus pipistrellus haplotype SK5 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085216.1	571	Pipistrellus pipistrellus haplotype SK4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085215.1	571	Pipistrellus pipistrellus haplotype SK3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085214.1	571	Pipistrellus pipistrellus haplotype SK2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	KX085213.1	571	Pipistrellus pipistrellus haplotype SK1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	JN087551.1	402	Pipistrellus pipistrellus isolate JOR4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	JN087550.1	402	Pipistrellus pipistrellus isolate JOR3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	JN087549.1	402	Pipistrellus pipistrellus isolate JOR2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	JN087548.1	402	Pipistrellus pipistrellus isolate JOR1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	EF540768.1	402	Pipistrellus pipistrellus haplotype CY2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	DQ120854.1	782	Pipistrellus pipistrellus haplotype Ppi824 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	DQ120853.1	782	Pipistrellus pipistrellus haplotype Ppi122 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	DQ120852.1	782	Pipistrellus pipistrellus haplotype Ppi238 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	DQ120851.1	782	Pipistrellus pipistrellus haplotype Ppi263 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY663801.1	402	Pipistrellus pipistrellus haplotype Ru1882055 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY663800.1	402	Pipistrellus pipistrellus haplotype Ru1813035 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY663799.1	402	Pipistrellus pipistrellus haplotype Ru1807055 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582294.1	402	Pipistrellus pipistrellus haplotype JuCI_613 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582293.1	402	Pipistrellus pipistrellus haplotype JuC_2290 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582292.1	402	Pipistrellus pipistrellus haplotype Ju2x21540 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582291.1	402	Pipistrellus pipistrellus haplotype Lu_Bulh3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582290.1	402	Pipistrellus pipistrellus haplotype Ho_Kriv2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582289.1	402	Pipistrellus pipistrellus haplotype Ho_Kriv1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582288.1	402	Pipistrellus pipistrellus haplotype Jaromer cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582287.1	402	Pipistrellus pipistrellus haplotype Nova_Nesvac cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582286.1	402	Pipistrellus pipistrellus haplotype Ris_Plzen cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582285.1	402	Pipistrellus pipistrellus haplotype Be2687 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582284.1	402	Pipistrellus pipistrellus haplotype Be2682 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY582283.1	402	Pipistrellus pipistrellus haplotype be2646 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY426100.1	402	Pipistrellus pipistrellus haplotype Be_2444_17 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY426099.1	402	Pipistrellus pipistrellus haplotype Be_2284_15 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY426098.1	402	Pipistrellus pipistrellus haplotype Be_2241_14 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY426097.1	402	Pipistrellus pipistrellus haplotype St_VII_830 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY426096.1	402	Pipistrellus pipistrellus haplotype Be_1949_6 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY426095.1	402	Pipistrellus pipistrellus haplotype St_68279_1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY426094.1	402	Pipistrellus pipistrellus haplotype Rz_6487_5 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY426093.1	402	Pipistrellus pipistrellus haplotype Rz_6486_46 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316350.1	402	Pipistrellus pipistrellus haplotype LU_15_7 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316349.1	402	Pipistrellus pipistrellus haplotype Lu_2 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316348.1	402	Pipistrellus pipistrellus haplotype Lu_1 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316347.1	402	Pipistrellus pipistrellus haplotype H_4_01 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316346.1	402	Pipistrellus pipistrellus haplotype Rz_22801 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316345.1	402	Pipistrellus pipistrellus haplotype Rz_21484 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316344.1	402	Pipistrellus pipistrellus haplotype RZ19_8 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316343.1	402	Pipistrellus pipistrellus haplotype R_5986 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316342.1	402	Pipistrellus pipistrellus haplotype R5982 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316341.1	402	Pipistrellus pipistrellus haplotype R5990 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316340.1	402	Pipistrellus pipistrellus haplotype R_5989 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316339.1	402	Pipistrellus pipistrellus haplotype Cz_1 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316338.1	402	Pipistrellus pipistrellus haplotype RZ_3702 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316337.1	402	Pipistrellus pipistrellus haplotype Be_1903 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316336.1	402	Pipistrellus pipistrellus haplotype Be_1178 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_aladdin	AY316335.1	402	Pipistrellus pipistrellus haplotype Be_IRA35 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

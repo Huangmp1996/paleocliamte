@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	MW536265.1	658	Brachypodius atriceps voucher 659986 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	MW536220.1	658	Brachypodius atriceps voucher 659913 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	MH929246.1	651	Brachypodius atriceps atriceps voucher USNM:656313 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	MH929245.1	652	Brachypodius atriceps atriceps voucher USNM:656369 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	MH929244.1	652	Brachypodius atriceps atriceps voucher USNM:656374 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	MH929243.1	652	Brachypodius atriceps atriceps voucher USNM:656262 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	MH929242.1	652	Brachypodius atriceps atriceps voucher USNM:656278 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	KP943323.1	587	Brachypodius atriceps atriceps voucher PSUZC-AV 2014.5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	KP943322.1	587	Brachypodius atriceps atriceps voucher PSUZC-AV 2014.15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Brachypodius_atriceps	KP943321.1	587	Brachypodius atriceps atriceps voucher PSUZC-AV 2014.9 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

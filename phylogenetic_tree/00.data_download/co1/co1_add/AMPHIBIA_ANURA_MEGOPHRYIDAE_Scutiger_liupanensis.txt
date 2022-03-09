@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_liupanensis	MW021398.1	549	Scutiger liupanensis voucher KIZNX080519 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_liupanensis	MW021356.1	561	Scutiger liupanensis voucher KIZX080523 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_liupanensis	KX352261.1	16890	Scutiger liupanensis mitochondrion, partial genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_liupanensis	JN700836.1	596	Scutiger liupanensis voucher KIZ-NX080513 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_liupanensis	JN700835.1	602	Scutiger liupanensis voucher KIZ-NX080514 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_liupanensis	JN700834.1	602	Scutiger liupanensis voucher KIZ-NX080515 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

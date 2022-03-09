@@ -1,0 +1,74 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MH345726.1	16573	Ochotona thibetana sacraria mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547487.1	16379	Ochotona thibetana voucher QH12051 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547486.1	13757	Ochotona thibetana voucher BLS020 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547485.1	16442	Ochotona thibetana voucher DB13051 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547484.1	16381	Ochotona thibetana voucher LJS024 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547483.1	16377	Ochotona thibetana voucher XLH2007E01 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547482.1	16470	Ochotona thibetana voucher BCP0811 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547481.1	16381	Ochotona thibetana voucher ML12047 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547480.1	16391	Ochotona thibetana voucher RT080403 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547479.1	16382	Ochotona thibetana voucher YJDC58 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547478.1	16381	Ochotona thibetana voucher CWL031 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547477.1	16383	Ochotona thibetana voucher YN15179 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547476.1	16388	Ochotona thibetana voucher LJS16005 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547475.1	16379	Ochotona thibetana voucher BBS16005 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547474.1	16378	Ochotona thibetana voucher EB0202 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547473.1	16363	Ochotona thibetana voucher MGLL1015 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547472.1	16502	Ochotona thibetana voucher HLGBA0402 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547471.1	16388	Ochotona thibetana voucher GGS16006 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547470.1	13590	Ochotona thibetana voucher YN15006 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	MN547465.1	16488	Ochotona thibetana sacraria voucher BX17001 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KT779487.1	1140	Ochotona thibetana voucher MYL01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KT779486.1	1140	Ochotona thibetana voucher MYL02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KT779485.1	1140	Ochotona thibetana voucher MYL03 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KT779484.1	1140	Ochotona thibetana voucher MYL05 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KT779483.1	1140	Ochotona thibetana voucher MYL06 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KY024979.1	1140	Ochotona thibetana isolate SNN01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KY024978.1	1140	Ochotona thibetana isolate SN07 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KY024977.1	1140	Ochotona thibetana isolate SN05 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KY024976.1	1140	Ochotona thibetana isolate SN04 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KY024975.1	1140	Ochotona thibetana isolate SN03 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KY024974.1	1140	Ochotona thibetana isolate SN02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	JF911813.1	1140	Ochotona thibetana nangqenica voucher NMNH USNM 449092 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	JF911812.1	1140	Ochotona thibetana thibetana voucher NMNH USNM 574315 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	AF176580.1	682	Ochotona thibetana cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	AF272986.1	1140	Ochotona thibetana cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359712.1	1128	Ochotona thibetana sacraria isolate EM14032 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359711.1	1131	Ochotona thibetana sacraria isolate EM14051 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359710.1	1131	Ochotona thibetana sacraria isolate EM14031 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359600.1	1131	Ochotona thibetana isolate YN15179 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359599.1	1095	Ochotona thibetana isolate YN15153 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359598.1	1122	Ochotona thibetana isolate YN15119 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359597.1	1122	Ochotona thibetana isolate YN15118 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359596.1	1098	Ochotona thibetana isolate YN15006 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359595.1	1137	Ochotona thibetana isolate GXG0502 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359594.1	1137	Ochotona thibetana isolate SXS107 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359593.1	1137	Ochotona thibetana isolate DCYDC002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359592.1	1137	Ochotona thibetana isolate YJDC58 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359591.1	1137	Ochotona thibetana isolate ML12046 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359590.1	1137	Ochotona thibetana isolate ML12047 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359589.1	1137	Ochotona thibetana isolate QH12051 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359588.1	1137	Ochotona thibetana isolate CWL031 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359587.1	1137	Ochotona thibetana isolate RTDKH002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359586.1	1137	Ochotona thibetana isolate QH13026 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359585.1	1137	Ochotona thibetana isolate XLHSDB001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359584.1	1137	Ochotona thibetana isolate RT080501 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359583.1	1137	Ochotona thibetana isolate XLH2007E01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359582.1	1137	Ochotona thibetana isolate QH13108 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359581.1	1137	Ochotona thibetana isolate RT080403 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359580.1	1137	Ochotona thibetana isolate LDYJG02004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359579.1	1137	Ochotona thibetana isolate HLGBA0201 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359578.1	1137	Ochotona thibetana isolate HLGBA0402 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359577.1	1137	Ochotona thibetana isolate JJSB001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359576.1	1137	Ochotona thibetana isolate JJSB005 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359575.1	1137	Ochotona thibetana isolate BLS020 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359574.1	1137	Ochotona thibetana isolate SDG05005 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359573.1	1137	Ochotona thibetana isolate HLSG3100A006 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359572.1	1137	Ochotona thibetana isolate JJSA469 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359571.1	1116	Ochotona thibetana isolate JJSB078 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359570.1	1137	Ochotona thibetana isolate JJSB093 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359569.1	1137	Ochotona thibetana isolate DB13050 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359568.1	1137	Ochotona thibetana isolate DB13051 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359567.1	1137	Ochotona thibetana isolate BCP0701 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359566.1	1137	Ochotona thibetana isolate EBBA0202 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_thibetana	KU359565.1	1137	Ochotona thibetana isolate LJS024 cytochrome b (cytb) gene, partial cds; mitochondrial

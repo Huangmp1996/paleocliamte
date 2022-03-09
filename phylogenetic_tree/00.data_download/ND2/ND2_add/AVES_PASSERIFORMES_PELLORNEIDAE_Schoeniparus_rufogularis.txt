@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_rufogularis	MK567182.1	951	Alcippe rufogularis voucher SR2016-613 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_rufogularis	MK567181.1	1037	Alcippe rufogularis voucher SR2016-363 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_rufogularis	KJ455639.1	1041	Alcippe rufogularis voucher NRM:20046966 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_rufogularis	DQ861955.1	1023	Alcippe rufogularis kelleyi isolate A62 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_rufogularis	JN826654.1	1041	Alcippe rufogularis voucher AMNH DOT10750 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_rufogularis	JN826653.1	1041	Alcippe rufogularis voucher USNM 15184 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

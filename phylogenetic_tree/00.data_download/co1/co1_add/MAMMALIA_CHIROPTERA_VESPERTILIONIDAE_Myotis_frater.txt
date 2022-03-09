@@ -1,0 +1,15 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	MN339185.1	710	Myotis frater voucher MHNG 1998.053 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	NC_041638.1	17089	Myotis frater mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	MH177276.1	17089	Myotis frater mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442989.1	657	Myotis frater voucher ZMMU SVK 71-08_6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442988.1	657	Myotis frater voucher ZMMU SVK 71-08_5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442987.1	657	Myotis frater voucher PIN RVV 219 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442986.1	657	Myotis frater voucher PIN RVV 160 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442985.1	657	Myotis frater voucher PIN RVV 180 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442984.1	657	Myotis frater voucher PIN RVV 176 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442983.1	657	Myotis frater voucher PIN RVV 136 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442982.1	657	Myotis frater voucher PIN RVV 134 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442981.1	657	Myotis frater voucher PIN RVV 126 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442980.1	653	Myotis frater voucher PIN RVV 146 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442978.1	421	Myotis frater voucher ZMMU S-173263 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	JF442979.1	421	Myotis frater voucher ROM 112918 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

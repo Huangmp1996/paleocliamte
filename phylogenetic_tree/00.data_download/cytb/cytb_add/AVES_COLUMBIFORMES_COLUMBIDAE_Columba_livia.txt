@@ -1,0 +1,66 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	NC_013978.1	17229	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MN356126.1	6059	Columba livia mitochondrion, partial genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KY378739.1	1066	Columba livia voucher L579 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KY378738.1	977	Columba livia voucher L392 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KY378737.1	1062	Columba livia voucher L391 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KY378736.1	1116	Columba livia voucher L323 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	DQ054371.1	287	Columba livia cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	AY509674.1	358	Columba livia isolate RODO cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	AF182694.1	1045	Columba livia cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GU908131.1	17229	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GQ240309.1	17205	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	FJ160757.1	503	Columba livia cytochrome b gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KF964326.1	331	Columba livia cytochrome b gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP168712.1	17233	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP319029.1	17245	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KJ456240.1	1126	Columba livia voucher UWBM:66231 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP258178.1	17221	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KJ722068.1	17235	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KF926376.1	17239	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811464.1	1143	Columba livia isolate PKDRP22 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811463.1	1143	Columba livia isolate PKDRP23 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811462.1	1143	Columba livia isolate PKDRP21 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811461.1	1143	Columba livia isolate PKDRP20 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811460.1	1143	Columba livia isolate PKDRP19 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811459.1	1143	Columba livia isolate PKDRP18 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811458.1	1143	Columba livia isolate PKDRP17 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811457.1	1143	Columba livia isolate PKDRP16 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811456.1	1143	Columba livia isolate PKDRP15 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811455.1	1143	Columba livia isolate PKDRP14 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811454.1	1143	Columba livia isolate PKDRP13 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811453.1	1143	Columba livia isolate PKDRP12 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811452.1	1143	Columba livia isolate PKDRP11 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811451.1	1143	Columba livia isolate PKDRP10 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811450.1	1143	Columba livia isolate PKDRP9 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811449.1	1143	Columba livia isolate PKDRP8 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811448.1	1143	Columba livia isolate PKDRP7 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811447.1	1143	Columba livia isolate PKDRP6 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811446.1	1143	Columba livia isolate PKDRP5 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811445.1	1143	Columba livia isolate PKDRP4 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811444.1	1143	Columba livia isolate PKDRP3 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811443.1	1143	Columba livia isolate PKDRP2 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC811442.1	1143	Columba livia isolate PKDRP1 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC439261.1	411	Columba livia cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675212.1	1143	Columba livia isolate PKLK21 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675211.1	1143	Columba livia isolate PKLK20 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675210.1	1143	Columba livia isolate PKLK19 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675209.1	1143	Columba livia isolate PKLK18 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675208.1	1143	Columba livia isolate PKLK17 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675207.1	1143	Columba livia isolate PKLK16 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675206.1	1143	Columba livia isolate PKLK15 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675205.1	1143	Columba livia isolate PKLK14 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675204.1	1143	Columba livia isolate PKLK13 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675203.1	1143	Columba livia isolate PKLK12 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675202.1	1143	Columba livia isolate PKLK11 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675201.1	1143	Columba livia isolate PKLK10 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675200.1	1143	Columba livia isolate PKLK9 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675199.1	1143	Columba livia isolate PKLK8 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675198.1	1143	Columba livia isolate PKLK7 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675197.1	1143	Columba livia isolate PKLK6 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675196.1	1143	Columba livia isolate PKLK5 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675195.1	1143	Columba livia isolate PKLK4 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675194.1	1143	Columba livia isolate PKLK3 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675193.1	1143	Columba livia isolate PKLK2 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC675192.1	1143	Columba livia isolate PKLK1 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	FJ498993.1	520	Columba livia cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	FM207563.1	356	Columba livia mitochondrial partial cytb gene for cytochrome b, breed Meghalaya-local

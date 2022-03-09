@@ -1,0 +1,11 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	MT985383.1	17035	Myotis bombinus isolate JBMt mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	MT985382.1	17036	Myotis bombinus isolate JJMt mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	MG897533.1	1091	Myotis bombinus voucher Mbom78RU cytochrome b (cyb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	MG897532.1	1091	Myotis bombinus voucher Mbom71RU cytochrome b (cyb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	KX467609.1	1140	Myotis bombinus voucher JL-001 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	EF555240.1	1140	Myotis bombinus haplotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	EF555239.1	1140	Myotis bombinus haplotype 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	NC_029342.1	17128	Myotis bombinus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	KT818621.1	17128	Myotis bombinus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	KF312503.1	1037	Myotis bombinus amurensis voucher ZMMU:176148 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	AM284169.1	1037	Myotis bombinus amurensis mitochondrial partial cytb gene for cytochrome b, specimen voucher ZMMU S-176148 (Zoological Mus. of Moscow State Univ.)

@@ -1,0 +1,9 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	MG747670.1	957	Barbastella leucomelas isolate HN2016 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	KU922959.1	957	Barbastella leucomelas NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	EF534774.1	880	Barbastella leucomelas voucher Flw007 (IOZ-BRG-FLW007) NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	EF534773.1	880	Barbastella leucomelas voucher B030050N NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	EF534772.1	880	Barbastella leucomelas voucher chu189N NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	EF534771.1	880	Barbastella leucomelas voucher B050025N NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	DQ915030.1	885	Barbastella leucomelas isolate Bleu4722_ET NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	DQ915029.1	900	Barbastella leucomelas isolate Bleu4964_ET NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_leucomelas	AB079816.1	957	Barbastella leucomelas mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

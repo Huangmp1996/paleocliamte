@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	NC_053908.1	18475	Pseudoxenodon stejnegeri mitochondrion, complete genome
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MW018358.1	18475	Pseudoxenodon stejnegeri mitochondrion, complete genome
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK198975.1	1026	Pseudoxenodon stejnegeri voucher CHS572 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK198927.1	1026	Pseudoxenodon stejnegeri voucher CHS221 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK198923.1	1026	Pseudoxenodon stejnegeri voucher CHS214 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

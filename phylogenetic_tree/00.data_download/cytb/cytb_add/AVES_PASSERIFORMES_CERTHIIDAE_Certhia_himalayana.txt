@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	NC_053710.1	16852	Certhia himalayana mitochondrion, complete genome
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	MN624167.1	16852	Certhia himalayana mitochondrion, complete genome
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	DQ196408.1	512	Certhia himalayana voucher MAR 4734 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	DQ196407.1	512	Certhia himalayana voucher MAR 4717 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	DQ196406.1	512	Certhia himalayana voucher MAR 4558 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	DQ196390.1	512	Certhia himalayana voucher MAR 3318 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	DQ196385.1	512	Certhia himalayana voucher MAR 3241 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	DQ196366.1	512	Certhia himalayana voucher MAR 3319 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	DQ196365.1	512	Certhia himalayana voucher MAR 1561 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	KJ456217.1	1143	Certhia himalayana cytochrome b (cytb) gene, complete cds; mitochondrial

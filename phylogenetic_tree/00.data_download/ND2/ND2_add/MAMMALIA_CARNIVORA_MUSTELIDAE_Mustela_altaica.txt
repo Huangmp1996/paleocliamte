@@ -1,0 +1,3 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	NC_021751.1	16521	Mustela altaica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	KC815122.1	16521	Mustela altaica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_altaica	AB564144.1	1044	Mustela altaica mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Alexei P. Kyukov:AK805

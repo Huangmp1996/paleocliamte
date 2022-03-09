@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	DQ466882.1	1041	Sturnus nigricollis voucher NRM VNM2002-067 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	EF468174.1	1041	Sturnus nigricollis isolate Gracupicanig105473 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	EF468173.1	1041	Sturnus nigricollis isolate GracupicanigB5709 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	NC_020423.1	16839	Sturnus nigricollis mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	JQ003192.1	16841	Sturnus nigricollis voucher AHNU:A0036 mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	JQ003191.1	16839	Sturnus nigricollis voucher AHNU:A0200 mitochondrion, complete genome

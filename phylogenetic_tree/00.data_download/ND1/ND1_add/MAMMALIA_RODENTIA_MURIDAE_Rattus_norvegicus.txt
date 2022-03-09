@@ -1,0 +1,76 @@
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	NM_001276441.1	1035	Rattus norvegicus NADH:ubiquinone oxidoreductase complex assembly factor 6 (Ndufaf6), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	NM_001108618.1	3045	Rattus norvegicus KRIT1, ankyrin repeat containing (Krit1), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	NM_001047085.1	1365	Rattus norvegicus influenza virus NS1A binding protein (Ivns1abp), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	MW209726.1	16315	Rattus norvegicus voucher EBD2012064590 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	NC_001665.2	16313	Rattus norvegicus strain BN/SsNHsdMCW mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	EU104724.1	957	Rattus norvegicus UChB lineage NADH dehydrogenase subunit 1 (Nd1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	EU104717.1	957	Rattus norvegicus UChA lineage NADH dehydrogenase subunit 1 (Nd1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	AY769440.1	16309	Rattus norvegicus strain F344 x BN F1 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	HM152028.1	16316	Rattus norvegicus strain MNS mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	HM152027.1	16316	Rattus norvegicus strain LEW/NCrlBR mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	GU997610.2	16312	Rattus norvegicus strain SHR/Hsd/MCO mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	GU997609.2	16314	Rattus norvegicus strain AS mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	GU997608.1	16309	Rattus norvegicus strain SS/Jr mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	GU997611.1	16309	Rattus norvegicus strain SR/Jr mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919760.1	16315	Rattus norvegicus strain BBDP/Rhw mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919771.1	16311	Rattus norvegicus strain BBDR/Rhw mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919770.1	16314	Rattus norvegicus strain MHS/Gib mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919769.1	16314	Rattus norvegicus strain SHRSP mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919768.1	16315	Rattus norvegicus strain SHR/Mol mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919767.1	16315	Rattus norvegicus strain WK/Kyoto mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919766.1	16314	Rattus norvegicus strain GK/KyoSwe mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919765.1	16313	Rattus norvegicus strain Wild/Swe mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919764.1	16309	Rattus norvegicus strain L4 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919763.1	16309	Rattus norvegicus strain B mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919762.1	16309	Rattus norvegicus strain PVG/OlaHsd mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919761.1	16310	Rattus norvegicus strain F344/DuCrl2Swe mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	FJ919759.1	16311	Rattus norvegicus strain Lew/Ztm mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	AF545831.1	258	Rattus norvegicus 69-C11 protein mRNA, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673917.1	16307	Rattus norvegicus strain Wild/Tku mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673916.1	16311	Rattus norvegicus strain Wild/Mcwi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673915.1	16310	Rattus norvegicus strain T2DN/Mcwi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673914.1	16309	Rattus norvegicus strain SS/JrHsd/Mcwi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673913.1	16314	Rattus norvegicus strain GK/Swe mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673912.1	16312	Rattus norvegicus strain GK/Far mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673911.1	16314	Rattus norvegicus strain GH/OmrMcwi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673910.1	16310	Rattus norvegicus strain FHH/Eur mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673909.1	16309	Rattus norvegicus strain F344/NHsd mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673908.1	16309	Rattus norvegicus strain ACI/Eur mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	DQ673907.1	16315	Rattus norvegicus strain WKY/NCrl mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM114605.1	16307	Rattus norvegicus isolate 56 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM114608.1	16311	Rattus norvegicus isolate 87 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM114607.1	16307	Rattus norvegicus isolate 41 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM114606.1	16311	Rattus norvegicus isolate 37 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM114604.1	16312	Rattus norvegicus isolate 451 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KP244683.1	16320	Rattus norvegicus isolate 115 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KP241960.1	16339	Rattus norvegicus strain YiZ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KP233827.1	16310	Rattus norvegicus strain LiN mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KP233832.1	16321	Rattus norvegicus strain SHR/Mes mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM820837.1	16314	Rattus norvegicus isolate 78 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM820835.1	16318	Rattus norvegicus isolate 62 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM820834.1	16319	Rattus norvegicus isolate 436 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM820833.1	16314	Rattus norvegicus isolate 671 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM820832.1	16305	Rattus norvegicus isolate 406 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM820831.1	16310	Rattus norvegicus isolate 357 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KP100657.1	16310	Rattus norvegicus strain SH mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KP099715.1	16317	Rattus norvegicus strain SHH mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM657953.1	16316	Rattus norvegicus isolate 91 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM657952.1	16306	Rattus norvegicus isolate 65 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM577634.1	16302	Rattus norvegicus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM577635.1	16316	Rattus norvegicus isolate 67 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM114603.1	16309	Rattus norvegicus isolate 354 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM009114.1	16308	Rattus norvegicus isolate 126 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM009113.1	16312	Rattus norvegicus isolate 89 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KM009112.1	16314	Rattus norvegicus isolate 384 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KJ939361.1	16308	Rattus norvegicus isolate 108 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KJ939360.1	16310	Rattus norvegicus isolate 94 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KJ530565.1	16319	Rattus norvegicus isolate C0317 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	AY172581.1	16313	Rattus norvegicus strain BN/SsNHsdMCW mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	KF011917.1	16310	Rattus norvegicus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	AC_000022.2	16300	Rattus norvegicus strain Wistar mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	JX105356.1	16309	Rattus norvegicus strain OXYS mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	JX105355.1	16309	Rattus norvegicus strain Wistar mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	AJ428514.1	16310	Rattus norvegicus complete mitochondrial genome, wild-caught animal (Copenhagen, Denmark)
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	X14848.1	16300	Rattus norvegicus mitochondrial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	X07479.1	955	Rat mitochondrial nd1 gene for NADH dehydrogenase subunit 1
+MAMMALIA_RODENTIA_MURIDAE_Rattus_norvegicus	X56833.1	281	Rat mitochondrial ND1 gene (partial) for NADH dehydrogenase, mitochondrial subunit 1

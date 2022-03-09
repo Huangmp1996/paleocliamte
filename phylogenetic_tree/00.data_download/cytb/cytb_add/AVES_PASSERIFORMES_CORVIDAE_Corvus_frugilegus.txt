@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	Y18522.2	16931	Corvus frugilegus complete mitochondrial genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	Y16885.1	1143	Corvus frugilegus mitochondrial cytB gene
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	NC_002069.2	16931	Corvus frugilegus mitochondrion, complete genome

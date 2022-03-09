@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	GQ482439.1	694	Abrornis inornata voucher UWBM 82283 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	GQ482438.1	694	Abrornis inornata voucher UWBM 51149 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	GQ482437.1	666	Abrornis inornata voucher UWBM 52519 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	GU571559.1	675	Phylloscopus inornatus voucher NHMO-BC305 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	GU571558.1	725	Phylloscopus inornatus voucher NHMO-BC444 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	GU571557.1	721	Phylloscopus inornatus voucher NHMO-BC306 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	NC_024726.1	16875	Phylloscopus inornatus voucher AHU-bird20121022 mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	KF742677.1	16875	Phylloscopus inornatus mitochondrion, complete genome

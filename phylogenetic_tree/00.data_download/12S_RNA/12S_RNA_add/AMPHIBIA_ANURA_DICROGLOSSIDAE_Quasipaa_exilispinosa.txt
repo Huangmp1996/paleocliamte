@@ -1,0 +1,32 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	NC_056269.1	17046	Quasipaa exilispinosa voucher LSU20200418001WY mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT561179.1	17046	Quasipaa exilispinosa voucher LSU20200418001WY mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	DQ283244.1	2411	Quasipaa exilispinosa voucher ZSM 759/2000 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	KF199151.1	14903	Quasipaa exilispinosa mitochondrion, partial genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989596.1	843	Quasipaa exilispinosa isolate WYE13 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989595.1	860	Quasipaa exilispinosa isolate WYE12 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989594.1	869	Quasipaa exilispinosa isolate WYE11 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989593.1	860	Quasipaa exilispinosa isolate WYE10 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989592.1	862	Quasipaa exilispinosa isolate WYE9 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989591.1	848	Quasipaa exilispinosa isolate WYE8 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989590.1	860	Quasipaa exilispinosa isolate WYE7 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989589.1	859	Quasipaa exilispinosa isolate WYE6 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989588.1	856	Quasipaa exilispinosa isolate WYE5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989587.1	859	Quasipaa exilispinosa isolate WYE4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989586.1	866	Quasipaa exilispinosa isolate WYE3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989585.1	861	Quasipaa exilispinosa isolate WYE2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989584.1	859	Quasipaa exilispinosa isolate WYE1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989583.1	867	Quasipaa exilispinosa isolate DHE7 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989582.1	864	Quasipaa exilispinosa isolate DHE6 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989581.1	868	Quasipaa exilispinosa isolate DHE5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989580.1	853	Quasipaa exilispinosa isolate DHE4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989579.1	866	Quasipaa exilispinosa isolate DHE3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989578.1	863	Quasipaa exilispinosa isolate DHE2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	JX989577.1	858	Quasipaa exilispinosa isolate DHE1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	EU979739.1	360	Paa exilispinosa voucher MVZ230391 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	EU979649.1	410	Paa exilispinosa voucher MVZ230391 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	EU979648.1	410	Paa exilispinosa voucher YNU-HU20026023 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	EU979647.1	411	Paa exilispinosa voucher YNU-HU20026022 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	DQ118484.1	558	Paa exilispinosa voucher KizYP020 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	DQ118483.1	558	Paa exilispinosa voucher KizYP019 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	DQ118440.1	368	Paa exilispinosa voucher KizYP020 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	DQ118439.1	368	Paa exilispinosa voucher KizYP019 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	AB738945.1	16762	Lepidodactylus lugubris mitochondrial DNA, complete genome, isolate: Llug1
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	MG049682.1	852	Lepidodactylus lugubris voucher HEMA-CU18 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	MG049680.1	529	Lepidodactylus lugubris voucher HEMA-CU10 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	MG049679.1	529	Lepidodactylus lugubris voucher HEMA-CU08 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	MG049677.1	832	Lepidodactylus lugubris voucher HEMA-CU01 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	LC405962.1	448	Lepidodactylus lugubris mitochondrial CYTB gene for cytochrome b, partial cds, haplotype: 5
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	LC405961.1	448	Lepidodactylus lugubris mitochondrial CYTB gene for cytochrome b, partial cds, haplotype: 4
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	LC405960.1	448	Lepidodactylus lugubris mitochondrial CYTB gene for cytochrome b, partial cds, haplotype: 3
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	LC405959.1	448	Lepidodactylus lugubris mitochondrial CYTB gene for cytochrome b, partial cds, haplotype: 2
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	LC405958.1	448	Lepidodactylus lugubris mitochondrial CYTB gene for cytochrome b, partial cds, haplotype: 1
+REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	NC_025782.1	16762	Lepidodactylus lugubris isolate Llug1 mitochondrion, complete genome

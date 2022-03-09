@@ -1,0 +1,14 @@
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	MH539887.1	685	Tachybaptus ruficollis cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	KY040011.1	685	Tachybaptus ruficollis isolate LGAVC cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	JF499170.1	539	Tachybaptus ruficollis voucher USNM:641782 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	JF498814.1	648	Tachybaptus ruficollis voucher USNM 641330 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	GU571649.1	679	Tachybaptus ruficollis voucher NHMO-BC420 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	GQ482742.1	694	Tachybaptus ruficollis voucher UWBM 61474 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	FJ661106.1	679	Tachybaptus ruficollis voucher AHNU:Y06045 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	AB843801.1	652	Tachybaptus ruficollis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO394-10
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	AB843800.1	678	Tachybaptus ruficollis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO395-10
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	AB843799.1	677	Tachybaptus ruficollis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO397-10
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	AB843211.1	675	Tachybaptus ruficollis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM834-11
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	AB843210.1	664	Tachybaptus ruficollis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM404-10
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	NC_024594.1	16688	Tachybaptus ruficollis mitochondrion, complete genome
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	KJ913674.1	16688	Tachybaptus ruficollis mitochondrion, complete genome

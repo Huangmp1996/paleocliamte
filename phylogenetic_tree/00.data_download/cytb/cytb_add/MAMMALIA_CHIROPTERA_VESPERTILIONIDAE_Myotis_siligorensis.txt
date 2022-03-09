@@ -1,0 +1,10 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	MW054883.1	1140	Myotis siligorensis voucher ZSI VMERS 601 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	MW054882.1	1140	Myotis siligorensis voucher 5 Myo sili cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	MW054871.1	413	Myotis siligorensis alticraniatus voucher HNHM 2011.13.8 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	MW054870.1	292	Myotis siligorensis alticraniatus voucher HNHM 23765 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	MW054869.1	413	Myotis siligorensis alticraniatus voucher HNHM 2011.13.7 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	FJ215679.1	1140	Myotis siligorensis cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	KF312531.1	1133	Myotis siligorensis alticraniatus voucher MHNG:1956.090 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	KF312530.1	1140	Myotis siligorensis alticraniatus voucher SMF 86174 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	KF312529.1	1140	Myotis siligorensis alticraniatus isolate GJ-tiny1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_siligorensis	KF312528.1	1140	Myotis siligorensis alticraniatus voucher ROM:110675 cytochrome b (cytb) gene, complete cds; mitochondrial

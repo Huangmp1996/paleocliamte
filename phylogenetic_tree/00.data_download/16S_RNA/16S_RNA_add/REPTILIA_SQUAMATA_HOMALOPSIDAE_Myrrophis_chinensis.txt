@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	AF499294.1	425	Myrrophis chinensis isolate 13C7 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MK194229.1	890	Myrrophis chinensis voucher CHS795 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MK194028.1	866	Myrrophis chinensis voucher CHS283 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	EF395854.1	455	Enhydris chinensis voucher ROM 31031 16S ribosomal RNA gene, partial sequence; mitochondrial

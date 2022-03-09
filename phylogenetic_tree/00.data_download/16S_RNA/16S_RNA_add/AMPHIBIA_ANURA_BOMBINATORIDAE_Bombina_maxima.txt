@@ -1,0 +1,24 @@
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	JX893181.1	18659	Bombina maxima voucher 114.68 mitochondrion, complete genome
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	NC_011049.1	18388	Bombina maxima mitochondrion, complete genome
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	AY333697.1	536	Bombina maxima 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531349.1	1953	Bombina maxima voucher IZCAS:H30094 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531348.1	1953	Bombina maxima voucher IZCAS:H30092 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531346.1	1952	Bombina maxima voucher IZCAS:H30083 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531345.1	1953	Bombina maxima voucher IZCAS:H30081 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531344.1	1952	Bombina maxima voucher IZCAS:H30079 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531342.1	1952	Bombina maxima voucher IZCAS:H30067 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531339.1	1952	Bombina maxima voucher CIB<CHN>:XM1429 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531336.1	1952	Bombina maxima voucher CIB<CHN>:XM1006 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	EU531335.1	1952	Bombina maxima voucher IZCAS:H30057 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925780.1	609	Bombina maxima isolate LF-27 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925777.1	577	Bombina maxima isolate XC1-21 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925776.1	577	Bombina maxima isolate DY1-20 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925773.1	610	Bombina maxima isolate LJ1-17 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925770.1	610	Bombina maxima isolate LF-14 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925769.1	542	Bombina maxima isolate KM2-12 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925768.1	531	Bombina maxima isolate KM1-11 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925765.1	610	Bombina maxima isolate LF2-8 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	DQ925764.1	600	Bombina maxima isolate LF1-7 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	AJ440800.1	491	Bombina maxima partial mitochondrial 16S ribosomal RNA gene
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	AJ440761.1	407	Bombina maxima mitochondrion partial 12S rRNA gene
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_maxima	AJ555151.1	379	Bombina maxima mitochondrial partial 16S rRNA gene

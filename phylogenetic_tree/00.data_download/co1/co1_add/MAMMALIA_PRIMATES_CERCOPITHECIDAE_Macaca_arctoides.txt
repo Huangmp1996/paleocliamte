@@ -1,0 +1,9 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	MT876674.1	515	Macaca arctoides voucher ZM014 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KJ690297.1	1238	Macaca arctoides voucher ZM021 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KJ690296.1	1238	Macaca arctoides voucher ZM016 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KJ690295.1	1238	Macaca arctoides voucher ZM015 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KJ690294.1	1238	Macaca arctoides voucher ZM014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KJ690293.1	1238	Macaca arctoides voucher ZM012 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KM360179.1	16559	Macaca arctoides mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	NC_025201.1	16558	Macaca arctoides mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KJ567055.1	16558	Macaca arctoides mitochondrion, complete genome

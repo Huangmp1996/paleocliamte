@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MN015126.1	1536	Takydromus sexlineatus isolate MV.LAC-12 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MG935709.1	651	Takydromus sexlineatus voucher USNM:Herp:587034 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MF631869.1	707	Takydromus sexlineatus voucher SYS r001522 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MF631868.1	707	Takydromus sexlineatus voucher SYS r001337 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MF631867.1	707	Takydromus sexlineatus voucher SYS r001336 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MF631866.1	707	Takydromus sexlineatus voucher SYS r001335 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AY248548.1	756	Takydromus sexlineatus ocellatus isolate SEX105 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AY248547.1	756	Takydromus sexlineatus ocellatus isolate SEX103 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AY248546.1	756	Takydromus sexlineatus ocellatus isolate SEX101 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	NC_022703.1	18943	Takydromus sexlineatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	KF425529.1	18943	Takydromus sexlineatus mitochondrion, complete genome

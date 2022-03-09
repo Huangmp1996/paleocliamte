@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MN239970.1	1074	Takydromus sexlineatus voucher SYS:r001336 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MN239969.1	1074	Takydromus sexlineatus voucher SYS:r001335 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MN015203.1	1143	Takydromus sexlineatus isolate MV.LAC-12 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AF206533.1	1076	Takydromus sexlineatus cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AY248472.1	702	Takydromus sexlineatus ocellatus isolate SEX105 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AY248471.1	702	Takydromus sexlineatus ocellatus isolate SEX103 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AY248470.1	702	Takydromus sexlineatus ocellatus isolate SEX101 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	GQ142142.1	1143	Takydromus sexlineatus isolate ATE-1 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	NC_022703.1	18943	Takydromus sexlineatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	KF425529.1	18943	Takydromus sexlineatus mitochondrion, complete genome

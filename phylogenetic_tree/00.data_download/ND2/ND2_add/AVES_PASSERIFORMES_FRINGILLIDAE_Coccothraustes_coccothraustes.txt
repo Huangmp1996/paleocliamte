@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KX109684.1	1041	Coccothraustes coccothraustes voucher MTD-C61158 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	FJ547508.1	1041	Coccothraustes coccothraustes voucher UAAAC svd3273 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859224.1	1041	Coccothraustes coccothraustes voucher YPM 140771 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859223.1	1041	Coccothraustes coccothraustes voucher YPM 101865 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859222.1	1041	Coccothraustes coccothraustes voucher YPM 101831 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859221.1	1041	Coccothraustes coccothraustes voucher YPM 101830 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859220.1	1041	Coccothraustes coccothraustes voucher YPM 101802 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859219.1	1041	Coccothraustes coccothraustes isolate BKS1839 voucher UWBM 49439 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859218.1	1041	Coccothraustes coccothraustes isolate BKS1742 voucher UWBM 49345 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859217.1	1041	Coccothraustes coccothraustes isolate BKS1723 voucher UWBM 49326 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859216.1	1041	Coccothraustes coccothraustes isolate BKS1686 voucher UWBM 49291 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KU859215.1	1041	Coccothraustes coccothraustes isolate BKS1610 voucher UWBM 49216 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KM078789.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	NC_025614.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	JN715446.1	1041	Coccothraustes coccothraustes NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial

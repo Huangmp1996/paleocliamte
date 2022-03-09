@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PASSERIDAE_Passer_ammodendri	MT210107.1	818	Passer ammodendri voucher MAR8787 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_ammodendri	AF230905.1	924	Passer ammodendri 244 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_ammodendri	NC_029344.1	16782	Passer ammodendri mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_ammodendri	KT895996.1	16782	Passer ammodendri mitochondrion, complete genome

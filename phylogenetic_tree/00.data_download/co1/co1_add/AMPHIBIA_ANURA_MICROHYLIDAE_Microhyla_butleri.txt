@@ -1,0 +1,19 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MH034272.1	588	Microhyla butleri voucher JL110-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MH034271.1	588	Microhyla butleri voucher JL110-2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MH034270.1	588	Microhyla butleri voucher JL110-3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MH034269.1	588	Microhyla butleri voucher JL119-2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MH034268.1	588	Microhyla butleri voucher JL119-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MG935600.1	600	Microhyla butleri voucher USNM:Herp:586948 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MG935599.1	655	Microhyla butleri voucher MBM-JBS2952 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MG935598.1	655	Microhyla butleri voucher USNM:Herp:586947 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	EF396054.1	575	Microhyla butleri voucher MVZ 223728 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KT285802.1	16720	Microhyla butleri isolate MB1 mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	NC_030049.1	16722	Microhyla butleri isolate CIbSZ20150408 mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KT972718.1	16722	Microhyla butleri isolate CIbSZ20150408 mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR087793.1	705	Microhyla butleri voucher 2006.2336 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR087792.1	705	Microhyla butleri voucher TAD_P956 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR087791.1	705	Microhyla butleri voucher 1999.5639 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR087790.1	705	Microhyla butleri voucher K754 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR087789.1	705	Microhyla butleri voucher 2006.2333 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	JN700841.1	602	Microhyla butleri voucher KIZ08101612 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	JN700840.1	602	Microhyla butleri voucher KIZ08101613 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

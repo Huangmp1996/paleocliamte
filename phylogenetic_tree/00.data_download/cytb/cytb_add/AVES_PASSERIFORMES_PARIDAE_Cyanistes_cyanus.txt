@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	AF394576.1	306	Parus cyanus yenisseensis haplotype G cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	AF394575.1	306	Parus cyanus yenisseensis haplotype G cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	AF394574.1	306	Parus cyanus tianschanicus haplotype F cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	AF394573.1	306	Parus cyanus tianschanicus haplotype G cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	AF394571.1	306	Parus cyanus cyanus haplotype F cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KX388472.1	16788	Cyanistes cyanus isolate 781 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	JN392860.1	900	Cyanistes cyanus yenisseensis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	JN392859.1	900	Cyanistes cyanus tianschanicus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KC202345.1	820	Cyanistes cyanus yenisseensis isolate MAR4016 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KC202337.1	820	Cyanistes cyanus tianschanicus isolate MAR01642 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KC202334.1	820	Cyanistes cyanus yenisseensis isolate MAR00342 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KC202332.1	820	Cyanistes cyanus cyanus isolate MAR00123 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KC202331.1	820	Cyanistes cyanus tianschanicus isolate MAR00010 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	HM185352.1	948	Cyanistes cyanus voucher IOZ781 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	HM185327.1	1201	Cyanistes cyanus voucher IOZ781 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

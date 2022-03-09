@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	MT584107.1	16464	Mustela erminea isolate DM1128 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	MW257230.1	16500	Mustela erminea mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	NC_025516.1	16471	Mustela erminea mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM091450.1	16471	Mustela erminea mitochondrion, complete genome

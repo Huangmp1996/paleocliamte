@@ -1,0 +1,19 @@
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	MN126569.1	16303	Rattus exulans voucher BOR577 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814721.1	16301	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814720.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814719.1	16080	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814718.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814717.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814716.1	16150	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814715.1	16097	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814714.1	16147	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814713.1	15993	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814712.1	16303	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814711.1	16193	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814710.1	15853	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814709.1	16300	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273711.1	16307	Rattus exulans isolate RNZAwa01 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273710.1	16307	Rattus exulans isolate RAU8480Thai mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273709.1	16307	Rattus exulans isolate RPNGYur 9Oct06 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ530564.1	16308	Rattus exulans isolate R4824 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	NC_012389.1	16307	Rattus exulans mitochondrion, complete genome

@@ -1,0 +1,2 @@
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_araneus	JX041364.1	1204	Goniurosaurus araneus voucher JFBM:15830 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp (trnW) and tRNA-Ala (trnA) genes, complete sequence; and tRNA-Asn (trnN) gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_araneus	AB308468.1	1758	Goniurosaurus araneus mitochondrial ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, COX1 genes, partial and complete cds and sequence

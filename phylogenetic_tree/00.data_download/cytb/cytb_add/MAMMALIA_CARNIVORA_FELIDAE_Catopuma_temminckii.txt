@@ -1,0 +1,90 @@
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR069101.2	403	Catopuma temminckii isolate 18H cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR069102.1	289	Catopuma temminckii isolate 17H cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR069100.1	289	Catopuma temminckii isolate 19H cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224524.1	15582	Catopuma temminckii isolate H35-TH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224529.1	15582	Catopuma temminckii isolate H40-VI mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224528.1	15582	Catopuma temminckii isolate H39-ZOO mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224527.1	15582	Catopuma temminckii isolate H38-TH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224526.1	15582	Catopuma temminckii isolate H37-TH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224525.1	15582	Catopuma temminckii isolate H36-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224523.1	15582	Catopuma temminckii isolate H34-TH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224522.1	15582	Catopuma temminckii isolate H33-FU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224521.1	15582	Catopuma temminckii isolate H32-FU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224520.1	15582	Catopuma temminckii isolate H31-FU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224519.1	15582	Catopuma temminckii isolate H30-FU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224518.1	15582	Catopuma temminckii isolate H29-FU_Amoy mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224517.1	15582	Catopuma temminckii isolate H28-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224516.1	15582	Catopuma temminckii isolate H27-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224515.1	15582	Catopuma temminckii isolate H26-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224514.1	15582	Catopuma temminckii isolate H25-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224513.1	15582	Catopuma temminckii isolate H24-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224512.1	15582	Catopuma temminckii isolate H23-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224511.1	15582	Catopuma temminckii isolate H22-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224510.1	15582	Catopuma temminckii isolate H21-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224509.1	15582	Catopuma temminckii isolate H20-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224508.1	15582	Catopuma temminckii isolate H19-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224507.1	15582	Catopuma temminckii isolate H18-CH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224506.1	15582	Catopuma temminckii isolate H17-YUN mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224505.1	15582	Catopuma temminckii isolate H16-YUN mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224504.1	15582	Catopuma temminckii isolate H15-MA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224503.1	15582	Catopuma temminckii isolate H14-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224502.1	15582	Catopuma temminckii isolate H13-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224501.1	15582	Catopuma temminckii isolate H12-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224500.1	15582	Catopuma temminckii isolate H11-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224499.1	15582	Catopuma temminckii isolate H10-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224498.1	15582	Catopuma temminckii isolate H9-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224497.1	15582	Catopuma temminckii isolate H8-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224496.1	15582	Catopuma temminckii isolate H7-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224495.1	15582	Catopuma temminckii isolate H6-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224494.1	15582	Catopuma temminckii isolate H5-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224493.1	15582	Catopuma temminckii isolate H4-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224492.1	15582	Catopuma temminckii isolate H3-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224491.1	15582	Catopuma temminckii isolate H2-SIK mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224490.1	15582	Catopuma temminckii isolate H1-SIK mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR135745.1	17070	Catopuma temminckii mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN709943.1	403	Catopuma temminckii isolate Beo1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN709942.1	409	Catopuma temminckii isolate Beo cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	AY773082.1	355	Catopuma temminckii cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	GQ458255.1	1545	Catopuma temminckii isolate AGCCOI cytochrome c oxidase subunit I (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	GQ458256.1	684	Catopuma temminckii isolate AGCCOII cytochrome c oxidase subunit II (COX2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	FJ594957.1	1140	Catopuma temminckii cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KP202267.1	16909	Catopuma temminckii isolate PTE mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	NC_027115.1	16985	Catopuma temminckii mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR132594.1	16981	Catopuma temminckii mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KP271500.1	16985	Catopuma temminckii mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR024225.1	369	Catopuma temminckii isolate 14-4R 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR024224.1	324	Catopuma temminckii isolate 13-4R 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR024223.1	383	Catopuma temminckii isolate 12-4R 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754950.1	853	Catopuma temminckii isolate PteMT9 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754949.1	853	Catopuma temminckii isolate PteMT8 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754948.1	853	Catopuma temminckii isolate PteMT7 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754947.1	853	Catopuma temminckii isolate PteMT6 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754946.1	853	Catopuma temminckii isolate PteMT5 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754945.1	853	Catopuma temminckii isolate PteMT4 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754944.1	853	Catopuma temminckii isolate PteMT3 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754943.1	853	Catopuma temminckii isolate PteMT2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754942.1	853	Catopuma temminckii isolate PteMT13 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754941.1	853	Catopuma temminckii isolate PteMT12 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754940.1	853	Catopuma temminckii isolate PteMT11 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754939.1	853	Catopuma temminckii isolate PteMT10 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KF754938.1	853	Catopuma temminckii isolate PteMT1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859069.1	371	Catopuma temminckii isolate MM_073 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859068.1	371	Catopuma temminckii isolate LA_037 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859067.1	371	Catopuma temminckii isolate LA_019 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859066.1	371	Catopuma temminckii isolate LA_017 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859065.1	371	Catopuma temminckii isolate LA_015 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859064.1	371	Catopuma temminckii isolate LA_011 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859063.1	371	Catopuma temminckii isolate LA_010 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859062.1	371	Catopuma temminckii isolate LA_009 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859061.1	371	Catopuma temminckii isolate BH_048 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859060.1	371	Catopuma temminckii isolate BH_045 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859059.1	371	Catopuma temminckii isolate BH_044 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859058.1	371	Catopuma temminckii isolate BH_041 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859057.1	371	Catopuma temminckii isolate BH_040 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859056.1	371	Catopuma temminckii isolate BH_037 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859055.1	371	Catopuma temminckii isolate BH_036 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859054.1	371	Catopuma temminckii isolate BH_026 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859053.1	323	Catopuma temminckii isolate BH_025 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859052.1	371	Catopuma temminckii isolate BH_019 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	JN859051.1	351	Catopuma temminckii isolate BH_017 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	AY773085.1	371	Catopuma temminckii 12S ribosomal RNA gene, partial sequence; mitochondrial

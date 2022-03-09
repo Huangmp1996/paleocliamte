@@ -1,0 +1,6 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	NC_044013.1	43949808	Aquila chrysaetos chrysaetos chromosome 10, bAquChr1.4, whole genome shotgun sequence
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	NC_044019.1	30610376	Aquila chrysaetos chrysaetos chromosome 16, bAquChr1.4, whole genome shotgun sequence
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	MN356391.1	2847	Aquila chrysaetos canadensis mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	NC_024087.1	17332	Aquila chrysaetos mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	KF905228.1	17332	Aquila chrysaetos mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	AB219549.1	938	Aquila chrysaetos japonica mitochondrial gene for 12S ribosomal RNA, partial sequence

@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_hainanensis	KF185032.1	1056	Odorrana hainanensis voucher HNNU 0606105 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_hainanensis	NC_034984.1	17986	Odorrana hainanensis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_hainanensis	KX056491.1	17986	Odorrana hainanensis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_hainanensis	KU840592.1	554	Odorrana hainanensis clone 16S33 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_hainanensis	KT315384.1	792	Odorrana hainanensis voucher SYSa000636 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_hainanensis	KT315383.1	983	Odorrana hainanensis voucher SYSa002260 16S ribosomal RNA gene, partial sequence; mitochondrial

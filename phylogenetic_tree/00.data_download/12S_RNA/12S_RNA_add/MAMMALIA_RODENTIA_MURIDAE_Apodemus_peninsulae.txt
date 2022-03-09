@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JN546584.1	16269	Apodemus peninsulae mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP671850.1	16457	Apodemus peninsulae mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	NC_016060.1	16269	Apodemus peninsulae mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	HQ660074.1	16266	Apodemus peninsulae mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AJ311142.1	956	Apodemus peninsulae mitochondrial 12S rRNA gene, tissue library T-668

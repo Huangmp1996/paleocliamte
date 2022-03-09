@@ -1,0 +1,6 @@
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	AY368055.1	1143	Syrmaticus humiae genotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	AF534706.1	1143	Syrmaticus humiae genotype 1 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	AF534560.1	1143	Syrmaticus humiae cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	NC_010774.1	16686	Syrmaticus humiae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	AY368069.1	1151	Syrmaticus humiae mitochondrial D-loop, partial sequence
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	AB164625.1	16686	Syrmaticus humiae mitochondrial DNA, complete genome

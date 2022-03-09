@@ -1,0 +1,37 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	MN938934.1	17062	Eutropis multifasciata mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	JF497861.1	403	Eutropis multifasciata voucher KU 302890 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350409.1	393	Eutropis multifasciata isolate DN2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350408.1	393	Eutropis multifasciata isolate DN8 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350407.1	393	Eutropis multifasciata isolate DN7 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350406.1	393	Eutropis multifasciata isolate DN1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350405.1	393	Eutropis multifasciata isolate HT1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350404.1	393	Eutropis multifasciata isolate QT1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350403.1	393	Eutropis multifasciata isolate QB2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350402.1	393	Eutropis multifasciata isolate QB1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350401.1	393	Eutropis multifasciata isolate NA3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350400.1	393	Eutropis multifasciata isolate NA2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350399.1	393	Eutropis multifasciata isolate QN8 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350398.1	393	Eutropis multifasciata isolate QN2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350397.1	393	Eutropis multifasciata isolate QN1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350396.1	393	Eutropis multifasciata isolate DL6 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350395.1	393	Eutropis multifasciata isolate DL5 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350394.1	393	Eutropis multifasciata isolate H10 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350393.1	393	Eutropis multifasciata isolate H9 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350392.1	393	Eutropis multifasciata isolate H3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350391.1	393	Eutropis multifasciata isolate H2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	KT350390.1	385	Eutropis multifasciata isolate H1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	JQ767981.1	331	Eutropis multifasciata voucher CES09/925 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	DQ239219.1	629	Mabuya multifasciata voucher FMNH 255530 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY159059.1	401	Eutropis multifasciata specimen-voucher CAS2120916 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY159058.1	409	Eutropis multifasciata specimen-voucher ZFMK50187 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY159057.1	409	Eutropis multifasciata specimen-voucher ZFMK65791 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY159056.1	409	Eutropis multifasciata specimen-voucher ZFMK70628 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY159055.1	402	Eutropis multifasciata specimen-voucher USNM54394 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY159054.1	403	Eutropis multifasciata 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY159053.1	405	Eutropis multifasciata specimen-voucher ZFMK76381 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY151441.1	382	Mabuya multifasciata isolate E111036 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY151425.1	382	Mabuya multifasciata isolate E111015 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY151424.1	382	Mabuya multifasciata isolate E111014 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY151419.1	382	Mabuya multifasciata isolate E111035 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AY151418.1	382	Mabuya multifasciata isolate E111034 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_multifasciata	AB028777.1	387	Mabuya multifasciata mitochondrial gene for 12S rRNA, partial sequence

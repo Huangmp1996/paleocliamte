@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	NC_050289.1	16961	Alcippe vinipectus mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MT263986.1	16961	Alcippe vinipectus mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MK998002.1	860	Alcippe vinipectus voucher KIZ GLGS2373 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MK998001.1	860	Alcippe vinipectus voucher KIZ GLGS2376 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MK998000.1	860	Alcippe vinipectus voucher KIZ GLGS2372 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MK997999.1	860	Alcippe vinipectus voucher KIZ GLGS2377 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MK997998.1	860	Alcippe vinipectus voucher KIZ GLGS2273 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MK997997.1	860	Alcippe vinipectus voucher KIZ GLGS5035 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MK997996.1	860	Alcippe vinipectus voucher KIZ GLGS5025 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MK997995.1	860	Alcippe vinipectus voucher KIZ GLGS2267 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	JF756840.1	1041	Alcippe vinipectus voucher NTNU T1526 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	KJ455438.1	1041	Alcippe vinipectus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	DQ861951.1	1023	Alcippe vinipectus bieti isolate A58 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	JN826495.1	1041	Alcippe vinipectus voucher CAS 95904 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	JN826494.1	1041	Alcippe vinipectus voucher AMNH DOT5655 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

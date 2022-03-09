@@ -1,0 +1,8 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KY410972.1	16214	Tamiops swinhoei voucher AMNH 114932 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KY410971.1	16126	Tamiops swinhoei voucher MSWC 218 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	JF444472.1	397	Tamiops swinhoei voucher ROM:114991 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	NC_026875.1	16513	Tamiops swinhoei mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KP027416.1	16513	Tamiops swinhoei mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	JF444258.1	657	Tamiops swinhoei voucher ROM 116098 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	JF444257.1	657	Tamiops swinhoei voucher ROM 115020 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	JF444256.1	657	Tamiops swinhoei voucher ROM 117783 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

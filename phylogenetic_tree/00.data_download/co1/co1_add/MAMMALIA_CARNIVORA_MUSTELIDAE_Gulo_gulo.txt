@@ -1,0 +1,12 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	JF443238.1	657	Gulo gulo voucher HLC-10623 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AY377151.1	1545	Gulo gulo cytochrome oxidase subunit I (COX1) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KP642034.1	1170	Gulo gulo cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KR611313.1	16575	Gulo gulo mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KF415127.1	16537	Gulo gulo mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	NC_009685.1	16541	Gulo gulo mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	JF443243.1	652	Gulo gulo voucher ROM 98618 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	JF443242.1	652	Gulo gulo voucher ROM 98619 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	JF443241.1	652	Gulo gulo voucher ROM 98620 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	JF443240.1	652	Gulo gulo voucher ROM 98621 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	JF443239.1	652	Gulo gulo voucher ROM 98622 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AM711901.1	16541	Gulo gulo complete mitochondrial genome

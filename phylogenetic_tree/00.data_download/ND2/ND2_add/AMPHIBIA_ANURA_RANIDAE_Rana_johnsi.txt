@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	NC_058599.1	17873	Rana johnsi mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ571365.1	17873	Rana johnsi mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	FJ417170.1	1059	Rana johnsi voucher FMNH 261882 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	KX269398.1	906	Rana johnsi isolate ABV-00203 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial

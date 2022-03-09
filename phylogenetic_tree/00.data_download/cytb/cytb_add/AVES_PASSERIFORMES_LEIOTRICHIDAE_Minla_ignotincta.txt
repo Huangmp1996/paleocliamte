@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	EU447097.1	846	Minla ignotincta ignotincta cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	DQ092874.1	1143	Minla ignotincta voucher GLGS091 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	HM140312.1	621	Minla ignotincta isolate 4062 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	GU139508.1	1143	Minla ignotincta voucher KIZ 04469 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	AF484867.1	477	Minla ignotincta cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	NC_030588.1	17868	Minla ignotincta mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	KT995474.1	17868	Minla ignotincta mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	KJ456344.1	1026	Minla ignotincta cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Minla_ignotincta	JN827119.1	1143	Minla ignotincta voucher KUNHM 11346 cytochrome b (CYTB) gene, complete cds; mitochondrial

@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	MH034189.1	588	Fejervarya cancrivora voucher 18179 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU652694.1	17843	Fejervarya cancrivora mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	KJ605438.1	702	Fejervarya cancrivora cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	NC_012647.1	17843	Fejervarya cancrivora mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	JN700892.1	602	Fejervarya cancrivora voucher KIZ-H007 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

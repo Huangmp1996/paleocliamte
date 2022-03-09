@@ -1,0 +1,4 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	DQ333816.1	16394	Hynobius formosanus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	AY915944.1	1454	Hynobius formosanus voucher FC13988 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	AY593171.1	1044	Hynobius formosanus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	NC_008084.1	16394	Hynobius formosanus mitochondrion, complete genome

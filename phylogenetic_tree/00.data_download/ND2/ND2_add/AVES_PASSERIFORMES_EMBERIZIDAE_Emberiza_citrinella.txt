@@ -1,0 +1,20 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	MT050810.1	1026	Emberiza citrinella NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	KX109687.1	975	Emberiza citrinella isolate MAR3479 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370042.1	1032	Emberiza citrinella haplotype Q NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370041.1	1032	Emberiza citrinella haplotype P NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370040.1	1032	Emberiza citrinella haplotype O NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370039.1	1032	Emberiza citrinella haplotype N NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370038.1	1032	Emberiza citrinella haplotype M NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370037.1	1032	Emberiza citrinella haplotype L NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370036.1	1032	Emberiza citrinella haplotype K NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370035.1	1032	Emberiza citrinella haplotype J NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370034.1	1032	Emberiza citrinella haplotype I NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370033.1	1032	Emberiza citrinella haplotype H NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370032.1	1032	Emberiza citrinella haplotype G NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370031.1	1032	Emberiza citrinella haplotype F NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370030.1	1032	Emberiza citrinella haplotype E NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370029.1	1032	Emberiza citrinella haplotype D NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370028.1	1032	Emberiza citrinella haplotype C NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370027.1	1032	Emberiza citrinella haplotype B NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370026.1	1032	Emberiza citrinella haplotype A NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_citrinella	GQ370018.1	1008	Emberiza citrinella NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

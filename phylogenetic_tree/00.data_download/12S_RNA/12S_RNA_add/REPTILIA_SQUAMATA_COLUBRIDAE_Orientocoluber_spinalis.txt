@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	NC_049067.1	17196	Orientocoluber spinalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	MT304473.1	17196	Orientocoluber spinalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	JQ815349.1	600	Hierophis spinalis voucher NIBRRP0000100287 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	AY541509.1	591	Hierophis spinalis voucher MHNG 2443.5 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	AY541508.1	591	Hierophis spinalis voucher MVZ 211019 12S ribosomal RNA gene, partial sequence; mitochondrial

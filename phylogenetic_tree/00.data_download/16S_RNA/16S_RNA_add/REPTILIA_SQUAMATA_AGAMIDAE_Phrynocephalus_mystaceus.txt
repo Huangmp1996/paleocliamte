@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_mystaceus	MH047796.1	497	Phrynocephalus mystaceus voucher DW010DE01002 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_mystaceus	MH047795.1	497	Phrynocephalus mystaceus voucher DW010DE01001 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_mystaceus	JX668218.1	497	Phrynocephalus mystaceus voucher MVZ 245941 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_mystaceus	KC578685.1	16660	Phrynocephalus mystaceus mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_mystaceus	AY053822.1	502	Phrynocephalus mystaceus isolate TP 22375 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

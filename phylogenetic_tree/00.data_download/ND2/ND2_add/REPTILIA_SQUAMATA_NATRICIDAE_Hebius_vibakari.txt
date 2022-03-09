@@ -1,0 +1,3 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_vibakari	MK198889.1	1023	Hebius vibakari voucher CHS149 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_vibakari	AB989303.1	979	Hebius vibakari mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_vibakari	KP684155.1	17259	Hebius vibakari ruthveni mitochondrion, complete genome

@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	KU140668.1	16622	Tadorna tadorna mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	NC_024750.1	16604	Tadorna tadorna mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	KJ794187.1	16604	Tadorna tadorna breed Lin Wu mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	KC984272.1	218	Tadorna tadorna 16S ribosomal RNA gene, partial sequence; mitochondrial

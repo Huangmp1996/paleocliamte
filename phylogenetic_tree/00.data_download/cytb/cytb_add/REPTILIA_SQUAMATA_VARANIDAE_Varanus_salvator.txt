@@ -1,0 +1,25 @@
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU145737.1	348	Varanus salvator voucher VS02 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU145736.1	348	Varanus salvator voucher VS01 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU621812.1	295	Varanus salvator isolate VS01 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU747731.1	17489	Varanus salvator mitochondrion, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	JN710000.1	331	Varanus salvator isolate Kydahoa cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476595.1	369	Varanus salvator komaini isolate VSK2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476594.1	375	Varanus salvator komaini isolate VSK1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476593.1	349	Varanus salvator isolate VSS13_Th cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476592.1	369	Varanus salvator isolate VSS15 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476591.1	369	Varanus salvator isolate VSS14 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476590.1	348	Varanus salvator isolate VSS12 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476589.1	375	Varanus salvator isolate VSS11 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476588.1	371	Varanus salvator isolate VSS10 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476587.1	376	Varanus salvator isolate VSS9 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476586.1	370	Varanus salvator isolate VSS8 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476585.1	376	Varanus salvator isolate VSS7 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476584.1	364	Varanus salvator isolate VSS6 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476583.1	370	Varanus salvator isolate VSS5 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476582.1	372	Varanus salvator isolate VSS4 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476581.1	320	Varanus salvator isolate VSS3 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476580.1	370	Varanus salvator isolate VSS2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU476579.1	370	Varanus salvator isolate VSS1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AB980996.1	17715	Varanus salvator komaini mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AB980995.1	17536	Varanus salvator mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	NC_010974.1	17489	Varanus salvator mitochondrion, complete genome

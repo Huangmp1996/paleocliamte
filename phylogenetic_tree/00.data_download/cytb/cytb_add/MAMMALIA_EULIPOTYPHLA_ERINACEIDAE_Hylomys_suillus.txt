@@ -1,0 +1,19 @@
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	HQ857524.1	1140	Hylomys suillus clone 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	HQ857523.1	1140	Hylomys suillus clone 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	DQ630428.1	1116	Hylomys suillus isolate 1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009815.2	639	Hylomys suillus dorsalis cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009814.2	639	Hylomys suillus suillus strain B cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009813.2	639	Hylomys suillus suillus strain A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009812.2	639	Hylomys suillus maxi strain D cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009811.2	639	Hylomys suillus maxi strain C cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009810.2	639	Hylomys suillus maxi strain B cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009809.2	639	Hylomys suillus maxi strain A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009808.2	639	Hylomys suillus microtinus cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009807.2	639	Hylomys suillus siamensis strain C cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009806.2	639	Hylomys suillus siamensis strain B cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AH009805.2	639	Hylomys suillus siamensis strain A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	KF783149.1	1140	Hylomys suillus microtinus voucher Hyl-127/2012 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	NC_010298.1	15353	Hylomys suillus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AM905042.1	15353	Hylomys suillus mitochondrial genome, isolate T-0675
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AM905041.1	17290	Hylomys suillus complete mitochondrial genome, isolate T-1773
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AB125602.1	402	Hylomys suillus mitochondrial cytb gene for cytochrome b, partial cds

@@ -1,0 +1,3 @@
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_torqueola	MN868249.1	16723	Arborophila torqueola mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_torqueola	KP119019.1	1143	Arborophila torqueola voucher HJ01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_torqueola	AM236889.1	1143	Arborophila torqueola mitochondrial cytb gene for cytochrome b

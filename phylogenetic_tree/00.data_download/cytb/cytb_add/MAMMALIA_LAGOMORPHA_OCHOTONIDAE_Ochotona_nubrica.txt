@@ -1,0 +1,23 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN547456.1	9794	Ochotona nubrica voucher GB082602 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076045.1	1051	Ochotona nubrica isolate 6.1_Lb3885 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076042.1	1081	Ochotona nubrica isolate 6.15_Sm3743T4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076041.1	1076	Ochotona nubrica isolate 6.16_Lb3363P2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076038.1	947	Ochotona nubrica isolate 6.2_Sm3800T2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076037.1	1066	Ochotona nubrica isolate 6.20_Lb3363 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076036.1	1090	Ochotona nubrica isolate 6.3_Lm4418 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076034.1	1083	Ochotona nubrica isolate 6.6_Lb3370 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076033.1	1082	Ochotona nubrica isolate 6.7_Sm3647T1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076031.1	956	Ochotona nubrica isolate 6.9_Lb3362 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076029.1	306	Ochotona nubrica isolate 11.1_Bn3822P cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076026.1	306	Ochotona nubrica isolate 11.2_Bn3841P cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076018.1	306	Ochotona nubrica isolate 11.3_Bn3849P cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076011.1	330	Ochotona nubrica isolate 11.39_Sm3787P cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076010.1	231	Ochotona nubrica isolate 11.38_Sm3792P cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076009.1	306	Ochotona nubrica isolate 11.4_Bn3794P cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	MN076008.1	390	Ochotona nubrica isolate 11.40_Sm3794P cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	AF272991.1	1140	Ochotona nubrica cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	AY191823.1	402	Ochotona nubrica lama cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	AY191822.1	402	Ochotona nubrica lhasaensis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	JX682572.1	1140	Ochotona nubrica voucher ZMMU:S-190110 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	JX682571.1	1140	Ochotona nubrica voucher ZMMU:S-190111 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_nubrica	JX682570.1	1140	Ochotona nubrica voucher ZMMU:S-190108 cytochrome b (cytb) gene, complete cds; mitochondrial

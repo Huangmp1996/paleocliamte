@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MT211956.1	16510	Sciurus vulgaris voucher MSB:Mamm:148785 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MN122875.1	16511	Sciurus vulgaris isolate DM15 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MN122844.1	16510	Sciurus vulgaris isolate DM14 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KU962990.1	16511	Sciurus vulgaris mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB775131.1	1140	Sciurus vulgaris mitochondrial cytb gene for cytochrome b, complete cds, haplotype: SVR1
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551165.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS29
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551164.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS28
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551163.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS27
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551162.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS26
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551161.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS25
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551160.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS24
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551159.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS23
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551158.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS22
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551157.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS21
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551156.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS20
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551155.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS19
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551154.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS18
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551153.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS17
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551152.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS16
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551151.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS15
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551150.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS14
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551149.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS13
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551148.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS12
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551147.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS11
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551146.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS10
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551145.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS9
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551144.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS8
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551143.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS7
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551142.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS6
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551141.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS5
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551140.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS4
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551139.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS3
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551138.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS2
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AB551137.1	1140	Sciurus vulgaris orientis mitochondrial cytb gene for cytochrome b, complete cds, haplotype: HS1
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364740.1	480	Sciurus vulgaris fuscoater voucher CN6080 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364739.1	480	Sciurus vulgaris fuscoater voucher CN6079 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364737.1	480	Sciurus vulgaris fuscoater voucher CN6074 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364736.1	480	Sciurus vulgaris fuscoater voucher CN5857 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364735.1	480	Sciurus vulgaris fuscoater voucher CN5652 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364734.1	480	Sciurus vulgaris fuscoater voucher CN5439 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364733.1	480	Sciurus vulgaris fuscoater voucher CN4147 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364732.1	480	Sciurus vulgaris fuscoater voucher CN4092 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364731.1	480	Sciurus vulgaris fuscoater voucher CN4090 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364730.1	480	Sciurus vulgaris fuscoater voucher CN4026 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364729.1	480	Sciurus vulgaris fuscoater voucher CN4425 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364728.1	480	Sciurus vulgaris fuscoater voucher CN4421 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364727.1	480	Sciurus vulgaris fuscoater voucher CN5963 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364726.1	480	Sciurus vulgaris fuscoater voucher CN5932 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364725.1	480	Sciurus vulgaris fuscoater voucher CN5877 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364724.1	480	Sciurus vulgaris fuscoater voucher CN5679 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364723.1	480	Sciurus vulgaris fuscoater voucher CN5633 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364722.1	480	Sciurus vulgaris fuscoater voucher CN5452 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364721.1	480	Sciurus vulgaris fuscoater voucher CN5427 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364720.1	480	Sciurus vulgaris fuscoater voucher CN5293 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364719.1	480	Sciurus vulgaris fuscoater voucher CN4526 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364718.1	480	Sciurus vulgaris fuscoater voucher CN3466 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364717.1	480	Sciurus vulgaris fuscoater voucher CN3267 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364716.1	480	Sciurus vulgaris fuscoater voucher CN3290 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364715.1	480	Sciurus vulgaris fuscoater voucher F69 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364714.1	480	Sciurus vulgaris fuscoater voucher F68 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364713.1	480	Sciurus vulgaris fuscoater voucher F67 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364712.1	480	Sciurus vulgaris fuscoater voucher F55 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364711.1	480	Sciurus vulgaris fuscoater voucher F54 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364710.1	480	Sciurus vulgaris fuscoater voucher F53 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364709.1	480	Sciurus vulgaris fuscoater voucher F52 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364708.1	480	Sciurus vulgaris fuscoater voucher F51 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364707.1	480	Sciurus vulgaris fuscoater voucher RR57 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364706.1	480	Sciurus vulgaris fuscoater voucher RR56 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364705.1	480	Sciurus vulgaris fuscoater voucher RR7 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364704.1	480	Sciurus vulgaris fuscoater voucher RR3 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364703.1	301	Sciurus vulgaris fuscoater voucher CN5717 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364702.1	301	Sciurus vulgaris fuscoater voucher CN5664 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364701.1	301	Sciurus vulgaris fuscoater voucher CN4424 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364700.1	301	Sciurus vulgaris fuscoater voucher CN4423 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364699.1	301	Sciurus vulgaris fuscoater voucher CN4422 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364698.1	301	Sciurus vulgaris fuscoater voucher CN5634 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364697.1	301	Sciurus vulgaris fuscoater voucher CN4125 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364696.1	301	Sciurus vulgaris fuscoater voucher CN14955 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364695.1	301	Sciurus vulgaris fuscoater voucher CN3914 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364694.1	301	Sciurus vulgaris fuscoater voucher CN3912 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364693.1	301	Sciurus vulgaris fuscoater voucher CN2161 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364692.1	301	Sciurus vulgaris fuscoater voucher CN110 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364691.1	301	Sciurus vulgaris fuscoater voucher F71 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KF364690.1	301	Sciurus vulgaris fuscoater voucher F70 cytochrome b (CYT B) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993007.1	16412	Sciurus vulgaris fuscoater isolate 5703_NorthJutland mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993006.1	16218	Sciurus vulgaris fuscoater isolate 4420_MidJutland mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993005.1	16176	Sciurus vulgaris fuscoater isolate 5100_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993004.1	16362	Sciurus vulgaris fuscoater isolate 3163_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993003.1	16398	Sciurus vulgaris fuscoater isolate 5206_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993002.1	16398	Sciurus vulgaris fuscoater isolate 3811_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993001.1	16355	Sciurus vulgaris fuscoater isolate 5099_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993000.1	16438	Sciurus vulgaris fuscoater isolate 5280_Funen mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC992999.1	16357	Sciurus vulgaris fuscoater isolate 3094_Funen mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KJ146742.1	359	Sciurus vulgaris haplotype SvCb3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KJ146741.1	359	Sciurus vulgaris haplotype SvCb2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KJ146740.1	359	Sciurus vulgaris haplotype SvCb1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	JX457818.1	1128	Sciurus vulgaris isolate SV2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	JX457817.1	1128	Sciurus vulgaris isolate SV1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	JX482620.1	359	Sciurus vulgaris isolate BCHN8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	JX482619.1	359	Sciurus vulgaris isolate BCHN7 cytochrome b (cytb) gene, partial cds; mitochondrial

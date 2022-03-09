@@ -1,0 +1,8 @@
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_crossoptilon	DQ307005.1	1041	Crossoptilon crossoptilon NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_crossoptilon	HQ891119.1	16680	Crossoptilon crossoptilon mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_crossoptilon	GU214315.1	1023	Crossoptilon crossoptilon isolate 2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_crossoptilon	GU214314.1	1023	Crossoptilon crossoptilon isolate 4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_crossoptilon	DQ768256.1	1041	Crossoptilon crossoptilon NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_crossoptilon	KP259808.1	16680	Crossoptilon crossoptilon voucher 11797 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_crossoptilon	JQ713767.1	15939	Crossoptilon crossoptilon mitochondrion, partial genome
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_crossoptilon	NC_016679.1	16680	Crossoptilon crossoptilon mitochondrion, complete genome

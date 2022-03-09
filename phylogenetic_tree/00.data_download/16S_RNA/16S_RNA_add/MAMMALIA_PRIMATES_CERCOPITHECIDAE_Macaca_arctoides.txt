@@ -1,0 +1,7 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KM360179.1	16559	Macaca arctoides mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	NC_025201.1	16558	Macaca arctoides mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KJ567055.1	16558	Macaca arctoides mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY224244.1	1503	Macaca arctoides St0316 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY224243.1	1501	Macaca arctoides Hanoi.05.2 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY224242.1	1503	Macaca arctoides Thai.2A 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY224241.1	1503	Macaca arctoides 101.Malaya 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	NC_056389.1	17056	Dicrurus macrocercus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	MW307917.1	17056	Dicrurus macrocercus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	EF449652.1	1041	Dicrurus macrocercus isolate E78 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	JQ864458.1	1041	Dicrurus macrocercus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

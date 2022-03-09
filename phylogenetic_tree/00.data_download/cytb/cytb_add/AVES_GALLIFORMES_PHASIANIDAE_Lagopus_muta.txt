@@ -1,0 +1,49 @@
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	LC541459.1	16687	Lagopus muta japonica HN0868 mitochondrial DNA, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	LC528834.1	16687	Lagopus muta japonica mitochondrial DNA, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	KX609785.1	16687	Lagopus muta mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	NC_034002.1	16683	Lagopus muta voucher UWBM 51660 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	KY411593.1	16683	Lagopus muta voucher UWBM 51660 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156346.1	1033	Lagopus mutus specimen-voucher UWBM57899 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156345.1	1033	Lagopus mutus specimen-voucher UWBM61493 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156344.1	1033	Lagopus mutus specimen-voucher UAM 8833 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156343.1	1033	Lagopus mutus specimen-voucher UAM 11650 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156342.1	1033	Lagopus mutus specimen-voucher UAM 11504 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156341.1	1033	Lagopus mutus specimen-voucher UAM 8834 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156340.1	1033	Lagopus mutus specimen-voucher UAM 8771 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156339.1	1033	Lagopus mutus specimen-voucher UAM 8598 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156338.1	1033	Lagopus mutus specimen-voucher UAM 11861 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156337.1	1033	Lagopus mutus specimen-voucher UAM 8772 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156336.1	1033	Lagopus mutus specimen-voucher UAM 8770 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156335.1	1033	Lagopus mutus specimen-voucher UAM 8319 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156334.1	1033	Lagopus mutus specimen-voucher UAM 10026 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156333.1	1033	Lagopus mutus specimen-voucher UAM 11853 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156332.1	1033	Lagopus mutus specimen-voucher UAM 11851 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156331.1	1033	Lagopus mutus specimen-voucher UAM 11852 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156330.1	1033	Lagopus mutus specimen-voucher UAM 11643 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156329.1	1033	Lagopus mutus specimen-voucher UAM 10089 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156328.1	1033	Lagopus mutus specimen-voucher UAM 11860 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156327.1	1033	Lagopus mutus specimen-voucher UAM 11859 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156326.1	1033	Lagopus mutus specimen-voucher UAM 8311 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156325.1	1033	Lagopus mutus specimen-voucher UAM 8310 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156324.1	1033	Lagopus mutus specimen-voucher UAM 12977 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156323.1	1033	Lagopus mutus specimen-voucher UAM 11195 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156322.1	1033	Lagopus mutus specimen-voucher UAM 9335 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156321.1	1033	Lagopus mutus specimen-voucher UAM 9334 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156320.1	1033	Lagopus mutus specimen-voucher UAM 11196 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156319.1	1033	Lagopus mutus specimen-voucher UAM 8317 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156318.1	1033	Lagopus mutus specimen-voucher UAM 13162 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156317.1	1033	Lagopus mutus specimen-voucher UAM 8932 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156316.1	1033	Lagopus mutus specimen-voucher UAM 9599 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156315.1	1033	Lagopus mutus specimen-voucher UAM 8315 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156314.1	1033	Lagopus mutus specimen-voucher UAM 10095 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156313.1	1033	Lagopus mutus specimen-voucher UAM 10094 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156312.1	1033	Lagopus mutus specimen-voucher UAM 8309 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156311.1	1033	Lagopus mutus specimen-voucher UAM 8312 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156310.1	1033	Lagopus mutus specimen-voucher UAM 11620 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156309.1	1033	Lagopus mutus specimen-voucher UAM 11618 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156308.1	1033	Lagopus mutus specimen-voucher UAM 11616 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156307.1	1033	Lagopus mutus specimen-voucher UAM 11615 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156306.1	1033	Lagopus mutus specimen-voucher UAM 11617 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AY156305.1	1033	Lagopus mutus specimen-voucher UAM 8313 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AF230172.1	609	Lagopus mutus cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AF172380.1	300	Lagopus mutus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

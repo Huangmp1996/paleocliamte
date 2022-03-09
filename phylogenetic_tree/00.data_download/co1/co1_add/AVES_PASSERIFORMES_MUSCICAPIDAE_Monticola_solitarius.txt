@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	FJ465344.1	612	Monticola solitarius voucher MFUM 20044 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB843600.1	668	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO017-08
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB843599.1	680	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO302-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB843598.1	681	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO339-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB842948.1	678	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM323-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB842947.1	696	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM680-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB842946.1	658	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM306-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB842945.1	716	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM759-11
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB842944.1	645	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM024-08
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	AB842943.1	716	Monticola solitarius mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM758-11
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	JX255955.1	648	Monticola solitarius voucher MNHN 22.33 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	JQ175415.2	638	Monticola solitarius voucher USNM:Birds:635197 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	JQ175416.1	648	Monticola solitarius voucher USNM:Birds:635258 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_solitarius	JQ175414.1	648	Monticola solitarius voucher USNM:Birds:635260 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

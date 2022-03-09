@@ -1,0 +1,64 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343887.1	649	Ophiophagus hannah voucher CESS1097 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343886.1	703	Ophiophagus hannah voucher CESS1083 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343885.1	625	Ophiophagus hannah voucher CESS1061 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343884.1	646	Ophiophagus hannah voucher CESS1031 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343883.1	438	Ophiophagus hannah voucher CESS1030 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343882.1	471	Ophiophagus hannah voucher CESS1022 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343881.1	485	Ophiophagus hannah voucher CESS1015 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343880.1	517	Ophiophagus hannah voucher CESS1013 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343879.1	508	Ophiophagus hannah voucher CESS1001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343878.1	681	Ophiophagus hannah voucher 1816 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343877.1	714	Ophiophagus hannah voucher 577 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343876.1	711	Ophiophagus hannah voucher 575 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343875.1	689	Ophiophagus hannah voucher 574 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343874.1	714	Ophiophagus hannah voucher 502 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343873.1	711	Ophiophagus hannah voucher 501 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343872.1	711	Ophiophagus hannah voucher 500 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343871.1	714	Ophiophagus hannah voucher 588 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343870.1	694	Ophiophagus hannah voucher 576 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343869.1	624	Ophiophagus hannah voucher 4018 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343868.1	557	Ophiophagus hannah voucher 2925 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343867.1	641	Ophiophagus hannah voucher 2924 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343866.1	513	Ophiophagus hannah voucher 2923 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343865.1	492	Ophiophagus hannah voucher 2922 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343864.1	714	Ophiophagus hannah voucher 187 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343863.1	714	Ophiophagus hannah voucher 1821 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343862.1	714	Ophiophagus hannah voucher 1820 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343861.1	714	Ophiophagus hannah voucher 1802 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ343860.1	714	Ophiophagus hannah voucher 1060 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MZ029429.1	364	Ophiophagus hannah voucher AIWC 068 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346773.1	558	Ophiophagus hannah isolate 4018 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346772.1	545	Ophiophagus hannah isolate 2925 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346771.1	575	Ophiophagus hannah isolate 2924 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346770.1	447	Ophiophagus hannah isolate 2923 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346769.1	426	Ophiophagus hannah isolate 2922 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346768.1	649	Ophiophagus hannah isolate 1802 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346767.1	649	Ophiophagus hannah isolate 1060 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346766.1	649	Ophiophagus hannah isolate 588 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346765.1	649	Ophiophagus hannah isolate 576 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MT346764.1	649	Ophiophagus hannah isolate 187 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MN853158.1	459	Ophiophagus hannah voucher ZSI_SHT17/MZMU 1332 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MH122721.1	387	Ophiophagus hannah cytochrome b (cyt b) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AB920236.1	673	Ophiophagus hannah mitochondrial Cytb gene for cytochrome b, partial cds, isolate: OHA3
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AB920235.1	701	Ophiophagus hannah mitochondrial Cytb gene for cytochrome b, partial cds, isolate: OHA2
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AB920234.1	671	Ophiophagus hannah mitochondrial Cytb gene for cytochrome b, partial cds, isolate: OHA1
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	KX694860.1	659	Ophiophagus hannah voucher ROM_25688 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	JN709994.1	578	Ophiophagus hannah isolate SongBe cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	JN709993.1	587	Ophiophagus hannah isolate Camau cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	JN709992.1	587	Ophiophagus hannah isolate 06.2008__1 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	JN709991.1	587	Ophiophagus hannah isolate DakNong cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	DQ272476.1	307	Ophiophagus hannah cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AF217842.1	1117	Ophiophagus hannah cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	EF694840.1	394	Ophiophagus hannah cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	NC_011394.1	17267	Ophiophagus hannah mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	EU921899.1	17267	Ophiophagus hannah mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AZIM01000839.1	529772	Ophiophagus hannah scaffold840.1, whole genome shotgun sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AZIM01000868.1	550418	Ophiophagus hannah scaffold869.1, whole genome shotgun sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AZIM01001727.1	252104	Ophiophagus hannah scaffold1728.1, whole genome shotgun sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AZIM01003518.1	182596	Ophiophagus hannah scaffold3520.1, whole genome shotgun sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AZIM01005148.1	81703	Ophiophagus hannah scaffold5152.1, whole genome shotgun sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AZIM01006635.1	42500	Ophiophagus hannah scaffold6639.1, whole genome shotgun sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AZIM01006802.1	33117	Ophiophagus hannah scaffold6806.1, whole genome shotgun sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	FR871898.1	404	Ophiophagus hannah mitochondrial partial cytb gene for cytochrome b
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	FR693730.1	1048	Ophiophagus hannah mitochondrial partial cytb gene for cytochrome b
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	U96803.1	596	Ophiophagus hannah 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

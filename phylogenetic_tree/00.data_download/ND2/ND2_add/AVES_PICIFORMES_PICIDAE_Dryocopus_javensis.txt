@@ -1,0 +1,4 @@
+AVES_PICIFORMES_PICIDAE_Dryocopus_javensis	MF766643.1	1041	Dryocopus javensis voucher ZMUC 114344 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dryocopus_javensis	MF766642.1	1041	Dryocopus javensis voucher KU 20897 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dryocopus_javensis	KT204496.1	1021	Dryocopus javensis voucher KUBI 14148 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dryocopus_javensis	KT455642.1	1065	Dryocopus javensis voucher KU:110756 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

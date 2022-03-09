@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_nigriceps	DQ092873.1	1143	Stachyris nigriceps voucher GLGS1854 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_nigriceps	DQ008485.1	1038	Stachyris nigriceps yunnanensis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_nigriceps	AF376885.1	477	Stachyris nigriceps cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_nigriceps	HQ333045.1	1038	Stachyris nigriceps yunnanensis x rileyi voucher NRM:20026627 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_nigriceps	GU724394.1	1143	Stachyris nigriceps voucher KIZ:04325 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_nigriceps	DQ837528.1	1143	Stachyris nigriceps voucher GLGS1854 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_nigriceps	JN827197.1	1143	Stachyris nigriceps voucher LSUMNS B36288 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_nigriceps	JN827196.1	1143	Stachyris nigriceps voucher KUNHM 10167 cytochrome b (CYTB) gene, complete cds; mitochondrial

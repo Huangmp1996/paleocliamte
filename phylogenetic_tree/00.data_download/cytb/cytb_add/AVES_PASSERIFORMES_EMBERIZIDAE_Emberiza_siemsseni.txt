@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_siemsseni	NC_032304.1	16780	Schoeniclus siemsseni voucher LSIEM20160726 mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_siemsseni	KX809695.1	16780	Schoeniclus siemsseni voucher LSIEM20160726 mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_siemsseni	KP877760.1	488	Schoeniclus siemsseni isolate MAR4901 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_siemsseni	KC007554.1	1143	Latoucheornis siemsseni cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_siemsseni	EU325745.1	1076	Latoucheornis siemsseni cytochrome b gene, partial cds; mitochondrial

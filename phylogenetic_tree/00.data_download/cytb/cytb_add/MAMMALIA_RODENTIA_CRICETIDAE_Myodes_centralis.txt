@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_centralis	KY968281.1	1141	Myodes centralis isolate XJ289 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_centralis	DQ845185.1	1139	Clethrionomys centralis cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_centralis	KJ556626.1	1114	Myodes centralis voucher MSB:Mamm:158508 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_centralis	KJ556625.1	1114	Myodes centralis voucher MSB:Mamm:158500 cytochrome b (cytb) gene, partial cds; mitochondrial

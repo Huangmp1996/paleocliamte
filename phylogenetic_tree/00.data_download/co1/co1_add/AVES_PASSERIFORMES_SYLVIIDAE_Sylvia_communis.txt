@@ -1,0 +1,25 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	MN642350.1	648	Sylvia communis voucher MNHN 1995.231 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	MT782125.1	648	Sylvia communis isolate D cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	MT782124.1	648	Sylvia communis isolate C cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	MT782123.1	648	Sylvia communis isolate B cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	MT782122.1	648	Sylvia communis isolate A cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GQ482719.1	694	Sylvia communis voucher UWBM 66619 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GQ482718.1	694	Sylvia communis voucher UWBM 46447 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GQ482717.1	694	Sylvia communis voucher UWBM 46535 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GQ482716.1	681	Sylvia communis voucher UWBM 49249 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GQ482715.1	678	Sylvia communis voucher UWBM 49444 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GQ482714.1	675	Sylvia communis voucher UWBM 61338 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KT803680.1	648	Sylvia communis isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	HQ608881.1	1176	Sylvia communis isolate Y24 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	HQ608840.1	1143	Sylvia communis isolate Y20 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GU572120.1	636	Sylvia communis voucher BISE-Aves95 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GU572119.1	648	Sylvia communis voucher BISE-Aves445 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GU571643.1	749	Sylvia communis voucher NHMO-BC232 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GU571642.1	686	Sylvia communis voucher NHMO-BC233 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	GQ482720.1	694	Sylvia communis voucher ZMMU RYA 1923 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	FJ465366.1	612	Sylvia communis voucher ZMA 562087 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KF946880.1	693	Sylvia communis communis voucher ZMA58940 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KF946879.1	693	Sylvia communis communis voucher ZMA58939 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KF946878.1	693	Sylvia communis communis voucher ZMA58280 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KF946877.1	693	Sylvia communis communis voucher ZMA57335 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KF946876.1	693	Sylvia communis communis voucher ZMA55924 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	MK408450.1	17191	Elaphe moellendorffi mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	AF036020.1	246	Elaphe moellendorffi cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	DQ902116.1	1117	Orthriophis moellendorffi voucher LSUMZ 39260 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	KF913314.1	307	Orthriophis moellendorffi voucher S-113 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	KF913313.1	307	Orthriophis moellendorffi voucher S-112 cytochrome b (Cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,8 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	AF115892.1	273	Falco columbarius cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	NC_025579.1	17516	Falco columbarius mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	KM264304.1	17516	Falco columbarius mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	EU233051.1	941	Falco columbarius richardsonii voucher IPMB 9729 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	EU233050.1	1041	Falco columbarius columbarius voucher IPMB 9733 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	EU233049.1	1072	Falco columbarius columbarius voucher IPMB 9730 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	EU233048.1	1020	Falco columbarius aesalon voucher IPMB 2590 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_columbarius	EU233047.1	1020	Falco columbarius aesalon voucher IPMB 2484 cytochrome b (cytb) gene, partial cds; mitochondrial

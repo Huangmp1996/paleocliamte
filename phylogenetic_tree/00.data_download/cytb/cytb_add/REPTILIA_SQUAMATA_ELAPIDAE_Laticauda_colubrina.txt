@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	NC_036054.1	17450	Laticauda colubrina mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	KY496324.1	17450	Laticauda colubrina mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	KX239643.1	1137	Laticauda colubrina cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	AF217834.1	1114	Laticauda colubrina cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	D31619.1	286	Laticauda colubrina mitochondrial gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	U96799.1	628	Laticauda colubrina 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

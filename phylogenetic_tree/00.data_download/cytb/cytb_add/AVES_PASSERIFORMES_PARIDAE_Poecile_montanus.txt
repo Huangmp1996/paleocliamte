@@ -1,0 +1,87 @@
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	MN122849.1	16782	Poecile montanus mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396256.1	306	Parus montanus sachalinensis haplotype K cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396255.1	306	Parus montanus rhenanus haplotype J cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396254.1	306	Parus montanus rhenanus haplotype I cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396253.1	306	Parus montanus rhenanus haplotype D cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396252.1	306	Parus montanus rhenanus haplotype D cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396251.1	306	Parus montanus restrictus haplotype H cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396250.1	306	Parus montanus montanus haplotype G cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396249.1	306	Parus montanus montanus haplotype D cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396248.1	306	Parus montanus borealis haplotype L cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396247.1	306	Parus montanus borealis haplotype D cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396246.1	306	Parus montanus cf. montanus haplotype F cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396245.1	306	Parus montanus cf. montanus haplotype D cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396244.1	306	Parus montanus baicalensis haplotype E cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396243.1	306	Parus montanus baicalensis haplotype D cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396242.1	306	Parus montanus baicalensis haplotype D cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396241.1	306	Parus montanus affinis haplotype C cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396240.1	306	Parus montanus affinis haplotype B cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AF396239.1	306	Parus montanus affinis haplotype A cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746160.1	943	Poecile montanus isolate PMo1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746159.1	943	Poecile montanus isolate PMo31 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746158.1	943	Poecile montanus isolate PMo5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746157.1	943	Poecile montanus isolate PMo6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746156.1	943	Poecile montanus isolate PMo8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746155.1	943	Poecile montanus isolate PMo9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746154.1	943	Poecile montanus isolate PMo10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746153.1	943	Poecile montanus isolate PMo11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746152.1	943	Poecile montanus isolate PMo12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746151.1	943	Poecile montanus isolate PMo13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746150.1	943	Poecile montanus isolate PMo14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746149.1	943	Poecile montanus isolate PMo15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746148.1	943	Poecile montanus isolate PMo16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746147.1	943	Poecile montanus isolate PMo17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746146.1	943	Poecile montanus isolate PMo19 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746145.1	943	Poecile montanus isolate PMo20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746144.1	943	Poecile montanus isolate PMo22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746143.1	943	Poecile montanus isolate PMo23 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746142.1	943	Poecile montanus isolate PMo24 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746141.1	943	Poecile montanus isolate PMo26 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746140.1	943	Poecile montanus isolate PMo28 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746139.1	943	Poecile montanus isolate PMo29 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746138.1	943	Poecile montanus isolate PMo30 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746137.1	943	Poecile montanus isolate PMo25 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746136.1	943	Poecile montanus isolate PMo32 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746135.1	943	Poecile montanus isolate PMo33 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746134.1	943	Poecile montanus isolate PMo34 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746133.1	943	Poecile montanus isolate PMo35 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746132.1	943	Poecile montanus isolate PMo36 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746131.1	943	Poecile montanus isolate PMo37 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746130.1	943	Poecile montanus isolate PMo38 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746129.1	943	Poecile montanus isolate PMo39 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746128.1	943	Poecile montanus isolate PMo40 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746127.1	943	Poecile montanus isolate PMo41 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746126.1	943	Poecile montanus isolate PMo42 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746125.1	943	Poecile montanus isolate PMo43 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746124.1	943	Poecile montanus isolate PMo51 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746123.1	943	Poecile montanus isolate PMo52 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746122.1	943	Poecile montanus isolate PMo53 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746121.1	943	Poecile montanus isolate PMo54 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746120.1	943	Poecile montanus isolate PMo57 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746119.1	943	Poecile montanus isolate PMo58 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746118.1	943	Poecile montanus isolate PMo59 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746117.1	943	Poecile montanus isolate PMo60 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746116.1	943	Poecile montanus isolate PMo61 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746115.1	943	Poecile montanus isolate PMo62 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746114.1	943	Poecile montanus isolate PMo63 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746113.1	943	Poecile montanus isolate PMo55 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU746112.1	943	Poecile montanus isolate PMo56 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX388479.1	16783	Poecile montanus baicalensis isolate 6712 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX388478.1	16783	Poecile montanus isolate 12025 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	DQ119541.1	701	Parus montanus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185342.1	1201	Poecile montanus voucher IOZ2178 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	DQ792792.1	1143	Parus montanus isolate 92 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	DQ792791.1	1143	Parus montanus isolate 91 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	DQ792790.1	1143	Parus montanus isolate 90 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	JF828075.1	830	Poecile montanus kamtschatkensis isolate 4844 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	JF828073.1	830	Poecile songarus affinis isolate 403 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	JF828071.1	830	Poecile montanus voucher MTD C56819 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	U60776.1	439	Parus montanus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	U60775.1	439	Parus montanus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185366.1	948	Poecile montanus voucher IOZ2178 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185365.1	948	Poecile montanus voucher IOZ2237 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185364.1	948	Poecile montanus voucher IOZ5945 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185363.1	948	Poecile montanus voucher IOZ5944 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185317.1	1201	Poecile montanus voucher IOZ5944 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185316.1	1201	Poecile montanus voucher IOZ5945 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185315.1	1201	Poecile montanus voucher IOZ2237 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

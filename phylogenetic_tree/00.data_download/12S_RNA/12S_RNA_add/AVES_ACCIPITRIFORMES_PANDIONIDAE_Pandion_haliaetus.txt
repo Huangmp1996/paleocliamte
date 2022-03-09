@@ -1,0 +1,7 @@
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	MN356325.1	18153	Pandion haliaetus mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	DQ780884.1	17864	Pandion haliaetus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	NC_008550.1	17864	Pandion haliaetus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	EU167063.1	970	Pandion haliaetus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	AB219554.1	940	Pandion haliaetus haliaetus mitochondrial gene for 12S ribosomal RNA, partial sequence
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	U83725.1	973	Pandion haliaetus 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	U88018.1	392	Pandion haliaetus 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene, partial sequence

@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	NC_046948.1	16761	Turdus cardis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	MN865118.1	16761	Turdus cardis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	DQ911069.1	1035	Turdus cardis NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

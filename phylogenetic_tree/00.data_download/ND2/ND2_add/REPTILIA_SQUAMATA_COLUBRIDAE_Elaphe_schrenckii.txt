@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	MK198885.1	1026	Elaphe schrenckii voucher CHS136 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	MK198884.1	1026	Elaphe schrenckii voucher CHS135 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	DQ902233.1	1032	Elaphe schrenckii NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	NC_027605.1	17165	Elaphe schrenckii voucher HRB14061802 mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	KP888955.1	17165	Elaphe schrenckii voucher HRB14061802 mitochondrion, complete genome

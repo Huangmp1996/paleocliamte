@@ -1,0 +1,68 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	Y10732.1	1041	P.pulcher mitochondrial cytb gene, partial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	MH079333.1	1063	Phylloscopus pulcher voucher VH B829 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	MH079332.1	1031	Phylloscopus pulcher pulcher voucher IOZ 17475 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	MH079331.1	1075	Phylloscopus pulcher pulcher voucher DZUG U517 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	AY635059.1	1038	Phylloscopus pulcher pulcher cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	AY583270.1	442	Phylloscopus pulcher isolate 90029PUL cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	AY583269.1	442	Phylloscopus pulcher isolate 00918PUL cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	L77133.1	910	Phylloscopus pulcher cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	HQ608864.1	1176	Phylloscopus pulcher isolate Y7 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	HQ608826.1	1143	Phylloscopus pulcher isolate Y6 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ456396.1	1003	Phylloscopus pulcher cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567596.1	1022	Phylloscopus pulcher isolate 90173 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567595.1	1022	Phylloscopus pulcher isolate 90172 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567594.1	1022	Phylloscopus pulcher isolate 90151 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567593.1	826	Phylloscopus pulcher isolate 90029 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567592.1	1022	Phylloscopus pulcher isolate 08108 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567591.1	731	Phylloscopus pulcher isolate 07347 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567590.1	1011	Phylloscopus pulcher isolate 07343 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567589.1	1021	Phylloscopus pulcher isolate 07342 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567588.1	1022	Phylloscopus pulcher isolate 07341 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567587.1	1021	Phylloscopus pulcher isolate 07340 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567586.1	954	Phylloscopus pulcher isolate 06617 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567585.1	972	Phylloscopus pulcher isolate 06466 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567584.1	991	Phylloscopus pulcher isolate 05797 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567583.1	972	Phylloscopus pulcher isolate 05769 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567582.1	1022	Phylloscopus pulcher isolate 04945 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567581.1	1022	Phylloscopus pulcher isolate 04589 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567580.1	982	Phylloscopus pulcher isolate 04586 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567579.1	1008	Phylloscopus pulcher isolate 04255 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567578.1	839	Phylloscopus pulcher isolate 04251 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567577.1	985	Phylloscopus pulcher isolate 04176 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567576.1	972	Phylloscopus pulcher isolate 04163 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567575.1	968	Phylloscopus pulcher isolate 04154 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567574.1	972	Phylloscopus pulcher isolate 04144 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567573.1	1005	Phylloscopus pulcher isolate 03683 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567572.1	1022	Phylloscopus pulcher isolate 03682 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567571.1	1005	Phylloscopus pulcher isolate 03679 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567570.1	966	Phylloscopus pulcher isolate 03678 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567569.1	1022	Phylloscopus pulcher isolate 03282 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567568.1	1004	Phylloscopus pulcher isolate 03281 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567567.1	1018	Phylloscopus pulcher isolate 03272 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567566.1	966	Phylloscopus pulcher isolate 03271 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567565.1	1022	Phylloscopus pulcher isolate 03267 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567564.1	972	Phylloscopus pulcher isolate 03265 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567563.1	964	Phylloscopus pulcher isolate 03256 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567562.1	1020	Phylloscopus pulcher isolate 03225 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567561.1	986	Phylloscopus pulcher isolate 03224 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567560.1	975	Phylloscopus pulcher isolate 03222 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567559.1	1022	Phylloscopus pulcher isolate 03221 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567558.1	1022	Phylloscopus pulcher isolate 02967 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567557.1	1022	Phylloscopus pulcher isolate 02966 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567556.1	1022	Phylloscopus pulcher isolate 02941 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567555.1	1022	Phylloscopus pulcher isolate 02940 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567554.1	1022	Phylloscopus pulcher isolate 02927 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567553.1	1021	Phylloscopus pulcher isolate 02922 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567552.1	912	Phylloscopus pulcher isolate 02667 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567551.1	1022	Phylloscopus pulcher isolate 00960 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567550.1	1022	Phylloscopus pulcher isolate 00957 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567549.1	1022	Phylloscopus pulcher isolate 00956 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567548.1	950	Phylloscopus pulcher isolate 00942 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567547.1	1022	Phylloscopus pulcher isolate 00934 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567546.1	985	Phylloscopus pulcher isolate 00918 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567545.1	1022	Phylloscopus pulcher isolate 00751 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567544.1	1022	Phylloscopus pulcher isolate 00730 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567543.1	1022	Phylloscopus pulcher isolate 00723 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567542.1	1022	Phylloscopus pulcher isolate 00397 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567541.1	1022	Phylloscopus pulcher isolate 00396 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_pulcher	KJ567540.1	1022	Phylloscopus pulcher isolate 00380 cytochrome b (cytb) gene, partial cds; mitochondrial

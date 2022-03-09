@@ -1,0 +1,28 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT900619.1	668	Rousettus leschenaultii voucher NHM.OU.CHI.65e.2015 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	NC_046927.1	16655	Rousettus leschenaultii isolate CKM109 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MN816355.1	16703	Rousettus leschenaultii isolate VN431 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MN816354.1	16655	Rousettus leschenaultii isolate CKM109 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MG821196.1	614	Rousettus leschenaultii voucher NHM.OU.CHI.65d.2015 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541886.1	657	Rousettus leschenaultii voucher ROM MAM 107510 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541885.1	657	Rousettus leschenaultii voucher ROM MAM 116219 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541884.1	657	Rousettus leschenaultii voucher ROM MAM 116218 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541883.1	657	Rousettus leschenaultii voucher ROM MAM 116217 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541882.1	657	Rousettus leschenaultii voucher ROM MAM 116216 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541881.1	657	Rousettus leschenaultii voucher ROM MAM 116215 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541880.1	657	Rousettus leschenaultii voucher ROM MAM 116214 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541879.1	657	Rousettus leschenaultii voucher ROM MAM 116213 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541878.1	657	Rousettus leschenaultii voucher ROM MAM 116212 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541877.1	657	Rousettus leschenaultii voucher ROM MAM 116211 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541876.1	657	Rousettus leschenaultii voucher ROM MAM 116210 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541875.1	657	Rousettus leschenaultii voucher ROM MAM 116186 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541874.1	657	Rousettus leschenaultii voucher ROM MAM 116113 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541873.1	657	Rousettus leschenaultii voucher ROM MAM 116022 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541872.1	657	Rousettus leschenaultii voucher ROM MAM 116167 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541871.1	657	Rousettus leschenaultii voucher ROM MAM 116143 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541870.1	657	Rousettus leschenaultii voucher ROM MAM 116122 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541869.1	657	Rousettus leschenaultii voucher ROM MAM 110989 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541868.1	657	Rousettus leschenaultii voucher ROM MAM 111011 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541867.1	657	Rousettus leschenaultii voucher ROM MAM 107529 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	HM541866.1	381	Rousettus leschenaultii voucher ZMMU S-166329 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	KP975231.1	633	Rousettus leschenaultii isolate NBS_MIG_29K cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	JX500418.1	589	Rousettus leschenaultii voucher SPKC 05 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial

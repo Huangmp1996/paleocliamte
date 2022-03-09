@@ -1,0 +1,9 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	MK043030.1	17158	Columba rupestris voucher IN3905 mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	GQ481615.1	694	Columba rupestris voucher UWBM 59762 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	GQ481614.1	694	Columba rupestris voucher UWBM 66630 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	GQ481613.1	694	Columba rupestris voucher UWBM 59803 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	GQ481611.1	694	Columba rupestris voucher UWBM 59987 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	NC_031867.1	17201	Columba rupestris mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	KX902246.1	17201	Columba rupestris mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	GQ481612.1	694	Columba rupestris voucher UWBM 66643 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	GQ481610.1	694	Columba rupestris voucher UWBM 66642 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

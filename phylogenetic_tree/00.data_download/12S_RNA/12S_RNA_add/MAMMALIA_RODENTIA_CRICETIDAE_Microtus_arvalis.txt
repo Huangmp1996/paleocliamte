@@ -1,0 +1,3 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	NC_038176.1	16285	Microtus arvalis voucher 15-006 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	MG948434.1	16285	Microtus arvalis voucher 15-006 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	EF027265.1	144	Microtus arvalis 12S ribosomal RNA gene, partial sequence; mitochondrial

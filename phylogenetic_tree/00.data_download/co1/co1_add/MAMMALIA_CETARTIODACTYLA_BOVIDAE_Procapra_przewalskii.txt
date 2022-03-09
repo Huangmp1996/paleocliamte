@@ -1,0 +1,16 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	MG798933.1	16547	Procapra przewalskii voucher PPRZE20171231 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	MG674218.1	17376	Procapra przewalskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	GU386355.1	16548	Procapra przewalskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679051.1	644	Procapra przewalskii isolate SG6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679050.1	644	Procapra przewalskii isolate SG1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679049.1	644	Procapra przewalskii isolate KM3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679048.1	644	Procapra przewalskii isolate KM2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679047.1	644	Procapra przewalskii isolate KM1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679046.1	644	Procapra przewalskii isolate HDH1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679045.1	644	Procapra przewalskii isolate HG2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679044.1	644	Procapra przewalskii isolate HG1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679043.1	644	Procapra przewalskii isolate HD8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679042.1	644	Procapra przewalskii isolate HD5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679041.1	644	Procapra przewalskii isolate HD4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	KC679040.1	644	Procapra przewalskii isolate HD2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	NC_014875.1	16548	Procapra przewalskii mitochondrion, complete genome

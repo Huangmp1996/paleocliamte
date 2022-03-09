@@ -1,0 +1,32 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158324.1	1034	Rhinolophus hipposideros isolate Rh20 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158323.1	1034	Rhinolophus hipposideros isolate Rh19 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158322.1	1034	Rhinolophus hipposideros isolate Rh18 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158321.1	1034	Rhinolophus hipposideros isolate Rh16 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158320.1	1034	Rhinolophus hipposideros isolate Rh15 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158319.1	1034	Rhinolophus hipposideros isolate Rh14 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158318.1	1034	Rhinolophus hipposideros isolate Rh13 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158317.1	1006	Rhinolophus hipposideros isolate Rh12 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158316.1	1034	Rhinolophus hipposideros isolate Rh11 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158315.1	1034	Rhinolophus hipposideros isolate Rh10 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158314.1	1034	Rhinolophus hipposideros isolate Rh09 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158313.1	1034	Rhinolophus hipposideros isolate Rh08 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158312.1	1034	Rhinolophus hipposideros isolate Rh07 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158311.1	1034	Rhinolophus hipposideros isolate Rh06 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158310.1	1034	Rhinolophus hipposideros isolate Rh05 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158309.1	1010	Rhinolophus hipposideros isolate Rh04 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158308.1	1034	Rhinolophus hipposideros isolate Rh03 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158307.1	1034	Rhinolophus hipposideros isolate Rh02 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN158306.1	1034	Rhinolophus hipposideros isolate Rh01 tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	DQ888658.1	957	Rhinolophus hipposideros isolate R NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218563.1	957	Rhinolophus hipposideros isolate TR1 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218562.1	957	Rhinolophus hipposideros isolate TR7 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218561.1	957	Rhinolophus hipposideros isolate TR2 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218560.1	957	Rhinolophus hipposideros isolate TR11 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218559.1	957	Rhinolophus hipposideros isolate TR12 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218558.1	957	Rhinolophus hipposideros isolate TR4 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218557.1	957	Rhinolophus hipposideros isolate TR9 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218556.1	957	Rhinolophus hipposideros isolate TR10 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218555.1	957	Rhinolophus hipposideros isolate TR3 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218554.1	957	Rhinolophus hipposideros isolate TR5 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218553.1	957	Rhinolophus hipposideros isolate TR6 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KF218552.1	957	Rhinolophus hipposideros isolate TR8 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial

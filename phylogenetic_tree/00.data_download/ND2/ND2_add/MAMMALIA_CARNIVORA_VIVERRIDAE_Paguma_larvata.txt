@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	MW257220.1	16731	Paguma larvata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	DQ683990.1	1044	Paguma larvata voucher C-72 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	NC_029403.1	16710	Paguma larvata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	KT191130.1	16710	Paguma larvata mitochondrion, complete genome

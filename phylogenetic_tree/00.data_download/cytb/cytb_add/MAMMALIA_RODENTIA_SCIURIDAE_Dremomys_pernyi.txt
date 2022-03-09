@@ -1,0 +1,14 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	KY410886.1	16170	Dremomys pernyi voucher USNM 574326 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	KY410884.1	16172	Dremomys pernyi voucher USNM 240890 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	KY410883.1	16170	Dremomys pernyi voucher USNM 279318 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	KY410882.1	16167	Dremomys pernyi voucher USNM 253774 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	KY410881.1	16167	Dremomys pernyi voucher USNM 252162 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	KY410880.1	16171	Dremomys pernyi voucher USNM 358334 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	LC150596.1	1140	Dremomys pernyi mitochondrial cytb gene for cytochrome b, complete cds, isolate: TW12
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	NC_035577.1	16573	Dremomys pernyi mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	KP708711.1	16573	Dremomys pernyi mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	EF539336.1	1140	Dremomys pernyi cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	HQ698363.1	1140	Dremomys pernyi owstoni voucher TESRI-B0349 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	HQ698362.1	1140	Dremomys pernyi owstoni voucher TESRI-B0291 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	HQ698361.1	1140	Dremomys pernyi owstoni voucher TESRI-B0228 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_pernyi	KP126039.1	1119	Dremomys pernyi voucher USNM574326 cytochrome b (cytb) gene, partial cds; mitochondrial

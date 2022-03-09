@@ -1,0 +1,6 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	MN122821.1	15276	Falco tinnunculus mitochondrion, partial genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	EU196361.1	17663	Falco tinnunculus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KM876095.1	2343	Falco tinnunculus voucher ZMUC 143744 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KM876077.1	2343	Falco tinnunculus voucher CAS WEG11 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	KM876047.1	2343	Falco tinnunculus voucher NRM 946697 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	NC_011307.1	17663	Falco tinnunculus mitochondrion, complete genome

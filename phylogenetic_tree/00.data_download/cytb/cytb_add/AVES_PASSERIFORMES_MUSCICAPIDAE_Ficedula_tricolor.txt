@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_tricolor	DQ674504.1	998	Ficedula tricolor cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_tricolor	KJ456280.1	1143	Ficedula tricolor cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_tricolor	KJ930558.1	1143	Ficedula tricolor voucher KU11224 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_tricolor	HM633309.1	1076	Ficedula tricolor voucher DZUG-U335 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,12 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	MK775530.1	18101	Hydrophis platurus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KX239660.1	1321	Hydrophis platurus 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KT966196.1	466	Hydrophis platurus voucher WAM:165965 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KT966195.1	512	Hydrophis platurus voucher MZB4068 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KT966194.1	466	Hydrophis platurus voucher KLS0095 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KC014377.1	466	Pelamis platura voucher WAM101240 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KC014376.1	466	Pelamis platura voucher MZBOphi4208 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KC014375.1	473	Pelamis platura voucher ABTC79057 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	DQ234052.1	508	Pelamis platurus isolate Pp004 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	DQ234051.1	520	Pelamis platurus isolate Pp003 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	DQ234050.1	520	Pelamis platurus isolate Pp002 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	DQ234049.1	520	Pelamis platurus isolate Pp001 16S ribosomal RNA gene, partial sequence; mitochondrial

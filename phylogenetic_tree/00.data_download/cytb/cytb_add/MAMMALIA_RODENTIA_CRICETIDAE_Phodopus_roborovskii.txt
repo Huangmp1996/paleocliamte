@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	MK202990.1	1017	Phodopus roborovskii isolate HN03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	MK202989.1	1119	Phodopus roborovskii isolate HN02 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	MK202988.1	1131	Phodopus roborovskii isolate HN01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	NC_031809.1	16273	Phodopus roborovskii mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KU885975.1	16273	Phodopus roborovskii mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797469.1	1143	Phodopus roborovskii isolate InM305 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797468.1	1143	Phodopus roborovskii isolate SGb307 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797467.1	1143	Phodopus roborovskii isolate EGb306 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797466.1	1143	Phodopus roborovskii isolate OrN056 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797465.1	1143	Phodopus roborovskii isolate OrN023 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797464.1	1143	Phodopus roborovskii isolate OrN022 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797463.1	1143	Phodopus roborovskii isolate OrN021 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797462.1	1143	Phodopus roborovskii isolate OrN016 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797461.1	1143	Phodopus roborovskii isolate IDz004 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797460.1	1143	Phodopus roborovskii isolate IDz002 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797459.1	1143	Phodopus roborovskii isolate Alb006 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797458.1	1143	Phodopus roborovskii isolate Bon271 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797457.1	1143	Phodopus roborovskii isolate XaN003 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797456.1	1143	Phodopus roborovskii isolate Tuv836 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797455.1	1143	Phodopus roborovskii isolate Tuv835 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797454.1	1143	Phodopus roborovskii isolate Tuv834 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797453.1	1143	Phodopus roborovskii isolate Tuv789 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797452.1	1143	Phodopus roborovskii isolate Tuv119 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797451.1	1143	Phodopus roborovskii isolate Tuv040 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797450.1	1143	Phodopus roborovskii isolate Tuv013 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797449.1	1143	Phodopus roborovskii isolate Tuv005 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797448.1	1143	Phodopus roborovskii isolate Zai023 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797447.1	1143	Phodopus roborovskii isolate Zai020 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797446.1	1143	Phodopus roborovskii isolate Zai015 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797445.1	1143	Phodopus roborovskii isolate Zai014 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	GU797444.1	1143	Phodopus roborovskii isolate Zai002 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	EF025539.3	3137	Phodopus roborovskii haplotype 01 cytochrome b gene, complete cds; tRNA-Thr and tRNA-Pro genes, control region, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750096.1	966	Phodopus roborovskii isolate TJX4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750095.1	1103	Phodopus roborovskii isolate TJX5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750094.1	1103	Phodopus roborovskii isolate TJX6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750093.1	1103	Phodopus roborovskii isolate TJX7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750092.1	1103	Phodopus roborovskii isolate XL1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750091.1	1103	Phodopus roborovskii isolate XL2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750090.1	1103	Phodopus roborovskii isolate XL3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750089.1	1103	Phodopus roborovskii isolate XL4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KT750088.1	1103	Phodopus roborovskii isolate XL5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813147.1	1103	Phodopus roborovskii isolate KBS5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813146.1	1103	Phodopus roborovskii isolate KBS4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813145.1	1103	Phodopus roborovskii isolate ELH10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813144.1	1103	Phodopus roborovskii isolate ELH9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813143.1	1103	Phodopus roborovskii isolate ELH8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813142.1	1103	Phodopus roborovskii isolate ELH7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813141.1	1103	Phodopus roborovskii isolate ELH6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813140.1	1103	Phodopus roborovskii isolate GEM3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813139.1	1103	Phodopus roborovskii isolate GEM2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813138.1	1103	Phodopus roborovskii isolate GEM1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813137.1	1103	Phodopus roborovskii isolate YYH3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813136.1	1103	Phodopus roborovskii isolate YYH2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813135.1	1103	Phodopus roborovskii isolate YYH1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813134.1	1103	Phodopus roborovskii isolate TJX3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813133.1	1103	Phodopus roborovskii isolate TJX2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813132.1	1103	Phodopus roborovskii isolate TJX1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813131.1	1103	Phodopus roborovskii isolate KBS3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813130.1	1096	Phodopus roborovskii isolate KBS1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813129.1	1103	Phodopus roborovskii isolate ELH5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813128.1	1103	Phodopus roborovskii isolate ELH4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813127.1	1103	Phodopus roborovskii isolate ELH3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813126.1	1093	Phodopus roborovskii isolate ELH2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813125.1	1103	Phodopus roborovskii isolate DCD5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813124.1	1103	Phodopus roborovskii isolate DCD4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813123.1	1103	Phodopus roborovskii isolate DCD3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813122.1	1103	Phodopus roborovskii isolate DCD2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813121.1	1103	Phodopus roborovskii isolate DCD1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813120.1	1099	Phodopus roborovskii isolate JYG6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813119.1	1103	Phodopus roborovskii isolate JYG5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813118.1	1103	Phodopus roborovskii isolate JYG4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813117.1	1103	Phodopus roborovskii isolate JYG3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813116.1	1103	Phodopus roborovskii isolate JYG2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813115.1	1103	Phodopus roborovskii isolate DLH12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813114.1	1103	Phodopus roborovskii isolate DLH11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813113.1	1103	Phodopus roborovskii isolate DLH10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813112.1	1103	Phodopus roborovskii isolate DLH9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813111.1	1103	Phodopus roborovskii isolate DLH8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813110.1	1103	Phodopus roborovskii isolate DLH7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813109.1	1103	Phodopus roborovskii isolate DLH6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813108.1	1103	Phodopus roborovskii isolate DLH5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813107.1	1103	Phodopus roborovskii isolate DLH4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813106.1	1103	Phodopus roborovskii isolate ETK3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813105.1	1103	Phodopus roborovskii isolate ETK2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813104.1	1103	Phodopus roborovskii isolate ETK1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813103.1	1103	Phodopus roborovskii isolate GSS3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813102.1	1103	Phodopus roborovskii isolate GSS2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813101.1	1103	Phodopus roborovskii isolate GSS1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813100.1	1103	Phodopus roborovskii isolate JYG1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813099.1	1103	Phodopus roborovskii isolate YBL1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813098.1	1103	Phodopus roborovskii isolate NMG1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813097.1	1103	Phodopus roborovskii isolate BYN6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813096.1	1103	Phodopus roborovskii isolate BYN5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813095.1	1103	Phodopus roborovskii isolate BYN4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813094.1	1103	Phodopus roborovskii isolate BYN3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813093.1	1103	Phodopus roborovskii isolate BYN2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813092.1	1103	Phodopus roborovskii isolate BYN1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813091.1	1103	Phodopus roborovskii isolate ELH1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813090.1	1103	Phodopus roborovskii isolate HBH1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KJ813089.1	1103	Phodopus roborovskii isolate BYH5 cytochrome b (cytb) gene, partial cds; mitochondrial

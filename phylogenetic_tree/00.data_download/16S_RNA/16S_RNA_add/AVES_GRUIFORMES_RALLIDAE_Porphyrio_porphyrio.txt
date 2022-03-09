@@ -1,0 +1,4 @@
+AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	KJ685959.1	283	Porphyrio porphyrio porphyrio isolate 3P1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	NC_025508.1	17020	Porphyrio porphyrio mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	KF701062.1	17020	Porphyrio porphyrio mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	DQ485858.1	1590	Porphyrio porphyrio 16S ribosomal RNA gene, complete sequence; mitochondrial

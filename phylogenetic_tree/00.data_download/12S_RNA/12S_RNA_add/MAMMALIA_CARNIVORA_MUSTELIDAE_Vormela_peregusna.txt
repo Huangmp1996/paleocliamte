@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Vormela_peregusna	NC_054246.1	15982	Vormela peregusna mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Vormela_peregusna	MT251906.1	187	Vormela peregusna small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Vormela_peregusna	MN647664.1	90	Vormela peregusna small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Vormela_peregusna	MW013133.1	15982	Vormela peregusna mitochondrion, complete genome

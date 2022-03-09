@@ -1,0 +1,42 @@
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	MN122903.1	15776	Athene noctua mitochondrion, partial genome
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	GQ481386.1	694	Athene noctua voucher UWBM 66569 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KT803665.1	648	Athene noctua isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KJ862133.1	648	Athene noctua voucher B15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF946603.1	663	Athene noctua vidalii voucher ZMA58493 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF946602.1	693	Athene noctua vidalii voucher ZMA58294 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452083.1	681	Athene noctua haplotype Anc34 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452082.1	681	Athene noctua haplotype Anc33 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452081.1	681	Athene noctua haplotype Anc32 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452080.1	681	Athene noctua haplotype Anc31 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452079.1	681	Athene noctua haplotype Anc30 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452078.1	681	Athene noctua haplotype Anc29 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452077.1	681	Athene noctua haplotype Anc28 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452076.1	681	Athene noctua haplotype Anc27 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452075.1	681	Athene noctua haplotype Anc26 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452074.1	681	Athene noctua haplotype Anc25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452073.1	681	Athene noctua haplotype Anc24 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452072.1	681	Athene noctua haplotype Anc23 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452071.1	681	Athene noctua haplotype Anc22 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452070.1	681	Athene noctua haplotype Anc21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452069.1	681	Athene noctua haplotype Anc20 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452068.1	681	Athene noctua haplotype Anc19 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452067.1	681	Athene noctua haplotype Anc18 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452066.1	681	Athene noctua haplotype Anc17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452065.1	681	Athene noctua haplotype Anc16 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452064.1	681	Athene noctua haplotype Anc15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452063.1	681	Athene noctua haplotype Anc14 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452062.1	681	Athene noctua haplotype Anc13 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452061.1	681	Athene noctua haplotype Anc12 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452060.1	681	Athene noctua haplotype Anc11 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452059.1	681	Athene noctua haplotype Anc10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452058.1	681	Athene noctua haplotype Anc9 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452057.1	681	Athene noctua haplotype Anc8 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452056.1	681	Athene noctua haplotype Anc7 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452055.1	681	Athene noctua haplotype Anc6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452054.1	681	Athene noctua haplotype Anc5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452053.1	681	Athene noctua haplotype Anc4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452052.1	681	Athene noctua haplotype Anc3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452051.1	681	Athene noctua haplotype Anc2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	KF452050.1	681	Athene noctua haplotype Anc1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	JQ174102.1	652	Athene noctua voucher USNM:Birds:621343 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Athene_noctua	JQ174101.1	652	Athene noctua voucher USNM:Birds:621274 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

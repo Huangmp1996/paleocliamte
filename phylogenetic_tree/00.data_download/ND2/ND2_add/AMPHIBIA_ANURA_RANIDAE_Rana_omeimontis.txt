@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	MK483118.1	20120	Rana omeimontis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KU246050.1	19934	Rana omeimontis voucher YC-EMLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	NC_035805.1	19934	Rana omeimontis voucher YC-EMLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KX269409.1	984	Rana omeimontis isolate SCUM0405196CJ NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial

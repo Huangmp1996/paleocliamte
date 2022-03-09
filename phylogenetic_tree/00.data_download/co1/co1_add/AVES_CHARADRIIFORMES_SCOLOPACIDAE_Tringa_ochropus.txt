@@ -1,0 +1,13 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	NC_033974.1	16906	Tringa ochropus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	KX668223.1	16906	Tringa ochropus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GU572139.1	648	Tringa ochropus voucher BISE-Aves491 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GU572138.1	648	Tringa ochropus voucher BISE-Aves492 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GU571662.1	688	Tringa ochropus voucher NHMO-BC351 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GU571661.1	666	Tringa ochropus voucher NHMO-BC361 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GQ482791.1	694	Tringa ochropus voucher UWBM 44294 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GQ482790.1	694	Tringa ochropus voucher UWBM 61210 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GQ482789.1	694	Tringa ochropus voucher UWBM 49481 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GQ482788.1	694	Tringa ochropus voucher UWBM 46903 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	GQ482787.1	694	Tringa ochropus voucher UWBM 49781 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	KF147203.1	886	Tringa ochropus cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_ochropus	KF946892.1	693	Tringa ochropus voucher ZMA64544 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

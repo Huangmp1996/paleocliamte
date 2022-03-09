@@ -1,0 +1,10 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	NC_041638.1	17089	Myotis frater mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	MH177276.1	17089	Myotis frater mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	KX467612.1	1140	Myotis frater voucher HLJ-012 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	FJ215682.1	1140	Myotis frater cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	KP187875.1	1140	Myotis frater voucher THUMB 77 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	KP187874.1	1140	Myotis frater voucher THUMB 30057 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	KP187873.1	1140	Myotis frater voucher TESRI B0288 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	KP187872.1	1140	Myotis frater voucher TESRI B0286 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	KP187871.1	1140	Myotis frater voucher NMNS t-5338 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	AB106593.1	1140	Myotis frater mitochondrial cytb gene for cytochrome b, complete cds, specimen_voucher: KM12985 (Maeda Kishio)

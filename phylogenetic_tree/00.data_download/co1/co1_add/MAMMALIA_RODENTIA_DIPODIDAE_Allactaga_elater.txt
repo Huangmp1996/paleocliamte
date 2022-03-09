@@ -1,0 +1,46 @@
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MN980097.1	672	Scarturus elater isolate XJ18107 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449574.1	615	Scarturus elater isolate A-15-MVZ192029 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449569.1	624	Scarturus elater isolate A-10-mk21 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449568.1	624	Scarturus elater isolate A-9-mk27 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449567.1	624	Scarturus elater isolate A-8-mk26 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449566.1	624	Scarturus elater isolate A-7-mk25 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449565.1	624	Scarturus elater isolate A-6-mk24 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449564.1	624	Scarturus elater isolate A-5-mk23 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449563.1	624	Scarturus elater isolate A-4-mk22 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449562.1	624	Scarturus elater isolate A-3-mk20 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449561.1	624	Scarturus elater isolate A-2-mk19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	MH449560.1	624	Scarturus elater isolate A-1-mk18 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219861.1	619	Allactaga elater voucher ZMFUM3613 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219860.1	619	Allactaga elater voucher ZMFUM3609 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219859.1	619	Allactaga elater voucher ZMFUM3604 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219858.1	619	Allactaga elater voucher ZMFUM3603 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219857.1	619	Allactaga elater voucher ZMFUM3602 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219856.1	619	Allactaga elater voucher ZMFUM3601 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219855.1	619	Allactaga elater voucher ZMFUM3554 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219854.1	619	Allactaga elater voucher ZMFUM3548 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219853.1	619	Allactaga elater voucher ZMFUM3547 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219852.1	619	Allactaga elater voucher ZMFUM2751 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219851.1	619	Allactaga elater voucher ZMFUM2738 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219850.1	619	Allactaga elater voucher ZMFUM2732 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219849.1	619	Allactaga elater voucher ZMFUM2897 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219848.1	619	Allactaga elater voucher ZMFUM1374 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219847.1	448	Allactaga elater voucher ZMFUM2862 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219846.1	619	Allactaga elater voucher ZMFUM2842 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219845.1	619	Allactaga elater voucher ZMFUM2749 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219844.1	619	Allactaga elater voucher ZMFUM2704 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219843.1	619	Allactaga elater voucher ZMFUM1905 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219842.1	619	Allactaga elater voucher ZMFUM3542 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219841.1	619	Allactaga elater voucher ZMFUM1740 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219840.1	619	Allactaga elater voucher ZMFUM2084 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219839.1	619	Allactaga elater voucher ZMFUM1412 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KX219838.1	619	Allactaga elater voucher ZMFUM1377 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	KF153014.1	645	Allactaga elater voucher JW314 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954902.1	632	Allactaga elater voucher FUMZM 2128 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954900.1	632	Allactaga elater voucher FUMZM 1429 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954899.1	632	Allactaga elater voucher FUMZM 2680 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954898.1	632	Allactaga elater voucher FUMZM 2679 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954897.1	632	Allactaga elater voucher FUMZM 2678 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954896.1	632	Allactaga elater voucher FUMZM 2677 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954895.1	632	Allactaga elater voucher FUMZM 2676 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954894.1	632	Allactaga elater voucher FUMZM 2675 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Allactaga_elater	JQ954893.1	632	Allactaga elater voucher FUMZM 2674 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

@@ -1,0 +1,20 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641889.1	1011	Paramesotriton hongkongensis isolate PHK-NKS cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641888.1	1122	Paramesotriton hongkongensis isolate PHK-WTS cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641887.1	1122	Paramesotriton hongkongensis isolate PHK-OP cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641886.1	1017	Paramesotriton hongkongensis isolate PHK-SP cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641885.1	1122	Paramesotriton hongkongensis isolate PHK-PFL cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641884.1	1122	Paramesotriton hongkongensis isolate PHK-TT cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641883.1	1122	Paramesotriton hongkongensis isolate PHK-WKT cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641882.1	1122	Paramesotriton hongkongensis isolate PHK-TPK cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641881.1	1122	Paramesotriton hongkongensis isolate PHK-SM cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641880.1	1122	Paramesotriton hongkongensis isolate PHK-MTL cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641879.1	1122	Paramesotriton hongkongensis isolate PHK-KP cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	MN641878.1	1122	Paramesotriton hongkongensis isolate PHK-HC cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	AY593139.1	1141	Paramesotriton hongkongensis cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	AY458597.1	16285	Paramesotriton hongkongensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	AY233145.1	307	Paramesotriton hongkongensis isolate 20020482 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	AY233144.1	307	Paramesotriton hongkongensis isolate 20020481 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	AF295678.1	695	Paramesotriton hongkongensis isolate Phon7 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	AF295677.1	707	Paramesotriton hongkongensis isolate Phon4 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	JX237748.1	1173	Paramesotriton hongkongensis voucher MVZ 230368 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_hongkongensis	NC_006407.1	16285	Paramesotriton hongkongensis mitochondrion, complete genome

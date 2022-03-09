@@ -1,0 +1,6 @@
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	EF661586.1	16642	Manouria impressa mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	NC_011815.1	16642	Manouria impressa mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	GQ867670.1	660	Manouria impressa voucher 2009-MI-006 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	GQ867669.1	660	Manouria impressa voucher 2009-MI-002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	GQ867668.1	660	Manouria impressa voucher 2009-MI-001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	HQ329764.1	650	Manouria impressa isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

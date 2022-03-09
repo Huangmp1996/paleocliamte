@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	GU183855.1	3874	Strauchbufo raddei voucher NP B-16-1; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	KR861720.1	16067	Bufotes raddei voucher AHUAM2012001 mitochondrion, partial genome
+AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	NC_028424.1	17602	Bufotes raddei mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	KT223827.1	17602	Bufotes raddei mitochondrion, complete genome

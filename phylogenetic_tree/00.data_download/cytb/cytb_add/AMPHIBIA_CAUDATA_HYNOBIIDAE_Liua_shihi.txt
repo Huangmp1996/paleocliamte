@@ -1,0 +1,23 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335746.1	703	Liua shihi voucher CIB-XM285 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335745.1	754	Liua shihi voucher CIB-zyc1032 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335744.1	754	Liua shihi voucher CIB-zyc1031 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335743.1	725	Liua shihi voucher CIB-zyc1009 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335742.1	725	Liua shihi voucher CIB-zyc1008 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335741.1	749	Liua shihi voucher CIB-XM1227 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335740.1	755	Liua shihi voucher CIB-XM1226 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335739.1	755	Liua shihi voucher CIB-XM1218 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335738.1	755	Liua shihi voucher CIB-XM1162 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335737.1	755	Liua shihi voucher CIB-XM1161 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335736.1	755	Liua shihi voucher CIB-XM1153 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335735.1	755	Liua shihi voucher CIB-XM1152 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335734.1	754	Liua shihi voucher CIB-XM859 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335733.1	754	Liua shihi voucher CIB-XM858 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335732.1	755	Liua shihi voucher CIB-XM1155 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ335731.1	755	Liua shihi voucher CIB-XM1156 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ333810.1	16376	Liua shihi mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	AY593136.1	1142	Liua shihi cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	AY028775.1	755	Liua shihi strain MVZ231141 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JQ711175.1	754	Liua shihi voucher XSQ-WV 1203 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JQ711174.1	754	Liua shihi voucher XSQ-WV 1202 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JQ711173.1	754	Liua shihi voucher XSQ-WV 1201 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	NC_008078.1	16376	Liua shihi mitochondrion, complete genome

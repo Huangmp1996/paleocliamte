@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	MN958787.1	890	Amolops tuberodepressus voucher SCUM050430CHX NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	MN958786.1	890	Amolops tuberodepressus voucher SCUM050433CHX NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	FJ417211.1	1063	Amolops tuberodepressus voucher CAS 234058 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	KR559270.1	18348	Amolops tuberodepressus mitochondrion, partial genome

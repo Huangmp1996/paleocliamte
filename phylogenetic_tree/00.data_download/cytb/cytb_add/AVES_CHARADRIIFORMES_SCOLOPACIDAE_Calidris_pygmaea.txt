@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KY434065.1	16709	Eurynorhynchus pygmeus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	EF373131.1	963	Eurynorhynchus pygmeus voucher EP-001 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	NC_027496.1	16707	Eurynorhynchus pygmeus voucher NJNU:SBS01 mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KP742478.1	16707	Eurynorhynchus pygmeus voucher NJNU:SBS01 mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KC969171.1	1005	Eurynorhynchus pygmeus cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Grammatoptila_striata	KJ456292.1	1143	Garrulax striatus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Grammatoptila_striata	JF804105.1	619	Garrulax striatus isolate 3670 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Grammatoptila_striata	JN827054.1	956	Garrulax striatus voucher USNM 15255 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Grammatoptila_striata	JN827053.1	478	Garrulax striatus voucher USNM 15221 cytochrome b (CYTB) gene, partial cds; mitochondrial

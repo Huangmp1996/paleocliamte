@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	MN733918.1	16644	Rana kukunoris mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KU246049.1	18863	Rana kukunoris voucher RG-GYLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	NC_035804.1	18863	Rana kukunoris voucher RG-GYLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KU310893.1	15182	Rana kukunoris mitochondrion, partial genome
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KX269401.1	983	Rana kukunoris isolate KIZCJ06102001 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial

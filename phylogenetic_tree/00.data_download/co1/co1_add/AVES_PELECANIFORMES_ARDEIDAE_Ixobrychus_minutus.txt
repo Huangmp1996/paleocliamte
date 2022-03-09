@@ -1,0 +1,13 @@
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KY355013.1	552	Ixobrychus minutus isolate 15_P1_3_RO cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	GQ481994.1	694	Ixobrychus minutus voucher UWBM 56888 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KP252197.1	658	Ixobrychus minutus voucher USNM 645892 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KJ941181.1	388	Ixobrychus minutus voucher MTD C44007 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KJ941180.1	611	Ixobrychus minutus voucher MTD C51194 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KJ941179.1	611	Ixobrychus minutus voucher MAR8623 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KJ941178.1	611	Ixobrychus minutus voucher MAR8629 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KJ941177.1	611	Ixobrychus minutus voucher MAR8954 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KJ941176.1	550	Ixobrychus minutus voucher MAR7430 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KJ941175.1	611	Ixobrychus minutus voucher IXO-ZooDD cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	KJ941174.1	611	Ixobrychus minutus voucher PB53-3 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	HQ998081.1	100	Ixobrychus minutus voucher RBINS:56946 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_minutus	HQ997927.1	100	Ixobrychus minutus voucher RBINS:22547 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

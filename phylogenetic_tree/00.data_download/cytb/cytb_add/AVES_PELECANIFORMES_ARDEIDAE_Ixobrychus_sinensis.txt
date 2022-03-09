@@ -1,0 +1,6 @@
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	AY465750.1	1041	Ixobrychus sinensis cytochrome b gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	NC_025925.1	19493	Ixobrychus sinensis mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	KJ941165.1	893	Ixobrychus sinensis voucher MAR8601 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	KJ941164.1	893	Ixobrychus sinensis voucher MAR8648 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	KJ941163.1	893	Ixobrychus sinensis voucher MAR8394 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	KJ190958.1	19493	Ixobrychus sinensis mitochondrion, complete genome

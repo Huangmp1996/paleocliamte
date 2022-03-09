@@ -1,0 +1,7 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_decaocto	MH307595.1	645	Streptopelia decaocto voucher L387 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_decaocto	LC541449.1	17720	Streptopelia decaocto decaocto 2002-0290 mitochondrial DNA, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_decaocto	NC_037513.1	17160	Streptopelia decaocto mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_decaocto	KY827036.1	17160	Streptopelia decaocto mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_decaocto	KY378786.1	1075	Streptopelia decaocto voucher L589 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_decaocto	KY378785.1	982	Streptopelia decaocto voucher L575 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_decaocto	AF353398.1	1068	Streptopelia decaocto cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products

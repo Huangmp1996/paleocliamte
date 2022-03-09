@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_brandti	GQ482049.1	685	Leucosticte brandti voucher UWBM 75793 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_brandti	GQ482048.1	672	Leucosticte brandti voucher UWBM 66515 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_brandti	KM078775.1	16798	Leucosticte brandti mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_brandti	NC_025604.1	16798	Leucosticte brandti mitochondrion, complete genome

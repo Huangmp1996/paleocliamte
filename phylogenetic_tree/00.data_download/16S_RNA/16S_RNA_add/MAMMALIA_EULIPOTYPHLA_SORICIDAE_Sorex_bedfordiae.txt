@@ -1,0 +1,9 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	KT827204.1	566	Sorex bedfordiae isolate KIZJY018 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	KT827188.1	567	Sorex bedfordiae isolate KIZJY002 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	KC860481.1	559	Sorex bedfordiae voucher ARB0004918 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	KC860480.1	543	Sorex bedfordiae voucher ARB0004919 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	KC860479.1	564	Sorex bedfordiae voucher ARB0004976 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	KC860478.1	502	Sorex bedfordiae voucher ARB0004916 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	KC860477.1	559	Sorex bedfordiae voucher ARB0004963 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	KC860476.1	560	Sorex bedfordiae voucher ARB0004917 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_bedfordiae	GU981101.1	1573	Sorex bedfordiae isolate Sorbedf1 16S ribosomal RNA gene, complete sequence; mitochondrial

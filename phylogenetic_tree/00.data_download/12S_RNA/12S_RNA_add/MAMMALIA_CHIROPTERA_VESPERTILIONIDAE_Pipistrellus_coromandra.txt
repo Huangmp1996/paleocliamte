@@ -1,0 +1,5 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	NC_029191.1	17153	Pipistrellus coromandra mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	KP688404.1	17153	Pipistrellus coromandra mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	KT291766.1	532	Pipistrellus coromandra isolate PCAI-4 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	KT291765.1	377	Pipistrellus coromandra isolate PCAI-4 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	AY495524.1	2595	Pipistrellus coromandra 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA genes, complete sequence; mitochondrial

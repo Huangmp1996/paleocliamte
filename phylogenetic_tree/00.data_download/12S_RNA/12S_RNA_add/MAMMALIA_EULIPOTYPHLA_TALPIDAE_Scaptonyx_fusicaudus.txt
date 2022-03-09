@@ -1,0 +1,5 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scaptonyx_fusicaudus	KX754507.1	815	Scaptonyx fusicaudus isolate Scxfus_4 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scaptonyx_fusicaudus	KX754506.1	816	Scaptonyx fusicaudus isolate Scxfus_3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scaptonyx_fusicaudus	KX754505.1	819	Scaptonyx fusicaudus isolate Scxfus_2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scaptonyx_fusicaudus	KX754504.1	818	Scaptonyx fusicaudus isolate Scxfus_1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scaptonyx_fusicaudus	AB106232.1	890	Scaptonyx fusicaudus mitochondrial gene for 12S ribosomal RNA, partial sequence, isolate:97268(XJ)

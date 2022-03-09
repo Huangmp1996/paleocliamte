@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	GQ481683.1	684	Cyanistes cyanus voucher UWBM 67561 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	GQ481679.1	672	Cyanistes cyanus voucher UWBM 59700 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KX388472.1	16788	Cyanistes cyanus isolate 781 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	GQ481682.1	694	Cyanistes cyanus voucher ZMMU 51\2000 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	GQ481681.1	694	Cyanistes cyanus voucher ZMMU RYA 301 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	GQ481680.1	694	Cyanistes cyanus voucher ZMMU RYA 338 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	GQ481678.1	694	Cyanistes cyanus voucher ZMMU 50\2000 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	HM185352.1	948	Cyanistes cyanus voucher IOZ781 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	HM185327.1	1201	Cyanistes cyanus voucher IOZ781 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

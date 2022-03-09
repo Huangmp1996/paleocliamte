@@ -1,0 +1,4 @@
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	HQ857514.1	1044	Neotetracus sinensis clone 2 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	HQ857513.1	1044	Neotetracus sinensis clone 1 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	NC_019626.1	16982	Neotetracus sinensis mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	JX519466.1	16982	Neotetracus sinensis mitochondrion, complete genome

@@ -1,0 +1,30 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	MT629909.1	537	Mauremys sinensis voucher GVA6033 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	MT629908.1	537	Mauremys sinensis voucher GVA6032 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763419.1	1023	Mauremys sinensis isolate S19 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763418.1	1023	Mauremys sinensis isolate S18 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763417.1	1023	Mauremys sinensis isolate S17 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763416.1	1023	Mauremys sinensis isolate S16 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763415.1	1023	Mauremys sinensis isolate S15 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763414.1	1023	Mauremys sinensis isolate S14 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763413.1	1023	Mauremys sinensis isolate S13 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763412.1	1023	Mauremys sinensis isolate S12 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763411.1	1023	Mauremys sinensis isolate S11 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763410.1	1023	Mauremys sinensis isolate S10 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763409.1	1023	Mauremys sinensis isolate S09 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763408.1	1023	Mauremys sinensis isolate S08 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763407.1	1023	Mauremys sinensis isolate S07 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763406.1	1023	Mauremys sinensis isolate S06 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763405.1	1023	Mauremys sinensis isolate S05 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763404.1	1023	Mauremys sinensis isolate S04 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763403.1	1023	Mauremys sinensis isolate S03 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763402.1	1023	Mauremys sinensis isolate S02 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KT763401.1	1023	Mauremys sinensis isolate S01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	AY434615.1	1140	Mauremys sinensis cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	HQ442409.1	992	Mauremys sinensis voucher ANUM26080098 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	HQ442408.1	992	Mauremys sinensis voucher ANUM26080097 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	FJ871126.1	16461	Mauremys sinensis mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	AF043261.1	892	Ocadia sinensis cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	NC_016685.1	16461	Mauremys sinensis mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	JN860648.1	992	Mauremys sinensis voucher ANUM26080096 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KC333650.1	16458	Mauremys sinensis mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	AJ564463.1	1036	Ocadia sinensis mitochondrial partial cytb gene for cytochrome b

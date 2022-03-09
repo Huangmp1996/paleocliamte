@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Xenus_cinereus	MN108916.1	695	Xenus cinereus isolate XC07 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Xenus_cinereus	NC_033973.1	16817	Xenus cinereus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Xenus_cinereus	KX644890.1	16817	Xenus cinereus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Xenus_cinereus	AY894238.1	870	Xenus cinereus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Xenus_cinereus	AF417922.1	1143	Xenus cinereus cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product

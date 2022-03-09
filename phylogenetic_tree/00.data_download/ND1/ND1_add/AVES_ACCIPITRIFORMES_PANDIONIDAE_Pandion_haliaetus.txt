@@ -1,0 +1,6 @@
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	MN356325.1	18153	Pandion haliaetus mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	EU166947.1	2667	Pandion haliaetus tRNA-Leu gene, partial sequence; NADH dehydrogenase subunit 1 gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	DQ780884.1	17864	Pandion haliaetus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	KP857843.1	1211	Pandion haliaetus isolate CAS95638 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; and tRNA-Ile and tRNA-Gln genes, complete sequence; mitochondrial
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	NC_008550.1	17864	Pandion haliaetus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_PANDIONIDAE_Pandion_haliaetus	JF909888.1	2320	Pandion haliaetus voucher CAS 95638 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

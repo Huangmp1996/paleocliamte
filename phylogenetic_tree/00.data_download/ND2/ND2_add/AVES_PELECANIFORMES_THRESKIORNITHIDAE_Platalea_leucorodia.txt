@@ -1,0 +1,7 @@
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	KX098494.1	1103	Platalea leucorodia voucher IN110 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	KT901459.1	16846	Platalea leucorodia mitochondrion, complete genome
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GU346997.1	1024	Platalea leucorodia archeri isolate pla3527 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GU346996.1	1024	Platalea leucorodia isolate pl2648 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GU346995.1	1024	Platalea leucorodia isolate pl2629 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GQ199608.1	16715	Platalea leucorodia mitochondrion, complete genome
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	NC_012772.1	16715	Platalea leucorodia mitochondrion, complete genome

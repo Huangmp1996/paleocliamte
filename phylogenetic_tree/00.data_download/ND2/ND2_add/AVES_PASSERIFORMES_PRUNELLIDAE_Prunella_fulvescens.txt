@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	MN356320.1	16838	Prunella fulvescens mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	NC_035747.1	16837	Prunella fulvescens isolate PF201601 mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KY471556.1	16837	Prunella fulvescens isolate PF201601 mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KX109709.1	953	Prunella fulvescens isolate MAR7548 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KJ455602.1	1041	Prunella fulvescens voucher UWBM:66351 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KC759283.1	1041	Prunella fulvescens voucher DAB2267 (UWBM 57989) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KC759281.1	1041	Prunella fulvescens voucher DAB0245 (UWBM 46404) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,5 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	DQ335714.1	755	Pseudohynobius shuichengensis voucher CIB-XM1079 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	DQ335713.1	755	Pseudohynobius shuichengensis voucher CIB-XM1078 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	NC_021001.1	16394	Pseudohynobius shuichengensis voucher CIB-XM2855 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	JX867276.1	755	Pseudohynobius shuichengensis voucher GZNU2007110701 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	FJ532060.1	16394	Pseudohynobius shuichengensis voucher CIB-XM2855 mitochondrion, complete genome

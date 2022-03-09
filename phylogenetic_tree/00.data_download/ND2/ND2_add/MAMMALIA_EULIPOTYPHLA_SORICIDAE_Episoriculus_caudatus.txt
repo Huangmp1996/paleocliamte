@@ -1,0 +1,8 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	NC_026131.1	17129	Episoriculus caudatus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	KM503097.1	17129	Episoriculus caudatus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981323.1	1044	Episoriculus caudatus isolate Epicau19 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981322.1	1044	Episoriculus caudatus isolate Epicau18 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981321.1	1044	Episoriculus caudatus isolate Epicau13 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981320.1	1044	Episoriculus caudatus isolate Epicau12 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981319.1	1044	Episoriculus caudatus isolate Epicau11 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_caudatus	GU981318.1	1044	Episoriculus caudatus isolate Epicau08 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

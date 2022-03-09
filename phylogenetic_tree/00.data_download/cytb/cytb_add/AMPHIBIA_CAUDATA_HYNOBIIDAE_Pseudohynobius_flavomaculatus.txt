@@ -1,0 +1,5 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_flavomaculatus	DQ335719.1	754	Pseudohynobius flavomaculatus voucher CIB-200087 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_flavomaculatus	AY028774.1	650	Pseudohynobius flavomaculatus strain MVZ231151 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_flavomaculatus	AY028773.1	650	Pseudohynobius flavomaculatus strain MVZ231150 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_flavomaculatus	NC_020635.1	16389	Pseudohynobius flavomaculatus voucher CIB-XM2084 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_flavomaculatus	FJ532059.1	16389	Pseudohynobius flavomaculatus voucher CIB-XM2084 mitochondrion, complete genome

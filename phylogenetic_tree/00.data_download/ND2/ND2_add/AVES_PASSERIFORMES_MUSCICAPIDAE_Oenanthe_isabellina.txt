@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	NC_040290.1	16812	Oenanthe isabellina mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	KU097327.1	16812	Oenanthe isabellina mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	JX256091.1	1041	Oenanthe isabellina voucher NRM 90181 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	JX256039.1	1023	Oenanthe isabellina voucher BMNH A.2005.2.1 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	GU055427.1	1038	Oenanthe isabellina voucher UWBM 56619 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	MN991571.1	1143	Ficedula westermanni voucher LSUMNS B-88117 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	DQ674479.1	998	Ficedula westermanni voucher FMNH357529 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	KJ456281.1	1041	Ficedula westermanni cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	KJ930559.1	1143	Ficedula westermanni voucher KU19122 cytochrome b (cytb) gene, complete cds; mitochondrial

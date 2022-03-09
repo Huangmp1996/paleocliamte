@@ -1,0 +1,14 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	NC_044651.1	16682	Tringa nebularia mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	MK460251.1	16682	Tringa nebularia mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	KU722517.1	657	Tringa nebularia voucher USNM:Birds:647961 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	EU525573.1	878	Tringa nebularia voucher 1374069 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	EU525572.1	892	Tringa nebularia voucher MKP 2184 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	EU525571.1	652	Tringa nebularia voucher SBB 026 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	EU525570.1	892	Tringa nebularia voucher MKP 1439 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	EU525569.1	892	Tringa nebularia voucher MKP 1440 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	GU572137.1	648	Tringa nebularia voucher BISE-Aves128 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	GU572136.1	648	Tringa nebularia voucher BISE-Aves341 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	GU571660.1	735	Tringa nebularia voucher NHMO-BC358 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	GU571659.1	750	Tringa nebularia voucher NHMO-BC30 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	JN801386.1	678	Tringa nebularia voucher USNM 620113 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	JN801385.1	652	Tringa nebularia voucher USNM 620112 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

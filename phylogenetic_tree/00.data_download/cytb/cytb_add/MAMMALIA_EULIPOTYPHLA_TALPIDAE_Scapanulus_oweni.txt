@@ -1,0 +1,11 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KX754483.1	1140	Scapanulus oweni isolate Soweni_4 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KX754482.1	1140	Scapanulus oweni isolate Soweni_3 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KX754481.1	1140	Scapanulus oweni isolate Soweni_2 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KX754480.1	1140	Scapanulus oweni isolate Soweni_1 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KP995373.1	1140	Scapanulus oweni voucher ZMMU:Chi11-8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KP995372.1	1140	Scapanulus oweni voucher ZMMU:Chi12-95 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KP995371.1	1140	Scapanulus oweni voucher ZMMU:Chi12-59 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KC192653.1	1101	Scapanulus oweni voucher QL120109 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KC192652.1	1140	Scapanulus oweni voucher QL12080 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	NC_025777.1	16826	Scapanulus oweni voucher SAF_QL120129 mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KM506754.1	16826	Scapanulus oweni voucher SAF_QL120129 mitochondrion, complete genome

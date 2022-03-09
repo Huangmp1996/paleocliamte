@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	MT676514.1	880	Pyrrhula nipalensis voucher NTNU:T2865 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	AF342884.1	924	Pyrrhula nipalensis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284677.1	924	Pyrrhula nipalensis ricketti isolate Pnip13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284676.1	924	Pyrrhula nipalensis nipalensis isolate Pnip11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284675.1	924	Pyrrhula nipalensis nipalensis isolate Pnip10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284674.1	923	Pyrrhula nipalensis uchidai isolate Pnip9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284673.1	763	Pyrrhula nipalensis uchidai isolate Pnip7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284672.1	910	Pyrrhula nipalensis ricketti isolate Pnip6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284671.1	924	Pyrrhula nipalensis ricketti isolate Pnip4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284670.1	924	Pyrrhula nipalensis ricketti isolate Pnip3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284669.1	924	Pyrrhula nipalensis nipalensis isolate Pnip2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_nipalensis	HQ284668.1	254	Pyrrhula nipalensis nipalensis isolate Pnip1 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,20 @@
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	MG546462.1	1019	Rhipidura albicollis voucher LSUMNS B-88238 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	MG546461.1	1041	Rhipidura albicollis voucher LSUMNS B-88230 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	MG546460.1	953	Rhipidura albicollis voucher LSUMNS B-88121 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	MG546459.1	1041	Rhipidura albicollis voucher LSUMNS B-79098 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	MG546458.1	1041	Rhipidura albicollis voucher LSUMNS B-79050 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	MG546457.1	1041	Rhipidura albicollis voucher LSUMNS B-52563 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547971.1	1041	Rhipidura albicollis isolate BB88121_Pueh NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547970.1	1041	Rhipidura albicollis isolate B88048_Mulu NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547969.1	1041	Rhipidura albicollis isolate B85181_Mulu NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547968.1	1041	Rhipidura albicollis isolate B61568_Meligan NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547967.1	1041	Rhipidura albicollis isolate B61547_Meligan NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547966.1	767	Rhipidura albicollis isolate B38625_Kinabalu NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547965.1	1041	Rhipidura albicollis isolate B61634_Kinabalu NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547964.1	1041	Rhipidura albicollis isolate B52633_TrusMadi NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	KY547963.1	1041	Rhipidura albicollis isolate B52662_TrusMadi NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	AY529969.2	1036	Rhipidura albicollis voucher MNHN 5-48 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	GQ145387.1	1041	Rhipidura albicollis voucher LSUMNS B36474 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	GQ145386.1	1041	Rhipidura albicollis voucher KUNHM 10230 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	JN614716.1	1041	Rhipidura albicollis voucher NRM 20046755 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_RHIPIDURIDAE_Rhipidura_albicollis	JQ864481.1	1041	Rhipidura albicollis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,49 @@
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	KY315503.1	590	Hipposideros larvatus voucher MZF01092 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	DQ666480.1	488	Hipposideros larvatus isolate 1232 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JQ365643.1	652	Hipposideros larvatus voucher ZMMU:S-186739 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JQ365642.1	657	Hipposideros larvatus voucher ZMMU:S-186742 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JQ365641.1	647	Hipposideros larvatus voucher ZMMU:S-186743 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JQ365640.1	650	Hipposideros larvatus voucher ZMMU:S-186746 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JQ365639.1	657	Hipposideros larvatus voucher ZMMU:S-186747 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JQ365638.1	657	Hipposideros larvatus voucher ZMMU:S-186749 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443928.1	657	Hipposideros larvatus voucher ROM 118574 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443927.1	657	Hipposideros larvatus voucher ROM 118575 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443926.1	657	Hipposideros larvatus voucher ROM 118578 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443925.1	462	Hipposideros larvatus voucher ROM 118585 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443924.1	657	Hipposideros larvatus voucher ROM 118595 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443923.1	657	Hipposideros larvatus voucher ROM 118515 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443922.1	657	Hipposideros larvatus voucher ROM 118519 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443921.1	653	Hipposideros larvatus voucher ROM 118526 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443920.1	657	Hipposideros larvatus voucher ROM 118527 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443919.1	651	Hipposideros larvatus voucher ROM 118603 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443918.1	657	Hipposideros larvatus voucher ROM 118604 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443917.1	653	Hipposideros larvatus voucher ROM 118612 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443916.1	653	Hipposideros larvatus voucher ROM 118619 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443915.1	607	Hipposideros larvatus voucher ROM 118620 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443914.1	645	Hipposideros larvatus voucher ROM 118622 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443913.1	657	Hipposideros larvatus voucher ROM 118623 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443912.1	649	Hipposideros larvatus voucher ROM 118624 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443911.1	657	Hipposideros larvatus voucher ROM 118625 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443910.1	608	Hipposideros larvatus voucher ROM 118626 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443909.1	556	Hipposideros larvatus voucher ROM 118627 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443908.1	657	Hipposideros larvatus voucher ROM 118628 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443907.1	657	Hipposideros larvatus voucher ROM 118629 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443906.1	657	Hipposideros larvatus voucher ROM 118630 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443905.1	657	Hipposideros larvatus voucher ROM 118640 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443904.1	657	Hipposideros larvatus voucher ROM 118641 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443903.1	657	Hipposideros larvatus voucher ROM 118645 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443902.1	657	Hipposideros larvatus voucher ROM 118646 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443901.1	642	Hipposideros larvatus voucher ROM 118647 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443900.1	653	Hipposideros larvatus voucher ROM 118649 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443899.1	657	Hipposideros larvatus voucher ROM 118656 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443898.1	657	Hipposideros larvatus voucher ROM 118657 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443897.1	657	Hipposideros larvatus voucher ROM 118658 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443896.1	657	Hipposideros larvatus voucher ROM 118659 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443895.1	657	Hipposideros larvatus voucher ROM 110803 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443894.1	657	Hipposideros larvatus voucher ROM 107603 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443893.1	657	Hipposideros larvatus voucher ROM 110816 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443892.1	657	Hipposideros larvatus voucher ROM 110823 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443891.1	657	Hipposideros larvatus voucher ROM 110928 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443890.1	657	Hipposideros larvatus voucher ROM 110929 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443889.1	657	Hipposideros larvatus voucher ROM 110782 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_larvatus	JF443888.1	657	Hipposideros larvatus voucher ROM 110794 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

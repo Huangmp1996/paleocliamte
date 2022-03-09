@@ -1,0 +1,19 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MW115293.1	16004	Amolops chunganensis mitochondrion, partial genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MN953767.1	531	Amolops chunganensis voucher YPX4947 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MN953766.1	531	Amolops chunganensis voucher YPX20543 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MN953762.1	529	Amolops chunganensis voucher YPX18653 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MN953671.1	518	Amolops chunganensis voucher KIZ03756 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MN953670.1	529	Amolops chunganensis voucher KIZYPX18652 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MN953669.1	531	Amolops chunganensis voucher SCUM045818HX large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MN953668.1	531	Amolops chunganensis voucher SCUM045820HX large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MK263264.1	1027	Amolops chunganensis voucher SYS a4213 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MK263263.1	1028	Amolops chunganensis voucher SYS a4212 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MG991886.1	598	Amolops chunganensis voucher SYS a004213 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	MG991885.1	597	Amolops chunganensis voucher SYS a004212 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	KX645666.1	16795	Amolops chunganensis mitochondrion, partial genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	KX507310.1	541	Amolops chunganensis voucher SYSa003136 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	KU840605.1	554	Amolops chunganensis clone 16SF11 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	KU840604.1	552	Amolops chunganensis clone 16SS9 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	KF771285.1	1606	Amolops chunganensis 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	AB211477.1	867	Amolops chunganensis mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Amolops_chunganensis	DQ204476.1	1411	Amolops chunganensis voucher KIZ C93116 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_nipalensis	MW054894.1	1013	Myotis nipalensis voucher CDZTU B9 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_nipalensis	MW054881.1	1140	Myotis nipalensis voucher ZSI VMERS 445 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_nipalensis	AY699854.1	340	Myotis nipalensis isolate P_e cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_nipalensis	AY699844.1	400	Myotis nipalensis isolate P_b cytochrome b (cytb) gene, partial cds; mitochondrial

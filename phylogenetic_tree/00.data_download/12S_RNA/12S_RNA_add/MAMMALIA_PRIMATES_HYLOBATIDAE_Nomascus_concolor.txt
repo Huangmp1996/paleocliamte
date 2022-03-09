@@ -1,0 +1,3 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	AY012134.1	1018	Nomascus concolor 12S ribosomal RNA gene, partial sequence; and tRNA-Val gene, complete sequence; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	HQ622808.1	16133	Nomascus concolor isolate Nc mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	AB049471.1	1541	Hylobates concolor mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence, isolate:#145

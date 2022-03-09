@@ -1,0 +1,21 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	MH645656.1	718	Gyps bengalensis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	X86750.1	1026	G.bengalensis mitochondrial cytb gene
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496426.1	1026	Gyps bengalensis haplotype GB26 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496425.1	1024	Gyps bengalensis haplotype GB25 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496424.1	1026	Gyps bengalensis haplotype GB24 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496423.1	1026	Gyps bengalensis haplotype GB23 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496422.1	1024	Gyps bengalensis haplotype GB22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496421.1	1026	Gyps bengalensis haplotype GB21 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496420.1	1026	Gyps bengalensis haplotype GB20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496419.1	1024	Gyps bengalensis haplotype GB19 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496418.1	1024	Gyps bengalensis haplotype GB18 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496417.1	1024	Gyps bengalensis haplotype GB17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496416.1	1026	Gyps bengalensis haplotype GB16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	EU496415.1	1026	Gyps bengalensis haplotype GB15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	AY987259.1	1039	Gyps bengalensis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	DQ908979.1	1024	Gyps bengalensis haplotype 26 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	DQ908978.1	1024	Gyps bengalensis haplotype 25 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	DQ908977.1	1024	Gyps bengalensis haplotype 24 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	DQ908976.1	1024	Gyps bengalensis haplotype 23 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	DQ908975.1	1024	Gyps bengalensis haplotype 22 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_bengalensis	DQ908974.1	1024	Gyps bengalensis haplotype 21 cytochrome b (cytB) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	KJ862164.1	648	Grus nigricollis voucher N24 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	KJ862163.1	648	Grus nigricollis voucher N23 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	KJ862157.1	648	Grus nigricollis voucher N17 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	NC_020579.1	16646	Grus nigricollis mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	FJ769851.1	16646	Grus nigricollis mitochondrion, complete genome

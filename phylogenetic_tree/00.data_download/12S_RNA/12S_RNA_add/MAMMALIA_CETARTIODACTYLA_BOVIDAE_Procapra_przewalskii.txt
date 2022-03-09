@@ -1,0 +1,6 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	MG798933.1	16547	Procapra przewalskii voucher PPRZE20171231 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	MG674218.1	17376	Procapra przewalskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	GU386355.1	16548	Procapra przewalskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	NC_014875.1	16548	Procapra przewalskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	EU247756.1	565	Procapra przewalskii clone AS1-10 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_przewalskii	AF387625.1	425	Procapra przewalskii 12S ribosomal RNA gene, partial sequence; mitochondrial

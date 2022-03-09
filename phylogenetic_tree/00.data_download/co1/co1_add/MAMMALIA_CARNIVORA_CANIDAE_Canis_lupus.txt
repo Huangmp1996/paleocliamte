@@ -1,0 +1,92 @@
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	KY033225.1	648	Canis lupus cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT622509.1	16690	Canis lupus isolate DM1124 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042364.1	16724	Canis lupus isolate Wolf.WI.W081311JDN1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042363.1	16724	Canis lupus isolate Wolf.WI.W051810DS1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042362.1	16724	Canis lupus isolate Wolf.WI.W051810JH1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042361.1	16724	Canis lupus isolate Wolf.WI.W081111WJP1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042360.1	16724	Canis lupus isolate Wolf.WI.W092511BJC1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042359.1	16724	Canis lupus isolate Wolf.WI.W051910BP2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042358.1	16724	Canis lupus isolate Wolf.WI.W020411CAH2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042346.1	16731	Canis lupus isolate Wolf.WY.O30104 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042345.1	16731	Canis lupus isolate Wolf.WY.O30103 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042344.1	16731	Canis lupus isolate Wolf.WY.O21369 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042343.1	16730	Canis lupus isolate Wolf.WI.W082010BK1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042342.1	16730	Canis lupus isolate Wolf.WI.W060411ADW1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042341.1	16730	Canis lupus isolate Wolf.WI.W051910BP3 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042340.1	16730	Canis lupus isolate Wolf.WI.W092811JIM1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042339.1	16730	Canis lupus isolate Wolf.WI.J30945 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042338.1	16730	Canis lupus isolate Wolf.WY.O21375 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042337.1	16731	Canis lupus isolate Wolf.WY.O10741 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042336.1	16730	Canis lupus isolate Wolf.WY.O31009 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042335.1	16731	Canis lupus isolate Wolf.WY.O10737 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042334.1	16730	Canis lupus isolate Wolf.ID.N20749 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042333.1	16730	Canis lupus isolate Wolf.WY.O30105 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042332.1	16730	Canis lupus isolate Wolf.WY.O10735 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042331.1	16731	Canis lupus isolate Wolf.WY.O10734 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042330.1	16730	Canis lupus isolate Wolf.ID.N20748 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042329.1	16730	Canis lupus isolate Wolf.WY.O10742 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042328.1	16730	Canis lupus isolate Wolf.ID.N20737 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042327.1	16731	Canis lupus isolate Wolf.ID.N20735 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042326.1	16730	Canis lupus isolate Wolf.ID.N20736 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042325.1	16730	Canis lupus familiaris isolate Dog.GIL00111.Pekingese mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042324.1	16731	Canis lupus familiaris isolate Dog.GIL00001 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042323.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1293 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042322.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1294 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042321.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1126 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042320.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1292 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042319.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1291 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042318.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1290 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042317.1	16730	Canis lupus baileyi isolate Mexican_Wolf.1289 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042316.1	16732	Canis lupus familiaris isolate Dog.GIL00123.Labradoodle mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042315.1	16732	Canis lupus familiaris isolate Dog.GIL00112.Saint_Bernard mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042314.1	16730	Canis lupus familiaris isolate Dog.GIL00121.Great_Pyrenees mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ042313.1	16730	Canis lupus familiaris isolate Dog.GIL00002 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN509797.1	16731	Canis lupus familiaris isolate PQ2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN509796.1	16760	Canis lupus familiaris isolate PQ1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367915.1	15458	Canis lupus isolate S14-0332 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367914.1	15458	Canis lupus lycaon isolate S14-0331 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367913.1	15458	Canis lupus familiaris isolate S12-0692 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367898.1	15458	Canis lupus isolate NMNH-52057 voucher NMNH-52057 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MZ367897.1	15458	Canis lupus lycaon isolate MCZ-BOM-11183 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	NC_002008.4	16727	Canis lupus familiaris mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MH393631.1	12572	Canis lupus isolate L4 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MH393630.1	12572	Canis lupus isolate L3 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MH393629.1	12572	Canis lupus isolate L2 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MH393628.1	12572	Canis lupus isolate L1 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MH393627.1	13472	Canis lupus chanco isolate L5 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MH393626.1	13477	Canis lupus laniger isolate H7 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MH393625.1	13479	Canis lupus laniger isolate H6 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MH393624.1	13490	Canis lupus laniger isolate H5 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT680184.1	95	Canis lupus familiaris isolate Fee cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	NM_001003023.2	2703	Canis lupus familiaris prostaglandin-endoperoxide synthase 1 (PTGS1), mRNA
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW549038.1	16726	Canis lupus familiaris mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MW051511.1	16761	Canis lupus familiaris breed Basenji mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	NC_051813.1	62002293	Canis lupus familiaris isolate SID07034 breed Labrador retriever chromosome 9, ROS_Cfam_1.0, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	NC_006591.4	60315500	Canis lupus familiaris isolate Tasha breed boxer chromosome 9, alternate assembly Dog10K_Boxer_Tasha, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MT796489.1	16726	Canis lupus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542345.1	675	Canis lupus familiaris isolate M38 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542344.1	675	Canis lupus familiaris isolate M36 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542343.1	675	Canis lupus familiaris isolate M35 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542342.1	675	Canis lupus familiaris isolate M34 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542341.1	675	Canis lupus familiaris isolate M33 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542340.1	675	Canis lupus familiaris isolate M32 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542339.1	675	Canis lupus familiaris isolate M31 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542338.1	675	Canis lupus familiaris isolate M30 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542337.1	675	Canis lupus familiaris isolate M29 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542336.1	675	Canis lupus familiaris isolate M28 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542335.1	675	Canis lupus familiaris isolate M26 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542334.1	675	Canis lupus familiaris isolate M25 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542333.1	675	Canis lupus familiaris isolate M24 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542332.1	675	Canis lupus familiaris isolate M23 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542331.1	675	Canis lupus familiaris isolate M22 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542330.1	675	Canis lupus familiaris isolate M21 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542329.1	675	Canis lupus familiaris isolate M20 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542328.1	675	Canis lupus familiaris isolate M19 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542327.1	675	Canis lupus familiaris isolate M18 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542326.1	675	Canis lupus familiaris isolate M17 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542325.1	675	Canis lupus familiaris isolate M15 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542324.1	675	Canis lupus familiaris isolate M14 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542323.1	675	Canis lupus familiaris isolate M13 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542322.1	675	Canis lupus familiaris isolate M12 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542321.1	675	Canis lupus familiaris isolate M11 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_CANIDAE_Canis_lupus	MN542320.1	675	Canis lupus familiaris isolate M10 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial

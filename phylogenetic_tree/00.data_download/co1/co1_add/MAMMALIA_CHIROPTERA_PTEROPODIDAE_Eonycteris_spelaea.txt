@@ -1,0 +1,30 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	NC_046904.1	16700	Eonycteris spelaea isolate JPH05 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MN816309.1	16514	Eonycteris spelaea isolate VN410 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MN816308.1	16700	Eonycteris spelaea isolate JPH05 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MK585799.1	618	Eonycteris spelaea voucher 11373 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MK585745.1	618	Eonycteris spelaea voucher 11372 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MK585741.1	616	Eonycteris spelaea voucher Es1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MK585712.1	566	Eonycteris spelaea voucher 11338 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MK622924.1	610	Eonycteris spelaea voucher MNMQ074 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MK622923.1	610	Eonycteris spelaea voucher MNMQ073 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	MG821173.1	615	Eonycteris spelaea voucher NHM.OU.CHI.114.2015 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540265.1	657	Eonycteris spelaea voucher ROM MAM 110897 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540264.1	657	Eonycteris spelaea voucher ROM MAM 107506 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540263.1	657	Eonycteris spelaea voucher ROM MAM 107505 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540262.1	657	Eonycteris spelaea voucher ROM MAM 107504 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540261.1	656	Eonycteris spelaea voucher ROM MAM 107503 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540260.1	657	Eonycteris spelaea voucher ROM MAM 107502 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540259.1	657	Eonycteris spelaea voucher ROM MAM 117970 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540258.1	651	Eonycteris spelaea voucher ROM MAM 107698 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540257.1	657	Eonycteris spelaea voucher ROM MAM 110515 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540256.1	657	Eonycteris spelaea voucher ROM MAM 111012 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540255.1	657	Eonycteris spelaea voucher ROM MAM 107500 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540254.1	656	Eonycteris spelaea voucher ROM MAM 107539 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540253.1	657	Eonycteris spelaea voucher ROM MAM 107540 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540252.1	657	Eonycteris spelaea voucher ROM MAM 107541 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540251.1	657	Eonycteris spelaea voucher AGS980404-21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540250.1	377	Eonycteris spelaea voucher EBD 25108 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540249.1	657	Eonycteris spelaea voucher CMF920710-01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	HM540248.1	657	Eonycteris spelaea voucher ZMMU S-167148 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	KT291761.1	639	Eonycteris spelaea isolate ESAI-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Eonycteris_spelaea	JF443875.1	657	Eonycteris spelaea voucher ROM 107501 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

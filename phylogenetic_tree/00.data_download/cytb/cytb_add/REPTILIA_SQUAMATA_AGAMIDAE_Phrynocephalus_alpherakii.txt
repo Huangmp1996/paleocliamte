@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691640.1	288	Phrynocephalus guttatus guttatus voucher Pgut1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691639.1	288	Phrynocephalus guttatus voucher ZMMU R-12670 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691638.1	288	Phrynocephalus guttatus voucher ZMMU R-12942 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691637.1	288	Phrynocephalus guttatus voucher ZMMU R-13088 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691636.1	288	Phrynocephalus guttatus melanurus voucher ZMMU R-12332 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	AY053919.1	307	Phrynocephalus guttatus isolate 0076 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	AY053918.1	307	Phrynocephalus guttatus isolate 0073 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	AY053917.1	307	Phrynocephalus guttatus isolate 0921 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	AY053916.1	307	Phrynocephalus guttatus isolate 0920 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

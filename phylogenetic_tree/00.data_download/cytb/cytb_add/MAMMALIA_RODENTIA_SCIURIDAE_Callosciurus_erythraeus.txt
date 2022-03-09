@@ -1,0 +1,48 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KY410897.1	16249	Callosciurus erythraeus voucher USNM 279184 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KY410893.1	16181	Callosciurus erythraeus voucher USNM 259747 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KY410892.1	16223	Callosciurus erythraeus voucher USNM 241492 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KY410889.1	16177	Callosciurus erythraeus voucher CE 189 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KY410888.1	16176	Callosciurus erythraeus voucher CE 188 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KY410887.1	16178	Callosciurus erythraeus voucher MVZ 181207 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256836.1	1140	Callosciurus erythraeus isolate TQ_139 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256835.1	1140	Callosciurus erythraeus isolate TQ_21 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256834.1	1140	Callosciurus erythraeus isolate TQ_10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256833.1	1140	Callosciurus erythraeus isolate TQ_9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256832.1	1140	Callosciurus erythraeus isolate TQ_5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256822.1	1140	Callosciurus erythraeus isolate BK_68 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256821.1	1140	Callosciurus erythraeus isolate BK_60 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256820.1	1140	Callosciurus erythraeus isolate BK_59 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256819.1	1140	Callosciurus erythraeus isolate BK_58 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256818.1	1140	Callosciurus erythraeus isolate BK_37 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256817.1	1140	Callosciurus erythraeus isolate BK_36 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256816.1	1140	Callosciurus erythraeus isolate BK_35 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256809.1	1140	Callosciurus erythraeus isolate LC_24 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256808.1	1140	Callosciurus erythraeus isolate LC_23 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256802.1	1140	Callosciurus erythraeus isolate ThN_22 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256801.1	1140	Callosciurus erythraeus isolate ThN_21 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256800.1	1140	Callosciurus erythraeus isolate ThN_20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	MK256799.1	1140	Callosciurus erythraeus isolate ThN_19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KP708709.1	16542	Callosciurus erythraeus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KY117538.1	16656	Callosciurus erythraeus isolate 51 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	LC192444.1	571	Callosciurus erythraeus mitochondrial cyt b gene for cytochrome b, partial cds, haplotype: C37
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	LC101278.1	571	Callosciurus erythraeus mitochondrial cyt b gene for cytochrome b, partial cds, haplotype: C7
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	LC101277.1	571	Callosciurus erythraeus mitochondrial cyt b gene for cytochrome b, partial cds, haplotype: C6
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	LC101276.1	571	Callosciurus erythraeus mitochondrial cyt b gene for cytochrome b, partial cds, haplotype: C5
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	LC101275.1	571	Callosciurus erythraeus mitochondrial cyt b gene for cytochrome b, partial cds, haplotype: C4
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	LC101274.1	571	Callosciurus erythraeus mitochondrial cyt b gene for cytochrome b, partial cds, haplotype: C3
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	LC101273.1	571	Callosciurus erythraeus mitochondrial cyt b gene for cytochrome b, partial cds, haplotype: C2
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	LC101272.1	571	Callosciurus erythraeus mitochondrial cyt b gene for cytochrome b, partial cds, haplotype: C1
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	HQ698360.1	1140	Callosciurus erythraeus voucher TESRI-B0692 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	HQ698359.1	1140	Callosciurus erythraeus voucher TESRI-B0682 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	HQ698358.1	1140	Callosciurus erythraeus voucher TESRI-B0678 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	NC_025550.1	16550	Callosciurus erythraeus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	KM502568.1	16550	Callosciurus erythraeus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB716962.1	1140	Callosciurus erythraeus griseimanus mitochondrial cytb gene for cytochrome b, complete cds, note: Identity number 187
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB716961.1	1140	Callosciurus erythraeus griseimanus mitochondrial cytb gene for cytochrome b, complete cds, note: Identity number 186
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB716960.1	1140	Callosciurus erythraeus griseimanus mitochondrial cytb gene for cytochrome b, complete cds, note: Identity number 64
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB716959.1	1140	Callosciurus erythraeus griseimanus mitochondrial cytb gene for cytochrome b, complete cds, note: Identity number 63
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB716958.1	1140	Callosciurus erythraeus griseimanus mitochondrial cytb gene for cytochrome b, complete cds, note: Identity number OS341
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB499909.1	1140	Callosciurus erythraeus mitochondrial cytb gene for cytochrome b, complete cds, isolate: 34
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB499908.1	1140	Callosciurus erythraeus mitochondrial cytb gene for cytochrome b, complete cds, isolate: 33
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB043877.1	1080	Callosciurus erythraeus mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_erythraeus	AB043876.1	1080	Callosciurus erythraeus mitochondrial cytb gene for cytochrome b, partial cds

@@ -1,0 +1,32 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN548102.1	16691	Lepus tibetanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN539746.1	16753	Lepus tibetanus pamirensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN098953.1	1117	Lepus tibetanus voucher A5044 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN098952.1	1138	Lepus tibetanus voucher A5018 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN098951.1	1138	Lepus tibetanus voucher A5021 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN098950.1	1138	Lepus tibetanus voucher A5046 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN098949.1	1138	Lepus tibetanus voucher A5045 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN098948.1	1138	Lepus tibetanus voucher A5019 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN098947.1	1138	Lepus tibetanus voucher A5017 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN539747.1	16809	Lepus tibetanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170174.1	1140	Lepus tibetanus haplotype H21 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170173.1	1140	Lepus tibetanus haplotype H20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170172.1	1140	Lepus tibetanus haplotype H19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170171.1	1140	Lepus tibetanus haplotype H18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170170.1	1140	Lepus tibetanus haplotype H17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170169.1	1140	Lepus tibetanus haplotype H16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170168.1	1140	Lepus tibetanus haplotype H15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170167.1	1140	Lepus tibetanus haplotype H14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170166.1	1140	Lepus tibetanus haplotype H13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170165.1	1140	Lepus tibetanus haplotype H12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170164.1	1140	Lepus tibetanus haplotype H11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170163.1	1140	Lepus tibetanus haplotype H10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170162.1	1140	Lepus tibetanus haplotype H9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170161.1	1140	Lepus tibetanus haplotype H8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170160.1	1140	Lepus tibetanus haplotype H7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170159.1	1140	Lepus tibetanus haplotype H6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170158.1	1140	Lepus tibetanus haplotype H5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170157.1	1140	Lepus tibetanus haplotype H4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170156.1	1140	Lepus tibetanus haplotype H3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170155.1	1140	Lepus tibetanus haplotype H2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MH170154.1	1140	Lepus tibetanus haplotype H1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	LC073697.1	17597	Lepus tibetanus pamirensis mitochondrial DNA, complete genome

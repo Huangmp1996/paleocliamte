@@ -1,0 +1,5 @@
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	EU585604.1	1045	Aix galericulata voucher IPMB 7083 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	KF437906.1	16651	Aix galericulata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	NC_023969.1	16605	Aix galericulata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	KJ169568.1	16605	Aix galericulata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	U46484.1	307	Aix galericulata cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds

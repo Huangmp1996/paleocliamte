@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293479.1	875	Sylvia curruca halimodendri isolate 97 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293478.1	875	Sylvia curruca halimodendri isolate 94 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293477.1	875	Sylvia curruca halimodendri isolate 93 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293476.1	875	Sylvia curruca curruca isolate 213 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293475.1	875	Sylvia curruca curruca isolate 137 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293474.1	875	Sylvia curruca curruca isolate 253 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293473.1	875	Sylvia curruca curruca isolate 162 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293472.1	875	Sylvia curruca curruca isolate 145 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293471.1	875	Sylvia curruca curruca isolate 169 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293470.1	875	Sylvia curruca curruca isolate 235 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293469.1	875	Sylvia curruca curruca isolate 093b cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293468.1	875	Sylvia curruca curruca isolate 282b cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293467.1	875	Sylvia curruca curruca isolate 38 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293466.1	875	Sylvia curruca curruca isolate 152 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293465.1	875	Sylvia curruca curruca isolate 285b cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293464.1	875	Sylvia curruca curruca isolate 299b cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293463.1	875	Sylvia curruca curruca isolate 216 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293462.1	875	Sylvia curruca curruca isolate 205 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293461.1	875	Sylvia curruca curruca isolate 278b cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293460.1	875	Sylvia curruca curruca isolate 155 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293459.1	875	Sylvia curruca curruca isolate 230 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MT293458.1	875	Sylvia curruca curruca isolate 29 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	NC_046417.1	17959	Sylvia curruca mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MG681102.1	17959	Sylvia curruca mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671506.1	803	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW44W
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671505.1	532	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW45
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671504.1	731	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW44
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671503.1	872	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW43
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671502.1	921	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW42
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671501.1	958	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW41
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671500.1	982	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW40
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671499.1	922	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW39
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671498.1	1008	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW38
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671497.1	891	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW37
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671496.1	1005	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW36
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671495.1	900	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW35
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671494.1	569	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW34
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671493.1	902	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW31
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671492.1	782	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW30
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671491.1	899	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW29
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671490.1	875	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW28
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671489.1	881	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW27
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671488.1	919	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW26
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671487.1	896	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW25
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671486.1	516	Sylvia curruca halimodendri mitochondrial partial cytb gene for cytochrome b, isolate LW24
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671485.1	1000	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW23
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671484.1	920	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW21
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671483.1	1022	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW20
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671482.1	890	Sylvia curruca curruca mitochondrial partial cytb gene for cytochrome b, isolate LW19
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671481.1	886	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW18
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671480.1	921	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW16
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671479.1	946	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW15
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671478.1	946	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW14
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671477.1	880	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW13
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671476.1	914	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW12
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671475.1	920	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW11
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671474.1	846	Sylvia curruca blythi mitochondrial partial cytb gene for cytochrome b, isolate LW06
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671473.1	464	Sylvia curruca halimodendri mitochondrial partial cytb gene for cytochrome b, isolate LW02
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	LT671472.1	516	Sylvia curruca halimodendri mitochondrial partial cytb gene for cytochrome b, isolate LW01
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	JF502293.1	885	Sylvia curruca voucher B0073 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	JF502292.1	998	Sylvia curruca voucher MSUZM 119078 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	JF502291.1	998	Sylvia curruca voucher USNM 640015 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	HM140305.1	621	Sylvia curruca isolate 743 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	HQ608880.1	1176	Sylvia curruca isolate Y23 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	HQ608839.1	1143	Sylvia curruca isolate Y19 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512659.1	1077	Sylvia curruca curruca voucher DZUG 2938 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512658.1	1077	Sylvia curruca curruca voucher DZUG 2464 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512657.1	1077	Sylvia curruca curruca voucher DZUG 2463 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512656.1	1077	Sylvia curruca curruca voucher DZUG 2462 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512655.1	1077	Sylvia curruca curruca voucher DZUG 2461 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512654.1	1077	Sylvia curruca curruca voucher DZUG 2460 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512653.1	1077	Sylvia curruca curruca voucher DZUG 2459 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512652.1	1077	Sylvia curruca curruca voucher DZUG 1056 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512651.1	1077	Sylvia curruca curruca voucher DZUG 1011 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512650.1	1077	Sylvia curruca curruca voucher DZUG 1010 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512649.1	1077	Sylvia curruca curruca voucher DZUG 1009 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512648.1	1077	Sylvia curruca curruca voucher DZUG 1008 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512647.1	1077	Sylvia curruca curruca voucher DZUG 964 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512646.1	1077	Sylvia curruca curruca voucher DZUG 942 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512645.1	1077	Sylvia curruca curruca voucher DZUG 941 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512644.1	1077	Sylvia curruca curruca voucher DZUG 940 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512643.1	1077	Sylvia curruca curruca voucher DZUG 939 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512642.1	1077	Sylvia curruca curruca voucher DZUG 938 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512641.1	1077	Sylvia curruca curruca voucher DZUG 937 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512640.1	1077	Sylvia curruca curruca voucher DZUG 931 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512639.1	1077	Sylvia curruca curruca voucher DZUG 928 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512556.1	1077	Sylvia curruca halimodendri voucher DZUG 2940 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512555.1	1077	Sylvia curruca halimodendri voucher DZUG 968 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512554.1	1077	Sylvia curruca halimodendri voucher DZUG 967 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512553.1	1077	Sylvia curruca halimodendri voucher DZUG 965 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512552.1	1077	Sylvia curruca halimodendri voucher DZUG 961 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512551.1	1077	Sylvia curruca halimodendri voucher DZUG 960 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512550.1	1077	Sylvia curruca halimodendri voucher DZUG 959 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512549.1	1077	Sylvia curruca halimodendri voucher DZUG 905 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512548.1	1077	Sylvia curruca halimodendri voucher DZUG 904 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512547.1	1077	Sylvia curruca halimodendri voucher DZUG 903 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512546.1	1077	Sylvia curruca halimodendri voucher DZUG 902 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512545.1	1077	Sylvia curruca halimodendri voucher DZUG 901 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512544.1	1077	Sylvia curruca halimodendri voucher DZUG 900 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	KC512543.1	1077	Sylvia curruca halimodendri voucher DZUG 899 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,16 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	GQ303630.1	1181	Pachytriton archospotus voucher CIB 95949 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	GQ303629.1	1181	Pachytriton archospotus voucher CIB 95950 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	GQ303628.1	1181	Pachytriton archospotus voucher CIB 95953 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	KU375009.1	1124	Pachytriton archospotus voucher KIZ021781 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	KU375008.1	1124	Pachytriton archospotus voucher KIZ04564 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	KU375007.1	1124	Pachytriton archospotus voucher KIZ04563 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	KT152560.1	1181	Pachytriton archospotus isolate 24687 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	KT152559.1	1181	Pachytriton archospotus isolate 24683 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	KT152558.1	1181	Pachytriton archospotus isolate YPX8375 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	JX907842.1	1197	Pachytriton archospotus voucher CIB 97909 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	JX907841.1	1197	Pachytriton archospotus voucher CIB 97908 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	JX907840.1	1197	Pachytriton archospotus voucher CIB 97907 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	JX907839.1	1197	Pachytriton archospotus voucher CIB 97915 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	JX907838.1	1197	Pachytriton archospotus voucher CIB 97914 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	JX907837.1	1197	Pachytriton archospotus voucher CIB 97913 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_archospotus	JX237731.1	1181	Pachytriton archospotus voucher CIB 97863 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

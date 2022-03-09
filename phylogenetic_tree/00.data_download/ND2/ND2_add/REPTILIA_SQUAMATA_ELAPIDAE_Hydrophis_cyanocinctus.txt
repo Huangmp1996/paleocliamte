@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	NC_046795.1	17750	Hydrophis cyanocinctus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	MK953550.1	17750	Hydrophis cyanocinctus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	MK199122.1	1029	Hydrophis cyanocinctus voucher CHS857 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	MK199121.1	1029	Hydrophis cyanocinctus voucher CHS856 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

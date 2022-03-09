@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	EU447075.1	846	Garrulax affinis oustaleti cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	EU447074.1	846	Garrulax affinis affinis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	HM140310.1	621	Garrulax affinis isolate 301 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	NC_029402.1	17856	Garrulax affinis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	KT182082.1	17856	Garrulax affinis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	KJ456495.1	1143	Garrulax affinis voucher CAS:95885 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	JF804068.1	619	Garrulax affinis isolate 1860 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	JN827021.1	715	Garrulax affinis voucher KUNHM 15099 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	JN827020.1	1143	Garrulax affinis voucher AMNH DOT5582 cytochrome b (CYTB) gene, complete cds; mitochondrial

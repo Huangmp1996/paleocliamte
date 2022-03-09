@@ -1,0 +1,8 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555114.1	16357	Rucervus eldii voucher SANPT03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555113.1	16357	Rucervus eldii voucher SANPS02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555112.1	16357	Rucervus eldii voucher SANPR01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	KU133959.1	16357	Rucervus eldii eldii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	HM138200.1	16357	Cervus eldi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	JN632697.1	16357	Rucervus eldi isolate CYTO mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	NC_014701.1	16357	Rucervus eldi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	HM204517.1	611	Cervus eldi hainanus isolate PR cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

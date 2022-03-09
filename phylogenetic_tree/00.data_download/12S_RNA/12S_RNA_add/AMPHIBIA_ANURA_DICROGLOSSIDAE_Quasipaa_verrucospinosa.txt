@@ -1,0 +1,11 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	KF199147.1	15063	Quasipaa verrucospinosa mitochondrion, partial genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	AY880486.1	345	Paa verrucospinosa 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	AY880466.1	396	Paa verrucospinosa 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	EU979790.1	357	Paa verrucospinosa voucher MVZ223934 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	EU979753.1	359	Paa verrucospinosa voucher MVZ223858 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	EU979745.1	367	Paa verrucospinosa voucher YNU-HU20030724006 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	EU979669.1	403	Paa verrucospinosa voucher MVZ223858 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	EU979660.1	410	Paa verrucospinosa voucher YNU-HU20030724005 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	EU979658.1	410	Paa verrucospinosa voucher YNU-HU20030724006 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	DQ118482.1	540	Paa verrucospinosa voucher KizYP182 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_verrucospinosa	DQ118438.1	367	Paa verrucospinosa voucher KizYP182 12S ribosomal RNA gene, partial sequence; mitochondrial

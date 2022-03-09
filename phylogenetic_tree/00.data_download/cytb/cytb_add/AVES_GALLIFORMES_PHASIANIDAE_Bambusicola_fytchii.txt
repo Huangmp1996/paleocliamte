@@ -1,0 +1,5 @@
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_fytchii	FJ752423.1	16726	Bambusicola fytchii mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_fytchii	KM055801.1	1143	Bambusicola fytchii voucher 1919 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_fytchii	KM055800.1	1143	Bambusicola fytchii voucher 1917 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_fytchii	NC_020583.1	16726	Bambusicola fytchii mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Bambusicola_fytchii	AM236891.2	1143	Bambusicola fytchii mitochondrial cytb gene for cytochrome b

@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Liuixalus_ocellatus	KC465829.1	1957	Philautus ocellatus voucher HN 0806046 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Liuixalus_ocellatus	GQ285672.1	1958	Philautus ocellatus voucher HN0806045 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Liuixalus_ocellatus	GU120329.1	381	Philautus ocellatus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Liuixalus_ocellatus	GU120328.1	553	Philautus ocellatus 16S ribosomal RNA gene, partial sequence; mitochondrial

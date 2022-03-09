@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	GQ482178.1	694	Montifringilla nivalis voucher UWBM 75733 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	GQ482177.1	694	Montifringilla nivalis voucher UWBM 75743 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	GQ482176.1	675	Montifringilla nivalis voucher UWBM 57874 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	NC_025911.1	16923	Montifringilla nivalis mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KJ148628.1	16923	Montifringilla nivalis mitochondrion, complete genome

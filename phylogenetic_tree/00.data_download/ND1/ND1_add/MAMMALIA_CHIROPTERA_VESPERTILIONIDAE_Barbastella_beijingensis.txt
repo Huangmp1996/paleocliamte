@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_beijingensis	EF534770.1	880	Barbastella beijingensis voucher B00054 (IOZ-BRG00054) NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_beijingensis	EF534769.1	957	Barbastella beijingensis voucher B00065 (IOZ-BRG00065) NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_beijingensis	EF534768.1	957	Barbastella beijingensis voucher A0200N NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Barbastella_beijingensis	EF534767.1	957	Barbastella beijingensis voucher A0199N NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial

@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	EF529947.1	1141	Emberiza pallasi cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	EU571276.1	1076	Emberiza pallasi cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	DQ236212.1	491	Emberiza pallasi clone epa-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	DQ236211.1	491	Emberiza pallasi clone epa-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	DQ792774.1	1143	Emberiza pallasi isolate 35 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	DQ792773.1	1143	Emberiza pallasi isolate 34 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	KP877757.1	972	Emberiza pallasi polaris isolate MAR4884 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	EU325742.1	1076	Emberiza pallasi polaris cytochrome b gene, partial cds; mitochondrial

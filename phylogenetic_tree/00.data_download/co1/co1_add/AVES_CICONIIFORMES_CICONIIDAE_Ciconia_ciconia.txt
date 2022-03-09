@@ -1,0 +1,7 @@
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	MT773178.1	630	Ciconia ciconia isolate 27Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	MN122897.1	16855	Ciconia ciconia mitochondrion, partial genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	KY754495.1	697	Ciconia ciconia voucher Bird6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	AY567881.1	1536	Ciconia ciconia cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	GU571817.1	648	Ciconia ciconia voucher BISE-Aves242 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	GU571816.1	648	Ciconia ciconia voucher BISE-Aves435 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	NC_002197.1	17347	Ciconia ciconia mitochondrion, complete genome

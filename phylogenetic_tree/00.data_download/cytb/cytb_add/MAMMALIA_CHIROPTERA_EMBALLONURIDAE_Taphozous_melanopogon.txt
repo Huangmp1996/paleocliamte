@@ -1,0 +1,21 @@
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MZ286363.1	16566	Taphozous melanopogon mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	LC406449.1	1140	Taphozous melanopogon MM4377M17 mitochondrial cytb gene for cytochrome b, complete cds
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	EF584221.1	1140	Taphozous melanopogon voucher ROM 110979 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	EF584220.1	1140	Taphozous melanopogon voucher ROM 111014 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	LC426474.1	1750	Taphozous melanopogon PyV16-LZC25 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410339.1	1140	Taphozous melanopogon isolate MM4390M30 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410338.1	1140	Taphozous melanopogon isolate MM4389M29 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410335.1	1140	Taphozous melanopogon isolate MM4376M16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410334.1	1140	Taphozous melanopogon isolate MM4375M15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410333.1	1140	Taphozous melanopogon isolate MM4374M14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410332.1	1140	Taphozous melanopogon isolate MM4373M13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410331.1	1140	Taphozous melanopogon isolate MM4372M12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410330.1	1140	Taphozous melanopogon isolate MM4371M11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410329.1	1140	Taphozous melanopogon isolate MM4370M10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410328.1	1140	Taphozous melanopogon isolate MM4369M9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410327.1	1140	Taphozous melanopogon isolate MM4368M8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410326.1	1140	Taphozous melanopogon isolate MM4367M7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK410325.1	1140	Taphozous melanopogon isolate MM4366M6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MK064111.1	1140	Taphozous melanopogon isolate MM4378M18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	MG570075.1	1140	Taphozous melanopogon cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_EMBALLONURIDAE_Taphozous_melanopogon	DQ680824.1	363	Taphozous melanopogon cytochrome b (cytb) gene, partial cds; mitochondrial

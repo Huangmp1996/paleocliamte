@@ -1,0 +1,3 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_melanoleucos	MK932902.1	695	Circus melanoleucos voucher R67 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_melanoleucos	NC_035801.1	17749	Circus melanoleucos mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_melanoleucos	KT438620.1	17749	Circus melanoleucos mitochondrion, complete genome

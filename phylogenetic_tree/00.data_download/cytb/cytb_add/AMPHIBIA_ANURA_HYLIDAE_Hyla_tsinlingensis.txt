@@ -1,0 +1,17 @@
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	KU601448.1	18305	Hyla tsinlingensis mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	NC_026524.1	18295	Hyla tsinlingensis voucher HTSIN20141129 mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	KP212702.1	18295	Hyla tsinlingensis voucher HTSIN20141129 mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870448.1	921	Hyla tsinlingensis haplotype YXX-Y-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870447.1	921	Hyla tsinlingensis haplotype HSHX-Y-4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870446.1	921	Hyla tsinlingensis haplotype HSHX-Y-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870445.1	921	Hyla tsinlingensis haplotype ZHAX-Y-8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870444.1	921	Hyla tsinlingensis haplotype ZHSHX-Y-6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870443.1	921	Hyla tsinlingensis haplotype NSHX-Y-6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870442.1	921	Hyla tsinlingensis haplotype YX-Y-12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870441.1	921	Hyla tsinlingensis haplotype YB-Y-4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870440.1	921	Hyla tsinlingensis haplotype ZHZHX-Y-12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870439.1	921	Hyla tsinlingensis haplotype TBX-Y-8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870438.1	921	Hyla tsinlingensis haplotype FX-Y-10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870437.1	921	Hyla tsinlingensis haplotype LBX-Y-11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870436.1	921	Hyla tsinlingensis haplotype FX-Y-8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_tsinlingensis	JX870435.1	921	Hyla tsinlingensis haplotype CHGX-Y-4 cytochrome b (cytb) gene, partial cds; mitochondrial

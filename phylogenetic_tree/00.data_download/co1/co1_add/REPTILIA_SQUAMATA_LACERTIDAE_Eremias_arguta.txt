@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KU605241.1	15192	Eremias arguta mitochondrion, partial genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	HQ733922.1	660	Eremias arguta voucher MVZ:Herp:218770 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	HQ733921.1	707	Eremias arguta voucher UOG:JF1314 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	HQ733920.1	707	Eremias arguta voucher UOG:JF1313 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	HQ733919.1	652	Eremias arguta voucher UOG:JF1312 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	HQ733918.1	658	Eremias arguta voucher UOG:JF1311 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	HQ733917.1	634	Eremias arguta voucher UOG:JF1376 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	HQ733916.1	635	Eremias arguta voucher UOG:JF13170 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

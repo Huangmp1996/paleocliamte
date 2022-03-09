@@ -1,0 +1,11 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY969046.1	412	Macaca arctoides cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY738634.2	1162	Macaca arctoides cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY685835.1	424	Macaca arctoides isolate Vietnam2 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY685834.1	424	Macaca arctoides isolate Vietnam1 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY685833.1	424	Macaca arctoides isolate South of China tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY685832.1	424	Macaca arctoides isolate Yunnan2 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY685831.1	424	Macaca arctoides isolate Yunnan1 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	AY685830.1	424	Macaca arctoides isolate Yunnan3 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KM360179.1	16559	Macaca arctoides mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	NC_025201.1	16558	Macaca arctoides mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_arctoides	KJ567055.1	16558	Macaca arctoides mitochondrion, complete genome

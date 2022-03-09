@@ -1,0 +1,12 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	HQ974648.1	657	Murina ussuriensis voucher KZM 1497 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442850.1	657	Murina ussuriensis voucher KZM 1332-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442849.1	657	Murina ussuriensis voucher PIN RVV 63 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442848.1	657	Murina ussuriensis voucher PIN RVV 103 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442847.1	650	Murina ussuriensis voucher ZMMU S-181389 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442846.1	655	Murina ussuriensis voucher ZMMU S-181388 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442845.1	582	Murina ussuriensis voucher ZMMU S-175206 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442844.1	657	Murina ussuriensis voucher ZMMU S-175207 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442843.1	657	Murina ussuriensis voucher KZM 1161-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JF442842.1	657	Murina ussuriensis voucher ZMMU S-173249 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	NC_021119.1	17285	Murina ussuriensis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_ussuriensis	JX872285.1	17285	Murina ussuriensis mitochondrion, complete genome

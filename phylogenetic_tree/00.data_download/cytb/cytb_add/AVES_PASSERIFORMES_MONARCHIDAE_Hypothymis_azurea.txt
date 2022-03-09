@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_MONARCHIDAE_Hypothymis_azurea	MN991584.1	1143	Hypothymis azurea voucher LSUMNS B-47056 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Hypothymis_azurea	AF096467.1	836	Hypothymis azurea cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MONARCHIDAE_Hypothymis_azurea	KP036703.1	1031	Hypothymis azurea voucher KUNHM 13983 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Hypothymis_azurea	KP036673.1	1031	Hypothymis azurea voucher UWBM 67496 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Hypothymis_azurea	KP036656.1	1031	Hypothymis azurea voucher KUNHM 10293 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Hypothymis_azurea	JQ885694.1	605	Hypothymis azurea voucher MNHN 5 40 4 1997 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Hypothymis_azurea	JQ864506.1	1095	Hypothymis azurea cytochrome b (cytb) gene, partial cds; mitochondrial

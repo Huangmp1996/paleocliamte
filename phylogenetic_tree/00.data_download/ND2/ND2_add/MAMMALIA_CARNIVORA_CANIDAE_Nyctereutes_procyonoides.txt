@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	MG256392.1	16714	Nyctereutes procyonoides mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	GU256221.1	16713	Nyctereutes procyonoides mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KF709435.1	16802	Nyctereutes procyonoides koreensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	NC_013700.1	16713	Nyctereutes procyonoides mitochondrion, complete genome

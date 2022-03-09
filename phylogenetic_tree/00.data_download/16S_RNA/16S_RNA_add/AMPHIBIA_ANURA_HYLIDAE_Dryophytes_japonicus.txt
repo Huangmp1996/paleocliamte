@@ -1,0 +1,30 @@
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	LC500183.1	486	Dryophytes japonicus mitochondrial gene for 16S ribosomal RNA, partial sequence, note: sample name: GJ20
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	LC389199.1	569	Dryophytes japonicus Hj3 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	LC389198.1	543	Dryophytes japonicus Hj2 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	LC389197.1	568	Dryophytes japonicus Hj1 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	NC_010232.1	19519	Dryophytes japonicus voucher IABHU6123 mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	DQ055821.1	1154	Hyla japonica 16S ribosomal RNA gene, partial sequence; tRNA-Leu (trnL2) gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742742.1	1103	Hyla japonica isolate TsusimaIsland_Janpan1 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742741.1	1168	Hyla japonica isolate Mudanjiang_Heilongjiang8 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742740.1	1168	Hyla japonica isolate Mudanjiang_Heilongjiang7 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742739.1	1168	Hyla japonica isolate Mudanjiang_Heilongjiang6 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742738.1	1168	Hyla japonica isolate Mudanjiang_Heilongjiang5 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742737.1	1168	Hyla japonica isolate Mudanjiang_Heilongjiang4 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742736.1	1168	Hyla japonica isolate Mudanjiang_Heilongjiang3 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742735.1	1168	Hyla japonica isolate Mudanjiang_Heilongjiang2 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742734.1	1168	Hyla japonica isolate Mudanjiang_Heilongjiang1 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742732.1	1168	Hyla japonica isolate Ussuriysky_Russia 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742731.1	1168	Hyla japonica isolate Khasansky_Russia2 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742730.1	1168	Hyla japonica isolate Khasansky_Russia1 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742729.1	1168	Hyla japonica isolate Oktyabrsky_Russia2 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742728.1	1168	Hyla japonica isolate Oktyabrsky_Russia1 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742727.1	1168	Hyla japonica isolate Ussuriysk_Russia2 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742726.1	1168	Hyla japonica isolate Ussuriysk_Russia1 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742725.1	1168	Hyla japonica isolate Shenyang_Liaoning 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742724.1	1168	Hyla japonica isolate Hailin_Heilongjiang 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	JQ815327.1	574	Hyla japonica voucher NIBRAM0000100284 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	JQ815326.1	574	Hyla japonica voucher NIBRAM0000000694 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	JQ815325.1	574	Hyla japonica voucher NIBRAM0000000669 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	AY843633.1	2420	Hyla japonica 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	EF566952.1	2438	Hyla japonica isolate Indiv. 2 tRNA-Phe gene, partial sequence; 12S ribosomal RNA and tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	AB303949.1	19519	Hyla japonica mitochondrial DNA, complete genome, specimen_voucher: IABHU6123

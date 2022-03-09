@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MW090133.1	399	Pseudoxenodon stejnegeri voucher KIZ09104 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	NC_053908.1	18475	Pseudoxenodon stejnegeri mitochondrion, complete genome
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MW018358.1	18475	Pseudoxenodon stejnegeri mitochondrion, complete genome
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK194069.1	1292	Pseudoxenodon stejnegeri voucher CHS572 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK193995.1	1284	Pseudoxenodon stejnegeri voucher CHS221 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK193991.1	1284	Pseudoxenodon stejnegeri voucher CHS214 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	MK598939.1	695	Pnoepyga pusilla voucher SR-2013-177 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	MK598938.1	696	Pnoepyga pusilla voucher MAR716 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	MH265923.1	633	Pnoepyga pusilla pusilla voucher NRM 20086724 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	MF085567.1	637	Pnoepyga pusilla voucher LSNF0040 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	MF085566.1	637	Pnoepyga pusilla voucher LSNF0039 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	JQ175914.1	652	Pnoepyga pusilla voucher USNM:Birds:631838 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

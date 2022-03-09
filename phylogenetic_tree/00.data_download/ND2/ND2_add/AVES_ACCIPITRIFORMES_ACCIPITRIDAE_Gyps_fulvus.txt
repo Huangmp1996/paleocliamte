@@ -1,0 +1,6 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	NC_036050.1	18094	Gyps fulvus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	KX893247.1	18094	Gyps fulvus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	AY987080.1	1047	Gyps fulvus voucher UMMZ 235890 B19181 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908986.1	1068	Gyps fulvus fulvus haplotype 7 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908985.1	1068	Gyps fulvus fulvus haplotype 5 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908984.1	1068	Gyps fulvus fulvescens haplotype 4 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

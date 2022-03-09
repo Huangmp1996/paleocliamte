@@ -1,0 +1,4 @@
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	EF588275.2	16847	Elephas maximus mitochondrion, complete genome
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	DQ316068.1	16902	Elephas maximus mitochondrion, complete genome
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	NC_005129.2	16902	Elephas maximus mitochondrion, complete genome
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	AJ428946.1	16831	Elephas maximus complete mitochondrial genome

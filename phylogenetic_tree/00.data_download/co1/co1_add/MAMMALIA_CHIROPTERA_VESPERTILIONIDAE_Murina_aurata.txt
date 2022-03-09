@@ -1,0 +1,22 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	KY034076.1	657	Murina aurata feae voucher PS.10.0154 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	KY034072.1	657	Murina aurata feae voucher PS.10.0133 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	KF772778.1	705	Murina aurata feae clone VN11-1244 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	KF772777.1	705	Murina aurata feae clone VN11-1208 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540938.1	657	Murina aurata voucher ROM MAM 111308 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540937.1	657	Murina aurata voucher ROM MAM 116071 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540936.1	657	Murina aurata voucher ROM MAM 116182 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540935.1	657	Murina aurata voucher ROM MAM 116364 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540934.1	421	Murina aurata voucher ROM MAM 111286 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540933.1	657	Murina aurata voucher ROM MAM 111300 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540932.1	421	Murina aurata voucher ROM MAM 106411 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540931.1	657	Murina aurata voucher ROM MAM 106478 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	HM540930.1	421	Murina aurata voucher EBD 25726 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601545.1	657	Murina aurata voucher ROM:111399 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601543.1	657	Murina aurata voucher ROM:111360 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601510.1	657	Murina aurata voucher ROM:116200 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601503.1	657	Murina aurata voucher ROM:116190 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601483.1	657	Murina aurata voucher ROM:116124 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601475.1	657	Murina aurata voucher ROM:116099 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601450.1	644	Murina aurata voucher ROM:118579 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601449.1	653	Murina aurata voucher ROM:118544 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_aurata	JQ601448.1	657	Murina aurata voucher ROM:118507 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

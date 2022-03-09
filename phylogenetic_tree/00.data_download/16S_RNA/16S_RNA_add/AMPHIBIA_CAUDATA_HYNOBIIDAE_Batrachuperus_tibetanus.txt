@@ -1,0 +1,33 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	DQ333817.1	16379	Batrachuperus tibetanus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	NC_008085.1	16379	Batrachuperus tibetanus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165917.1	466	Batrachuperus tibetanus voucher XM1407 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165916.1	466	Batrachuperus tibetanus voucher LC168 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165915.1	466	Batrachuperus tibetanus voucher LC165 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165914.1	466	Batrachuperus tibetanus voucher LC160 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165913.1	463	Batrachuperus tibetanus voucher XM158 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165912.1	464	Batrachuperus tibetanus voucher XM156 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165911.1	466	Batrachuperus tibetanus voucher XM201 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165910.1	466	Batrachuperus tibetanus voucher XM200 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165801.1	582	Batrachuperus tibetanus voucher XM1407 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165800.1	582	Batrachuperus tibetanus voucher LC168 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165799.1	582	Batrachuperus tibetanus voucher LC165 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165798.1	582	Batrachuperus tibetanus voucher LC160 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165797.1	582	Batrachuperus tibetanus voucher XM158 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165796.1	582	Batrachuperus tibetanus voucher XM156 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165795.1	582	Batrachuperus tibetanus voucher XM201 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	JN165794.1	582	Batrachuperus tibetanus voucher XM200 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY916004.1	1068	Batrachuperus tibetanus voucher RM7797 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY593130.1	1598	Batrachuperus tibetanus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028743.1	470	Batrachuperus tibetanus strain MVZ216665 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028742.1	470	Batrachuperus tibetanus strain MVZ216664 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028741.1	470	Batrachuperus tibetanus strain CIB990604 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028740.1	470	Batrachuperus tibetanus strain CIB20318 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028739.1	470	Batrachuperus tibetanus strain CIB20321 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028738.1	470	Batrachuperus tibetanus strain CIB20105 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028737.1	470	Batrachuperus tibetanus strain CIB21118 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028736.1	471	Batrachuperus tibetanus strain MVZ231065 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028735.1	471	Batrachuperus tibetanus strain MVZ231064 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028732.1	470	Batrachuperus tibetanus strain MVZ231046 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028731.1	470	Batrachuperus tibetanus strain MVZ231045 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028728.1	470	Batrachuperus tibetanus strain MVZ231063 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY028727.1	470	Batrachuperus tibetanus strain MVZ231062 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

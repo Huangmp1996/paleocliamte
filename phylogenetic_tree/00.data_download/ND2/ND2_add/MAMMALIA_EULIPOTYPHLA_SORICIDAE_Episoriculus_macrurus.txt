@@ -1,0 +1,8 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_macrurus	NC_029840.1	16943	Episoriculus macrurus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_macrurus	KU246040.1	16943	Episoriculus macrurus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_macrurus	GU981336.1	1044	Episoriculus macrurus isolate Epimac14 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_macrurus	GU981335.1	1044	Episoriculus macrurus isolate Epimac12 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_macrurus	GU981334.1	1044	Episoriculus macrurus isolate Epimac06 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_macrurus	GU981333.1	1044	Episoriculus macrurus isolate Epimac04 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_macrurus	GU981332.1	1044	Episoriculus macrurus isolate Epimac03 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_macrurus	GU981331.1	1044	Episoriculus macrurus isolate Epimac01 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

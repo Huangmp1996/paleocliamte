@@ -1,0 +1,68 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	GQ482066.1	694	Limosa limosa voucher UWBM 47118 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	GQ482065.1	694	Limosa limosa voucher UWBM 46888 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	GQ482064.1	694	Limosa limosa voucher UWBM 73550 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	GQ482063.1	670	Limosa limosa voucher UWBM 46884 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	GQ482062.1	694	Limosa limosa voucher UWBM 73771 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657322.1	624	Limosa limosa melanuroides haplotype H109 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657321.1	624	Limosa limosa islandica haplotype H088 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657320.1	624	Limosa limosa islandica haplotype H085 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657319.1	624	Limosa limosa islandica haplotype H073 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657318.1	624	Limosa limosa limosa haplotype H222 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657317.1	624	Limosa limosa limosa haplotype H221 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657316.1	624	Limosa limosa limosa haplotype H220 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657315.1	624	Limosa limosa limosa haplotype H210 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657314.1	624	Limosa limosa limosa haplotype H206 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657313.1	624	Limosa limosa limosa haplotype H204 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657312.1	624	Limosa limosa limosa haplotype H203 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657311.1	624	Limosa limosa limosa haplotype H197 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657310.1	624	Limosa limosa limosa haplotype H195 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657309.1	624	Limosa limosa limosa haplotype H158 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657308.1	624	Limosa limosa limosa haplotype H157 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657307.1	624	Limosa limosa limosa haplotype H138 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657306.1	624	Limosa limosa limosa haplotype H137 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657305.1	624	Limosa limosa limosa haplotype H135 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657304.1	624	Limosa limosa limosa haplotype H056 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657303.1	624	Limosa limosa limosa haplotype H044 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657302.1	624	Limosa limosa limosa haplotype H041 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657301.1	624	Limosa limosa limosa haplotype H040 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657300.1	624	Limosa limosa limosa haplotype F72 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657299.1	624	Limosa limosa limosa haplotype F71 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657298.1	624	Limosa limosa limosa haplotype F70 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657297.1	624	Limosa limosa limosa haplotype F69 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657296.1	624	Limosa limosa limosa haplotype F58 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657295.1	624	Limosa limosa limosa haplotype F56 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657294.1	624	Limosa limosa limosa haplotype F54 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657293.1	624	Limosa limosa limosa haplotype F53 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657292.1	624	Limosa limosa limosa haplotype F43 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657291.1	624	Limosa limosa limosa haplotype F42 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657290.1	624	Limosa limosa limosa haplotype F41 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657289.1	624	Limosa limosa limosa haplotype F40 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657288.1	624	Limosa limosa limosa haplotype F39 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657287.1	624	Limosa limosa limosa haplotype F033 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657286.1	624	Limosa limosa limosa haplotype F032 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657285.1	624	Limosa limosa limosa haplotype F030 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657284.1	624	Limosa limosa limosa haplotype F029 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657283.1	624	Limosa limosa limosa haplotype F005 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657282.1	624	Limosa limosa limosa haplotype F004 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657281.1	624	Limosa limosa limosa haplotype F002 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657280.1	624	Limosa limosa limosa haplotype F001 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657279.1	624	Limosa limosa limosa haplotype E67 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657278.1	624	Limosa limosa limosa haplotype E66 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657277.1	624	Limosa limosa limosa haplotype E26 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657276.1	624	Limosa limosa limosa haplotype E19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657275.1	624	Limosa limosa limosa haplotype E04 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657274.1	624	Limosa limosa limosa haplotype C70 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657273.1	624	Limosa limosa limosa haplotype C22 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657272.1	624	Limosa limosa limosa haplotype C21 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657271.1	624	Limosa limosa limosa haplotype B68 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657270.1	624	Limosa limosa limosa haplotype B39 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657269.1	624	Limosa limosa limosa haplotype B04 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ657268.1	624	Limosa limosa limosa haplotype B02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KF946741.1	693	Limosa limosa limosa voucher ZMA58232 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KF946740.1	693	Limosa limosa limosa voucher ZMA58231 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KF946739.1	693	Limosa limosa limosa voucher ZMA58230 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KF946738.1	693	Limosa limosa limosa voucher ZMA58229 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KF946737.1	693	Limosa limosa limosa voucher ZMA57227 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KF946736.1	693	Limosa limosa limosa voucher Tissue457 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KF009544.1	682	Limosa limosa voucher MKP 1596 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KF009543.1	632	Limosa limosa voucher MKP 2235 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

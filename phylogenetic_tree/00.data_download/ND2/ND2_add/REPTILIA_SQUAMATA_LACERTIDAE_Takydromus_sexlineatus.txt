@@ -1,0 +1,3 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	HQ907420.1	855	Takydromus sexlineatus voucher KU 311512 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	NC_022703.1	18943	Takydromus sexlineatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	KF425529.1	18943	Takydromus sexlineatus mitochondrion, complete genome

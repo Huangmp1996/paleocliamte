@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	MK496153.1	517	Eutropis longicaudata voucher ZMKU00704 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	KX231449.1	519	Eutropis longicaudata voucher ZMKU R-00704 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	AB028833.1	384	Eutropis longicaudata mitochondrial gene for 16S rRNA, partial sequence
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	DQ238898.1	525	Mabuya longicaudata voucher FMNH 255526 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	AY169607.1	516	Mabuya longicaudata 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	AY070359.1	503	Mabuya longicaudata 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	AF153572.1	502	Mabuya longicaudata 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	AB028787.1	421	Mabuya longicaudata mitochondrial gene for 16S rRNA, partial sequence

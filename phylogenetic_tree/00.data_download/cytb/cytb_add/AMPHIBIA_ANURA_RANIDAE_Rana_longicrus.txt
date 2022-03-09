@@ -1,0 +1,9 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939141.1	733	Rana longicrus voucher KIZYPX14268 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939134.1	733	Rana longicrus voucher KIZYPX11472 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939131.1	733	Rana longicrus voucher KIZYPX11138 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939130.1	733	Rana longicrus voucher KIZYPX11133 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939107.1	733	Rana longicrus voucher KIZ15026 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	EU035176.1	585	Rana longicrus cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	HM989035.1	596	Rana longicrus isolate RLC0001 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	AF274925.1	395	Rana longicrus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	KX269336.1	834	Rana longicrus isolate NMNS15022 cytochrome b gene, partial cds; mitochondrial

@@ -1,0 +1,9 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	MW090146.1	337	Macaca thibetana isolate 09 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	MW090145.1	337	Macaca thibetana isolate 05 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	MW090144.1	337	Macaca thibetana isolate 28 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	MW090143.1	337	Macaca thibetana isolate 02 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	EU294187.1	16540	Macaca thibetana mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	KJ567056.1	16539	Macaca thibetana mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	NC_011519.1	16540	Macaca thibetana mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY224268.1	1495	Macaca thibetana Sich.KIZ 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY224267.1	1495	Macaca thibetana 587041 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

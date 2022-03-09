@@ -1,0 +1,24 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997309.1	1522	Eothenomys chinensis isolate WWS12048 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997308.1	1509	Eothenomys chinensis isolate WWS12044 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997307.1	1523	Eothenomys chinensis isolate WWS12043 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997306.1	1523	Eothenomys chinensis isolate WWS12018 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997305.1	1525	Eothenomys chinensis isolate WWS12008 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997304.1	1539	Eothenomys chinensis isolate WWS12004 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997303.1	1509	Eothenomys chinensis isolate WWS12003 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997273.1	1538	Eothenomys chinensis isolate MGLL102 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KY997272.1	1511	Eothenomys chinensis isolate MGLL101 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KF999162.1	648	Eothenomys chinensis voucher m27 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KF999161.1	648	Eothenomys chinensis voucher m26 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KF999160.1	648	Eothenomys chinensis voucher m25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KF999159.1	648	Eothenomys chinensis voucher m10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KF999158.1	648	Eothenomys chinensis voucher m2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	KF999157.1	648	Eothenomys chinensis voucher l102 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	NC_013571.1	16362	Eothenomys chinensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	HM165354.1	1539	Eothenomys chinensis isolate SAF06026 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	HM165353.1	1539	Eothenomys chinensis isolate SAF06016 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	HM165324.1	1539	Eothenomys chinensis isolate SAF06119 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	HM165322.1	1539	Eothenomys chinensis isolate SAF06086 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	HM165320.1	1539	Eothenomys chinensis isolate SAF06100 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	HM165289.1	1539	Eothenomys chinensis isolate SAF06122 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	HM165287.1	1498	Eothenomys chinensis isolate SAF06022 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_chinensis	FJ483847.1	16362	Eothenomys chinensis mitochondrion, complete genome

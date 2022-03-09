@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MW430026.1	18805	Xenopeltis hainanensis voucher HS12109 mitochondrion, complete genome
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MK064884.1	657	Xenopeltis hainanensis voucher CHS796 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MK064870.1	657	Xenopeltis hainanensis voucher CHS771 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MK064594.1	657	Xenopeltis hainanensis voucher CHS013 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

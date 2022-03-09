@@ -1,0 +1,5 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	NC_039842.1	17464	Falco amurensis mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	KX987839.1	17464	Falco amurensis mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	KM876074.1	2344	Falco amurensis voucher UWBM 74571 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	KM876071.1	2344	Falco amurensis voucher UWBM 59901 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	KM876070.1	2344	Falco amurensis voucher UWBM 47521 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

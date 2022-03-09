@@ -1,0 +1,6 @@
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_telum	MN979747.1	1083	Stylodipus telum isolate XJ18156 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_telum	MF076855.1	1140	Stylodipus telum voucher ZMMU:f.c. K12-238 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_telum	MF535796.1	1140	Stylodipus telum isolate K12-238 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_telum	NC_027692.1	16696	Stylodipus telum mitochondrion, complete genome
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_telum	KR054627.1	16696	Stylodipus telum mitochondrion, complete genome
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_telum	KM397197.1	1116	Stylodipus telum voucher K2003 cytochrome b (cytb) gene, partial cds; mitochondrial

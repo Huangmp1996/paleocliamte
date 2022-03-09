@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_naso	DQ287062.1	1051	Polypedates naso voucher CAS 224754 contains tRNA-Met (trnM), NADH dehydrogenase subunit 2 (ND2), and tRNA-Trp (trnW) genomic sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_naso	DQ287061.1	1046	Polypedates naso voucher CAS 224737 contains tRNA-Met (trnM), NADH dehydrogenase subunit 2 (ND2), and tRNA-Trp (trnW) genomic sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_naso	DQ287060.1	1051	Polypedates naso voucher CAS 224696 contains tRNA-Met (trnM), NADH dehydrogenase subunit 2 (ND2), and tRNA-Trp (trnW) genomic sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_naso	DQ287059.1	1051	Polypedates naso voucher CAS 224679 contains tRNA-Met (trnM), NADH dehydrogenase subunit 2 (ND2), and tRNA-Trp (trnW) genomic sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_naso	DQ287058.1	1045	Polypedates naso voucher CAS 224469 contains tRNA-Met (trnM), NADH dehydrogenase subunit 2 (ND2), and tRNA-Trp (trnW) genomic sequence; mitochondrial

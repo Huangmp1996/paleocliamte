@@ -1,0 +1,3 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Cyrtodactylus_tibetanus	MW111439.1	514	Cyrtodactylus tibetanus voucher KIZYPX1414 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Cyrtodactylus_tibetanus	MW111438.1	1028	Cyrtodactylus tibetanus voucher KIZYPX1413 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Cyrtodactylus_tibetanus	JX440561.1	492	Cyrtodactylus tibetanus voucher MVZ233251 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

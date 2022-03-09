@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RANIDAE_Clinotarsus_alticola	MW165453.1	518	Clinotarsus alticola voucher MZMU1775 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Clinotarsus_alticola	MG909604.1	1454	Clinotarsus alticola voucher FMNH:263434 tRNA-Val and 16S ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Clinotarsus_alticola	KR869788.1	552	Clinotarsus alticola isolate IASST_AT_344 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Clinotarsus_alticola	KR869787.1	560	Clinotarsus alticola isolate IASST_AT_731 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Clinotarsus_alticola	AB200961.1	427	Rana alticola mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:19530

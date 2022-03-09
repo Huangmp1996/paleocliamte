@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK199095.1	1026	Bungarus multicinctus voucher CHS800 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK199019.1	1026	Bungarus multicinctus voucher CHS666 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK199010.1	1026	Bungarus multicinctus voucher CHS648 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK198851.1	1026	Bungarus multicinctus voucher CHS024 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK198850.1	1026	Bungarus multicinctus voucher CHS023 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	EU579522.1	17144	Bungarus multicinctus mitochondrion, complete genome

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MT192189.1	514	Fringilla coelebs isolate PCR product large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MN122830.1	16341	Fringilla coelebs mitochondrion, partial genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KM078769.1	16801	Fringilla coelebs mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	NC_025599.1	16801	Fringilla coelebs mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	HQ284765.1	823	Fringilla coelebs isolate Fcoe1 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,87 @@
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	CB365749.1	408	ZF001-P00048-DPE-F-B_A05 GISZF001 Danio rerio cDNA clone IMAGE:6909683 5' similar to (NC_002333) NADH dehydrogenase subunit 1 [Danio rerio], mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	CB363434.1	572	ZF001-P00040-DPE-F-C_B09 GISZF001 Danio rerio cDNA clone IMAGE:6906690 5' similar to (NC_002333) NADH dehydrogenase subunit 1 [Danio rerio], mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	CB357894.1	433	ZF001-P00022-DPE-F-C_B02 GISZF001 Danio rerio cDNA clone IMAGE:6899764 5' similar to (NC_002333) NADH dehydrogenase subunit 1 [Danio rerio], mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	CB352146.1	488	ZF001-P00002-DPE-F6-B_C05 GISZF001 Danio rerio cDNA clone IMAGE:6892115 5' similar to (NC_002333) NADH dehydrogenase subunit 1 [Danio rerio], mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BM154238.1	343	fv86d06.x1 Zebrafish SJD adult male II Danio rerio cDNA clone IMAGE:5543867 3' similar to TR:Q9XN29 Q9XN29 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BI981193.1	457	fu41a02.x1 zebrafish adult brain Danio rerio cDNA clone IMAGE:5331747 3' similar to TR:O79237 O79237 NADH DEHYDROGENASE SUBUNIT 1; contains element TAR1 repetitive element, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BI840436.1	126	fs73h07.y1 Zebrafish SJD day 8 fin regeneration Danio rerio cDNA clone IMAGE:5075557 5' similar to TR:Q9XPG2 Q9XPG2 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BI563111.1	438	fr88e09.y1 zebrafish adult brain Danio rerio cDNA clone IMAGE:4967897 5' similar to TR:Q9XPG2 Q9XPG2 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BI475050.1	403	fq30g12.x3 zebrafish adult brain Danio rerio cDNA clone IMAGE:4833214 3' similar to TR:O47578 O47578 NADH DEHYDROGENASE SUBUNIT 1.; contains element MER21 repetitive element, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BI429256.1	495	fr67b12.y1 zebrafish adult brain Danio rerio cDNA clone IMAGE:4965838 5' similar to TR:O47795 O47795 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BI428209.1	493	fr75h12.x1 zebrafish adult brain Danio rerio cDNA clone IMAGE:4966894 3' similar to TR:O47795 O47795 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BI350729.1	393	fr37f09.y1 zebrafish adult brain Danio rerio cDNA clone IMAGE:4955680 5' similar to TR:O79237 O79237 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BI325572.1	353	fr40c05.x1 zebrafish adult brain Danio rerio cDNA clone IMAGE:4955889 3' similar to TR:O79237 O79237 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BG892061.1	283	fq90b08.y1 zebrafish fin day3 regeneration Danio rerio cDNA clone 4925894 4925894 5' similar to TR:O79237 O79237 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BG304735.1	166	fl98a12.y1 Zebrafish adult retina cDNA Danio rerio cDNA clone IMAGE:4144798 5' similar to TR:O79237 O79237 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BF937251.1	200	fm62f03.y1 Zebrafish adult retina cDNA Danio rerio cDNA clone IMAGE:4199957 5' similar to TR:Q9XPG2 Q9XPG2 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BE556762.1	411	fk95b04.y1 Zebrafish Research Genetics C32 fin Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BE015821.1	600	fk60b03.y1 Zebrafish adult retina cDNA Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	BE015778.1	439	fk59d08.y1 Zebrafish adult retina cDNA Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW827017.1	619	fk57c04.y1 Zebrafish adult retina cDNA Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW827005.1	222	fk57a08.y1 Zebrafish adult retina cDNA Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW826982.1	423	fk55f09.y1 Zebrafish adult retina cDNA Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW826736.1	329	fk57c04.x1 Zebrafish adult retina cDNA Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW826372.1	341	fk60b03.x1 Zebrafish adult retina cDNA Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW826329.1	308	fk59d08.x1 Zebrafish adult retina cDNA Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW778315.1	611	fk47c08.y1 Zebrafish 15-19hr embryonic cDNA Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW777871.1	559	fk52b02.x1 Zebrafish 15-19hr embryonic cDNA Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW777547.1	275	fk47c08.x1 Zebrafish 15-19hr embryonic cDNA Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW566628.1	545	fk02g02.y2 zebrafish fin day3 regeneration Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW566591.1	538	fk02c07.y2 zebrafish fin day3 regeneration Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW566579.1	601	fk02b06.y2 zebrafish fin day3 regeneration Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW566522.1	454	fk23a10.y1 zebrafish fin day1 regeneration Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW420442.1	588	fj81f06.x1 zebrafish gridded kidney Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW420275.1	598	fj78f08.x1 zebrafish gridded kidney Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW419648.1	591	fj81f06.y1 zebrafish gridded kidney Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW306002.1	648	fj78f08.y1 zebrafish gridded kidney Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW305754.1	394	fj64f06.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW305437.1	376	fj59d04.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW305427.1	680	fj59c04.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW281978.1	308	fj60a10.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW281932.1	329	fj59d04.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW281920.1	326	fj59c04.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW281701.1	262	fj53f07.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW281336.1	473	fj53f07.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW280826.1	668	fj46d02.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW280715.1	667	fj44g07.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW280405.1	653	fj40a03.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW280273.1	646	fj37e02.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW279890.1	139	fj46d02.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78699 O78699 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW279788.1	395	fj44g07.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW233671.1	618	fj40a03.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW233002.1	679	fj26g03.y1 Zebrafish adult olfactory Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW232544.1	366	fj21f10.x1 Zebrafish adult olfactory Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW232025.1	455	fj12c11.x1 Zebrafish adult olfactory Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW202748.1	553	fj21f10.y1 Zebrafish adult olfactory Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW077699.1	568	fj36d11.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW077456.1	362	fj36d11.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW077398.1	670	fj34f12.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW077381.1	485	fj34e02.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW077251.1	703	fj33f08.y1 zebrafish adult brain Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW077181.1	319	fj34f12.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW077075.1	484	fj04e02.y1 Zebrafish adult olfactory Danio rerio cDNA 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW077006.1	308	fj33f08.x1 zebrafish adult brain Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW076834.1	277	fj04e02.x1 Zebrafish adult olfactory Danio rerio cDNA 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW059456.1	586	fe14d01.y1 Zebrafish WashU MPIMG EST Danio rerio cDNA clone IMAGE:3738817 5' similar to TR:O47796 O47796 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AW058957.1	402	fe14d01.x1 Zebrafish WashU MPIMG EST Danio rerio cDNA clone IMAGE:3738817 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI965239.1	697	fc88c08.x1 Zebrafish WashU MPIMG EST Danio rerio cDNA clone IMAGE:3728462 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI957447.1	275	fc92a03.x1 Zebrafish WashU MPIMG EST Danio rerio cDNA clone IMAGE:3728812 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI931112.1	76	fc77b05.x1 Zebrafish WashU MPIMG EST Danio rerio cDNA clone IMAGE:3727377 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI931081.1	670	fc77b05.y1 Zebrafish WashU MPIMG EST Danio rerio cDNA clone IMAGE:3727377 5' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI878613.1	97	fc62f05.x1 Zebrafish WashU MPIMG EST Danio rerio cDNA clone IMAGE:3725985 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI878586.1	625	fc62b11.x1 Zebrafish WashU MPIMG EST Danio rerio cDNA clone IMAGE:3725949 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI667591.1	401	fd16b04.x1 Sugano Kawakami zebrafish DRA Danio rerio cDNA clone IMAGE:2351695 3' similar to TR:O78679 O78679 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI106504.1	422	cb03f03_p1 ZF adult heart library Danio rerio cDNA 5 prime similar to NADH-UBIQUINONE OXIDOREDUCTASE CHAIN 1 and to NADH dehydrogenase subunit 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI106236.1	396	ab03b05_t3 ZF adult heart library Danio rerio cDNA 5 prime similar to NADH dehydrogenase subunit 1 and to NADH-UBIQUINONE OXIDOREDUCTASE CHAIN 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI106096.1	299	db01c05_p1 ZF adult heart library Danio rerio cDNA 5 prime similar to NADH dehydrogenase subunit 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566266.1	210	ZF-E351 zebrafish embryonic Danio rerio cDNA clone ZF-E351 3' end similar to mitochondrial NADH dehydrogenase subunit 1, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	NC_002333.2	16596	Danio rerio mitochondrion, complete genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AC024175.3	16596	Danio rerio mitochondrial genome, complete sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624627.1	16580	Danio rerio strain AB mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624626.1	16579	Danio rerio strain WIK mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624625.1	16577	Danio rerio strain TL mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624624.1	16574	Danio rerio strain SJD mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624623.1	16579	Danio rerio strain HL mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624622.1	16576	Danio rerio strain PS mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KM244705.1	16560	Danio rerio mitochondrion, complete genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KM207051.1	413	Danio rerio voucher SZYD13031872-A NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial

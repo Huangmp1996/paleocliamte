@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	MK598974.1	649	Seicercus affinis voucher SR2016-407 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	KU343237.1	693	Seicercus affinis voucher MTD:C63812 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	KU343228.1	693	Seicercus affinis voucher MTD:C59580 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_intermedius	KU343220.1	591	Seicercus affinis voucher MTD:C59581 cytochrome oxidase I (COI) gene, partial cds; mitochondrial

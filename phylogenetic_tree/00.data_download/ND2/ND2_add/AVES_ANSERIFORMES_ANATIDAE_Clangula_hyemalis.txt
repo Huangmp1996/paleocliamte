@@ -1,0 +1,22 @@
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	MW849278.1	16642	Clangula hyemalis voucher CPD1207 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	EU585701.1	1041	Clangula hyemalis voucher IPMB 2730 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640827.1	1037	Clangula hyemalis isolate UWBM43894 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640826.1	1037	Clangula hyemalis isolate UWBM43893 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640825.1	1037	Clangula hyemalis isolate UWBM43895 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640824.1	1037	Clangula hyemalis isolate UWBM43919 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640823.1	1037	Clangula hyemalis isolate UWBM43917 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640822.1	1037	Clangula hyemalis isolate UWBM43913 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640821.1	1037	Clangula hyemalis isolate UWBM43970 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640820.1	1037	Clangula hyemalis isolate UWBM43916 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640819.1	1037	Clangula hyemalis isolate UWBM43918 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640818.1	1037	Clangula hyemalis isolate REW619 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640817.1	1037	Clangula hyemalis isolate REW620 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640816.1	1037	Clangula hyemalis isolate UAM21883 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640815.1	1037	Clangula hyemalis isolate UAM13154 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640814.1	1037	Clangula hyemalis isolate REW584 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640813.1	1037	Clangula hyemalis isolate UAM9395 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640812.1	1037	Clangula hyemalis isolate REW531 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640811.1	1037	Clangula hyemalis isolate UAM11602 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640810.1	1037	Clangula hyemalis isolate UAMX3357 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640809.1	1037	Clangula hyemalis isolate REW532 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	HM640808.1	1037	Clangula hyemalis isolate UAM11468 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial

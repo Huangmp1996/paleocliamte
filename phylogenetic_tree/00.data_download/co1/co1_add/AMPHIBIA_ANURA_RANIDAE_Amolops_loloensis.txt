@@ -1,0 +1,18 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MN961458.1	570	Amolops loloensis voucher SCUM045808HX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MN961457.1	570	Amolops loloensis voucher SCUM045836HX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MN961456.1	570	Amolops loloensis voucher SCUM045807HX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MN961407.1	570	Amolops loloensis voucher SCUM045806HX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MK568321.1	633	Amolops loloensis voucher SYS a005351 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MK568320.1	615	Amolops loloensis voucher SYS a005350 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MK605615.1	620	Amolops loloensis voucher SYS:a005349 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MK605614.1	620	Amolops loloensis voucher SYS:a005348 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MK605613.1	620	Amolops loloensis voucher SYS:a005347 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MK605612.1	620	Amolops loloensis voucher SYS:a005346 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MF805613.1	595	Amolops loloensis voucher YXS79-1 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MF805612.1	605	Amolops loloensis voucher YXS53 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	MF805609.1	586	Amolops loloensis voucher YXS83-1 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	NC_029250.1	18926	Amolops loloensis voucher SM-ZDTW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	KT750963.1	18926	Amolops loloensis voucher SM-ZDTW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	KF771331.1	1143	Amolops loloensis tRNA-Trp (trnW) gene, partial sequence; tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	JN700802.1	602	Amolops loloensis voucher SCUM045833HX cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	JN700801.1	602	Amolops loloensis voucher KIZ05628 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

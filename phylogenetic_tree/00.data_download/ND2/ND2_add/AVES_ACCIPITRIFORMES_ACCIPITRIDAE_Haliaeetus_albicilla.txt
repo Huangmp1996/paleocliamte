@@ -1,0 +1,4 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	MN356434.1	16462	Haliaeetus albicilla mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	NC_040858.1	17719	Haliaeetus albicilla voucher IN1796 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	MK043028.1	17719	Haliaeetus albicilla voucher IN1796 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	AY987137.1	1041	Haliaeetus albicilla voucher TAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

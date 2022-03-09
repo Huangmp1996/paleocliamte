@@ -1,0 +1,8 @@
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	MH264509.1	3058	Ciconia nigra D-loop, CYTB, tRNA-Thr, and tRNA-Pro genes, complete sequence; NADH dehydrogenase subunit 6 (ND6) gene, complete cds; and tRNA-Glu gene and D-loop, complete sequence; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	MK818509.1	17787	Ciconia nigra mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	Z35646.1	312	C.nigra (cbz57) cytochrome b DNA
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	KY767670.1	17905	Ciconia nigra mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	AY567910.1	921	Ciconia nigra cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	NC_023946.1	17795	Ciconia nigra mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	KF906246.1	17795	Ciconia nigra mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	U72771.1	1060	Ciconia nigra cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

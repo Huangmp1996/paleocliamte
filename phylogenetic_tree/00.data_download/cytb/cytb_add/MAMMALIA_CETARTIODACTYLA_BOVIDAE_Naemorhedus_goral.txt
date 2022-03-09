@@ -1,0 +1,24 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845353.1	342	Naemorhedus goral haplotype 9 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845352.1	342	Naemorhedus goral haplotype 8 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845351.1	342	Naemorhedus goral haplotype 7 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845350.1	342	Naemorhedus goral haplotype 6 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845349.1	342	Naemorhedus goral haplotype 5 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845348.1	342	Naemorhedus goral haplotype 4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845347.1	342	Naemorhedus goral haplotype 3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845346.1	342	Naemorhedus goral haplotype 2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT845345.1	327	Naemorhedus goral haplotype 1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MG865962.1	16557	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MG591488.1	16559	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	KY366530.1	1094	Naemorhedus goral isolate 129Ng cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	AY286436.1	310	Naemorhedus goral isolate INGLd cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	AY286435.1	310	Naemorhedus goral isolate INGLc cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	AY286434.1	310	Naemorhedus goral isolate INGLb cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	KT878720.1	16533	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	NC_021381.1	16555	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	JX188255.1	16555	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	EU259118.1	1140	Naemorhedus goral isolate a-1571 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	AY286433.1	556	Naemorhedus goral isolate INGLb 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	AY286432.1	556	Naemorhedus goral isolate INGLa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	AY256827.1	555	Naemorhedus goral 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	D32179.2	789	Naemorhedus goral gene for kappa-casein precursor, complete cds
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	D32196.1	646	Nemorhaedus goral mitochondrial gene for cytochrome b, partial cds

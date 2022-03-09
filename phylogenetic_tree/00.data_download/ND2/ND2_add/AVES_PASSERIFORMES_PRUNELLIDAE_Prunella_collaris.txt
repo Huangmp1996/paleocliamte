@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KX109708.1	955	Prunella collaris isolate MAR3649 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KJ455601.1	1041	Prunella collaris voucher UWBM:64749 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KC759312.1	1041	Prunella collaris montana voucher SVD2079 (UWBM 64765) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KC759306.1	1041	Prunella collaris erythropygia voucher RYA2451 (MSUZM) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KC759302.1	1041	Prunella collaris erythropygia voucher N6 (MSUZM) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KC759301.1	1041	Prunella collaris montana voucher MSUZM 7/2000 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KC759290.1	1041	Prunella collaris montana voucher IVF1091 (SDM) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KC759284.1	1041	Prunella collaris montana voucher EAK64 (MSUZM) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

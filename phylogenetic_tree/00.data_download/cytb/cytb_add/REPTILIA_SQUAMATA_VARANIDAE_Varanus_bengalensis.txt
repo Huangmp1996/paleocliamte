@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MG670554.1	410	Varanus bengalensis haplotype 5 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MG670553.1	410	Varanus bengalensis haplotype 4 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MG670552.1	410	Varanus bengalensis haplotype 3 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MG670551.1	410	Varanus bengalensis haplotype 2 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MG670550.1	410	Varanus bengalensis haplotype 1 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	EU621813.1	295	Varanus bengalensis isolate VB01 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	JN710001.1	330	Varanus bengalensis isolate Kydavan cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	KF766940.1	416	Varanus bengalensis voucher S.L3/284 cytochrome b (cytb) gene, partial cds; mitochondrial

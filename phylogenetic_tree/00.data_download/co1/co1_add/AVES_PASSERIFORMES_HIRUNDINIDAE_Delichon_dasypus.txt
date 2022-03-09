@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	GQ481692.1	694	Delichon dasypus voucher UWBM 46968 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	GQ481690.1	694	Delichon dasypus voucher UWBM 46947 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	GQ481691.1	694	Delichon dasypus voucher UWBM 51837 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	GQ481689.1	694	Delichon dasypus voucher UWBM 51835 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	AB843458.1	675	Delichon dasypus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO319-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	AB843457.1	692	Delichon dasypus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO444-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	AB842704.1	699	Delichon dasypus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM556-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	AB842703.1	676	Delichon dasypus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM517-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	AB842702.1	665	Delichon dasypus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM488-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	AB842701.1	655	Delichon dasypus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM453-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Delichon_dasypus	AB842700.1	664	Delichon dasypus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM471-10

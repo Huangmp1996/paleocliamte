@@ -1,0 +1,25 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	KY766921.1	16692	Tetraogallus tibetanus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	EU839457.1	1143	Tetraogallus tibetanus voucher 101 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	EU839456.1	1143	Tetraogallus tibetanus voucher 102 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	AY563133.1	535	Tetraogallus tibetanus isolate HX59 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	AY563132.1	535	Tetraogallus tibetanus isolate HX55 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	AY563131.1	535	Tetraogallus tibetanus isolate T4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	AY563130.1	535	Tetraogallus tibetanus isolate DT20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	AY563129.1	535	Tetraogallus tibetanus isolate T1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	AY563128.1	535	Tetraogallus tibetanus isolate ZD5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	GU214288.1	1143	Tetraogallus tibetanus przewalskii isolate 103 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136846.1	675	Tetraogallus tibetanus haplotype H13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136845.1	675	Tetraogallus tibetanus haplotype H12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136844.1	675	Tetraogallus tibetanus haplotype H11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136843.1	675	Tetraogallus tibetanus haplotype H10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136842.1	675	Tetraogallus tibetanus haplotype H09 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136841.1	675	Tetraogallus tibetanus haplotype H08 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136840.1	675	Tetraogallus tibetanus haplotype H07 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136839.1	675	Tetraogallus tibetanus haplotype H06 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136838.1	675	Tetraogallus tibetanus haplotype H05 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136837.1	675	Tetraogallus tibetanus haplotype H04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136836.1	675	Tetraogallus tibetanus haplotype H03 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136835.1	675	Tetraogallus tibetanus haplotype H02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	JX136834.1	675	Tetraogallus tibetanus haplotype H01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	NC_023939.1	16692	Tetraogallus tibetanus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	KF027439.1	16692	Tetraogallus tibetanus mitochondrion, complete genome

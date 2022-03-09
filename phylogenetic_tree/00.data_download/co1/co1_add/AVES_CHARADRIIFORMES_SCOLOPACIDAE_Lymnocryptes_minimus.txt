@@ -1,0 +1,8 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Lymnocryptes_minimus	GU571968.1	648	Lymnocryptes minimus voucher BISE-Aves193 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Lymnocryptes_minimus	GU571967.1	648	Lymnocryptes minimus voucher BISE-Aves345 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Lymnocryptes_minimus	GU571478.1	740	Lymnocryptes minimus voucher NHMO-BC50 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Lymnocryptes_minimus	GU571477.1	751	Lymnocryptes minimus voucher NHMO-BC51 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Lymnocryptes_minimus	GQ482150.1	694	Lymnocryptes minimus voucher UWBM 68120 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Lymnocryptes_minimus	GQ482149.1	694	Lymnocryptes minimus voucher UWBM 68121 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Lymnocryptes_minimus	KF946755.1	693	Lymnocryptes minimus voucher ZMA58293 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Lymnocryptes_minimus	KF946754.1	693	Lymnocryptes minimus voucher ZMA55930 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

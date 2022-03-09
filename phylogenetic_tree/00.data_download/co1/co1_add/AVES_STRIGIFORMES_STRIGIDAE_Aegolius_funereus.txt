@@ -1,0 +1,9 @@
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	MN122880.1	17166	Aegolius funereus mitochondrion, partial genome
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	GQ481295.1	694	Aegolius funereus voucher UWBM 52674 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	AY666508.1	525	Aegolius funereus voucher 1B-3674 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	AY666506.1	668	Aegolius funereus voucher 1B-3688 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	AY666416.1	666	Aegolius funereus voucher 1B-3234 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	GU571704.1	648	Aegolius funereus voucher BISE-Aves85 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	GU571703.1	648	Aegolius funereus voucher BISE-Aves456 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	GU571227.1	730	Aegolius funereus voucher NHMO-BC198 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Aegolius_funereus	GU571226.1	743	Aegolius funereus voucher NHMO-BC326 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,14 @@
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	MH503783.1	1091	Hylarana macrodactyla voucher ZMMU-NAP03766 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	MH503782.1	1091	Hylarana macrodactyla voucher ZMMU-NAP03765 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	MH503781.1	1089	Hylarana macrodactyla voucher ZMMU-NAP03764 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	MG552220.1	729	Hylarana macrodactyla voucher CAS241020 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	LC061459.1	1343	Hylarana macrodactyla mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: NTNU:241912
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	KR264120.1	1426	Hylarana macrodactyla voucher USNM583140 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	KR264115.1	1426	Hylarana macrodactyla voucher USNM583138 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	KR264071.1	1427	Hylarana macrodactyla voucher FMNH255186 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	KR827808.1	409	Hylarana macrodactyla voucher 0095Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	KR827807.1	409	Hylarana macrodactyla voucher 0189Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	KR827806.1	410	Hylarana macrodactyla voucher 0223Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	HM359107.1	538	Rana macrodactyla voucher KU:field tag DSM 1308 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	DQ360002.1	508	Rana macrodactyla voucher SCUMH004 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_macrodactyla	AF206489.1	1401	Rana macrodactyla voucher ROM 22412 16S ribosomal RNA gene, partial sequence; mitochondrial

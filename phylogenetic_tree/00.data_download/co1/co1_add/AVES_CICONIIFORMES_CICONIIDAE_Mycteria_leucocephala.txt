@@ -1,0 +1,3 @@
+AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	HM804933.1	691	Mycteria leucocephala isolate Mycleu5 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	HM804932.1	687	Mycteria leucocephala isolate Mycleu4 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	KC439344.1	605	Mycteria leucocephala cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

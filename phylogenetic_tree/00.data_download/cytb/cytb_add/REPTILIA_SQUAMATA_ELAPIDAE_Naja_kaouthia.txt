@@ -1,0 +1,100 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MW111477.1	692	Naja kaouthia voucher KIZYPX18216 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	LR880478.1	464	Naja kaouthia mitochondrial cytb gene gene for cytochrome b
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	LR880477.1	855	Naja kaouthia partial mitochondrial cytb gene gene for cytochrome b
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT346708.1	657	Naja kaouthia isolate 839 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT346707.1	657	Naja kaouthia isolate 818 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT346706.1	596	Naja kaouthia isolate 813 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT346705.1	657	Naja kaouthia isolate 812 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK201489.1	585	Naja kaouthia voucher CHS726 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK201244.1	585	Naja kaouthia voucher CHS026 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721314.1	603	Naja kaouthia isolate NE11 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721313.1	603	Naja kaouthia isolate NE10 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721312.1	603	Naja kaouthia isolate NE9 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721311.1	603	Naja kaouthia isolate NE8 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721310.1	603	Naja kaouthia isolate NE7 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721309.1	603	Naja kaouthia isolate NE6 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721308.1	603	Naja kaouthia isolate NE5 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721307.1	603	Naja kaouthia isolate NE4 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721306.1	603	Naja kaouthia isolate NE3 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721305.1	603	Naja kaouthia isolate NE2 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721304.1	603	Naja kaouthia isolate NE1 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721303.1	603	Naja kaouthia isolate Isl8 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721302.1	603	Naja kaouthia isolate Isl7 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721301.1	603	Naja kaouthia isolate Isl6 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721300.1	603	Naja kaouthia isolate Isl5 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721299.1	603	Naja kaouthia isolate Isl4 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721298.1	603	Naja kaouthia isolate Isl3 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721297.1	603	Naja kaouthia isolate Isl2 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721296.1	603	Naja kaouthia isolate Isl1 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721295.1	603	Naja kaouthia isolate Sou20 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721294.1	603	Naja kaouthia isolate Sou19 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721293.1	603	Naja kaouthia isolate Sou18 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721292.1	603	Naja kaouthia isolate Sou17 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721291.1	603	Naja kaouthia isolate Sou16 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721290.1	603	Naja kaouthia isolate Sou15 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721289.1	603	Naja kaouthia isolate Sou14 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721288.1	603	Naja kaouthia isolate Sou13 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721287.1	603	Naja kaouthia isolate Sou12 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721286.1	603	Naja kaouthia isolate Sou11 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721285.1	603	Naja kaouthia isolate Sou10 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721284.1	603	Naja kaouthia isolate Sou9 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721283.1	603	Naja kaouthia isolate Sou8 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721282.1	603	Naja kaouthia isolate Sou7 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721281.1	603	Naja kaouthia isolate Sou6 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721280.1	603	Naja kaouthia isolate Sou5 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721279.1	603	Naja kaouthia isolate Sou4 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721278.1	603	Naja kaouthia isolate Sou3 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721277.1	603	Naja kaouthia isolate Sou2 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721276.1	603	Naja kaouthia isolate Sou1 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721275.1	603	Naja kaouthia isolate Cen28 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721274.1	603	Naja kaouthia isolate Cen27 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721273.1	603	Naja kaouthia isolate Cen26 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721272.1	603	Naja kaouthia isolate Cen25 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721271.1	603	Naja kaouthia isolate Cen24 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721270.1	603	Naja kaouthia isolate Cen23 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721269.1	603	Naja kaouthia isolate Cen22 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721268.1	603	Naja kaouthia isolate Cen21 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721267.1	603	Naja kaouthia isolate Cen20 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721266.1	603	Naja kaouthia isolate Cen19 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721265.1	603	Naja kaouthia isolate Cen18 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721264.1	603	Naja kaouthia isolate Cen17 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721263.1	603	Naja kaouthia isolate Cen16 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721262.1	603	Naja kaouthia isolate Cen15 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721261.1	603	Naja kaouthia isolate Cen14 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721260.1	603	Naja kaouthia isolate Cen13 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721259.1	603	Naja kaouthia isolate Cen12 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721258.1	603	Naja kaouthia isolate Cen11 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721257.1	603	Naja kaouthia isolate Cen10 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721256.1	603	Naja kaouthia isolate Cen9 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721255.1	603	Naja kaouthia isolate Cen8 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721254.1	603	Naja kaouthia isolate Cen7 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721253.1	603	Naja kaouthia isolate Cen6 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721252.1	603	Naja kaouthia isolate Cen5 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721251.1	603	Naja kaouthia isolate Cen4 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721250.1	603	Naja kaouthia isolate Cen3 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721249.1	603	Naja kaouthia isolate Cen2 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721248.1	603	Naja kaouthia isolate Cen1 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721247.1	603	Naja kaouthia isolate Nor35 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721246.1	603	Naja kaouthia isolate Nor34 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721245.1	603	Naja kaouthia isolate Nor33 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721244.1	603	Naja kaouthia isolate Nor32 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721243.1	603	Naja kaouthia isolate Nor31 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721242.1	603	Naja kaouthia isolate Nor30 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721241.1	603	Naja kaouthia isolate Nor29 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721240.1	603	Naja kaouthia isolate Nor28 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721239.1	603	Naja kaouthia isolate Nor27 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721238.1	603	Naja kaouthia isolate Nor26 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721237.1	603	Naja kaouthia isolate Nor25 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721236.1	603	Naja kaouthia isolate Nor24 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721235.1	603	Naja kaouthia isolate Nor23 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721234.1	603	Naja kaouthia isolate Nor22 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721233.1	603	Naja kaouthia isolate Nor21 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721232.1	603	Naja kaouthia isolate Nor20 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721231.1	603	Naja kaouthia isolate Nor19 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721230.1	603	Naja kaouthia isolate Nor18 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721229.1	603	Naja kaouthia isolate Nor17 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721228.1	603	Naja kaouthia isolate Nor16 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721227.1	603	Naja kaouthia isolate Nor15 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721226.1	603	Naja kaouthia isolate Nor14 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721225.1	603	Naja kaouthia isolate Nor13 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK721224.1	603	Naja kaouthia isolate Nor12 tRNA-Ser gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial

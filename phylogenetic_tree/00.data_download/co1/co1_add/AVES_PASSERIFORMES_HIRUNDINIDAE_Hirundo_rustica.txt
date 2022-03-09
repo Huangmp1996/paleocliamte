@@ -1,0 +1,57 @@
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	MN356225.1	16205	Hirundo rustica mitochondrion, partial genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	NC_050297.1	18051	Hirundo rustica tytleri voucher NB021 mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	NC_050295.1	17893	Hirundo rustica transitiva mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	MN843972.1	18051	Hirundo rustica tytleri voucher NB021 mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	MN840495.1	17893	Hirundo rustica transitiva mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	MN954681.1	18032	Hirundo rustica transitiva mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KY754510.1	697	Hirundo rustica voucher Bird17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KU722539.1	657	Hirundo rustica voucher USNM:Birds:647901 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KU722494.1	655	Hirundo rustica voucher USNM:Birds:647923 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KU722425.1	657	Hirundo rustica voucher USNM:Birds:647788 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KU722410.1	657	Hirundo rustica voucher USNM:Birds:647772 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KU722409.1	657	Hirundo rustica voucher USNM:Birds:647770 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KT803694.1	648	Hirundo rustica isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KX398931.1	18133	Hirundo rustica erythrogaster mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	JF499137.1	672	Hirundo rustica voucher USNM:641817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	JF499136.1	680	Hirundo rustica voucher USNM:641893 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	JF498783.1	600	Hirundo rustica voucher USNM 641332 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	JF498782.1	669	Hirundo rustica voucher USNM 641333 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	JF498781.1	579	Hirundo rustica voucher USNM 641334 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AY666485.1	668	Hirundo rustica voucher 1B-2581 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AY666483.1	668	Hirundo rustica voucher 1B-2709 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GU571925.1	648	Hirundo rustica voucher BISE-Aves21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GU571924.1	648	Hirundo rustica voucher BISE-Aves354 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GU571433.1	743	Hirundo rustica voucher NHMO-BC308 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GU571432.1	725	Hirundo rustica voucher NHMO-BC309 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GU571203.1	749	Hirundo rustica voucher NHMO-BC267 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GU571202.1	750	Hirundo rustica voucher NHMO-BC268 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GQ481986.1	694	Hirundo rustica voucher UWBM 61435 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GQ481985.1	694	Hirundo rustica voucher UWBM 46396 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GQ481984.1	694	Hirundo rustica voucher UWBM 47366 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GQ481983.1	694	Hirundo rustica voucher UWBM 44441 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GQ481982.1	694	Hirundo rustica voucher UWBM 60079 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	FJ661096.1	674	Hirundo rustica voucher AHNU:Y06016 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB843547.1	681	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO172-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB843546.1	619	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO187-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB843545.1	680	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO272-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB842848.1	667	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM155-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB842847.1	673	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM154-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB842846.1	651	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM016-08
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB842845.1	719	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM054-08
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB842844.1	665	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM106-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB842843.1	680	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM303-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	AB842842.1	667	Hirundo rustica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM400-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KP148840.1	18129	Hirundo rustica gutturalis mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KF946710.1	693	Hirundo rustica rustica voucher ZMA58802 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KF946709.1	693	Hirundo rustica rustica voucher ZMA58696 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KF946708.1	693	Hirundo rustica rustica voucher ZMA58290 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KF946707.1	693	Hirundo rustica rustica voucher ZMA58289 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KF946706.1	693	Hirundo rustica rustica voucher ZMA56214 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KF946705.1	693	Hirundo rustica rustica voucher Tissue451 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KF946704.1	693	Hirundo rustica rustica voucher Tissue450 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	GU460337.1	1517	Hirundo rustica rustica isolate 49276 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	HM033480.1	694	Hirundo rustica voucher BIOUG<CAN>:NCHA 243065727 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	DQ434603.1	697	Hirundo rustica voucher BIOUG<CAN>:IPBO2350-69055 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	FJ027655.1	643	Hirundo rustica voucher MACN-Or-ct 1845 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	FJ027654.1	694	Hirundo rustica voucher MACN-Or-ct 1843 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	FJ027653.1	694	Hirundo rustica voucher MACN-Or-ct 1844 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

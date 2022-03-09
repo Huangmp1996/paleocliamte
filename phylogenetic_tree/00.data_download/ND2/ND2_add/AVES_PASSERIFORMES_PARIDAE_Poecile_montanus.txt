@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	MN122849.1	16782	Poecile montanus mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745909.1	996	Poecile montanus isolate PMo1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745908.1	996	Poecile montanus isolate PMo31 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745907.1	996	Poecile montanus isolate PMo5 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745906.1	996	Poecile montanus isolate PMo6 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745905.1	996	Poecile montanus isolate PMo8 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745904.1	996	Poecile montanus isolate PMo9 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745903.1	996	Poecile montanus isolate PMo10 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745902.1	996	Poecile montanus isolate PMo11 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745901.1	996	Poecile montanus isolate PMo12 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745900.1	996	Poecile montanus isolate PMo13 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745899.1	996	Poecile montanus isolate PMo14 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745898.1	996	Poecile montanus isolate PMo15 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745897.1	996	Poecile montanus isolate PMo16 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745896.1	996	Poecile montanus isolate PMo17 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745895.1	996	Poecile montanus isolate PMo19 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745894.1	996	Poecile montanus isolate PMo20 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745893.1	996	Poecile montanus isolate PMo22 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745892.1	996	Poecile montanus isolate PMo23 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745891.1	996	Poecile montanus isolate PMo24 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745890.1	996	Poecile montanus isolate PMo26 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745889.1	996	Poecile montanus isolate PMo28 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745888.1	996	Poecile montanus isolate PMo29 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745887.1	996	Poecile montanus isolate PMo30 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745886.1	996	Poecile montanus isolate PMo25 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745885.1	996	Poecile montanus isolate PMo32 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745884.1	996	Poecile montanus isolate PMo33 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745883.1	996	Poecile montanus isolate PMo34 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745882.1	996	Poecile montanus isolate PMo35 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745881.1	996	Poecile montanus isolate PMo36 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745880.1	996	Poecile montanus isolate PMo37 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745879.1	996	Poecile montanus isolate PMo38 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745878.1	996	Poecile montanus isolate PMo39 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745877.1	996	Poecile montanus isolate PMo40 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745876.1	996	Poecile montanus isolate PMo41 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745875.1	996	Poecile montanus isolate PMo42 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745874.1	996	Poecile montanus isolate PMo43 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745873.1	996	Poecile montanus isolate PMo51 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745872.1	996	Poecile montanus isolate PMo52 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745871.1	996	Poecile montanus isolate PMo53 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745870.1	996	Poecile montanus isolate PMo54 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745869.1	996	Poecile montanus isolate PMo57 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745868.1	996	Poecile montanus isolate PMo58 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745867.1	996	Poecile montanus isolate PMo59 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745866.1	996	Poecile montanus isolate PMo60 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745865.1	996	Poecile montanus isolate PMo61 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745864.1	996	Poecile montanus isolate PMo62 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745863.1	996	Poecile montanus isolate PMo63 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745862.1	996	Poecile montanus isolate PMo55 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KU745861.1	996	Poecile montanus isolate PMo56 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998656.1	1041	Poecile montanus salicarius voucher MTD-C56816 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998653.1	1023	Poecile montanus restrictus voucher MAR90362 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998650.1	1041	Poecile montanus salicarius voucher MTD-C56819 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998644.1	1016	Poecile montanus montanus voucher MTD-C59779 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998643.1	975	Poecile montanus montanus voucher MTD-C59780 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998642.1	1004	Poecile montanus baicalensis voucher MAR685 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998638.1	1041	Poecile montanus rhenanus voucher MAR5080 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998637.1	1023	Poecile montanus rhenanus voucher MAR5057 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998636.1	1025	Poecile montanus rhenanus voucher MAR5056 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998635.1	1041	Poecile montanus kamtschatkensis voucher MAR4846 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998634.1	1041	Poecile montanus kamtschatkensis voucher MAR4845 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998633.1	967	Poecile montanus kamtschatkensis voucher MAR4844 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998631.1	1041	Poecile montanus affinis voucher MAR403 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998626.1	1036	Poecile montanus salicarius voucher MTD-C59781 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998625.1	1020	Poecile montanus affinis voucher MTD-C59776 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998624.1	1022	Poecile montanus affinis voucher MTD-C59775 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998621.1	1041	Poecile montanus rhenanus voucher MTD-C60290 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998619.1	1041	Poecile montanus sachalinensis voucher MAR1404 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998614.1	1041	Poecile montanus salicarius voucher MTD-C56818 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998613.1	1041	Poecile montanus salicarius voucher MTD-C56815 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998611.1	1041	Poecile montanus salicarius voucher MTD-C56817 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX388479.1	16783	Poecile montanus baicalensis isolate 6712 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX388478.1	16783	Poecile montanus isolate 12025 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY733007.1	1041	Parus montanus isolate 152Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY733006.1	1041	Parus montanus isolate 151Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY733005.1	1041	Parus montanus isolate 150Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY733004.1	1041	Parus montanus isolate 149Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY733003.1	1041	Parus montanus isolate 148Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY733002.1	1041	Parus montanus isolate 147Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY733001.1	1041	Parus montanus isolate 146Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY733000.1	1041	Parus montanus isolate 145Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732999.1	1041	Parus montanus isolate 144Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732998.1	1041	Parus montanus isolate 142Anad NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732997.1	1041	Parus montanus isolate 141Irku NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732996.1	1041	Parus montanus isolate 140Irku NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732995.1	1041	Parus montanus isolate 139Irku NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732994.1	1041	Parus montanus isolate 138Irku NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732993.1	1041	Parus montanus isolate 137Irku NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732992.1	1041	Parus montanus isolate 136Irku NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732991.1	1041	Parus montanus isolate 135Irku NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732990.1	1041	Parus montanus isolate 134Bura NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732989.1	1041	Parus montanus isolate 133Irku NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732988.1	1041	Parus montanus isolate 132Bura NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732987.1	1041	Parus montanus isolate 131Bura NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732986.1	1041	Parus montanus isolate 130Bura NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732985.1	1041	Parus montanus isolate 129Khab NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732984.1	1041	Parus montanus isolate 128Prim NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732983.1	1041	Parus montanus isolate 127Prim NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732982.1	1041	Parus montanus isolate 126Prim NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AY732981.1	1041	Parus montanus isolate 125Prim NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

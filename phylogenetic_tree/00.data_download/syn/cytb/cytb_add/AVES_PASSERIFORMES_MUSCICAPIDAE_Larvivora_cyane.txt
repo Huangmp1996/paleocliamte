@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_cyane	DQ119522.1	1143	Luscinia cyane isolate lcy-2 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_cyane	DQ119521.1	1143	Luscinia cyane isolate lcy-1 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_cyane	HM633317.1	1076	Luscinia cyane voucher DZUG-U653 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_cyane	DQ285443.1	983	Luscinia cyane cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_cyane	AY206916.1	1127	Luscinia cyane cytb gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_cyane	AB236376.1	1007	Luscinia cyane mitochondrial cytb gene for cytochrome b, partial cds, haplotype: LC02
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_cyane	AB236375.1	1007	Luscinia cyane mitochondrial cytb gene for cytochrome b, partial cds, haplotype: LC01

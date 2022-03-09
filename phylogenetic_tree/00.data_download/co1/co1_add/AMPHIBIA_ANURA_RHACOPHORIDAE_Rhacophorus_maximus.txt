@@ -1,0 +1,3 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	LC386531.1	1554	Rhacophorus maximus KUHE:35130 mitochondrial COX1 gene for cytochrome c oxidase subunit 1, complete cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	KR087911.1	705	Rhacophorus maximus voucher 0937Y6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	KR087910.1	705	Rhacophorus maximus voucher 0937Y3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

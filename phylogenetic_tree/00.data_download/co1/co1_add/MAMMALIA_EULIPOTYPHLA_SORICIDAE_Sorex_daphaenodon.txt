@@ -1,0 +1,12 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	NC_044107.1	17407	Sorex daphaenodon mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	MK110676.1	17407	Sorex daphaenodon mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	JF499354.1	657	Sorex daphaenodon voucher ZMMU AAL-533 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	JF499353.1	657	Sorex daphaenodon voucher ZMMU AALS-598 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	JF499352.1	653	Sorex daphaenodon voucher ZMMU AALS-599 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	JF499351.1	657	Sorex daphaenodon voucher ZMMU AALS-607 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	JF499350.1	657	Sorex daphaenodon voucher ZMMU AALS-656 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	JF499349.1	657	Sorex daphaenodon voucher ZMMU AALS-550 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU929230.1	657	Sorex daphaenodon voucher Sd Birobidgan F-1803 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU929229.1	657	Sorex daphaenodon voucher Sd Mongolia7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU929228.1	657	Sorex daphaenodon voucher Sd Mongolia4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU929227.1	657	Sorex daphaenodon voucher Sd Mongolia3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

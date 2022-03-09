@@ -1,0 +1,3 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	NC_025277.1	16558	Tamias sibiricus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	KF668525.1	16558	Tamias sibiricus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	AB011215.1	957	Tamias sibiricus mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

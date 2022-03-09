@@ -1,0 +1,86 @@
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042335.1	647	Dendrocopos leucotos lilfordi isolate GH134919 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042334.1	647	Dendrocopos leucotos lilfordi isolate D106 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042333.1	647	Dendrocopos leucotos lilfordi isolate D105 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042332.1	647	Dendrocopos leucotos leucotos isolate DL-CM6 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042331.1	647	Dendrocopos leucotos leucotos isolate DL-CM2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042330.1	647	Dendrocopos leucotos leucotos isolate DL-CM1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042329.1	647	Dendrocopos leucotos leucotos isolate DL-CM4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042328.1	647	Dendrocopos leucotos leucotos isolate DL-BF6 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042327.1	647	Dendrocopos leucotos leucotos isolate DL-BF1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042326.1	647	Dendrocopos leucotos lilfordi isolate GH134916 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042325.1	528	Dendrocopos leucotos leucotos isolate MSNM Av 35481 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042324.1	647	Dendrocopos leucotos lilfordi isolate MSNM Av 12767 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042323.1	647	Dendrocopos leucotos lilfordi isolate MSNM Av 12766 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042322.1	647	Dendrocopos leucotos lilfordi isolate MSNM Av 12765 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042321.1	647	Dendrocopos leucotos leucotos isolate WBW22 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042320.1	647	Dendrocopos leucotos leucotos isolate WBW20 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042319.1	647	Dendrocopos leucotos leucotos isolate WBW14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042318.1	647	Dendrocopos leucotos leucotos isolate WBW13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042317.1	647	Dendrocopos leucotos leucotos isolate WBW12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042316.1	647	Dendrocopos leucotos leucotos isolate WBW10 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042315.1	647	Dendrocopos leucotos leucotos isolate WBW8 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042314.1	647	Dendrocopos leucotos leucotos isolate WBW7 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042313.1	647	Dendrocopos leucotos uralensis isolate 11.387 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042312.1	647	Dendrocopos leucotos uralensis isolate 11.384 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042311.1	647	Dendrocopos leucotos uralensis isolate 453 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042310.1	647	Dendrocopos leucotos uralensis isolate 433 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042309.1	647	Dendrocopos leucotos uralensis isolate 432 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042308.1	647	Dendrocopos leucotos uralensis isolate 410 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042307.1	647	Dendrocopos leucotos lilfordi isolate D61 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042306.1	647	Dendrocopos leucotos lilfordi isolate GH134912 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042305.1	647	Dendrocopos leucotos lilfordi isolate D54 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042304.1	647	Dendrocopos leucotos subcirris isolate Dleusub 1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042303.1	647	Dendrocopos leucotos insularis isolate 1965.M.6413 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042302.1	647	Dendrocopos leucotos tangi isolate 1954.59.34 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042301.1	519	Dendrocopos leucotos leucotos isolate NMW 72.920 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042300.1	647	Dendrocopos leucotos leucotos isolate UWBM 83093 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042299.1	647	Dendrocopos leucotos leucotos isolate UWBM 71369 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042298.1	647	Dendrocopos leucotos leucotos isolate UWBM 71785 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042297.1	647	Dendrocopos leucotos leucotos isolate UWBM 46919 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042296.1	647	Dendrocopos leucotos leucotos isolate UWBM 49418 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042295.1	647	Dendrocopos leucotos leucotos isolate UWBM 46354 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042294.1	647	Dendrocopos leucotos lilfordi isolate UWBM 64700 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042293.1	647	Dendrocopos leucotos lilfordi isolate NHM 1035431 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042292.1	647	Dendrocopos leucotos lilfordi isolate NHM 1035430 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042291.1	647	Dendrocopos leucotos lilfordi isolate D35 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042290.1	647	Dendrocopos leucotos owstoni isolate GEN37-01B cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042289.1	647	Dendrocopos leucotos namiyei isolate GEN33-07F cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042288.1	647	Dendrocopos leucotos stejnegeri isolate GEN33-06F cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042287.1	647	Dendrocopos leucotos subcirris isolate GEN37-03B cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042286.1	647	Dendrocopos leucotos subcirris isolate GEN37-02B cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042285.1	647	Dendrocopos leucotos subcirris isolate GEN06-05I cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042284.1	647	Dendrocopos leucotos subcirris isolate GEN06-06I cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042283.1	647	Dendrocopos leucotos lilfordi isolate GH92002 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042282.1	647	Dendrocopos leucotos lilfordi isolate GH48969 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042281.1	647	Dendrocopos leucotos lilfordi isolate GF29462 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042280.1	647	Dendrocopos leucotos lilfordi isolate GF29461 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042279.1	647	Dendrocopos leucotos leucotos isolate K340747 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042278.1	647	Dendrocopos leucotos leucotos isolate K531564 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042277.1	647	Dendrocopos leucotos leucotos isolate K531563 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042276.1	647	Dendrocopos leucotos leucotos isolate K525905 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042275.1	647	Dendrocopos leucotos leucotos isolate K531568 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042274.1	647	Dendrocopos leucotos leucotos isolate KB531566 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042273.1	647	Dendrocopos leucotos leucotos isolate K531565 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042272.1	647	Dendrocopos leucotos leucotos isolate K531504 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042271.1	647	Dendrocopos leucotos lilfordi isolate D14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042270.1	647	Dendrocopos leucotos lilfordi isolate D12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042269.1	647	Dendrocopos leucotos lilfordi isolate GH108101 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042268.1	647	Dendrocopos leucotos lilfordi isolate GH134904 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	MW042267.1	647	Dendrocopos leucotos lilfordi isolate GH134903 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GQ481707.1	694	Dendrocopos leucotos voucher UWBM 72175 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GQ481706.1	694	Dendrocopos leucotos voucher UWBM 47343 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GQ481704.1	694	Dendrocopos leucotos voucher UWBM 49418 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GU566412.1	689	Dendrocopos leucotos isolate O3 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GU571860.1	648	Dendrocopos leucotos voucher BISE-Aves14 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GU571859.1	648	Dendrocopos leucotos voucher BISE-Aves425 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GU571366.1	721	Dendrocopos leucotos voucher NHMO-BC126 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GQ481705.1	694	Dendrocopos leucotos voucher UWBM 57279 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	GQ481703.1	694	Dendrocopos leucotos voucher UWBM 46354 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	AF394283.1	1550	Picoides leucotos strain 49608 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	AF394282.1	1544	Picoides leucotos strain 49580 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	AF389313.1	1029	Picoides leucotos strain 49608 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	AF389312.1	1029	Picoides leucotos strain 49580 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	NC_029862.1	16838	Dendrocopos leucotos mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	KU131555.1	16838	Dendrocopos leucotos mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	AB843465.1	651	Dendrocopos leucotos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO380-10
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	AB843464.1	683	Dendrocopos leucotos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO379-10

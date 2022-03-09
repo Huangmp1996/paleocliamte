@@ -1,0 +1,28 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	MH885026.1	789	Kaloula pulchra voucher USNMFS34083 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	DQ283398.1	2421	Kaloula pulchra voucher RdS 02 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	DQ283397.1	2421	Kaloula pulchra voucher AMCC 106697 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	AY330902.1	323	Kaloula pulchra voucher SIH-09 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KY132256.1	9522	Kaloula pulchra voucher KU328278 mitochondrion, partial genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	AY458595.1	16818	Kaloula pulchra mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822624.1	2366	Kaloula pulchra voucher MF0812 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822623.1	2015	Kaloula pulchra voucher MF0766 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822622.1	2367	Kaloula pulchra voucher TZ629 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822621.1	2214	Kaloula pulchra voucher ACD1538 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822620.1	2433	Kaloula pulchra voucher FMNH:255128 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822619.1	2433	Kaloula pulchra voucher FMNH:255129 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822618.1	2400	Kaloula pulchra voucher TNHC59422 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822617.1	2433	Kaloula pulchra voucher TNHC59423 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822616.1	2389	Kaloula pulchra voucher JAM1753 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822615.1	2423	Kaloula pulchra voucher JAM1857 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822614.1	2433	Kaloula pulchra voucher NMNS3208 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC822575.1	2420	Kaloula pulchra voucher LSUHC3869 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KC852906.1	2252	Kaloula pulchra voucher LSUHC3870 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	JX678899.1	789	Kaloula pulchra voucher KIZHERP0171 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	JX678891.1	883	Kaloula pulchra voucher KIZHERP3003 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	JX678890.1	882	Kaloula pulchra voucher KIZHERP0121 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	JX678889.1	875	Kaloula pulchra voucher KIZHERP0129 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	JX678887.1	911	Kaloula pulchra voucher KIZHERP0439 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	AB634632.1	840	Kaloula pulchra mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUHE:22206
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	AB201183.1	859	Kaloula pulchra mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher:KUHE35171
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	AF315162.1	556	Kaloula pulchra 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	AF315130.1	389	Kaloula pulchra 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

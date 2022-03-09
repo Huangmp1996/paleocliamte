@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	GQ481921.1	639	Ficedula zanthopygia voucher UWBM 74826 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	GQ481920.1	694	Ficedula zanthopygia voucher UWBM 47518 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	GQ481919.1	694	Ficedula zanthopygia voucher UWBM 59913 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	GQ481918.1	675	Ficedula zanthopygia voucher UWBM 74729 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	GQ481917.1	694	Ficedula zanthopygia voucher UWBM 71732 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	JN018411.1	16794	Ficedula zanthopygia mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	KJ952126.1	576	Ficedula zanthopygia voucher B07 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	KJ952125.1	576	Ficedula zanthopygia voucher B06 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	KJ952124.1	576	Ficedula zanthopygia voucher B05 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	KJ952123.1	576	Ficedula zanthopygia voucher B03 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	KJ952122.1	576	Ficedula zanthopygia voucher B02 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	KJ952121.1	576	Ficedula zanthopygia voucher B01 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	KJ952120.1	576	Ficedula zanthopygia voucher BKS910 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	EF422235.1	1176	Ficedula zanthopygia cytohrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	NC_015802.1	16794	Ficedula zanthopygia mitochondrion, complete genome

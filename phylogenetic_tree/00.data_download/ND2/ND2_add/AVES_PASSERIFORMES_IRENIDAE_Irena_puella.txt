@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	MT050814.1	1026	Irena puella NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	MN991452.1	1041	Irena puella voucher KU-12369 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	MH908407.1	1032	Irena puella crinigera voucher USNM:Birds:656378 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	MH908382.1	1023	Irena puella crinigera voucher USNM:Birds:656353 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	MH908374.1	1032	Irena puella crinigera voucher USNM:Birds:656345 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	MH908301.1	1014	Irena puella crinigera voucher USNM:Birds:656265 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	MH908213.1	1023	Irena puella crinigera voucher USNM:Birds:656170 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	MH908206.1	1023	Irena puella crinigera voucher USNM:Birds:656162 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	GU816837.1	1041	Irena puella NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	KJ455470.1	1041	Irena puella voucher UWBM:82069 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_IRENIDAE_Irena_puella	KJ930850.1	1041	Irena puella voucher KU12369 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

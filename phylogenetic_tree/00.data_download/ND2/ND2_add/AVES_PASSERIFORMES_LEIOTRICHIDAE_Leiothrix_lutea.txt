@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MN356265.1	14913	Leiothrix lutea mitochondrion, partial genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MK997273.1	537	Leiothrix lutea voucher KIZ 04172 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MK997272.1	537	Leiothrix lutea voucher KIZ 04084 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MK997271.1	537	Leiothrix lutea voucher KIZ 04076 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MK997270.1	537	Leiothrix lutea voucher KIZ 04015 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MK997269.1	537	Leiothrix lutea voucher KIZ 04403 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MK997268.1	537	Leiothrix lutea voucher KIZ 04402 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MK997267.1	537	Leiothrix lutea voucher KIZ 04173 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MK997266.1	537	Leiothrix lutea voucher KIZ 04081 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	KJ455474.1	1041	Leiothrix lutea NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	NC_020427.1	17615	Leiothrix lutea mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	JQ423933.1	17615	Leiothrix lutea mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	JN826563.1	1041	Leiothrix lutea voucher KUNHM 6724 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	JN826562.1	1041	Leiothrix lutea voucher AMNH DOT6507 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

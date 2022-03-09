@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	NC_046948.1	16761	Turdus cardis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	MN865118.1	16761	Turdus cardis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	AB843820.1	696	Turdus cardis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO504-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	AB843819.1	674	Turdus cardis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO244-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	AB843818.1	684	Turdus cardis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO437-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	AB843245.1	666	Turdus cardis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM159-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	AB843244.1	654	Turdus cardis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM139-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	AB843243.1	640	Turdus cardis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM538-10

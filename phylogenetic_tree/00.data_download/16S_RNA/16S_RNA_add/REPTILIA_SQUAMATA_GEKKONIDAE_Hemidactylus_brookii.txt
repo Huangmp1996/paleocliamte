@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_brookii	MT775433.1	544	Hemidactylus brookii isolate mitochondria large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_brookii	HM040938.1	220	Hemidactylus brookii 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_brookii	AY863040.1	392	Hemidactylus brookii strain AJ5 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_brookii	AY517570.1	496	Hemidactylus brookii isolate Kitulgala_k38 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_brookii	AY517569.1	510	Hemidactylus brookii isolate Rodrig_d20_318 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_brookii	AY517568.1	498	Hemidactylus brookii isolate Moheli_ZSM369 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_brookii	AY517567.1	510	Hemidactylus brookii isolate Reunion_c24_289 16S ribosomal RNA gene, partial sequence; mitochondrial

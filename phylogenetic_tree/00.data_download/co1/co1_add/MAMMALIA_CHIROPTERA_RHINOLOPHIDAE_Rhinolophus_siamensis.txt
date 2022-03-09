@@ -1,0 +1,9 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	MG765713.1	657	Rhinolophus siamensis isolate 48 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	MG765712.1	657	Rhinolophus siamensis isolate 32 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	MG765695.1	657	Rhinolophus siamensis isolate 3 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	HM541801.1	620	Rhinolophus siamensis voucher SMF 86198 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	HM541800.1	421	Rhinolophus siamensis voucher INECOL M0150 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	HM541799.1	421	Rhinolophus siamensis voucher AGS980510-06 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	HM541798.1	657	Rhinolophus siamensis voucher INECOL M0149 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	HM541797.1	374	Rhinolophus siamensis voucher EBD 24979 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_siamensis	HM541796.1	657	Rhinolophus siamensis voucher EBD 24978 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,11 @@
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	GQ922644.1	699	Arborophila rufipectus bio-material A004 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	GQ922643.1	699	Arborophila rufipectus bio-material A002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	NC_012453.1	16728	Arborophila rufipectus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	FJ194942.1	16728	Arborophila rufipectus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KJ862142.1	648	Arborophila rufipectus voucher ARB6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KJ862141.1	648	Arborophila rufipectus voucher ARB3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KJ862140.1	648	Arborophila rufipectus voucher AR5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KJ862139.1	648	Arborophila rufipectus voucher AR3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KJ862138.1	648	Arborophila rufipectus voucher AR2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KJ862137.1	648	Arborophila rufipectus voucher AR1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KP119039.1	617	Arborophila rufipectus voucher SC01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

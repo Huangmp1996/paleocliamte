@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Hodgsonius_phaenicuroides	KJ455464.1	1041	Hodgsonius phoenicuroides NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Hodgsonius_phaenicuroides	JX256058.1	1023	Hodgsonius phoenicuroides voucher MNHN 18.34 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Hodgsonius_phaenicuroides	GU358804.1	1041	Hodgsonius phoenicuroides voucher NRM 90636 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

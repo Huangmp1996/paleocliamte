@@ -1,0 +1,13 @@
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	JN794083.1	613	Indotestudo elongata voucher AUTK7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	JN794082.1	644	Indotestudo elongata voucher AUTK6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	DQ080043.1	16788	Indotestudo elongata voucher MVZ 234627 mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	DQ656607.1	16813	Indotestudo elongata mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	KP268858.1	677	Indotestudo elongata voucher T28 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	KP268857.1	677	Indotestudo elongata voucher T16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	KF894765.1	644	Indotestudo elongata voucher AUTK62 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	KC129168.1	475	Indotestudo elongata voucher AS11MT01 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	KC354721.1	613	Indotestudo elongata voucher AUTK43 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	KC354720.1	612	Indotestudo elongata voucher AUTK42 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	KC354719.1	613	Indotestudo elongata voucher AUTK41 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	NC_007695.1	16788	Indotestudo elongata mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	JX049141.1	613	Indotestudo elongata isolate SGSKD-T9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

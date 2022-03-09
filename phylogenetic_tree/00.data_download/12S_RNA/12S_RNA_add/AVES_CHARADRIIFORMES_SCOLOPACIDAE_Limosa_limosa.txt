@@ -1,0 +1,4 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ962991.1	550	Limosa limosa melanuroides 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ962990.1	555	Limosa limosa islandica 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	AF285800.1	462	Limosa limosa isolate UAM8400 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	AF285799.1	462	Limosa limosa isolate UAM8216 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

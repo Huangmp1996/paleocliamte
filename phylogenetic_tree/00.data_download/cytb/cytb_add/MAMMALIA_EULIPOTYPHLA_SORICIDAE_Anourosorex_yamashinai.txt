@@ -1,0 +1,56 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KX458066.1	1140	Anourosorex yamashinai cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AY575067.1	930	Anourosorex yamashinai cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KU379564.1	416	Anourosorex yamashinai isolate MVZ181004 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KU379563.1	416	Anourosorex yamashinai isolate MVZ180986 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KU379562.1	416	Anourosorex yamashinai isolate MVZ180983 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KU379561.1	416	Anourosorex yamashinai isolate MVZ180982 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KU379560.1	416	Anourosorex yamashinai isolate MVZ180981 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KU379559.1	416	Anourosorex yamashinai isolate MVZ180979 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KU379558.1	416	Anourosorex yamashinai isolate MVZ180988 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KF856278.1	1140	Anourosorex yamashinai voucher NMNS:T8326 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KF856277.1	1140	Anourosorex yamashinai voucher NMNS:T8325 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KF856276.1	1140	Anourosorex yamashinai voucher NMNS:T6405 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KF856275.1	1140	Anourosorex yamashinai voucher NMNS:T6403 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	KF856274.1	1140	Anourosorex yamashinai voucher NMNS:T6404 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	GU981257.1	1140	Anourosorex yamashinai isolate Anyamas2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190498.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:MC3
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190497.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:MC2
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190496.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:MC1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190495.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T36
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190494.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T35
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190493.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T34
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190492.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T33
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190491.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T32
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190490.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T31
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190489.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T30
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190488.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T29
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190487.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T28
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190486.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T27
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190485.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T26
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190484.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T25
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190483.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T24
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190482.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T23
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190481.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T22
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190480.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T21
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190479.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T20
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190478.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T19
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190477.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T18
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190476.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T17
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190475.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T16
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190474.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T15
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190473.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T14
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190472.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T13
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190471.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T12
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190470.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T11
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190469.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T10
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190468.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T9
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190467.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T8
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190466.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T7
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190465.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T6
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190464.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T5
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190463.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T4
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190462.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T3
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190461.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T2
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB190460.1	737	Anourosorex yamashinai mitochondrial cytb gene for cytochrome b, partial cds, haplotype:T1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB175089.1	1140	Anourosorex yamashinai mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_yamashinai	AB175088.1	1140	Anourosorex yamashinai mitochondrial gene for cytochrome b, complete cds

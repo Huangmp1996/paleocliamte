@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	DQ119534.1	1143	Emberiza rutila isolate eru-2 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	DQ119533.1	1143	Emberiza rutila isolate eru-1 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	KP877774.1	626	Emberiza rutila isolate MAR5910 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	KP877754.1	984	Emberiza rutila isolate MAR4867 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	NC_024925.1	16803	Emberiza rutila mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	KC952874.1	16803	Emberiza rutila mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	EU325739.1	1076	Emberiza rutila cytochrome b gene, partial cds; mitochondrial

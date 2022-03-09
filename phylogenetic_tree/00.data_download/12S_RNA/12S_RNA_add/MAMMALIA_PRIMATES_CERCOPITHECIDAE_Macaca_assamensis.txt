@@ -1,0 +1,14 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685904.1	435	Macaca assamensis isolate Yunnan4 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685903.1	435	Macaca assamensis isolate Myanmar4 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685902.1	435	Macaca assamensis isolate Myanmar2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685901.1	435	Macaca assamensis isolate Myanmar3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685900.1	435	Macaca assamensis isolate Myanmar1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685899.1	435	Macaca assamensis isolate South of China 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685898.1	435	Macaca assamensis isolate Vietnam3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685897.1	435	Macaca assamensis isolate Yunnan3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685896.1	435	Macaca assamensis isolate Yunnan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685895.1	435	Macaca assamensis isolate Yunnan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685894.1	435	Macaca assamensis isolate Vietnam2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY685893.1	435	Macaca assamensis isolate Vietnam1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY224246.1	1495	Macaca assamensis 89019 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_assamensis	AY224245.1	1495	Macaca assamensis 1.KIZ.B 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

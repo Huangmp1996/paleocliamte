@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_kathiah	AY882063.1	1044	Mustela kathiah NADH dehydrogenase 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_kathiah	HM106320.1	16552	Mustela kathiah voucher YP6126 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_kathiah	NC_023210.1	16552	Mustela kathiah voucher YP6126 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_kathiah	JQ965764.1	1029	Mustela kathiah voucher IPEE RAS:00579 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

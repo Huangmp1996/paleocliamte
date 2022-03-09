@@ -1,0 +1,3 @@
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_kiang	NC_020433.1	16380	Equus kiang mitochondrion, complete genome
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_kiang	JX312732.1	16381	Equus kiang isolate K32 mitochondrion, complete genome
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_kiang	JX312731.1	16380	Equus kiang isolate K41 mitochondrion, complete genome

@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_Scincidae_Scincella_himalayanus	NC_058309.1	17304	Asymblepharus himalayanus mitochondrion, complete genome
+REPTILIA_SQUAMATA_Scincidae_Scincella_himalayanus	MN885892.1	17304	Asymblepharus himalayanus mitochondrion, complete genome
+REPTILIA_SQUAMATA_Scincidae_Scincella_himalayanus	MF370881.1	329	Asymblepharus himalayanus 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Scincella_himalayanus	KF514643.1	329	Asymblepharus himalayanus voucher CES09/868 12S ribosomal RNA gene, partial sequence; mitochondrial

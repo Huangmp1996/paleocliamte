@@ -1,0 +1,38 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257661.1	658	Gekko swinhonis voucher DW002WP03013 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257660.1	658	Gekko swinhonis voucher DW002WP03012 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257659.1	658	Gekko swinhonis voucher DW002WP03011 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257658.1	658	Gekko swinhonis voucher DW002WP03010 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257657.1	658	Gekko swinhonis voucher DW002WP03009 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257656.1	658	Gekko swinhonis voucher DW002WP03008 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257655.1	658	Gekko swinhonis voucher DW002WP03007 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257654.1	658	Gekko swinhonis voucher DW002WP03006 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257653.1	658	Gekko swinhonis voucher DW002WP03005 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257652.1	658	Gekko swinhonis voucher DW002WP03004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257651.1	658	Gekko swinhonis voucher DW002WP03003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257650.1	658	Gekko swinhonis voucher DW002WP03002 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257649.1	658	Gekko swinhonis voucher DW002WP03001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257648.1	658	Gekko swinhonis voucher DW002WP02001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257647.1	658	Gekko swinhonis voucher DW002WP01010 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257646.1	658	Gekko swinhonis voucher DW002WP01009 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257645.1	658	Gekko swinhonis voucher DW002WP01008 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257644.1	658	Gekko swinhonis voucher DW002WP01007 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257643.1	658	Gekko swinhonis voucher DW002WP01006 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257642.1	658	Gekko swinhonis voucher DW002WP01005 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257641.1	658	Gekko swinhonis voucher DW002WP01004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257640.1	658	Gekko swinhonis voucher DW002WP01003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257639.1	658	Gekko swinhonis voucher DW002WP01002 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MG257638.1	658	Gekko swinhonis voucher DW002WP01001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HM802944.1	825	Gekko swinhonis isolate LY07 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HM802943.1	825	Gekko swinhonis isolate LY05 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HM802942.1	825	Gekko swinhonis isolate XY20 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HM802941.1	825	Gekko swinhonis isolate XY19 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HM802940.1	825	Gekko swinhonis isolate XY18 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HM802939.1	825	Gekko swinhonis isolate XY17 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HM802938.1	825	Gekko swinhonis isolate XY06 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	EU417712.1	825	Gekko swinhonis isolate XA4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	EU417711.1	825	Gekko swinhonis isolate XA3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	EU417710.1	825	Gekko swinhonis isolate XA2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	EU417709.1	825	Gekko swinhonis isolate XA1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HQ896028.1	15840	Gekko swinhonis mitochondrion, partial genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	NC_018050.1	16818	Gekko swinhonis mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	JQ906550.1	16818	Gekko swinhonis mitochondrion, complete genome

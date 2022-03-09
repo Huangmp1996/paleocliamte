@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	MW524523.1	143	Passer domesticus isolate VM102819-001 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	MW524491.1	143	Passer domesticus isolate VM062019-120 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	MW524366.1	144	Passer domesticus isolate VM061919-303 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	MW524152.1	143	Passer domesticus isolate VM061719-001 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	MN356394.1	16804	Passer domesticus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	KM078784.1	16802	Passer domesticus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	NC_025611.1	16802	Passer domesticus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	KF469294.1	443	Passer domesticus isolate 14 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	HM159164.1	912	Passer domesticus voucher PADO 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	EF027317.1	147	Passer domesticus isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	EF027316.1	147	Passer domesticus isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AF447245.1	863	Passer domesticus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AF407085.1	1014	Passer domesticus tRNA-Phe gene, partial sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AY283888.1	571	Passer domesticus domesticus small subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

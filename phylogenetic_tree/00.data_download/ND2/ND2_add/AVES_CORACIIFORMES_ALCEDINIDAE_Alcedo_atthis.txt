@@ -1,0 +1,9 @@
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	MG008071.1	1041	Alcedo atthis voucher AMNH DOT-10856 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	NC_035868.1	17383	Alcedo atthis mitochondrion, complete genome
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KY964271.1	17383	Alcedo atthis mitochondrion, complete genome
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	EF585373.1	1089	Alcedo atthis isolate AlcAth1 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	DQ111831.1	1041	Alcedo atthis voucher RWD24668 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AY998922.1	362	Alcedo atthis voucher LSUMNS 358314 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	DQ640773.1	1036	Alcedo atthis voucher MNHN CG 1995-224 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	DQ640772.1	1041	Alcedo atthis voucher UWBM 59855 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KJ455314.1	1041	Alcedo atthis voucher UWBM:83042 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

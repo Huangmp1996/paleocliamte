@@ -1,0 +1,22 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MT259592.1	16511	Rousettus amplexicaudatus voucher MZF1072 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN816353.1	16720	Rousettus amplexicaudatus isolate VN1368 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN816352.1	16573	Rousettus amplexicaudatus isolate CKM76 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	NC_045044.1	16509	Rousettus amplexicaudatus voucher MRMD 2101 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN125184.1	16509	Rousettus amplexicaudatus voucher MRMD 2101 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MH999944.1	964	Rousettus amplexicaudatus haplotype cyt40 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MH999943.1	964	Rousettus amplexicaudatus haplotype cyt39 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MH999942.1	964	Rousettus amplexicaudatus haplotype cyt38 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MH999941.1	964	Rousettus amplexicaudatus haplotype cyt37 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MH999940.1	964	Rousettus amplexicaudatus haplotype cyt36 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MH999939.1	964	Rousettus amplexicaudatus haplotype cyt35 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MH999938.1	964	Rousettus amplexicaudatus haplotype cyt34 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	KU950716.1	1140	Rousettus amplexicaudatus clone MT1720/1657 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	DQ097833.2	395	Rousettus amplexicaudatus isolate 1021 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	DQ097832.1	395	Rousettus amplexicaudatus isolate 1019 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	AF044657.1	402	Rousettus amplexicaudatus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	EF105521.1	395	Rousettus amplexicaudatus isolate S001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	EF105520.1	395	Rousettus amplexicaudatus isolate Bau cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	AB075978.1	1818	Rousettus amplexicaudatus mitochondrial NADH 5 gene for NADH dehydrogenase subunit 5, complete cds
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	AB046329.1	1140	Rousettus amplexicaudatus mitochondrial cytb gene for cytochrome b, complete cds, country:Philippines: Davao City, Talomo District. Ma-a
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	AB046328.1	1140	Rousettus amplexicaudatus mitochondrial cytb gene for cytochrome b, complete cds, country:Philippines: Island Garden City of Samal, Babak, Liklik
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	AB046327.1	1140	Rousettus amplexicaudatus mitochondrial cytb gene for cytochrome b, complete cds, country:Philippines: Quezon Province, Lucban, Palola Manglit, Samil, Mt. Banahao

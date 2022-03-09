@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	NC_039538.1	16770	Niltava davidi mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KY024217.1	16770	Niltava davidi mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KP336994.1	1125	Niltava davidi isolate 2583 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KP336993.1	1125	Niltava davidi isolate 2582 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	EF422245.1	1176	Niltava davidi cytohrome oxidase subunit I (COI) gene, partial cds; mitochondrial

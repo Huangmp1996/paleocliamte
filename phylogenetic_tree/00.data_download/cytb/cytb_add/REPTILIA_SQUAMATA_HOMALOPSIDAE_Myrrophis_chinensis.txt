@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MT802727.1	1048	Myrrophis chinensis voucher LSUHC4255 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MT802726.1	1028	Myrrophis chinensis voucher AMNH106675 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MT802684.1	1012	Myrrophis chinensis voucher ROM25620 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MK201532.1	585	Myrrophis chinensis voucher CHS795 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MK201378.1	585	Myrrophis chinensis voucher CHS283 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	AF499266.1	313	Enhydris chinensis cytochrome b (cytB) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	GU997197.1	1113	Enhydris chinensis isolate Echi002_30890 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	GU997196.1	1113	Enhydris chinensis isolate Echi001_30889 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	EF395903.1	1053	Enhydris chinensis voucher ROM 31031 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,51 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MK750934.1	866	Microtus maximowiczii voucher Vladimir Lebedev:Mmax_18_73 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MK750933.1	893	Microtus maximowiczii voucher ZMMU:S-176537 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MK750932.1	905	Microtus maximowiczii voucher Vladimir Lebedev:Mmax_16_34 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MK750931.1	905	Microtus maximowiczii voucher Vladimir Lebedev:Mmax_16_33 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MK750930.1	905	Microtus maximowiczii voucher Vladimir Lebedev:Mmax_16_12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429799.1	817	Microtus maximowiczii voucher ZISP 98982 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429798.1	824	Microtus maximowiczii voucher ZISP 98981 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429797.1	814	Microtus maximowiczii voucher ZISP 98980 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429796.1	824	Microtus maximowiczii voucher ZISP 98979 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429795.1	822	Microtus maximowiczii voucher ZISP 98978 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429794.1	824	Microtus maximowiczii voucher ZISP 98977 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429793.1	824	Microtus maximowiczii voucher ZISP 98976 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429792.1	814	Microtus maximowiczii voucher ZISP 98975 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429791.1	824	Microtus maximowiczii voucher ZISP 98974 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429790.1	824	Microtus maximowiczii voucher ZISP 98973 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429789.1	824	Microtus maximowiczii voucher ZISP 98972 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429788.1	824	Microtus maximowiczii voucher ZISP 98971 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF429787.1	824	Microtus maximowiczii voucher ZISP 98970 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099575.1	1100	Microtus maximowiczii voucher ZMMU S-186363 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099574.1	1100	Microtus maximowiczii voucher ZMMU S-186348 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099573.1	716	Microtus maximowiczii isolate C-63-3088 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099572.1	1049	Microtus maximowiczii isolate C-62-4212 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099571.1	1134	Microtus maximowiczii voucher ZIN 104197 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099570.1	1134	Microtus maximowiczii voucher ZIN 104196 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099560.1	1140	Microtus maximowiczii voucher ZMMU S-187545 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099559.1	1140	Microtus maximowiczii voucher ZMMU S-187569 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099534.1	1100	Microtus maximowiczii voucher ZMMU S-187570 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099533.1	1100	Microtus maximowiczii voucher ZMMU S-186362 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099532.1	1140	Microtus maximowiczii voucher ZMMU S-182038 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099531.1	1134	Microtus maximowiczii voucher ZIN 104143 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099528.1	1140	Microtus maximowiczii voucher ZMMU S-187546 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	MF099527.1	1140	Microtus maximowiczii voucher ZMMU S-187568 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	FJ986321.1	154	Microtus maximowiczii voucher S-140238 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	FJ986320.1	419	Microtus maximowiczii voucher S-176537 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	FJ986319.1	1140	Microtus maximowiczii voucher S-176552 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	FJ986312.1	1140	Microtus maximowiczii voucher S-178602 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	FJ986311.1	1140	Microtus maximowiczii voucher S-178597 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	FJ986303.1	1140	Microtus maximowiczii voucher S-179480 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KP190246.1	1134	Microtus maximowiczii isolate NMG12003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KP190245.1	1140	Microtus maximowiczii isolate NMHLE006 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857291.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-217 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857290.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-216 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857289.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-167 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857288.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-164 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857287.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-152 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857280.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-312 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857279.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-254 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857278.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-252 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857277.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-250 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857276.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-233 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ857275.1	1140	Microtus maximowiczii isolate Fuyuan-Mm-228 cytochrome b gene, partial cds; mitochondrial

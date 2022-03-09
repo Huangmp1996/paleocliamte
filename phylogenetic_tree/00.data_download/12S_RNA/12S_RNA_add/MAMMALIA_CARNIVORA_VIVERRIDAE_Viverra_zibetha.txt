@@ -1,0 +1,5 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverra_zibetha	NC_053976.1	16796	Viverra zibetha mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverra_zibetha	MW257233.1	16796	Viverra zibetha mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverra_zibetha	DQ286776.1	375	Viverra zibetha voucher AHNU0405 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverra_zibetha	HQ634950.1	438	Viverra zibetha isolate WII/WFC/tissue/816 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverra_zibetha	DQ286779.1	375	Viverra zibetha voucher AHNU0405 12S ribosomal RNA gene, partial sequence; mitochondrial

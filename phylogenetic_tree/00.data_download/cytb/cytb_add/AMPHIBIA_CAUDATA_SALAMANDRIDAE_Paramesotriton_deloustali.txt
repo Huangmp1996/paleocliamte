@@ -1,0 +1,10 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	MN641900.1	1122	Paramesotriton deloustali isolate PDL-HK cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	NC_037713.1	16391	Paramesotriton deloustali voucher CAU1507046 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	KY744236.1	16391	Paramesotriton deloustali voucher CAU1507046 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	AY233148.1	307	Paramesotriton deloustali isolate ROM35433 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	AY079480.1	307	Paramesotriton deloustali isolate DELO cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	GQ303669.1	1172	Paramesotriton deloustali voucher MVZ 223629 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	GQ303668.1	1172	Paramesotriton deloustali voucher MVZ 223628 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	AF295672.1	674	Paramesotriton deloustali isolate Pdel3 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	AF295671.1	673	Paramesotriton deloustali isolate Pdel2 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	EU880327.1	16335	Paramesotriton deloustali mitochondrion, partial genome

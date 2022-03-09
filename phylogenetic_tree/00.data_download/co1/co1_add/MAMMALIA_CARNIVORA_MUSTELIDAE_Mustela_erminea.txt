@@ -1,0 +1,20 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	MT584107.1	16464	Mustela erminea isolate DM1128 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	MW478004.1	513	Mustela erminea voucher 31461 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	MW257230.1	16500	Mustela erminea mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443301.1	645	Mustela erminea voucher HLC-16283 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443300.1	652	Mustela erminea voucher HLC-10617 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443298.1	657	Mustela erminea voucher HLC-16339 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF499321.1	657	Mustela erminea voucher ZMMU AALS-629 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443302.1	614	Mustela erminea voucher HBL008413 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	NC_025516.1	16471	Mustela erminea mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM091450.1	16471	Mustela erminea mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JQ350488.1	658	Mustela erminea voucher UOG:FN060 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JQ350487.1	658	Mustela erminea voucher UOG:FN057 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JQ350486.1	658	Mustela erminea voucher UOG:FN058 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JQ350485.1	658	Mustela erminea voucher UOG:FN059 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443297.1	657	Mustela erminea voucher BIOUG<CAN>:ROM 118665 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443831.1	657	Mustela erminea voucher BIOUG<CAN>:HLC-16170 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443299.1	656	Mustela erminea voucher ROM 96563 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443296.1	657	Mustela erminea voucher ROM 100745 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443295.1	657	Mustela erminea voucher ROM 114293 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	JF443294.1	657	Mustela erminea voucher ROM 112753 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

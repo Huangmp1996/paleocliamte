@@ -1,0 +1,61 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MT956652.1	651	Phrynocephalus guttatus voucher ZMMU R-12172-2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MN548101.1	225	Phrynocephalus guttatus guttatus isolate ABLRP071-05 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461469.1	649	Phrynocephalus guttatus guttatus isolate NPLRP505_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461460.1	651	Phrynocephalus guttatus salsatus isolate NPLRP491_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461459.1	418	Phrynocephalus guttatus incertus isolate NPLRP483_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461458.1	418	Phrynocephalus guttatus incertus isolate NPLRP482_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461457.1	503	Phrynocephalus guttatus incertus isolate NPLRP480_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461456.1	418	Phrynocephalus guttatus melanurus isolate NPLRP456_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461455.1	418	Phrynocephalus guttatus moltschanowi isolate NPLRP455_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461454.1	418	Phrynocephalus guttatus salsatus isolate NPLRP454_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461453.1	406	Phrynocephalus guttatus incertus isolate NPLRP453_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461452.1	651	Phrynocephalus guttatus melanurus isolate NPLRP452_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461448.1	651	Phrynocephalus guttatus incertus isolate ABLRP723_10 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461447.1	630	Phrynocephalus guttatus incertus isolate ABLRP722_10 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461444.1	651	Phrynocephalus guttatus incertus isolate ABLRP710_10 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461443.1	638	Phrynocephalus guttatus incertus isolate ABLRP709_10 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461442.1	651	Phrynocephalus guttatus incertus isolate ABLRP708_10 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461441.1	651	Phrynocephalus guttatus incertus isolate ABLRP707_10 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461428.1	599	Phrynocephalus guttatus melanurus isolate ABLRP520_09 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461427.1	599	Phrynocephalus guttatus melanurus isolate ABLRP519_09 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461426.1	599	Phrynocephalus guttatus melanurus isolate ABLRP518_09 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461410.1	651	Phrynocephalus guttatus melanurus isolate ABLRP407_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461409.1	651	Phrynocephalus guttatus isolate ABLRP403_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461395.1	610	Phrynocephalus guttatus kuschakewitschii isolate ABLRP075_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461394.1	626	Phrynocephalus guttatus guttatus isolate ABLRP072_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461393.1	651	Phrynocephalus guttatus guttatus isolate ABLRP069_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461392.1	651	Phrynocephalus guttatus guttatus isolate ABLRP068_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461386.1	651	Phrynocephalus guttatus guttatus isolate ABLRP053_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461385.1	418	Phrynocephalus guttatus guttatus isolate ABLRP052_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461384.1	418	Phrynocephalus guttatus melanurus isolate ABLRP051_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461383.1	651	Phrynocephalus guttatus isolate ABLRP043_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461381.1	651	Phrynocephalus guttatus guttatus isolate ABLRP028_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461378.1	651	Phrynocephalus guttatus melanurus isolate ABLRP025_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461377.1	418	Phrynocephalus guttatus melanurus isolate ABLRP024_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461373.1	651	Phrynocephalus guttatus isolate ABLRP018_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461369.1	651	Phrynocephalus guttatus isolate ABLRP014_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461368.1	651	Phrynocephalus guttatus isolate ABLRP013_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461362.1	618	Phrynocephalus guttatus kuschakewitschii isolate ABLRP005_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461359.1	651	Phrynocephalus guttatus kuschakewitschii isolate ABLRP002_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461358.1	611	Phrynocephalus guttatus kuschakewitschii isolate ABLRP001_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461343.1	599	Phrynocephalus guttatus alpherakii isolate ABLRP526_09 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461342.1	649	Phrynocephalus guttatus isolate NPLRP484_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461341.1	649	Phrynocephalus guttatus isolate NPLRP478_08 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461340.1	649	Phrynocephalus guttatus isolate ABLRP711_10 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461339.1	599	Phrynocephalus guttatus isolate ABLRP513_09 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461338.1	599	Phrynocephalus guttatus isolate ABLRP512_09 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461337.1	650	Phrynocephalus guttatus isolate ABLRP405_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461336.1	631	Phrynocephalus guttatus isolate ABLRP404_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461335.1	651	Phrynocephalus guttatus isolate ABLRP401_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461334.1	639	Phrynocephalus guttatus isolate ABLRP067_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MK461333.1	651	Phrynocephalus guttatus isolate ABLRP066_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KJ195939.1	1726	Phrynocephalus guttatus salenskyi voucher CAS:HERP:183389 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KJ195938.1	1726	Phrynocephalus guttatus salenskyi voucher CAS:HERP:171566 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KJ195937.1	1733	Phrynocephalus guttatus voucher MVZ:Herp:216020 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	MF567976.1	651	Phrynocephalus guttatus melanurus isolate ZMMU R-12328 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691731.1	651	Phrynocephalus guttatus voucher RuHF-080-3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691730.1	651	Phrynocephalus guttatus voucher ZMMU R-12942 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691729.1	651	Phrynocephalus guttatus voucher ZMMU R-12670 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691728.1	651	Phrynocephalus guttatus voucher ZMMU R-13088 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691726.1	651	Phrynocephalus guttatus melanurus voucher ZMMU R-12327 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_alpherakii	KF691725.1	651	Phrynocephalus guttatus melanurus voucher ZMMU R-12332 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

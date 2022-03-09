@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	NC_039888.1	16740	Anser albifrons frontalis mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	MH000287.1	16740	Anser albifrons frontalis mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	AF363031.1	16737	Anser albifrons mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	NC_004539.1	16737	Anser albifrons mitochondrion, complete genome

@@ -1,0 +1,5 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_lizhengchangi	KY800882.1	1035	Tylototriton lizhenchangi voucher KUHE:42317 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_lizhengchangi	KY800881.1	1035	Tylototriton lizhenchangi voucher KUHE:42316 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_lizhengchangi	AB769534.1	1035	Tylototriton lizhenchangi mitochondrial gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: KUHE:46347
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_lizhengchangi	AB769533.1	1035	Tylototriton lizhenchangi mitochondrial gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: KUHE:42317
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_lizhengchangi	AB769532.1	1035	Tylototriton lizhenchangi mitochondrial gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: KUHE:42316

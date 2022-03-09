@@ -1,0 +1,14 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MW257229.1	16491	Mustela nivalis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MW487620.1	117	Mustela nivalis isolate M.nivalis2 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MW487619.1	154	Mustela nivalis isolate M.nivalis1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MT251917.1	188	Mustela nivalis small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MN647663.1	110	Mustela nivalis small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MF459691.1	16502	Mustela nivalis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	KT901457.1	16372	Mustela nivalis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	HM106319.1	16512	Mustela nivalis voucher YP1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	KT693382.1	16511	Mustela nivalis isolate Weasel mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	NC_020639.1	16512	Mustela nivalis voucher YP1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	AB119065.1	957	Mustela nivalis mitochondrial gene for 12S rRNA, partial sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	EF027273.1	145	Mustela nivalis 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	AF068554.1	378	Mustela nivalis 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	Y08515.1	959	M.nivalis mitochondrial 12S rRNA gene

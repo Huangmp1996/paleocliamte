@@ -1,0 +1,7 @@
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	KX838507.1	16697	Perdix hodgsoniae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	EU839472.1	1143	Perdix hodgsoniae voucher 803 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	EU839471.1	1143	Perdix hodgsoniae voucher 802 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	EU839470.1	1143	Perdix hodgsoniae voucher 805 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	GU214279.1	1143	Perdix hodgsoniae hodgsoniae isolate 808 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	NC_023940.1	16699	Perdix hodgsoniae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	KF027440.1	16699	Perdix hodgsoniae mitochondrion, complete genome

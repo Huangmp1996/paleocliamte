@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	KJ453231.1	1075	Acrocephalus scirpaceus fuscus isolate 47555 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	KJ453230.1	1075	Acrocephalus scirpaceus fuscus isolate 47548 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	KJ453229.1	1075	Acrocephalus scirpaceus scirpaceus isolate 54327 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	KJ453228.1	1075	Acrocephalus scirpaceus scirpaceus isolate 54355 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	NC_010227.1	17903	Acrocephalus scirpaceus mitochondrion, complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	AM889139.1	17903	Acrocephalus scirpaceus mitochondrial complete genome

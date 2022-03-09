@@ -1,0 +1,48 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768090.1	16613	Ovis ammon isolate ARG93 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768089.1	16613	Ovis ammon isolate ARG82 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768088.1	16613	Ovis ammon isolate ARG31 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768087.1	16621	Ovis ammon isolate ARG23 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768086.1	16613	Ovis ammon isolate ARG21 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768085.1	16621	Ovis ammon isolate ARG20 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768084.1	16621	Ovis ammon isolate ARG19 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MT768083.1	16613	Ovis ammon isolate ARG104 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	NC_047196.1	16612	Ovis ammon ammon mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	MN564883.1	16612	Ovis ammon ammon mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KY366519.1	1107	Ovis ammon severtzovi isolate 118Oas cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KY366502.1	1056	Ovis ammon isolate 77Oa cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KY491668.1	1104	Ovis ammon isolate isolate154Oa cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KY491663.1	854	Ovis ammon severtzovi isolate isolate149Oa cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KY491662.1	846	Ovis ammon polii isolate isolate148Oa cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KY491661.1	854	Ovis ammon polii isolate isolate147Oa cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KX910794.1	1036	Ovis ammon polii isolate 98Oap cytochrome b (Cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KX910793.1	1077	Ovis ammon polii isolate 97Oap cytochrome b (Cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KX910791.1	1053	Ovis ammon karelini isolate 92Oac cytochrome b (Cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KX609626.1	16618	Ovis ammon darwini mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AF242350.1	1140	Ovis ammon darwini cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AF242349.1	1140	Ovis ammon ammon cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AF034727.1	1143	Ovis ammon darwini cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	EF554684.1	389	Ovis ammon hodgsoni cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KU165681.1	916	Ovis ammon darwini isolate 44 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KU165678.1	965	Ovis ammon darwini isolate 40 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	KT781689.1	16613	Ovis ammon mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	JX673911.1	1140	Ovis ammon hodgsoni cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	JX101654.1	16688	Ovis ammon hodgsoni mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	NC_020656.1	16613	Ovis ammon isolate h77 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	HM236188.1	16613	Ovis ammon isolate h77 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	EU366058.1	1140	Ovis ammon sevetzovi isolate OaUz2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	EU366057.1	1140	Ovis ammon sevetzovi isolate OaUz1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867276.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype a1
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867275.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype a2
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867274.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype a3
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867273.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype a4
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867272.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype a5
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867271.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype J14
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867270.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype J13
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867269.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype J1
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867268.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype M14
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867267.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype M23
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867266.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype M33
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867260.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype J17
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867259.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype J3
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867258.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype 3gs
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Ovis_ammon	AJ867257.1	1140	Ovis ammon mitochondrial cytb gene for cytochrome b, haplotype J16

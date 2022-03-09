@@ -1,0 +1,5 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_mutus	MK033130.1	16323	Bos mutus breed Golden Wild Yak mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_mutus	KY829451.1	16325	Bos mutus isolate KL mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_mutus	KR106993.1	16322	Bos mutus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_mutus	NC_025563.1	16322	Bos mutus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_mutus	KM233417.1	16322	Bos mutus mitochondrion, complete genome

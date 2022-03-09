@@ -1,0 +1,13 @@
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	MK782787.1	502	Goniurosaurus luii isolate ECNU-v0012 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	MK041070.1	574	Goniurosaurus luii voucher sp4 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	MK041069.1	574	Goniurosaurus luii voucher sp3 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	MK041068.1	574	Goniurosaurus luii voucher sp2 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	MK041067.1	574	Goniurosaurus luii voucher sp1 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	AB853452.1	457	Goniurosaurus luii mitochondrial gene for 16S rRNA, partial sequence
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	NC_026105.1	16519	Goniurosaurus luii voucher GL511 mitochondrion, complete genome
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	KM455054.1	16519	Goniurosaurus luii voucher GL511 mitochondrion, complete genome
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	KC765084.1	523	Goniurosaurus luii voucher SYSr000256 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	KC765083.1	528	Goniurosaurus luii voucher SYSr000255 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	EU499391.1	598	Goniurosaurus luii voucher ZFMK 87057 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	EU499390.1	598	Goniurosaurus luii voucher ZFMK 87058 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	AB308459.1	498	Goniurosaurus luii mitochondrial gene for 16S rRNA, partial sequence

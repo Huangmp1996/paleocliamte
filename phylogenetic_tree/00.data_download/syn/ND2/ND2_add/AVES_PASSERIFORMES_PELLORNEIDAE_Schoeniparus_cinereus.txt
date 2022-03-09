@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	MK996730.1	864	Alcippe cinerea voucher KIZ GLGS7403 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	MK996729.1	864	Alcippe cinerea voucher KIZ GLGS2053 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	MK996728.1	864	Alcippe cinerea voucher KIZ GLGS2060 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	MK996727.1	864	Alcippe cinerea voucher KIZ GLGS2061 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	MK996726.1	864	Alcippe cinerea voucher KIZ GLGS2057 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	MK996725.1	864	Alcippe cinerea voucher KIZ GLGS2065 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	MK996724.1	864	Alcippe cinerea voucher KIZ GLGS2056 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	KJ455637.1	1041	Alcippe cinerea NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	DQ861964.1	1023	Alcippe cinerea isolate A76 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	DQ861963.1	1023	Alcippe cinerea isolate A75 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	DQ861947.1	1023	Alcippe cinerea isolate A52 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	JN826650.1	1041	Alcippe cinerea voucher USNM 15213 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_cinereus	JN826649.1	1041	Alcippe cinerea voucher KUNHM 15152 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

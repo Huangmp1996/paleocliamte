@@ -1,0 +1,3 @@
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	MH217843.1	843	Merops orientalis voucher 59075 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	KJ456340.1	1143	Merops orientalis voucher NHMD 131901 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	KC439280.1	416	Merops orientalis cytochrome b (cytb) gene, partial cds; mitochondrial

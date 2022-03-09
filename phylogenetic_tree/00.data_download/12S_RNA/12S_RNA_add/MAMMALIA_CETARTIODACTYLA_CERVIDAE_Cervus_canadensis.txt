@@ -1,0 +1,16 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	NC_057386.1	127605827	Cervus canadensis isolate Bull #8, Minnesota chromosome 1, ASM1932006v1, whole genome shotgun sequence
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	NC_057396.1	78153912	Cervus canadensis isolate Bull #8, Minnesota chromosome 11, ASM1932006v1, whole genome shotgun sequence
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	NC_050863.1	16428	Cervus canadensis isolate 19FC017 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	MT534583.1	16428	Cervus canadensis isolate 19FC017 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	MT430939.1	16428	Cervus canadensis nannodes mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	HQ191429.1	16419	Cervus elaphus songaricus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	KJ025072.1	16419	Cervus elaphus songaricus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	KF141943.1	1209	Cervus elaphus canadensis isolate CAN2 tRNA-Thr gene, partial sequence; tRNA-Pro gene, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	KF141941.1	1209	Cervus elaphus sibiricus isolate SIB2 tRNA-Thr gene, partial sequence; tRNA-Pro gene, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	KF141940.1	1210	Cervus elaphus sibiricus isolate SIB1 tRNA-Thr gene, partial sequence; tRNA-Pro gene, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	NC_014703.1	16419	Cervus elaphus songaricus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	HM852907.1	435	Cervus elaphus songaricus 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	FJ969444.1	1211	Cervus elaphus songaricus D-loop and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	AF058371.1	1211	Cervus elaphus sibericus isolate 109 tRNA-Thr gene, partial sequence; tRNA-Pro and tRNA-Phe genes, complete sequence; and 12S ribosomal RNA gene, mitochondrial genes for mitochondrial RNAs, partial sequence
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	AF058370.1	1211	Cervus elaphus sibericus isolate 102 tRNA-Thr gene, partial sequence; tRNA-Pro and tRNA-Phe genes, complete sequence; and 12S ribosomal RNA gene, mitochondrial genes for mitochondrial RNAs, partial sequence
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	AF058369.1	1211	Cervus elaphus sibericus isolate 101 tRNA-Thr gene, partial sequence; tRNA-Pro and tRNA-Phe genes, complete sequence; and 12S ribosomal RNA gene, mitochondrial genes for mitochondrial RNAs, partial sequence

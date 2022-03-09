@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	NC_058002.1	17703	Pareas formosensis voucher LSU2020MLTWDT01 mitochondrion, complete genome
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	MW531674.1	17703	Pareas formosensis voucher LSU2020MLTWDT01 mitochondrion, complete genome
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	MK064938.1	657	Pareas formosensis voucher CHS886 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	MK064936.1	657	Pareas formosensis voucher CHS884 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	MK064876.1	657	Pareas formosensis voucher CHS784 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	KU529461.1	658	Pareas formosensis isolate RN0752 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	KU529460.1	658	Pareas formosensis isolate PF20140605-01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	KU529459.1	658	Pareas formosensis isolate PF20140526-01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	KU529458.1	658	Pareas formosensis isolate RN1918 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_chinensis	KU529457.1	658	Pareas formosensis isolate PF20140606-01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial

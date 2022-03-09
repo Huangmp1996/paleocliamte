@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329669.1	678	Apodemus peninsulae isolate TH0905016 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329610.1	678	Apodemus peninsulae isolate HLJ153 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329607.1	678	Apodemus peninsulae isolate HLJ121 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329561.1	678	Apodemus peninsulae isolate 14ML007 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329559.1	678	Apodemus peninsulae isolate 14ML003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329552.1	678	Apodemus peninsulae isolate 14BK013 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329551.1	678	Apodemus peninsulae isolate 14BK012 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX859277.1	665	Apodemus peninsulae voucher MGL-112 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX859264.1	688	Apodemus peninsulae voucher MGL-86 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KJ526233.1	668	Apodemus peninsulae isolate DF143 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JN546584.1	16269	Apodemus peninsulae mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499303.1	657	Apodemus peninsulae voucher ZMMU AALS-627 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499302.1	657	Apodemus peninsulae voucher ZMMU AALS-626 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499301.1	657	Apodemus peninsulae voucher ZMMU AALS-490 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499300.1	657	Apodemus peninsulae voucher ZMMU AALS-482 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499299.1	657	Apodemus peninsulae voucher ZMMU AAL-540 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499298.1	657	Apodemus peninsulae voucher ZMMU AAL-539 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499297.1	653	Apodemus peninsulae voucher ZMMU AAL-535 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499296.1	653	Apodemus peninsulae voucher ZMMU AAL-515 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499295.1	657	Apodemus peninsulae voucher ZMMU AAL-506 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499294.1	657	Apodemus peninsulae voucher ZMMU AAL-503 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499293.1	657	Apodemus peninsulae voucher ZMMU AAL-499 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499292.1	657	Apodemus peninsulae voucher ZMMU AAL-497 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499291.1	657	Apodemus peninsulae voucher ZMMU AAL-495 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499290.1	657	Apodemus peninsulae voucher ZMMU AAL-488 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499289.1	657	Apodemus peninsulae voucher ZMMU AAL-477 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499288.1	657	Apodemus peninsulae voucher ZMMU AAL-321 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499287.1	657	Apodemus peninsulae voucher ZMMU AAL-318 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499286.1	657	Apodemus peninsulae voucher ZMMU 07AAL-149 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499285.1	657	Apodemus peninsulae voucher ZMMU 07AAL-124 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499284.1	657	Apodemus peninsulae voucher ZMMU 07AAL-089 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499241.1	657	Apodemus peninsulae voucher ZISP TX-00748 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499240.1	657	Apodemus peninsulae voucher ZISP TX-00746 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499239.1	657	Apodemus peninsulae voucher ZISP TX-00745 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499238.1	657	Apodemus peninsulae voucher ZISP TX-00830 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993085.1	516	Apodemus peninsulae isolate AP9 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993084.1	516	Apodemus peninsulae isolate AP8 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993083.1	516	Apodemus peninsulae isolate AP7 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993082.1	516	Apodemus peninsulae isolate AP6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993081.1	516	Apodemus peninsulae isolate AP5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993080.1	516	Apodemus peninsulae isolate AP4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993079.1	516	Apodemus peninsulae isolate AP3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993078.1	516	Apodemus peninsulae isolate AP2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP993077.1	516	Apodemus peninsulae isolate AP1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KF152981.1	645	Apodemus peninsulae voucher JW283 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KP671850.1	16457	Apodemus peninsulae mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KC861411.1	592	Apodemus peninsulae voucher ARB0004942 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KC861410.1	625	Apodemus peninsulae voucher ARB0004964 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KC861409.1	605	Apodemus peninsulae voucher ARB0004965 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KC861408.1	625	Apodemus peninsulae voucher ARB0004969 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KC861407.1	627	Apodemus peninsulae voucher ARB0004970 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KC861406.1	623	Apodemus peninsulae voucher ARB0004971 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KC861405.1	569	Apodemus peninsulae voucher ARB0004972 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KC861404.1	576	Apodemus peninsulae voucher ARB0004974 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962218.1	653	Apodemus peninsulae isolate QH581_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962217.1	653	Apodemus peninsulae isolate QH582_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962216.1	653	Apodemus peninsulae isolate QH578_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962215.1	653	Apodemus peninsulae isolate QH621_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962214.1	653	Apodemus peninsulae isolate QH584-3_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962213.1	653	Apodemus peninsulae isolate QH584-2_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962212.1	653	Apodemus peninsulae isolate QHMX89_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962211.1	653	Apodemus peninsulae isolate QHMX93_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962210.1	653	Apodemus peninsulae isolate QHMX92_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962209.1	653	Apodemus peninsulae isolate QH586_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962208.1	653	Apodemus peninsulae isolate QH655_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962207.1	653	Apodemus peninsulae isolate QH665_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962206.1	653	Apodemus peninsulae isolate QH668_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962205.1	653	Apodemus peninsulae isolate QH661_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962204.1	653	Apodemus peninsulae isolate QH654_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962203.1	653	Apodemus peninsulae isolate QH587_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962202.1	653	Apodemus peninsulae isolate QH616_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962201.1	653	Apodemus peninsulae isolate QH660_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962200.1	653	Apodemus peninsulae isolate QHMX91_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JX962199.1	653	Apodemus peninsulae isolate QHMX88_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	NC_016060.1	16269	Apodemus peninsulae mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043484.1	650	Apodemus peninsulae isolate QH376 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043483.1	650	Apodemus peninsulae isolate QH374 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043482.1	650	Apodemus peninsulae isolate QH322 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043481.1	650	Apodemus peninsulae isolate QH25 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043480.1	650	Apodemus peninsulae isolate QH55 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043479.1	650	Apodemus peninsulae isolate QH2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043478.1	650	Apodemus peninsulae isolate QH10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043477.1	650	Apodemus peninsulae isolate QH91 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043476.1	650	Apodemus peninsulae isolate QH259 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043475.1	650	Apodemus peninsulae isolate QH172 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043474.1	650	Apodemus peninsulae isolate QH190 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043473.1	650	Apodemus peninsulae isolate QH258 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043472.1	650	Apodemus peninsulae isolate QH301 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JQ043471.1	650	Apodemus peninsulae isolate QH184 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499283.1	657	Apodemus peninsulae voucher ROM:112893 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499282.1	657	Apodemus peninsulae voucher ROM:112892 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499281.1	643	Apodemus peninsulae voucher ROM:112891 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499280.1	657	Apodemus peninsulae voucher ROM:112934 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499279.1	657	Apodemus peninsulae voucher ROM:112933 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499278.1	657	Apodemus peninsulae voucher ROM:112840 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499277.1	657	Apodemus peninsulae voucher ROM:112932 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499276.1	653	Apodemus peninsulae voucher ROM:112931 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499275.1	657	Apodemus peninsulae voucher ROM:112930 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499274.1	657	Apodemus peninsulae voucher ROM:112787 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JF499273.1	657	Apodemus peninsulae voucher ROM:112929 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

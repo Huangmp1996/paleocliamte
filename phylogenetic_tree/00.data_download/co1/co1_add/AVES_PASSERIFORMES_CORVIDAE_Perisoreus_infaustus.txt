@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GQ482353.1	686	Perisoreus infaustus voucher UWBM 56793 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GQ482352.1	676	Perisoreus infaustus voucher UWBM 73489 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GQ482351.1	674	Perisoreus infaustus voucher UWBM 44014 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GQ482350.1	671	Perisoreus infaustus voucher UWBM 49730 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GQ482349.1	694	Perisoreus infaustus voucher UWBM 51860 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GQ482348.1	694	Perisoreus infaustus voucher UWBM 66538 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GQ482347.1	694	Perisoreus infaustus voucher UWBM 51769 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GQ482346.1	694	Perisoreus infaustus voucher UWBM 78274 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GU572012.1	648	Perisoreus infaustus voucher BISE-Aves207 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GU572011.1	648	Perisoreus infaustus voucher BISE-Aves279 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GU571535.1	723	Perisoreus infaustus voucher NHMO-BC417 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GU571534.1	750	Perisoreus infaustus voucher NHMO-BC19 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Perisoreus_infaustus	GU571533.1	750	Perisoreus infaustus voucher NHMO-BC25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

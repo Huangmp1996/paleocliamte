@@ -1,0 +1,13 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555114.1	16357	Rucervus eldii voucher SANPT03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555113.1	16357	Rucervus eldii voucher SANPS02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555112.1	16357	Rucervus eldii voucher SANPR01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	KU709884.1	373	Rucervus eldii isolate UKN6 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	KU709883.1	373	Rucervus eldii isolate RE3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	KU709882.1	373	Rucervus eldii isolate RE2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	KU709881.1	373	Rucervus eldii isolate RE1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	KU133959.1	16357	Rucervus eldii eldii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	HM138200.1	16357	Cervus eldi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	JN632697.1	16357	Rucervus eldi isolate CYTO mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	NC_014701.1	16357	Rucervus eldi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	DQ275667.1	440	Cervus eldi eldi 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	AY184432.1	955	Cervus eldi 12S ribosomal RNA gene, complete sequence

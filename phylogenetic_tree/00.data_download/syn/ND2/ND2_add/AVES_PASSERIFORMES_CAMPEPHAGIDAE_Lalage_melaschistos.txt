@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Lalage_melaschistos	AY529948.1	1034	Coracina melaschistos voucher MNHN 6-69 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Lalage_melaschistos	EF052778.1	414	Coracina melaschista isolate L21 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Lalage_melaschistos	EF052687.1	1041	Coracina melaschista isolate L66 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Lalage_melaschistos	JQ864445.1	1041	Coracina melaschistos NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

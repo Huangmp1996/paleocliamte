@@ -1,0 +1,25 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	NC_033966.1	16854	Pluvialis fulva mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KX639757.1	16854	Pluvialis fulva mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628718.1	1017	Pluvialis fulva voucher UAM13545 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628717.1	1040	Pluvialis fulva voucher UAM9509 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628716.1	1041	Pluvialis fulva voucher UAM11308 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628715.1	1041	Pluvialis fulva voucher UAM8785 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628714.1	1041	Pluvialis fulva voucher UAM9512 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628713.1	1041	Pluvialis fulva voucher UAM11392 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628712.1	1041	Pluvialis fulva voucher UAM11307 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628711.1	1022	Pluvialis fulva voucher UAM20178 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628710.1	1033	Pluvialis fulva voucher UAM11756 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628709.1	1029	Pluvialis fulva voucher UAM14175 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628708.1	1029	Pluvialis fulva voucher UAM15177 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628707.1	1029	Pluvialis fulva voucher UAM22577 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628706.1	1031	Pluvialis fulva voucher UAM8555 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628705.1	1029	Pluvialis fulva voucher UAM19275 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628704.1	1028	Pluvialis fulva voucher UAM13370 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628703.1	1028	Pluvialis fulva voucher UAM11110 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628702.1	1026	Pluvialis fulva voucher UAM14671 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628701.1	1025	Pluvialis fulva voucher UAM15066 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628700.1	1025	Pluvialis fulva voucher UAM11757 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628699.1	1024	Pluvialis fulva voucher UAM20111 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628698.1	975	Pluvialis fulva voucher UAM21830 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628697.1	1030	Pluvialis fulva voucher UAM12442 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Pluvialis_fulva	KC628687.1	1041	Pluvialis fulva voucher UAM8938 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	EU585667.1	1008	Aix galericulata voucher IPMB 7083 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	KF437906.1	16651	Aix galericulata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	NC_023969.1	16605	Aix galericulata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Aix_galericulata	KJ169568.1	16605	Aix galericulata mitochondrion, complete genome

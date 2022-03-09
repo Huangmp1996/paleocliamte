@@ -1,0 +1,16 @@
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	MW879208.1	16351	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	MH047347.1	16353	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	KY792714.1	16353	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	AF026886.1	1140	Moschus berezovskii caobangis cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	AF026885.1	1140	Moschus berezovskii bijiangensis cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	AF026884.1	1140	Moschus berezovskii bijiangensis cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	EU043465.1	16354	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	KR936066.1	879	Moschus berezovskii voucher FMDC_3 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	KR936065.1	879	Moschus berezovskii voucher FMDC_2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	KR936064.1	879	Moschus berezovskii voucher FMDC_1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	KR936063.1	643	Moschus berezovskii voucher FMDD_2 tRNA-Pro gene and D-loop, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	KR936062.1	655	Moschus berezovskii voucher FMDD_1 tRNA-Thr gene, partial sequence; tRNA-Pro gene, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JQ409122.1	16353	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	NC_012694.1	16354	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	AB019641.1	352	Moschus berezovskii mitochondrial gene for cytochrome b, partial cds, haplotype MBB2
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	AB019640.1	352	Moschus berezovskii mitochondrial gene for cytochrome b, partial cds, haplotype MBB1

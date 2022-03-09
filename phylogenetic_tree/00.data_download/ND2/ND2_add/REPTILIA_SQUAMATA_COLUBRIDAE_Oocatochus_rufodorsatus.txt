@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MK198908.1	1026	Oocatochus rufodorsatus voucher CHS192 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MK198907.1	1026	Oocatochus rufodorsatus voucher CHS191 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	DQ902232.1	1032	Oocatochus rufodorsatus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	NC_022146.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KC990020.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome

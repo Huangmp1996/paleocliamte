@@ -1,0 +1,15 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AF348266.1	694	Cuora galbinifrons isolate 10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	MG679428.1	630	Cuora galbinifrons isolate 20100549B10 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	EU809939.1	17244	Cuora galbinifrons mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AY357750.1	831	Cuora galbinifrons YPM R 14080 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AY357749.1	831	Cuora galbinifrons MVZ 230933 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AY357748.1	884	Cuora galbinifrons FMNH 256544 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AY357747.1	831	Cuora galbinifrons YPM R 14079 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AY357746.1	832	Cuora galbinifrons YPM R 14078 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AY357744.1	807	Cuora galbinifrons FMNH 261580 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AY357743.1	831	Cuora galbinifrons FMNH 255695 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AY357742.1	884	Cuora galbinifrons FMNH 255694 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	AF348265.2	696	Cuora galbinifrons voucher ROM 37067 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	NC_014102.1	17244	Cuora galbinifrons mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	GQ867672.1	660	Cuora galbinifrons voucher 2009-CG-001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	EF011469.1	789	Cuora galbinifrons clone Cg3_HBS41888_HA3 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial

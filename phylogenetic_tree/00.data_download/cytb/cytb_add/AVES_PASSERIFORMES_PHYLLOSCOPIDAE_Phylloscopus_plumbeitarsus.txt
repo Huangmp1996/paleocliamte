@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_plumbeitarsus	Y10740.1	1041	P.plumbeitarsus mitochondrial cytb gene, partial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_plumbeitarsus	MH079327.1	1069	Phylloscopus plumbeitarsus voucher UWBM 78381 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_plumbeitarsus	MH079326.1	1069	Phylloscopus plumbeitarsus voucher UWBM 78250 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_plumbeitarsus	AY656230.1	1038	Phylloscopus plumbeitarsus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_plumbeitarsus	AB362468.1	1951	Phylloscopus plumbeitarsus mitochondrial ND5, cytb genes for NADH dehydrogenase subunit 5, cytochrome b, partial and complete cds, isolate: Pp29-030717-1

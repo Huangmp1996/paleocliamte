@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PARIDAE_Poecile_weigoldicus	KX998552.1	407	Poecile weigoldicus voucher MTD-C23808 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_weigoldicus	KX998551.1	407	Poecile weigoldicus voucher MTD C23803 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_weigoldicus	KX998540.1	651	Poecile weigoldicus voucher MTD-C65102 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_weigoldicus	KX998519.1	651	Poecile weigoldicus voucher MTD-C59778 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_weigoldicus	KX998518.1	651	Poecile weigoldicus voucher MTD-C59777 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

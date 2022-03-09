@@ -1,0 +1,9 @@
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	MW257207.1	17075	Pardofelis marmorata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KT288227.2	16828	Pardofelis marmorata voucher PMA_10_5102 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KX181461.1	401	Pardofelis marmorata isolate PM 22 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KX181460.1	401	Pardofelis marmorata isolate PM 21 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KX181459.1	401	Pardofelis marmorata isolate PM 20 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	NC_028303.1	16827	Pardofelis marmorata isolate PMA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KP202263.1	16827	Pardofelis marmorata isolate PMA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	AY499282.1	382	Pardofelis marmorata voucher Pma5 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	AY499281.1	382	Pardofelis marmorata voucher Pma4 12S ribosomal RNA gene, partial sequence; mitochondrial

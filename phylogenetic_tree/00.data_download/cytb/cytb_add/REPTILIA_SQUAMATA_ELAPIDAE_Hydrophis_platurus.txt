@@ -1,0 +1,21 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	MN451651.1	315	Hydrophis platurus isolate 16 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	MN451650.1	317	Hydrophis platurus isolate 15 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	MN886308.1	1161	Hydrophis platurus voucher MABIK AR00000047 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	MN886307.1	1161	Hydrophis platurus voucher MABIK AR00000046 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	MN886306.1	1161	Hydrophis platurus voucher MABIK AR00000045 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	MK775530.1	18101	Hydrophis platurus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KX239646.1	1140	Hydrophis platurus cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	DQ233978.1	878	Pelamis platurus isolate Pp004 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	DQ233977.1	982	Pelamis platurus isolate Pp003 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	DQ233976.1	982	Pelamis platurus isolate Pp002 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	DQ233975.1	982	Pelamis platurus isolate Pp001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KT966116.1	1051	Hydrophis platurus voucher MZBOphi4208 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KT966115.1	1077	Hydrophis platurus voucher KLS0095 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KT966114.1	220	Hydrophis platurus voucher KLS0091 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KC014455.1	897	Pelamis platura voucher WAM101240 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	KC014454.1	1087	Pelamis platura voucher MZBOphi4068 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	JQ966025.1	878	Pelamis platurus voucher CMS 128 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	JQ966024.1	878	Pelamis platurus voucher CMS 127 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	JQ966023.1	878	Pelamis platurus voucher ASL 588 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	JQ966022.1	878	Pelamis platurus voucher ASL 689 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_platurus	JQ966021.1	878	Pelamis platurus voucher ASL 591 cytochrome b (cytb) gene, partial cds; mitochondrial

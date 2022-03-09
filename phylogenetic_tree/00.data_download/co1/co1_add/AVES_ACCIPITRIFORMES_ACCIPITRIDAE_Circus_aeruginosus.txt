@@ -1,0 +1,12 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	MT773177.1	452	Circus aeruginosus isolate 26Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	MT773174.1	648	Circus aeruginosus isolate 23Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	KT803617.1	648	Circus aeruginosus isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	GU571821.1	648	Circus aeruginosus voucher BISE-Aves37 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	GU571820.1	648	Circus aeruginosus voucher BISE-Aves422 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	GU571336.1	742	Circus aeruginosus voucher NHMO-BC116 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	GQ481592.1	694	Circus aeruginosus voucher UWBM 56450 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	GQ481591.1	694	Circus aeruginosus voucher UWBM 56488 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	U83770.1	518	Circus aeruginosus cytochrome oxidase I (mtCOI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	KF946640.1	649	Circus aeruginosus aeruginosus voucher ZMA58874 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	KF946639.1	693	Circus aeruginosus aeruginosus voucher ZMA58826 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_aeruginosus	KF946638.1	693	Circus aeruginosus aeruginosus voucher ZMA58780 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

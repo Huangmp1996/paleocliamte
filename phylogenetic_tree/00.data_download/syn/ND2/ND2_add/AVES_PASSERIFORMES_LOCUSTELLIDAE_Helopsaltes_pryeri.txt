@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	LC541432.1	17939	Locustella pryeri pryeri 1995-1003 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AY382396.1	1041	Megalurus pryeri NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	AY382395.1	1041	Megalurus pryeri NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	NC_029151.1	17968	Megalurus pryeri mitochondrion, complete genome
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pryeri	KJ001760.1	17968	Megalurus pryeri mitochondrion, complete genome

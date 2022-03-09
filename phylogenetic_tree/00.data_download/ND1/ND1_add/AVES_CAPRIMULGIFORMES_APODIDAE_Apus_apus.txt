@@ -1,0 +1,3 @@
+AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	AF543532.1	978	Apus apus NADH dehydrogenase subunit I (ND1) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	NC_008540.1	17037	Apus apus mitochondrion, complete genome
+AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	AM237310.1	17037	Apus apus complete mitochondrial genome

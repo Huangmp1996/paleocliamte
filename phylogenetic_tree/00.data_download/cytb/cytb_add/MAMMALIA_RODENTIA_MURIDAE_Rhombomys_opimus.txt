@@ -1,0 +1,32 @@
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	MK359635.1	16352	Rhombomys opimus voucher ALS1719 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	MT024685.1	1017	Rhombomys opimus isolate XJ11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648775.1	624	Rhombomys opimus voucher IR-SEGO-Hybr-23 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648774.1	624	Rhombomys opimus voucher IR-NKh-Shir-42 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648773.1	624	Rhombomys opimus voucher IR-NKh-Esf-41 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648772.1	624	Rhombomys opimus voucher IR-GO-Kal-31 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648771.1	624	Rhombomys opimus voucher IR-SE-Shah-23 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648770.1	624	Rhombomys opimus voucher IR-SE-Shah-22 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648769.1	624	Rhombomys opimus voucher IR-SE-Dam-21 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648768.1	624	Rhombomys opimus voucher IR-IS-Bad-12 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	FJ648767.1	624	Rhombomys opimus voucher IR-IS-Hab-11 cytochrome B (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU182942.1	683	Rhombomys opimus clone 108 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU182934.1	639	Rhombomys opimus clone 29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156720.1	1140	Rhombomys opimus voucher Y154 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156719.1	1140	Rhombomys opimus voucher Y146 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156718.1	1140	Rhombomys opimus voucher Y112 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156717.1	1140	Rhombomys opimus voucher 108 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156716.1	1140	Rhombomys opimus voucher 29 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KT763069.1	541	Rhombomys opimus voucher Y120 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412216.1	583	Rhombomys opimus isolate IR-GL21 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412215.1	583	Rhombomys opimus isolate IR-GL2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412214.1	586	Rhombomys opimus isolate IR-GF3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412213.1	583	Rhombomys opimus isolate IR-GF4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412212.1	583	Rhombomys opimus isolate IR-GH3C cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412211.1	586	Rhombomys opimus isolate IR-GBL2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412210.1	586	Rhombomys opimus isolate IR-GBL7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412209.1	583	Rhombomys opimus isolate IR-SS2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412208.1	587	Rhombomys opimus isolate IR-SS3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412207.1	587	Rhombomys opimus isolate IR-GH12C cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	JX412206.1	584	Rhombomys opimus isolate IR-DB4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	AB381907.1	353	Rhombomys opimus mitochondrial cytb gene for cytochrome b, partial cds, specimen_vouher: #029-2003
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	AJ430556.1	1140	Rhombomys opimus mitochondrial partial cytb gene for cytochrome b

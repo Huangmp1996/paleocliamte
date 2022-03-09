@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JF502328.1	713	Sylvia communis voucher BMNH 44368 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JF502327.1	919	Sylvia communis voucher USNM 640581 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JF502326.1	920	Sylvia communis voucher YPM 101274 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JF502325.1	881	Sylvia communis voucher B0116 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859374.1	1041	Sylvia communis isolate SVD3850 voucher USNM s.n. NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859373.1	1041	Sylvia communis isolate SVD2107 voucher UWBM 64792 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859372.1	1041	Sylvia communis isolate SVD1913 voucher UWBM 64622 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859371.1	1041	Sylvia communis isolate MVK058 voucher UWBM 74223 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859370.1	1041	Sylvia communis isolate IUK1866 voucher USNM s.n. NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859369.1	1041	Sylvia communis isolate BKS2054 voucher UWBM 49653 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859368.1	1041	Sylvia communis isolate BKS1986 voucher UWBM 49585 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859367.1	1041	Sylvia communis isolate AWJ058 voucher Bell MNH s.n. NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	KU859366.1	1041	Sylvia communis isolate AWJ049 voucher Bell MNH s.n. NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JX006152.1	1041	Sylvia communis voucher KUMNH4521 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

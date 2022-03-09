@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	NC_053106.1	17009	Panurus biarmicus mitochondrion, complete genome
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	MN356370.1	17009	Panurus biarmicus mitochondrion, complete genome
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	AY228070.1	879	Panurus biarmicus NRM 966576 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PANURIDAE_Panurus_biarmicus	JX236397.1	1085	Panurus biarmicus cytochrome b (cytb) gene, partial cds; mitochondrial

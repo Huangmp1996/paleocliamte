@@ -1,0 +1,12 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	LR745048.1	552	Numenius arquata mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate AVOCH SBC
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	MF580218.1	658	Numenius arquata voucher USNM:Birds:653274 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	GU571992.1	648	Numenius arquata voucher BISE-Aves70 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	GU571991.1	648	Numenius arquata voucher BISE-Aves485 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	GU571503.1	695	Numenius arquata voucher NHMO-BC380 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	GU571502.1	750	Numenius arquata voucher NHMO-BC192 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	GQ482245.1	694	Numenius arquata voucher UWBM 46329 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	GQ482244.1	694	Numenius arquata voucher UWBM 46473 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	KF946767.1	693	Numenius arquata arquata voucher ZMA58829 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	KF946766.1	693	Numenius arquata arquata voucher ZMA58765 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	KF946765.1	693	Numenius arquata arquata voucher Tissue431 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_arquata	KF009546.1	664	Numenius arquata voucher MKP 2652 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

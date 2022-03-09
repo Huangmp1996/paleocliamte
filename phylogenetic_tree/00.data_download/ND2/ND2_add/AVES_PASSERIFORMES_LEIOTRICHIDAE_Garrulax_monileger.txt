@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_monileger	KJ455441.1	1041	Garrulax monileger voucher NRM:20026667 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_monileger	JN980769.1	1041	Garrulax monileger NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_monileger	JN826519.1	1041	Garrulax monileger voucher USNM 5596 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

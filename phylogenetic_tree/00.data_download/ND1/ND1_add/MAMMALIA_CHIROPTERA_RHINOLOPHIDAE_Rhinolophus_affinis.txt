@@ -1,0 +1,3 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	NC_053269.1	16886	Rhinolophus affinis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MT845219.1	16886	Rhinolophus affinis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	DQ888661.1	957	Rhinolophus affinis isolate B004 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial

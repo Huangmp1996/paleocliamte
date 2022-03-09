@@ -1,0 +1,13 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	DQ297596.1	1140	Rhinolophus luctus cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	DQ178987.1	409	Rhinolophus luctus isolate B27 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	EF544422.1	1140	Rhinolophus luctus cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	EF108166.1	413	Rhinolophus luctus isolate TM006 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	EF108165.1	413	Rhinolophus luctus isolate BNP008 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	KR346929.1	1140	Rhinolophus luctus isolate HHS09 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	KR346928.1	1140	Rhinolophus luctus isolate YGL06 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	KR346927.1	1140	Rhinolophus luctus isolate YGL05 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	KU531356.1	1656	Rhinolophus luctus isolate 11.0034 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	JN106264.1	1133	Rhinolophus luctus voucher PSUMVB MY-7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	NC_018539.1	16775	Rhinolophus luctus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	JN986580.1	16775	Rhinolophus luctus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	EU521609.1	404	Rhinolophus luctus isolate TK152197 cytochrome b (cytb) gene, partial cds; mitochondrial

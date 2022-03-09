@@ -1,0 +1,7 @@
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531162.1	1037	Bombina lichuanensis voucher IZCAS:H30066 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531161.1	1037	Bombina lichuanensis voucher IZCAS:H30065 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531133.1	1037	Bombina lichuanensis voucher IZCAS:H30055 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531132.1	985	Bombina lichuanensis voucher IZCAS:H30054 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531131.1	1029	Bombina lichuanensis voucher IZCAS:H30053 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	NC_021477.1	18554	Bombina lichuanensis voucher BL3589 mitochondrion, complete genome
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	JX893183.1	18554	Bombina lichuanensis voucher BL3589 mitochondrion, complete genome

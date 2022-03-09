@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_lacroixi	MW090138.1	473	Oligodon lacroixi voucher KIZYPX9845 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_lacroixi	MW133295.1	699	Oligodon lacroixi voucher KIZYPX9845 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_lacroixi	MN396764.1	1851	Oligodon lacroixi voucher ZMMU R-13364 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_lacroixi	MK194038.1	1296	Oligodon lacroixi voucher CHS304 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_lacroixi	MK193967.1	1285	Oligodon lacroixi voucher CHS187 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_venningi	MK201522.1	585	Hebius venningi voucher CHS777 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_venningi	MK201460.1	585	Hebius venningi voucher CHS667 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_venningi	KJ685700.1	1073	Hebius venningi voucher GP2468 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_venningi	KJ685675.1	1074	Hebius venningi voucher GP1300 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_venningi	KJ685670.1	1053	Hebius venningi voucher CAS:233206 cytochrome b (cytb) gene, partial cds; mitochondrial

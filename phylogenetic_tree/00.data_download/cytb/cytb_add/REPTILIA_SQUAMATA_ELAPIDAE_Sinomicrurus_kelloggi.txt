@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	MK201570.1	585	Sinomicrurus kelloggi voucher CHS854 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	MK201249.1	585	Sinomicrurus kelloggi voucher CHS033 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	MK201247.1	585	Sinomicrurus kelloggi voucher CHS031 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	AF220408.1	1154	Calliophis kelloggi cytochrome b (cyt b) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	EF137417.1	676	Calliophis kelloggi cytochrome b (cytb) gene, partial cds; mitochondrial

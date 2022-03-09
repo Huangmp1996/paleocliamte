@@ -1,0 +1,5 @@
+AVES_CAPRIMULGIFORMES_APODIDAE_Apus_nipalensis	JQ353885.1	887	Apus nipalensis voucher UWBM:83478 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Apus_nipalensis	JQ353884.1	893	Apus nipalensis voucher ZFMK:75883 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Apus_nipalensis	JQ353883.1	284	Apus nipalensis voucher IPMB<DEU>:25632 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Apus_nipalensis	JQ353882.1	488	Apus nipalensis voucher IPMB<DEU>:25633 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Apus_nipalensis	U50001.1	406	Apus nipalensis cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

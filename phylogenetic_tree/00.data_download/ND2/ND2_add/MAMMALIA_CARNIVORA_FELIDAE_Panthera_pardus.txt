@@ -1,0 +1,32 @@
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	NC_010641.1	16964	Panthera pardus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MK043027.1	16964	Panthera pardus voucher cgrb15208 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MG932393.1	16962	Panthera pardus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588632.1	15450	Panthera pardus voucher ZMUCSC007 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588631.1	15450	Panthera pardus voucher ZMUC5719 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588630.1	15450	Panthera pardus voucher ZMUC4446 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588629.1	15451	Panthera pardus voucher ZMUC3739 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588628.1	15450	Panthera pardus voucher ZMUC34 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588627.1	15450	Panthera pardus voucher ZMUC31 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588626.1	15452	Panthera pardus voucher ZMUC3980 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588625.1	15450	Panthera pardus voucher ZMUC3490 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588624.1	15450	Panthera pardus voucher ZMUC2115 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588623.1	15449	Panthera pardus voucher ZMUC1967 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588622.1	15449	Panthera pardus voucher ZMUC775 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588621.1	15450	Panthera pardus voucher ZMUC29 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588620.1	15449	Panthera pardus voucher ZMUC27/14 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588619.1	15449	Panthera pardus voucher ZMUC25/26/206 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588618.1	15450	Panthera pardus voucher ZMUC24 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588617.1	15450	Panthera pardus voucher N43974-cap2_3x_90p mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588616.1	15450	Panthera pardus voucher N43981 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588615.1	15450	Panthera pardus voucher N43974 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588614.1	15449	Panthera pardus voucher N43962 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588613.1	15450	Panthera pardus voucher N43951 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588612.1	15450	Panthera pardus voucher N43947 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588611.1	15450	Panthera pardus voucher BAR001 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KX655614.1	16976	Panthera pardus orientalis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	AY634383.1	1038	Panthera pardus NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KP001507.1	17091	Panthera pardus isolate 179_Leopard mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KP202265.1	16670	Panthera pardus isolate PPA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KR132591.1	16963	Panthera pardus mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KJ866876.1	16966	Panthera pardus japonensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF551002.1	16964	Panthera pardus mitochondrion, complete genome

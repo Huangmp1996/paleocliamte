@@ -1,0 +1,9 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	MN122904.1	15298	Sorex minutus isolate DM28 mitochondrion, partial genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	HQ576641.1	708	Sorex minutus voucher NOMAM-007 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	JF499373.1	657	Sorex minutus voucher ZMMU AAL-312 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	JF499372.1	657	Sorex minutus voucher ZMMU AAL-313 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	JF499371.1	657	Sorex minutus voucher ZMMU 07AAL-107 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	EF636550.1	446	Sorex minutus haplotype H19 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	EF636549.1	446	Sorex minutus haplotype H17 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	AY332672.1	439	Sorex minutus specimen-voucher P51 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutus	AY332671.1	439	Sorex minutus specimen-voucher P23 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product

@@ -1,0 +1,17 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	LC541464.1	16797	Schoeniclus aureolus ornatus 1999-0362 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481737.1	621	Schoeniclus aureolus voucher UWBM 44597 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481736.1	610	Schoeniclus aureolus voucher UWBM 74822 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481735.1	694	Schoeniclus aureolus voucher UWBM 47574 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481734.1	694	Schoeniclus aureolus voucher UWBM 58031 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481733.1	694	Schoeniclus aureolus voucher UWBM 46588 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481732.1	694	Schoeniclus aureolus voucher UWBM 78283 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481731.1	690	Schoeniclus aureolus voucher UWBM 73118 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481730.1	690	Schoeniclus aureolus voucher UWBM 59928 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481729.1	684	Schoeniclus aureolus voucher UWBM 82287 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481728.1	666	Schoeniclus aureolus voucher UWBM 82227 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ481727.1	663	Schoeniclus aureolus voucher UWBM 52534 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	EF515786.1	686	Emberiza aureola voucher KRIBB836 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	AB843476.1	685	Schoeniclus aureolus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO203-10
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	KP877696.1	695	Schoeniclus aureolus ornatus isolate MAR5927 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	NC_022150.1	16800	Emberiza aureola mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	KF111713.1	16800	Emberiza aureola mitochondrion, complete genome

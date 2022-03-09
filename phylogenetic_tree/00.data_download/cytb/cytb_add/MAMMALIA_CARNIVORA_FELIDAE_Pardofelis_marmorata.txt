@@ -1,0 +1,15 @@
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	MW257207.1	17075	Pardofelis marmorata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KX181471.2	384	Pardofelis marmorata isolate PM 32 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KX181470.2	384	Pardofelis marmorata isolate PM 31 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KX181469.2	384	Pardofelis marmorata isolate PM 30 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KT288227.2	16828	Pardofelis marmorata voucher PMA_10_5102 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	AY499336.1	384	Pardofelis marmorata voucher Pma5 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	AY499335.1	384	Pardofelis marmorata voucher Pma4 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	NC_028303.1	16827	Pardofelis marmorata isolate PMA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KP202263.1	16827	Pardofelis marmorata isolate PMA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KF754937.1	853	Pardofelis marmorata isolate PmaMT6 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KF754936.1	853	Pardofelis marmorata isolate PmaMT5 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KF754935.1	853	Pardofelis marmorata isolate PmaMT4 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KF754934.1	853	Pardofelis marmorata isolate PmaMT3 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KF754933.1	853	Pardofelis marmorata isolate PmaMT2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KF754932.1	853	Pardofelis marmorata isolate PmaMT1 cytochrome b (CYTB) gene, partial cds; mitochondrial

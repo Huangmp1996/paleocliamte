@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	NC_048470.1	17855	Eremophila alpestris isolate J3 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	MH061203.1	17702	Eremophila alpestris isolate J4 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	MH061202.1	17855	Eremophila alpestris isolate J3 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	AF407092.1	1014	Eremophila alpestris tRNA-Phe gene, partial sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

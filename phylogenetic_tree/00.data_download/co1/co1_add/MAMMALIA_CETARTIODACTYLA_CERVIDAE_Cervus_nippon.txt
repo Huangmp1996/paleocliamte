@@ -1,0 +1,100 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	LC619115.1	658	Cervus nippon FA_36 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	LC619114.1	658	Cervus nippon FA_35 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169473.1	1500	Cervus nippon yakushimae isolate SCO21 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169472.1	1500	Cervus nippon yakushimae isolate SCO20 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169470.1	1500	Cervus nippon yakushimae isolate SCO18 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169466.1	1500	Cervus nippon taiouanus isolate SCO14 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169465.1	1500	Cervus nippon taiouanus isolate SCO13 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169461.1	1500	Cervus nippon yakushimae isolate SCO09 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169459.1	1500	Cervus nippon taiouanus isolate SCO07 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169458.1	1500	Cervus nippon taiouanus isolate SCO06 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MW169453.1	1500	Cervus nippon yakushimae isolate SCO01 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KX377314.1	574	Cervus nippon haplotype CN3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KX377313.1	574	Cervus nippon haplotype CN2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KX377312.1	574	Cervus nippon haplotype CN1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MT584131.1	250	Cervus nippon mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MK069499.1	700	Cervus nippon kopschi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663065.1	627	Cervus nippon isolate MHL15 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663064.1	627	Cervus nippon isolate MHL14 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663063.1	627	Cervus nippon isolate MHL13 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663062.1	627	Cervus nippon isolate MHL12 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663061.1	627	Cervus nippon isolate MHL11 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663060.1	627	Cervus nippon isolate MHL10 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663059.1	627	Cervus nippon isolate MHL9 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663058.1	627	Cervus nippon isolate MHL8 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663057.1	627	Cervus nippon isolate MHL7 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663056.1	627	Cervus nippon isolate MHL6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663055.1	627	Cervus nippon isolate MHL5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663054.1	627	Cervus nippon isolate MHL4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663053.1	627	Cervus nippon isolate MHL3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663052.1	627	Cervus nippon isolate MHL2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF663051.1	627	Cervus nippon isolate MHL1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385848.1	658	Cervus nippon isolate CN-10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385847.1	658	Cervus nippon isolate CN-XF-01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385846.1	658	Cervus nippon isolate CN-LX-20 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385845.1	658	Cervus nippon isolate CN-LX-19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385844.1	658	Cervus nippon isolate CN-LX-18 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385843.1	658	Cervus nippon isolate CN-LX-17 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385842.1	658	Cervus nippon isolate CN-LX-16 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385841.1	658	Cervus nippon isolate CN-LX-15 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385840.1	658	Cervus nippon isolate CN-LX-14 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385839.1	658	Cervus nippon isolate CN-LX-13 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385838.1	658	Cervus nippon isolate CN-LX-12 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385837.1	658	Cervus nippon isolate CN-LX-11 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385836.1	658	Cervus nippon isolate CN-LX-10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385835.1	658	Cervus nippon isolate CN-LX-09 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385834.1	658	Cervus nippon isolate CN-LX-08 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385833.1	658	Cervus nippon isolate CN-LX-07 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385832.1	658	Cervus nippon isolate CN-LX-06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385831.1	658	Cervus nippon isolate CN-LX-05 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385830.1	658	Cervus nippon isolate CN-LX-04 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385829.1	658	Cervus nippon isolate CN-LX-03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385828.1	658	Cervus nippon isolate CN-LX-02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385827.1	658	Cervus nippon isolate CN-LX-01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385826.1	658	Cervus nippon isolate CN-19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385825.1	658	Cervus nippon isolate CN-18 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385824.1	658	Cervus nippon isolate CN-LJ-17 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385823.1	658	Cervus nippon isolate CN-LJ-16 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385822.1	658	Cervus nippon isolate CN-LJ-15 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385821.1	658	Cervus nippon isolate CN-LJ-14 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385820.1	658	Cervus nippon isolate CN-LJ-13 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385819.1	658	Cervus nippon isolate CN-LJ-12 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385818.1	658	Cervus nippon isolate CN-LJ-11 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385817.1	658	Cervus nippon isolate CN-LJ-10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385816.1	658	Cervus nippon isolate CN-LJ-09 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385815.1	658	Cervus nippon isolate CN-LJ-08 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385814.1	658	Cervus nippon isolate CN-LJ-07 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385813.1	658	Cervus nippon isolate CN-LJ-06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385812.1	658	Cervus nippon isolate CN-LJ-05 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385811.1	658	Cervus nippon isolate CN-LJ-04 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385810.1	658	Cervus nippon isolate CN-LJ-03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385809.1	658	Cervus nippon isolate CN-LJ-02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385808.1	658	Cervus nippon isolate CN-LJ-01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385807.1	658	Cervus nippon isolate CN-KD-TF-01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385806.1	658	Cervus nippon isolate CN-BZ-FY-01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385805.1	658	Cervus nippon isolate CN(CP)-SG-02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KY385804.1	658	Cervus nippon isolate CN(CE)-XF-02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	MF632308.1	607	Cervus nippon hortulorum voucher MHL2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KX689229.1	16434	Cervus nippon hortulorum mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	EU835715.1	677	Cervus nippon sichuanicus isolate SM6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	EU835714.1	677	Cervus nippon isolate SM5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	EU835713.1	677	Cervus nippon isolate SM2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	EU835712.1	677	Cervus nippon isolate cn985 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	EU835711.1	677	Cervus nippon isolate cn744 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	EU835710.1	677	Cervus nippon isolate cn601 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	JN389444.1	16428	Cervus nippon kopschi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	JN389443.1	16429	Cervus nippon sichuanicus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	JF700150.1	658	Cervus nippon voucher AS71MT03 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	JF700149.1	658	Cervus nippon voucher AS71MT02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	JF700148.1	658	Cervus nippon voucher AS71MT01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	FJ392291.1	782	Cervus nippon dybowskii voucher PL-IGAB-ZI87 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	HQ191428.1	16435	Cervus nippon hortulorum mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	HM204525.1	611	Cervus nippon isolate HR1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	HM204524.1	611	Cervus nippon isolate HR2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	HM204523.1	611	Cervus nippon isolate HR3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	HM204522.1	611	Cervus nippon isolate HR4 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	GU457433.1	16434	Cervus nippon hortulorum mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	EF058308.1	16430	Cervus nippon taiouanus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	DQ985076.1	16436	Cervus nippon taiouanus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KJ862182.1	648	Cervus nippon voucher Q2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_nippon	KJ862181.1	648	Cervus nippon voucher M1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

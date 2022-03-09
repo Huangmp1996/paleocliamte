@@ -1,0 +1,6 @@
+AVES_CUCULIFORMES_CUCULIDAE_Eudynamys_scolopaceus	AF204983.1	432	Eudynamys scolopacea cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CUCULIFORMES_CUCULIDAE_Eudynamys_scolopaceus	KJ456272.1	1143	Eudynamys scolopaceus voucher UWBM:83668 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_CUCULIFORMES_CUCULIDAE_Eudynamys_scolopaceus	KC439270.1	422	Eudynamys scolopaceus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CUCULIFORMES_CUCULIDAE_Eudynamys_scolopaceus	FJ498987.1	524	Eudynamys scolopacea isolate C cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CUCULIFORMES_CUCULIDAE_Eudynamys_scolopaceus	FJ498984.1	524	Eudynamys scolopacea isolate B cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CUCULIFORMES_CUCULIDAE_Eudynamys_scolopaceus	FJ498979.1	524	Eudynamys scolopacea isolate A cytochrome b (cytb) gene, partial cds; mitochondrial

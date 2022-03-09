@@ -1,0 +1,9 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	LC500942.1	1837	Hoolock tianxing ZH10 mitochondrial CYTB gene for cytochrome b, complete cds, genes for tRNA-Thr, tRNA-Pro, D-loop, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	NC_033884.1	16511	Hoolock tianxing isolate NA1 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	KY250070.1	16510	Hoolock tianxing mitochondrion, partial genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	KY250069.1	16511	Hoolock tianxing isolate NA1 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	KY250059.1	1821	Hoolock tianxing isolate Linlin cytochrome b (CYTB) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	KY250056.1	439	Hoolock tianxing isolate DASHUANG cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	KY250053.1	439	Hoolock tianxing isolate BB4 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	KY250052.1	439	Hoolock tianxing isolate BB2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hoolock_tianxing	KY250051.1	439	Hoolock tianxing isolate BB1 cytochrome b (CYTB) gene, partial cds; mitochondrial

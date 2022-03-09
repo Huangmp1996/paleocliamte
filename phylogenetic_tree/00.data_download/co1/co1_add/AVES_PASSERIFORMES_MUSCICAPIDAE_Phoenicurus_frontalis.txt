@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	NC_053917.1	16776	Phoenicurus frontalis mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	MT360379.1	16776	Phoenicurus frontalis mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	JX970703.1	720	Phoenicurus frontalis voucher ZMUC 117098 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

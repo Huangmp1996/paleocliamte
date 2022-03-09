@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_gustavi	GQ481345.1	694	Anthus gustavi voucher UWBM 43958 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_gustavi	GQ481344.1	694	Anthus gustavi voucher UWBM 43951 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_gustavi	GQ481343.1	658	Anthus gustavi voucher UWBM 75486 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_gustavi	KC354895.1	695	Anthus gustavi voucher MRMD1121 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_gustavi	JQ174049.1	520	Anthus gustavi voucher USNM:Birds:613108 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_gustavi	JQ174048.1	562	Anthus gustavi voucher USNM:Birds:613109 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,99 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585411.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher UAM:Mamm:24770
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585410.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher UAM:Mamm:24769
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585409.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher MSB:Mamm:293526
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585408.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher MSB:Mamm:288698
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585407.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher MSB:Mamm:288577
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585406.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher MSB:Mamm:158621
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585405.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher MSB:Mamm:158495
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585404.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher MSB:Mamm:95472
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585403.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C4117
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585402.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6116
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585401.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C6115
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585400.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C6113
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585399.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C6112
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585398.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6111
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585397.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6110
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585396.1	569	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C6109
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585395.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6108
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585394.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6106
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585393.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6105
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585392.1	569	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C6104
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585391.1	569	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C6103
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585390.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6069
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585389.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6066
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585388.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6064
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585387.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C6063
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585386.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5744
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585385.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5742
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585384.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5741
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585383.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5709
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585382.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5701
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585381.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5699
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585380.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5697
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585379.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5605
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585378.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5604
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585377.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5603
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585376.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5377
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585375.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5376
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585374.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5375
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585373.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5374
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585372.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5372
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585371.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5371
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585370.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5370
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585369.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5369
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585368.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5368
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585367.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5367
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585366.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5365
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585365.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5364
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585364.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5362
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585363.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5361
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585362.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5359
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585361.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5357
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585360.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5356
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585359.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5188
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585358.1	569	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5186
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585357.1	569	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5185
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585356.1	569	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5183
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585355.1	1140	Neomys fodiens mitochondrion CYTB gene for cytochrome b, specimen voucher IBE-C5182
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LR585354.1	226	Neomys fodiens mitochondrion partial CYTB gene for cytochrome b, specimen voucher IBE-C5180
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	MN122915.1	16867	Neomys fodiens isolate DM31 mitochondrion, partial genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	MN122912.1	16188	Neomys fodiens isolate DM30 mitochondrion, partial genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ065611.1	1130	Neomys fodiens cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AF445031.1	272	Neomys fodiens TK96109 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AF445030.1	272	Neomys fodiens TK81404 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AF445029.1	272	Neomys fodiens TK81187 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AF445028.1	272	Neomys fodiens TK48277 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991066.1	272	Neomys fodiens haplotype F4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991065.1	272	Neomys fodiens haplotype F1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991063.1	1140	Neomys fodiens haplotype F12a cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991062.1	1140	Neomys fodiens haplotype F5a cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991061.1	1140	Neomys fodiens haplotype F3a cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991060.1	1140	Neomys fodiens haplotype F2a cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991059.1	1140	Neomys fodiens haplotype F1d cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991058.1	1140	Neomys fodiens haplotype F1c cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991057.1	1140	Neomys fodiens haplotype F1b cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ991056.1	1140	Neomys fodiens haplotype F1a cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ630422.1	400	Neomys fodiens isolate 3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ630421.1	1133	Neomys fodiens isolate 4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ630410.1	800	Neomys fodiens isolate 1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LK936674.1	1140	Neomys fodiens mitochondrial CYTB gene for cytochrome b, specimen voucher IBE-S1915
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LK936673.1	1140	Neomys fodiens mitochondrial CYTB gene for cytochrome b, specimen voucher IBE-C1914
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	LK936672.1	1140	Neomys fodiens mitochondrial CYTB gene for cytochrome b, specimen voucher IBE-C101
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KJ136597.1	420	Neomys fodiens isolate SV4/Konnevesi cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KJ136586.1	420	Neomys fodiens isolate Laihia cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	NC_025559.1	17260	Neomys fodiens mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KM092492.1	17260	Neomys fodiens mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KC537798.1	404	Neomys fodiens strain 2177 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KC537797.1	404	Neomys fodiens strain 2074 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KC537796.1	404	Neomys fodiens strain 2073 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	GU981295.1	1140	Neomys fodiens isolate Neomfod1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	JF318987.1	627	Neomys fodiens cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AY332673.1	439	Neomys fodiens specimen-voucher P29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AF182181.1	355	Neomys fodiens isolate m146 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AF182180.1	355	Neomys fodiens isolate m122 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	D85362.1	402	Neomys fodiens mitochondrial gene for cytochrome b, partial cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AB175098.1	1140	Neomys fodiens mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AB175097.1	1140	Neomys fodiens mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AB175096.1	1140	Neomys fodiens mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AJ000465.1	1011	Neomys fodiens partial mitochondrial cytb gene
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AB175071.1	1140	Neomys fodiens mitochondrial cytb gene for cytochrome b, complete cds

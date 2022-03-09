@@ -1,0 +1,54 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516804.1	1140	Uropsilus soricipes voucher JJSA333 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516803.1	1140	Uropsilus soricipes voucher JJSA246 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516802.1	1140	Uropsilus soricipes voucher JJSA595 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516801.1	1140	Uropsilus soricipes voucher TX0901 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516800.1	1140	Uropsilus soricipes voucher MX003 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516799.1	1140	Uropsilus soricipes voucher YX09002 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516798.1	1140	Uropsilus soricipes voucher YX09019 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KX754486.1	1140	Uropsilus soricipes isolate Uropso_5 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684975.1	510	Uropsilus soricipes voucher MYL0502 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684974.1	508	Uropsilus soricipes voucher YX09N018 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684973.1	508	Uropsilus soricipes voucher YX09N002 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684972.1	509	Uropsilus soricipes voucher YX09N020 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684971.1	508	Uropsilus soricipes voucher YX09N016 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684970.1	508	Uropsilus soricipes voucher YX09N023 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684969.1	510	Uropsilus soricipes voucher MX003 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684968.1	509	Uropsilus soricipes voucher JJSA603 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684967.1	510	Uropsilus soricipes voucher JJSA578 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684966.1	511	Uropsilus soricipes voucher FTZ005 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684965.1	511	Uropsilus soricipes voucher DJY02 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684964.1	510	Uropsilus soricipes voucher DJY01 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684963.1	510	Uropsilus soricipes voucher JJSA333 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684962.1	509	Uropsilus soricipes voucher JJSA293 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684961.1	511	Uropsilus soricipes voucher TQDR0901 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684960.1	510	Uropsilus soricipes voucher FTZ007 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC684959.1	510	Uropsilus soricipes voucher JJSA577 D-loop, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JX626239.1	1089	Uropsilus soricipes haplotype 25 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JX626238.1	1089	Uropsilus soricipes haplotype 24 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JX626237.1	1089	Uropsilus soricipes haplotype 23 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	NC_023244.1	16575	Uropsilus soricipes mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695829.1	1089	Uropsilus soricipes haplotype Hap11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695828.1	1089	Uropsilus soricipes haplotype Hap10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695827.1	1089	Uropsilus soricipes haplotype Hap9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695826.1	1089	Uropsilus soricipes haplotype Hap8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695825.1	1089	Uropsilus soricipes haplotype Hap7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695824.1	1089	Uropsilus soricipes haplotype Hap6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695823.1	1089	Uropsilus soricipes haplotype Hap5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695822.1	1089	Uropsilus soricipes haplotype Hap4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695821.1	1089	Uropsilus soricipes haplotype Hap3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695820.1	1089	Uropsilus soricipes haplotype Hap2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ695819.1	1089	Uropsilus soricipes haplotype Hap1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ658979.1	16575	Uropsilus soricipes mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JN867329.1	1140	Uropsilus soricipes isolate JJSA293b cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JN867328.1	1140	Uropsilus soricipes isolate JJSA334b cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868727.1	1089	Uropsilus soricipes haplotype Hap22 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868726.1	1089	Uropsilus soricipes haplotype Hap21 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868725.1	1089	Uropsilus soricipes haplotype Hap20 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868724.1	1089	Uropsilus soricipes haplotype Hap19 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868723.1	1089	Uropsilus soricipes haplotype Hap18 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868722.1	1089	Uropsilus soricipes haplotype Hap17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868721.1	1089	Uropsilus soricipes haplotype Hap16 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868720.1	1089	Uropsilus soricipes haplotype Hap15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868719.1	1089	Uropsilus soricipes haplotype Hap14 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868718.1	1089	Uropsilus soricipes haplotype Hap13 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ868717.1	1089	Uropsilus soricipes haplotype Hap12 cytochrome b (cytb) gene, partial cds; mitochondrial

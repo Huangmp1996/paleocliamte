@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	KX269348.1	834	Rana coreana isolate MMS-223 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	KM590550.1	15765	Rana coreana mitochondrion, partial genome
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	KF020623.1	750	Rana coreana voucher mms4407 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	KF020622.1	750	Rana coreana voucher mms3976 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ837980.1	444	Rana coreana voucher NIBRAM0000000737 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ798764.1	444	Rana coreana voucher GRKOAM0000100702 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ798763.1	444	Rana coreana voucher GRKOAM0000100690 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ798762.1	444	Rana coreana voucher GRKOAM0000100650 cytochrome b (cytb) gene, partial cds; mitochondrial

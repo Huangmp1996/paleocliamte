@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	GU187969.1	16727	Tragopan caboti mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	KC778981.1	974	Tragopan caboti 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	NC_013619.1	16727	Tragopan caboti mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	AB004240.1	428	Tragopan caboti mitochondrial gene for 12S ribosomal RNA, partial sequence

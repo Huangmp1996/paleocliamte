@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	MT997245.1	963	Gekko japonicus isolate GJ01 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	KT005800.1	17956	Gekko japonicus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	EU417728.1	825	Gekko japonicus isolate RG2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	EU417727.1	825	Gekko japonicus isolate RG1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	EU417726.1	825	Gekko japonicus isolate ZS4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	EU417725.1	825	Gekko japonicus isolate ZS3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	EU417724.1	825	Gekko japonicus isolate ZS2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	EU417723.1	825	Gekko japonicus isolate ZS1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	NC_028035.1	16544	Gekko japonicus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	KR996131.1	16544	Gekko japonicus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	HM362987.1	562	Gekko japonicus isolate XM3495 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

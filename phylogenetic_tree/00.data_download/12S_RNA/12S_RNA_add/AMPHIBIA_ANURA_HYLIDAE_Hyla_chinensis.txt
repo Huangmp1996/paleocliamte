@@ -1,0 +1,17 @@
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MK880294.1	813	Hyla chinensis voucher Hyla_chinensis(AHU20140802) small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MK880293.1	813	Hyla chinensis voucher Hyla_chinensis(AHU20140801) small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	AY458593.1	18180	Hyla chinensis mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742581.1	903	Hyla chinensis isolate Nanling_Guangdong2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742580.1	817	Hyla chinensis isolate Nanling_Guangdong1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742579.1	905	Hyla chinensis isolate Chebaling_Guangdong6 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742578.1	904	Hyla chinensis isolate Chebaling_Guangdong5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742577.1	899	Hyla chinensis isolate Chebaling_Guangdong4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742576.1	899	Hyla chinensis isolate Chebaling_Guangdong3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742575.1	905	Hyla chinensis isolate Chebaling_Guangdong2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742574.1	900	Hyla chinensis isolate Chebaling_Guangdong1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742573.1	903	Hyla chinensis isolate Wuyihshan_Fujian 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742572.1	903	Hyla chinensis isolate Longmen_Guangdong 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742571.1	905	Hyla chinensis isolate Zhaowu_Fujian 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	JN117721.1	875	Hyla chinensis 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	AF315161.1	568	Hyla chinensis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	AF315129.1	389	Hyla chinensis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

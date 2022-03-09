@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	AB179620.1	18872	Xenopeltis unicolor mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	MK065601.1	501	Xenopeltis unicolor voucher CHS725 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	MK065455.1	501	Xenopeltis unicolor voucher CHS270 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	AF544752.1	344	Xenopeltis unicolor 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	AF512735.1	1850	Xenopeltis unicolor 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

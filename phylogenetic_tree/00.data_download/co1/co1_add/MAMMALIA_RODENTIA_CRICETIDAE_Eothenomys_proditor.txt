@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KY997291.1	1539	Eothenomys proditor isolate ML13003 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KY997290.1	1539	Eothenomys proditor isolate ML13002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KY997289.1	1539	Eothenomys proditor isolate ML13001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	HM165355.1	1539	Eothenomys proditor isolate SAF07044 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	HM165288.1	1539	Eothenomys proditor isolate SAF07049 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

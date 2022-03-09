@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	NC_026701.1	16778	Parus venustulus mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	KP313823.1	16778	Parus venustulus mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	JF828069.1	556	Parus venustulus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	HQ417121.1	556	Parus venustulus isolate MAR02033 16S ribosomal RNA gene, partial sequence; mitochondrial

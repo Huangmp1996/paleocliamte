@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356222.1	1143	Myodes rufocanus bedfordiae clone JA4034KTF599 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356206.1	1143	Myodes rufocanus bedfordiae clone JA6551KTF153 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356205.1	1143	Myodes rufocanus bedfordiae clone JA5277KTF945 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356204.1	1143	Myodes rufocanus bedfordiae clone JA5171KTF862 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356203.1	1143	Myodes rufocanus bedfordiae clone JA4277KTF637 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356202.1	1143	Myodes rufocanus bedfordiae clone JA4032KTF597 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356201.1	1143	Myodes rufocanus bedfordiae clone KT3122KTF118 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356200.1	1143	Myodes rufocanus bedfordiae clone KT3120KTF116 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356199.1	1143	Myodes rufocanus bedfordiae clone KT3028KTF66 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC406450.1	1143	Myodes rufocanus bedfordiae KT3011KTF49 mitochondrial cytb gene for cytochrome b, complete cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416920.1	1140	Myodes rufocanus TS00789 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416919.1	1140	Myodes rufocanus TS00785 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416918.1	1140	Myodes rufocanus TS00783 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416917.1	1140	Myodes rufocanus TS00779 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416916.1	1140	Myodes rufocanus TS00964.1 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416915.1	1140	Myodes rufocanus TS00691 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416914.1	1140	Myodes rufocanus TS01656 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416913.1	1140	Myodes rufocanus TS01654 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416912.1	1140	Myodes rufocanus HS236 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416911.1	1140	Myodes rufocanus HS235 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416910.1	1140	Myodes rufocanus HS234 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416909.1	1140	Myodes rufocanus HS233 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416908.1	1140	Myodes rufocanus TS00128 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416907.1	1140	Myodes rufocanus TS00076 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416906.1	1140	Myodes rufocanus HTS380 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416905.1	1140	Myodes rufocanus HTS350 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416904.1	1140	Myodes rufocanus KTF219 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416903.1	1140	Myodes rufocanus TS01861 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416902.1	1140	Myodes rufocanus TS01861 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416901.1	1140	Myodes rufocanus TS01697 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416900.1	1140	Myodes rufocanus TS01693 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416899.1	1140	Myodes rufocanus TS01692 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416898.1	1140	Myodes rufocanus TS01688 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416897.1	1140	Myodes rufocanus HS621 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416896.1	1140	Myodes rufocanus HS620 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416895.1	1140	Myodes rufocanus HS619 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416894.1	1140	Myodes rufocanus HTS320 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416893.1	1140	Myodes rufocanus HTS319 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416892.1	1140	Myodes rufocanus HTS244 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416891.1	1140	Myodes rufocanus HTS389 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416890.1	1140	Myodes rufocanus HTS387 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416889.1	1140	Myodes rufocanus HS5726 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416888.1	1140	Myodes rufocanus HS5725 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416887.1	1140	Myodes rufocanus HS5724 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416886.1	1140	Myodes rufocanus HS5723 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416885.1	1140	Myodes rufocanus HS5722 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416884.1	1140	Myodes rufocanus HS5721 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416883.1	1140	Myodes rufocanus TS01670 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416882.1	1140	Myodes rufocanus TS01249 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416881.1	1140	Myodes rufocanus TS00048 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416880.1	1140	Myodes rufocanus TS00043 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416879.1	1140	Myodes rufocanus HS275 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416878.1	1140	Myodes rufocanus HS274 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	LC416877.1	1140	Myodes rufocanus HS273 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968286.1	1143	Myodes rufocanus isolate 09NRAP074 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968285.1	1143	Myodes rufocanus isolate 09NRAP040 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968284.1	1143	Myodes rufocanus isolate 09NRAP039 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968282.1	1143	Myodes rufocanus isolate CHBS031 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968279.1	1137	Myodes rufocanus isolate XJ163 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968275.1	1142	Myodes rufocanus isolate 09NRAP064 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968274.1	1130	Myodes rufocanus isolate XJ174 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968265.1	1089	Myodes rufocanus isolate CHBS032 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968264.1	1117	Myodes rufocanus isolate CHBS029 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968263.1	1117	Myodes rufocanus isolate CHBS026 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968261.1	1118	Myodes rufocanus isolate 09NRAP072 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	EU035660.1	866	Clethrionomys rufocanus isolate B-23-246 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	AF429816.1	1082	Clethrionomys rufocanus isolate CRF890 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	AF429815.1	1092	Clethrionomys rufocanus isolate CRF/AF#3145 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	AF429814.1	1092	Clethrionomys rufocanus isolate CRF/AF#3143 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	AF429793.1	1077	Clethrionomys rufocanus isolate CRF333 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	AF429792.1	1077	Clethrionomys rufocanus isolate CRF308 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	AF429791.1	1077	Clethrionomys rufocanus isolate CRF179 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082750.1	1143	Myodes rufocanus isolate SKCPcb1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082749.1	1143	Myodes rufocanus isolate KCPcb39 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082748.1	1143	Myodes rufocanus isolate KCPcb38 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082747.1	1143	Myodes rufocanus isolate KCPcb37 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082746.1	1143	Myodes rufocanus isolate KCPcb36 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082745.1	1143	Myodes rufocanus isolate KCPcb35 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082744.1	1143	Myodes rufocanus isolate KCPcb34 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082743.1	1143	Myodes rufocanus isolate KCPcb33 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082742.1	1143	Myodes rufocanus isolate KCPcb32 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082741.1	1143	Myodes rufocanus isolate KCPcb31 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082740.1	1143	Myodes rufocanus isolate KCPcb30 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082739.1	1143	Myodes rufocanus isolate KCPcb29 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082738.1	1143	Myodes rufocanus isolate KCPcb28 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082737.1	1143	Myodes rufocanus isolate UKCPcb1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082736.1	1143	Myodes rufocanus isolate AKCPcb2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082735.1	1143	Myodes rufocanus isolate AKCPcb1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082734.1	1143	Myodes rufocanus isolate ZKCPcb9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082733.1	1143	Myodes rufocanus isolate ZKCPcb8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082732.1	1143	Myodes rufocanus isolate ZKCPcb7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082731.1	1143	Myodes rufocanus isolate ZKCPcb6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082730.1	1143	Myodes rufocanus isolate ZKCPcb5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082729.1	1143	Myodes rufocanus isolate ZKCPcb4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082728.1	1143	Myodes rufocanus isolate ZKCPcb3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082727.1	1143	Myodes rufocanus isolate ZKCPcb2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082726.1	1143	Myodes rufocanus isolate ZKCPcb1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082725.1	1143	Myodes rufocanus isolate KCPcb24 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082724.1	1143	Myodes rufocanus isolate KCPcb19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KX082723.1	1143	Myodes rufocanus isolate KCPcb15 cytochrome b (cytb) gene, complete cds; mitochondrial

@@ -1,0 +1,53 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MT921854.1	2208	Microhyla fissipes 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MH822625.1	16723	Microhyla fissipes mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MN534589.1	862	Microhyla fissipes voucher ZMMU:NAP-6603 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MN534588.1	862	Microhyla fissipes voucher ZMMU:A5333 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MN534488.1	471	Microhyla fissipes voucher ZMMU:NAP-6603 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MN534487.1	471	Microhyla fissipes voucher ZMMU:A5333 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	NC_045110.1	16723	Microhyla fissipes mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MN046210.1	16723	Microhyla fissipes mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC465677.1	1915	Microhyla fissipes KUHE:32942 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC465676.1	1915	Microhyla fissipes KUHE:32943 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC465675.1	1915	Microhyla fissipes KUHE:27705 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC465674.1	1914	Microhyla fissipes URE2398 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC465673.1	1915	Microhyla fissipes URE2395 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC465672.1	1915	Microhyla fissipes URE2394 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC465671.1	1915	Microhyla fissipes URE2393 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC465670.1	1915	Microhyla fissipes KUHE:50493 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC213133.1	514	Microhyla fissipes mitochondrial gene for 16S rRNA, partial sequence, isolate: MZB_Amph_23551
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC213134.1	516	Microhyla fissipes mitochondrial gene for 16S rRNA, partial sequence, isolate: UTA_ENS_16264
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC213135.1	514	Microhyla fissipes mitochondrial gene for 16S rRNA, partial sequence, isolate: MZB_Amph_26091
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC213136.1	514	Microhyla fissipes mitochondrial gene for 16S rRNA, partial sequence, isolate: MZB_Amph_26092
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	LC213145.1	514	Microhyla fissipes mitochondrial gene for 16S rRNA, partial sequence, isolate: MZB_Amph_28443
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935905.1	551	Microhyla fissipes voucher USNM:Herp:587159 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935904.1	551	Microhyla fissipes voucher USNM:Herp:586954 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935903.1	551	Microhyla fissipes voucher USNM:Herp:586953 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935902.1	551	Microhyla fissipes voucher USNM:Herp:587110 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935901.1	551	Microhyla fissipes voucher USNM:Herp:587166 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935900.1	551	Microhyla fissipes voucher USNM:Herp:586950 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935899.1	551	Microhyla fissipes voucher USNM:Herp:586951 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935898.1	551	Microhyla fissipes voucher USNM:Herp:520349 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935897.1	551	Microhyla fissipes voucher USNM:Herp:586949 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935896.1	551	Microhyla fissipes voucher USNM:Herp:586952 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	MG935895.1	551	Microhyla fissipes voucher MBM-JBS19916 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827931.1	409	Microhyla fissipes voucher 2006.2331 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827930.1	405	Microhyla fissipes voucher TAD_P306 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827929.1	409	Microhyla fissipes voucher 2004.0426 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827928.1	409	Microhyla fissipes voucher 2005.0177 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827927.1	409	Microhyla fissipes voucher 717D 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827926.1	409	Microhyla fissipes voucher 2006.2391 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827925.1	409	Microhyla fissipes voucher 1997.8359 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827924.1	409	Microhyla fissipes voucher K3009 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827923.1	409	Microhyla fissipes voucher 0976Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827922.1	409	Microhyla fissipes voucher 2006.2381 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827921.1	409	Microhyla fissipes voucher 2006.2362 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827920.1	409	Microhyla fissipes voucher 2006.2360 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827919.1	409	Microhyla fissipes voucher K3087 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827918.1	409	Microhyla fissipes voucher K3090 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	KR827917.1	409	Microhyla fissipes voucher K3361 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	AB634666.1	811	Microhyla fissipes mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:22064
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	AB201186.1	859	Microhyla fissipes mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher:KUHE35165
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	AB201185.1	860	Microhyla fissipes mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher:KUHE32943
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	EU157076.1	516	Microhyla fissipes voucher ZFMK86752 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	EU157075.1	516	Microhyla fissipes voucher ZFMK86370 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_fissipes	EU157074.1	516	Microhyla fissipes voucher ZFMK86426 16S ribosomal RNA gene, partial sequence; mitochondrial

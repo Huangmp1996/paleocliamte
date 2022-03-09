@@ -1,0 +1,92 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	MH307630.1	976	Turdus merula voucher L312 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	MW435613.1	302	Turdus merula isolate TM_01 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	MN122910.1	16748	Turdus merula mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KY378806.1	1023	Turdus merula voucher L605_T3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KY378805.1	1023	Turdus merula voucher L604_T2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KY378804.1	1025	Turdus merula voucher L603_T1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KY378803.1	1024	Turdus merula voucher L559 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KY378802.1	727	Turdus merula voucher L370_MO2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KY378801.1	1009	Turdus merula voucher L347 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KY378800.1	1019	Turdus merula voucher L327 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452791.1	662	Turdus merula isolate F33311 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452790.1	662	Turdus merula isolate F33306 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452789.1	662	Turdus merula isolate F33305 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452788.1	662	Turdus merula isolate F33304 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452787.1	662	Turdus merula isolate F33303 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452786.1	662	Turdus merula isolate F34401 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452785.1	662	Turdus merula isolate F30234 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452784.1	662	Turdus merula isolate F30205 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452783.1	662	Turdus merula isolate F16546 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452782.1	662	Turdus merula isolate F32627 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452781.1	662	Turdus merula isolate F032972 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452780.1	662	Turdus merula isolate F032971 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452779.1	662	Turdus merula isolate F032970 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452778.1	662	Turdus merula isolate F032968 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452777.1	662	Turdus merula isolate F032966 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452776.1	662	Turdus merula isolate F030938 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452775.1	662	Turdus merula isolate F024597 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452774.1	662	Turdus merula isolate F024596 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452773.1	662	Turdus merula isolate F024595 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452772.1	662	Turdus merula isolate F024594 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452771.1	662	Turdus merula isolate F024516 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452770.1	662	Turdus merula isolate F024513 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452769.1	662	Turdus merula isolate F024509 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452768.1	662	Turdus merula isolate F024504 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452767.1	662	Turdus merula isolate F024501 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452766.1	662	Turdus merula isolate F024536 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452765.1	662	Turdus merula isolate F024532 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452764.1	662	Turdus merula isolate F024525 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452763.1	662	Turdus merula isolate F024522 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452762.1	662	Turdus merula isolate F024519 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452761.1	662	Turdus merula isolate F024551 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452760.1	662	Turdus merula isolate F024547 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452759.1	662	Turdus merula isolate F024544 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452758.1	662	Turdus merula isolate F024540 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452757.1	662	Turdus merula isolate F024537 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452756.1	662	Turdus merula isolate F024568 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452755.1	662	Turdus merula isolate F024565 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452754.1	662	Turdus merula isolate F024561 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452753.1	662	Turdus merula isolate F024556 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452752.1	662	Turdus merula isolate F024552 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452751.1	662	Turdus merula isolate F024593 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452750.1	662	Turdus merula isolate F024592 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452749.1	662	Turdus merula isolate F024591 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452748.1	662	Turdus merula isolate F024589 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452747.1	662	Turdus merula isolate F024587 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452746.1	662	Turdus merula isolate F030928 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452745.1	662	Turdus merula isolate F030924 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452744.1	662	Turdus merula isolate F030922 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452743.1	662	Turdus merula isolate F030920 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452742.1	662	Turdus merula isolate F030918 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452741.1	662	Turdus merula isolate F024586 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452740.1	662	Turdus merula isolate F024582 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452739.1	662	Turdus merula isolate F024579 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452738.1	662	Turdus merula isolate F024574 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452737.1	662	Turdus merula isolate F024570 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452736.1	662	Turdus merula isolate F030917 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452735.1	662	Turdus merula isolate F030909 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452734.1	662	Turdus merula isolate F030905 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452733.1	662	Turdus merula isolate F024600 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KX452732.1	662	Turdus merula isolate F024598 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	AY286396.1	1037	Turdus merula cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	DQ910961.1	1000	Turdus merula cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702889.1	1032	Turdus merula voucher 159219 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702888.1	1032	Turdus merula cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702887.1	1032	Turdus merula voucher 2058 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702886.1	1032	Turdus merula voucher 74020 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702885.1	1032	Turdus merula voucher 159124 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702884.1	1032	Turdus merula voucher 2060 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702883.1	1032	Turdus merula voucher 2002 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702882.1	1032	Turdus merula voucher 2065 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702881.1	1032	Turdus merula voucher 159121 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702880.1	1032	Turdus merula voucher 159120 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702879.1	1032	Turdus merula voucher 159160 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702878.1	1032	Turdus merula voucher 159188 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KJ702877.1	1032	Turdus merula voucher 159125 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	NC_028188.1	16733	Turdus merula voucher TMER20150704V3 mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KT601060.1	16730	Turdus merula mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KT373849.1	16733	Turdus merula voucher TMER20150704V3 mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	DQ263757.1	991	Turdus merula cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	EU154638.1	1038	Turdus merula intermedius voucher NRM 2007 6476 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	EU154637.1	1038	Turdus merula merula voucher NRM 2007 6477 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	AY752390.1	998	Turdus merula cytochrome b (cytb) gene, partial cds; mitochondrial

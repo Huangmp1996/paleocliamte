@@ -1,0 +1,17 @@
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	NM_199618.1	3567	Danio rerio arachidonate 12-lipoxygenase (alox12), mRNA
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	LC468887.1	173	Danio rerio CBM:ZF:19227 mitochondrial gene for 12S rRNA, partial sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AI105964.1	205	bb01d03_p1 ZF adult heart library Danio rerio cDNA 5 prime similar to mitochondrial 12s rRNA genes, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KY945240.1	615	Danio rerio voucher DRM02 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KY945239.1	600	Danio rerio voucher DRM01 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	NC_007116.7	72500376	Danio rerio strain Tuebingen chromosome 5, GRCz11 Primary Assembly
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	NC_002333.2	16596	Danio rerio mitochondrion, complete genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	LC193210.1	173	Danio rerio mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: CBM:ZF:11664
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AC024175.3	16596	Danio rerio mitochondrial genome, complete sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624627.1	16580	Danio rerio strain AB mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624626.1	16579	Danio rerio strain WIK mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624625.1	16577	Danio rerio strain TL mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624624.1	16574	Danio rerio strain SJD mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624623.1	16579	Danio rerio strain HL mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624622.1	16576	Danio rerio strain PS mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KM244705.1	16560	Danio rerio mitochondrion, complete genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	FJ915075.1	702	Danio rerio 18S small subunit ribosomal RNA, partial sequence

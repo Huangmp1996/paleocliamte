@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	NC_040975.1	16805	Carpodacus rubicilloides mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	MH363715.1	16805	Carpodacus rubicilloides mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	AF342868.1	924	Carpodacus rubicilloides cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	KF194093.1	302	Carpodacus rubicilloides voucher ZFMK 71/974 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	KF194092.1	367	Carpodacus rubicilloides voucher ZMB 25.203 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	KF194091.1	623	Carpodacus rubicilloides voucher MAR 5933 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	KF194090.1	623	Carpodacus rubicilloides voucher MAR 5932 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	KF194089.1	623	Carpodacus rubicilloides voucher MAR 5931 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	KF194179.1	1143	Carpodacus rubicilloides voucher FMNH 275871 cytochrome b (cytb) gene, complete cds; mitochondrial

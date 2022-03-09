@@ -1,0 +1,7 @@
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	KT962834.1	17424	Pelochelys cantorii isolate Guangyuan mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	JF719809.1	16897	Pelochelys cantorii mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	AY259560.1	1140	Pelochelys cantorii cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	JN016747.1	17612	Pelochelys cantorii isolate Yongjia mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	NC_015825.1	17499	Pelochelys cantorii isolate Xiamen mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	JN016746.1	17499	Pelochelys cantorii isolate Xiamen mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Pelochelys_cantorii	JN232533.1	1106	Pelochelys cantorii cytochrome b (cytb) gene, partial cds; mitochondrial

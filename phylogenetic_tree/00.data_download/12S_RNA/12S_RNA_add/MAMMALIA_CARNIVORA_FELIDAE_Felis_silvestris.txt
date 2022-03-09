@@ -1,0 +1,14 @@
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	MW487616.1	185	Felis silvestris isolate F.silvestris2 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	MW487615.1	184	Felis silvestris isolate F.silvestris1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	MT251909.1	188	Felis silvestris small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	MN647656.1	168	Felis silvestris small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	MN249908.1	382	Felis silvestris voucher Felis_silvestris_1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	AY773081.1	355	Felis bieti cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KX002032.1	392	Felis silvestris 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KX002031.1	392	Felis silvestris 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	NC_028310.1	16640	Felis silvestris isolate FSI mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KP202278.1	16640	Felis silvestris isolate FSI mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KP202275.1	16735	Felis silvestris lybica isolate FLI mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KP202273.1	16809	Felis silvestris bieti isolate FBI mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KJ192507.1	391	Felis silvestris isolate FsilT1283 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	AY773084.1	371	Felis bieti 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_TURNICIDAE_Turnix_suscitator	AB843831.1	648	Turnix suscitator mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO166-10
+AVES_CHARADRIIFORMES_TURNICIDAE_Turnix_suscitator	AB843830.1	683	Turnix suscitator mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO167-10
+AVES_CHARADRIIFORMES_TURNICIDAE_Turnix_suscitator	AB843263.1	689	Turnix suscitator mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM828-11
+AVES_CHARADRIIFORMES_TURNICIDAE_Turnix_suscitator	AB843262.1	693	Turnix suscitator mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM564-10
+AVES_CHARADRIIFORMES_TURNICIDAE_Turnix_suscitator	AB843261.1	607	Turnix suscitator mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM688-10

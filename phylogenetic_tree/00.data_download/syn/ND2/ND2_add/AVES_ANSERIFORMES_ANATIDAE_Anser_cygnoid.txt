@@ -1,0 +1,16 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	MN356388.1	16742	Anser cygnoides mitochondrion, partial genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	MK102803.1	16738	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	MK133022.1	16741	Anser cygnoides breed Sichuan white goose mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KY767671.1	16740	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	EU585679.1	1041	Anser cygnoides voucher IPMB 21679 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KT427463.1	16742	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KU211647.1	16741	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KP881611.1	16740	Anser cygnoides breed Youjiang mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KP943133.1	16742	Anser cygnoides breed Hepu mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KP026178.1	16741	Anser cygnoides breed Wugangtong mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KP238480.1	16740	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KJ794189.1	16740	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KJ794188.1	16742	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KJ778677.1	16742	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	NC_023832.1	16739	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KJ124555.1	16739	Anser cygnoides mitochondrion, complete genome

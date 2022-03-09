@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MT410899.1	17069	Lacerta agilis mitochondrion, partial genome
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	NC_046326.1	43910048	Lacerta agilis isolate rLacAgi1 chromosome 15, rLacAgi1.pri, whole genome shotgun sequence
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MN015262.1	947	Lacerta agilis isolate MV.LAC-184 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	KX080601.1	363	Lacerta agilis isolate S10401 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	KX080600.1	363	Lacerta agilis isolate S10397 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	NC_021766.1	17090	Lacerta agilis mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	KC990830.1	17090	Lacerta agilis mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	DQ658818.1	380	Lacerta agilis isolate AG 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	DQ097096.1	356	Lacerta agilis isolate HO2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	AF149947.1	460	Lacerta agilis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	AF080298.1	311	Lacerta agilis 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

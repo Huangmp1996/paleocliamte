@@ -1,0 +1,6 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Arvicola_amphibius	MW477999.1	333	Arvicola amphibius voucher 35249 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Arvicola_amphibius	MN122834.1	16356	Arvicola amphibius isolate DM22 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Arvicola_amphibius	MN122828.1	16356	Arvicola amphibius isolate DM16 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Arvicola_amphibius	KY754485.1	697	Arvicola amphibius voucher 76288 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Arvicola_amphibius	AY332681.1	439	Arvicola terrestris specimen-voucher P37 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Arvicola_amphibius	AY332680.1	439	Arvicola terrestris specimen-voucher P20 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product

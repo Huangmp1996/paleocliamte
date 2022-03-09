@@ -1,0 +1,23 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	X86752.1	1026	G.fulvus mitochondrial cytb gene
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	Z35649.1	331	G.fulvus (cbb41) cytochrome b DNA
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	NC_036050.1	18094	Gyps fulvus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	KX893247.1	18094	Gyps fulvus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496438.1	1026	Gyps fulvus haplotype Gf38 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496437.1	1024	Gyps fulvus haplotype GF37 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496436.1	1024	Gyps fulvus haplotype GF36 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496435.1	1026	Gyps fulvus haplotype GF35 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496434.1	1024	Gyps fulvus haplotype GF34 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496433.1	1026	Gyps fulvus haplotype GF33 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496432.1	1026	Gyps fulvus haplotype GF32 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496431.1	1026	Gyps fulvus haplotype GF31 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496430.1	1026	Gyps fulvus haplotype Gf30 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496429.1	1026	Gyps fulvus haplotype GF29 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496428.1	1026	Gyps fulvus haplotype GF28 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	EU496427.1	1026	Gyps fulvus haplotype GF27 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	AY987261.1	1028	Gyps fulvus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908970.1	1024	Gyps fulvus fulvus haplotype 11 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908969.1	1024	Gyps fulvus fulvus haplotype 10 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908968.1	1024	Gyps fulvus fulvus haplotype 9 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908967.1	1024	Gyps fulvus fulvus haplotype 8 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908966.1	1024	Gyps fulvus fulvescens haplotype 7 cytochrome b (cytB) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	DQ908965.1	1024	Gyps fulvus fulvescens haplotype 6 cytochrome b (cytB) gene, partial cds; mitochondrial

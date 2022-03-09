@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MZ190413.1	299	Gekko chinensis isolate OUT NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	JN019058.1	1324	Gekko chinensis voucher LLG 4209 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; and tRNA-Cys gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	NC_027191.1	17906	Gekko chinensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	KP666135.1	17906	Gekko chinensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	JQ173409.1	1233	Gekko chinensis voucher LSUHC 4210 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	JQ173408.1	1233	Gekko chinensis voucher KU 311497 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	JQ173407.1	1233	Gekko chinensis voucher KU 311495 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial

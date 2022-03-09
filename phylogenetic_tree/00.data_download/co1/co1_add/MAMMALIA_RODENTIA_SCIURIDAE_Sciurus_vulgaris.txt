@@ -1,0 +1,30 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MT211956.1	16510	Sciurus vulgaris voucher MSB:Mamm:148785 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MN122875.1	16511	Sciurus vulgaris isolate DM15 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MN122844.1	16510	Sciurus vulgaris isolate DM14 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	HM380207.1	657	Sciurus vulgaris voucher NOMAM-034 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KX859265.1	643	Sciurus vulgaris voucher MGL-87 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KY754547.1	655	Sciurus vulgaris voucher Mamm3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KU962990.1	16511	Sciurus vulgaris mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	LT630616.1	657	Sciurus vulgaris mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIB:ZPL:07641, haplotype HC01
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	LT630615.1	657	Sciurus vulgaris mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIB:ZPL:07640, haplotype HC01
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	LT630614.1	657	Sciurus vulgaris mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIB:ZPL:07639, haplotype HC01
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	LT630613.1	657	Sciurus vulgaris mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIB:ZPL:07443, haplotype HC01
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	LT630612.1	657	Sciurus vulgaris mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIB:ZPL:07440, haplotype HC01
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	JF499341.1	653	Sciurus vulgaris voucher ZMMU AALS-509 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KP993037.1	516	Sciurus vulgaris isolate SV5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KP993036.1	516	Sciurus vulgaris isolate SV4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KP993035.1	516	Sciurus vulgaris isolate SV3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KP993034.1	516	Sciurus vulgaris isolate SV2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KP993033.1	516	Sciurus vulgaris isolate SV1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KU527904.1	653	Sciurus vulgaris haplotype MGL-16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993007.1	16412	Sciurus vulgaris fuscoater isolate 5703_NorthJutland mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993006.1	16218	Sciurus vulgaris fuscoater isolate 4420_MidJutland mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993005.1	16176	Sciurus vulgaris fuscoater isolate 5100_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993004.1	16362	Sciurus vulgaris fuscoater isolate 3163_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993003.1	16398	Sciurus vulgaris fuscoater isolate 5206_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993002.1	16398	Sciurus vulgaris fuscoater isolate 3811_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993001.1	16355	Sciurus vulgaris fuscoater isolate 5099_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993000.1	16438	Sciurus vulgaris fuscoater isolate 5280_Funen mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC992999.1	16357	Sciurus vulgaris fuscoater isolate 3094_Funen mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	NC_002369.1	16507	Sciurus vulgaris mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AJ238588.1	16507	Sciurus vulgaris complete mitochondrial genome

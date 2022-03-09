@@ -1,0 +1,5 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	MT456677.1	633	Falco vespertinus voucher USNM 642634 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	LT852757.1	127	Falco vespertinus mitochondrial partial COI gene for cytochrome oxidase subunit 1
+AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	GU571888.1	644	Falco vespertinus voucher BISE-Aves116 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	KF946679.1	693	Falco vespertinus voucher ZMA58773 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	JQ174839.1	652	Falco vespertinus voucher USNM:Birds:621208 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

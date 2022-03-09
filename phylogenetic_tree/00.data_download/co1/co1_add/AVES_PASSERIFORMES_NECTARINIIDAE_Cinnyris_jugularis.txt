@@ -1,0 +1,21 @@
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473240.1	589	Nectarinia jugularis bio-material ZMUC 132050 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473238.1	564	Nectarinia jugularis bio-material ZMUC 117143 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473236.1	574	Nectarinia jugularis bio-material RMBR WLK612 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473234.1	574	Nectarinia jugularis bio-material UWBM CES263 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473199.1	655	Nectarinia jugularis bio-material UAM TB1845 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473190.1	655	Nectarinia jugularis bio-material UAM TB1784 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473189.1	574	Nectarinia jugularis bio-material UAM TB1777 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473188.1	655	Nectarinia jugularis bio-material UAM TB1776 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473187.1	655	Nectarinia jugularis bio-material UAM TB1775 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473171.1	655	Nectarinia jugularis bio-material AMNH DOT 12609 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473170.1	573	Nectarinia jugularis bio-material AMNH DOT 12601 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473169.1	642	Nectarinia jugularis bio-material AMNH DOT 12600 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473163.1	654	Nectarinia jugularis bio-material AMNH DOT 311 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473162.1	655	Nectarinia jugularis bio-material AMNH DOT 304 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473158.1	655	Nectarinia jugularis bio-material MZB PBM40 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473116.1	563	Nectarinia jugularis bio-material HCL 31 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473106.1	574	Nectarinia jugularis bio-material FMNH 358556 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473099.1	655	Nectarinia jugularis bio-material FMNH 345048 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473078.1	655	Nectarinia jugularis bio-material AMNH DOT 303 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	FJ473077.1	655	Nectarinia jugularis bio-material AMNH DOT 296 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Cinnyris_jugularis	JQ175525.1	623	Nectarinia jugularis voucher USNM:Birds:607558 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

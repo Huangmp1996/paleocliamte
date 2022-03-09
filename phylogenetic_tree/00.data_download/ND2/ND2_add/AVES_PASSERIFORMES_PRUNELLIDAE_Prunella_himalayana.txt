@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	NC_053082.1	16842	Prunella himalayana mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	MN356328.1	16842	Prunella himalayana mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	KY120946.1	1002	Prunella himalayana NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	KX109710.1	696	Prunella himalayana isolate MAR2447 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	KC759313.1	1041	Prunella himalayana voucher SVD2275 (UWBM 66677) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	KC759282.1	1041	Prunella himalayana voucher DAB0264 (UWBM 46423) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

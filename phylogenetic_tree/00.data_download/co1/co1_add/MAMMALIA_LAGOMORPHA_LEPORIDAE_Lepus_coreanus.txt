@@ -1,0 +1,6 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_coreanus	KP993123.1	516	Lepus coreanus isolate LC4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_coreanus	KP993122.1	516	Lepus coreanus isolate LC3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_coreanus	KP993121.1	516	Lepus coreanus isolate LC2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_coreanus	KP993120.1	516	Lepus coreanus isolate LC1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_coreanus	NC_024259.1	17472	Lepus coreanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_coreanus	KF040450.1	17472	Lepus coreanus mitochondrion, complete genome

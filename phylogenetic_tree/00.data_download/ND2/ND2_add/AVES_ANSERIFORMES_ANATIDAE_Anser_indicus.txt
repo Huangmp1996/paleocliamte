@@ -1,0 +1,3 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_indicus	EU585682.1	1041	Anser indicus voucher IPMB 7110 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_indicus	NC_025654.1	16731	Anser indicus mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_indicus	KM455570.1	16731	Anser indicus mitochondrion, complete genome

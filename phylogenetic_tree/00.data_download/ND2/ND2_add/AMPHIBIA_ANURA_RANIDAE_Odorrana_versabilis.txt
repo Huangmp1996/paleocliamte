@@ -1,0 +1,2 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_versabilis	KX269436.1	644	Odorrana versabilis isolate HNNU-A0019L NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp and tRNA-Ala genes, complete sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_versabilis	KF771338.1	1299	Odorrana versabilis NADH dehydrogenase subunit 2 (nad2) gene, partial cds; tRNA-Trp (trnW), tRNA-Asn (trnA), tRNA-Cys (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

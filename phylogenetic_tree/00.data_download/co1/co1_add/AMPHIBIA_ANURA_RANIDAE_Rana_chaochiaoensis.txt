@@ -1,0 +1,10 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	AY607312.1	2010	Rana chaochiaoensis voucher CAS 194478 NADH dehydrogenase subunit 1 (nad1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (nad2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	MT418669.1	644	Rana chaochiaoensis voucher SYS a001815 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	MT418619.1	647	Rana chaochiaoensis voucher SYS a001816 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KU246048.1	18591	Rana chaochiaoensis voucher SM-ZJLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	MF805615.1	558	Rana chaochiaoensis voucher YXS60 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	MF805614.1	602	Rana chaochiaoensis voucher YXS89 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	NC_035803.1	18591	Rana chaochiaoensis voucher SM-ZJLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	JF939103.1	558	Rana chaochiaoensis voucher KIZ06425 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	JF939066.1	558	Rana chaochiaoensis voucher SCUM045096WD cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KF771325.1	976	Rana chaochiaoensis tRNA-Trp (trnW) gene, partial sequence; tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Thr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_tunganus	NC_045232.1	17263	Plestiodon tunganus voucher MCB1021 mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_tunganus	MK370739.1	17263	Plestiodon tunganus voucher MCB1021 mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_tunganus	HM160857.1	1186	Plestiodon tunganus voucher MCB1025 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile gene, complete sequence; and tRNA-Gln gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_tunganus	HM160856.1	1186	Plestiodon tunganus voucher MCB1020 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile gene, complete sequence; and tRNA-Gln gene, partial sequence; mitochondrial

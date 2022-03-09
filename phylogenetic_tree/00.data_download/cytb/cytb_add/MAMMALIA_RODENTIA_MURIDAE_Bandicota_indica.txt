@@ -1,0 +1,51 @@
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934312.1	1140	Bandicota indica voucher ZOTTP11 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934311.1	1139	Bandicota indica voucher ZOTTP10 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934310.1	1140	Bandicota indica voucher ZOTTP09 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934309.1	1139	Bandicota indica voucher ZOTTP08 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934308.1	1139	Bandicota indica voucher ZOTTP07 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934307.1	1140	Bandicota indica voucher ZOTTP06 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934306.1	1140	Bandicota indica voucher ZOTTP05 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934305.1	1139	Bandicota indica voucher ZOTTP04 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934304.1	1140	Bandicota indica voucher ZOTTP03 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934303.1	1139	Bandicota indica voucher ZOTTP02 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934302.1	1140	Bandicota indica voucher ZOTTP01 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934301.1	1140	Bandicota indica voucher ZOASK04 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934300.1	1140	Bandicota indica voucher ZOASK03 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934299.1	1140	Bandicota indica voucher ZOASK02 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK934298.1	1140	Bandicota indica voucher ZOASK01 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MW023790.1	1140	Bandicota indica isolate Ruili-67 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MW023789.1	1140	Bandicota indica isolate Ruili-66 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	MK654780.1	1140	Bandicota indica isolate MM3294M45 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KY697990.1	1140	Bandicota indica voucher PDZ 43 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KY753950.1	1058	Bandicota indica cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217476.1	1078	Bandicota indica voucher L0142 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217469.1	1096	Bandicota indica voucher R5313 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217447.1	1027	Bandicota indica voucher R4265 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217435.1	1027	Bandicota indica voucher R4001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217425.1	1135	Bandicota indica voucher R3521 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217408.1	1015	Bandicota indica voucher R3189 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217390.1	1116	Bandicota indica voucher R1822 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217386.1	1105	Bandicota indica voucher R1284 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217380.1	1027	Bandicota indica voucher R1006 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217378.1	1108	Bandicota indica voucher R0304 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	HM217376.1	1027	Bandicota indica voucher R0269 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	NC_028335.1	16326	Bandicota indica mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KT029807.1	16326	Bandicota indica mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592807.1	1095	Bandicota indica voucher R5347 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592799.1	1027	Bandicota indica voucher R4253 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592798.1	1027	Bandicota indica voucher R4212 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592791.1	1027	Bandicota indica voucher R4007 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592790.1	1139	Bandicota indica voucher R4000 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592788.1	1027	Bandicota indica voucher R3177 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592787.1	1027	Bandicota indica voucher R3138 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592786.1	1027	Bandicota indica voucher R3124 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592785.1	1027	Bandicota indica voucher R1276 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592782.1	1139	Bandicota indica voucher R0361 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592781.1	1139	Bandicota indica voucher R0301 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592780.1	1133	Bandicota indica voucher R0280 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KJ592779.1	1027	Bandicota indica voucher R0170 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	FR775891.1	1143	Bandicota indica mitochondrial partial cytb gene for cytochrome b, isolate K76
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	JQ843689.1	545	Bandicota indica voucher MNHN_VV1999504 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	JQ735467.1	1140	Bandicota indica voucher MNHN:VV1999504 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	JQ667597.1	721	Bandicota indica voucher MNHN:VV1999504 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	JN675475.1	945	Bandicota indica isolate 50Bin_29 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	GQ481740.1	694	Emberiza bruniceps voucher UWBM 46508 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	GQ481739.1	669	Emberiza bruniceps voucher UWBM 46486 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	GQ481738.1	669	Emberiza bruniceps voucher UWBM 46230 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	FJ465322.1	612	Emberiza bruniceps voucher ZMA 56198 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	FJ465321.1	612	Emberiza bruniceps voucher ZMA 56200 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	FJ465320.1	612	Emberiza bruniceps voucher ZMA 56199 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	KP877700.1	695	Emberiza bruniceps isolate MAR6625 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	KC439313.1	661	Emberiza bruniceps cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,94 @@
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MZ895121.1	16605	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MZ895120.1	16602	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	LC619122.1	658	Anas platyrhynchos FA_43 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	NC_009684.1	16604	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MN011574.1	16603	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MW354666.1	16605	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MK770342.1	16604	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MH676083.1	695	Anas platyrhynchos voucher OMNH<USA-OK>:22601 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MK129186.1	634	Anas platyrhynchos voucher Chevonne Reynolds:Mal003 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JG662680.1	336	R141 Duck hepatitis B virus infected primary duck hepatocytes day 4 down-regulated cDNA library Anas platyrhynchos cDNA clone R141 similar to Cytochrome oxidase subunit I (COI), mRNA sequence
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MK262361.1	648	Anas platyrhynchos voucher SP331 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MK262292.1	648	Anas platyrhynchos voucher SP017 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MK262119.1	648	Anas platyrhynchos voucher SP016 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654805.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal024 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654804.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal023 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654803.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal021 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654802.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal020 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654801.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal019 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654800.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal018 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654799.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal017 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654798.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal016 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654797.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal014 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654796.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal013 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654795.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal012 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654794.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal011 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654793.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal008 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654792.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal007 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654791.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal006 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654790.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal005 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654789.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal004 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654788.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal002 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG654787.1	716	Anas platyrhynchos voucher Chevonne Reynolds:Mal001 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MH744426.1	16604	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MG373561.1	671	Anas platyrhynchos breed Pekin Duck cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF069251.1	16601	Anas platyrhynchos breed Shan partridge duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF069250.1	16606	Anas platyrhynchos breed Putian Black duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF069249.1	16602	Anas platyrhynchos breed Liancheng White duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF069248.1	16603	Anas platyrhynchos breed Jinding duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF541545.1	558	Anas platyrhynchos breed Egyptian Baladi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KT803699.1	648	Anas platyrhynchos isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KX592536.1	16604	Anas platyrhynchos breed Sichuan mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231517.1	555	Anas platyrhynchos CNWGRGL:JXL058 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231516.1	555	Anas platyrhynchos CNWGRGL:JXL049 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231515.1	556	Anas platyrhynchos CNWGRGL:JXL040 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231514.1	556	Anas platyrhynchos CNWGRGL:JXL039 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231513.1	555	Anas platyrhynchos CNWGRGL:GXS030 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231512.1	555	Anas platyrhynchos CNWGRGL:GXS014 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231511.1	555	Anas platyrhynchos CNWGRGL:GXS007 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231510.1	522	Anas platyrhynchos CNWGRGL:GXS006 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231509.1	556	Anas platyrhynchos CNWGRGL:GY089 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231508.1	556	Anas platyrhynchos CNWGRGL:GY085 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231507.1	555	Anas platyrhynchos CNWGRGL:GY077 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231506.1	555	Anas platyrhynchos CNWGRGL:GY074 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ231505.1	555	Anas platyrhynchos CNWGRGL:GY073 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ167857.1	16606	Anas platyrhynchos breed Jianchang mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN793566.1	668	Anas platyrhynchos voucher AUBD1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703248.1	695	Anas platyrhynchos isolate H43_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703247.1	695	Anas platyrhynchos isolate H37_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703246.1	695	Anas platyrhynchos isolate H36_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703245.1	695	Anas platyrhynchos isolate H35_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703244.1	695	Anas platyrhynchos isolate H34_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703243.1	695	Anas platyrhynchos isolate H46_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703242.1	695	Anas platyrhynchos isolate H45_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703226.1	695	Anas platyrhynchos isolate S338_R1(e12) cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703225.1	695	Anas platyrhynchos isolate 08_880_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703224.1	695	Anas platyrhynchos isolate 08_879_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703223.1	695	Anas platyrhynchos isolate 28_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703222.1	695	Anas platyrhynchos isolate 27_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703221.1	695	Anas platyrhynchos isolate 19_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703220.1	695	Anas platyrhynchos isolate 18_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703219.1	695	Anas platyrhynchos isolate 16_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703218.1	695	Anas platyrhynchos isolate H40_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703217.1	695	Anas platyrhynchos isolate H39_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703216.1	695	Anas platyrhynchos isolate 2-18_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703215.1	695	Anas platyrhynchos isolate 2-17_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703214.1	695	Anas platyrhynchos isolate 2-16_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703213.1	695	Anas platyrhynchos isolate 2-15_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703212.1	695	Anas platyrhynchos isolate 2-14_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JN703211.1	695	Anas platyrhynchos isolate 2-13_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	HM010684.1	16604	Anas platyrhynchos breed Shaoxing mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ808619.1	660	Anas platyrhynchos voucher KU08006 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	U83787.1	518	Anas platyrhynchos cytochrome oxidase I (mtCOI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ833586.1	16604	Anas platyrhynchos breed Xilin duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ833587.1	16605	Anas platyrhynchos breed Rongshui duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	AB843351.1	664	Anas platyrhynchos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO029-10
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	AB842543.1	668	Anas platyrhynchos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM640-10
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	AB842542.1	652	Anas platyrhynchos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM128-10
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	AB842541.1	654	Anas platyrhynchos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM349-10
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ883269.1	16605	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ778676.1	16606	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ739616.1	16603	Anas platyrhynchos breed Longsheng duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ689447.1	16603	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ637997.1	16605	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KF992022.1	1502	Anas platyrhynchos voucher DCB-WD1 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial

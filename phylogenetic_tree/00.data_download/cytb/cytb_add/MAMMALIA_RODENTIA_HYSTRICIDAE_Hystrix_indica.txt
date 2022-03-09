@@ -1,0 +1,3 @@
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	MW924868.1	232	Hystrix indica voucher AIWC 54 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	MT152313.1	7525	Hystrix indica isolate HyInTr1 mitochondrion, partial genome
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	AY692229.1	421	Hystrix indica cytochrome b gene, partial cds; mitochondrial

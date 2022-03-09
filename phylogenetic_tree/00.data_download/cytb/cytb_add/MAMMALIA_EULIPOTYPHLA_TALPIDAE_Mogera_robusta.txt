@@ -1,0 +1,100 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	LC554753.1	1140	Mogera robusta AK609/HS2001 mitochondrial cytb for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	LC554752.1	1140	Mogera robusta AK001/HS2008 mitochondrial cytb for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169190.1	208	Mogera robusta voucher ZIN 89272 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169189.1	239	Mogera robusta voucher ZIN 89273 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169188.1	250	Mogera robusta voucher ZIN 89271 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169187.1	249	Mogera robusta voucher ZMMU S-55231 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169186.1	1125	Mogera robusta isolate 7740 voucher CGRB 7740 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169185.1	1140	Mogera robusta isolate 10068 voucher CGRB 10068 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169184.1	1140	Mogera robusta isolate 6344 voucher CGRB 6344 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169183.1	1140	Mogera robusta isolate 771 voucher CGRB 771 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169182.1	1140	Mogera robusta isolate 8243 voucher CGRB 8243 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169181.1	1140	Mogera robusta isolate 6345 voucher CGRB 6345 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169180.1	1140	Mogera robusta isolate 1176 voucher CGRB 1176 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169179.1	1140	Mogera robusta isolate 8563 voucher CGRB 8563 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169178.1	1140	Mogera robusta isolate 2294 voucher CGRB 2294 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169177.1	1140	Mogera robusta isolate 8244 voucher CGRB 8244 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169176.1	1140	Mogera robusta isolate 2227 voucher CGRB 2227 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169175.1	1140	Mogera robusta isolate 6342 voucher CGRB 6342 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169174.1	1140	Mogera robusta isolate AVA 14-211 voucher ZIN 102786 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169173.1	1140	Mogera robusta isolate AVA 14-243 voucher ZIN 102797 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169172.1	1140	Mogera robusta isolate AVA 12-128 voucher ZIN 101362 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169171.1	1140	Mogera robusta isolate AVA 14-256 voucher ZIN 102800 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169170.1	1140	Mogera robusta isolate AVA 14-255 voucher ZIN 102799 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169169.1	1140	Mogera robusta isolate 728 voucher FSCEATB 728 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169168.1	1140	Mogera robusta isolate 820 voucher FSCEATB 820 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169167.1	1140	Mogera robusta isolate 411 voucher FSCEATB 411 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169166.1	1140	Mogera robusta isolate AVA 12-198 voucher ZIN 101366 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169165.1	1140	Mogera robusta isolate 604 voucher FSCEATB 604 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169164.1	1140	Mogera robusta isolate AVA 16-158 voucher ZIN 104275 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169163.1	1140	Mogera robusta isolate 3/2011 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169162.1	1140	Mogera robusta isolate 609 voucher FSCEATB 609 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169161.1	1140	Mogera robusta isolate AVA 16-176 voucher ZIN 104277 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169160.1	1140	Mogera robusta isolate 606 voucher FSCEATB 606 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169159.1	1140	Mogera robusta isolate AVA 16-113 voucher ZIN 104248 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169158.1	1140	Mogera robusta isolate AVA 16-112 voucher ZIN 104247 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169157.1	1140	Mogera robusta isolate AVA 14-230 voucher ZIN 102795 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169156.1	1140	Mogera robusta isolate AVA 14-229 voucher ZIN 102794 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169155.1	1140	Mogera robusta isolate AVA 14-228 voucher ZIN 102793 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169154.1	1140	Mogera robusta isolate AVA 14-227 voucher ZIN 102792 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169153.1	1140	Mogera robusta isolate AVA 14-226 voucher ZIN 102791 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169152.1	1140	Mogera robusta isolate AVA 14-215 voucher ZIN 102790 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169151.1	1140	Mogera robusta isolate AVA 14-212 voucher ZIN 102787 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169150.1	1140	Mogera robusta isolate AVA 14-296 voucher ZIN 102807 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169149.1	1140	Mogera robusta isolate AVA 14-293 voucher ZIN 102806 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169148.1	1140	Mogera robusta isolate AVA 14-286 voucher ZIN 102805 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169147.1	1140	Mogera robusta isolate AVA 14-280 voucher ZIN 102804 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169146.1	1140	Mogera robusta isolate AVA 14-269 voucher ZIN 102803 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169145.1	1140	Mogera robusta isolate AVA 14-263 voucher ZIN 102802 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169144.1	1140	Mogera robusta isolate AVA 14-262 voucher ZIN 102801 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169143.1	1140	Mogera robusta isolate AVA 14-214 voucher ZIN 102789 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169142.1	1140	Mogera robusta isolate AVA 14-213 voucher ZIN 102788 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169141.1	1140	Mogera robusta isolate AVA 12-148 voucher ZIN 101365 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169140.1	1140	Mogera robusta isolate AVA 12-147 voucher ZIN 101364 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169139.1	1140	Mogera robusta isolate AVA 12-146 voucher ZIN 101363 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169138.1	1140	Mogera robusta isolate AVA 14-210 voucher ZIN 102785 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169137.1	1140	Mogera robusta isolate AVA 16-161 voucher ZIN 104276 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169136.1	1140	Mogera robusta isolate 727 voucher FSCEATB 727 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169135.1	1140	Mogera robusta isolate AVA 14-241 voucher ZIN 102796 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169134.1	1140	Mogera robusta isolate 884 voucher FSCEATB 884 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169133.1	1140	Mogera robusta isolate AVA 16-114 voucher ZIN 104249 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169132.1	1140	Mogera robusta isolate 2117 voucher FSCEATB 2117 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169131.1	1140	Mogera robusta isolate 707 voucher FSCEATB 707 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169130.1	1140	Mogera robusta isolate 605 voucher FSCEATB 605 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169129.1	1140	Mogera robusta isolate AVA 16-182 voucher ZIN 104280 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169128.1	1140	Mogera robusta isolate AVA 16-180 voucher ZIN 104279 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169127.1	1140	Mogera robusta isolate AVA 16-177 voucher ZIN 104278 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169126.1	1140	Mogera robusta isolate AVA 16-155 voucher ZIN 104274 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169125.1	1140	Mogera robusta isolate AVA 16-154 voucher ZIN 104273 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169124.1	1140	Mogera robusta isolate AVA 16-153 voucher ZIN 104272 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169123.1	1140	Mogera robusta isolate AVA 16-152 voucher ZIN 104271 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169122.1	1140	Mogera robusta isolate AVA 16-151 voucher ZIN 104270 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169121.1	1140	Mogera robusta isolate AVA 16-150 voucher ZIN 104269 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169120.1	1140	Mogera robusta isolate AVA 16-149 voucher ZIN 104268 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169119.1	1140	Mogera robusta isolate AVA 16-148 voucher ZIN 104267 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169118.1	1140	Mogera robusta isolate AVA 16-147 voucher ZIN 104266 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169117.1	1140	Mogera robusta isolate AVA 16-146 voucher ZIN 104265 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169116.1	1140	Mogera robusta isolate AVA 16-144 voucher ZIN 104264 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169115.1	1140	Mogera robusta isolate AVA 16-142 voucher ZIN 104263 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169114.1	1140	Mogera robusta isolate AVA 16-140 voucher ZIN 104262 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169113.1	1140	Mogera robusta isolate AVA 16-139 voucher ZIN 104261 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169112.1	1140	Mogera robusta isolate AVA 16-138 voucher ZIN 104260 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169111.1	1140	Mogera robusta isolate AVA 16-137 voucher ZIN 104259 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169110.1	1140	Mogera robusta isolate AVA 16-136 voucher ZIN 104258 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169109.1	1140	Mogera robusta isolate AVA 16-135 voucher ZIN 104257 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169108.1	1140	Mogera robusta isolate AVA 16-134 voucher ZIN 104256 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169107.1	1140	Mogera robusta isolate AVA 16-133 voucher ZIN 104255 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169106.1	1140	Mogera robusta isolate AVA 16-132 voucher ZIN 104254 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169105.1	1140	Mogera robusta isolate AVA 16-131 voucher ZIN 104253 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169104.1	1140	Mogera robusta isolate AVA 16-130 voucher ZIN 104252 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169103.1	1140	Mogera robusta isolate AVA 16-127 voucher ZIN 104251 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169102.1	1140	Mogera robusta isolate AVA 16-126 voucher ZIN 104250 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169101.1	1140	Mogera robusta isolate 818 voucher FSCEATB 818 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169100.1	1140	Mogera robusta isolate 706 voucher FSCEATB 706 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169099.1	1140	Mogera robusta isolate 819 voucher FSCEATB 819 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169098.1	1140	Mogera robusta isolate 607 voucher FSCEATB 607 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK431828.1	16890	Mogera robusta mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	NC_029836.1	16816	Mogera robusta mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KT934322.1	16816	Mogera robusta mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KC481337.1	1140	Mogera robusta voucher MSU_c2011 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KC481336.1	1140	Mogera robusta voucher ZIN99913 cytochrome b (cytb) gene, complete cds; mitochondrial

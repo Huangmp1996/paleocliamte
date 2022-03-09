@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	JX256035.1	1023	Oenanthe deserti voucher MIUT 2003.99.22 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	GU237121.1	1041	Oenanthe deserti voucher NRM20046660 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	GU055423.1	1038	Oenanthe deserti voucher UWBM 57980 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

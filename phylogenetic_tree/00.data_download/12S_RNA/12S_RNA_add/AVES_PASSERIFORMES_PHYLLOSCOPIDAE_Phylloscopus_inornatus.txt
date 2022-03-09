@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	KP267714.1	395	Abrornis inornata isolate MAR329 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	NC_024726.1	16875	Phylloscopus inornatus voucher AHU-bird20121022 mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	KF742677.1	16875	Phylloscopus inornatus mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	HQ852934.1	471	Phylloscopus inornatus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	AY635099.1	395	Phylloscopus inornatus 12S ribosomal RNA gene, partial sequence; mitochondrial

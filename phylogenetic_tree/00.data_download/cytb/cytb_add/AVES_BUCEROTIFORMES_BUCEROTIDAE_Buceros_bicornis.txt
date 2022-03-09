@@ -1,0 +1,9 @@
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	MH645662.1	718	Buceros bicornis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	NC_038201.1	17117	Buceros bicornis mitochondrion, complete genome
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	MF325011.1	17117	Buceros bicornis mitochondrion, complete genome
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	GU257920.1	1143	Buceros bicornis isolate GH cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	AF346955.1	1036	Buceros bicornis isolate 49 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	AF346954.1	942	Buceros bicornis isolate 48 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	AF346953.1	835	Buceros bicornis isolate 47 cytochrome b (Cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	KJ456207.1	1143	Buceros bicornis voucher AMNH:11099 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	KC754793.1	954	Buceros bicornis clone Seq41 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	MH406554.1	730	Xenophrys lini isolate 4442 12S rRNA' gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	MH406553.1	730	Xenophrys lini isolate 4441 12S rRNA' gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	MH406552.1	730	Xenophrys lini isolate 4409 12S rRNA' gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	MH406551.1	730	Xenophrys lini isolate 4408 12S rRNA' gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	MF667843.1	762	Xenophrys lini voucher SYS a003181 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	MF667842.1	762	Xenophrys lini voucher SYS a002381 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	MF667841.1	762	Xenophrys lini voucher SYS a002128 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	KJ560441.1	571	Xenophrys lini voucher SYS a002128 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	KJ560440.1	575	Xenophrys lini voucher SYS a002383 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	KJ560439.1	575	Xenophrys lini voucher SYS a002382 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	KJ560438.1	574	Xenophrys lini voucher SYS a002371 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	KJ560437.1	561	Xenophrys lini voucher SYS a002370 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_lini	KJ560436.1	558	Xenophrys lini voucher SYS a002380 12S ribosomal RNA gene, partial sequence; mitochondrial

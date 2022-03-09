@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	NC_056274.1	17042	Opisthotropis guangxiensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MT571495.1	17042	Opisthotropis guangxiensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MK199105.1	1023	Opisthotropis guangxiensis voucher CHS822 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MK199079.1	1023	Opisthotropis guangxiensis voucher CHS772 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MK199058.1	1023	Opisthotropis guangxiensis voucher CHS740 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	JQ687462.1	1004	Opisthotropis guangxiensis isolate gp746 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

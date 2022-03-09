@@ -1,0 +1,6 @@
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	MK818509.1	17787	Ciconia nigra mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	KY767670.1	17905	Ciconia nigra mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	NC_023946.1	17795	Ciconia nigra mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	KF906246.1	17795	Ciconia nigra mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	AF173571.1	2680	Ciconia nigra 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; 16S ribosomal RNA gene, complete sequence; and tRNA-Leu gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_nigra	L33371.1	1199	Ciconia nigra mitochondrial 16S ribosomal RNA (16S rRNA) gene, 3' end

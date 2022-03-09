@@ -1,0 +1,5 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_nipalensis	NC_045042.1	18450	Aquila nipalensis mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_nipalensis	MK860035.1	18450	Aquila nipalensis mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_nipalensis	KU748112.1	658	Aquila nipalensis voucher NMK:70044 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_nipalensis	DQ834327.1	439	Aquila nipalensis haplotype F cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_nipalensis	DQ834326.1	439	Aquila nipalensis haplotype E cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

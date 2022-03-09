@@ -1,0 +1,6 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	NC_021957.1	16478	Nomascus leucogenys mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	KC757404.1	16478	Nomascus leucogenys mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	HQ622803.1	16472	Nomascus leucogenys isolate J04 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	HQ622802.1	16490	Nomascus leucogenys isolate 1006 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	HQ622801.1	16470	Nomascus leucogenys isolate 1005 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	HQ622800.1	16476	Nomascus leucogenys isolate 378 mitochondrial sequence

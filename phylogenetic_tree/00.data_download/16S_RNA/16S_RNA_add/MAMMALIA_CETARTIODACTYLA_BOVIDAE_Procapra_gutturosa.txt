@@ -1,0 +1,5 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	JN632689.1	16546	Procapra gutturosa isolate ED mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	NC_020738.1	16546	Procapra gutturosa isolate ED mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	AF400657.1	1422	Procapra gutturosa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	AF401514.1	586	Procapra gutturosa 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	AF364173.1	588	Procapra gutturosa 16S ribosomal RNA gene, partial sequence; mitochondrial

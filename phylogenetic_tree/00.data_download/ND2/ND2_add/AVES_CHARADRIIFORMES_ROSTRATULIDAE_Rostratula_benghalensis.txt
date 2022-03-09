@@ -1,0 +1,4 @@
+AVES_CHARADRIIFORMES_ROSTRATULIDAE_Rostratula_benghalensis	MN356297.1	15104	Rostratula benghalensis mitochondrion, partial genome
+AVES_CHARADRIIFORMES_ROSTRATULIDAE_Rostratula_benghalensis	EF373265.1	997	Rostratula benghalensis voucher MKP-1478 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_ROSTRATULIDAE_Rostratula_benghalensis	JQ963038.1	993	Rostratula benghalensis NADH dehydrogenase 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_ROSTRATULIDAE_Rostratula_benghalensis	JQ963037.1	624	Rostratula benghalensis australis NADH dehydrogenase 2 (ND2) gene, partial cds; mitochondrial

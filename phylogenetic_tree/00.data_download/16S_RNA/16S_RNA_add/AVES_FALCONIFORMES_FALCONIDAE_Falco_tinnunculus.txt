@@ -1,0 +1,4 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	MN122821.1	15276	Falco tinnunculus mitochondrion, partial genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	EU196361.1	17663	Falco tinnunculus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	NC_011307.1	17663	Falco tinnunculus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	EU144040.1	556	Falco tinnunculus voucher UF101 16S ribosomal RNA gene, partial sequence; mitochondrial

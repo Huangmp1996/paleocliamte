@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	FJ378536.2	16923	Pycnonotus taivanus mitochondrion, complete genome
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF293044.1	1041	Pycnonotus taivanus voucher TESRI:5169 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF293043.1	1041	Pycnonotus taivanus voucher TESRI:5042 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF293042.1	1041	Pycnonotus taivanus voucher TESRI:4443 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF293041.1	1041	Pycnonotus taivanus voucher TESRI:2666 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF293040.1	1041	Pycnonotus taivanus voucher TESRI:2456 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF292949.1	871	Pycnonotus taivanus voucher TESRI:4211 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF292948.1	871	Pycnonotus taivanus voucher TESRI:2667 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF292947.1	871	Pycnonotus taivanus voucher TESRI:2440 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	KF292946.1	871	Pycnonotus taivanus voucher TESRI:2261 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	NC_013483.2	16923	Pycnonotus taivanus mitochondrion, complete genome

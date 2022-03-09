@@ -1,0 +1,27 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578140.1	1041	Motacilla citreola isolate ring GX635676 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578139.1	1041	Motacilla citreola voucher ZMMU:EAK405 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578138.1	1041	Motacilla citreola voucher ZMMU:EAK400 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578137.1	1041	Motacilla citreola voucher ZMMU:EAK398 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578136.1	1041	Motacilla citreola voucher ZMMU:EAK397 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578135.1	1041	Motacilla citreola voucher UWBM:59488 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578134.1	1041	Motacilla citreola voucher ZMMU:MVK128 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578133.1	1041	Motacilla citreola voucher ZMMU:MVK127 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578132.1	1041	Motacilla citreola voucher ZMMU:MVK054 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578131.1	1041	Motacilla citreola voucher UWBM:49350 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578130.1	1041	Motacilla citreola voucher UWBM:49348 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578129.1	1041	Motacilla citreola voucher ZMMU:2152000 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578128.1	1041	Motacilla citreola voucher ZMMU:2142000 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578127.1	1041	Motacilla citreola voucher ZMMU:0772000 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578126.1	1041	Motacilla citreola voucher YPM:140358 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578125.1	1041	Motacilla citreola voucher YPM:140357 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578124.1	1041	Motacilla citreola voucher YPM:140355 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578123.1	1041	Motacilla citreola voucher UWBM:59622 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578122.1	1041	Motacilla citreola voucher UWBM:59513 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	MG578121.1	1041	Motacilla citreola voucher SDM NVF15410 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	AY259446.1	1041	Motacilla citreola citreola isolate M.cit.Xin NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	AY259445.1	1041	Motacilla citreola citreola isolate M.cit.1 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	AY259444.1	1041	Motacilla citreola calcarata isolate 970402-7 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	AF526477.1	1006	Motacilla citreola specimen-voucher UWBM46336 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	AF526475.1	1006	Motacilla citreola specimen-voucher UWBM49351 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	KJ455509.1	1041	Motacilla citreola voucher UWBM:66456 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_citreola	KC759277.1	1041	Motacilla citreola voucher BKS1748 (UWBM 49351) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

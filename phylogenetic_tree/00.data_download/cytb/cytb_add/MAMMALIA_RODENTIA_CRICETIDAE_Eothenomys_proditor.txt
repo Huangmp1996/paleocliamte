@@ -1,0 +1,12 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KY997399.1	1113	Eothenomys proditor isolate muli13001 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KY997397.1	1119	Eothenomys proditor isolate ML13003 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KY997396.1	1118	Eothenomys proditor isolate ML13002 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KY753982.1	1140	Eothenomys proditor cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	AY426691.1	1140	Eothenomys proditor isolate 97585 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KJ556720.1	1106	Eothenomys proditor voucher UWBM:75307 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KJ556719.1	1109	Eothenomys proditor voucher UWBM:75301 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	KJ556718.1	1104	Eothenomys proditor voucher UWBM:75298 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	HM165441.1	1140	Eothenomys proditor isolate SAF07049 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	HM165440.1	1140	Eothenomys proditor isolate SAF07044 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	HM165388.1	1140	Eothenomys proditor isolate SAF04118 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_proditor	HM165367.1	1140	Eothenomys proditor isolate SAF07046 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_010894.3	2510	Mus musculus neurogenic differentiation 1 (Neurod1), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001359263.1	4357	Mus musculus influenza virus NS1A binding protein (Ivns1abp), transcript variant 5, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001276299.1	1179	Mus musculus arginine vasopressin receptor 2 (Avpr2), transcript variant 3, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_019404.2	1812	Mus musculus arginine vasopressin receptor 2 (Avpr2), transcript variant 1, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001276298.1	1721	Mus musculus arginine vasopressin receptor 2 (Avpr2), transcript variant 2, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001359262.1	3395	Mus musculus influenza virus NS1A binding protein (Ivns1abp), transcript variant 4, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001039512.1	3387	Mus musculus influenza virus NS1A binding protein (Ivns1abp), transcript variant 3, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001039511.1	2793	Mus musculus influenza virus NS1A binding protein (Ivns1abp), transcript variant 1, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_054102.2	3513	Mus musculus influenza virus NS1A binding protein (Ivns1abp), transcript variant 2, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MT937073.1	16300	Mus musculus breed tmt-TA C5024T mitochondrion
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MT410886.1	16311	Mus musculus isolate DM54 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN964117.1	16300	Mus musculus voucher MA364 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AB284311.1	257	AB284311 ES clone subtracted cDNA library Mus musculus cDNA clone 17 similar to NADH dehydrogenase 1 (mtNd1), mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	BU698723.1	338	B1-79 Hematopoietic Stem Cell Subtracted Library Mus musculus cDNA 5' similar to NADH dehydrogenase subunit 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	BU695631.1	642	LL2in10625T7 Hematopoietic Stem Cell Subtracted Library Mus musculus cDNA 5' similar to NADH dehydrogenase subunit 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	BU695299.1	635	LL2in10649T7 Hematopoietic Stem Cell Subtracted Library Mus musculus cDNA 5' similar to NADH dehydrogenase subunit 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AW230040.1	256	up24g10.y1 NCI_CGAP_Mam2 Mus musculus cDNA clone IMAGE:2655330 5' similar to TR:O78698 O78698 NADH DEHYDROGENASE SUBUNIT 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061930.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_19
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061929.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_18
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061928.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_17
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061927.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_16
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061926.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_15
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061925.1	2537	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_14
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061924.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_13
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061923.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_12
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061922.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_11
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061921.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_10
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061920.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_9
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061919.1	2539	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_8
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061918.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_7
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061917.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_6
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061916.1	2537	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_5
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061915.1	2537	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_4
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061914.1	2537	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_3
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061913.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_2
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC061912.1	2538	Mus musculus mitochondrion DNA, including 16S rRNA, tRNA-Leu, ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2 genes, complete sequence, sequence_id: (2065..4602)_1
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	KY018919.1	16300	Mus musculus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NC_005089.1	16299	Mus musculus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU450583.1	16301	Mus musculus strain MRL/MpJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	DQ874614.2	16300	Mus musculus musculus strain PWD/Ph mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU315229.1	16301	Mus musculus clone B82 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU315228.1	16302	Mus musculus clone B82M mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU312161.1	16300	Mus musculus clone A11 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU312160.1	16300	Mus musculus clone P29 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	JQ003190.1	16300	Mus musculus strain WOM/W mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675031.1	16300	Mus musculus isolate M10 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675030.1	16300	Mus musculus isolate M9 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675029.1	16301	Mus musculus isolate M7 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675028.1	16301	Mus musculus isolate M5 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675027.1	16301	Mus musculus isolate M3 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675026.1	16301	Mus musculus isolate M1 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	DQ106413.1	16300	Mus Musculus strain VM mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	DQ106412.1	16299	Mus Musculus strain C57BL/6J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY999076.1	16301	Mus musculus cell-line NIH/3T3 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY675564.1	16300	Mus musculus molossinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY533108.1	16299	Mus musculus strain NON/Lt mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY533107.1	16301	Mus musculus strain NOD/LtJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY533106.1	16301	Mus musculus strain ALS/Lt mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY533105.1	16300	Mus musculus strain ALR/Lt mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY466499.1	16300	Mus musculus strain CBA/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY394058.1	388	Mus musculus musculus NADH dehydrogenase subunit 1 type 2 (Nd1) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY394057.1	388	Mus musculus musculus NADH dehydrogenase subunit 1 type 1 (Nd1) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY394056.1	388	Mus musculus domesticus NADH dehydrogenase subunit 1 type 2 (Nd1) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY394055.1	388	Mus musculus domesticus NADH dehydrogenase subunit 1 type 1 (Nd1) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY172335.1	16299	Mus musculus strain C57BL/6J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	JF286601.1	16300	Mus musculus strain C57BL/6NCrl mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ877407.1	16301	Mus musculus ATCC:CCL-1.3 clone LMTK- mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ586004.1	16299	Mus musculus strain BN/aW mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	GQ871746.1	16300	Mus musculus domesticus strain FVB/NJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	GQ871745.1	16301	Mus musculus domesticus strain DBA/1J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	GQ871744.1	16300	Mus musculus domesticus strain B10.D1-H2q/SgJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ803909.1	16301	Mus musculus strain C3H/An clone B82 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374665.1	16300	Mus musculus domesticus strain YBR/EiJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374664.1	16300	Mus musculus domesticus strain TALLYHO/JngJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374663.1	16300	Mus musculus domesticus strain SWR/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374662.1	16300	Mus musculus domesticus strain STR/ort mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374661.1	16301	Mus musculus domesticus strain SOD1/EiJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374660.1	16300	Mus musculus domesticus strain SM/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374659.1	16301	Mus musculus domesticus strain SJL/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374658.1	16300	Mus musculus domesticus strain SEA/GnJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374657.1	16300	Mus musculus domesticus strain SB/LeJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374656.1	16299	Mus musculus domesticus strain RIIIS/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374655.1	16301	Mus musculus domesticus strain RF/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374654.1	16301	Mus musculus domesticus strain PL/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374653.1	16300	Mus musculus domesticus strain P/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374652.1	16299	Mus musculus domesticus strain NOR/LtJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374651.1	16302	Mus musculus domesticus strain MRL/MpJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374650.1	16300	Mus musculus domesticus strain MA/MyJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374649.1	16301	Mus musculus domesticus strain LT/SvEi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374648.1	16301	Mus musculus domesticus strain LP/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374647.1	16301	Mus musculus domesticus strain LG/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374646.1	16300	Mus musculus domesticus strain I/LnJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374645.1	16300	Mus musculus domesticus strain CE/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374644.1	16300	Mus musculus domesticus strain C57BL/10J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374643.1	16300	Mus musculus domesticus strain BUB/BnJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374642.1	16300	Mus musculus domesticus strain BPN/3J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374641.1	16300	Mus musculus domesticus strain BPL/1J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374640.1	16300	Mus musculus domesticus strain BPH/2J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	FJ374639.1	16299	Mus musculus domesticus strain 129P3/J mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY219549.2	2733	Mus musculus polytropic MLV-related provirus ND1 truncated integrase (pol) gene, partial cds; env gene, complete sequence; and long terminal repeat, partial sequence

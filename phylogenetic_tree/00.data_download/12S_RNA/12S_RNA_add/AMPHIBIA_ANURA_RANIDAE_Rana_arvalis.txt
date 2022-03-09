@@ -1,0 +1,7 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_arvalis	MH105093.1	377	Rana arvalis isolate 12 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_arvalis	MH105092.1	377	Rana arvalis isolate 9 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_arvalis	MH105091.1	377	Rana arvalis isolate 10 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_arvalis	MH105090.1	377	Rana arvalis isolate 11 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_arvalis	KX269197.1	1953	Rana arvalis isolate MSUZP-SLK-MKR21 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_arvalis	AY043045.1	333	Rana arvalis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Rana_arvalis	AB058865.1	407	Rana arvalis gene for12S ribosomal RNA, partial sequence, isolate:arv. L

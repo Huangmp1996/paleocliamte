@@ -1,0 +1,10 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	MN122916.1	13998	Buteo buteo mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AF380305.2	18674	Buteo buteo mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KM364882.1	18231	Buteo buteo burmanicus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	NC_003128.3	18674	Buteo buteo mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AF202187.1	2094	Buteo buteo vulpinus NADH dehydrogenase subunit 6 (ND6) gene, partial cds; tRNA-Glu gene, complete sequence; mitochondrial DNA pseudo-control region, complete sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AF202186.1	2525	Buteo buteo buteo NADH dehydrogenase subunit 6 (ND6) gene, partial cds; tRNA-Glu gene, complete sequence; mitochondrial DNA pseudo-control region, complete sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GQ264612.1	972	Buteo buteo voucher NMW-ML Bbutvul7 12S ribosomal RNA gene, complete sequence; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	EF027298.1	146	Buteo buteo isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	EF027297.1	146	Buteo buteo isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	U83719.1	972	Buteo buteo 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene

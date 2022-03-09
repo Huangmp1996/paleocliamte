@@ -1,0 +1,26 @@
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	LC619119.1	658	Phasianus colchicus FA_40 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	LC619118.1	658	Phasianus colchicus FA_39 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	NC_015526.1	16692	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	MT410882.1	16773	Phasianus colchicus mitochondrion, partial genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GQ482363.1	694	Phasianus colchicus voucher UWBM 75364 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	MK262683.1	648	Phasianus colchicus voucher SP524 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KX818832.1	664	Phasianus colchicus isolate SB131 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KX818831.1	664	Phasianus colchicus isolate SB130 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	JF498885.1	678	Phasianus colchicus voucher USNM:643576 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	AY666562.1	650	Phasianus colchicus voucher 1B-2351 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	AY666332.1	658	Phasianus colchicus voucher 1B-112 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GU572021.1	633	Phasianus colchicus voucher BISE-Aves80 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GU572020.1	648	Phasianus colchicus voucher BISE-Aves464 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GU571543.1	678	Phasianus colchicus voucher NHMO-BC402 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GQ922651.1	699	Phasianus colchicus bio-material A137 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GQ922650.1	699	Phasianus colchicus bio-material A076 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GQ482364.1	694	Phasianus colchicus voucher UWBM 74864 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	GQ482362.1	694	Phasianus colchicus voucher UWBM 46494 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	FJ752430.1	16683	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	EF515775.1	686	Phasianus colchicus voucher KRIBB2203 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KU049722.1	16688	Phasianus colchicus alaschanicus isolate HLSHJZ16688 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	JF739859.1	16692	Phasianus colchicus voucher AHNU:A0035 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KT364526.1	16687	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KJ862136.1	648	Phasianus colchicus voucher B35 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KJ862131.1	648	Phasianus colchicus voucher B12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	JN850750.1	658	Phasianus colchicus isolate S06_1364 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

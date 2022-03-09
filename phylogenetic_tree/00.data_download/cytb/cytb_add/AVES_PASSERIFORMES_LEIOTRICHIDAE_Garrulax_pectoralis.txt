@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	EU447073.1	846	Garrulax pectoralis pingi cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	KJ456287.1	1143	Garrulax pectoralis cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	JF804109.1	619	Garrulax pectoralis isolate 5832 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	JF804064.1	619	Garrulax pectoralis picticollis isolate 1781 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	JN827049.1	1143	Garrulax pectoralis voucher USNM 3537 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	JN827048.1	1143	Garrulax pectoralis voucher KUNHM 11125 cytochrome b (CYTB) gene, complete cds; mitochondrial

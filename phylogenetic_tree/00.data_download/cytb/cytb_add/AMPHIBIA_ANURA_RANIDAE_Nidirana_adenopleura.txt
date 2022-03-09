@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	AB826434.1	1085	Babina adenopleura mitochondrial cytb gene for cytochrome b, partial cds, haplotype: H28
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	KF771319.1	2323	Babina adenopleura NADH dehydrogenase subunit 5 (nad5) gene, partial cds; NADH dehydrogenase subunit 6 (nad6) gene, complete cds; tRNA-Glu (trnE) gene, complete sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	NC_018771.1	18982	Babina adenopleura mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	JX033120.1	18982	Rana adenopleura isolate A-A-WZ001 mitochondrion, complete genome

@@ -1,0 +1,5 @@
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	NW_017731458.1	4018481	Hipposideros armiger isolate ML-2016 unplaced genomic scaffold, ASM189008v1, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	NW_017731781.1	1618426	Hipposideros armiger isolate ML-2016 unplaced genomic scaffold, ASM189008v1, whole genome shotgun sequence
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	NC_018540.1	16784	Hipposideros armiger mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN980966.1	16784	Hipposideros armiger mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	DQ989591.1	615	Hipposideros armiger voucher GZNU200305 12S ribosomal RNA gene, partial sequence; mitochondrial

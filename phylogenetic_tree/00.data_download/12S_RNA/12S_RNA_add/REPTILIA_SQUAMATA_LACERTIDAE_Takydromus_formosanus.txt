@@ -1,0 +1,16 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487179.1	1022	Takydromus formosanus isolate FOR1706_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487178.1	1021	Takydromus formosanus isolate FOR1806_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487177.1	1023	Takydromus formosanus isolate FOR2805_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487176.1	1025	Takydromus formosanus isolate FOR1301_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487175.1	1025	Takydromus formosanus isolate FOR1302_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487174.1	1022	Takydromus formosanus isolate FOR1406_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487173.1	1023	Takydromus formosanus isolate FOR2802_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487172.1	1022	Takydromus formosanus isolate FOR2401_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487171.1	1022	Takydromus formosanus isolate FOR2402_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487170.1	1023	Takydromus formosanus isolate FOR2702_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487169.1	1023	Takydromus formosanus isolate FOR2703_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487168.1	1022	Takydromus formosanus isolate FOR2201_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	KM487167.1	1021	Takydromus formosanus isolate FOR2301_FORW 12S ribosomal RNA and tRNA-Val genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	AF217050.1	1019	Takydromus formosanus 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	AF217049.1	1021	Takydromus formosanus 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_formosanus	AF217048.1	1020	Takydromus formosanus 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products

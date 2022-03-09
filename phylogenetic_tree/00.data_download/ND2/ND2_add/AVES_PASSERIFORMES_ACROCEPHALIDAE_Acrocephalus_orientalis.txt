@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	LC532223.1	16971	Acrocephalus orientalis mitochondrial DNA, nearly complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	NC_046418.1	17960	Acrocephalus orientalis mitochondrion, complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	MG681103.1	17960	Acrocephalus orientalis mitochondrion, complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	KJ453219.1	1077	Acrocephalus orientalis isolate 6675 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	KJ453218.1	1077	Acrocephalus orientalis isolate 6676 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

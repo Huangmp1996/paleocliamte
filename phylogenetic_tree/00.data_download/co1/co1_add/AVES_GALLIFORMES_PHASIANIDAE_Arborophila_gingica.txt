@@ -1,0 +1,12 @@
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	MN868243.1	16727	Arborophila gingica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	FJ752425.1	16728	Arborophila gingica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057877.1	683	Arborophila gingica gingica isolate BM03 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057876.1	683	Arborophila gingica gingica isolate BM02 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057875.1	683	Arborophila gingica guangxiensis isolate BM007 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057874.1	683	Arborophila gingica guangxiensis isolate BM006 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057873.1	683	Arborophila gingica guangxiensis isolate BM005 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057872.1	683	Arborophila gingica guangxiensis isolate BM004 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057871.1	683	Arborophila gingica guangxiensis isolate BM003 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057870.1	683	Arborophila gingica guangxiensis isolate BM002 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KP119036.1	617	Arborophila gingica guangxiensis voucher BM001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KP119035.1	617	Arborophila gingica gingica voucher BM01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

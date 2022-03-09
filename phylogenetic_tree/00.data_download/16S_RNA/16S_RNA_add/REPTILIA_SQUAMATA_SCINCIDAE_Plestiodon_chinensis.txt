@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_chinensis	MH047801.1	531	Plestiodon chinensis voucher DW012SL01003 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_chinensis	MH047800.1	531	Plestiodon chinensis voucher DW012SL01002 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_chinensis	MH047799.1	531	Plestiodon chinensis voucher DW012SL01001 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_chinensis	LC147647.1	1353	Plestiodon chinensis mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R71777
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_chinensis	LC147646.1	1354	Plestiodon chinensis mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R71772

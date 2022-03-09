@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_mugimaki	DQ365017.1	1143	Ficedula mugimaki isolate Fmu-2 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_mugimaki	DQ365016.1	1143	Ficedula mugimaki isolate Fmu-1 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_mugimaki	DQ674505.1	998	Ficedula mugimaki voucher UW_Burke_58451 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_mugimaki	DQ674495.1	998	Ficedula mugimaki voucher UW_Burke_51150 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_mugimaki	KJ930553.1	1143	Ficedula mugimaki voucher KU12753 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_mugimaki	HM633305.1	1075	Ficedula mugimaki voucher DZUG-U325 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	HQ608890.1	1176	Acrocephalus aedon isolate Y33 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	HQ608854.1	1143	Acrocephalus aedon isolate Y34 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	KJ453170.1	662	Acrocephalus aedon isolate 62313 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	JQ173901.1	648	Acrocephalus aedon voucher USNM:Birds:621527 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	JQ173900.1	649	Acrocephalus aedon voucher USNM:Birds:621523 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	JQ173899.1	507	Acrocephalus aedon voucher USNM:Birds:620459 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

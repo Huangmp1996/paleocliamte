@@ -1,0 +1,16 @@
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	NC_054244.1	16921	Aerodramus fuciphagus mitochondrion, complete genome
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	MW074961.1	16921	Aerodramus fuciphagus mitochondrion, complete genome
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944222.1	975	Aerodramus fuciphagus voucher AF-EBN-C2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944221.1	974	Aerodramus fuciphagus voucher AF-EBN-C1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944216.1	974	Aerodramus fuciphagus voucher AF-EBN-S7 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944215.1	974	Aerodramus fuciphagus voucher AF-EBN-S6 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944214.1	971	Aerodramus fuciphagus voucher AF-EBN-S5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944213.1	975	Aerodramus fuciphagus voucher AF-EBN-S4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944212.1	975	Aerodramus fuciphagus voucher AF-EBN-S3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944211.1	974	Aerodramus fuciphagus voucher AF-EBN-S2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KX944210.1	974	Aerodramus fuciphagus voucher AF-EBN-S1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	JQ520013.1	969	Aerodramus fuciphagus voucher IPMB<DEU>:21112 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	AY513106.1	972	Aerodramus fuciphagus voucher HA Thomassen F6 (IBL) 12S ribosomal RNA gene, complete sequence
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	AY513105.1	972	Aerodramus fuciphagus voucher HA Thomassen F3 (IBL) 12S ribosomal RNA gene, complete sequence
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	AY513104.1	971	Aerodramus fuciphagus voucher HA Thomassen F2 (IBL) 12S ribosomal RNA gene, complete sequence
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	AY513103.1	971	Aerodramus fuciphagus voucher HA Thomassen F1 (IBL) 12S ribosomal RNA gene, complete sequence

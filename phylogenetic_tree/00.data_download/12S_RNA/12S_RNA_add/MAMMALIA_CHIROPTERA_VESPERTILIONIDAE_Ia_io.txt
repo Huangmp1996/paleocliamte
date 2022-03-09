@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MZ579648.1	16689	Ia io voucher GZNU-NF-001 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF038684.1	917	Ia io isolate VN11x0688 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	DQ989603.1	686	Ia io voucher GZNU200317 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	DQ989600.1	725	Ia io voucher GZNU200314 12S ribosomal RNA gene, partial sequence; mitochondrial

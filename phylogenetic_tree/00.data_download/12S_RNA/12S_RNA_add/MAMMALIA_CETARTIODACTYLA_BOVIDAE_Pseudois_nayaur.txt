@@ -1,0 +1,11 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	FJ207537.1	16737	Pseudois nayaur mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KP998469.1	16741	Pseudois nayaur szechuanensis voucher YANYANG20150321 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ784494.1	16738	Pseudois nayaur szechuanensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX101653.1	16795	Pseudois nayaur mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX101652.1	16700	Pseudois nayaur nayaur mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	NC_020632.1	16737	Pseudois nayaur mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AY670665.1	959	Pseudois nayaur 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	EU404090.1	381	Pseudois nayaur 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	U86981.1	241	Pseudois nayaur 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF201081.1	838	Pseudois nayaur 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	Y09261.1	393	P.nayaur 12S rRNA gene, partial

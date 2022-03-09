@@ -1,0 +1,13 @@
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KY829450.1	16688	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU845743.1	1023	Alectoris chukar voucher 303 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU845742.1	1023	Alectoris chukar voucher 309 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	DQ307001.1	1041	Alectoris chukar NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214299.1	1023	Alectoris chukar pubescens isolate 305 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214298.1	1023	Alectoris chukar falki isolate 330 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214297.1	1023	Alectoris chukar potanini isolate 306 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214296.1	1023	Alectoris chukar dzungarica isolate 302 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214295.1	1023	Alectoris chukar potanini isolate 307 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ752426.1	16686	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	DQ768273.1	1041	Alectoris chukar NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KT806484.1	16685	Alectoris chukar isolate HLSSJ1508 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	NC_020585.1	16686	Alectoris chukar mitochondrion, complete genome

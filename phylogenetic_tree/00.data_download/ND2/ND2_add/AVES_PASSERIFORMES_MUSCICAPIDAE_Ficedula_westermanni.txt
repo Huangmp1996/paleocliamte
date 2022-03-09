@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	MG546389.1	921	Ficedula westermanni voucher LSUMNS B-88226 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	MG546388.1	1041	Ficedula westermanni voucher LSUMNS B-88117 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	MG546387.1	1041	Ficedula westermanni voucher LSUMNS B-79196 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	MG546386.1	1041	Ficedula westermanni voucher LSUMNS B-79089 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	DQ674452.1	956	Ficedula westermanni voucher FMNH357529 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	KJ455436.1	1025	Ficedula westermanni NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	KJ910000.1	1041	Ficedula westermanni voucher KU19122 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_westermanni	GU358801.1	1041	Ficedula westermanni voucher NRM 20076456 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

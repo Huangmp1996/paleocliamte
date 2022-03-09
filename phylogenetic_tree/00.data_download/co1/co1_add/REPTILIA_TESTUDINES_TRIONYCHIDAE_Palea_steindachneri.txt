@@ -1,0 +1,4 @@
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KX882746.1	16875	Palea steindachneri mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	NC_013841.1	17243	Palea steindachneri mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	HQ329783.1	650	Palea steindachneri isolate 2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	HQ329782.1	650	Palea steindachneri isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

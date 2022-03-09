@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_slowinskii	MT577913.1	1007	Diploderma slowinskii voucher KIZ:027573 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_slowinskii	MT577912.1	1007	Diploderma slowinskii voucher KIZ:027572 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_slowinskii	MT577911.1	1007	Diploderma slowinskii voucher KIZ:027544 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_slowinskii	MT577910.1	1016	Diploderma slowinskii voucher KIZ:027543 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_slowinskii	MK001406.1	600	Diploderma slowinskii voucher CAS214954 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_slowinskii	MK001405.1	630	Diploderma slowinskii voucher CAS214906 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial

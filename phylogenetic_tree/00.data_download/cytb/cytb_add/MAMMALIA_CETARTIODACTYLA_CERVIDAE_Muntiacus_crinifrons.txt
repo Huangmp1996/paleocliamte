@@ -1,0 +1,13 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523664.1	876	Muntiacus crinifrons isolate nmc03 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523663.1	876	Muntiacus crinifrons isolate nmc01 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523662.1	876	Muntiacus crinifrons isolate nmc05 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523661.1	876	Muntiacus crinifrons isolate nmc02 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523660.1	876	Muntiacus crinifrons isolate nmc04 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	DQ445735.1	1140	Muntiacus crinifrons isolate Zy01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	DQ445734.1	1140	Muntiacus crinifrons isolate Dm02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	DQ445733.1	1140	Muntiacus crinifrons isolate Dm01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	DQ445732.1	1140	Muntiacus crinifrons isolate Zy02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	AF042722.1	751	Muntiacus crinifrons cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	AY239042.1	16357	Muntiacus crinifrons mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	AF526506.1	383	Muntiacus crinifrons cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	NC_004577.1	16357	Muntiacus crinifrons mitochondrion, complete genome

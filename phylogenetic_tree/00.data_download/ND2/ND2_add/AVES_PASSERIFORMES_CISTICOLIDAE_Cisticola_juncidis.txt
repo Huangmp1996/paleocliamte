@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CISTICOLIDAE_Cisticola_juncidis	MN356258.1	14903	Cisticola juncidis mitochondrion, partial genome
+AVES_PASSERIFORMES_CISTICOLIDAE_Cisticola_juncidis	KJ455382.1	1041	Cisticola juncidis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Cisticola_juncidis	JX869850.1	1041	Cisticola juncidis voucher NRM 2004 6797 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Cisticola_juncidis	JX259190.1	782	Cisticola juncidis juncidis isolate D53 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

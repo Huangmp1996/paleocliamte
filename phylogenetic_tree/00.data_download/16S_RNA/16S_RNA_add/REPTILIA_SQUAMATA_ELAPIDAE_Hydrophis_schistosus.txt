@@ -1,0 +1,17 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KX239661.1	1322	Hydrophis schistosus 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966206.1	510	Hydrophis schistosus voucher MZB12126 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966205.1	517	Hydrophis schistosus voucher KLS0169 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966204.1	449	Hydrophis schistosus voucher KLS0088 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966203.1	471	Hydrophis schistosus voucher KLS0028 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966202.1	468	Hydrophis schistosus voucher KLS0027 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966201.1	460	Hydrophis schistosus voucher KLS0020 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966200.1	476	Hydrophis schistosus voucher KLS0007 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966199.1	518	Hydrophis schistosus voucher IR002 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966198.1	518	Hydrophis schistosus voucher IR001 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966197.1	465	Hydrophis schistosus voucher CAS229885 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987142.1	467	Hydrophis schistosa voucher KLS0026 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987141.1	473	Hydrophis schistosa voucher KLS0024 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987140.1	438	Hydrophis schistosa voucher KLS0023 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987139.1	472	Hydrophis schistosa voucher MZB Ophi 12123 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987138.1	459	Hydrophis schistosa voucher MZB Ophi 12121 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	FJ587210.1	485	Enhydrina schistosa voucher QMJ79014 16S ribosomal RNA gene, partial sequence; mitochondrial

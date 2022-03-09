@@ -1,0 +1,7 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	NC_046927.1	16655	Rousettus leschenaultii isolate CKM109 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MN816355.1	16703	Rousettus leschenaultii isolate VN431 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MN816354.1	16655	Rousettus leschenaultii isolate CKM109 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	KF059976.1	562	Rousettus leschenaultii voucher NHM.OU.CHI.28.2012 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	JN398190.1	2458	Rousettus leschenaultii 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	AB293941.1	1574	Rousettus leschenaulti mitochondrial gene for 16S ribosomal RNA
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	AF044631.1	553	Rousettus leschenaulti 16S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

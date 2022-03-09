@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	KX388476.1	16768	Machlolophus spilonotus isolate 3026 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	KF183842.1	1041	Machlolophus spilonotus subviridis voucher NRM 570754 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	KF183841.1	1041	Machlolophus spilonotus basileus voucher NRM 570753 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	KF183840.1	1041	Machlolophus spilonotus rex voucher NRM 20086493 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	JX221716.1	1034	Parus spilonotus isolate CA22 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial

@@ -1,0 +1,29 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120840.1	1043	Eremias brenchleyi haplotype EB27 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120839.1	1043	Eremias brenchleyi haplotype EB26 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120838.1	1043	Eremias brenchleyi haplotype EB25 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120837.1	1043	Eremias brenchleyi haplotype EB24 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120836.1	1043	Eremias brenchleyi haplotype EB23 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120835.1	1043	Eremias brenchleyi haplotype EB22 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120834.1	1043	Eremias brenchleyi haplotype EB21 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120833.1	1043	Eremias brenchleyi haplotype EB20 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120832.1	1043	Eremias brenchleyi haplotype EB19 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120831.1	1043	Eremias brenchleyi haplotype EB17 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120830.1	1043	Eremias brenchleyi haplotype EB18 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120829.1	1043	Eremias brenchleyi haplotype EB16 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120828.1	1043	Eremias brenchleyi haplotype EB15 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120827.1	1043	Eremias brenchleyi haplotype EB14 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120826.1	1043	Eremias brenchleyi haplotype EB10 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120825.1	1043	Eremias brenchleyi haplotype EB9 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120824.1	1043	Eremias brenchleyi haplotype EB8 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120823.1	1043	Eremias brenchleyi haplotype EB11 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120822.1	1043	Eremias brenchleyi haplotype EB7 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120821.1	1043	Eremias brenchleyi haplotype EB6 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120820.1	1043	Eremias brenchleyi haplotype EB5 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120819.1	1043	Eremias brenchleyi haplotype EB4 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120818.1	1043	Eremias brenchleyi haplotype EB13 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120817.1	1043	Eremias brenchleyi haplotype EB12 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120816.1	1043	Eremias brenchleyi haplotype EB3 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120815.1	1043	Eremias brenchleyi haplotype EB2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HM120814.1	1043	Eremias brenchleyi haplotype EB1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	EF490071.1	19542	Eremias brenchleyi mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	NC_011764.1	19542	Eremias brenchleyi mitochondrion, complete genome

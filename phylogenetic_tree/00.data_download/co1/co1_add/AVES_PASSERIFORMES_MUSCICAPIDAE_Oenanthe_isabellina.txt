@@ -1,0 +1,21 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	GQ482264.1	694	Oenanthe isabellina voucher UWBM 66620 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	GQ482263.1	694	Oenanthe isabellina voucher UWBM 56910 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	GQ482261.1	694	Oenanthe isabellina voucher UWBM 59787 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	NC_040290.1	16812	Oenanthe isabellina mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	KU097327.1	16812	Oenanthe isabellina mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	MF580203.1	658	Oenanthe isabellina voucher USNM:Birds:653377 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	MF580185.1	658	Oenanthe isabellina voucher USNM:Birds:653261 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	MF580174.1	658	Oenanthe isabellina voucher USNM:Birds:653284 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	JF498802.1	694	Oenanthe isabellina voucher USNM 641308 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	GQ482265.1	694	Oenanthe isabellina voucher UWBM 46247 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	GQ482262.1	694	Oenanthe isabellina voucher UWBM 46461 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	KP252233.1	652	Oenanthe isabellina voucher USNM 645935 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	KP252232.1	652	Oenanthe isabellina voucher USNM 645936 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	KP252231.1	652	Oenanthe isabellina voucher USNM 645952 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	KP252230.1	652	Oenanthe isabellina voucher USNM 645937 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	DQ683495.1	667	Oenanthe isabellina voucher MIUT200390 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	DQ683494.1	667	Oenanthe isabellina voucher BMNHA2005.2.3 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	DQ683493.1	667	Oenanthe isabellina voucher BMNHA2005.2.2 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	DQ683492.1	667	Oenanthe isabellina voucher BMNHA2005.2.1 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	DQ683491.1	667	Oenanthe isabellina voucher BMNHA2005.2.12 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_isabellina	DQ683490.1	667	Oenanthe isabellina voucher MIUT200384 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial

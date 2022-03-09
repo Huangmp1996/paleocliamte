@@ -1,0 +1,32 @@
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	NC_009629.2	16680	Camelus ferus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	EF212038.2	16680	Camelus bactrianus ferus isolate W1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109930.1	16675	Camelus ferus isolate camel106 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109929.1	16671	Camelus ferus isolate camel105 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109928.1	16665	Camelus ferus isolate camel104 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109927.1	16671	Camelus ferus isolate camel103 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109926.1	16667	Camelus ferus isolate camel102 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109925.1	16583	Camelus ferus isolate camel101 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109924.1	16651	Camelus ferus isolate camel100 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109923.1	16669	Camelus ferus isolate camel099 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109922.1	16657	Camelus ferus isolate camel098 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109921.1	16655	Camelus ferus isolate camel097 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109920.1	16671	Camelus ferus isolate camel096 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109919.1	16657	Camelus ferus isolate camel095 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109918.1	16605	Camelus ferus isolate camel094 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109917.1	16671	Camelus ferus isolate camel093 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109916.1	16667	Camelus ferus isolate camel092 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109915.1	16585	Camelus ferus isolate camel091 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109914.1	16583	Camelus ferus isolate camel090 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109913.1	16683	Camelus ferus isolate camel089 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	MH109912.1	16623	Camelus ferus isolate camel088 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666459.1	16397	Camelus ferus isolate WC305 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666458.1	16397	Camelus ferus isolate WC304 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666457.1	16397	Camelus ferus isolate WC303 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666456.1	16397	Camelus ferus isolate WC247 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666455.1	16397	Camelus ferus isolate WC220 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666454.1	16397	Camelus ferus isolate WC219 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666453.1	16397	Camelus ferus isolate WC218 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666452.1	16397	Camelus ferus isolate WC216 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	KU666451.1	16397	Camelus ferus isolate WC214 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	EF507801.2	16651	Camelus ferus isolate W3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CAMELIDAE_Camelus_ferus	EF507800.2	16670	Camelus ferus isolate W2 mitochondrion, complete genome

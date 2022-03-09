@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	NC_027284.1	16832	Prunella montanella mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	KR422695.1	16832	Prunella montanella mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	AF447253.1	860	Prunella montanella 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	AF407082.1	1009	Prunella montanella tRNA-Phe gene, partial sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

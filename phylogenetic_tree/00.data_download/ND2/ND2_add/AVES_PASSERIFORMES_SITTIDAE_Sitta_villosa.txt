@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	NC_051513.1	16816	Sitta villosa mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT439993.1	1000	Sitta villosa voucher MAR358 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT439977.1	1012	Sitta villosa voucher MAR8803 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT444149.1	16816	Sitta villosa mitochondrion, complete genome

@@ -1,0 +1,100 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837636.1	16290	Martes zibellina isolate WQ6 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837635.1	16290	Martes zibellina isolate WQ4 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837634.1	16290	Martes zibellina isolate WQ3 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837633.1	16290	Martes zibellina isolate WQ2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837632.1	16292	Martes zibellina isolate WQ1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837631.1	16290	Martes zibellina isolate SZ5 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837630.1	16290	Martes zibellina isolate SZ4 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837629.1	16290	Martes zibellina isolate SZ3 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837628.1	16290	Martes zibellina isolate SZ2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837627.1	16290	Martes zibellina isolate SZ1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837626.1	16291	Martes zibellina isolate YC27 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837625.1	16292	Martes zibellina isolate YC25 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837624.1	16291	Martes zibellina isolate YC22 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837623.1	16291	Martes zibellina isolate YC21 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837622.1	16290	Martes zibellina isolate YC20 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837621.1	16291	Martes zibellina isolate YC19 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837620.1	16290	Martes zibellina isolate YC18 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837619.1	16290	Martes zibellina isolate YC17 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837618.1	16290	Martes zibellina isolate YC16 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837617.1	16292	Martes zibellina isolate WS71 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837616.1	16292	Martes zibellina isolate WS67 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837615.1	16291	Martes zibellina isolate WS65 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837614.1	16290	Martes zibellina isolate VR120 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837613.1	16291	Martes zibellina isolate VR115 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837612.1	16290	Martes zibellina isolate TQ13 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837611.1	16290	Martes zibellina isolate TQ12 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837610.1	16290	Martes zibellina isolate TQ11 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837609.1	16289	Martes zibellina isolate TQ10 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837608.1	16290	Martes zibellina isolate TQ9 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837607.1	16290	Martes zibellina isolate TQ8 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837606.1	16290	Martes zibellina isolate TQ7 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837605.1	16291	Martes zibellina isolate TQ5 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837604.1	16290	Martes zibellina isolate TQ4 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837603.1	16291	Martes zibellina isolate TQ3 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837602.1	16290	Martes zibellina isolate TQ2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837601.1	16290	Martes zibellina isolate TQ1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837600.1	16292	Martes zibellina isolate RA2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837599.1	16290	Martes zibellina isolate LB1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837598.1	16292	Martes zibellina isolate KL4 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837597.1	16290	Martes zibellina isolate KDM15 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837596.1	16290	Martes zibellina isolate KDM13 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837595.1	16290	Martes zibellina isolate DR46 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837594.1	16292	Martes zibellina isolate DR44 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837593.1	16290	Martes zibellina isolate DR38 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837592.1	16290	Martes zibellina isolate DR34 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837591.1	16292	Martes zibellina isolate CR97 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837590.1	16290	Martes zibellina isolate CR94 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837589.1	16290	Martes zibellina isolate WQ8 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837588.1	16290	Martes zibellina isolate WH5 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837587.1	16290	Martes zibellina isolate WH4 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837586.1	16290	Martes zibellina isolate WH3 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837585.1	16290	Martes zibellina isolate WH2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837584.1	16292	Martes zibellina isolate WH1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837583.1	16290	Martes zibellina isolate SZ21 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837582.1	16289	Martes zibellina isolate SZ18 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837581.1	16290	Martes zibellina isolate SZ15 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837580.1	16290	Martes zibellina isolate SZ13 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837579.1	16290	Martes zibellina isolate SZ6 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837578.1	16289	Martes zibellina isolate RA1 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837577.1	16290	Martes zibellina isolate WQ41 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837576.1	16290	Martes zibellina isolate WQ25 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837575.1	16290	Martes zibellina isolate WQ15 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	MG837574.1	16290	Martes zibellina isolate WQ9 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626048.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Tetsuji Hosoda:TH53
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626047.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Tetsuji Hosoda:TH44
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626046.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Tetsuji Hosoda:TH43
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626045.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Hitoshi Suzuki:HS4715
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626044.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Hitoshi Suzuki:HS4705
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626043.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Hitoshi Suzuki:HS4701
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626042.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Hitoshi Suzuki:HS3865
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626041.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Hitoshi Suzuki:HS3864
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626040.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Hitoshi Suzuki:HS3863
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626039.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1701
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626038.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1700
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626037.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1699
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626036.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1646
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626035.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1645
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626034.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1644
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626033.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1336
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626032.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1288
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626031.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1287
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626030.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1286
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626029.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1285
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626028.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1269
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626027.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1216
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626026.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1215
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626025.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1214
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626024.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1213
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626023.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1212
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626022.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1211
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626021.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1210
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626020.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK739
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626019.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1694
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626018.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1693
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626017.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1692
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626016.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1691
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626015.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1690
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626014.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1689
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626013.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1655
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_zibellina	AB626012.1	976	Martes zibellina mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: personal:Alexey P Kryukov:AK1654

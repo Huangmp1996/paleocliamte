@@ -1,0 +1,47 @@
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177477.1	16459	Andrias davidianus voucher ROM:11055 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177476.1	16449	Andrias davidianus voucher ROM:11054 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177475.1	16460	Andrias davidianus voucher ROM:11053 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177474.1	16465	Andrias davidianus voucher ROM:11052 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177473.1	16415	Andrias davidianus voucher ROM:11048 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177472.1	16446	Andrias davidianus voucher ROM:11047 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177471.1	16348	Andrias davidianus voucher ROM:11045 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177470.1	16316	Andrias davidianus voucher ROM:11041 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177469.1	16344	Andrias davidianus voucher NHM:1945.11.7.1 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177468.1	16464	Andrias davidianus voucher NHM:1909.7.22.1 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177467.1	16459	Andrias davidianus voucher MCZA2853 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177466.1	16449	Andrias davidianus voucher NMNH:52409 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177465.1	16447	Andrias davidianus voucher ZMB:24105 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177464.1	16422	Andrias davidianus voucher ROM:11039 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177463.1	16461	Andrias davidianus voucher ROM:11038 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177462.1	16451	Andrias davidianus voucher ROM:11037 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177461.1	16463	Andrias davidianus voucher ROM:11036 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131061.1	16566	Andrias davidianus isolate HNSZSDJ82 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131060.1	16567	Andrias davidianus isolate AHHS695 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131059.1	16564	Andrias davidianus isolate ZJLSQY680 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131058.1	16568	Andrias davidianus isolate SXTBYG677 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131057.1	16567	Andrias davidianus isolate SXSLZS672 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131056.1	16800	Andrias davidianus isolate GXXA609 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131055.1	16503	Andrias davidianus isolate GXZY587 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131054.1	16500	Andrias davidianus isolate GZGDYX583 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131053.1	16567	Andrias davidianus isolate YNYL551 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131052.1	16500	Andrias davidianus isolate HNLS55 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131051.1	16501	Andrias davidianus isolate CQWL481 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131050.1	16498	Andrias davidianus isolate HNWMY48 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131049.1	16567	Andrias davidianus isolate HNLC409 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131048.1	16568	Andrias davidianus isolate HNJY390 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131047.1	16566	Andrias davidianus isolate SXYQLS371 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131046.1	16570	Andrias davidianus isolate GDLZ365 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131045.1	16570	Andrias davidianus isolate JXJGS352 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131044.1	16596	Andrias davidianus isolate JXJA336 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131043.1	16566	Andrias davidianus isolate SCMB244 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131042.1	16834	Andrias davidianus isolate GSTS240 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131041.1	16498	Andrias davidianus isolate GXRS226 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131040.1	16567	Andrias davidianus isolate SXTB202 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX298242.1	16497	Andrias davidianus isolate JZ voucher HS16095 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX298241.1	16568	Andrias davidianus isolate HZ voucher HS16093 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX298240.1	16567	Andrias davidianus isolate HQ voucher HS16092 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX298239.1	16569	Andrias davidianus isolate HB voucher HS16094 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX268733.1	16565	Andrias davidianus voucher HS16091 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	NC_004926.1	16503	Andrias davidianus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	AY915966.1	1053	Andrias davidianus voucher MVZ204245 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	AJ492192.1	16503	Andrias davidianus complete mitochondrial genome

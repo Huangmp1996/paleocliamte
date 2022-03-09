@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_rugifera	NC_029409.1	17074	Kaloula rugifera mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_rugifera	KT878719.1	17074	Kaloula rugifera mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_rugifera	KC567237.1	538	Kaloula rugifera voucher CIB20110802028 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_rugifera	JX678912.1	1164	Kaloula rugifera voucher KIZHERP071602 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_rugifera	JX678911.1	1186	Kaloula rugifera voucher KIZHERP071601 16S ribosomal RNA gene, partial sequence; mitochondrial

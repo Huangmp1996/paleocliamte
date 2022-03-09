@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329530.1	1046	Apodemus peninsulae isolate TH0905016 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329471.1	1046	Apodemus peninsulae isolate HLJ153 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329468.1	1046	Apodemus peninsulae isolate HLJ121 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329422.1	1046	Apodemus peninsulae isolate 14ML007 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329420.1	1046	Apodemus peninsulae isolate 14ML003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329413.1	1046	Apodemus peninsulae isolate 14BK013 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MK329412.1	1046	Apodemus peninsulae isolate 14BK012 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT983422.1	632	Apodemus peninsulae isolate 26-13 cytochrome B gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748239.1	1072	Apodemus peninsulae isolate QH12238 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748219.1	1071	Apodemus peninsulae isolate XJ178 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748201.1	1071	Apodemus peninsulae isolate SX10010 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748199.1	1071	Apodemus peninsulae isolate SQ12014 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748198.1	1071	Apodemus peninsulae isolate SQ12006 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748195.1	1071	Apodemus peninsulae isolate QH13035 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748193.1	1071	Apodemus peninsulae isolate QH13003 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748179.1	1071	Apodemus peninsulae isolate HLE101 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748178.1	1071	Apodemus peninsulae isolate HLE028 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748177.1	1071	Apodemus peninsulae isolate HLE026 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MG748168.1	1071	Apodemus peninsulae isolate 09RAP152 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143542.1	1098	Apodemus peninsulae isolate 12-338 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143541.1	1098	Apodemus peninsulae isolate 11-336 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143540.1	1098	Apodemus peninsulae isolate 10-303 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143539.1	1098	Apodemus peninsulae isolate 9-257 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143538.1	1098	Apodemus peninsulae isolate 8-249 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143537.1	1098	Apodemus peninsulae isolate 7-230 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143536.1	1098	Apodemus peninsulae isolate 6-222 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143535.1	1098	Apodemus peninsulae isolate 5-213 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143534.1	1098	Apodemus peninsulae isolate 4-208 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143533.1	1098	Apodemus peninsulae isolate 3-198 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143532.1	1098	Apodemus peninsulae isolate 2-186 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143531.1	1098	Apodemus peninsulae isolate 1-168 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143530.1	1098	Apodemus peninsulae isolate 019-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143529.1	1098	Apodemus peninsulae isolate 017-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143528.1	1098	Apodemus peninsulae isolate 013-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143527.1	1098	Apodemus peninsulae isolate 012-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143526.1	1098	Apodemus peninsulae isolate 07-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143525.1	1098	Apodemus peninsulae isolate 06-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143524.1	1098	Apodemus peninsulae isolate 04-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143523.1	1098	Apodemus peninsulae isolate 03-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143522.1	1098	Apodemus peninsulae isolate 02-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	MF143521.1	1098	Apodemus peninsulae isolate 01-11TK cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AF427338.1	1087	Apodemus peninsulae isolate AP1371 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AF427337.1	1087	Apodemus peninsulae isolate AP1168 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AF427336.1	1087	Apodemus peninsulae isolate AP708 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AF427335.1	1087	Apodemus peninsulae isolate AP681 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX756225.1	399	Apodemus peninsulae clone Pben2_39 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX756224.1	399	Apodemus peninsulae clone Pben2_33 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX756223.1	399	Apodemus peninsulae clone Pben2_27 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX756222.1	399	Apodemus peninsulae clone Pben2_17 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX756221.1	399	Apodemus peninsulae clone Pben2_15 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX756207.1	399	Apodemus peninsulae clone Pben1_8 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX756206.1	399	Apodemus peninsulae clone Pben1_17 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX066075.1	1140	Apodemus peninsulae strain NMAp57 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KX066074.1	1140	Apodemus peninsulae strain NMAp117 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	JN546584.1	16269	Apodemus peninsulae mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AY389003.1	1140	Apodemus peninsulae isolate IOZAP005 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AY389002.1	1140	Apodemus peninsulae isolate IOZAP004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AY389001.1	1140	Apodemus peninsulae isolate IOZAP003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AY389000.1	1140	Apodemus peninsulae isolate IOZAP002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AY388999.1	1140	Apodemus peninsulae isolate IOZAP001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AF264192.1	319	Apodemus peninsulae sowerbyi isolate T12 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AF264191.1	319	Apodemus peninsulae sowerbyi isolate T9 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AF264190.1	319	Apodemus peninsulae sowerbyi isolate N5 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	AF264189.1	319	Apodemus peninsulae preator cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364388.1	992	Apodemus peninsulae isolate H4_JR_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364387.1	992	Apodemus peninsulae isolate H19_TB_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364386.1	992	Apodemus peninsulae isolate H18_TB_2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364385.1	992	Apodemus peninsulae isolate H18_TB_1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364384.1	992	Apodemus peninsulae isolate H17_TB_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364383.1	992	Apodemus peninsulae isolate H16_TB_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364382.1	992	Apodemus peninsulae isolate H15_TB_2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364381.1	992	Apodemus peninsulae isolate H15_TB_1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364380.1	992	Apodemus peninsulae isolate H14_TB_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364379.1	992	Apodemus peninsulae isolate H13_TB_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364378.1	992	Apodemus peninsulae isolate H23_JB_2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364377.1	992	Apodemus peninsulae isolate H22_BH_2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364376.1	992	Apodemus peninsulae isolate H22_BH_1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364375.1	992	Apodemus peninsulae isolate H21_BH_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364374.1	992	Apodemus peninsulae isolate H20_BH_2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364373.1	992	Apodemus peninsulae isolate H20_BH_1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364372.1	992	Apodemus peninsulae isolate H29_HC_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364371.1	992	Apodemus peninsulae isolate H12_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364370.1	992	Apodemus peninsulae isolate H11_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364369.1	992	Apodemus peninsulae isolate H10_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364368.1	992	Apodemus peninsulae isolate H9_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364367.1	992	Apodemus peninsulae isolate H8_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364366.1	992	Apodemus peninsulae isolate H7_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364365.1	992	Apodemus peninsulae isolate H6_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364364.1	992	Apodemus peninsulae isolate H5_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364363.1	992	Apodemus peninsulae isolate H4_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364362.1	992	Apodemus peninsulae isolate H3_OD_2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364361.1	992	Apodemus peninsulae isolate H3_OD_1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364360.1	992	Apodemus peninsulae isolate H2_OD_3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364359.1	992	Apodemus peninsulae isolate H2_OD_2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364358.1	992	Apodemus peninsulae isolate H2_OD_1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364357.1	992	Apodemus peninsulae isolate H1_OD_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364356.1	992	Apodemus peninsulae isolate H28_JB_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364355.1	992	Apodemus peninsulae isolate H27_JB_ cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364354.1	992	Apodemus peninsulae isolate H26_JB_2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_peninsulae	KT364353.1	992	Apodemus peninsulae isolate H26_JB_1 cytochrome b gene, partial cds; mitochondrial

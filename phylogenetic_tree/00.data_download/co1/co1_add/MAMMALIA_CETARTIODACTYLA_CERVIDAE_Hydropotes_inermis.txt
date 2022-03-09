@@ -1,0 +1,40 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	MN746502.1	16355	Hydropotes inermis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	JF802125.1	16356	Hydropotes inermis argyropus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993109.1	516	Hydropotes inermis isolate HI9 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993108.1	516	Hydropotes inermis isolate HI8 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993107.1	516	Hydropotes inermis isolate HI7 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993106.1	516	Hydropotes inermis isolate HI6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993105.1	516	Hydropotes inermis isolate HI5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993104.1	516	Hydropotes inermis isolate HI4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993103.1	516	Hydropotes inermis isolate HI3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993102.1	516	Hydropotes inermis isolate HI2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP993101.1	516	Hydropotes inermis isolate HI1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	NC_011821.1	16355	Hydropotes inermis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EU315254.1	16355	Hydropotes inermis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	JN632649.1	16354	Hydropotes inermis isolate H6 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100324.1	681	Hydropotes inermis argyropus strain JR20 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100323.1	681	Hydropotes inermis argyropus strain JR19 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100322.1	681	Hydropotes inermis argyropus strain JR18 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100321.1	681	Hydropotes inermis argyropus strain JR17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100320.1	681	Hydropotes inermis argyropus strain JR16 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100319.1	681	Hydropotes inermis argyropus strain HC23 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100318.1	681	Hydropotes inermis argyropus strain YG9 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100317.1	681	Hydropotes inermis argyropus strain YG8 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100316.1	681	Hydropotes inermis argyropus strain YG7 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100315.1	681	Hydropotes inermis argyropus strain YG6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100314.1	681	Hydropotes inermis argyropus strain YG5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100313.1	681	Hydropotes inermis argyropus strain YG4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100312.1	681	Hydropotes inermis argyropus strain YG3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100311.1	681	Hydropotes inermis argyropus strain YG1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100310.1	681	Hydropotes inermis argyropus strain SC24 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100309.1	681	Hydropotes inermis argyropus strain SC22 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100308.1	681	Hydropotes inermis argyropus strain SC21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP100307.1	681	Hydropotes inermis argyropus strain SC15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP203884.1	16355	Hydropotes inermis argyropus strain SC15 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KF509983.1	676	Hydropotes inermis voucher jdzg cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	JX254914.2	16355	Hydropotes inermis argyropus strain HC23 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	NC_018032.1	16356	Hydropotes inermis argyropus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	GQ329030.1	658	Hydropotes inermis ZJU:CLS438 HYIN-T-Z003 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	GQ329029.1	658	Hydropotes inermis ZJU:CLS438 HYIN-T-D03 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	GQ329028.1	658	Hydropotes inermis ZJU:CLS438 HYIN-T-D02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	GQ329027.1	658	Hydropotes inermis ZJU:CLS438 HYIN-T-D01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

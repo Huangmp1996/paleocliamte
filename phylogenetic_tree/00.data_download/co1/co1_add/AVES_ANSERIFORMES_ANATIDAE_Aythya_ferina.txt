@@ -1,0 +1,10 @@
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	MW337298.1	16599	Aythya ferina mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	JF499098.1	694	Aythya ferina voucher USNM:641838 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	JF499097.1	671	Aythya ferina voucher USNM:641912 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	GU571748.1	648	Aythya ferina voucher BISE-Aves218 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	GU571747.1	648	Aythya ferina voucher BISE-Aves410 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	EF515740.1	686	Aythya ferina voucher KRIBB657 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	AB843370.1	600	Aythya ferina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO027-10
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	AB842577.1	668	Aythya ferina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM077-08
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	NC_024602.1	16616	Aythya ferina mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Aythya_ferina	KJ710708.1	16616	Aythya ferina mitochondrion, complete genome

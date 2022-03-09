@@ -1,0 +1,17 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	LC541450.1	16743	Schoeniclus yessoensis yessoensis 2003-5366 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	GQ481851.1	694	Schoeniclus yessoensis voucher UWBM 59941 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	GQ481850.1	680	Schoeniclus yessoensis voucher UWBM 72157 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	GQ481849.1	678	Schoeniclus yessoensis voucher UWBM 75466 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	GQ481848.1	675	Schoeniclus yessoensis voucher UWBM 72135 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB843497.1	683	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO024-08
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB843496.1	693	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO449-10
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB843495.1	681	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO280-10
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB842754.1	710	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM725-11
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB842753.1	716	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM717-11
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB842752.1	712	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM033-08
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB842751.1	629	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM114-10
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB842750.1	667	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM113-10
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB842749.1	676	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM043-08
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB842748.1	629	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM646-10
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	AB842747.1	637	Schoeniclus yessoensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM226-10
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_yessoensis	KP877688.1	695	Schoeniclus yessoensis continentalis isolate MAR4883 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

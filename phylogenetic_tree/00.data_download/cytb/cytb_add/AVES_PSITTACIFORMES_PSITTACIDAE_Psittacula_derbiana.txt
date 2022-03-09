@@ -1,0 +1,7 @@
+AVES_PSITTACIFORMES_PSITTACIDAE_Psittacula_derbiana	NC_042409.1	16887	Psittacula derbiana mitochondrion, complete genome
+AVES_PSITTACIFORMES_PSITTACIDAE_Psittacula_derbiana	KM372563.1	1125	Psittacula derbiana isolate 35019 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Psittacula_derbiana	KM372562.1	1125	Psittacula derbiana isolate 35018 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Psittacula_derbiana	MK343133.1	16887	Psittacula derbiana mitochondrion, complete genome
+AVES_PSITTACIFORMES_PSITTACIDAE_Psittacula_derbiana	AY220103.1	407	Psittacula derbiana cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PSITTACIFORMES_PSITTACIDAE_Psittacula_derbiana	AF346388.1	740	Psittacula derbiana isolate 69 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Psittacula_derbiana	AF346387.1	703	Psittacula derbiana isolate 68 cytochrome b (cytb) gene, partial cds; mitochondrial

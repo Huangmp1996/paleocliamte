@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_guttaticollis	EU447104.1	846	Paradoxornis guttaticollis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_guttaticollis	DQ008488.1	1038	Paradoxornis guttaticollis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_guttaticollis	JF756740.1	1143	Paradoxornis guttaticollis voucher NTNU T3023 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_guttaticollis	JF756739.1	1143	Paradoxornis guttaticollis voucher NTNU T3022 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_guttaticollis	JF756738.1	1143	Paradoxornis guttaticollis voucher NTNU T1797 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_guttaticollis	AF484874.1	477	Paradoxornis guttaticollis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_guttaticollis	JX565695.1	1105	Paradoxornis guttaticollis voucher IOZ6434 cytochrome b (cytb) gene, partial cds; mitochondrial

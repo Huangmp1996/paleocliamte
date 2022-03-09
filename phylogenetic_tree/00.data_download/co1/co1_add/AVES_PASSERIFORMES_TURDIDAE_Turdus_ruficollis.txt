@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	NC_057250.1	16737	Turdus ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	MT712159.1	16737	Turdus ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	GQ482871.1	694	Turdus ruficollis voucher UWBM 56711 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	GQ482870.1	694	Turdus ruficollis voucher UWBM 58023 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	GQ482869.1	694	Turdus ruficollis voucher UWBM 46282 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	GQ482868.1	694	Turdus ruficollis voucher UWBM 66709 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	GQ482867.1	694	Turdus ruficollis voucher UWBM 73524 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	GQ482866.1	694	Turdus ruficollis voucher ZMMU 279\2000 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	GQ482865.1	694	Turdus ruficollis voucher ZMMU 223\1999 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	GQ482864.1	694	Turdus ruficollis voucher ZMMU 203\1999 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

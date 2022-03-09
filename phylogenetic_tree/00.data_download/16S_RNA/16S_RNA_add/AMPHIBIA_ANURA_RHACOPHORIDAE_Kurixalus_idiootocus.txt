@@ -1,0 +1,9 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	DQ283054.1	2402	Kurixalus idiootocus voucher UMFS 5702 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	AB933306.1	2428	Kurixalus idiootocus mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: KUHE:12979
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	EU215547.1	1950	Kurixalus idiootocus voucher SCUM 061107L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	GQ204686.1	550	Kurixalus idiootocus voucher ZRC1.1.5276 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	AY141852.2	550	Chirixalus idiootocus voucher ZRC.1.5276 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	DQ468674.1	550	Kurixalus idiootocus voucher A127 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	AF458129.1	1931	Chirixalus idiootocus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	DQ286994.1	591	Kurixalus idiootocus voucher CAS 211366 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_idiootocus	AF026364.1	458	Chirixalus idiooticus 16S ribosomal RNA gene, partial sequence, mitochondrial gene for mitochondrial RNA

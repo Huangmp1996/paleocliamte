@@ -1,0 +1,57 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047735.1	396	Gekko gecko voucher DW001GJ09003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047734.1	396	Gekko gecko voucher DW001GJ09002 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047733.1	396	Gekko gecko voucher DW001GJ09001 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047732.1	396	Gekko gecko voucher DW001GJ08004 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047731.1	396	Gekko gecko voucher DW001GJ08003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047730.1	396	Gekko gecko voucher DW001GJ08002 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047729.1	396	Gekko gecko voucher DW001GJ07004 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047728.1	396	Gekko gecko voucher DW001GJ07003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047727.1	396	Gekko gecko voucher DW001GJ07002 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047726.1	396	Gekko gecko voucher DW001GJ07001 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047725.1	396	Gekko gecko voucher DW001GJ06004 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047724.1	396	Gekko gecko voucher DW001GJ06003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047723.1	396	Gekko gecko voucher DW001GJ06002 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047722.1	396	Gekko gecko voucher DW001GJ06001 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047721.1	396	Gekko gecko voucher DW001GJ05004 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047720.1	396	Gekko gecko voucher DW001GJ05003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047719.1	396	Gekko gecko voucher DW001GJ05001 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047718.1	396	Gekko gecko voucher DW001GJ04005 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047717.1	396	Gekko gecko voucher DW001GJ04004 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047716.1	396	Gekko gecko voucher DW001GJ04003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047715.1	396	Gekko gecko voucher DW001GJ03003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047714.1	396	Gekko gecko voucher DW001GJ03002 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047713.1	396	Gekko gecko voucher DW001GJ03001 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047712.1	396	Gekko gecko voucher DW001GJ10034 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047711.1	396	Gekko gecko voucher DW001GJ10033 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047710.1	396	Gekko gecko voucher DW001GJ10032 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047709.1	396	Gekko gecko voucher DW001GJ10003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047708.1	396	Gekko gecko voucher DW001GJ10002 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047707.1	396	Gekko gecko voucher DW001GJ10001 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	MH047706.1	396	Gekko gecko voucher DW001GJ02001 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	AY282753.1	16435	Gekko gecko mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	HM370130.1	16591	Gekko gecko LW1 mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258149.1	369	Gekko gecko voucher 2011R9035 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258148.1	369	Gekko gecko voucher 2011R9034 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258147.1	369	Gekko gecko voucher 2011R9033 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258146.1	369	Gekko gecko voucher 2011R9032 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258145.1	369	Gekko gecko voucher 2011R9031 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258144.1	369	Gekko gecko voucher 2011R9030 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258143.1	367	Gekko gecko voucher 2011R9029 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258142.1	369	Gekko gecko voucher 2011R9028 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258141.1	369	Gekko gecko voucher 2011R9026 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258140.1	369	Gekko gecko voucher 2011R9025 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258139.1	364	Gekko gecko voucher 2011R5023 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258138.1	369	Gekko gecko voucher 2011R5022 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258134.1	371	Gekko gecko voucher 2011R3021 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	KF258131.1	366	Gekko gecko voucher 2011R0042 12S ribosomal RNA gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	NC_007627.1	16435	Gekko gecko mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	DQ852700.1	962	Gekko gecko 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	AB028744.1	395	Gekko gecko mitochondrial gene for 12S rRNA, partial sequence
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	DQ096532.1	428	Gekko gecko isolate R3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	DQ096531.1	431	Gekko gecko isolate R2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	DQ096530.1	434	Gekko gecko isolate R1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	DQ096529.1	433	Gekko gecko isolate B3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	DQ096528.1	432	Gekko gecko isolate B2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	DQ093192.1	422	Gekko gecko isolate B1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	AF236820.1	395	Gekko gecko haplotype Gg2 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	AF236819.1	385	Gekko gecko haplotype Gg1 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

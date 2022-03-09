@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	MN122895.1	16928	Corvus corax mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245148.1	16770	Corvus corax isolate 83717 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245146.1	16791	Corvus corax isolate 70151 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245145.1	16764	Corvus corax isolate 30935 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245142.1	16715	Corvus corax isolate 70160 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245141.1	16928	Corvus corax isolate 35585 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245140.1	16703	Corvus corax isolate 70190 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245138.1	16925	Corvus corax isolate 70171 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245137.1	16927	Corvus corax isolate 83713 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245136.1	16720	Corvus corax isolate 70155 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245135.1	16928	Corvus corax isolate 70164 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245134.1	16930	Corvus corax mitochondrion, partial genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245133.1	16928	Corvus corax isolate 70173 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	NC_034838.1	16928	Corvus corax isolate 70173 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	JF909890.1	2328	Corvus corax voucher CAS 90612 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

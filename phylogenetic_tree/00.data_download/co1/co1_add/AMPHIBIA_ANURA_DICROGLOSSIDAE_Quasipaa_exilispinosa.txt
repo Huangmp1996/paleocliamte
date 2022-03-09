@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	NC_056269.1	17046	Quasipaa exilispinosa voucher LSU20200418001WY mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MT561179.1	17046	Quasipaa exilispinosa voucher LSU20200418001WY mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	MH938690.1	1616	Quasipaa exilispinosa cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_exilispinosa	KF199151.1	14903	Quasipaa exilispinosa mitochondrion, partial genome

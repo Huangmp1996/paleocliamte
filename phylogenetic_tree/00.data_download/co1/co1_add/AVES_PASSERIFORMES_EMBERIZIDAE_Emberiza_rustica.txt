@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481799.1	694	Schoeniclus rusticus voucher UWBM 78418 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481798.1	694	Schoeniclus rusticus voucher UWBM 51597 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481797.1	694	Schoeniclus rusticus voucher UWBM 51868 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481796.1	681	Schoeniclus rusticus voucher UWBM 74648 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481795.1	681	Schoeniclus rusticus voucher UWBM 56528 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481794.1	676	Schoeniclus rusticus voucher UWBM 82313 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481793.1	674	Schoeniclus rusticus voucher UWBM 78395 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481792.1	675	Schoeniclus rusticus voucher UWBM 44027 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GQ481791.1	675	Schoeniclus rusticus voucher UWBM 49477 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	GU571378.1	750	Emberiza rustica voucher NHMO-BC270 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	EF515787.1	686	Emberiza rustica voucher KRIBB2066 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	KP877687.1	695	Schoeniclus rusticus latifascius isolate MAR4857 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	KP877683.1	695	Schoeniclus rusticus rusticus isolate MAR3968 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	NC_024924.1	16798	Emberiza rustica voucher AHHF01 mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	KC831775.1	16798	Emberiza rustica voucher AHHF01 mitochondrion, complete genome

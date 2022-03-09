@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	LC541464.1	16797	Schoeniclus aureolus ornatus 1999-0362 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	GQ370012.1	1008	Emberiza aureola NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	NC_022150.1	16800	Emberiza aureola mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_aureola	KF111713.1	16800	Emberiza aureola mitochondrion, complete genome

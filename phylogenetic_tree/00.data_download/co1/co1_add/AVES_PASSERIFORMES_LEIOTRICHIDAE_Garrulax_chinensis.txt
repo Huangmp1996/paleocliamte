@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_chinensis	MH265800.1	633	Garrulax chinensis monachus voucher MG cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_chinensis	MH265799.1	633	Garrulax chinensis germaini voucher NRM 570101 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_chinensis	MH265798.1	633	Garrulax chinensis chinensis voucher NRM 20047100 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_chinensis	EU447039.1	615	Garrulax chinensis monachus cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_chinensis	EU447038.1	615	Garrulax chinensis lochmius cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,16 @@
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	NC_053109.1	16813	Chloropsis hardwickii mitochondrion, complete genome
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	MN356377.1	16813	Chloropsis hardwickii mitochondrion, complete genome
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	KY786986.1	400	Chloropsis hardwickii voucher IOZ 13743 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445219.1	583	Chloropsis hardwickii melliana voucher NRM568341 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445218.1	565	Chloropsis hardwickii hardwickii voucher NRM568342 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445217.1	565	Chloropsis hardwickii melliana voucher NRM570547 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445216.1	565	Chloropsis hardwickii hardwickii voucher NRM570519 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445215.1	565	Chloropsis hardwickii malayana voucher NRM568340 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445214.1	579	Chloropsis hardwickii melliana voucher NRM568345 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445213.1	575	Chloropsis hardwickii melliana voucher NRM568343 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445212.1	565	Chloropsis hardwickii melliana voucher NRM568348 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445211.1	583	Chloropsis hardwickii melliana voucher NRM570520 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445210.1	565	Chloropsis hardwickii hardwickii voucher NRM568339 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445209.1	565	Chloropsis hardwickii hardwickii voucher NRM570521 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445208.1	406	Chloropsis hardwickii hardwickii voucher ZMUC93826 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CHLOROPSEIDAE_Chloropsis_hardwickii	JX445207.1	565	Chloropsis hardwickii hardwickii voucher ZMUC93825 cytochrome b (cytb) gene, partial cds; mitochondrial

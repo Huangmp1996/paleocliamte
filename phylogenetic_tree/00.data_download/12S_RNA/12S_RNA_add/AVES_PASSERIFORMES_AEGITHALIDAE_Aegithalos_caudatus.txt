@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	MN356243.1	14913	Aegithalos caudatus mitochondrion, partial genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	KF951088.1	17935	Aegithalos caudatus caudatus mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	HQ852928.1	536	Aegithalos caudatus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	AY136558.1	1013	Aegithalos caudatus isolate A571 tRNA-Phe and 12S ribosomal RNA genes, partial sequence; mitochondrial

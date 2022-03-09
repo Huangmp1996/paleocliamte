@@ -1,0 +1,11 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	DQ283372.1	2413	Odorrana chapaensis voucher AMNH A161439 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	KX893901.1	586	Odorrana chapaensis voucher IEBR 3944 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	KX893893.1	586	Odorrana chapaensis voucher IEBR 3943 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	KR827964.1	413	Odorrana chapaensis voucher 1999.5756 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	EU861553.1	604	Odorrana chapaensis voucher SCUM 050520CHX 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	EU861552.1	604	Odorrana chapaensis voucher IOZCAS 2986 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	EU861551.1	604	Odorrana chapaensis voucher IOZCAS 2985 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	EU861550.1	605	Odorrana chapaensis voucher AMNH 168686 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	EU861549.1	604	Odorrana chapaensis voucher AMNH 168685 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	DQ204475.1	1407	Amolops chapaensis voucher ROM 30943 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_chapaensis	DQ204474.1	1388	Amolops chapaensis voucher ROM 28321 16S ribosomal RNA gene, partial sequence; mitochondrial

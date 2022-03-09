@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_pectoralis	NC_045381.1	16857	Corvus pectoralis mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_pectoralis	MN310552.1	16857	Corvus pectoralis mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_pectoralis	JQ023983.1	1041	Corvus pectoralis voucher AMNH 261595 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_pectoralis	JQ023930.1	1041	Corvus pectoralis voucher NRM 570709 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

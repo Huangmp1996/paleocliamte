@@ -1,0 +1,27 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MK368610.1	17115	Crocidura lasiura mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MN690962.1	1128	Crocidura lasiura isolate c134 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MN690961.1	1128	Crocidura lasiura isolate c133 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MN690960.1	1128	Crocidura lasiura isolate c132 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MN690959.1	1128	Crocidura lasiura isolate SQ101 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MN690958.1	1128	Crocidura lasiura isolate SQ100 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MN690957.1	1128	Crocidura lasiura isolate SQ99 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MK410315.1	1140	Crocidura lasiura isolate H211 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	MK410312.1	1140	Crocidura lasiura isolate SH38Red4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KX756193.1	399	Crocidura lasiura clone Pben1_28 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	AY843503.1	998	Crocidura lasiura isolate RU1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	HM586997.1	1140	Crocidura lasiura voucher NED171/2004 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	NC_029329.1	17364	Crocidura lasiura mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KR007669.1	17364	Crocidura lasiura mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KT318783.1	897	Crocidura lasiura isolate 2012022001-2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KT318780.1	897	Crocidura lasiura isolate Tibet008 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KT318776.1	897	Crocidura lasiura isolate 2014051503-2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KT318768.1	897	Crocidura lasiura isolate 2014110703 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KJ420558.1	1140	Crocidura lasiura voucher Cixi-Cl-23 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KJ004675.1	1140	Crocidura lasiura strain Cl 04-55 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	KJ004674.1	1140	Crocidura lasiura strain Cl05-11 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	AB066253.1	402	Crocidura lasiura mitochondrial cytb gene for cytochrome b, partial cds, isolate:OCUMS-5272
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	AB066252.1	402	Crocidura lasiura mitochondrial cytb gene for cytochrome b, partial cds, isolate:AGUD-900722-55
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	AB077072.1	1140	Crocidura lasiura Cytb gene for cytochrome b, complete cds, specimen_voucher:SO2Kmisc59
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	AB077071.1	1140	Crocidura lasiura Cytb gene for cytochrome b, complete cds, specimen_voucher:HS1252
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	AB077321.1	402	Crocidura lasiura cytb gene for cytochrome b, partial cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_lasiura	AB077148.1	402	Crocidura lasiura Cytb gene for cytochrome b, partial cds, specimen_voucher:HS1365

@@ -1,0 +1,21 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233074.1	1140	Lepus comus isolate C6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233073.1	1140	Lepus comus isolate C9 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233072.1	1140	Lepus comus isolate C7 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233071.1	1140	Lepus comus isolate C4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233070.1	1140	Lepus comus isolate C8 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233069.1	1140	Lepus comus isolate C3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233068.1	1140	Lepus comus isolate C5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233067.1	1140	Lepus comus isolate C2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	HM233066.1	1140	Lepus comus isolate C1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ251326.1	307	Lepus comus partial mitochondrial cytb gene
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ287984.1	589	Lepus comus mitochondrial partial D-loop, isolate ynzht2
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ287983.1	592	Lepus comus mitochondrial partial D-loop, isolate ynzht1
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279410.1	1139	Lepus comus cytb gene for cytochrome b, haplotype 9
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279409.1	702	Lepus comus cytb gene for cytochrome b, haplotype 8
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279408.1	1140	Lepus comus cytb gene for cytochrome b, haplotype 7
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279407.1	1140	Lepus comus cytb gene for cytochrome b, haplotype 6
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279406.1	1140	Lepus comus cytb gene for cytochrome b, haplotype 5
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279405.1	1117	Lepus comus cytb gene for cytochrome b, haplotype 4
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279404.1	1140	Lepus comus cytb gene for cytochrome b, haplotype 3
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279403.1	1140	Lepus comus cytb gene for cytochrome b, haplotype 2
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_comus	AJ279402.1	1140	Lepus comus cytb gene for cytochrome b, haplotype 1

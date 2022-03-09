@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MF039064.1	17041	Phrynocephalus frontalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	AY396595.1	812	Phrynocephalus frontalis strain CIB-W01286 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	AY396594.1	812	Phrynocephalus frontalis strain UG-JF789 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	AY396593.1	812	Phrynocephalus frontalis strain UG-JF790 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	AY396592.1	812	Phrynocephalus frontalis strain CIB-W01247 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	AY396591.1	812	Phrynocephalus frontalis strain CIB-W01243 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	KC551450.1	568	Phrynocephalus frontalis voucher LZU_C01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; tRNA-Trp gene, complete sequence; and tRNA-Ala gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	KC551449.1	568	Phrynocephalus frontalis voucher LZU_PL07 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; tRNA-Trp gene, complete sequence; and tRNA-Ala gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	KC551446.1	568	Phrynocephalus frontalis voucher LZU_107007 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; tRNA-Trp gene, complete sequence; and tRNA-Ala gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	KC551440.1	568	Phrynocephalus frontalis voucher LZU_2002PL002 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; tRNA-Trp gene, complete sequence; and tRNA-Ala gene, partial sequence; mitochondrial

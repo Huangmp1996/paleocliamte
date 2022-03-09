@@ -1,0 +1,6 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	MN356434.1	16462	Haliaeetus albicilla mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	EU345516.1	965	Haliaeetus albicilla voucher IPMB 3850 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	NC_040858.1	17719	Haliaeetus albicilla voucher IN1796 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	MK043028.1	17719	Haliaeetus albicilla voucher IN1796 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	X86753.1	1026	H.albicilla mitochondrial cytb gene
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	AY987315.1	1026	Haliaeetus albicilla cytochrome b (cytb) gene, partial cds; mitochondrial

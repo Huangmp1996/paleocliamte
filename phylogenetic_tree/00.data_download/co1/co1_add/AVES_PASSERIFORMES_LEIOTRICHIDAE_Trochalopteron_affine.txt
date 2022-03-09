@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	MH265787.1	633	Trochalopteron affine oustaleti voucher NRM 570184 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	MH265786.1	615	Trochalopteron affine affine voucher MNHN 1949-435 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	EU447030.1	615	Garrulax affinis oustaleti cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	EU447029.1	615	Garrulax affinis affinis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	HM140297.1	594	Garrulax affinis isolate 301 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	NC_029402.1	17856	Garrulax affinis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	KT182082.1	17856	Garrulax affinis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	KP768407.1	605	Garrulax affinis isolate 055-BTTVN cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	JQ174912.1	652	Garrulax affinis voucher USNM:Birds:631847 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

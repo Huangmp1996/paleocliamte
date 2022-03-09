@@ -1,0 +1,4 @@
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	NC_033381.1	16856	Nycticebus pygmaeus mitochondrion, complete genome
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KX397281.1	16856	Nycticebus pygmaeus mitochondrion, complete genome
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY773976.1	382	Nycticebus pygmaeus 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	EU680969.1	970	Nycticebus pygmaeus 12S ribosomal RNA gene, complete sequence; mitochondrial

@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	MW267969.1	350	Locustella lanceolata isolate FLDOLL06 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	MW267968.1	350	Locustella lanceolata isolate FLDOLL05 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	MW267967.1	350	Locustella lanceolata isolate FLDOLL04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	MW267966.1	350	Locustella lanceolata isolate FLDOLL03 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	MW267965.1	350	Locustella lanceolata isolate FLDOLL02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	MW267964.1	350	Locustella lanceolata isolate FLDOLL01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	DQ119525.1	1143	Locustella lanceolata isolate lla-2 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	DQ119524.1	1143	Locustella lanceolata isolate lla-1 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	HQ608860.1	1176	Locustella lanceolata isolate Y3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	HQ608849.1	1143	Locustella lanceolata isolate Y29 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	HQ706139.1	1038	Locustella lanceolata voucher U1949 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_lanceolata	JX398904.1	1143	Locustella lanceolata voucher KU:4248 cytochrome b (CytB) gene, complete cds; mitochondrial

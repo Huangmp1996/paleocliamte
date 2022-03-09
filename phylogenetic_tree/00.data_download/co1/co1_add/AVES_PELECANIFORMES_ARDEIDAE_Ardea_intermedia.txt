@@ -1,0 +1,21 @@
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	KX592585.1	18578	Ardea intermedia voucher JXAF001 mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	JF499123.1	650	Mesophoyx intermedia voucher USNM:641809 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	HM804922.1	682	Mesophoyx intermedia isolate Egrint8 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	HM804921.1	693	Mesophoyx intermedia isolate Egrint6 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	HM804920.1	685	Mesophoyx intermedia isolate Egrint4 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	HM804919.1	695	Mesophoyx intermedia isolate Egrint3 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	HM804918.1	678	Mesophoyx intermedia isolate Egrint2 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	EF515756.1	686	Mesophoyx intermedia voucher KRIBB1168 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB843475.1	629	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO074-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB843474.1	685	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO082-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB843473.1	656	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO083-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB843472.1	503	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO081-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB842730.1	662	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM375-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB842729.1	626	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM351-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB842728.1	598	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM348-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB842727.1	636	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM346-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB842726.1	667	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM220-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	AB842725.1	670	Mesophoyx intermedia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM353-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	NC_025918.1	18543	Ardea intermedia mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	KJ190946.1	18543	Ardea intermedia mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_intermedia	KC708548.1	695	Mesophoyx intermedia isolate 7 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

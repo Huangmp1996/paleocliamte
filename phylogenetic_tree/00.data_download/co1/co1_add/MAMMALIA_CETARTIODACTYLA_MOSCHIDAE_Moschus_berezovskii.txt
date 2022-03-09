@@ -1,0 +1,25 @@
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	MW879208.1	16351	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	MH047347.1	16353	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	KY792714.1	16353	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JF700175.1	658	Moschus berezovskii voucher AS72MT01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	EU043465.1	16354	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627397.1	627	Moschus berezovskii voucher FMD3-LS4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627396.1	627	Moschus berezovskii voucher FMD2-A169 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627395.1	627	Moschus berezovskii voucher S12-A142 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627394.1	627	Moschus berezovskii voucher S11-A141 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627393.1	627	Moschus berezovskii voucher S10-A140 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627392.1	627	Moschus berezovskii voucher S9-A139 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627391.1	627	Moschus berezovskii voucher S8-A138 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627390.1	627	Moschus berezovskii voucher S7-A137 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627389.1	627	Moschus berezovskii voucher S6-A136 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627388.1	627	Moschus berezovskii voucher S5-A135 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627387.1	627	Moschus berezovskii voucher S4-A134 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627386.1	627	Moschus berezovskii voucher S3-A133 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627385.1	627	Moschus berezovskii voucher S2-A132 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JX627384.1	627	Moschus berezovskii voucher S1-A130 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	JQ409122.1	16353	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	NC_012694.1	16354	Moschus berezovskii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	GQ329034.1	658	Moschus berezovskii ZJU:CLS438 MOBE-B-9827 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	GQ329033.1	658	Moschus berezovskii ZJU:CLS438 MOBE-B-9751 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	GQ329032.1	658	Moschus berezovskii ZJU:CLS438 MOBE-B-9701 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_berezovskii	GQ329031.1	658	Moschus berezovskii ZJU:CLS438 MOBE-B-9523 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

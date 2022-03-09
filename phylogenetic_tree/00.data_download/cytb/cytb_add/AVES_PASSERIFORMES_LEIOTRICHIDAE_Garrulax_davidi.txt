@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_davidi	EU447070.1	846	Garrulax davidi davidi cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_davidi	KF914147.1	819	Garrulax davidi voucher IOZ_7809 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_davidi	JF804107.1	619	Garrulax davidi isolate 5802 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_davidi	JF804060.1	619	Garrulax davidi isolate 389 cytochrome b (cytb) gene, partial cds; mitochondrial

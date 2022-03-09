@@ -1,0 +1,22 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	HQ690246.1	16841	Luscinia calliope mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482121.1	694	Luscinia calliope voucher ZMMU RYA 1658 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482120.1	694	Luscinia calliope voucher ZMMU RYA 1680 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482119.1	694	Luscinia calliope voucher ZMMU RYA 1682 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482118.1	681	Luscinia calliope voucher ZMMU RYA 1681 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482117.1	694	Luscinia calliope voucher UWBM 59869 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482116.1	694	Luscinia calliope voucher UWBM 73298 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482115.1	694	Luscinia calliope voucher UWBM 52532 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482114.1	694	Luscinia calliope voucher UWBM 47214 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482113.1	694	Luscinia calliope voucher UWBM 51743 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	GQ482112.1	682	Luscinia calliope voucher UWBM 44150 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	KU973753.1	692	Calliope calliope voucher SCIEA:S03542 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	KU973752.1	692	Calliope calliope voucher SYSb1528 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	KU973751.1	692	Calliope calliope voucher SYSb1527 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	KU973750.1	692	Calliope calliope voucher SYSb1525 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	KU973749.1	692	Calliope calliope voucher SYSb1524 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	AB843589.1	691	Luscinia calliope mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO173-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	AB842920.1	647	Luscinia calliope mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM633-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	AB842919.1	667	Luscinia calliope mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM191-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	AB842918.1	691	Luscinia calliope mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM049-08
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	AB842917.1	648	Luscinia calliope mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM204-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Calliope_calliope	NC_015074.1	16841	Luscinia calliope mitochondrion, complete genome

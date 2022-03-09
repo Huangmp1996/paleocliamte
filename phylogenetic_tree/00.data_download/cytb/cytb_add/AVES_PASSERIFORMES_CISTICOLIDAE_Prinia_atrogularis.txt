@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CISTICOLIDAE_Prinia_atrogularis	HQ608886.1	1176	Prinia atrogularis isolate Y29 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Prinia_atrogularis	HQ608845.1	1143	Prinia atrogularis isolate Y25 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Prinia_atrogularis	JX869877.1	1041	Prinia atrogularis voucher DZUG 463 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Prinia_atrogularis	JX398859.1	1143	Prinia atrogularis voucher KU:10368 cytochrome b (CytB) gene, complete cds; mitochondrial

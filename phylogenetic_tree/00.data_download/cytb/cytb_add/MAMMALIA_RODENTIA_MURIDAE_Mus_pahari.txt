@@ -1,0 +1,7 @@
+MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	NC_036680.1	16286	Mus pahari mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	KY038052.1	16286	Mus pahari mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	EU349767.1	1140	Mus pahari voucher AMCC 110800 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	AY057814.1	1145	Mus pahari cytochrome b (Cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	AY224675.1	396	Mus pahari mitochondrial D-loop, partial sequence; and tRNA-Phe gene, complete sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	AB096840.1	402	Mus pahari mitochondrial cytb gene for cytochrome b, isolate:KIZ211083/HS2517
+MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	AB096839.1	1140	Mus pahari mitochondrial cytb gene for cytochrome b, isolate:HS511

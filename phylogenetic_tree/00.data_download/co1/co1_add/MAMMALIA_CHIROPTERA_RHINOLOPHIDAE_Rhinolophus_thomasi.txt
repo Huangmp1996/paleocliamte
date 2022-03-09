@@ -1,0 +1,5 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_thomasi	MK410385.1	1545	Rhinolophus thomasi isolate MM3250M1 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_thomasi	NC_034306.1	16899	Rhinolophus thomasi mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_thomasi	KY124333.1	16899	Rhinolophus thomasi mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_thomasi	JF444107.1	657	Rhinolophus thomasi voucher ROM 118120 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_thomasi	JF444106.1	657	Rhinolophus thomasi voucher ROM 118114 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

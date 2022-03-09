@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MN015280.1	952	Takydromus sexlineatus isolate MV.LAC-12 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	EU203643.1	2349	Takydromus sexlineatus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	KX080615.1	361	Takydromus sexlineatus isolate S9294 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	KX080614.1	361	Takydromus sexlineatus isolate S9282 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	NC_022703.1	18943	Takydromus sexlineatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	KF425529.1	18943	Takydromus sexlineatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	GQ142089.1	459	Takydromus sexlineatus isolate ATE-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AF206589.1	2310	Takydromus sexlineatus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AF217068.1	1017	Takydromus sexlineatus 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AF217067.1	1017	Takydromus sexlineatus 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AF217066.1	1017	Takydromus sexlineatus 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products

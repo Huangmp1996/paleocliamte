@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_liui	MT662111.1	17643	Plestiodon liui mitochondrion, partial genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_liui	MK837972.1	658	Plestiodon liui voucher NY110 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_liui	MK837971.1	658	Plestiodon liui voucher NY108 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_liui	MK837970.1	658	Plestiodon liui voucher NY088 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_liui	MK837969.1	658	Plestiodon liui voucher NY087 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial

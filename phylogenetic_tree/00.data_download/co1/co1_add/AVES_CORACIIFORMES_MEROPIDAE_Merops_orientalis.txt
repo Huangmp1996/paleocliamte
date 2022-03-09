@@ -1,0 +1,8 @@
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	KC439326.1	676	Merops orientalis cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	HQ168066.1	694	Merops orientalis voucher PSRCEW-BB-GBE04 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	HQ168065.1	694	Merops orientalis voucher PSRCEW-BB-GBE03 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	HQ168064.1	694	Merops orientalis voucher PSRCEW-BB-GBE02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	HQ168063.1	694	Merops orientalis voucher PSRCEW-BB-GBE01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	JQ175357.1	652	Merops orientalis voucher USNM:Birds:620418 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	JQ175356.1	652	Merops orientalis voucher USNM:Birds:620417 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_MEROPIDAE_Merops_orientalis	JQ175355.1	652	Merops orientalis voucher USNM:Birds:620424 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

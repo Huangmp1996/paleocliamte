@@ -1,0 +1,5 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	EU583274.1	1041	Buteo lagopus sanctijohannis voucher KUNHM 3450 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GQ264873.1	1041	Buteo lagopus voucher LSUMZ B8683 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GQ264872.1	1041	Buteo lagopus voucher LSUMZ B45908 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	NC_029189.1	18559	Buteo lagopus voucher AHNU:A0381 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	KP337337.1	18559	Buteo lagopus voucher AHNU:A0381 mitochondrion, complete genome

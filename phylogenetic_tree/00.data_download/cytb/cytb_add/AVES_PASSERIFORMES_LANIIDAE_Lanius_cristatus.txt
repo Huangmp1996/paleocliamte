@@ -1,0 +1,27 @@
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512356.1	1143	Lanius cristatus 2010-0363 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512355.1	1143	Lanius cristatus 1997-0359 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512354.1	1143	Lanius cristatus superciliosus 1994-0054 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512353.1	1143	Lanius cristatus superciliosus NLC18-07 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512352.1	1143	Lanius cristatus superciliosus NLC18-03 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512351.1	1143	Lanius cristatus superciliosus LC17-51 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512350.1	1143	Lanius cristatus superciliosus LC17-44 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512349.1	1143	Lanius cristatus superciliosus LC17-24 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512348.1	1143	Lanius cristatus superciliosus LC17-19 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512347.1	1143	Lanius cristatus superciliosus LC17-13 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512346.1	1143	Lanius cristatus superciliosus LC17-11 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512345.1	1143	Lanius cristatus superciliosus LC17-07 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512344.1	1143	Lanius cristatus superciliosus LC17-04 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512343.1	1143	Lanius cristatus superciliosus LC17-01 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512342.1	1143	Lanius cristatus AK1674 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512341.1	1143	Lanius cristatus AK0910 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512340.1	1143	Lanius cristatus AK0906 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512339.1	1143	Lanius cristatus AK0725 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	LC512338.1	1143	Lanius cristatus AK0453 mitochondrial cytb gene for cytochrome b, complete cds
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	EF621603.1	1176	Lanius cristatus isolate N8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	EF621602.1	1176	Lanius cristatus isolate N7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	EF621580.1	1143	Lanius cristatus isolate M9 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	EF621579.1	1143	Lanius cristatus isolate M8 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	EF621578.1	1143	Lanius cristatus isolate M7 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	DQ119529.1	1143	Lanius cristatus cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	NC_028333.1	16821	Lanius cristatus mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_cristatus	KT004451.1	16821	Lanius cristatus mitochondrion, complete genome

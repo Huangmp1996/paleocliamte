@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KY464179.1	16287	Leopoldamys edwardsi voucher CBGP_R4222 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123053.1	1524	Leopoldamys edwardsi isolate S1822 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123052.1	1524	Leopoldamys edwardsi isolate S1820 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123051.1	1524	Leopoldamys edwardsi isolate S1814 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123050.1	1524	Leopoldamys edwardsi isolate S1813 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123049.1	1524	Leopoldamys edwardsi isolate S1812 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123048.1	1524	Leopoldamys edwardsi isolate S1810 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123047.1	1524	Leopoldamys edwardsi isolate S1809 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123046.1	1524	Leopoldamys edwardsi isolate S1808 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123045.1	1524	Leopoldamys edwardsi isolate S1807 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123044.1	1524	Leopoldamys edwardsi isolate S1806 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123043.1	1524	Leopoldamys edwardsi isolate S1805 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123042.1	1524	Leopoldamys edwardsi isolate S1803 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123041.1	1524	Leopoldamys edwardsi isolate S1802 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123040.1	1524	Leopoldamys edwardsi isolate S1801 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123039.1	1524	Leopoldamys edwardsi isolate S1432 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123038.1	1524	Leopoldamys edwardsi isolate S1390 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123037.1	1524	Leopoldamys edwardsi isolate S1382 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123036.1	1524	Leopoldamys edwardsi isolate S1346 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123035.1	1524	Leopoldamys edwardsi isolate S0957 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123034.1	1524	Leopoldamys edwardsi isolate S0882 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123033.1	1524	Leopoldamys edwardsi isolate S0756 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123032.1	1524	Leopoldamys edwardsi isolate S0553 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123031.1	1524	Leopoldamys edwardsi isolate S0552 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123030.1	1524	Leopoldamys edwardsi isolate S0551 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123029.1	1524	Leopoldamys edwardsi isolate S0550 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123028.1	1524	Leopoldamys edwardsi isolate S0549 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123027.1	1524	Leopoldamys edwardsi isolate S0548 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123026.1	1524	Leopoldamys edwardsi isolate S0546 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123025.1	1524	Leopoldamys edwardsi isolate S0545 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123024.1	1524	Leopoldamys edwardsi isolate S0544 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123023.1	1524	Leopoldamys edwardsi isolate S0542 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123022.1	1524	Leopoldamys edwardsi isolate S0541 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123021.1	1524	Leopoldamys edwardsi isolate S0540 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123020.1	1524	Leopoldamys edwardsi isolate S0539 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123019.1	1524	Leopoldamys edwardsi isolate S0529 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123018.1	1524	Leopoldamys edwardsi isolate S0441 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123017.1	1524	Leopoldamys edwardsi isolate S0432 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123016.1	1524	Leopoldamys edwardsi isolate G12097 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123015.1	1524	Leopoldamys edwardsi isolate G12096 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123014.1	1524	Leopoldamys edwardsi isolate M12066 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123013.1	1524	Leopoldamys edwardsi isolate G12057 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123012.1	1524	Leopoldamys edwardsi isolate G12056 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123011.1	1524	Leopoldamys edwardsi isolate M12051 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123010.1	1524	Leopoldamys edwardsi isolate G12045 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123009.1	1524	Leopoldamys edwardsi isolate G12033 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123008.1	1524	Leopoldamys edwardsi isolate G12031 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123007.1	1524	Leopoldamys edwardsi isolate G12012 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995224.1	1524	Leopoldamys edwardsi isolate 1391 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995223.1	1524	Leopoldamys edwardsi isolate 1389 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995222.1	1524	Leopoldamys edwardsi isolate 1381 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995221.1	1524	Leopoldamys edwardsi isolate 1380 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995220.1	1524	Leopoldamys edwardsi isolate 1356 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995219.1	1524	Leopoldamys edwardsi isolate 444 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995218.1	1524	Leopoldamys edwardsi isolate 804 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995217.1	1524	Leopoldamys edwardsi isolate S0821 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995216.1	1524	Leopoldamys edwardsi isolate 12094 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995215.1	1524	Leopoldamys edwardsi isolate 12064 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995214.1	1524	Leopoldamys edwardsi isolate 12059 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995213.1	1524	Leopoldamys edwardsi isolate 12014 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995212.1	1524	Leopoldamys edwardsi isolate 12013 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995211.1	1524	Leopoldamys edwardsi isolate 12011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995210.1	1524	Leopoldamys edwardsi isolate 12226 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995209.1	1524	Leopoldamys edwardsi isolate C958 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995208.1	1524	Leopoldamys edwardsi isolate C891 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995207.1	1524	Leopoldamys edwardsi isolate C794 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995206.1	1524	Leopoldamys edwardsi isolate C759 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995205.1	1524	Leopoldamys edwardsi isolate S0760 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995204.1	1524	Leopoldamys edwardsi isolate S0755 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995203.1	1524	Leopoldamys edwardsi isolate S0547 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995202.1	1524	Leopoldamys edwardsi isolate S0543 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995201.1	1524	Leopoldamys edwardsi isolate S0521 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995200.1	1524	Leopoldamys edwardsi isolate S0324 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995199.1	1524	Leopoldamys edwardsi isolate 12093 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995198.1	1524	Leopoldamys edwardsi isolate 12062 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP995197.1	1524	Leopoldamys edwardsi isolate 12029 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JN105103.1	712	Leopoldamys edwardsi isolate MB1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM219590.1	713	Leopoldamys edwardsi isolate 77 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM219589.1	708	Leopoldamys edwardsi isolate 33 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217578.1	655	Leopoldamys edwardsi voucher R4370 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217577.1	655	Leopoldamys edwardsi voucher R4296 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217576.1	655	Leopoldamys edwardsi voucher R4276 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217571.1	655	Leopoldamys edwardsi voucher R4222 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217566.1	655	Leopoldamys edwardsi voucher R4098 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217543.1	626	Leopoldamys edwardsi voucher R3419 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	NC_025670.1	16284	Leopoldamys edwardsi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KM434322.1	16284	Leopoldamys edwardsi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010179.1	721	Leopoldamys edwardsi haplotype HCOLE05 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010178.1	725	Leopoldamys edwardsi haplotype HCOLE04 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010177.1	721	Leopoldamys edwardsi haplotype HCOLE03 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010176.1	719	Leopoldamys edwardsi haplotype HCOLE02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010175.1	720	Leopoldamys edwardsi haplotype HCOLE01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JQ755953.1	873	Leopoldamys edwardsi isolate MC109 interphotoreceptor retinoid-binding protein (IRBP) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JQ755952.1	896	Leopoldamys edwardsi isolate MC106 interphotoreceptor retinoid-binding protein (IRBP) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JQ755951.1	916	Leopoldamys edwardsi isolate MC67 interphotoreceptor retinoid-binding protein (IRBP) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JQ755950.1	945	Leopoldamys edwardsi isolate MC66 interphotoreceptor retinoid-binding protein (IRBP) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JQ755928.1	1028	Leopoldamys edwardsi isolate MC126 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JQ755927.1	1028	Leopoldamys edwardsi isolate MC116 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JQ755926.1	1028	Leopoldamys edwardsi isolate MC111 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JQ755925.1	1028	Leopoldamys edwardsi isolate MC110 cytochrome b (cytb) gene, partial cds; mitochondrial

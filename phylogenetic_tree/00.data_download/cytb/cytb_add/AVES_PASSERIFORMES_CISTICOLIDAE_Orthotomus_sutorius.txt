@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	DQ008491.1	1038	Orthotomus sutorius inexpectatus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	AF094622.1	861	Orthotomus sutorius cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	HQ608882.1	1176	Orthotomus sutorius isolate Y25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	HQ608841.1	1143	Orthotomus sutorius isolate Y21 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	KC439283.1	407	Orthotomus sutorius cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	AF094652.1	522	Orthotomus sutorius 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

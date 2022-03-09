@@ -1,0 +1,14 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	MN816304.1	16750	Cynopterus brachyotis isolate 140810x2 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	NC_026465.1	16701	Cynopterus brachyotis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	KM659865.1	16701	Cynopterus brachyotis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY044698.1	410	Cynopterus brachyotis oocyte maturation factor Mos (c-mos) protooncogene, partial cds
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY044697.1	487	Cynopteris brachyotis specimen-voucher AMEBU8078 oocyte maturation factor Mos (c-mos) protooncogene, partial cds
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	DQ002942.1	1295	Cynopterus brachyotis isolate WK1 12S ribosomal RNA, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	GQ410303.1	1032	Cynopterus brachyotis voucher ROM 102015 12S ribosomal RNA and tRNA-Val genes, complete sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY044759.1	387	Cynopterus brachyotis 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY044758.1	388	Cynopterus brachyotis voucher AMEBU8078 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	EF139868.1	1295	Cynopterus brachyotis isolate SD22 12S ribosomal RNA, partial sequence; tRNAVal gene, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	EF139867.1	1295	Cynopterus brachyotis isolate M215 12S ribosomal RNA, partial sequence; tRNAVal gene, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	EF139866.1	1295	Cynopterus brachyotis isolate BA014 12S ribosomal RNA, partial sequence; tRNAVal gene, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	EF139865.1	1295	Cynopterus brachyotis isolate BA004 12S ribosomal RNA, partial sequence; tRNAVal gene, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	U93068.1	1051	Cynopterus brachyotis 12S ribosomal RNA gene, partial sequence, tRNA-Val gene, complete sequence, and 16S ribosomal RNA gene, partial sequence, mitochondrial genes encoding mitochondrial RNAs

@@ -1,0 +1,14 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	LC386527.1	1554	Rhacophorus dennysi KUHE:55211 mitochondrial COX1 gene for cytochrome c oxidase subunit 1, complete cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KX233869.1	15396	Rhacophorus dennysi mitochondrion, partial genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	MH034333.1	588	Rhacophorus dennysi voucher 18445 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	MH034332.1	588	Rhacophorus dennysi voucher 18367 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	MH034331.1	588	Rhacophorus dennysi voucher 18514 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KP996812.1	561	Rhacophorus dennysi haplotype C117 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KP996763.1	561	Rhacophorus dennysi haplotype C063 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KP996730.1	561	Rhacophorus dennysi haplotype C018 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KP996729.1	561	Rhacophorus dennysi haplotype C016 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KT191129.1	17572	Rhacophorus dennysi voucher RDEN20150618 mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	NC_027452.1	18052	Rhacophorus dennysi mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KM035412.1	18052	Rhacophorus dennysi mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	JN700899.1	602	Rhacophorus dennysi voucher YPX12448 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	JN700898.1	602	Rhacophorus dennysi voucher KIZ04814 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

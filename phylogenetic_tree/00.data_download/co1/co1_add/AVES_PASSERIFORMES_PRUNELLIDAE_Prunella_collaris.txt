@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	AB843103.1	626	Prunella collaris mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM002-08
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	AB843102.1	701	Prunella collaris mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM686-10
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_collaris	KF811443.1	609	Prunella collaris isolate Giu138 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

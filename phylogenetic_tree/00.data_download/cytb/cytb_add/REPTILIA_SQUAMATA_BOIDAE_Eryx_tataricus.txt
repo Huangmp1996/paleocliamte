@@ -1,0 +1,21 @@
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	MN646174.1	17537	Eryx tataricus mitochondrion, complete genome
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	MK780743.1	19330	Eryx tataricus mitochondrion, complete genome
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	MG582067.1	18606	Eryx tataricus mitochondrion, complete genome
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	MK201371.1	585	Eryx tataricus voucher CHS265 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KF576717.1	1091	Eryx tataricus isolate NE6.21 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	U69831.2	256	Eryx tataricus vittatus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	U69828.2	230	Eryx tataricus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	U69827.2	1012	Eryx tataricus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841070.2	709	Eryx tataricus isolate 1_Fariman cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841068.2	709	Eryx tataricus isolate 22_Birjand cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841067.2	709	Eryx tataricus isolate 30_Shaskoh cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841066.2	709	Eryx tataricus isolate 6_Fariman cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841064.2	709	Eryx tataricus isolate 4_Fariman cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841054.2	709	Eryx tataricus isolate ERP_1051_Torbat_Jam cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841052.2	709	Eryx tataricus isolate ERP_1009_Sabzevar cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841049.2	709	Eryx tataricus isolate ERP_929_Joghtay cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841045.2	709	Eryx tataricus isolate ERP_875_Parvand cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KJ841043.2	709	Eryx tataricus isolate ERP_792_Sabzevar cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	KF811117.1	1091	Eryx tataricus voucher UMFS 11688 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	U69830.1	1114	Eryx tataricus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_BOIDAE_Eryx_tataricus	U69829.1	1090	Eryx tataricus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds

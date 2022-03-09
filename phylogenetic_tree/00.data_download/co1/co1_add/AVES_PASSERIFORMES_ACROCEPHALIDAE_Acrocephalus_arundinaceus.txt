@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	MN356442.1	13946	Acrocephalus arundinaceus mitochondrion, partial genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	KT803637.1	648	Acrocephalus arundinaceus isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	GU571691.1	648	Acrocephalus arundinaceus voucher BISE-Aves56 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	KJ453123.1	662	Acrocephalus arundinaceus isolate 25724 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	FR847226.1	1603	Acrocephalus arundinaceus mitochondrial COI gene for cytochrome oxidase subunit 1
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AB492870.1	1024	Acrocephalus arundinaceus mitochondrial DNA, Folmer barcode region, COX1 sequence
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AJ404372.1	952	Acrocephalus arundinaceus mRNA for MHC class II beta antigen, clone cO1

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_luscinioides	GU571954.1	648	Locustella luscinioides voucher BISE-Aves236 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_luscinioides	KX283126.1	659	Locustella luscinioides voucher AI-B192 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_luscinioides	KX283125.1	617	Locustella luscinioides voucher AI-B194 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_luscinioides	KF946742.1	693	Locustella luscinioides luscinioides voucher ZMA64557 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

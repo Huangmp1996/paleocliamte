@@ -1,0 +1,13 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU594998.1	1140	Nomascus concolor isolate con7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU594997.1	1140	Nomascus concolor isolate con6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321258.1	1140	Nomascus concolor lu haplotype NLU2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321257.1	1140	Nomascus concolor lu haplotype NLU1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321256.1	1140	Nomascus concolor jingdongensis haplotype NJI1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321255.1	1140	Nomascus concolor furvogaster haplotype NFU2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321254.1	1140	Nomascus concolor furvogaster haplotype NFU1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321253.1	1140	Nomascus concolor concolor haplotype NCO5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321252.1	1140	Nomascus concolor concolor haplotype NCO4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321251.1	1140	Nomascus concolor concolor haplotype NCO3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321250.1	1140	Nomascus concolor concolor haplotype NCO2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	GU321249.1	1140	Nomascus concolor concolor haplotype NCO1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_concolor	HQ622808.1	16133	Nomascus concolor isolate Nc mitochondrial sequence

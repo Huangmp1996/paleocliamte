@@ -1,0 +1,53 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	NC_045526.1	16881	Seicercus borealis mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	MK390476.1	16881	Seicercus borealis mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482404.1	694	Seicercus borealis voucher UWBM 59484 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482403.1	694	Seicercus borealis voucher UWBM 57973 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482402.1	694	Seicercus borealis voucher UWBM 51101 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482401.1	694	Seicercus borealis voucher UWBM 78398 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482400.1	694	Seicercus borealis voucher UWBM 66539 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482398.1	684	Seicercus borealis voucher UWBM 52547 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482397.1	684	Seicercus borealis voucher UWBM 56532 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482396.1	681	Seicercus borealis voucher UWBM 59696 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482395.1	674	Seicercus borealis voucher UWBM 82284 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	MH929223.1	652	Seicercus borealis borealis voucher USNM:656250 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087227.1	692	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: VK57822
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087215.1	663	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04586
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087214.1	669	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04585
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087213.1	673	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04569
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087209.1	674	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04527
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087202.1	685	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04457
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087201.1	669	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04453
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087200.1	663	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04452
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087199.1	703	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04411
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087198.1	714	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04410
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087197.1	714	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04406
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087195.1	708	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A04048
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087193.1	686	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A03122
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087192.1	708	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A03118
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087191.1	708	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A03115
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087190.1	708	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A03113
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087188.1	715	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A01846
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087187.1	708	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A01813
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	LC087183.1	714	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: 1A01764
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	HQ608870.1	1176	Phylloscopus borealis isolate Y13 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	HQ608832.1	1143	Phylloscopus borealis isolate Y12 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GU571553.1	713	Phylloscopus borealis voucher NHMO-BC530 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GU571552.1	750	Phylloscopus borealis voucher NHMO-BC86 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482408.1	694	Phylloscopus borealis voucher ZMMU RYA 1707 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482407.1	694	Phylloscopus borealis voucher ZMMU RYA 1659 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482406.1	694	Phylloscopus borealis voucher ZMMU RYA 1705 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482405.1	694	Phylloscopus borealis voucher ZMMU RYA 1567 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	GQ482399.1	694	Phylloscopus borealis voucher UWBM 82938 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	DQ433938.1	675	Phylloscopus borealis voucher UWBM 51611 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	DQ433937.1	680	Phylloscopus borealis voucher UWBM 44555 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB843687.1	694	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO529-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB843686.1	670	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO533-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB843062.1	674	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM211-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB843061.1	665	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM722-11
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB843060.1	668	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM040-08
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB843059.1	662	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM047-08
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB843058.1	688	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM658-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB843057.1	666	Seicercus borealis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM723-11
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	KC354945.1	695	Phylloscopus borealis voucher TR17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	JN801360.1	670	Phylloscopus borealis voucher USNM 586664 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	JN801359.1	645	Phylloscopus borealis voucher USNM 586168 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

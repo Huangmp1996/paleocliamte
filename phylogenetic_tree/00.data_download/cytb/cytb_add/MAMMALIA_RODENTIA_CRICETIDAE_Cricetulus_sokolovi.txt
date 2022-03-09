@@ -1,0 +1,12 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	NC_056331.1	16292	Cricetulus sokolovi mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	MW114661.1	16292	Cricetulus sokolovi mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993915.1	1140	Cricetulus sokolovi isolate f.c. Cso9 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993914.1	1140	Cricetulus sokolovi isolate f.c. Cso7 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993913.1	1140	Cricetulus sokolovi isolate f.c. Cso8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993912.1	1140	Cricetulus sokolovi isolate f.c. Cso6 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993911.1	1140	Cricetulus sokolovi isolate f.c. Cso5 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993910.1	1140	Cricetulus sokolovi isolate f.c. Cso4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993909.1	1140	Cricetulus sokolovi isolate f.c. Cso3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993908.1	1140	Cricetulus sokolovi isolate f.c. Cso2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	KY993907.1	1110	Cricetulus sokolovi isolate f.c. Cso1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_sokolovi	AY997839.1	917	Cricetulus sokolovi 12S ribosomal RNA gene, partial sequence; mitochondrial

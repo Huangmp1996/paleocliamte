@@ -1,0 +1,74 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	NW_024465859.1	23327678	Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 contig_3432, whole genome shotgun sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	NW_024467094.1	33361047	Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 scaffold_2453, whole genome shotgun sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	MN547429.1	16386	Ochotona curzoniae voucher SAF16767 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	MN547428.1	16441	Ochotona curzoniae voucher CSGM06001 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	MN547427.1	16395	Ochotona curzoniae voucher QH12131 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	MN547426.1	16382	Ochotona curzoniae voucher XZ16042 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	EF535828.1	17131	Ochotona curzoniae mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225732.1	945	Ochotona curzoniae haplotype QTP65 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225731.1	945	Ochotona curzoniae haplotype QTP64 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225730.1	945	Ochotona curzoniae haplotype QTP63 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225729.1	945	Ochotona curzoniae haplotype QTP62 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225728.1	945	Ochotona curzoniae haplotype QTP61 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225727.1	945	Ochotona curzoniae haplotype QTP60 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225726.1	945	Ochotona curzoniae haplotype QTP59 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225725.1	945	Ochotona curzoniae haplotype QTP58 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225724.1	945	Ochotona curzoniae haplotype QTP57 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225723.1	945	Ochotona curzoniae haplotype QTP56 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225722.1	945	Ochotona curzoniae haplotype QTP55 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225721.1	945	Ochotona curzoniae haplotype QTP54 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225720.1	945	Ochotona curzoniae haplotype QTP53 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225719.1	945	Ochotona curzoniae haplotype QTP52 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225718.1	945	Ochotona curzoniae haplotype QTP51 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225717.1	945	Ochotona curzoniae haplotype QTP50 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225716.1	945	Ochotona curzoniae haplotype QTP49 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KM225715.1	945	Ochotona curzoniae haplotype QTP48 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038213.1	945	Ochotona curzoniae isolate QTP47 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038212.1	945	Ochotona curzoniae isolate QTP46 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038211.1	945	Ochotona curzoniae isolate QTP45 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038210.1	945	Ochotona curzoniae isolate QTP44 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038209.1	945	Ochotona curzoniae isolate QTP43 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038208.1	945	Ochotona curzoniae isolate QTP42 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038207.1	945	Ochotona curzoniae isolate QTP41 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038206.1	945	Ochotona curzoniae isolate QTP40 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038205.1	945	Ochotona curzoniae isolate QTP39 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038204.1	945	Ochotona curzoniae isolate QTP38 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038203.1	945	Ochotona curzoniae isolate QTP37 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038202.1	945	Ochotona curzoniae isolate QTP36 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038201.1	945	Ochotona curzoniae isolate QTP35 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038200.1	945	Ochotona curzoniae isolate QTP34 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038199.1	945	Ochotona curzoniae isolate QTP33 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038198.1	945	Ochotona curzoniae isolate QTP32 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038197.1	945	Ochotona curzoniae isolate QTP31 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038196.1	945	Ochotona curzoniae isolate QTP30 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038195.1	945	Ochotona curzoniae isolate QTP29 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038194.1	945	Ochotona curzoniae isolate QTP28 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038193.1	945	Ochotona curzoniae isolate QTP27 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038192.1	945	Ochotona curzoniae isolate QTP26 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038191.1	945	Ochotona curzoniae isolate QTP25 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038190.1	945	Ochotona curzoniae isolate QTP24 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038189.1	945	Ochotona curzoniae isolate QTP23 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038188.1	945	Ochotona curzoniae isolate QTP22 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038187.1	945	Ochotona curzoniae isolate QTP21 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038186.1	945	Ochotona curzoniae isolate QTP20 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038185.1	945	Ochotona curzoniae isolate QTP19 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038184.1	945	Ochotona curzoniae isolate QTP18 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038183.1	945	Ochotona curzoniae isolate QTP17 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038182.1	945	Ochotona curzoniae isolate QTP16 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038181.1	945	Ochotona curzoniae isolate QTP15 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038180.1	945	Ochotona curzoniae isolate QTP14 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038179.1	945	Ochotona curzoniae isolate QTP13 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038178.1	945	Ochotona curzoniae isolate QTP 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038177.1	945	Ochotona curzoniae isolate QTP11 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038176.1	945	Ochotona curzoniae isolate QTP10 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038175.1	945	Ochotona curzoniae isolate QTP9 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038174.1	945	Ochotona curzoniae isolate QTP8 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038173.1	945	Ochotona curzoniae isolate QTP7 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038172.1	945	Ochotona curzoniae isolate QTP6 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038171.1	945	Ochotona curzoniae isolate QTP5 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038170.1	945	Ochotona curzoniae isolate QTP4 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038169.1	945	Ochotona curzoniae isolate QTP3 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038168.1	945	Ochotona curzoniae isolate QTP2 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	KF038167.1	945	Ochotona curzoniae isolate QTP1 12S ribosomal RNA gene, partial sequence
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	NC_011029.1	17131	Ochotona curzoniae mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	AF326253.1	962	Ochotona curzoniae 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

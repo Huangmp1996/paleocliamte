@@ -1,0 +1,5 @@
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_nigricollis	GQ482520.1	694	Podiceps nigricollis voucher UWBM 73209 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_nigricollis	GQ482519.1	679	Podiceps nigricollis voucher UWBM 73789 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_nigricollis	DQ433968.1	672	Podiceps nigricollis voucher CWS32938 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_nigricollis	DQ433126.1	554	Podiceps nigricollis voucher LSU21332 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_nigricollis	KT075280.1	652	Podiceps nigricollis voucher USNM:Birds:649710 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

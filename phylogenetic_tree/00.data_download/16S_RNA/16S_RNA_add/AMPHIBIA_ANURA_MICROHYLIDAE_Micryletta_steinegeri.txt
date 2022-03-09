@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_steinegeri	MW376735.1	539	Micryletta steinegeri voucher Mst001Tainan large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_steinegeri	MW376734.1	816	Micryletta steinegeri voucher ZMMU A5336-3 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_steinegeri	MW376733.1	816	Micryletta steinegeri voucher ZMMU A5336-2 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_steinegeri	MW376732.1	816	Micryletta steinegeri voucher ZMMU A5336-1 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_steinegeri	AB634696.1	816	Micryletta steinegeri mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:35937

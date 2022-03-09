@@ -1,0 +1,100 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MW007341.1	1981	Fejervarya limnocharis isolate SH0034 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MW007340.1	1977	Fejervarya limnocharis isolate SH13_027 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MW007339.1	1969	Fejervarya limnocharis isolate MD09_082 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MW007338.1	1984	Fejervarya limnocharis isolate MD09_056 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MW007337.1	1984	Fejervarya limnocharis isolate HH10_329 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MW007336.1	1981	Fejervarya limnocharis isolate HH10_241 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MW007335.1	1981	Fejervarya limnocharis isolate HH10_135 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MW131317.1	553	Fejervarya limnocharis isolate CAM001 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MT378389.1	602	Fejervarya limnocharis voucher FMNH 261987 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621401.1	381	Fejervarya limnocharis voucher SMF 104136 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621400.1	569	Fejervarya limnocharis voucher SMF 104131 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621399.1	566	Fejervarya limnocharis voucher SMF 104128 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621398.1	566	Fejervarya limnocharis voucher SMF 104127 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621397.1	572	Fejervarya limnocharis voucher SMF 104126 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621396.1	565	Fejervarya limnocharis voucher CAS 235485 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621395.1	572	Fejervarya limnocharis voucher CAS 235484 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621394.1	566	Fejervarya limnocharis voucher CAS 235276 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621393.1	566	Fejervarya limnocharis voucher CAS 228131 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621392.1	565	Fejervarya limnocharis voucher CAS 228129 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621391.1	565	Fejervarya limnocharis voucher CAS 224716 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621390.1	570	Fejervarya limnocharis voucher CAS 224710 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621389.1	567	Fejervarya limnocharis voucher CAS 215117 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK621388.1	555	Fejervarya limnocharis voucher CAS 215116 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK958576.1	568	Fejervarya limnocharis voucher SMF 105121 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK958575.1	571	Fejervarya limnocharis voucher SMF 105120 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK958574.1	569	Fejervarya limnocharis voucher SMF 105119 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK958573.1	566	Fejervarya limnocharis voucher CAS 234815 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK958572.1	562	Fejervarya limnocharis voucher CAS 234814 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	MK958571.1	565	Fejervarya limnocharis voucher CAS 230367 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	GU934327.1	554	Fejervarya limnocharis voucher FMNH 261984 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AY158705.1	17717	Fejervarya limnocharis mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KU840568.1	554	Fejervarya limnocharis clone 16SSG18 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KU840567.1	554	Fejervarya limnocharis clone 16SF15 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KU840566.1	554	Fejervarya limnocharis clone 16SS12 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827755.1	412	Fejervarya limnocharis voucher 2003.9626 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827754.1	408	Fejervarya limnocharis voucher K1618 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827753.1	412	Fejervarya limnocharis voucher 2004.0309 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827752.1	412	Fejervarya limnocharis voucher 2005.0110 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827751.1	412	Fejervarya limnocharis voucher 2004.0208 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827750.1	412	Fejervarya limnocharis voucher K3102 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827749.1	412	Fejervarya limnocharis voucher 2006.2411 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827748.1	412	Fejervarya limnocharis voucher K3085 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827747.1	412	Fejervarya limnocharis voucher K3111 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827746.1	412	Fejervarya limnocharis voucher 2006.2423 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827745.1	412	Fejervarya limnocharis voucher 1997.8308 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827744.1	412	Fejervarya limnocharis voucher G024 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827743.1	304	Fejervarya limnocharis voucher 2000.8357 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827742.1	412	Fejervarya limnocharis voucher K3401 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827741.1	412	Fejervarya limnocharis voucher K3037 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827740.1	412	Fejervarya limnocharis voucher 1999.5721 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827739.1	412	Fejervarya limnocharis voucher K756 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	KR827738.1	412	Fejervarya limnocharis voucher TAD_P992 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB570267.1	483	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype: FL-6
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB570266.1	483	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype: FL-5
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB570265.1	482	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype: FL-4
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB570264.1	483	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype: FL-3
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB570263.1	482	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype: FL-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB570262.1	478	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype: FL-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB530625.1	1426	Fejervarya limnocharis mitochondrial genes for 16S rRNA, tRNA-Val, partial sequence, haplotype: Flim-My
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	NC_005055.1	17717	Fejervarya limnocharis mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	JQ621940.1	561	Fejervarya limnocharis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AY843588.1	2415	Fejervarya limnocharis 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277302.1	748	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-limno
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277301.1	748	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Malay
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277300.1	532	Fejervarya limnocharis mitochondrial gene for 16S ribosomal Rna, partial sequence, haplotype: 16S-Thai 3
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277299.1	816	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Thai 2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277298.1	629	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Thai 1-7
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277297.1	749	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Thai 1-6
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277296.1	749	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Thai 1-5
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277295.1	544	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Thai 1-4
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277294.1	549	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Thai 1-3
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277293.1	511	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Thai 1-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB277292.1	583	Fejervarya limnocharis mitochondrial gene for 16S ribosomal RNA, partial sequence, haplotype: 16S-Thai 1-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB296100.1	499	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype:limn-sara-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB296099.1	499	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype:limn-sara-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB296098.1	499	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype:limn-kual-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AB296097.1	499	Fejervarya limnocharis mitochondrial gene for 16S rRNA, partial sequence, haplotype:limn-kual-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	GU191121.1	209	Fejervarya limnocharis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226067.1	537	Fejervarya limnocharis haplotype H013 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226066.1	537	Fejervarya limnocharis haplotype H012 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226065.1	538	Fejervarya limnocharis haplotype H011 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226064.1	537	Fejervarya limnocharis haplotype H010 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226063.1	537	Fejervarya limnocharis haplotype H009 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226062.1	537	Fejervarya limnocharis haplotype H008 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226061.1	537	Fejervarya limnocharis haplotype H007 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226060.1	537	Fejervarya limnocharis haplotype H006 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226059.1	537	Fejervarya limnocharis haplotype H005 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226058.1	537	Fejervarya limnocharis haplotype H004 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226057.1	537	Fejervarya limnocharis haplotype H003 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226056.1	537	Fejervarya limnocharis haplotype H002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	HQ226055.1	537	Fejervarya limnocharis haplotype H001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	EU979848.1	553	Fejervarya sp. JC-2008 voucher SCUMH003CJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	EU979847.1	553	Fejervarya limnocharis voucher MVZ226347 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	DQ458239.1	725	Fejervarya limnocharis voucher SCUM04H001 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	EU604202.1	547	Fejervarya limnocharis isolate SNP0261 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	EU604201.1	560	Fejervarya limnocharis isolate NA0083 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	EU604200.1	562	Fejervarya limnocharis isolate NA0084 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	DQ458253.1	554	Fejervarya limnocharis voucher SCUM04H001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AF315139.1	545	Fejervarya limnocharis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_limnocharis	AF346811.1	396	Fejervarya limnocharis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

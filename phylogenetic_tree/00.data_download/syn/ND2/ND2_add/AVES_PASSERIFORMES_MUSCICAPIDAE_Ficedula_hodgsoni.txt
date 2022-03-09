@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_hodgsoni	MN991468.1	1041	Muscicapella hodgsoni voucher LSUMNS B-52616 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_hodgsoni	DQ674453.1	497	Muscicapella hodgsoni voucher USNM584517 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_hodgsoni	KJ455516.1	1041	Muscicapella hodgsoni NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_hodgsoni	KJ909986.1	1041	Muscicapella hodgsoni voucher LSUMZ52616 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_hodgsoni	GU358811.1	1041	Muscicapella hodgsoni voucher NRM 67707 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

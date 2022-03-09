@@ -1,0 +1,6 @@
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	GU566432.1	695	Sasia ochracea isolate L8 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	NC_028019.1	16908	Sasia ochracea voucher MNHN CG 2005-2676 mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	KT443919.1	16908	Sasia ochracea voucher MNHN CG 2005-2676 mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	JQ176177.2	652	Sasia ochracea voucher USNM:Birds:631804 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	JQ176179.1	652	Sasia ochracea voucher USNM:Birds:631840 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	JQ176178.1	652	Sasia ochracea voucher USNM:Birds:631803 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

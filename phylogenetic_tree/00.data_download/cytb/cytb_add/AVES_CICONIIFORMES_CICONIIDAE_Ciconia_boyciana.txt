@@ -1,0 +1,4 @@
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_boyciana	GQ244409.1	278	Ciconia boyciana cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_boyciana	NC_002196.1	17622	Ciconia boyciana mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_boyciana	U72773.1	1041	Ciconia boyciana cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_boyciana	AB026193.1	17622	Ciconia boyciana mitochondrial DNA, complete genome

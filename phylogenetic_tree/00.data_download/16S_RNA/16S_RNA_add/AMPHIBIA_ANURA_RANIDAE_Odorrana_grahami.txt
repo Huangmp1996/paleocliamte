@@ -1,0 +1,12 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	MW551527.1	17864	Odorrana grahami mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	KF185051.1	1059	Odorrana grahami voucher HNNU 1008-016 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	DQ283241.1	2413	Odorrana grahami voucher CAS 207504 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	KU840595.1	555	Odorrana grahami clone 16S36 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	KF771293.1	1610	Odorrana grahami 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	JQ621939.1	558	Rana grahami 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	EU861555.1	598	Odorrana grahami voucher CAS 207505 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	EU861554.1	598	Odorrana grahami voucher CAS 207504 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	EF453746.1	826	Rana grahami voucher SCUM0405186CJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	DQ359993.1	512	Odorrana grahami voucher SCUM0405186CJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	AF315156.1	555	Rana grahami 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	AF315128.1	387	Rana grahami 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

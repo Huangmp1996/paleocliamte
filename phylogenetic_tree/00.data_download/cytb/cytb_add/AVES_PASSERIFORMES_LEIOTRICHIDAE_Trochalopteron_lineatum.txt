@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_lineatum	EU447080.1	846	Garrulax lineatus lineatus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_lineatum	KJ456498.1	1143	Garrulax lineatus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_lineatum	JF804081.1	619	Garrulax lineatus isolate 90145 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_lineatum	JN827032.1	967	Garrulax lineatus voucher FMNH 347873 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_lineatum	JN827031.1	967	Garrulax lineatus voucher FMNH 347872 cytochrome b (CYTB) gene, partial cds; mitochondrial

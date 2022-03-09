@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	AF326271.1	1172	Myospalax psilurus isolate 2 cytochrome b (cyt b) gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	AF326270.1	1143	Myospalax psilurus isolate 1 cytochrome b (cyt b) gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	NC_026034.1	16360	Myospalax psilurus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	JX014234.1	16360	Myospalax psilurus mitochondrion, complete genome

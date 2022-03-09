@@ -1,0 +1,9 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	MG193909.1	16579	Rhizomys pruinosus isolate Wenzhou mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	MH189136.1	684	Rhizomys pruinosus isolate HDMK7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	MH189135.1	666	Rhizomys pruinosus isolate HDMK8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	NC_021478.1	16575	Rhizomys pruinosus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	KC789518.1	16575	Rhizomys pruinosus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	JQ601434.1	657	Rhizomys pruinosus voucher ROM:107681 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	JQ601433.1	657	Rhizomys pruinosus voucher ROM:107680 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	JQ601432.1	657	Rhizomys pruinosus voucher ROM:107679 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	JF444433.1	657	Rhizomys pruinosus voucher ROM:114942 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

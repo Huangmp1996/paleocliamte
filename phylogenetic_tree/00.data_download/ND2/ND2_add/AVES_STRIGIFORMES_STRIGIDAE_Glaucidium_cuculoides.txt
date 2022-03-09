@@ -1,0 +1,4 @@
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_cuculoides	NC_034296.1	17392	Glaucidium cuculoides mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_cuculoides	KY092431.1	17392	Glaucidium cuculoides mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_cuculoides	KJ455445.1	1041	Glaucidium cuculoides voucher AMNH:14736 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_cuculoides	EU601047.1	1041	Glaucidium cuculoides isolate W70 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

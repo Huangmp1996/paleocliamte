@@ -1,0 +1,62 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530598.1	604	Rhabdophis subminiatus isolate GP1237 NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530587.1	1057	Rhabdophis subminiatus isolate GP902 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530586.1	1057	Rhabdophis subminiatus isolate GP820 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530584.1	1057	Rhabdophis subminiatus isolate GP798 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530583.1	1057	Rhabdophis subminiatus isolate GP797 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530582.1	1057	Rhabdophis subminiatus isolate GP795 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530581.1	1057	Rhabdophis subminiatus isolate GP794 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530580.1	1057	Rhabdophis subminiatus isolate GP793 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530579.1	1057	Rhabdophis subminiatus isolate GP792 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530578.1	1057	Rhabdophis subminiatus isolate GP791 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530577.1	1057	Rhabdophis subminiatus isolate GP790 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530576.1	984	Rhabdophis subminiatus isolate GP789 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530573.1	1037	Rhabdophis subminiatus isolate GP5116 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530570.1	1057	Rhabdophis subminiatus isolate GP5030 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530569.1	1057	Rhabdophis subminiatus isolate GP5029 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530568.1	1057	Rhabdophis subminiatus isolate GP5028 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530567.1	982	Rhabdophis subminiatus isolate GP5025 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530566.1	1057	Rhabdophis subminiatus isolate GP5024 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530565.1	975	Rhabdophis subminiatus isolate GP5022 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530564.1	1012	Rhabdophis subminiatus isolate GP5020 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530563.1	1057	Rhabdophis subminiatus isolate GP4732 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530561.1	1057	Rhabdophis subminiatus isolate GP4476 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530560.1	919	Rhabdophis subminiatus isolate GP4460 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530559.1	1057	Rhabdophis subminiatus isolate GP4459 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530558.1	894	Rhabdophis subminiatus isolate GP4421 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530557.1	1057	Rhabdophis subminiatus isolate GP4283 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530556.1	1057	Rhabdophis subminiatus isolate GP4282 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530555.1	969	Rhabdophis subminiatus isolate GP4280 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530554.1	1057	Rhabdophis subminiatus isolate GP4192 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530553.1	921	Rhabdophis subminiatus isolate GP4165 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530552.1	977	Rhabdophis subminiatus isolate GP4131 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530551.1	1057	Rhabdophis subminiatus isolate GP4031 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530550.1	1057	Rhabdophis subminiatus isolate GP3977 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530549.1	1057	Rhabdophis subminiatus isolate GP3963 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530548.1	864	Rhabdophis subminiatus isolate GP3962 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530544.1	1057	Rhabdophis subminiatus isolate GP1788 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530543.1	1004	Rhabdophis subminiatus isolate GP1624 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530540.1	1054	Rhabdophis subminiatus isolate GP1237 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530539.1	1057	Rhabdophis subminiatus isolate GP1236 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530538.1	1057	Rhabdophis subminiatus isolate GP1181 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530537.1	1057	Rhabdophis subminiatus isolate GP1180 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530535.1	1057	Rhabdophis subminiatus isolate 12G41080 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530534.1	1057	Rhabdophis subminiatus isolate 12F35655 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530533.1	1057	Rhabdophis subminiatus isolate 12E37604 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530532.1	1057	Rhabdophis subminiatus isolate 12D37613 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK530531.1	1057	Rhabdophis subminiatus isolate 12C35849 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK201492.1	585	Rhabdophis subminiatus voucher CHS732 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	LC325328.1	998	Rhabdophis subminiatus HT680 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	LC325316.1	943	Rhabdophis subminiatus HT345 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	LC325315.1	1004	Rhabdophis subminiatus HT344 mitochondrial MT-CYB gene, partial sequence
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	LC325308.1	993	Rhabdophis subminiatus HT267 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	KY379913.1	1002	Rhabdophis subminiatus voucher XC8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	KF765398.1	1095	Rhabdophis subminiatus voucher RDQ200905366 cytochrome b (cyt b) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	AB920286.1	501	Rhabdophis subminiatus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: RSU3
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	AB920285.1	532	Rhabdophis subminiatus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: RSU2
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	AB920284.1	500	Rhabdophis subminiatus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: RSU1
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	KF800928.1	1095	Rhabdophis subminiatus voucher SICAU090029 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	KF800927.1	1095	Rhabdophis subminiatus voucher SCUM090014 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	HG763868.1	315	Rhabdophis subminiatus mitochondrial partial cytb gene for cytochrome b, specimen voucher MSNG52290B
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	HG763867.1	315	Rhabdophis subminiatus mitochondrial partial cytb gene for cytochrome b, specimen voucher MSNG55943A
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	JQ598951.1	722	Rhabdophis subminiatus cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	GQ281777.1	1075	Rhabdophis subminiatus isolate GP57 cytochrome b (cytb) gene, partial cds; mitochondrial

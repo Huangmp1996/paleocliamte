@@ -1,0 +1,56 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	MW303426.1	191	Lutra lutra haplotype OD2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	MW303425.1	191	Lutra lutra haplotype OD1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	MW573979.1	16537	Lutra lutra mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	MT108737.1	112	Lutra lutra voucher 10397 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	MT108736.1	112	Lutra lutra voucher 10395 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC501449.1	705	Lutra lutra mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Hap4
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC501448.1	705	Lutra lutra mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Hap3
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC501447.1	705	Lutra lutra mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: KO2
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC501446.1	705	Lutra lutra mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: KO3
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	EF689068.1	1140	Lutra lutra isolate Ll28m0304 cytb gene, complete sequence; and cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	EF689067.1	1140	Lutra lutra isolate 02-0247 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC094961.1	16417	Lutra lutra mitochondrial DNA, nearly complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	MN122838.1	16569	Lutra lutra isolate DM4 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	MF135247.1	329	Lutra lutra cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LT593916.1	1140	Lutra lutra mitochondrial Cytb gene for Cytochrome b protein, haplotype H7
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LT593915.1	1140	Lutra lutra mitochondrial Cytb gene for Cytochrome b protein, haplotype H3
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LT593914.1	1140	Lutra lutra mitochondrial Cytb gene for Cytochrome b protein, haplotype H2
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LT593913.1	1140	Lutra lutra mitochondrial Cytb gene for Cytochrome b protein, haplotype H1
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LT220228.1	307	Lutra lutra mitochondrial partial mRNA for Cytochrome-b protein (Cyt-b gene), specimen voucher NMW 43414
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KU953404.1	1140	Lutra lutra isolate KO6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KU953403.1	1140	Lutra lutra isolate KO5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KU953402.1	1140	Lutra lutra isolate KO4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KU953401.1	1140	Lutra lutra isolate KO3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KU953400.1	1140	Lutra lutra isolate KO2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KU953399.1	1140	Lutra lutra isolate KO1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	FJ236015.1	16536	Lutra lutra mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AF057124.1	1140	Lutra lutra cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AF498214.1	284	Lutra lutra rhodopsin (rho) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AF498190.1	619	Lutra lutra growth hormone receptor precursor (ghr) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AF498135.1	369	Lutra lutra nicotinic cholinergic receptor alpha polypeptide 1 precursor (chrna1) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AF498112.1	298	Lutra lutra apolipoprotein B-100 (apoB-100) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AF498166.1	416	Lutra lutra feline sarcoma proto-oncogene (c-fes) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	EF672696.1	16505	Lutra lutra mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC050126.1	16519	Lutra lutra mitochondrial DNA, nearly complete genome, specimen_voucher: NZP-SS-01
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC049955.1	16536	Lutra lutra mitochondrial DNA, nearly complete genome, specimen_voucher: YCM:M0001
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC049954.1	16536	Lutra lutra mitochondrial DNA, nearly complete genome, specimen_voucher: NMNS:CA209
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC049953.1	16536	Lutra lutra mitochondrial DNA, nearly complete genome, isolate: #32
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC049952.1	16537	Lutra lutra mitochondrial DNA, nearly complete genome, isolate: #39
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC049378.1	16537	Lutra lutra mitochondrial DNA, nearly complete genome, isolate: #35
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	LC049377.1	16492	Lutra lutra mitochondrial DNA, nearly complete genome, isolate: #52
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KU170048.1	399	Lutra lutra voucher Ll02Md cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KU170047.1	399	Lutra lutra voucher Ll01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KM224420.1	311	Lutra lutra isolate FRT105 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KM224419.1	403	Lutra lutra isolate FRT104 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KM224418.1	358	Lutra lutra isolate FRT103 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KM224329.1	319	Lutra lutra isolate FRT105 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KM224328.1	319	Lutra lutra isolate FRT104 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	KM224327.1	309	Lutra lutra isolate FRT103 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AB933269.1	307	Lutra lutra mitochondrial gene for cytochrome b, partial cds, strain: B line
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AB933268.1	307	Lutra lutra mitochondrial gene for cytochrome b, partial cds, strain: A line
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	NC_011358.1	16536	Lutra lutra mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	D26521.1	375	Lutra lutra mitochondrial gene for cytochrome b, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AJ536012.1	402	Lutra lutra mitochondrial partial cytb gene for cytochrome b, isolate m355
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AJ536011.1	402	Lutra lutra mitochondrial partial cytb gene for cytochrome b, isolate m258
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	AJ536010.1	402	Lutra lutra mitochondrial partial cytb gene for cytochrome b, isolate m217
+MAMMALIA_CARNIVORA_MUSTELIDAE_Lutra_lutra	X94923.1	1140	L.lutra mitochondrial DNA for cytochrome b (complete sequence)

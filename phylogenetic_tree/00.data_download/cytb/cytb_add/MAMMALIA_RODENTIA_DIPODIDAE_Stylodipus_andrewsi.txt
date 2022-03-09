@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_andrewsi	MN979746.1	1083	Stylodipus andrewsi isolate NM10012 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_andrewsi	MF076857.1	912	Stylodipus andrewsi voucher ZMMU:S-194136 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_andrewsi	MF076856.1	1111	Stylodipus andrewsi voucher ZMMU:S-192437 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Stylodipus_andrewsi	KM397198.1	1116	Stylodipus andrewsi voucher ZMMU S189199 cytochrome b (cytb) gene, partial cds; mitochondrial

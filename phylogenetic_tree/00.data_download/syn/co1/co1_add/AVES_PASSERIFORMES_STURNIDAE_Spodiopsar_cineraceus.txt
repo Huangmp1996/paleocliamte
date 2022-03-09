@@ -1,0 +1,18 @@
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	GQ482692.1	694	Sturnus cineraceus voucher UWBM 59925 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	GQ482691.1	694	Sturnus cineraceus voucher UWBM 74799 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	GQ482690.1	694	Sturnus cineraceus voucher UWBM 59932 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	GQ482689.1	684	Sturnus cineraceus voucher UWBM 74720 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	GQ482688.1	678	Sturnus cineraceus voucher UWBM 46897 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	JF499169.1	694	Sturnus cineraceus voucher USNM:641799 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	JF499168.1	694	Sturnus cineraceus voucher USNM:641857 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	JF499167.1	694	Sturnus cineraceus voucher USNM:641889 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	JF499166.1	694	Sturnus cineraceus voucher USNM:641916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	JF499165.1	694	Sturnus cineraceus voucher USNM:641917 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	HQ896037.1	16821	Sturnus cineraceus mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	EF484206.1	1551	Sturnus cineraceus isolate Sturnuscineraceus47190 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	AB843787.1	602	Sturnus cineraceus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO323-10
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	AB843786.1	682	Sturnus cineraceus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO182-10
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	AB843199.1	644	Sturnus cineraceus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM028-08
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	AB843198.1	670	Sturnus cineraceus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM136-10
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	AB843197.1	657	Sturnus cineraceus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM713-11
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	NC_015237.1	16821	Sturnus cineraceus mitochondrion, complete genome

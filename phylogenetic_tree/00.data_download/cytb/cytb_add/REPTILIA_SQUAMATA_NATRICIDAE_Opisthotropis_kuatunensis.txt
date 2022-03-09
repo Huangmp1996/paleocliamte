@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_kuatunensis	MW788642.1	17279	Opisthotropis kuatunensis voucher LSU20200820LQGDHLS01 mitochondrion, complete genome
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_kuatunensis	MK201585.1	585	Opisthotropis kuatunensis voucher CHS888 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_kuatunensis	MK201442.1	585	Opisthotropis kuatunensis voucher CHS635 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_kuatunensis	KY594747.1	1060	Opisthotropis kuatunensis voucher SYSr001081 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_kuatunensis	KY594746.1	1060	Opisthotropis kuatunensis voucher SYSr001008 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_kuatunensis	KY594745.1	1060	Opisthotropis kuatunensis voucher SYSr000998 cytochrome b (CYTB) gene, partial cds; mitochondrial

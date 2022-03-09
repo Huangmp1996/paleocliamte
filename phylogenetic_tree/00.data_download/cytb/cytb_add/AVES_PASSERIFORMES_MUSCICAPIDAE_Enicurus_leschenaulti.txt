@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Enicurus_leschenaulti	MN991561.1	1143	Enicurus leschenaulti voucher LSUMNS B-38580 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Enicurus_leschenaulti	KJ456267.1	1073	Enicurus leschenaulti cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Enicurus_leschenaulti	HM633292.1	1076	Enicurus leschenaulti voucher DZUG-U46 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Enicurus_leschenaulti	DQ285442.1	983	Enicurus leschenaulti cytochrome b gene, partial cds; mitochondrial

@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190964.1	1041	Saxicola torquata axillaris voucher IPMB 11608 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190963.1	1041	Saxicola torquata axillaris voucher IPMB 11607 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190962.1	1041	Saxicola torquata axillaris voucher IPMB 11606 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190961.1	1041	Saxicola torquata axillaris voucher IPMB 11605 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190960.1	1041	Saxicola torquata axillaris voucher IPMB 11699 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190959.1	1041	Saxicola torquata axillaris voucher IPMB 11697 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190958.1	1041	Saxicola torquata axillaris voucher IPMB 11696 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190957.1	1041	Saxicola torquata axillaris voucher IPMB 10461 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705790.1	1041	Saxicola torquata axillaris voucher 116 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705788.1	1041	Saxicola torquata voucher SVD 3319K NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705787.1	1041	Saxicola torquata voucher SVD 3213K NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705786.1	1041	Saxicola torquata voucher SVD 3460C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705785.1	1041	Saxicola torquata voucher IVF 638Ch NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705784.1	1041	Saxicola torquata voucher IVF 637Ch NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705783.1	1041	Saxicola torquata voucher IVF 623Ch NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705782.1	1041	Saxicola torquata voucher IVF 608Ch NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705781.1	1041	Saxicola torquata voucher IUK 2344C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705780.1	1041	Saxicola torquata voucher IUK 2333C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705779.1	1041	Saxicola torquata voucher IUK 2327C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705778.1	1041	Saxicola torquata voucher IUK 2323C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705777.1	1041	Saxicola torquata voucher IUK 2318C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705776.1	1041	Saxicola torquata voucher IUK 2317C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705775.1	1041	Saxicola torquata voucher IUK 2262C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705774.1	1041	Saxicola torquata voucher IUK 2261C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705773.1	1041	Saxicola torquata voucher IUK 2260C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705772.1	1041	Saxicola torquata voucher IUK 2259C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705771.1	1041	Saxicola torquata voucher IUK 2258C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705770.1	1041	Saxicola torquata voucher IUK 2257C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705769.1	1041	Saxicola torquata voucher IUK 2256C NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705768.1	1041	Saxicola torquata voucher 4414 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705767.1	1041	Saxicola torquata voucher 4415 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705766.1	1041	Saxicola torquata voucher 4451 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705765.1	1041	Saxicola torquata voucher 4427 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705764.1	1041	Saxicola torquata voucher 4425 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705763.1	1041	Saxicola torquata voucher 4421 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705762.1	1041	Saxicola torquata voucher 4420 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705761.1	1041	Saxicola torquata voucher 4412 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705760.1	1041	Saxicola torquata voucher 12982 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705759.1	1041	Saxicola torquata voucher 12965 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705758.1	1041	Saxicola torquata voucher 12942 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705757.1	1041	Saxicola torquata voucher 12934 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705756.1	1041	Saxicola torquata voucher 12923 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705755.1	1041	Saxicola torquata voucher 12916 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705754.1	1041	Saxicola torquata voucher 11697 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705753.1	1041	Saxicola torquata voucher 11696 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705752.1	1041	Saxicola torquata voucher 10461 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705751.1	1041	Saxicola torquata voucher 4471 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705750.1	1041	Saxicola torquata voucher 4470 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705749.1	1041	Saxicola torquata voucher UWBM 52986 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705748.1	1041	Saxicola torquata voucher UWBM 52977 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705747.1	1041	Saxicola torquata voucher UWBM 52976 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705746.1	1041	Saxicola torquata voucher UWBM 67117 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705745.1	1041	Saxicola torquata voucher UWBM 52773 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705744.1	1041	Saxicola torquata voucher UWBM 52772 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705743.1	1041	Saxicola torquata voucher UWBM 52767 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705742.1	1041	Saxicola torquata voucher BGB 064 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705741.1	1041	Saxicola torquata voucher BGB 037 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705740.1	1041	Saxicola torquata voucher BGB 036 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705739.1	1041	Saxicola torquata voucher BGB 035 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705738.1	1041	Saxicola torquata voucher BGB 034 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705737.1	1041	Saxicola torquata voucher BGB 020 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705736.1	1041	Saxicola torquata voucher BGB 019 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705735.1	1041	Saxicola torquata voucher UWBM 67709 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705734.1	1041	Saxicola torquata voucher UWBM 67649 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705733.1	1041	Saxicola torquata voucher UWBM 66688 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705732.1	1041	Saxicola torquata voucher UWBM 66578 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705731.1	1041	Saxicola torquata voucher UWBM 66562 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705730.1	1041	Saxicola torquata voucher UWBM 66521 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705729.1	1041	Saxicola torquata voucher UWBM 66520 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705728.1	1041	Saxicola torquata voucher UWBM 66489 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705727.1	1041	Saxicola torquata voucher UWBM 66428 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705726.1	1041	Saxicola torquata voucher UWBM 66397 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705725.1	1041	Saxicola torquata voucher UWBM 66377 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705724.1	1041	Saxicola torquata voucher UWBM 64841 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705723.1	1041	Saxicola torquata voucher UWBM 64837 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705722.1	1041	Saxicola torquata voucher UWBM 64788 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705721.1	1041	Saxicola torquata voucher UWBM 64787 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705720.1	1041	Saxicola torquata voucher UWBM 64786 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705719.1	1041	Saxicola torquata voucher UWBM 64785 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705718.1	1041	Saxicola torquata voucher UWBM 64784 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705717.1	1041	Saxicola torquata voucher UWBM 64783 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705716.1	1041	Saxicola torquata voucher UWBM 64782 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705715.1	1041	Saxicola torquata voucher UWBM 64781 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705714.1	1041	Saxicola torquata voucher UWBM 61437 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705713.1	1041	Saxicola torquata voucher UWBM 60034 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705712.1	1041	Saxicola torquata voucher UWBM 59924 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705711.1	1041	Saxicola torquata voucher UWBM 59919 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705710.1	1041	Saxicola torquata voucher UWBM 59917 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705709.1	1041	Saxicola torquata voucher UWBM 59878 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705708.1	1041	Saxicola torquata voucher UWBM 59822 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705707.1	1041	Saxicola torquata voucher UWBM 59770 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705706.1	1041	Saxicola torquata voucher UWBM 59747 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705705.1	1041	Saxicola torquata voucher UWBM 58051 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705704.1	1041	Saxicola torquata voucher UWBM 58042 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705703.1	1041	Saxicola torquata voucher UWBM 57896 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705702.1	1041	Saxicola torquata voucher UWBM 57895 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705701.1	1041	Saxicola torquata voucher UWBM 56868 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705700.1	1041	Saxicola torquata voucher UWBM 56576 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705699.1	1041	Saxicola torquata voucher UWBM 56575 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ705698.1	1041	Saxicola torquata voucher UWBM 56449 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

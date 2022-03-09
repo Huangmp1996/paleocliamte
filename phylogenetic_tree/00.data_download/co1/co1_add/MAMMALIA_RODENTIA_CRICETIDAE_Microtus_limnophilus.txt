@@ -1,0 +1,24 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	HQ329103.1	1239	Microtus limnophilus isolate DGS01 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	HQ329102.1	1239	Microtus limnophilus isolate DGP01 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	KP190303.1	1542	Microtus limnophilus isolate XLHP03 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	KP190302.1	1542	Microtus limnophilus isolate qinghai218 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	KP190301.1	1542	Microtus limnophilus isolate qinghai201 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	KP190300.1	1542	Microtus limnophilus isolate qinghai019 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	KP190299.1	1542	Microtus limnophilus isolate qinghai017 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	KP190298.1	1542	Microtus limnophilus isolate SQ06016 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JX962280.1	653	Microtus limnophilus isolate QH506_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JX962279.1	653	Microtus limnophilus isolate QH622_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JX962278.1	653	Microtus limnophilus isolate QH583_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JX962277.1	653	Microtus limnophilus isolate QH524_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JX962276.1	653	Microtus limnophilus isolate QH937_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JX962275.1	653	Microtus limnophilus isolate QH637_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JX962274.1	653	Microtus limnophilus isolate QH503_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043509.1	650	Microtus limnophilus isolate QH69 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043508.1	650	Microtus limnophilus isolate QH58 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043507.1	650	Microtus limnophilus isolate QH85 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043506.1	650	Microtus limnophilus isolate QH31 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043505.1	650	Microtus limnophilus isolate QH38 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043504.1	650	Microtus limnophilus isolate QH116 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043503.1	650	Microtus limnophilus isolate QH209 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043502.1	650	Microtus limnophilus isolate QH220 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_limnophilus	JQ043501.1	650	Microtus limnophilus isolate QH67 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

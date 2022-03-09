@@ -1,0 +1,11 @@
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	DQ283408.1	2419	Bombina microdeladigitora voucher AMNH A163789 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	NC_021476.1	18256	Bombina microdeladigitora voucher 1770 mitochondrion, complete genome
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	JX893182.1	18256	Bombina microdeladigitora voucher 1770 mitochondrion, complete genome
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	EU531352.1	1950	Bombina microdeladigitora voucher IZCAS:H30100 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	EU531350.1	1950	Bombina microdeladigitora voucher IZCAS:H30096 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	EU531338.1	1947	Bombina microdeladigitora voucher ROM:38061 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	DQ925778.1	609	Bombina microdeladigitora isolate YD3-22 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	DQ925772.1	528	Bombina microdeladigitora isolate GM2-16 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	DQ925771.1	438	Bombina microdeladigitora isolate GM1-15 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	DQ925761.1	609	Bombina microdeladigitora isolate YD2-4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_microdeladigitora	DQ925760.1	609	Bombina microdeladigitora isolate YD1-3 16S ribosomal RNA gene, partial sequence; mitochondrial

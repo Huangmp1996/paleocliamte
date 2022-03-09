@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK065603.1	498	Bungarus fasciatus voucher CHS727 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK065550.1	498	Bungarus fasciatus voucher CHS647 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK065461.1	498	Bungarus fasciatus voucher CHS285 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	Z46501.1	412	B.fasciatus mitochondrial gene for 16S ribosomal RNA
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	Z46466.1	385	B.fasciatus mitochondrial gene for 12S ribosomal RNA
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	EU579523.1	17234	Bungarus fasciatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	NC_011393.1	17234	Bungarus fasciatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	JN687934.1	932	Bungarus fasciatus 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	EU547135.1	919	Bungarus fasciatus 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	U96793.1	632	Bungarus fasciatus 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

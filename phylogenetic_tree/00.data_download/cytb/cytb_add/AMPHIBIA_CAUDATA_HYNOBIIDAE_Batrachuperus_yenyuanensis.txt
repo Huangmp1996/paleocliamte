@@ -1,0 +1,56 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296304.1	754	Batrachuperus yenyuanensis isolate CIB-IOZ3828 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296303.1	754	Batrachuperus yenyuanensis isolate CIB-IOZ3817 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296302.1	754	Batrachuperus yenyuanensis isolate CIB-IOZ3816 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296301.1	754	Batrachuperus yenyuanensis isolate CIB-IOZ3623 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296300.1	754	Batrachuperus yenyuanensis isolate CIB-IOZ3621 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296299.1	754	Batrachuperus yenyuanensis isolate CIB-XM904 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296298.1	754	Batrachuperus yenyuanensis isolate CIB-IOZ3609 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296297.1	754	Batrachuperus yenyuanensis isolate CIB-XM903 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296296.1	754	Batrachuperus yenyuanensis isolate CIB-IOZ3944 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296295.1	754	Batrachuperus yenyuanensis isolate CIB-IOZ3842 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296294.1	754	Batrachuperus yenyuanensis isolate CIB-XM971 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	EU296293.1	754	Batrachuperus yenyuanensis isolate CIB-XM941 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	DQ333818.1	16394	Batrachuperus yenyuanensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY593145.1	1142	Batrachuperus yenyuanensis cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY028763.1	755	Batrachuperus yenyuanensis strain MVZ231098 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY028762.1	755	Batrachuperus yenyuanensis strain MVZ231097 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	NC_012430.1	16394	Batrachuperus yenyuanensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304045.1	764	Batrachuperus yenyuanensis isolate Hap201 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304044.1	764	Batrachuperus yenyuanensis isolate Hap200 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304043.1	764	Batrachuperus yenyuanensis isolate Hap199 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304042.1	764	Batrachuperus yenyuanensis isolate Hap198 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304041.1	764	Batrachuperus yenyuanensis isolate Hap197 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304040.1	764	Batrachuperus yenyuanensis isolate Hap196 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304039.1	764	Batrachuperus yenyuanensis isolate Hap195 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304038.1	764	Batrachuperus yenyuanensis isolate Hap194 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304037.1	764	Batrachuperus yenyuanensis isolate Hap193 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304036.1	764	Batrachuperus yenyuanensis isolate Hap192 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304035.1	764	Batrachuperus yenyuanensis isolate Hap191 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304034.1	764	Batrachuperus yenyuanensis isolate Hap190 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304033.1	764	Batrachuperus yenyuanensis isolate Hap189 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304032.1	764	Batrachuperus yenyuanensis isolate Hap188 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304031.1	764	Batrachuperus yenyuanensis isolate Hap187 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304030.1	764	Batrachuperus yenyuanensis isolate Hap186 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304029.1	764	Batrachuperus yenyuanensis isolate Hap185 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304028.1	764	Batrachuperus yenyuanensis isolate Hap184 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304027.1	764	Batrachuperus yenyuanensis isolate Hap183 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304026.1	764	Batrachuperus yenyuanensis isolate Hap182 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304025.1	764	Batrachuperus yenyuanensis isolate Hap181 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304024.1	764	Batrachuperus yenyuanensis isolate Hap180 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304023.1	764	Batrachuperus yenyuanensis isolate Hap179 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304022.1	764	Batrachuperus yenyuanensis isolate Hap178 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304021.1	764	Batrachuperus yenyuanensis isolate Hap177 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304020.1	764	Batrachuperus yenyuanensis isolate Hap176 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304019.1	764	Batrachuperus yenyuanensis isolate Hap175 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304018.1	764	Batrachuperus yenyuanensis isolate Hap174 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304017.1	764	Batrachuperus yenyuanensis isolate Hap173 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304016.1	764	Batrachuperus yenyuanensis isolate Hap172 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304015.1	764	Batrachuperus yenyuanensis isolate Hap171 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304014.1	764	Batrachuperus yenyuanensis isolate Hap170 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304013.1	764	Batrachuperus yenyuanensis isolate Hap169 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304012.1	764	Batrachuperus yenyuanensis isolate Hap168 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304011.1	764	Batrachuperus yenyuanensis isolate Hap167 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304010.1	764	Batrachuperus yenyuanensis isolate Hap166 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304009.1	764	Batrachuperus yenyuanensis isolate Hap165 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304008.1	764	Batrachuperus yenyuanensis isolate Hap164 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304007.1	764	Batrachuperus yenyuanensis isolate Hap163 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,18 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	MT797633.1	821	Xenophrys major voucher MZUHC 444 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	MH406729.1	536	Xenophrys major isolate 2962 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	MH406728.1	536	Xenophrys major isolate 2961 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	MH647516.1	1889	Xenophrys major 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	MH647515.1	1888	Xenophrys major 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	MH647514.1	1893	Xenophrys major 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	DQ283374.1	1972	Xenophrys major voucher AMNH A161506 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KY476333.1	525	Xenophrys major voucher AMS:R173870 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KY022311.1	1866	Megophrys major voucher SDBDU 2009.750 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KY022310.1	1865	Megophrys major voucher SDBDU 2009.133 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KY022309.1	1866	Megophrys major voucher SDBDU 2009.1243 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KY022308.1	1866	Megophrys major voucher RGK 0089 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KY022307.1	1862	Megophrys major voucher SDBDU 2009.297 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KY022306.1	1859	Megophrys major voucher SDBDU 2009.1104 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KR828085.1	413	Xenophrys major voucher 2004.0280 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	KR828084.1	414	Xenophrys major voucher 0025Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	HQ588953.1	530	Xenophrys major isolate RH06001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_major	HQ588952.1	530	Xenophrys major isolate RH06163 16S ribosomal RNA gene, partial sequence; mitochondrial

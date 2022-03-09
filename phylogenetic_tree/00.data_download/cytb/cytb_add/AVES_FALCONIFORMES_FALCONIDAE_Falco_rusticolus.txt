@@ -1,0 +1,16 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	MT431198.1	1143	Falco rusticolus isolate FR6KM cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	MT431197.1	1143	Falco rusticolus isolate FR5CH cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EF517344.1	1540	Falco rusticolus haplotype H cytochrome b (cytB) gene, partial cds; tRNA-Thr gene, complete sequence; and control region, partial sequence; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EF517343.1	1540	Falco rusticolus haplotype G cytochrome b (cytB) gene, partial cds; tRNA-Thr gene, complete sequence; and control region, partial sequence; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EF517342.1	1540	Falco rusticolus haplotype F cytochrome b (cytB) gene, partial cds; tRNA-Thr gene, complete sequence; and control region, partial sequence; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EF517341.1	1540	Falco rusticolus haplotype E cytochrome b (cytB) gene, partial cds; tRNA-Thr gene, complete sequence; and control region, partial sequence; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EF517340.1	1540	Falco rusticolus haplotype D cytochrome b (cytB) gene, partial cds; tRNA-Thr gene, complete sequence; and control region, partial sequence; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EF517339.1	1540	Falco rusticolus haplotype C cytochrome b (cytB) gene, partial cds; tRNA-Thr gene, complete sequence; and control region, partial sequence; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EF517338.1	1540	Falco rusticolus haplotype B cytochrome b (cytB) gene, partial cds; tRNA-Thr gene, complete sequence; and control region, partial sequence; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EF517337.1	1540	Falco rusticolus haplotype A cytochrome b (cytB) gene, partial cds; tRNA-Thr gene, complete sequence; and control region, partial sequence; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	NC_029359.1	18218	Falco rusticolus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	KT989235.1	18218	Falco rusticolus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EU233110.1	1139	Falco rusticolus obsoletus voucher IPMB 9688 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EU233109.1	1135	Falco rusticolus obsoletus voucher IPMB 33799 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EU233108.1	1013	Falco rusticolus candidans voucher IPMB 9689 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	EU233107.1	1013	Falco rusticolus candidans voucher IPMB 26549 cytochrome b (cytb) gene, partial cds; mitochondrial

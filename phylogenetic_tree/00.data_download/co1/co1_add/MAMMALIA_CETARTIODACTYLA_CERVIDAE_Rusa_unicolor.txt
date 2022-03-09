@@ -1,0 +1,77 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MK941883.1	16557	Rusa unicolor cambojensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KX377322.1	574	Rusa unicolor haplotype RU2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KX377321.1	574	Rusa unicolor haplotype RU1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MK393425.1	406	Rusa unicolor voucher ZSI/SRC B-30 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MK393424.1	406	Rusa unicolor voucher ZSI/SRC B-30B cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177030.1	16038	Rusa unicolor isolate RUN66 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177029.1	16045	Rusa unicolor isolate RUN65 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177028.1	16046	Rusa unicolor isolate RUN56 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177027.1	16025	Rusa unicolor isolate RUN54 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177026.1	15863	Rusa unicolor isolate RUN51 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177025.1	16033	Rusa unicolor isolate RUN47 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177024.1	16027	Rusa unicolor isolate RUN45 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177023.1	16036	Rusa unicolor isolate RUN26 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177022.1	15884	Rusa unicolor isolate RUN21 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177021.1	16046	Rusa unicolor isolate RUN19 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177020.1	16013	Rusa unicolor isolate RUN6 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177019.1	16046	Rusa unicolor isolate RUN5 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177018.1	16047	Rusa unicolor isolate RUN3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177017.1	16047	Rusa unicolor isolate RTI43 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177016.1	16026	Rusa unicolor isolate RTI27 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177015.1	16022	Rusa unicolor isolate RTI22 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177014.1	16044	Rusa unicolor isolate RTI21 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177013.1	16034	Rusa unicolor isolate RTI19 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177012.1	16005	Rusa unicolor isolate RTI18 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177011.1	15998	Rusa unicolor isolate RTI2 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177010.1	16049	Rusa unicolor isolate RUN62 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177009.1	16008	Rusa unicolor isolate RUN61 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177008.1	16011	Rusa unicolor isolate RUN58 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177007.1	16045	Rusa unicolor isolate RUN55 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177006.1	16009	Rusa unicolor isolate RUN44 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177005.1	15981	Rusa unicolor isolate RUN43 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177004.1	16047	Rusa unicolor isolate RUN42 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177003.1	16001	Rusa unicolor isolate RUN39 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177002.1	16040	Rusa unicolor isolate RUN38 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177001.1	16045	Rusa unicolor isolate RUN35 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF177000.1	16009	Rusa unicolor isolate RUN34 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176999.1	16024	Rusa unicolor isolate Run33 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176998.1	16047	Rusa unicolor isolate RUN32 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176997.1	16048	Rusa unicolor isolate RUN28 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176996.1	16040	Rusa unicolor isolate RUN20 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176995.1	16044	Rusa unicolor isolate RUN12 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176994.1	16047	Rusa unicolor isolate RUN10 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176993.1	16046	Rusa unicolor isolate RUN2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176992.1	16009	Rusa unicolor isolate RTI39 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176991.1	16036	Rusa unicolor isolate RTI33 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176990.1	16018	Rusa unicolor isolate RTI32 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176989.1	16039	Rusa unicolor isolate RTI31 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176988.1	16007	Rusa unicolor isolate RTI30 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176987.1	16025	Rusa unicolor isolate RTI20 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176986.1	15876	Rusa unicolor isolate RTI17 mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176985.1	16035	Rusa unicolor isolate RTI13 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176984.1	16041	Rusa unicolor isolate RTI9 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176983.1	16018	Rusa unicolor isolate RTI8 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176982.1	16009	Rusa unicolor isolate RTI6 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	MF176981.1	16025	Rusa unicolor isolate RTI3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KY946815.1	16436	Rusa unicolor hainana mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	NC_031835.1	16437	Rusa unicolor mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KX156946.1	16437	Rusa unicolor mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KT372090.1	1545	Rusa unicolor cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	JN714186.1	653	Rusa unicolor isolate WF-RFDF-19-1 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	JN714185.1	653	Rusa unicolor isolate WF-RFDF-17-1 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	JN714176.1	653	Rusa unicolor isolate WF-RFDF-10-2 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	JN714175.1	653	Rusa unicolor isolate WF-RFDF-10-1 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	HM204516.1	611	Rusa unicolor isolate SR1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	HM204515.1	611	Rusa unicolor isolate SR2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	HM204514.1	611	Rusa unicolor isolate SR3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	EF035448.1	16477	Cervus unicolor swinhoei mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KJ862176.1	648	Rusa unicolor voucher A23 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KF509975.1	658	Rusa unicolor voucher cdM152 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KF509974.1	678	Rusa unicolor voucher cdbxdh2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	KF317912.1	672	Rusa unicolor voucher SBF1T_COIelaphusF.ab1 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	GQ411198.1	654	Rusa unicolor cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	GQ411197.1	654	Rusa unicolor cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	DQ989636.3	16505	Cervus unicolor swinhoei mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	NC_008414.3	16505	Rusa unicolor swinhoei mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	GQ329017.1	658	Rusa unicolor ZJU:CLS438 CEUN-S-SC6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rusa_unicolor	GQ329016.1	658	Rusa unicolor ZJU:CLS438 CEUN-S-SC5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

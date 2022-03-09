@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ricketti	MH079336.1	1077	Phylloscopus ricketti voucher IOZ 20480 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ricketti	AY656239.1	1038	Phylloscopus ricketti cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ricketti	GU045625.1	1077	Phylloscopus ricketti cytochrome b (Cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ricketti	GU045624.1	1077	Phylloscopus ricketti cytochrome b (Cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ricketti	GU045623.1	1077	Phylloscopus ricketti cytochrome b (Cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ricketti	GU045622.1	1077	Phylloscopus ricketti cytochrome b (Cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ricketti	AY606172.1	668	Phylloscopus ricketti isolate r903 cytochrome b (cytb) gene, partial cds; mitochondrial

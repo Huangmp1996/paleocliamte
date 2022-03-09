@@ -1,0 +1,9 @@
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	JF498762.1	567	Coracias garrulus voucher USNM 641329 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	AF407483.1	497	Coracias garrulus FMNH 347816 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	GU571835.1	648	Coracias garrulus voucher BISE-Aves262 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	GQ481619.1	694	Coracias garrulus voucher UWBM 46243 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	GQ481618.1	694	Coracias garrulus voucher UWBM 46244 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	GQ481617.1	694	Coracias garrulus voucher UWBM 56480 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	GQ481616.1	694	Coracias garrulus voucher UWBM 56660 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	KX283110.1	639	Coracias garrulus voucher AI-B127 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Coracias_garrulus	KX283109.1	637	Coracias garrulus voucher AI-B129 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

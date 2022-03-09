@@ -1,0 +1,25 @@
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635567.1	376	Hemidactylus platyurus isolate JJ19-9 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635566.1	376	Hemidactylus platyurus isolate JJ18-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635565.1	376	Hemidactylus platyurus isolate JJ17-7 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635564.1	376	Hemidactylus platyurus isolate JJ16-5 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635563.1	376	Hemidactylus platyurus isolate JJ15-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635562.1	376	Hemidactylus platyurus isolate JJ14-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635561.1	376	Hemidactylus platyurus isolate JJ13-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635560.1	376	Hemidactylus platyurus isolate JJ12-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635559.1	376	Hemidactylus platyurus isolate JJ11-4 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635558.1	376	Hemidactylus platyurus isolate JJ10-4 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635557.1	376	Hemidactylus platyurus isolate JJ9-5 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635556.1	376	Hemidactylus platyurus isolate JJ8-3 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635555.1	376	Hemidactylus platyurus isolate JJ7-4 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635554.1	376	Hemidactylus platyurus isolate JJ6-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635553.1	376	Hemidactylus platyurus isolate JJ5-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635552.1	376	Hemidactylus platyurus isolate JJ4-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635551.1	376	Hemidactylus platyurus isolate JJ3-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635550.1	376	Hemidactylus platyurus isolate JJ2-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	MN635549.1	376	Hemidactylus platyurus isolate JJ1-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	EU268384.1	307	Hemidactylus platyurus voucher KU 304111 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	DQ120297.1	303	Cosymbotus platyurus isolate E29104.3 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	DQ120296.1	303	Cosymbotus platyurus isolate E29104.4 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	DQ120295.1	303	Cosymbotus platyurus isolate E29104.5 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	DQ120294.1	303	Cosymbotus platyurus isolate E29104.2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_platyurus	HM559587.1	307	Hemidactylus platyurus cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,8 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	NC_025316.1	17438	Lepus sinensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	KM362831.1	17438	Lepus sinensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	AY745176.1	756	Lepus sinensis isolate s12 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	AY745175.1	756	Lepus sinensis isolate s4s 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	AY745174.1	756	Lepus sinensis isolate s2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	AY745173.1	756	Lepus sinensis isolate fu3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	AY745172.1	756	Lepus sinensis isolate fu2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	AY745171.1	756	Lepus sinensis isolate fu1 12S ribosomal RNA gene, partial sequence; mitochondrial

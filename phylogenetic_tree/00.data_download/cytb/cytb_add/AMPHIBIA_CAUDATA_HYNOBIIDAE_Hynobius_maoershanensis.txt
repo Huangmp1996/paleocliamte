@@ -1,0 +1,9 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	HM036355.1	16421	Hynobius maoershanensis voucher CIB-XM2121 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	EF433580.1	600	Hynobius maoershanensis voucher CIB-XM1983 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	EF433579.1	600	Hynobius maoershanensis voucher CIB-XM1970 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	JQ929947.1	1141	Hynobius maoershanensis voucher CIB-XM2142 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	JQ929946.1	1141	Hynobius maoershanensis voucher CIB-XM2127 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	JQ929945.1	1141	Hynobius maoershanensis voucher CIB-XM2101 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	NC_023789.1	16412	Hynobius maoershanensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	KF974475.1	16412	Hynobius maoershanensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	AB548372.1	1141	Hynobius maoershanensis mitochondrial cytb gene for cytchrome b, partial cds, specimen_voucher: CIB:70079

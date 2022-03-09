@@ -1,0 +1,4 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_shantungensis	FJ814585.1	1096	Crocidura shantungensis voucher MVZ181203 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_shantungensis	KR560064.1	17161	Crocidura shantungensis quelpartis mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_shantungensis	NC_021398.1	17160	Crocidura shantungensis mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_shantungensis	JX968507.1	17160	Crocidura shantungensis mitochondrion, complete genome

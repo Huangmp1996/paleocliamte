@@ -1,0 +1,10 @@
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	MH141503.1	16694	Perdix dauurica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	KY411596.1	16696	Perdix dauurica voucher UWBM 66631 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	EU845762.1	1023	Perdix dauuricae voucher 603 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	EU845761.1	1023	Perdix dauuricae voucher 611 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	AF222559.1	1041	Perdix dauuricae NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	GU214307.1	1023	Perdix dauurica dauurica isolate 612 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	GU214306.1	1023	Perdix dauurica suschkini isolate 602 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	FJ752431.1	16695	Perdix dauurica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	KC785694.1	1041	Perdix dauurica NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_dauurica	NC_020588.1	16695	Perdix dauurica mitochondrion, complete genome

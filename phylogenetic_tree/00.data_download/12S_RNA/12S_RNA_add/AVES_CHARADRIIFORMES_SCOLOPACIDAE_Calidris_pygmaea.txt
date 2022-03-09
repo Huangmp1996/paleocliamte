@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KY434065.1	16709	Eurynorhynchus pygmeus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	NC_027496.1	16707	Eurynorhynchus pygmeus voucher NJNU:SBS01 mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KP742478.1	16707	Eurynorhynchus pygmeus voucher NJNU:SBS01 mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KF041201.1	624	Eurynorhynchus pygmeus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	EF373081.2	553	Eurynorhynchus pygmeus voucher EP-001 12S ribosomal RNA gene, partial sequence; mitochondrial

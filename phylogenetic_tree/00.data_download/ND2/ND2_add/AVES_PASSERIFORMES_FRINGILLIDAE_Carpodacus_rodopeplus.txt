@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	JN715437.1	1041	Carpodacus rodopeplus NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194146.1	385	Carpodacus rodopeplus voucher ZFMK 2000/80 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194128.1	1038	Carpodacus rodopeplus voucher CAS ORN 95886 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194125.1	1041	Carpodacus rodopeplus voucher AMNH DOT 5631 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial

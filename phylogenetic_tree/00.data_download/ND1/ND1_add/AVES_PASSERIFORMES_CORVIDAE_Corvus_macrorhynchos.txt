@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	MN069302.1	16927	Corvus macrorhynchos intermedius mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	AY129276.1	812	Corvus macrorhynchos 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	NC_027173.1	16927	Corvus macrorhynchos isolate SRI37 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	KR072661.1	17066	Corvus macrorhynchos isolate SRI38 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	KR057957.1	16927	Corvus macrorhynchos isolate SRI37 mitochondrion, complete genome

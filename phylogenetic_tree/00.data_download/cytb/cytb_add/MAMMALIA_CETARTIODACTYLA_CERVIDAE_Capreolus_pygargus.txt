@@ -1,0 +1,100 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	MN813763.1	16359	Capreolus pygargus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	MK795818.1	16353	Capreolus pygargus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	NC_039093.1	16357	Capreolus pygargus tianschanicus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	MF497305.1	16357	Capreolus pygargus tianschanicus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964430.1	1139	Capreolus pygargus haplotype 2510 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964429.1	1139	Capreolus pygargus haplotype 2505 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964428.1	1139	Capreolus pygargus haplotype 1915 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964418.1	1139	Capreolus pygargus haplotype 1201 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964417.1	1139	Capreolus pygargus haplotype 1169 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964416.1	1139	Capreolus pygargus haplotype 1159 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964415.1	1139	Capreolus pygargus haplotype 1375 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964413.1	1139	Capreolus pygargus haplotype 858 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964410.1	1139	Capreolus pygargus haplotype 849 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964403.1	1139	Capreolus pygargus haplotype 765 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964395.1	1139	Capreolus pygargus haplotype 333 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KT964392.1	1139	Capreolus pygargus haplotype 302 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EU216749.2	307	Capreolus pygargus cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	DQ115314.1	904	Capreolus pygargus voucher J.H. An 644 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820968.1	415	Capreolus pygargus isolate cn14 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820967.1	419	Capreolus pygargus isolate cn13 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820966.1	421	Capreolus pygargus isolate cn12 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820965.1	424	Capreolus pygargus isolate cn11 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820964.1	424	Capreolus pygargus isolate cn10 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820963.1	425	Capreolus pygargus isolate cn9 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820962.1	424	Capreolus pygargus isolate cn8 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820961.1	424	Capreolus pygargus isolate cn7 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820960.1	424	Capreolus pygargus isolate cn6 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820959.1	424	Capreolus pygargus isolate cn5 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820958.1	420	Capreolus pygargus isolate cn4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820957.1	425	Capreolus pygargus isolate cn3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820956.1	420	Capreolus pygargus isolate cn2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY820955.1	420	Capreolus pygargus isolate cn1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	AY070227.1	1140	Capreolus pygargus isolate capcaE1 cytochrome b (cytB) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	FJ666591.1	137	Capreolus pygargus isolate RD1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EF139144.1	1140	Capreolus pygargus tianschanicus isolate JHan20-2 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EF139143.1	1140	Capreolus pygargus tianschanicus isolate JHan19-1 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EF139142.1	1140	Capreolus pygargus tianschanicus isolate JHan18-1 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EF139141.1	1140	Capreolus pygargus tianschanicus isolate cgrb2180 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EF139140.1	1140	Capreolus pygargus tianschanicus isolate cgrb1838 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EF139139.1	1140	Capreolus pygargus tianschanicus isolate cgrb647 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EF139138.1	1140	Capreolus pygargus tianschanicus isolate cgrb644 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	EF139137.1	1140	Capreolus pygargus tianschanicus isolate JHan20-1 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KX096848.1	990	Capreolus pygargus isolate 71Cp cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KX096847.1	922	Capreolus pygargus isolate 70Cp cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	NC_025271.1	16357	Capreolus pygargus isolate Cp5 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ681495.1	16355	Capreolus pygargus isolate Cp8 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ681494.1	16352	Capreolus pygargus isolate Cp7 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ681493.1	16353	Capreolus pygargus isolate Cp6 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ681492.1	16357	Capreolus pygargus isolate Cp5 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KM410150.1	1140	Capreolus pygargus isolate J512CP cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ558338.1	1140	Capreolus pygargus haplotype Cp5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ558337.1	1140	Capreolus pygargus haplotype Cp4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ558336.1	1140	Capreolus pygargus haplotype Cp3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ558335.1	1140	Capreolus pygargus haplotype Cp2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	KJ558334.1	1140	Capreolus pygargus haplotype Cp1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX049560.1	1065	Capreolus pygargus haplotype H07 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX049559.1	1065	Capreolus pygargus haplotype H06 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX049558.1	1065	Capreolus pygargus haplotype H05 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX049557.1	1065	Capreolus pygargus haplotype H04 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX049556.1	1065	Capreolus pygargus haplotype H03 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX049555.1	1065	Capreolus pygargus haplotype H02 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX049554.1	1065	Capreolus pygargus haplotype H01 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428942.1	1140	Capreolus pygargus haplotype CBMu05 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428941.1	1140	Capreolus pygargus haplotype CBMt01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428940.1	1140	Capreolus pygargus haplotype CBMs01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428939.1	1140	Capreolus pygargus haplotype CBJjJy01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428938.1	1140	Capreolus pygargus haplotype CBMu04 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428937.1	1140	Capreolus pygargus haplotype CBMuMz01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428936.1	1140	Capreolus pygargus haplotype CBMu02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428935.1	1140	Capreolus pygargus haplotype CBKseKc01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428934.1	1140	Capreolus pygargus haplotype CBCy03 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428933.1	1140	Capreolus pygargus haplotype CBKwKso01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428932.1	1140	Capreolus pygargus haplotype CBRv01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428931.1	1140	Capreolus pygargus haplotype CBCh02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428930.1	1140	Capreolus pygargus haplotype CBCh01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428929.1	1140	Capreolus pygargus haplotype CBCw01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JX428928.1	1140	Capreolus pygargus haplotype CBKseKso02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906185.1	929	Capreolus pygargus isolate 161 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906184.1	931	Capreolus pygargus isolate 2764 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906183.1	931	Capreolus pygargus isolate 2761 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906182.1	930	Capreolus pygargus isolate 2759 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906181.1	931	Capreolus pygargus isolate 2757 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906180.1	930	Capreolus pygargus isolate 2519 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906179.1	930	Capreolus pygargus isolate 2517 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906178.1	931	Capreolus pygargus isolate 2514 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906177.1	931	Capreolus pygargus isolate 2511 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906176.1	931	Capreolus pygargus isolate 2509 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906174.1	930	Capreolus pygargus isolate 686 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906173.1	930	Capreolus pygargus isolate 1171 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906172.1	929	Capreolus pygargus isolate 1160 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906171.1	930	Capreolus pygargus isolate 1156 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906170.1	930	Capreolus pygargus isolate 1074 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906169.1	929	Capreolus pygargus isolate 1168 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906168.1	928	Capreolus pygargus isolate 1166 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906167.1	931	Capreolus pygargus isolate 334 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906166.1	930	Capreolus pygargus isolate 333 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906165.1	930	Capreolus pygargus isolate 327 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906164.1	930	Capreolus pygargus isolate 768 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906163.1	929	Capreolus pygargus isolate 724 D-loop, complete sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Capreolus_pygargus	JQ906162.1	930	Capreolus pygargus isolate 723 D-loop, complete sequence; mitochondrial

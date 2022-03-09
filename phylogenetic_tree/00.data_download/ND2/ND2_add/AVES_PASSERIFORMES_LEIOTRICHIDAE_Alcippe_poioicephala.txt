@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	DQ861966.1	1023	Alcippe poioicephala alearis isolate A78 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	DQ861965.1	1023	Alcippe poioicephala alearis isolate A77 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	DQ861943.1	1023	Alcippe poioicephala alearis isolate A10 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	JN826476.1	1041	Alcippe poioicephala voucher USNM 6060 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	JN826475.1	1041	Alcippe poioicephala voucher USNM 5606 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

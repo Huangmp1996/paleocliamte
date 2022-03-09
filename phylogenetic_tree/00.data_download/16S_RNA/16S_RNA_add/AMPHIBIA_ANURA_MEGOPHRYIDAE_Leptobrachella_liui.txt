@@ -1,0 +1,35 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH923370.1	528	Leptobrachella liui 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH406908.1	525	Leptobrachella liui isolate 4052 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH406907.1	525	Leptobrachella liui isolate 4045 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH406906.1	525	Leptobrachella liui isolate 4044 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	KX856381.1	549	Leptobrachella liui isolate KRM13 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH605575.1	499	Leptobrachella liui voucher SYSa002732 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH605574.1	499	Leptobrachella liui voucher SYSa002479 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH605573.1	499	Leptobrachella liui voucher SYSa002478 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055933.1	490	Leptolalax liui isolate SYSa004666 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055932.1	490	Leptolalax liui isolate KIZ047782 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055931.1	487	Leptolalax liui isolate KIZ018211 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055924.1	494	Leptolalax liui isolate SYSa004497 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055923.1	494	Leptolalax liui isolate SYSa002540 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055922.1	494	Leptolalax liui isolate SYSa002848 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055921.1	494	Leptolalax liui isolate SYSa002805 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055920.1	494	Leptolalax liui isolate SYSa002829 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055919.1	494	Leptolalax liui isolate SYSa002521 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055918.1	494	Leptolalax liui isolate SYSa002539 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055917.1	494	Leptolalax liui isolate SYSa004051 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055916.1	494	Leptolalax liui isolate SYSa004035 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055915.1	494	Leptolalax liui isolate SYSa002578 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055914.1	493	Leptolalax liui isolate KIZ018349 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055913.1	491	Leptolalax liui isolate SYSa003698 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055912.1	491	Leptolalax liui isolate SYSa004733 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055911.1	494	Leptolalax liui isolate SYSa002105 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055910.1	494	Leptolalax liui isolate SYSa002650 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055909.1	494	Leptolalax liui isolate SYSa002733 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055908.1	494	Leptolalax liui isolate ZYCA907 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	MH055907.1	494	Leptolalax liui isolate SYSa002506 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	KM014550.1	397	Leptolalax liui voucher SYSa001736 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	KM014549.1	397	Leptolalax liui voucher SYSa001620 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	KM014548.1	397	Leptolalax liui voucher SYSa001702 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	KM014547.1	397	Leptolalax liui voucher SYSa001597 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	KJ579116.1	361	Leptolalax liui voucher SYS a001597 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachella_liui	EF544238.1	1902	Leptolalax liui voucher ZYC A100 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

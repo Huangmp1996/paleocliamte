@@ -1,0 +1,5 @@
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	MW880933.1	16679	Chrysolophus amherstiae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	FJ752434.1	16677	Chrysolophus amherstiae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	DQ768277.1	1032	Chrysolophus amherstiae NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	KC778814.1	1024	Chrysolophus amherstiae NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	NC_020590.1	16677	Chrysolophus amherstiae mitochondrion, complete genome

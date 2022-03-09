@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_arctoa	GQ482047.1	681	Leucosticte arctoa voucher UWBM 46607 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_arctoa	GQ482046.1	678	Leucosticte arctoa voucher UWBM 44623 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_arctoa	GQ482045.1	672	Leucosticte arctoa voucher UWBM 66525 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_arctoa	GQ482044.1	672	Leucosticte arctoa voucher UWBM 57878 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_arctoa	KM078791.1	16801	Leucosticte arctoa mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_arctoa	NC_025615.1	16801	Leucosticte arctoa mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Leucosticte_arctoa	JQ175262.1	652	Leucosticte arctoa voucher USNM:Birds:609762 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

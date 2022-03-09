@@ -1,0 +1,54 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	AY607316.1	2011	Rana chensinensis voucher CAS 178036 NADH dehydrogenase subunit 1 (nad1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (nad2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	AY607315.1	2011	Rana chensinensis voucher CAS 178022 NADH dehydrogenase subunit 1 (nad1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (nad2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481266.1	658	Rana chensinensis isolate HSSA0020 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481265.1	658	Rana chensinensis isolate HSSA0015 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481264.1	658	Rana chensinensis isolate HSSA0016 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481263.1	658	Rana chensinensis isolate HSSA0017 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481262.1	658	Rana chensinensis isolate HSSA0018 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481261.1	658	Rana chensinensis isolate HSSA0019 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481260.1	658	Rana chensinensis isolate HSSA0021 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481259.1	658	Rana chensinensis isolate HSSA0022 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481258.1	658	Rana chensinensis isolate HSSA0023 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481257.1	658	Rana chensinensis isolate HSSA0024 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481256.1	658	Rana chensinensis isolate HSSA0025 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH481255.1	658	Rana chensinensis isolate HSSA0026 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MT418625.1	647	Rana chensinensis voucher SYS a002393 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MT418624.1	647	Rana chensinensis voucher SYS a002392 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MH034317.1	588	Rana chensinensis voucher JLF80-6-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY385784.1	658	Rana chensinensis isolate RC-NMG-30 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY385783.1	658	Rana chensinensis isolate RC-NMG-25 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY385782.1	658	Rana chensinensis isolate RC-NMG-3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897604.1	658	Rana chensinensis voucher RC-C-NMG-8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897603.1	658	Rana chensinensis voucher RC-C-NMG-7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897602.1	658	Rana chensinensis voucher RC-X-NMG-9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897601.1	658	Rana chensinensis voucher RC-C-NMG-12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897600.1	658	Rana chensinensis voucher RC-C-NMG-27 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897599.1	658	Rana chensinensis voucher RC-X-NMG-6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897598.1	658	Rana chensinensis voucher RC-C-NMG-14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897597.1	658	Rana chensinensis voucher RC-C-NMG-11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897596.1	658	Rana chensinensis voucher RC-X-NMG-3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX897595.1	658	Rana chensinensis voucher RC-X-NMG-1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196302.1	658	Rana chensinensis isolate C-NMG-31 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196301.1	658	Rana chensinensis isolate C-NMG-29 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196300.1	658	Rana chensinensis isolate C-NMG-28 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196299.1	658	Rana chensinensis isolate C-NMG-26 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196298.1	658	Rana chensinensis isolate C-NMG-24 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196297.1	658	Rana chensinensis isolate C-NMG-23 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196296.1	658	Rana chensinensis isolate C-NMG-22 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196295.1	658	Rana chensinensis isolate C-NMG-21 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196294.1	658	Rana chensinensis isolate C-NMG-20 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196293.1	658	Rana chensinensis isolate C-NMG-19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196292.1	658	Rana chensinensis isolate C-NMG-18 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196291.1	658	Rana chensinensis isolate C-NMG-17 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196290.1	658	Rana chensinensis isolate C-NMG-16 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196289.1	658	Rana chensinensis isolate C-NMG-15 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196288.1	658	Rana chensinensis isolate C-NMG-13 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196287.1	658	Rana chensinensis isolate C-NMG-10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196286.1	658	Rana chensinensis isolate C-NMG-9 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196285.1	658	Rana chensinensis isolate C-NMG-6 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196284.1	658	Rana chensinensis isolate C-NMG-5 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196283.1	658	Rana chensinensis isolate C-NMG-4 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196282.1	658	Rana chensinensis isolate C-NMG-2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KY196281.1	658	Rana chensinensis isolate C-NMG-1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	JF939080.1	558	Rana chensinensis voucher KIZRD05SHX01 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KF771339.1	952	Rana chensinensis tRNA-Trp (trnW) gene, partial sequence; tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

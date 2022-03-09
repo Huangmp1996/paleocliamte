@@ -1,0 +1,4 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_orientalis	MG604899.1	561	Streptopelia orientalis isolate S1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_orientalis	KY827037.1	17102	Streptopelia orientalis mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_orientalis	NC_031447.1	17130	Streptopelia orientalis voucher zjbj2 mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Streptopelia_orientalis	KT182929.1	17130	Streptopelia orientalis voucher zjbj2 mitochondrion, complete genome

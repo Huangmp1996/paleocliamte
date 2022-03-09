@@ -1,0 +1,24 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	NC_050983.1	17370	Lepus oiostolus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	MT376741.1	17370	Lepus oiostolus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233065.1	1140	Lepus oiostolus isolate O2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233064.1	1140	Lepus oiostolus isolate O1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233063.1	1140	Lepus oiostolus isolate O3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233062.1	1140	Lepus oiostolus isolate O4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233061.1	1140	Lepus oiostolus isolate O5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233060.1	1140	Lepus oiostolus isolate O6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY745111.1	1068	Lepus oiostolus isolate s5o cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY745110.1	1068	Lepus oiostolus isolate s3o cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY599083.1	1140	Lepus oiostolus haplotype 6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY599082.1	1140	Lepus oiostolus haplotype 5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY599081.1	1140	Lepus oiostolus haplotype 4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY599080.1	1140	Lepus oiostolus haplotype 3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY599079.1	1140	Lepus oiostolus haplotype 2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY599078.1	1140	Lepus oiostolus haplotype 1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AJ279428.1	1138	Lepus oiostolus qinghaiensis cytb gene for cytochrome b, haplotype 2
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AJ279427.1	1140	Lepus oiostolus qinghaiensis cytb gene for cytochrome b, haplotype 1
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AJ279426.1	1140	Lepus oiostolus oiostolus cytb gene for cytochrome b, haplotype 1
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AJ287988.1	586	Lepus oiostolus mitochondrial partial D-loop, isolate qh3
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AJ287987.1	548	Lepus oiostolus mitochondrial partial D-loop, isolate qh2
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AJ287986.1	564	Lepus oiostolus mitochondrial partial D-loop, isolate qh1
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AJ287985.1	571	Lepus oiostolus mitochondrial partial D-loop, isolate Tibet
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AJ279429.1	717	Lepus oiostolus qinghaiensis cytb gene for cytochrome b, haplotype 3

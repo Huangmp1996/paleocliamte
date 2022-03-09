@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_sinicus	KR106992.1	16868	Rhinolophus sinicus sinicus isolate GZ0860 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_sinicus	KP257597.1	16898	Rhinolophus sinicus sinicus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_sinicus	DQ989599.1	761	Rhinolophus sinicus voucher GZNU200313 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_sinicus	DQ989597.1	670	Rhinolophus sinicus voucher GZNU200311 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	MH265796.1	633	Garrulax canorus canorus voucher NRM 20026675 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	EU447037.1	615	Garrulax canorus canorus cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	KT633399.1	17828	Garrulax canorus mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	NC_020429.1	17785	Garrulax canorus mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_canorus	JQ348398.1	17785	Garrulax canorus voucher AHNU:A0040 mitochondrion, complete genome

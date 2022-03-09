@@ -1,0 +1,22 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	HQ529101.1	519	Pomatorhinus musicus voucher AMNH:DOT 5207 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	HQ529100.1	519	Pomatorhinus musicus voucher AMNH:DOT 5161 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977993.1	1041	Pomatorhinus musicus voucher NTNU:T5069 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977992.1	1041	Pomatorhinus musicus voucher NTNU:T2338 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977991.1	1041	Pomatorhinus musicus voucher NTNU:T5238 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977990.1	1041	Pomatorhinus musicus voucher NTNU:T5236 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977989.1	1041	Pomatorhinus musicus voucher NTNU:T5239 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977988.1	1041	Pomatorhinus musicus voucher NTNU:T2981 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977987.1	1041	Pomatorhinus musicus voucher NTNU:T4650 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977986.1	1041	Pomatorhinus musicus voucher NTNU:T2333 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977985.1	1041	Pomatorhinus musicus voucher NTNU:T2331 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977984.1	1041	Pomatorhinus musicus voucher NTNU:T3299 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977983.1	1041	Pomatorhinus musicus voucher NTNU:T5237 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977982.1	1041	Pomatorhinus musicus voucher NTNU:T2332 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977981.1	1041	Pomatorhinus musicus voucher NTNU:T5243 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF977980.1	1041	Pomatorhinus musicus voucher NTNU:T2337 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF543441.1	1041	Pomatorhinus musicus voucher NTNU:T5238 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF543440.1	1041	Pomatorhinus musicus voucher NTNU:T0054 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF543439.1	1041	Pomatorhinus musicus voucher NTNU:T4657 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF543438.1	1041	Pomatorhinus musicus voucher NTNU:T4649 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	KF543437.1	1041	Pomatorhinus musicus voucher NTNU:T4570 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_musicus	GU724455.1	1041	Pomatorhinus musicus voucher NTNU:T2331 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

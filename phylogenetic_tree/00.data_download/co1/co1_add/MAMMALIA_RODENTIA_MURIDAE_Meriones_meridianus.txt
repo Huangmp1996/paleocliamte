@@ -1,0 +1,51 @@
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	MH580688.1	608	Meriones meridianus voucher MNHN4187 cytochrome oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU182950.1	700	Meriones meridianus clone 138 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU182941.1	647	Meriones meridianus clone 138 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU156738.1	1124	Meriones meridianus voucher Y181 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU156737.1	1124	Meriones meridianus voucher 138 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KU156736.1	1099	Meriones meridianus voucher 137 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763077.1	529	Meriones meridianus voucher y181 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763076.1	529	Meriones meridianus voucher 138 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763075.1	529	Meriones meridianus voucher 137-1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763074.1	531	Meriones meridianus voucher 137 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763073.1	530	Meriones meridianus voucher 35 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763039.1	697	Meriones meridianus voucher y181 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KT763038.1	697	Meriones meridianus voucher 137 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	NC_027684.1	16376	Meriones meridianus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KR013227.1	16376	Meriones meridianus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KF152977.1	645	Meriones meridianus voucher JW118 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KF152976.1	645	Meriones meridianus voucher JW95 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KF152975.1	645	Meriones meridianus voucher JW96 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KF152974.1	645	Meriones meridianus voucher JW08 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KF152973.1	645	Meriones meridianus voucher JW39 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KF152972.1	645	Meriones meridianus voucher JW101 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KJ466778.1	657	Meriones meridianus voucher NMCDC:13121 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KJ466777.1	657	Meriones meridianus voucher NMCDC:13129 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC709685.1	650	Meriones meridianus isolate WL82_2006 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962293.1	653	Meriones meridianus isolate QH926_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962292.1	653	Meriones meridianus isolate QH925_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962291.1	653	Meriones meridianus isolate QH96_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962290.1	653	Meriones meridianus isolate QH378_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962289.1	653	Meriones meridianus isolate QH817_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962288.1	653	Meriones meridianus isolate QH708_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962287.1	653	Meriones meridianus isolate QH820_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962286.1	653	Meriones meridianus isolate QH704_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962285.1	653	Meriones meridianus isolate QH75_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962284.1	653	Meriones meridianus isolate QH711_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962283.1	653	Meriones meridianus isolate QH377_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962282.1	653	Meriones meridianus isolate QH129_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JX962281.1	653	Meriones meridianus isolate QH38_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193082.1	657	Meriones meridianus voucher NMCDC 153 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193081.1	657	Meriones meridianus voucher NMCDC 156 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193080.1	657	Meriones meridianus voucher NMCDC 150 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193079.1	657	Meriones meridianus voucher NMCDC 154 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193078.1	657	Meriones meridianus voucher NMCDC 155 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193077.1	657	Meriones meridianus voucher NMCDC 151 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193076.1	657	Meriones meridianus voucher NMCDC 149 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193075.1	657	Meriones meridianus voucher NMCDC 152 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	KC193074.1	657	Meriones meridianus voucher NMCDC 148 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JQ043500.1	650	Meriones meridianus isolate QH442 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JQ043499.1	650	Meriones meridianus isolate QH441 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JQ043498.1	650	Meriones meridianus isolate QH437 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JQ043497.1	650	Meriones meridianus isolate QH422 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_meridianus	JQ043496.1	650	Meriones meridianus isolate QH421 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PELLORNEIDAE_Gampsorhynchus_rufulus	MK567167.1	990	Gampsorhynchus rufulus voucher SR2016-447 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Gampsorhynchus_rufulus	MK567166.1	885	Gampsorhynchus rufulus voucher SR2016-445 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Gampsorhynchus_rufulus	DQ861938.1	1023	Gampsorhynchus rufulus isolate A01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Gampsorhynchus_rufulus	JN826497.1	270	Gampsorhynchus rufulus voucher USNM 584529 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Gampsorhynchus_rufulus	JN826496.1	232	Gampsorhynchus rufulus voucher USNM 534967 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

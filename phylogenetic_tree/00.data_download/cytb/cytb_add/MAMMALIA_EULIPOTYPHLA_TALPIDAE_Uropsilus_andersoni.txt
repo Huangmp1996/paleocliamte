@@ -1,0 +1,8 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	KC516786.1	1140	Uropsilus andersoni voucher ELSlcB02006 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	KC516785.1	1140	Uropsilus andersoni voucher ELSlcB02007 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	KC516784.1	1140	Uropsilus andersoni voucher ELStnpA01001 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	JX945573.1	16524	Uropsilus andersoni mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	NC_041144.1	16528	Uropsilus andersoni mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	MF280389.1	16528	Uropsilus andersoni mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	JN867326.1	1106	Uropsilus andersoni isolate ELSC02002 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	JN867325.1	1122	Uropsilus andersoni isolate ELSB01002 cytochrome b (Cytb) gene, partial cds; mitochondrial

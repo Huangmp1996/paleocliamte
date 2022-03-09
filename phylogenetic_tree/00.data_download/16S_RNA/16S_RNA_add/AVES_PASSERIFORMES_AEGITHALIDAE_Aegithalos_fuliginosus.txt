@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	NC_024266.1	17953	Aegithalos fuliginosus mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KF951086.1	17953	Aegithalos fuliginosus mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	GU433975.1	1405	Aegithalos fuliginosus isolate MAR809 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	GU433974.1	1404	Aegithalos fuliginosus isolate MAR706 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial

@@ -1,0 +1,45 @@
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MW287079.1	1095	Pareas hamptoni voucher ZMMU NAP-09088 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MW287078.1	1089	Pareas hamptoni voucher ZMMU NAP-09087 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MW287077.1	1095	Pareas hamptoni voucher CAS 221489 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MT968777.1	1104	Pareas hamptoni voucher CAS 221489 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135085.1	1095	Pareas hamptoni voucher GP4123 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135084.1	1095	Pareas hamptoni voucher GP4122 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135083.1	1095	Pareas hamptoni voucher P3588 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135082.1	1095	Pareas hamptoni voucher GP3553 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135081.1	1095	Pareas hamptoni voucher GP3552 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135080.1	1095	Pareas hamptoni voucher GP3551 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135079.1	1095	Pareas hamptoni voucher GP1294 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135078.1	1095	Pareas hamptoni voucher GP5128 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK135077.1	1095	Pareas hamptoni voucher GP5127 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MH046859.1	1030	Pareas hamptoni isolate GP3859 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MH046858.1	1030	Pareas hamptoni isolate GP3808 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MH046857.1	1030	Pareas hamptoni isolate GP3696 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	MK201239.1	585	Pareas hamptoni voucher CHS018 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KX694896.1	708	Pareas hamptoni voucher ROM_38104 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	AY425809.1	820	Pareas hamptoni cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642155.1	1117	Pareas hamptoni haplotype H26 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642154.1	1117	Pareas hamptoni haplotype H25 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642153.1	1117	Pareas hamptoni haplotype H24 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642152.1	1117	Pareas hamptoni haplotype H23 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642151.1	1117	Pareas hamptoni haplotype H22 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642150.1	1117	Pareas hamptoni haplotype H21 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642149.1	1117	Pareas hamptoni haplotype H20 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642148.1	1117	Pareas hamptoni haplotype H19 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642147.1	1117	Pareas hamptoni haplotype H18 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642146.1	1117	Pareas hamptoni haplotype H17 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642145.1	1117	Pareas hamptoni haplotype H16 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642144.1	1117	Pareas hamptoni haplotype H15 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642143.1	1117	Pareas hamptoni haplotype H14 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642142.1	1117	Pareas hamptoni haplotype H13 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642141.1	1117	Pareas hamptoni haplotype H12 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642140.1	1117	Pareas hamptoni haplotype H11 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642139.1	1117	Pareas hamptoni haplotype H10 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642138.1	1117	Pareas hamptoni haplotype H09 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642137.1	1117	Pareas hamptoni haplotype H08 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642136.1	1117	Pareas hamptoni haplotype H07 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642135.1	1117	Pareas hamptoni haplotype H06 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642134.1	1117	Pareas hamptoni haplotype H05 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642133.1	1117	Pareas hamptoni haplotype H04 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642132.1	1117	Pareas hamptoni haplotype H03 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642131.1	1117	Pareas hamptoni haplotype H02 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_hamptoni	KJ642130.1	1117	Pareas hamptoni haplotype H01 cytochrome b (cytb) gene, partial cds; mitochondrial

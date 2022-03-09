@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	KP877662.1	836	Emberiza cioides isolate MAR655 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	NC_024524.1	16765	Emberiza cioides mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	KF322027.1	16765	Emberiza cioides mitochondrion, complete genome

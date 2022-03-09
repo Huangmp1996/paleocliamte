@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MZ579648.1	16689	Ia io voucher GZNU-NF-001 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	EU573077.1	957	Ia io isolate QL92 NADH dehydrogenase subunit I (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	EU573076.1	957	Ia io isolate QL91 NADH dehydrogenase subunit I (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	DQ302095.1	957	Ia io NADH dehydrogenase subunit I (ND1) gene, complete cds; mitochondrial

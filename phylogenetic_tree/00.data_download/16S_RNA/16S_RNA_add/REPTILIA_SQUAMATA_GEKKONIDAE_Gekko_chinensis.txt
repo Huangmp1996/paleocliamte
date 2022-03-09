@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW451657.1	537	Gekko chinensis voucher SYSr001575 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW451644.1	539	Gekko chinensis voucher SYSr001211 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW451635.1	539	Gekko chinensis voucher SYSr001162 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW451634.1	539	Gekko chinensis voucher SYSr001157 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW451632.1	539	Gekko chinensis voucher SYSr001085 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW451627.1	539	Gekko chinensis voucher CIB118025 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	NC_027191.1	17906	Gekko chinensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	KP666135.1	17906	Gekko chinensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	KC710232.1	529	Gekko chinensis voucher SYS Sr000464 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	KC765079.1	529	Gekko chinensis isolate SYSr000464 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,36 @@
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KY315493.1	656	Miniopterus magnater voucher MZF00924 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540913.1	657	Miniopterus magnater voucher ROM MAM 110875 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540912.1	653	Miniopterus magnater voucher ROM MAM 106433 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540911.1	657	Miniopterus magnater voucher ROM MAM 106499 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540910.1	657	Miniopterus magnater voucher ROM MAM 106500 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540909.1	643	Miniopterus magnater voucher ROM MAM 110663 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540908.1	657	Miniopterus magnater voucher ROM MAM 110652 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540907.1	657	Miniopterus magnater voucher ROM MAM 117916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540906.1	657	Miniopterus magnater voucher ROM MAM 112337 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540905.1	657	Miniopterus magnater voucher ROM MAM 110885 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540904.1	653	Miniopterus magnater voucher ROM MAM 110884 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540903.1	657	Miniopterus magnater voucher ROM MAM 110883 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540902.1	657	Miniopterus magnater voucher ROM MAM 110882 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540901.1	653	Miniopterus magnater voucher ROM MAM 110880 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540900.1	657	Miniopterus magnater voucher ROM MAM 110878 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540899.1	657	Miniopterus magnater voucher ROM MAM 110877 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540898.1	657	Miniopterus magnater voucher ROM MAM 110876 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540897.1	657	Miniopterus magnater voucher ROM MAM F44200 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540896.1	657	Miniopterus magnater voucher ROM MAM 110873 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540895.1	657	Miniopterus magnater voucher ROM MAM 116477 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540894.1	370	Miniopterus magnater voucher ROM MAM 118313 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540893.1	657	Miniopterus magnater voucher ROM MAM 112346 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540892.1	655	Miniopterus magnater voucher ROM MAM 118085 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540891.1	612	Miniopterus magnater voucher ROM MAM 110643 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540890.1	655	Miniopterus magnater voucher ROM MAM 110697 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540889.1	657	Miniopterus magnater voucher EBD 23897 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540888.1	657	Miniopterus magnater voucher SMF 85768 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	HM540887.1	657	Miniopterus magnater voucher ZMMU S-172587 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM575722.1	657	Miniopterus magnater isolate YueN02 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM575721.1	657	Miniopterus magnater isolate HaiN07 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM575720.1	657	Miniopterus magnater isolate HaiN01 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM575719.1	657	Miniopterus magnater isolate HaiN03 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM575718.1	657	Miniopterus magnater isolate GD01 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	JF443972.1	657	Miniopterus magnater voucher ROM 110654 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	JF443971.1	657	Miniopterus magnater voucher ROM 110874 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	JF443970.1	657	Miniopterus magnater voucher ROM 110881 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

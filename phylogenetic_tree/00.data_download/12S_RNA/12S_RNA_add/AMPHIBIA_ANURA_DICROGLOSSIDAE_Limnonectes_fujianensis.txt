@@ -1,0 +1,53 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	MF678821.1	18154	Limnonectes fujianensis isolate Taiwan mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	NC_007440.2	18293	Limnonectes fujianensis mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY974191.2	18293	Limnonectes fujianensis mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599846.1	1914	Limnonectes fujianensis voucher KIZ04726 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599845.1	1913	Limnonectes fujianensis voucher KIZ04771 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599844.1	1916	Limnonectes fujianensis voucher KIZYPX8479 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599843.1	1916	Limnonectes fujianensis voucher KIZ07364 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599842.1	1835	Limnonectes fujianensis voucher KIZ021934 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599841.1	1917	Limnonectes fujianensis voucher KIZ021935 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599840.1	1971	Limnonectes fujianensis voucher KIZ012480 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599839.1	1970	Limnonectes fujianensis voucher KIZH27 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599838.1	1908	Limnonectes fujianensis voucher KIZH28 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599837.1	1915	Limnonectes fujianensis voucher KIZJ27 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	KU599836.1	1913	Limnonectes fujianensis voucher KIZJ28 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	EU979639.1	406	Limnonectes fujianensis voucher YNU-HU20026017 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	DQ458234.1	701	Limnonectes fujianensis voucher YNUHU20026017 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	DQ118518.1	555	Limnonectes fujianensis voucher KizYP027 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	DQ118517.1	555	Limnonectes fujianensis voucher KizYP028 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	DQ118474.1	366	Limnonectes fujianensis voucher KizYP027 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	DQ118473.1	366	Limnonectes fujianensis voucher KizYP028 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067240.1	1917	Limnonectes fujianensis voucher NMNST 16654 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067239.1	1948	Limnonectes fujianensis voucher NMNST 16653 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067238.1	1951	Limnonectes fujianensis voucher NMNST 16652 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067237.1	1925	Limnonectes fujianensis voucher NMNST 16651 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067236.1	1920	Limnonectes fujianensis voucher NMNST 16650 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067235.1	1954	Limnonectes fujianensis voucher NMNST 16606 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067234.1	1971	Limnonectes fujianensis voucher NMNST 16605 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067233.1	1978	Limnonectes fujianensis voucher NMNST 16604 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067232.1	1902	Limnonectes fujianensis voucher NMNST 16603 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	HM067231.1	1940	Limnonectes fujianensis voucher NMNST 16602 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AF315152.1	551	Limnonectes fujianensis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AF205559.1	388	Limnonectes fujianensis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AB526318.1	2368	Limnonectes fujianensis mitochondrial genes for 12S rRNA, tRNA-Va, 16S rRNA, partial and complete sequence, specimen_voucher: KUHE:50471
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AB526317.1	2367	Limnonectes fujianensis mitochondrial genes for 12S rRNA, tRNA-Va, 16S rRNA, partial and complete sequence, specimen_voucher: KUHE:50466
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AB526311.1	2364	Limnonectes fujianensis mitochondrial genes for 12S rRNA, tRNA-Va, 16S rRNA, partial and complete sequence, specimen_voucher: CIB:ZJ 200806223
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703865.1	406	Limnonectes fujianensis isolate Zhejiang-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703864.1	406	Limnonectes fujianensis isolate Zhejiang-0 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703863.1	407	Limnonectes fujianensis isolate Jiangxi-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703862.1	410	Limnonectes fujianensis isolate Hunan-5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703861.1	397	Limnonectes fujianensis isolate Hunan-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703860.1	415	Limnonectes fujianensis isolate Fujian-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703859.1	400	Limnonectes fujianensis isolate Fujian-6 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703858.1	408	Limnonectes fujianensis isolate Anhui-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703857.1	408	Limnonectes fujianensis isolate Anhui-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703852.1	561	Limnonectes fujianensis isolate Zhejiang-1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703851.1	562	Limnonectes fujianensis isolate Zhejiang-0 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703850.1	556	Limnonectes fujianensis isolate Jiangxi-2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703849.1	563	Limnonectes fujianensis isolate Hunan-5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703848.1	563	Limnonectes fujianensis isolate Hunan-2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703847.1	596	Limnonectes fujianensis isolate Fujian-2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703846.1	623	Limnonectes fujianensis isolate Fujian-6 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703845.1	602	Limnonectes fujianensis isolate Anhui-2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Limnonectes_fujianensis	AY703844.1	540	Limnonectes fujianensis isolate Anhui-1 16S ribosomal RNA gene, partial sequence; mitochondrial

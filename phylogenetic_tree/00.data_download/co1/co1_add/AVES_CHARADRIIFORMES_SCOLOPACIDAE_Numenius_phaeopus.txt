@@ -1,0 +1,18 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	GQ482252.1	694	Numenius phaeopus voucher UWBM 49694 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	KU722449.1	639	Numenius phaeopus voucher USNM:Birds:647815 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	JF499147.1	648	Numenius phaeopus voucher USNM:641797 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	EU525455.1	694	Numenius phaeopus voucher MKP 471 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	EU525454.1	660	Numenius phaeopus voucher 1B-27 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	EU525453.1	665	Numenius phaeopus voucher SVN 372 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	AY666238.1	649	Numenius phaeopus voucher MKP 476 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	GU571505.1	720	Numenius phaeopus voucher NHMO-BC368 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	GU571504.1	715	Numenius phaeopus voucher NHMO-BC91 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	GQ482255.1	694	Numenius phaeopus voucher UWBM 51181 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	GQ482254.1	694	Numenius phaeopus voucher UWBM 61337 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	GQ482253.1	694	Numenius phaeopus voucher UWBM 49676 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	GQ482251.1	694	Numenius phaeopus voucher UWBM 59485 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	NC_030507.1	17091	Numenius phaeopus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	EF515750.1	686	Numenius phaeopus voucher KRIBB2150 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	KP308149.1	17091	Numenius phaeopus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	KF009549.1	666	Numenius phaeopus voucher AJB 6119 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	DQ434683.1	696	Numenius phaeopus voucher BIOUG<CAN>:LPBO004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,19 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MK064669.1	657	Oocatochus rufodorsatus voucher CHS192 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MK064668.1	657	Oocatochus rufodorsatus voucher CHS191 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MH153645.1	658	Oocatochus rufodorsatus voucher SR128 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	AY122716.1	513	Oocatochus rufodorsatus SH1444 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	AY122715.1	513	Oocatochus rufodorsatus SH1416 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045986.1	658	Oocatochus rufodorsatus voucher SR127 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045985.1	658	Oocatochus rufodorsatus voucher SR126 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045984.1	658	Oocatochus rufodorsatus voucher SR125 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045976.1	658	Oocatochus rufodorsatus voucher SR116 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045975.1	658	Oocatochus rufodorsatus voucher SR115 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045974.1	658	Oocatochus rufodorsatus voucher SR114 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045973.1	658	Oocatochus rufodorsatus voucher SR113 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045972.1	658	Oocatochus rufodorsatus voucher SR112 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045971.1	658	Oocatochus rufodorsatus voucher SR111 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045867.1	658	Oocatochus rufodorsatus voucher SR3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KR045866.1	658	Oocatochus rufodorsatus voucher SR2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	NC_022146.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	JQ798871.1	662	Oocatochus rufodorsatus voucher NIBRRP0000100169 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KC990020.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome

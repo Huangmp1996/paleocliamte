@@ -1,0 +1,45 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW021379.1	561	Scutiger boulengeri voucher LC065 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW021373.1	561	Scutiger boulengeri voucher KIZYPX26003 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW021372.1	561	Scutiger boulengeri voucher KIZ020043 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW021371.1	561	Scutiger boulengeri voucher KIZ020039 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW021348.1	561	Scutiger boulengeri voucher KIZ012612 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW021347.1	561	Scutiger boulengeri voucher KIZ013891 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW021346.1	561	Scutiger boulengeri voucher KIZ012611 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW021345.1	561	Scutiger boulengeri voucher KIZ013890 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970613.1	561	Scutiger boulengeri voucher JRK2018-03 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970612.1	561	Scutiger boulengeri voucher JRK2018-02 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970611.1	561	Scutiger boulengeri voucher JRK2018-01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970610.1	561	Scutiger boulengeri voucher JRK2015-215 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970609.1	561	Scutiger boulengeri voucher JRK2015-214 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970608.1	561	Scutiger boulengeri voucher JRK2015-213 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970607.1	561	Scutiger boulengeri voucher JRK2015-212 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970606.1	561	Scutiger boulengeri voucher JRK2015-211 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310877.1	668	Scutiger boulengeri isolate XM1095 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310876.1	668	Scutiger boulengeri isolate JS1507_C2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310875.1	645	Scutiger boulengeri isolate JS1507_C1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310874.1	668	Scutiger boulengeri isolate A5-AL cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310873.1	668	Scutiger boulengeri isolate A4-AL cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310872.1	668	Scutiger boulengeri isolate A3-AL cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310871.1	668	Scutiger boulengeri isolate A2-AL cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310870.1	668	Scutiger boulengeri isolate A1-AL cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310869.1	668	Scutiger boulengeri isolate KQ16_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310868.1	668	Scutiger boulengeri isolate KQ14_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310867.1	668	Scutiger boulengeri isolate KQ12_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310866.1	668	Scutiger boulengeri isolate KQ8_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310865.1	668	Scutiger boulengeri isolate KQ7_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310864.1	668	Scutiger boulengeri isolate KQ6_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310863.1	668	Scutiger boulengeri isolate KQ5_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310862.1	668	Scutiger boulengeri isolate KQ4_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310861.1	668	Scutiger boulengeri isolate KQ3_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310860.1	668	Scutiger boulengeri isolate KQ2_2014 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KU243065.1	561	Scutiger boulengeri isolate KIZ06713 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KU243064.1	561	Scutiger boulengeri isolate KIZ06712 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KJ082080.1	631	Scutiger boulengeri isolate jone8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KJ082079.1	631	Scutiger boulengeri isolate jone7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KJ082078.1	631	Scutiger boulengeri isolate jone6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KJ082077.1	631	Scutiger boulengeri isolate jone5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KJ082076.1	631	Scutiger boulengeri isolate jone4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KJ082075.1	631	Scutiger boulengeri isolate jone3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KJ082074.1	631	Scutiger boulengeri isolate jone2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KJ082073.1	631	Scutiger boulengeri isolate jone1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	JN700837.1	582	Scutiger boulengeri voucher KIZ08195 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

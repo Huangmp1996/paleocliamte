@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_REMIZIDAE_Remiz_consobrinus	KC463856.1	16737	Remiz consobrinus mitochondrion, complete genome
+AVES_PASSERIFORMES_REMIZIDAE_Remiz_consobrinus	NC_021641.1	16737	Remiz consobrinus mitochondrion, complete genome
+AVES_PASSERIFORMES_REMIZIDAE_Remiz_consobrinus	HM185375.1	948	Remiz consobrinus voucher IOZ10652 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REMIZIDAE_Remiz_consobrinus	HM185374.1	948	Remiz consobrinus voucher IOZ10640 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REMIZIDAE_Remiz_consobrinus	HM185298.1	1201	Remiz consobrinus voucher IOZ10640 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REMIZIDAE_Remiz_consobrinus	HM185297.1	1201	Remiz consobrinus voucher IOZ10652 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

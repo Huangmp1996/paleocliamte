@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_placidus	MT602072.1	698	Charadrius placidus voucher ESH_A00673 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_placidus	KM001303.1	429	Charadrius placidus isolate placidus1a cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_placidus	KM001302.1	429	Charadrius placidus isolate placidu03a cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_placidus	KM001301.1	429	Charadrius placidus isolate placidu02a cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_placidus	KY419888.1	16895	Charadrius placidus mitochondrion, complete genome

@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	MT985383.1	17035	Myotis bombinus isolate JBMt mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	MT985382.1	17036	Myotis bombinus isolate JJMt mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	NC_029342.1	17128	Myotis bombinus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	KT818621.1	17128	Myotis bombinus mitochondrion, complete genome

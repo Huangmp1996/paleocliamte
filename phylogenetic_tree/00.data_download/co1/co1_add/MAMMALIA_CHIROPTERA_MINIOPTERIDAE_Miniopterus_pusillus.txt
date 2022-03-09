@@ -1,0 +1,11 @@
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	MN366289.1	655	Miniopterus pusillus isolate 170667 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	MG821204.1	658	Miniopterus pusillus voucher NHM.OU.CHI.08.2017 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540925.1	657	Miniopterus pusillus voucher ROM MAM 118157 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540924.1	657	Miniopterus pusillus voucher ROM MAM 110872 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540923.1	657	Miniopterus pusillus voucher ROM MAM 110871 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540922.1	657	Miniopterus pusillus voucher ROM MAM 117896 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540921.1	657	Miniopterus pusillus voucher ROM MAM 118349 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540920.1	657	Miniopterus pusillus voucher ROM MAM 118351 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540919.1	655	Miniopterus pusillus voucher ROM MAM 110696 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540918.1	657	Miniopterus pusillus voucher SMF 85767 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_pusillus	HM540917.1	657	Miniopterus pusillus voucher ZMMU S-172598 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_omeiensis	KU886092.1	17830	Liocichla omeiensis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_omeiensis	EU447099.1	846	Liocichla omeiensis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_omeiensis	KR809487.1	400	Liocichla omeiensis isolate LOxx001a cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_omeiensis	JF804089.1	619	Liocichla omeiensis isolate 1751 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_omeiensis	JF804087.1	619	Liocichla omeiensis isolate 1836 cytochrome b (cytb) gene, partial cds; mitochondrial

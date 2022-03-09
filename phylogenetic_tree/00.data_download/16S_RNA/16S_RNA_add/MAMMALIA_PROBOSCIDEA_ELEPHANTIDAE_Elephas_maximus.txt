@@ -1,0 +1,40 @@
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW843627.1	129	Elephas maximus voucher AIWC 130 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439358.1	28	Elephas maximus isolate IV226 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439357.1	28	Elephas maximus isolate IV222 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439356.1	28	Elephas maximus isolate IV221 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439355.1	28	Elephas maximus isolate TP4 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439354.1	28	Elephas maximus isolate IV133 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439353.1	28	Elephas maximus isolate IV094 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439352.1	28	Elephas maximus isolate IV091 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439351.1	28	Elephas maximus isolate IV011 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439350.1	28	Elephas maximus isolate ELMA001 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439349.1	28	Elephas maximus isolate ELIN004 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439348.1	28	Elephas maximus isolate IV729 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439347.1	28	Elephas maximus isolate IV722 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439346.1	28	Elephas maximus isolate IV721 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439345.1	28	Elephas maximus isolate ELMA004 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439344.1	28	Elephas maximus isolate C2901-11 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439336.1	28	Elephas maximus isolate IV208 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439335.1	28	Elephas maximus isolate IV397 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439334.1	28	Elephas maximus isolate ELSL001 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439333.1	28	Elephas maximus isolate IV707 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439332.1	28	Elephas maximus isolate TT23B 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439331.1	28	Elephas maximus isolate IV135 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439330.1	28	Elephas maximus isolate IV088 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439329.1	28	Elephas maximus isolate IV087 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439328.1	28	Elephas maximus isolate ELSL002 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439327.1	28	Elephas maximus isolate ELMA003 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439326.1	28	Elephas maximus isolate ELMA002 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439325.1	28	Elephas maximus isolate ELIN003 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439324.1	28	Elephas maximus isolate ELIN002 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439323.1	28	Elephas maximus isolate ELIN001 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439322.1	28	Elephas maximus isolate ELMA005 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	EF588275.2	16847	Elephas maximus mitochondrion, complete genome
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	DQ316068.1	16902	Elephas maximus mitochondrion, complete genome
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	KC561807.1	205	Elephas maximus voucher PSU<THA>:EM3 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	KC561806.1	205	Elephas maximus voucher PSU<THA>:EM2 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	KC561805.1	203	Elephas maximus voucher PSU<THA>:EM1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	NC_005129.2	16902	Elephas maximus mitochondrion, complete genome
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	AJ428946.1	16831	Elephas maximus complete mitochondrial genome
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	DQ922642.1	565	Elephas maximus indicus 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	AF390541.1	2595	Elephas maximus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

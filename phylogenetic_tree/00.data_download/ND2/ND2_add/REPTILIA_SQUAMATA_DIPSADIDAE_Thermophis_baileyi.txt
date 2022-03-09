@@ -1,0 +1,20 @@
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	MK198946.1	1026	Thermophis baileyi voucher CHS258 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	MK198945.1	1026	Thermophis baileyi voucher CHS257 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	NC_035713.1	17355	Thermophis baileyi mitochondrion, complete genome
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	MF326642.1	17355	Thermophis baileyi mitochondrion, complete genome
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	JF411072.1	1032	Thermophis baileyi isolate HS200818-2 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	KF595092.1	774	Thermophis baileyi haplotype Hap22_ND2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	KF595091.1	774	Thermophis baileyi haplotype Hap21_ND2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	KF595090.1	774	Thermophis baileyi haplotype Hap20_ND2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	KF595089.1	774	Thermophis baileyi haplotype Hap19_ND2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	KF595088.1	774	Thermophis baileyi haplotype Hap18_ND2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	KF595087.1	774	Thermophis baileyi haplotype Hap17_ND2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	KF595086.1	774	Thermophis baileyi haplotype Hap16_ND2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	KF595085.1	774	Thermophis baileyi haplotype Hap1_ND2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	JN559862.1	794	Thermophis baileyi haplotype MangaH1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	JN559861.1	794	Thermophis baileyi haplotype YangbajainH1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	JN559860.1	794	Thermophis baileyi haplotype YangbajainH2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	JN559859.1	794	Thermophis baileyi haplotype NamTsoH1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	JN559858.1	794	Thermophis baileyi haplotype RutokH1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	JN559857.1	794	Thermophis baileyi haplotype G109H1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	JN559856.1	794	Thermophis baileyi haplotype DedromH1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

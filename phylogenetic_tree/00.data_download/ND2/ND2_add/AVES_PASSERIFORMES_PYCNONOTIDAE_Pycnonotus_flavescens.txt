@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_flavescens	GU112669.1	1041	Pycnonotus flavescens voucher KU17746 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_flavescens	KR349355.1	900	Pycnonotus flavescens isolate MAR855 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_flavescens	KP943430.1	900	Pycnonotus flavescens flavescens NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

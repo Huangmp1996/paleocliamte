@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747696.1	851	Riparia riparia haplotype 41 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747695.1	851	Riparia riparia haplotype 40 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747694.1	851	Riparia riparia haplotype 39 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747693.1	851	Riparia riparia haplotype 38 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747692.1	851	Riparia riparia haplotype 37 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747691.1	851	Riparia riparia haplotype 36 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747690.1	851	Riparia riparia haplotype 35 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747689.1	851	Riparia riparia haplotype 34 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747688.1	851	Riparia riparia haplotype 33 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747687.1	851	Riparia riparia haplotype 32 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MZ747686.1	851	Riparia riparia haplotype 31 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881113.1	224	Riparia riparia isolate AMNH462507 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881112.1	224	Riparia riparia isolate AMNH462510 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881111.1	922	Riparia riparia isolate DZUG1264 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881110.1	922	Riparia riparia isolate AMNH559317 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881109.1	922	Riparia riparia isolate DZUG3973 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881108.1	830	Riparia riparia shelleyi isolate NHMUK1895.5.1.1935 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881107.1	922	Riparia riparia shelleyi isolate EI9 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881106.1	922	Riparia riparia shelleyi isolate EI1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881105.1	922	Riparia riparia isolate AMNH559331 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881104.1	922	Riparia riparia isolate DZUG1267 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881103.1	922	Riparia riparia isolate DZUG1266 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881102.1	449	Riparia riparia isolate AMNH559332 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881101.1	922	Riparia riparia isolate SYSbs001251 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881100.1	922	Riparia riparia isolate SYSbs001268 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881099.1	922	Riparia riparia isolate SYSbs001265 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881098.1	922	Riparia riparia isolate DZUG1268 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881097.1	922	Riparia riparia isolate SYSbs001264 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881096.1	922	Riparia riparia isolate DZUG1265 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881095.1	922	Riparia riparia shelleyi isolate EI4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881094.1	922	Riparia riparia shelleyi isolate NHMUK1991.11.1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881093.1	922	Riparia riparia shelleyi isolate EI2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881092.1	922	Riparia riparia isolate RO1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881091.1	782	Riparia riparia shelleyi isolate EI15 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881090.1	922	Riparia riparia shelleyi isolate EI12 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881089.1	922	Riparia riparia shelleyi isolate EI3 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881088.1	922	Riparia riparia isolate SYSbs001277 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881087.1	922	Riparia riparia isolate AMNH462509 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881086.1	922	Riparia riparia isolate SYSbs001279 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881085.1	922	Riparia riparia isolate RO2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881084.1	922	Riparia riparia isolate SYSbs001278 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MG881083.1	922	Riparia riparia isolate SYSbs001280 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	AY826015.1	1041	Riparia riparia NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156366.1	1041	Riparia riparia isolate RIRI151 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156365.1	1041	Riparia riparia isolate RIRI150 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156364.1	1041	Riparia riparia isolate RIRI149 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156363.1	1041	Riparia riparia isolate RIRI148 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156362.1	1041	Riparia riparia isolate RIRI147 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156361.1	1041	Riparia riparia isolate RIRI146 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156360.1	1041	Riparia riparia isolate RIRI145 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156359.1	1041	Riparia riparia isolate RIRI144 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156358.1	1041	Riparia riparia isolate RIRI143 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156357.1	1041	Riparia riparia isolate RIRI142 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156356.1	1041	Riparia riparia isolate RIRI141 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156355.1	1041	Riparia riparia isolate RIRI140 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156354.1	1041	Riparia riparia isolate RIRI139 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156353.1	1041	Riparia riparia isolate RIRI138 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156352.1	1041	Riparia riparia isolate RIRI137 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156351.1	1041	Riparia riparia isolate RIRI136 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156350.1	1041	Riparia riparia isolate RIRI135DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156349.1	1041	Riparia riparia isolate RIRI134DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156348.1	1041	Riparia riparia isolate RIRI133DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156347.1	1041	Riparia riparia isolate RIRI132DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156346.1	1041	Riparia riparia isolate RIRI131DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156345.1	1041	Riparia riparia isolate RIRI130DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156344.1	1041	Riparia riparia isolate RIRI129DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156343.1	1041	Riparia riparia isolate RIRI128DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156342.1	1041	Riparia riparia isolate RIRI127DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156341.1	1041	Riparia riparia isolate RIRI126DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156340.1	1041	Riparia riparia isolate RIRI125DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EU156339.1	1041	Riparia riparia isolate RIRI124DAU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017032.1	1041	Riparia riparia isolate 123 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017031.1	1041	Riparia riparia isolate 122 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017030.1	1041	Riparia riparia isolate 121 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017029.1	1041	Riparia riparia isolate 120 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017028.1	1041	Riparia riparia isolate 119 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017027.1	1041	Riparia riparia isolate 118 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017026.1	1041	Riparia riparia isolate 117 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017025.1	1041	Riparia riparia isolate 116 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017024.1	1041	Riparia riparia isolate 115 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017023.1	1041	Riparia riparia isolate 114 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017022.1	1041	Riparia riparia isolate 107 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017021.1	1041	Riparia riparia isolate 113 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017020.1	1041	Riparia riparia isolate 112 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017019.1	1041	Riparia riparia isolate 111 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017018.1	1041	Riparia riparia isolate 110 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017017.1	1041	Riparia riparia isolate 109 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017016.1	1041	Riparia riparia isolate 108 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017015.1	1041	Riparia riparia isolate 095 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017012.1	1041	Riparia riparia isolate 092 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017011.1	1041	Riparia riparia isolate 091 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017010.1	1041	Riparia riparia isolate 090 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017009.1	1041	Riparia riparia isolate 089 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017008.1	1041	Riparia riparia isolate 088 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017007.1	1041	Riparia riparia isolate 087 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017006.1	1041	Riparia riparia isolate 086 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017005.1	1041	Riparia riparia isolate 085 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017004.1	1041	Riparia riparia isolate 084 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017002.1	1041	Riparia riparia isolate 082 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	EF017001.1	1041	Riparia riparia isolate 081 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

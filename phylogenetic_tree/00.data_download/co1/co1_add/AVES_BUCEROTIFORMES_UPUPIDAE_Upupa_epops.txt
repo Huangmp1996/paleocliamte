@@ -1,0 +1,49 @@
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	OL468799.1	666	Upupa epops voucher ZMUVAS109 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	MN356316.1	17709	Upupa epops mitochondrion, complete genome
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	MK060147.1	15515	Upupa epops mitochondrion, partial genome
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY661879.1	697	Upupa epops isolate G 661 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	MF580186.1	658	Upupa epops voucher USNM:Birds:653373 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689871.1	609	Upupa epops isolate 53861 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689870.1	609	Upupa epops isolate H28 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689869.1	609	Upupa epops isolate H27 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689868.1	609	Upupa epops isolate H26 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689867.1	609	Upupa epops isolate H25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689866.1	609	Upupa epops isolate H24 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689865.1	609	Upupa epops isolate H23 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689864.1	609	Upupa epops isolate H22 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689863.1	609	Upupa epops isolate H21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689862.1	609	Upupa epops isolate H20 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689861.1	609	Upupa epops isolate H19 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689860.1	609	Upupa epops isolate H18 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689859.1	609	Upupa epops isolate H17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689858.1	609	Upupa epops isolate H16 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689857.1	609	Upupa epops isolate H15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689856.1	609	Upupa epops isolate H14 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689855.1	609	Upupa epops isolate H13 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689854.1	609	Upupa epops isolate H12 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689853.1	609	Upupa epops isolate H11 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689852.1	609	Upupa epops isolate H10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689851.1	609	Upupa epops isolate H9 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689850.1	609	Upupa epops isolate H8 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689849.1	609	Upupa epops isolate H7 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689848.1	609	Upupa epops isolate H6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689847.1	609	Upupa epops isolate H5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689846.1	609	Upupa epops isolate H4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689845.1	609	Upupa epops isolate H3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689844.1	609	Upupa epops isolate H2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KY689843.1	609	Upupa epops isolate H1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	JF498815.1	666	Upupa epops voucher USNM 641357 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	GU572156.1	648	Upupa epops voucher BISE-Aves12 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	GQ482888.1	694	Upupa epops voucher UWBM 66321 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	GQ482887.1	694	Upupa epops voucher UWBM 49243 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	GQ482886.1	694	Upupa epops voucher UWBM 61068 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	GQ482885.1	694	Upupa epops voucher UWBM 46231 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	GQ482884.1	694	Upupa epops voucher UWBM 59860 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	FJ661090.1	680	Upupa epops voucher AHNU:Y06009 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KP252254.1	652	Upupa epops voucher USNM 645942 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KP252253.1	652	Upupa epops voucher USNM 645932 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KP252252.1	652	Upupa epops voucher USNM 645854 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	NC_028178.1	16562	Upupa epops mitochondrion, complete genome
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KT356220.1	16562	Upupa epops mitochondrion, complete genome
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	AB843833.1	679	Upupa epops mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO112-10
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	AB843832.1	660	Upupa epops mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO117-10

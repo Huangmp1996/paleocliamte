@@ -1,0 +1,7 @@
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	MW054887.1	1140	Miniopterus magnater voucher MHNG 1981.071 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KX467591.1	1140	Miniopterus magnater voucher HAN-095 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	EF517308.1	1140	Miniopterus magnater isolate CHS005 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	EF517307.1	1140	Miniopterus magnater isolate CMMH cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	EF517306.1	1140	Miniopterus magnater isolate CB007 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	EF517305.1	1140	Miniopterus magnater isolate CD293 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	EU521636.1	404	Miniopterus magnater isolate TK152087 cytochrome b (cytb) gene, partial cds; mitochondrial

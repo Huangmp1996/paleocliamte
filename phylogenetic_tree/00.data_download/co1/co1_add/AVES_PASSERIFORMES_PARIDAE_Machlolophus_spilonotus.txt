@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	MK598904.1	650	Machlolophus spilonotus voucher SR-2013-195 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	KX388476.1	16768	Machlolophus spilonotus isolate 3026 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	HM185351.1	948	Parus spilonotus voucher IOZ3026 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	HM185328.1	1201	Parus spilonotus voucher IOZ3026 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

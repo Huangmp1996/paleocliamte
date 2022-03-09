@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	MK411584.1	16920	Phylloscopus schwarzi mitochondrion, partial genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	Y10728.1	1041	P.schwarzi mitochondrial cytb gene, partial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	MH079341.1	1075	Phylloscopus schwarzi voucher DZUG U657 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	FJ155906.1	665	Phylloscopus schwarzi isolate 1377 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	AY635061.1	1038	Phylloscopus schwarzi cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	HQ608863.1	1176	Phylloscopus schwarzi isolate Y6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	HQ608825.1	1143	Phylloscopus schwarzi isolate Y5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	AY606187.1	667	Phylloscopus schwarzi isolate sw1377 cytochrome b (cytb) gene, partial cds; mitochondrial

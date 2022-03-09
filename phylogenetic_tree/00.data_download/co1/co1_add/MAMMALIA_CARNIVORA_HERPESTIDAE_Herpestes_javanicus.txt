@@ -1,0 +1,11 @@
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	MW257214.1	16760	Urva javanica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY117548.1	16343	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AY873843.1	16763	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	NC_006835.1	16763	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	JF459178.1	657	Herpestes javanicus voucher ROM:107489 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	JF459177.1	657	Herpestes javanicus voucher ROM:103585 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	JF459176.1	657	Herpestes javanicus voucher ROM:116225 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	JF459175.1	615	Herpestes javanicus voucher ROM:116226 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	JF459174.1	649	Herpestes javanicus voucher ROM:116227 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	JF459173.1	657	Herpestes javanicus voucher ROM:116228 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	JF459172.1	643	Herpestes javanicus voucher ROM:116229 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

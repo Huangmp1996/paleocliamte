@@ -1,0 +1,64 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752010.1	650	Mauremys mutica isolate MM_TW14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752009.1	650	Mauremys mutica isolate MM_TW13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752008.1	650	Mauremys mutica isolate MM_TW12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752007.1	650	Mauremys mutica isolate MM_TW11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752006.1	650	Mauremys mutica isolate MM_TW10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752005.1	650	Mauremys mutica isolate MM_TW9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752004.1	650	Mauremys mutica isolate MM_TW8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752003.1	650	Mauremys mutica isolate MM_TW7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752002.1	650	Mauremys mutica isolate MM_TW6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752001.1	650	Mauremys mutica isolate MM_TW5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP752000.1	650	Mauremys mutica isolate MM_TW4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751999.1	650	Mauremys mutica isolate MM_TW3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751998.1	650	Mauremys mutica isolate MM_TW2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751997.1	650	Mauremys mutica isolate MM_TW1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751996.1	650	Mauremys mutica isolate MM_HN12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751995.1	650	Mauremys mutica isolate MM_HN11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751994.1	650	Mauremys mutica isolate MM_HN10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751993.1	650	Mauremys mutica isolate MM_HN9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751992.1	650	Mauremys mutica isolate MM_HN8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751991.1	650	Mauremys mutica isolate MM_HN7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751990.1	650	Mauremys mutica isolate MM_HN6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751989.1	650	Mauremys mutica isolate MM_HN5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751988.1	650	Mauremys mutica isolate MM_HN4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751987.1	650	Mauremys mutica isolate MM_HN3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751986.1	650	Mauremys mutica isolate MM_HN2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751985.1	650	Mauremys mutica isolate MM_HN1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751984.1	650	Mauremys mutica isolate MM_N15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751983.1	650	Mauremys mutica isolate MM_N14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751982.1	650	Mauremys mutica isolate MM_N13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751981.1	650	Mauremys mutica isolate MM_N12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751980.1	650	Mauremys mutica isolate MM_N11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751979.1	650	Mauremys mutica isolate MM_N10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751978.1	650	Mauremys mutica isolate MM_N9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751977.1	650	Mauremys mutica isolate MM_N8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751976.1	650	Mauremys mutica isolate MM_N7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751975.1	650	Mauremys mutica isolate MM_N6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751974.1	650	Mauremys mutica isolate MM_N5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751973.1	650	Mauremys mutica isolate MM_N4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751972.1	650	Mauremys mutica isolate MM_N3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751971.1	650	Mauremys mutica isolate MM_N2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751970.1	650	Mauremys mutica isolate MM_N1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751969.1	650	Mauremys mutica isolate MM_S10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751968.1	650	Mauremys mutica isolate MM_S9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751967.1	650	Mauremys mutica isolate MM_S8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751966.1	650	Mauremys mutica isolate MM_S7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751965.1	650	Mauremys mutica isolate MM_S6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751964.1	650	Mauremys mutica isolate MM_S5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751963.1	650	Mauremys mutica isolate MM_S4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751962.1	650	Mauremys mutica isolate MM_S3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751961.1	650	Mauremys mutica isolate MM_S2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP751960.1	650	Mauremys mutica isolate MM_S1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	MG679427.1	630	Mauremys mutica isolate 20070337M10 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	MG679421.1	630	Mauremys mutica isolate 20150243M10 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	MG679420.1	630	Mauremys mutica isolate 20130496M10 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP100056.1	16775	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	DQ453753.1	16609	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AF348262.2	696	Mauremys mutica voucher MVZ 230476 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AF348261.2	696	Mauremys mutica voucher ROM 25614 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AF348260.2	696	Mauremys mutica voucher ROM 25613 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938959.1	16500	Mauremys mutica isolate taiwan mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938958.1	16494	Mauremys mutica isolate hainan mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938957.1	16759	Mauremys mutica isolate beigui mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	NC_009330.1	16609	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	EF011464.1	831	Mauremys mutica clone Mm2_MVZ230487 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial

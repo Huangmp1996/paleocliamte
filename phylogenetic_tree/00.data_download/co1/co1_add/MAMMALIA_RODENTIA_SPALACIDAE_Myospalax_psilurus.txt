@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	NC_026034.1	16360	Myospalax psilurus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	JX014234.1	16360	Myospalax psilurus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	JF444254.1	657	Myospalax psilurus voucher ROM 112955 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_psilurus	JF444253.1	657	Myospalax psilurus voucher ROM 112954 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

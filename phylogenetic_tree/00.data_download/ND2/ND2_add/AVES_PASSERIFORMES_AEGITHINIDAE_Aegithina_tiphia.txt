@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_AEGITHINIDAE_Aegithina_tiphia	MN991375.1	1041	Aegithina tiphia voucher LSUMNS B-61535 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHINIDAE_Aegithina_tiphia	AY816232.1	1041	Aegithina tiphia isolate O17 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHINIDAE_Aegithina_tiphia	KJ455307.1	1041	Aegithina tiphia voucher UWBM:83606 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

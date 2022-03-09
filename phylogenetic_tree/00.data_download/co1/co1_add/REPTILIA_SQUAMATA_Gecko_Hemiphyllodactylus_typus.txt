@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	KX985522.1	599	Hemiphyllodactylus typus voucher AMS:R172570 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	MH274127.1	655	Hemiphyllodactylus typus voucher USNM:Herp:322120 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	MH274126.1	655	Hemiphyllodactylus typus voucher USNM:Herp:570738 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	MH274125.1	655	Hemiphyllodactylus typus voucher USNM:Herp:570742 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	MH274124.1	655	Hemiphyllodactylus typus voucher USNM:Herp:333617 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	MH274123.1	648	Hemiphyllodactylus typus voucher USNM:Herp:322442 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,48 @@
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482340.1	694	Periparus ater voucher UWBM 59999 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482339.1	694	Periparus ater voucher UWBM 46870 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482338.1	681	Periparus ater voucher UWBM 51772 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482337.1	678	Periparus ater voucher UWBM 57197 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482336.1	669	Periparus ater voucher UWBM 49451 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482335.1	663	Periparus ater voucher UWBM 47287 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KT803660.1	648	Periparus ater cypriotes isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GU572010.1	648	Periparus ater voucher BISE-Aves179 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GU572009.1	648	Periparus ater voucher BISE-Aves368 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GU571532.1	743	Periparus ater voucher NHMO-BC279 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GU571531.1	718	Periparus ater voucher NHMO-BC280 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GU571530.1	698	Periparus ater voucher NHMO-BC510 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482345.1	694	Periparus ater voucher ZMMU RYA 1966 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482344.1	694	Periparus ater voucher ZMMU RYA 1874 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482343.1	694	Periparus ater voucher ZMMU RYA 204 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482342.1	694	Periparus ater voucher ZMMU RYA 202 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	GQ482341.1	672	Periparus ater voucher ZMMU RYA 1878 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	FJ808640.1	677	Periparus ater voucher KU08022 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	NC_026223.1	16783	Periparus ater mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KM588075.1	16783	Periparus ater mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843666.1	687	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO223-10
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843665.1	695	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO512-10
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843664.1	658	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO284-10
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843043.1	697	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM693-10
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843042.1	692	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM012-08
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843041.1	716	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM668-10
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843040.1	704	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM735-11
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843039.1	695	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM549-10
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843038.1	632	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM816-11
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843037.1	712	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM450-10
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AB843036.1	698	Periparus ater mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM696-10
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KF946787.1	647	Periparus ater ater voucher ZMA64562 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KF946786.1	651	Periparus ater ater voucher ZMA58867 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KF946785.1	693	Periparus ater ater voucher ZMA57243 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KF946784.1	693	Periparus ater ater voucher ZMA57242 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KF946783.1	693	Periparus ater ater voucher ZMA56219 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KF946782.1	669	Periparus ater ater voucher Tissue555 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	JX508791.1	613	Periparus ater isolate 8025 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	JX508790.1	613	Periparus ater isolate 1134 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	JX508789.1	613	Periparus ater isolate 4008 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	JX508788.1	613	Periparus ater isolate Sard11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	JX508787.1	613	Periparus ater isolate 1119 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HM185357.1	948	Periparus ater voucher IOZ9029 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HM185356.1	948	Periparus ater voucher IOZ2331 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HM185355.1	948	Periparus ater voucher IOZ1094 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HM185324.1	1201	Periparus ater voucher IOZ1094 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HM185323.1	1201	Periparus ater voucher IOZ2331 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HM185322.1	1201	Periparus ater voucher IOZ9029 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

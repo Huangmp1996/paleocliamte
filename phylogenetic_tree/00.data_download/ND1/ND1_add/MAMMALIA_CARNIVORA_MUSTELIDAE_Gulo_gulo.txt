@@ -1,0 +1,6 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	CYRY02040596.1	139334	Gulo gulo genome assembly, contig: scaffold5325, whole genome shotgun sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	AY377364.1	957	Gulo gulo NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KP642032.1	3268	Gulo gulo tRNA-Phe, 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, and tRNA-Leu genes, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KR611313.1	16575	Gulo gulo mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	KF415127.1	16537	Gulo gulo mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Gulo_gulo	NC_009685.1	16541	Gulo gulo mitochondrion, complete genome

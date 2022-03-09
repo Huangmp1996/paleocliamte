@@ -1,0 +1,8 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_taliangensis	KY800561.1	505	Tylototriton taliangensis voucher CIBGG200110186 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_taliangensis	KY800560.1	505	Tylototriton taliangensis voucher CIBGG200110185 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_taliangensis	KY800559.1	504	Tylototriton taliangensis voucher CIBGG200110183 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_taliangensis	EF107210.1	557	Tylototriton taliangensis isolate 1215TylTal 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_taliangensis	KP979646.1	16265	Tylototriton taliangensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_taliangensis	KT304302.1	2805	Tylototriton taliangensis voucher KIZ 05149 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_taliangensis	NC_027421.1	16265	Tylototriton taliangensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_taliangensis	KC733364.1	1726	Tylototriton taliangensis voucher GZNU20010184 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

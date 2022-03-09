@@ -1,0 +1,16 @@
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	MW257214.1	16760	Urva javanica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346564.1	276	Urva javanica isolate MNHN-TC693 voucher KFBG:M0005-2012 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346563.1	276	Urva javanica isolate MNHN-TC649 voucher KFBG:M0067-2004 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346562.1	276	Urva javanica isolate MNHN-TC472 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346561.1	276	Urva javanica isolate MNHN-TC355 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346560.1	276	Urva javanica isolate MNHN-TC354 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346559.1	276	Urva javanica isolate MNHN-R3407 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346558.1	276	Urva javanica isolate MNHN-R3406 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346557.1	276	Urva javanica voucher BZM:17400 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY117548.1	16343	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AY974031.1	1044	Herpestes javanicus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AY873843.1	16763	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ391234.1	1044	Herpestes javanicus isolate MNHN:TC-258 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ391233.1	1044	Herpestes javanicus isolate MNHN:99-510 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AY170051.1	1044	Herpestes javanicus specimen-voucher Nellis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	NC_006835.1	16763	Herpestes javanicus mitochondrion, complete genome

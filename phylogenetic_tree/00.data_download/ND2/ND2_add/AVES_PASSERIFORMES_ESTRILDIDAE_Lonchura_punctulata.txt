@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	MT050748.1	1041	Lonchura punctulata NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	MN991460.1	1041	Lonchura punctulata voucher LSUMNS B-84863 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	HQ116579.1	420	Lonchura punctulata voucher UWBM:83618 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	NC_028036.1	16824	Lonchura punctulata mitochondrion, complete genome
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	KR184724.1	16824	Lonchura punctulata mitochondrion, complete genome
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	KJ455482.1	1041	Lonchura punctulata voucher CAS:92755 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

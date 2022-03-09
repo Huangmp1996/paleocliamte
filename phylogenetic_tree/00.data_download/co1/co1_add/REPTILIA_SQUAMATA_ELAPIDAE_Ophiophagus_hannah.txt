@@ -1,0 +1,17 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MW021415.1	588	Ophiophagus hannah voucher KIZ011969 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MW021414.1	626	Ophiophagus hannah voucher YBU091086/GP1005 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MW021413.1	627	Ophiophagus hannah voucher KIZYPX34622 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MW021412.1	632	Ophiophagus hannah voucher GP2657 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	LC533892.1	520	Ophiophagus hannah OHA4 mitochondrial COI gene, partial sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	LC519982.1	713	Ophiophagus hannah OH01 mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MH107864.1	672	Ophiophagus hannah voucher PUCZM/X/SL819 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MH153655.1	658	Ophiophagus hannah voucher SR256 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	LC075344.1	728	Ophiophagus hannah mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: OH01
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	MF099705.1	658	Ophiophagus hannah voucher YJWS02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AB920182.1	720	Ophiophagus hannah mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: OHA3
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AB920181.1	726	Ophiophagus hannah mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: OHA2
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	AB920180.1	713	Ophiophagus hannah mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: OHA1
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	KR046075.1	658	Ophiophagus hannah voucher SR254 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	NC_011394.1	17267	Ophiophagus hannah mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	EU921899.1	17267	Ophiophagus hannah mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Ophiophagus_hannah	JX235708.1	658	Ophiophagus hannah isolate OH2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

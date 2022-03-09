@@ -1,0 +1,6 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	NC_056333.1	16838	Episoriculus leucops mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	MW114663.1	16838	Episoriculus leucops mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981330.1	1044	Episoriculus leucops isolate Epileu08 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981329.1	1044	Episoriculus leucops isolate Epileu07 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981328.1	1044	Episoriculus leucops isolate Epileu02 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981327.1	1044	Episoriculus leucops isolate Epileu01 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

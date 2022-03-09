@@ -1,0 +1,44 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961309.1	534	Pipistrellus coromandra isolate 7-KA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961308.1	507	Pipistrellus coromandra isolate 6-KA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961307.1	551	Pipistrellus coromandra isolate 5-KA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961306.1	531	Pipistrellus coromandra isolate 4-KA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961305.1	556	Pipistrellus coromandra isolate 3-KA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961304.1	490	Pipistrellus coromandra isolate 2-KA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961303.1	533	Pipistrellus coromandra isolate 4-OR cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961302.1	548	Pipistrellus coromandra isolate 3-OR cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961301.1	545	Pipistrellus coromandra isolate 2-OR cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961300.1	547	Pipistrellus coromandra isolate 1-OR cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961299.1	537	Pipistrellus coromandra isolate 5-GJ cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961298.1	510	Pipistrellus coromandra isolate 4-GJ cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961297.1	537	Pipistrellus coromandra isolate 3-GJ cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961296.1	543	Pipistrellus coromandra isolate 2-GJ cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961295.1	547	Pipistrellus coromandra isolate 1-GJ cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961294.1	327	Pipistrellus coromandra isolate 4-HB cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961293.1	540	Pipistrellus coromandra isolate 3-HB cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961292.1	307	Pipistrellus coromandra isolate 2-HB cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961291.1	523	Pipistrellus coromandra isolate 1-HB cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961290.1	539	Pipistrellus coromandra isolate 2-SA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK961289.1	499	Pipistrellus coromandra isolate 1-SA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MK876220.1	529	Pipistrellus coromandra isolate 1-KA cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MG821188.1	658	Pipistrellus coromandra voucher NHM.OU.CHI.53.2016 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	MG821175.1	567	Pipistrellus coromandra voucher NHM.OU.CHI.156.2015 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	GU684804.1	658	Pipistrellus coromandra voucher ZMMU S-184695 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	GU684803.1	658	Pipistrellus coromandra voucher ZMMU S-184696 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	GU684802.1	658	Pipistrellus coromandra voucher ZMMU S-184697 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	GU684799.1	658	Pipistrellus coromandra voucher ZMMU S-184694 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	GU684796.1	658	Pipistrellus coromandra voucher ZMMU S-184692 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	GU684795.1	658	Pipistrellus coromandra voucher ZMMU S-184693 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	GU684789.1	658	Pipistrellus coromandra voucher ZMMU S-184690 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	GU684788.1	658	Pipistrellus coromandra voucher ZMMU S-184691 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444028.1	657	Pipistrellus coromandra voucher ZMMU S-182130 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444027.1	657	Pipistrellus coromandra voucher ZMMU S-182131 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444026.1	657	Pipistrellus coromandra voucher ZMMU S-182132 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444025.1	657	Pipistrellus coromandra voucher ZMMU S-182133 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444024.1	657	Pipistrellus coromandra voucher ZMMU S-182134 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444023.1	657	Pipistrellus coromandra voucher ZMMU S-182135 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444022.1	657	Pipistrellus coromandra voucher ZMMU S-182136 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444021.1	657	Pipistrellus coromandra voucher ZMMU S-182137 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444020.1	657	Pipistrellus coromandra voucher ZMMU S-182138 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	JF444019.1	657	Pipistrellus coromandra voucher ZMMU S-182139 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	NC_029191.1	17153	Pipistrellus coromandra mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_coromandra	KP688404.1	17153	Pipistrellus coromandra mitochondrion, complete genome

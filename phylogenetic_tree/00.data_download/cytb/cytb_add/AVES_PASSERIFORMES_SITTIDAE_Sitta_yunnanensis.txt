@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_yunnanensis	MT472739.1	1137	Sitta yunnanensis isolate MAR3254 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_yunnanensis	MT472738.1	1132	Sitta yunnanensis isolate MAR3253 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_yunnanensis	MN052793.1	16830	Sitta yunnanensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_yunnanensis	KJ467139.1	711	Sitta yunnanensis cytochrome b (cytb) gene, partial cds; mitochondrial

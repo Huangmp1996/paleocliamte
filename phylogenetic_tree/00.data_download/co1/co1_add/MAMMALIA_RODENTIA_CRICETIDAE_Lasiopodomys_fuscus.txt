@@ -1,0 +1,19 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	NC_040138.1	16328	Neodon fuscus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	MG833880.1	16328	Neodon fuscus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	KP190280.1	1542	Neodon fuscus isolate qinghai135 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	KP190279.1	1542	Neodon fuscus isolate qinghai127 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	KP190278.1	1542	Neodon fuscus isolate qinghai114 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	KP190277.1	1542	Neodon fuscus isolate qinghai101 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	KP190276.1	1542	Neodon fuscus isolate SQ06010 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962265.1	653	Lasiopodomys fuscus isolate QHMX17_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962264.1	653	Lasiopodomys fuscus isolate QH609_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962263.1	653	Lasiopodomys fuscus isolate QHMX57_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962262.1	653	Lasiopodomys fuscus isolate QHMX38_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962261.1	653	Lasiopodomys fuscus isolate QHMX60_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962260.1	653	Lasiopodomys fuscus isolate QHMX49_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962259.1	653	Lasiopodomys fuscus isolate QHMX54_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962258.1	653	Lasiopodomys fuscus isolate QHMX36_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962257.1	653	Lasiopodomys fuscus isolate QH602_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962256.1	653	Lasiopodomys fuscus isolate QH605_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962255.1	653	Lasiopodomys fuscus isolate QH599_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_fuscus	JX962254.1	653	Lasiopodomys fuscus isolate QH594_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

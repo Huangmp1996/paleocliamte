@@ -1,0 +1,37 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MT472781.1	409	Sitta nagaensis isolate MAR8821 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MT472772.1	1042	Sitta nagaensis isolate MAR8832 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MT472771.1	1042	Sitta nagaensis isolate MAR8831 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MT472770.1	1042	Sitta nagaensis isolate MAR8830 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	NC_042731.1	16828	Sitta nagaensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK343427.1	16828	Sitta nagaensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040228.1	1001	Sitta nagaensis voucher IOZ22668 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040225.1	1001	Sitta nagaensis voucher IOZ21900 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040224.1	990	Sitta nagaensis voucher NZMC37959 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040223.1	990	Sitta nagaensis voucher NZMC37957 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040222.1	1001	Sitta nagaensis voucher IOZ12855 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040221.1	990	Sitta nagaensis voucher NZMC36086 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040220.1	990	Sitta nagaensis voucher AMNH683815 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040219.1	990	Sitta nagaensis voucher AMNH683810 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040218.1	990	Sitta nagaensis voucher AMNH683806 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040217.1	990	Sitta nagaensis voucher AMNH683804 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040216.1	990	Sitta nagaensis voucher NZMC56788 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040215.1	1001	Sitta nagaensis voucher IOZ10194 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040214.1	990	Sitta nagaensis voucher NZMC59634 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040213.1	990	Sitta nagaensis voucher AMNH306555 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040212.1	990	Sitta nagaensis voucher NZMC33526 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040211.1	990	Sitta nagaensis voucher NZMC33525 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040210.1	990	Sitta nagaensis voucher NZMC33519 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040209.1	990	Sitta nagaensis voucher NZMC49970 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040208.1	990	Sitta nagaensis voucher NZMC49963 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040207.1	1001	Sitta nagaensis voucher IOZ21801 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040206.1	990	Sitta nagaensis voucher AMNH306254 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040205.1	1001	Sitta nagaensis voucher IOZ14599 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040204.1	1001	Sitta nagaensis voucher IOZ21579 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040203.1	1001	Sitta nagaensis voucher IOZ21578 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040202.1	1001	Sitta nagaensis voucher IOZ21576 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040201.1	1001	Sitta nagaensis voucher IOZ19932 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040200.1	1001	Sitta nagaensis voucher IOZ19867 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040199.1	1001	Sitta nagaensis voucher IOZ19825 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040198.1	1001	Sitta nagaensis voucher IOZ19824 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	MK040197.1	1001	Sitta nagaensis voucher IOZ17398 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_nagaensis	KJ467133.1	711	Sitta nagaensis cytochrome b (cytb) gene, partial cds; mitochondrial

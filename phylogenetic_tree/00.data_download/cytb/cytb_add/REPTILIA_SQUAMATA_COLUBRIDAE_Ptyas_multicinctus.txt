@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_multicinctus	MK201276.1	585	Ptyas multicinctus voucher CHS120 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_multicinctus	KX660511.1	1097	Cyclophiops multicinctus isolate KU291939 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_multicinctus	KX660471.1	1099	Cyclophiops multicinctus isolate FMNH255569 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_multicinctus	KX660435.1	1099	Cyclophiops multicinctus isolate AMNH153707 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_multicinctus	KM870883.1	571	Cyclophiops multicinctus isolate 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_multicinctus	KM870882.1	571	Cyclophiops multicinctus isolate 2 cytochrome b (cytb) gene, partial cds; mitochondrial

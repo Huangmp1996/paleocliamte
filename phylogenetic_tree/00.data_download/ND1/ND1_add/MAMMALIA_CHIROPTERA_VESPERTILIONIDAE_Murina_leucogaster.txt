@@ -1,0 +1,6 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	FJ743897.1	957	Murina leucogaster voucher B00058 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	FJ743896.1	957	Murina leucogaster isolate HHC001 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	FJ743895.1	957	Murina leucogaster isolate 200657 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	NC_025949.1	16823	Murina leucogaster mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KM893454.1	16823	Murina leucogaster mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	AB079831.1	957	Murina leucogaster mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

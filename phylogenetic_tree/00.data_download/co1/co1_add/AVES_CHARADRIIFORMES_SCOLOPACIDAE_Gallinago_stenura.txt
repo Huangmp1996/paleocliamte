@@ -1,0 +1,10 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	GQ481951.1	694	Gallinago stenura voucher UWBM 57870 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	KY888681.1	18153	Gallinago stenura mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	NC_034741.1	16899	Gallinago stenura mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	KY056596.1	16899	Gallinago stenura mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	GQ481955.1	694	Gallinago stenura voucher UWBM 46307 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	GQ481954.1	694	Gallinago stenura voucher UWBM 51859 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	GQ481953.1	694	Gallinago stenura voucher UWBM 67645 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	GQ481952.1	694	Gallinago stenura voucher UWBM 51675 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	EF515752.1	686	Gallinago stenura voucher KRIBB2799 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_stenura	KF009535.1	642	Gallinago stenura voucher G.stenura39 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

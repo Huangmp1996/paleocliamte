@@ -1,0 +1,5 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	MH047702.1	370	Cynops orientalis voucher DW014DF01003 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	MH047701.1	370	Cynops orientalis voucher DW014DF01002 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	MH047700.1	370	Cynops orientalis voucher DW014DF01001 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	KY399474.1	16294	Cynops orientalis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	EU880311.1	16299	Cynops orientalis mitochondrion, partial genome

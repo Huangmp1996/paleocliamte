@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Pseudorana_weiningensis	MZ338023.1	534	Pseudorana weiningensis isolate Ra45 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pseudorana_weiningensis	KX269217.1	1937	Rana weiningensis isolate SCUM0405171 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pseudorana_weiningensis	DQ359996.1	553	Rana weiningensis voucher KIZ-RD05KMWN01 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pseudorana_weiningensis	DQ359990.1	499	Rana weiningensis voucher SCUM0405174CJ 16S ribosomal RNA gene, partial sequence; mitochondrial

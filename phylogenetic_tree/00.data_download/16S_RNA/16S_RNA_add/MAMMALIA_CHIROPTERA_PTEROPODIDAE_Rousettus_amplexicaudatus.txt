@@ -1,0 +1,12 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MT259592.1	16511	Rousettus amplexicaudatus voucher MZF1072 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN816353.1	16720	Rousettus amplexicaudatus isolate VN1368 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN816352.1	16573	Rousettus amplexicaudatus isolate CKM76 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	NC_045044.1	16509	Rousettus amplexicaudatus voucher MRMD 2101 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN125184.1	16509	Rousettus amplexicaudatus voucher MRMD 2101 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	DQ002951.1	1299	Rousettus amplexicaudatus isolate 1017 12S ribosomal RNA, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	FJ529133.1	1299	Rousettus amplexicaudatus isolate S001 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	FJ529132.1	1299	Rousettus amplexicaudatus isolate Bau 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	FJ529131.1	1299	Rousettus amplexicaudatus isolate 1021 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	FJ529130.1	1299	Rousettus amplexicaudatus isolate 1019 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	AF203742.1	1573	Rousettus amplexicaudatus 16S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	AF044626.1	550	Rousettus amplexicaudatus 16S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

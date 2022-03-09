@@ -1,0 +1,8 @@
+AVES_GALLIFORMES_PHASIANIDAE_Lophura_nycthemera	EU417810.1	16680	Lophura nycthemera mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lophura_nycthemera	JF834903.1	655	Lophura nycthemera haplotype H3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lophura_nycthemera	JF834902.1	655	Lophura nycthemera haplotype H2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lophura_nycthemera	JF834901.1	655	Lophura nycthemera haplotype H1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lophura_nycthemera	GQ922620.1	699	Lophura nycthemera bio-material A069 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lophura_nycthemera	GQ922619.1	699	Lophura nycthemera bio-material A067 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lophura_nycthemera	GQ922618.1	699	Lophura nycthemera bio-material A066 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lophura_nycthemera	NC_012895.1	16680	Lophura nycthemera mitochondrion, complete genome

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corone	MK714020.1	16947	Corvus corone orientalis mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corone	AF094613.1	861	Corvus corone cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corone	DQ983945.1	562	Corvus corone 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corone	AF094643.1	517	Corvus corone 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

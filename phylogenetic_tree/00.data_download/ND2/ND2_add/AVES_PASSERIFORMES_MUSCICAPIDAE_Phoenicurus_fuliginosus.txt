@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	AY329436.1	1038	Rhyacornis fuliginosa NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	GU930816.1	1041	Rhyacornis fuliginosa voucher FMNH 347850 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	KJ455627.1	1041	Rhyacornis fuliginosa NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	KJ024236.1	1041	Rhyacornis fuliginosa isolate RFU1983 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	JX256066.1	1023	Rhyacornis fuliginosa voucher MNHN 14.52 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	GU358821.1	1041	Rhyacornis fuliginosa voucher NRM 20016563 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_BUFONIDAE_Ingerophrynus_galeatus	DQ283376.1	2421	Ingerophrynus galeatus voucher AMNH A163648 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Ingerophrynus_galeatus	FJ882768.1	2446	Ingerophrynus galeatus voucher ZMMSU A-3941; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Ingerophrynus_galeatus	FJ882767.1	1377	Ingerophrynus galeatus voucher ZMMSU A-3941; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Ingerophrynus_galeatus	DQ158452.1	2372	Ingerophrynus galeatus voucher FMNH 256443 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Ingerophrynus_galeatus	KY555642.1	551	Ingerophrynus galeatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Ingerophrynus_galeatus	EU366289.1	544	Bufo galeatus voucher ZFMK87000 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Ingerophrynus_galeatus	AF285196.1	579	Bufo galeatus TZ716 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Ingerophrynus_galeatus	AF160781.1	567	Bufo galeatus ROM 33281 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

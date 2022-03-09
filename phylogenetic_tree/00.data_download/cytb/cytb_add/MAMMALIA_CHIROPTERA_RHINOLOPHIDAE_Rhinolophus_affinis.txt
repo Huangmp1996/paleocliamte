@@ -1,0 +1,100 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	NC_053269.1	16886	Rhinolophus affinis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MW046259.1	432	Rhinolophus affinis voucher BM.2019.05.09 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MT845219.1	16886	Rhinolophus affinis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF584227.1	1140	Rhinolophus affinis voucher ROM 110904 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976914.1	1119	Rhinolophus affinis isolate ZS03 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976913.1	1119	Rhinolophus affinis isolate ZS01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976912.1	1119	Rhinolophus affinis isolate YGL416 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976911.1	1119	Rhinolophus affinis isolate WM06 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976910.1	1119	Rhinolophus affinis isolate WM04 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976909.1	1119	Rhinolophus affinis isolate VN44 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976908.1	1119	Rhinolophus affinis isolate VN41 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976907.1	1119	Rhinolophus affinis isolate VN37 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976906.1	1119	Rhinolophus affinis isolate MN21 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976905.1	1119	Rhinolophus affinis isolate JJ06 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976904.1	1119	Rhinolophus affinis isolate EM189 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK976903.1	1119	Rhinolophus affinis isolate VN46 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426451.1	1802	Rhinolophus affinis PyV19-DXC32 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426450.1	1802	Rhinolophus affinis PyV22-DXC12 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426449.1	1802	Rhinolophus affinis PyV21-DXC30 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426448.1	1802	Rhinolophus affinis PyV23-DXC17 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426447.1	1802	Rhinolophus affinis PyV19-FCC38 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426446.1	1802	Rhinolophus affinis PyVD-FN16C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426445.1	1802	Rhinolophus affinis PyV19-XDAC40 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426444.1	1802	Rhinolophus affinis PyV21-FCC23 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426443.1	1802	Rhinolophus affinis PyV19-SWAC9 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426442.1	1802	Rhinolophus affinis PyVA-FN06C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426441.1	1802	Rhinolophus affinis PyVC-FN15C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426440.1	1802	Rhinolophus affinis PyV19-XDAC25 mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426439.1	1802	Rhinolophus affinis PyVB-FN04C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426438.1	1802	Rhinolophus affinis PyVA-FN01C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	LC426437.1	1802	Rhinolophus affinis PyVB-FN02C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MK410324.1	1140	Rhinolophus affinis isolate MM3251M2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MG570063.1	1140	Rhinolophus affinis cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KX467577.1	1140	Rhinolophus affinis voucher YN-037 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	AF460975.1	528	Rhinolophus affinis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EU434934.1	1140	Rhinolophus affinis cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	DQ297582.1	1140	Rhinolophus affinis cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	FJ185186.1	708	Rhinolophus affinis isolate cmr87 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	FJ185185.1	497	Rhinolophus affinis isolate cmr31 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF544421.1	1140	Rhinolophus affinis isolate D cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF544420.1	1140	Rhinolophus affinis isolate A cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF544419.1	1140	Rhinolophus affinis isolate C cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF544418.1	1140	Rhinolophus affinis isolate B cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF108160.1	413	Rhinolophus affinis isolate TM015 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF108159.1	413	Rhinolophus affinis isolate TM007 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF108158.1	413	Rhinolophus affinis isolate B161 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF108157.1	413	Rhinolophus affinis isolate 1051 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF108156.1	413	Rhinolophus affinis isolate MTA96131 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	DQ987605.1	1140	Rhinolophus affinis cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KR346926.1	1140	Rhinolophus affinis isolate FSC03 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KR346925.1	1140	Rhinolophus affinis isolate FSC02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KR346924.1	1140	Rhinolophus affinis isolate FSC01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP876553.1	749	Rhinolophus affinis isolate 3994 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP876551.1	885	Rhinolophus affinis isolate 3750 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972692.1	413	Rhinolophus affinis voucher MZB35883 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972691.1	1123	Rhinolophus affinis voucher TK168529 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972690.1	1140	Rhinolophus affinis voucher TK168521 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972689.1	1140	Rhinolophus affinis voucher TK168523 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972688.1	1123	Rhinolophus affinis voucher TK168528 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972687.1	1123	Rhinolophus affinis voucher TK168525 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972686.1	1123	Rhinolophus affinis voucher TK168524 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972685.1	1061	Rhinolophus affinis voucher TK152217 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972684.1	1061	Rhinolophus affinis voucher TK152215 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972683.1	1061	Rhinolophus affinis voucher TK168483 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972682.1	1061	Rhinolophus affinis voucher TK168459 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972681.1	1061	Rhinolophus affinis voucher TK168447 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972680.1	1061	Rhinolophus affinis voucher TK152216 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972679.1	1061	Rhinolophus affinis voucher TK152208 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972678.1	391	Rhinolophus affinis voucher TK125699 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972677.1	404	Rhinolophus affinis voucher TK125698 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972676.1	404	Rhinolophus affinis voucher TK125721 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972675.1	404	Rhinolophus affinis voucher TK125719 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972674.1	736	Rhinolophus affinis voucher IS110816.4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972673.1	682	Rhinolophus affinis voucher PS110814.21 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972672.1	423	Rhinolophus affinis voucher IS110823.18 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972671.1	638	Rhinolophus affinis voucher IS110823.8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972670.1	832	Rhinolophus affinis voucher PS120211.15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972669.1	799	Rhinolophus affinis voucher PS120208.17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972668.1	774	Rhinolophus affinis voucher PS120204.3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972667.1	724	Rhinolophus affinis voucher IS110823.4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972666.1	796	Rhinolophus affinis voucher IS110823.10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972665.1	728	Rhinolophus affinis voucher PS120208.5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972664.1	733	Rhinolophus affinis voucher IS120122.7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972663.1	752	Rhinolophus affinis voucher IS120122.12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972662.1	588	Rhinolophus affinis voucher 12.007 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972661.1	766	Rhinolophus affinis voucher IS120120.3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972660.1	724	Rhinolophus affinis voucher IS120214.17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972659.1	769	Rhinolophus affinis voucher IS120216.8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972658.1	749	Rhinolophus affinis voucher IS120215.10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972657.1	745	Rhinolophus affinis voucher IS120215.11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KP972656.1	801	Rhinolophus affinis voucher IS120216.9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622515.1	1023	Rhinolophus affinis isolate YGL434 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622514.1	1023	Rhinolophus affinis isolate YGL433 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622513.1	1023	Rhinolophus affinis isolate XMSK214 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622512.1	1023	Rhinolophus affinis isolate XMSK208 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622511.1	1023	Rhinolophus affinis isolate SL28 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622510.1	1023	Rhinolophus affinis isolate SL27 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622509.1	1023	Rhinolophus affinis isolate SL20 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622508.1	1023	Rhinolophus affinis isolate SK366 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	KJ622507.1	1023	Rhinolophus affinis isolate SK364 cytochrome b (Cytb) gene, partial cds; mitochondrial

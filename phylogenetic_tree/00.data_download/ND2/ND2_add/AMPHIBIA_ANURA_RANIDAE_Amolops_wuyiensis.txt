@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_wuyiensis	MW111447.1	891	Amolops wuyiensis voucher KIZCJ200810-135 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_wuyiensis	MN958818.1	890	Amolops wuyiensis voucher KIZ04342 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_wuyiensis	MN958817.1	890	Amolops wuyiensis voucher KIZ06209 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_wuyiensis	MN958798.1	890	Amolops wuyiensis voucher HDSK0042 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_wuyiensis	KM282625.1	17308	Amolops wuyiensis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_wuyiensis	KJ933509.1	17479	Amolops wuyiensis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_wuyiensis	NC_025591.1	17797	Amolops wuyiensis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_wuyiensis	KM386618.1	17797	Amolops wuyiensis mitochondrion, complete genome

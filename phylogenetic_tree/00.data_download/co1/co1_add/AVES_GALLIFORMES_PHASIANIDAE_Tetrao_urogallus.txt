@@ -1,0 +1,7 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	MG583885.1	16683	Tetrao urogallus aquitanicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	GU572129.1	648	Tetrao urogallus voucher BISE-Aves46 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	GU572128.1	648	Tetrao urogallus voucher BISE-Aves284 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	GU571653.1	723	Tetrao urogallus voucher NHMO-BC447 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	GQ482773.1	694	Tetrao urogallus voucher UWBM 61546 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	GQ482772.1	694	Tetrao urogallus voucher UWBM 66698 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	GQ482771.1	694	Tetrao urogallus voucher UWBM 49746 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

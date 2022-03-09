@@ -1,0 +1,18 @@
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	MN935768.1	16556	Ursus thibetanus laniger mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	MH281753.1	16771	Ursus thibetanus laniger isolate NEP-A2 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	MG066704.2	16795	Ursus thibetanus isolate SA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	KT964290.1	16824	Ursus thibetanus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	DQ402478.1	16868	Ursus thibetanus mupinensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	AY882065.1	1044	Ursus thibetanus NADH dehydrogenase 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	EF681884.1	16824	Ursus thibetanus ussuricus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	EF667005.1	16701	Ursus thibetanus ussuricus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	EF587265.1	17034	Ursus thibetanus thibetanus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	EF196661.1	16795	Ursus thibetanus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	EF076773.1	17044	Ursus thibetanus formosanus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	AB863014.1	16748	Ursus thibetanus japonicus mitochondrial DNA, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	NC_011118.1	17034	Ursus thibetanus thibetanus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	NC_011117.1	16824	Ursus thibetanus ussuricus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	NC_009971.1	16795	Ursus thibetanus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	NC_009331.1	17044	Ursus thibetanus formosanus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	NC_008753.1	16868	Ursus thibetanus mupinensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_URSIDAE_Ursus_thibetanus	FM177759.1	16893	Ursus thibetanus complete mitochondrial genome

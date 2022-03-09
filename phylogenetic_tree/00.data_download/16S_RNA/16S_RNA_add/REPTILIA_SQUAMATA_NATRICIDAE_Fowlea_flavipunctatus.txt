@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	MT586822.1	497	Fowlea flavipunctatus voucher FMNH250122 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	MK194129.1	1309	Xenochrophis flavipunctatus voucher CHS659 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	MK194039.1	1301	Xenochrophis flavipunctatus voucher CHS306 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	MK194020.1	1304	Xenochrophis flavipunctatus voucher CHS260 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	AF544809.1	398	Xenochrophis flavipunctatus 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598984.1	652	Seicercus valentini voucher SR2016-666 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598983.1	635	Seicercus valentini voucher SR-2013-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598982.1	652	Seicercus valentini voucher SR2016-667 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598981.1	605	Seicercus valentini voucher SR2016-712 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598980.1	695	Seicercus valentini voucher SR-2013-2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598979.1	695	Seicercus valentini voucher SR2006-3280 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598978.1	695	Seicercus valentini voucher SR-2013-403 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598977.1	695	Seicercus valentini voucher SR2006-3925 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	MK598976.1	610	Seicercus valentini voucher SR-2013-56 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	KU343236.1	654	Seicercus valentini voucher MTD:C63807 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	KU343235.1	693	Seicercus valentini voucher MTD:C63806 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	KU343234.1	693	Seicercus valentini voucher MTD:C63805 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_valentini	KU343224.1	693	Seicercus valentini cytochrome oxidase I (COI) gene, partial cds; mitochondrial

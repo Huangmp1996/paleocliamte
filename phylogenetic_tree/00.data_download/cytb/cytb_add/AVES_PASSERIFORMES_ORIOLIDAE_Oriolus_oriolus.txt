@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_oriolus	NC_053058.1	16794	Oriolus oriolus mitochondrion, complete genome
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_oriolus	MN356254.1	16794	Oriolus oriolus mitochondrion, complete genome
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_oriolus	JQ864511.1	1143	Oriolus oriolus voucher UWBM 61063 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_oriolus	JN614881.1	962	Oriolus oriolus voucher NRM 20036563 cytochrome b (cytb) gene, partial cds; mitochondrial

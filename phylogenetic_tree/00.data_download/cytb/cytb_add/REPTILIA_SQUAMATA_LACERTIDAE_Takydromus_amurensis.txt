@@ -1,0 +1,23 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	MN239957.1	1074	Takydromus amurensis voucher SYS:r001891 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	MN239956.1	1074	Takydromus amurensis voucher SYS:r001890 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841538.1	1143	Takydromus amurensis isolate TC13 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841537.1	1143	Takydromus amurensis isolate TC12 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841536.1	1143	Takydromus amurensis isolate TC11 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841535.1	1143	Takydromus amurensis isolate TC10 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841534.1	1143	Takydromus amurensis isolate TC9 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841533.1	1143	Takydromus amurensis isolate TC8 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841532.1	1143	Takydromus amurensis isolate TC7 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841531.1	1143	Takydromus amurensis isolate TC6 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841530.1	1143	Takydromus amurensis isolate TC5 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841529.1	1143	Takydromus amurensis isolate TC4 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841528.1	1143	Takydromus amurensis isolate TC3 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU841527.1	1143	Takydromus amurensis isolate TC2 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	AY248459.1	702	Takydromus amurensis isolate AMU103 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	AY248458.1	702	Takydromus amurensis isolate AMU102 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	GQ142143.1	1143	Takydromus amurensis isolate ACT-4 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	NC_030209.1	17333	Takydromus amurensis voucher HRB1506080 mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU641018.1	17333	Takydromus amurensis voucher HRB1506080 mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU175692.1	1143	Takydromus amurensis isolate TC1 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	LC066080.1	1046	Takydromus amurensis mitochondrial cytb gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	JQ798809.1	786	Takydromus amurensis voucher NIBRRP0000000012 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	JQ798808.1	786	Takydromus amurensis voucher NIBRRP0000000013 cytochrome b (cytb) gene, partial cds; mitochondrial

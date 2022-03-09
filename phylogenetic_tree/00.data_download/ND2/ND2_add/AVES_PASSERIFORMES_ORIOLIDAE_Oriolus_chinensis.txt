@@ -1,0 +1,61 @@
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MW861756.1	16804	Oriolus chinensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706430.1	1041	Oriolus chinensis yamamurae voucher RMNH:AVES:81077 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706429.1	1041	Oriolus chinensis yamamurae voucher RMNH:AVES:35586 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706428.1	1041	Oriolus chinensis yamamurae voucher RMNH:AVES:100015 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706427.1	1041	Oriolus chinensis yamamurae voucher RMNH:AVES:100014 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706426.1	1041	Oriolus chinensis yamamurae voucher ZMUC:105738 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706425.1	1041	Oriolus chinensis yamamurae voucher ZMUC:105737 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706424.1	1041	Oriolus chinensis yamamurae voucher ZMUC:105736 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706423.1	1041	Oriolus chinensis suluensis voucher RMNH:AVES:141310 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706422.1	945	Oriolus chinensis suluensis voucher ZMUC:105744 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706421.1	945	Oriolus chinensis suluensis voucher ZMUC:105743 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706420.1	945	Oriolus chinensis suluensis voucher ZMUC:105742 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706419.1	945	Oriolus chinensis chinensis voucher BMNH:1898.11.24.35 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706418.1	1041	Oriolus chinensis chinensis voucher RMNH:AVES:141308 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706417.1	1041	Oriolus chinensis chinensis voucher RMNH:AVES:35585 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706416.1	1041	Oriolus chinensis broderipi voucher RMNH:AVES:141344 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706415.1	1041	Oriolus chinensis broderipi voucher RMNH:AVES:141347 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706414.1	1041	Oriolus chinensis broderipi voucher RMNH:AVES:97119 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706413.1	1041	Oriolus chinensis broderipi voucher RMNH:AVES:141335 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706412.1	1041	Oriolus chinensis broderipi voucher RMNH:AVES:66140 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706411.1	1041	Oriolus chinensis boneratensis voucher AMNH:266631 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706410.1	531	Oriolus chinensis stresemanni voucher AMNH:670478 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706409.1	531	Oriolus chinensis stresemanni voucher AMNH:670476 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706408.1	1041	Oriolus chinensis frontalis voucher RMNH:AVES:141312 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706407.1	1041	Oriolus chinensis frontalis voucher RMNH:AVES:141311 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706406.1	1041	Oriolus chinensis celebensis voucher RMNH:AVES:141510 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706405.1	1041	Oriolus chinensis celebensis voucher RMNH:AVES:141494 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706404.1	1041	Oriolus chinensis celebensis voucher RMNH:AVES:60617 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706403.1	1041	Oriolus chinensis formosus voucher AMNH:670428 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706402.1	1041	Oriolus chinensis sangirensis voucher AMNH:670425 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706401.1	1041	Oriolus chinensis melanisticus voucher RMNH:AVES:84581 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706400.1	1041	Oriolus chinensis melanisticus voucher RMNH:AVES:84582 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706399.1	1041	Oriolus chinensis insularis voucher AMNH:670400 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706398.1	799	Oriolus chinensis lamprochryseus voucher USNM:181700 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706397.1	766	Oriolus chinensis lamprochryseus voucher USNM:181522 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706396.1	531	Oriolus chinensis richmondi voucher AMNH:670336 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706395.1	811	Oriolus chinensis sipora voucher USNM:279975 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706394.1	1041	Oriolus chinensis mundus voucher RMNH:AVES:141330 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706393.1	1041	Oriolus chinensis mundus voucher RMNH:AVES:141331 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706392.1	1041	Oriolus chinensis maculatus voucher RMNH:AVES:141416 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706391.1	1041	Oriolus chinensis maculatus voucher RMNH:AVES:9907 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706390.1	1041	Oriolus chinensis maculatus voucher RMNH:AVES:24195 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706389.1	945	Oriolus chinensis maculatus voucher RMNH:AVES:10377 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706388.1	1041	Oriolus chinensis maculatus voucher RMNH:AVES:23395 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706387.1	1041	Oriolus chinensis maculatus voucher RMNH:AVES:9906 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706386.1	945	Oriolus chinensis macrourus voucher ZMUC:59893 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706385.1	945	Oriolus chinensis macrourus voucher ZMUC:59892 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706384.1	1041	Oriolus chinensis andamanensis voucher RMNH:AVES:22662 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706383.1	1041	Oriolus chinensis andamanensis voucher RMNH:AVES:27661 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706382.1	945	Oriolus chinensis diffusus voucher ZMUC:105741 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706381.1	1041	Oriolus chinensis diffusus voucher ZMUC:105740 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706380.1	1041	Oriolus chinensis diffusus voucher ZMUC:105739 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706379.1	1041	Oriolus chinensis diffusus voucher RMNH:AVES:53817 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MK706378.1	1041	Oriolus chinensis diffusus voucher RMNH:AVES:65866 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	GQ901782.1	525	Oriolus chinensis diffusus voucher AMNH 366779 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	GQ901777.1	525	Oriolus chinensis diffusus voucher NRM 569620 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	GQ901773.1	525	Oriolus chinensis maculatus voucher NRM 569617 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	GQ901769.1	1041	Oriolus chinensis chinensis voucher KU10945 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	GQ901768.1	1041	Oriolus chinensis diffusus voucher KU10450 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	NC_020424.1	16803	Oriolus chinensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	JQ083495.1	16803	Oriolus chinensis mitochondrion, complete genome

@@ -1,0 +1,27 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094862.1	502	Odorrana yizhangensis voucher CIBSZ2012062308 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094861.1	502	Odorrana yizhangensis voucher CIBSZ2012062307 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094860.1	502	Odorrana yizhangensis voucher CIBSZ2012062306 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094859.1	502	Odorrana yizhangensis voucher CIBSZ2012062305 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094858.1	502	Odorrana yizhangensis voucher CIBHN201108123 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094857.1	502	Odorrana yizhangensis voucher CIBHN201108122 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094856.1	502	Odorrana yizhangensis voucher CIBHN201108121 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094855.1	502	Odorrana yizhangensis voucher CIBGD201108087 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH094854.1	502	Odorrana yizhangensis voucher CIBGD201108086 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KF185048.1	1059	Odorrana yizhangensis voucher HNNU 1008-075 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH193562.1	538	Odorrana yizhangensis isolate lshz05 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH193561.1	536	Odorrana yizhangensis isolate lshz03 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	MH193560.1	536	Odorrana yizhangensis isolate HN49 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KX538903.1	541	Odorrana yizhangensis voucher FJS20150720007 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KX538902.1	537	Odorrana yizhangensis voucher FJS20150720006 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KX538901.1	538	Odorrana yizhangensis voucher FJS20150720005 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KX538900.1	538	Odorrana yizhangensis voucher FJS20150720004 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KX538899.1	537	Odorrana yizhangensis voucher FJS20150720002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KX538898.1	536	Odorrana yizhangensis voucher FJS20150720001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KU840593.1	555	Odorrana yizhangensis clone 16S34 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KT315394.1	987	Odorrana yizhangensis voucher SYSa001870 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KP710905.1	1012	Odorrana yizhangensis voucher HNNU 1407II205 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KP710904.1	1012	Odorrana yizhangensis voucher HNNU 1407II204 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KP710903.1	1012	Odorrana yizhangensis voucher HNNU 1407II190 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KP710902.1	1012	Odorrana yizhangensis voucher HNNU 1407II189 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KP693605.1	1012	Odorrana yizhangensis voucher HNNU 1407I043 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_yizhangensis	KP693603.1	1012	Odorrana yizhangensis voucher HNNU 1407II203 16S ribosomal RNA gene, partial sequence; mitochondrial

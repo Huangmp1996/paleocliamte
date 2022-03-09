@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	MT210139.1	698	Emberiza leucocephalos voucher MAR1627 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	NC_037692.1	16754	Emberiza leucocephalos mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	KY349100.1	16754	Emberiza leucocephalos mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370053.1	1032	Emberiza leucocephalos haplotype aB NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370052.1	1032	Emberiza leucocephalos haplotype aA NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370051.1	1032	Emberiza leucocephalos haplotype Z NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370050.1	1032	Emberiza leucocephalos haplotype Y NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370049.1	1032	Emberiza leucocephalos haplotype X NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370048.1	1032	Emberiza leucocephalos haplotype W NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370047.1	1032	Emberiza leucocephalos haplotype V NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370046.1	1032	Emberiza leucocephalos haplotype U NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370045.1	1032	Emberiza leucocephalos haplotype T NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370044.1	1032	Emberiza leucocephalos haplotype S NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370043.1	1032	Emberiza leucocephalos haplotype R NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ370019.1	1008	Emberiza leucocephalos NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

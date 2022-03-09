@@ -1,0 +1,4 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	EU809939.1	17244	Cuora galbinifrons mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	NC_014102.1	17244	Cuora galbinifrons mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	EF011326.1	816	Cuora galbinifrons clone Cg2_FMNH256544 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_galbinifrons	EF011325.1	816	Cuora galbinifrons clone Cg1_FMNH255694 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial

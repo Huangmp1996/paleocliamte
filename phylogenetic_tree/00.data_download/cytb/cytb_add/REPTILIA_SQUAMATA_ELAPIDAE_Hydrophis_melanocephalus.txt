@@ -1,0 +1,19 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	MK775532.1	17182	Hydrophis melanocephalus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572618.1	972	Leioselasma melanocephala voucher ZMUCR661442 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572623.1	1086	Leioselasma melanocephala voucher ZMUCR661446 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572622.1	1087	Leioselasma melanocephala voucher ZMUCR661445 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572621.1	1088	Leioselasma melanocephala voucher X01040 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572620.1	1083	Leioselasma melanocephala voucher X01038 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572619.1	968	Leioselasma melanocephala voucher ZMUCR661443 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572617.1	1088	Leioselasma melanocephala voucher X01033 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572615.1	777	Leioselasma melanocephala voucher MZB Ophi 4232 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572614.1	1084	Leioselasma melanocephala voucher MZBOphi4233 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572613.1	1084	Leioselasma melanocephala voucher MZBOphi4217 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572609.1	1083	Leioselasma melanocephala voucher MZBOphi4210 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572608.1	1080	Leioselasma melanocephala voucher MZBOphi4224 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572607.1	1083	Leioselasma melanocephala voucher MZBOphi4229 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572602.1	1081	Leioselasma melanocephala voucher MZBOphi4226 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572601.1	1086	Leioselasma melanocephala voucher MZBOphi4221 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572599.1	1083	Leioselasma melanocephala voucher MZBOphi4216 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	KC572587.1	1053	Leioselasma melanocephala voucher MZBOphi4225 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	D31620.1	286	Hydrophis melanocephalus mitochondrial gene for cytochrome b, partial cds

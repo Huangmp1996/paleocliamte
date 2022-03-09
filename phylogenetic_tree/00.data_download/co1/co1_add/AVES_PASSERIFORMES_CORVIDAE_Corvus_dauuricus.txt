@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_dauuricus	NC_046029.1	16921	Corvus dauuricus mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_dauuricus	MN735458.1	16921	Corvus dauuricus mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_dauuricus	GQ481636.1	686	Corvus dauuricus voucher UWBM 58041 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_dauuricus	GQ481635.1	676	Corvus dauuricus voucher UWBM 75394 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_dauuricus	GQ481634.1	674	Corvus dauuricus voucher UWBM 74563 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_dauuricus	GQ481633.1	672	Corvus dauuricus voucher UWBM 57908 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_dauuricus	JQ174547.1	618	Corvus dauuricus voucher USNM:Birds:586686 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,3 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_hodgsonii	NC_048989.1	17477	Columba hodgsonii mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_hodgsonii	MN919176.1	17477	Columba hodgsonii mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_hodgsonii	KJ456238.1	779	Columba hodgsonii voucher FMNH:276773 cytochrome b (cytb) gene, partial cds; mitochondrial

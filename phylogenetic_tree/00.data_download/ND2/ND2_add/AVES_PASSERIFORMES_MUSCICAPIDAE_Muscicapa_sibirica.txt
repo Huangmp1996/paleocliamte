@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	NC_045374.1	17879	Muscicapa sibirica mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	MK770601.1	17879	Muscicapa sibirica mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	KU192875.1	1018	Muscicapa sibirica voucher UWBM44143 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	KJ455515.1	1041	Muscicapa sibirica NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

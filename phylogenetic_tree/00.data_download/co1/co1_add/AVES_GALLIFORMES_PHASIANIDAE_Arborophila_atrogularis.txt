@@ -1,0 +1,3 @@
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_atrogularis	MN868239.1	16722	Arborophila atrogularis mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_atrogularis	KP119022.1	617	Arborophila atrogularis voucher BJ01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_atrogularis	KP119021.1	617	Arborophila atrogularis voucher BJ02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

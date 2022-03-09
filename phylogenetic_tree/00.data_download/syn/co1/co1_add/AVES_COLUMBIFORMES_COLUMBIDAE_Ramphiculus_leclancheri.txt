@@ -1,0 +1,5 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Ramphiculus_leclancheri	KT023341.1	378	Ptilinopus leclancheri voucher FMNH 358259 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Ramphiculus_leclancheri	JQ176044.2	651	Ptilinopus leclancheri voucher USNM:Birds:635225 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Ramphiculus_leclancheri	KF446941.1	642	Ptilinopus leclancheri voucher FMNH 358260 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Ramphiculus_leclancheri	JQ176043.1	651	Ptilinopus leclancheri voucher USNM:Birds:635222 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Ramphiculus_leclancheri	JQ176042.1	651	Ptilinopus leclancheri voucher USNM:Birds:635219 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

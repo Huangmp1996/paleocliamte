@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	NC_024554.1	16677	Lyrurus tetrix mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	KF955638.1	16677	Lyrurus tetrix mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	AF222593.1	970	Tetrao tetrix 12S small subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	AF230156.1	359	Tetrao tetrix 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

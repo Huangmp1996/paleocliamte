@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	MN239973.1	1074	Takydromus wolteri voucher SYS:r001889 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	MN239972.1	1074	Takydromus wolteri voucher SYS:r001888 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	AY248481.1	660	Takydromus wolteri isolate WOL101 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	LC066081.1	1046	Takydromus wolteri mitochondrial cytb gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JQ798812.1	786	Takydromus wolteri voucher NIBRRP0000100350 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JQ798811.1	786	Takydromus wolteri voucher NIBRRP0000100351 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JQ798810.1	786	Takydromus wolteri voucher NIBRRP0000100357 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	NC_018777.1	18236	Takydromus wolteri mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JX181764.1	18236	Takydromus wolteri mitochondrion, complete genome

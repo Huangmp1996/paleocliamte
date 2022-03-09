@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KY829450.1	16688	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ752426.1	16686	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KT806484.1	16685	Alectoris chukar isolate HLSSJ1508 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	NC_020585.1	16686	Alectoris chukar mitochondrion, complete genome

@@ -1,0 +1,14 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	MT409007.1	1032	Rana chaochiaoensis voucher SYS a001815 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	MT408957.1	1031	Rana chaochiaoensis voucher SYS a001816 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KU246048.1	18591	Rana chaochiaoensis voucher SM-ZJLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	NC_035803.1	18591	Rana chaochiaoensis voucher SM-ZJLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KX269192.1	1950	Rana chaochiaoensis isolate SCUM0405170CJ 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KF771282.1	1603	Rana chaochiaoensis 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	JQ621938.1	556	Rana chaochiaoensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	DQ289107.1	537	Rana chaochiaoensis voucher KizYP06026 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	DQ289106.1	519	Rana chaochiaoensis voucher KizYP06103 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	DQ289105.1	519	Rana chaochiaoensis voucher KizYP06102 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	DQ289082.1	407	Rana chaochiaoensis voucher KizYP06026 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	DQ289081.1	407	Rana chaochiaoensis voucher KizYP06103 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	DQ289080.1	406	Rana chaochiaoensis voucher KizYP06102 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	AF315134.1	555	Rana chaochiaoensis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

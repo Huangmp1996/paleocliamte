@@ -1,0 +1,45 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360286.1	1143	Phylloscopus affinis voucher IOZ1520 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360285.1	1143	Phylloscopus affinis voucher IOZ1415 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360284.1	1143	Phylloscopus affinis voucher IOZ1431 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360283.1	1143	Phylloscopus affinis voucher IOZ1522 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360282.1	1143	Phylloscopus affinis voucher IOZ1525 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360281.1	1143	Phylloscopus affinis voucher IOZ1407 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360280.1	1143	Phylloscopus affinis voucher IOZ1435 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360279.1	1143	Phylloscopus affinis voucher IOZ1438 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360278.1	1143	Phylloscopus affinis voucher IOZ1417 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360277.1	1143	Phylloscopus affinis voucher IOZ1437 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360276.1	1143	Phylloscopus affinis voucher IOZ1424 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360275.1	1143	Phylloscopus affinis voucher IOZ1425 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360274.1	1143	Phylloscopus affinis voucher IOZ1427 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360273.1	1143	Phylloscopus affinis voucher IOZ1406 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MK360272.1	1143	Phylloscopus affinis voucher IOZ1433 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	Y10730.1	1025	P.affinis mitochondrial cytb gene, partial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MH079236.1	1049	Phylloscopus affinis voucher IOZ 67718 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MH079235.1	1058	Phylloscopus affinis voucher IOZ 67717 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	MH079234.1	1048	Phylloscopus affinis voucher IOZ 67719 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155891.1	666	Phylloscopus affinis isolate 6986 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155890.1	666	Phylloscopus affinis isolate 6469 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155889.1	666	Phylloscopus affinis isolate 1797 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155888.1	666	Phylloscopus affinis isolate 5800 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155887.1	666	Phylloscopus affinis isolate 3202 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155886.1	666	Phylloscopus affinis isolate 439 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155885.1	666	Phylloscopus affinis isolate 3635 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155884.1	666	Phylloscopus affinis isolate 2088 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155883.1	520	Phylloscopus affinis isolate 6606 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155882.1	666	Phylloscopus affinis isolate 6605 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155881.1	666	Phylloscopus affinis isolate 6603 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155880.1	666	Phylloscopus affinis isolate U64 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155879.1	638	Phylloscopus affinis isolate 2705 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155878.1	666	Phylloscopus affinis isolate 6602 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ155877.1	666	Phylloscopus affinis isolate 2681 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	DQ008503.1	1038	Phylloscopus affinis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	L77128.1	910	Phylloscopus affinis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ384559.1	456	Phylloscopus affinis voucher BMNH:1949.Whi.1. 12278 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ384558.1	456	Phylloscopus affinis voucher BMNH:1949.Whi.1. 12276 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ384557.1	456	Phylloscopus affinis voucher ZSM:62.936 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ384556.1	450	Phylloscopus affinis voucher ZMB:2001.772 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	FJ384555.1	451	Phylloscopus affinis voucher ZMB:2001.773 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	KJ456389.1	1041	Phylloscopus affinis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	EU851090.1	851	Phylloscopus affinis isolate MAR90133 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	EU851089.1	851	Phylloscopus affinis isolate MAR3647 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_affinis	EU851088.1	851	Phylloscopus affinis isolate MAR3627 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,24 @@
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	NC_014341.1	16809	Pseudopodoces humilis mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382177.1	620	Pseudopodoces humilis voucher 112 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382176.1	620	Pseudopodoces humilis voucher 105 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382175.1	620	Pseudopodoces humilis voucher QH119 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382174.1	620	Pseudopodoces humilis voucher 1005010153 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382173.1	620	Pseudopodoces humilis voucher 1005010102 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382172.1	620	Pseudopodoces humilis voucher 1005010129 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382171.1	620	Pseudopodoces humilis voucher 1005010119 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382170.1	620	Pseudopodoces humilis voucher 1005010133 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382169.1	620	Pseudopodoces humilis voucher 1005010116 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382168.1	620	Pseudopodoces humilis voucher 1005010117 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382167.1	620	Pseudopodoces humilis voucher 1005010143 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382166.1	620	Pseudopodoces humilis voucher 1005010172 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382165.1	620	Pseudopodoces humilis voucher 1005010171 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382164.1	620	Pseudopodoces humilis voucher 1005010170 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382163.1	620	Pseudopodoces humilis voucher 1005010169 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382162.1	620	Pseudopodoces humilis voucher 1005010167 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	EU382161.1	620	Pseudopodoces humilis voucher 1005010166 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	KP001174.1	16758	Pseudopodoces humilis voucher IOZ4783 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	HM535648.1	16809	Pseudopodoces humilis mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	HM185373.1	948	Pseudopodoces humilis voucher IOZ4785 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	HM185372.1	948	Pseudopodoces humilis voucher IOZ4783 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	HM185309.1	1201	Pseudopodoces humilis voucher IOZ4783 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	HM185308.1	1201	Pseudopodoces humilis voucher IOZ4785 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	AB179619.1	17499	Cylindrophis ruffus mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	MK064906.1	657	Cylindrophis ruffus voucher CHS827 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	MK064590.1	657	Cylindrophis ruffus voucher CHS003 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	LC075328.1	720	Cylindrophis ruffus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: CRU02f
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	LC075327.1	718	Cylindrophis ruffus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: CRU01m
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	AY662538.1	1453	Cylindrophis ruffus tRNA-Met gene, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	NC_007401.1	17499	Cylindrophis ruffus mitochondrion, complete genome

@@ -1,0 +1,100 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	MN816304.1	16750	Cynopterus brachyotis isolate 140810x2 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	DQ097808.2	393	Cynopterus brachyotis isolate M292 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	DQ097807.2	393	Cynopterus brachyotis isolate M286 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	DQ097827.1	395	Cynopterus brachyotis isolate SM1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	DQ097826.1	395	Cynopterus brachyotis isolate SD40 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	DQ097809.1	395	Cynopterus brachyotis isolate M310 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	DQ097806.1	395	Cynopterus brachyotis isolate M215 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	DQ097805.1	395	Cynopterus brachyotis isolate JC75 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926638.1	741	Cynopterus brachyotis isolate TK_S2-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926637.1	741	Cynopterus brachyotis isolate TK_S1-8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926636.1	741	Cynopterus brachyotis isolate TK_S1-5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926635.1	741	Cynopterus brachyotis isolate PC_M263 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926634.1	741	Cynopterus brachyotis voucher FMNH 168879 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926633.1	741	Cynopterus brachyotis voucher FMNH 168876 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926632.1	741	Cynopterus brachyotis voucher CMC 2601 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926631.1	741	Cynopterus brachyotis voucher FMNH 168877 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926630.1	741	Cynopterus brachyotis voucher CMC 2600 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926629.1	741	Cynopterus brachyotis isolate PC_M021 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926628.1	741	Cynopterus brachyotis isolate PC_M175 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926627.1	741	Cynopterus brachyotis voucher FMNH 159020 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926626.1	741	Cynopterus brachyotis voucher FMNH 159017 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926625.1	741	Cynopterus brachyotis voucher FMNH 159016 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926624.1	741	Cynopterus brachyotis voucher FMNH 159019 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY926623.1	741	Cynopterus brachyotis voucher FMNH 159018 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922621.1	741	Cynopterus brachyotis voucher CMC 2873 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922620.1	741	Cynopterus brachyotis voucher CMC 2872 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922619.1	741	Cynopterus brachyotis voucher CMC 2871 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922618.1	741	Cynopterus brachyotis voucher CMC 2870 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922617.1	741	Cynopterus brachyotis voucher CMC 2868 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922616.1	741	Cynopterus brachyotis voucher CMC 2867 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922615.1	741	Cynopterus brachyotis voucher USNM 573490 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922614.1	741	Cynopterus brachyotis voucher USNM 573386 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922613.1	741	Cynopterus brachyotis voucher USNM 573381 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922612.1	741	Cynopterus brachyotis voucher USNM 573380 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922611.1	741	Cynopterus brachyotis voucher USNM 573379 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922610.1	741	Cynopterus brachyotis voucher USNM 573378 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922609.1	741	Cynopterus brachyotis voucher USNM 573410 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922608.1	741	Cynopterus brachyotis voucher USNM 573409 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922607.1	741	Cynopterus brachyotis voucher FMNH 147650 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922606.1	741	Cynopterus brachyotis voucher FMNH 147649 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922605.1	741	Cynopterus brachyotis voucher FMNH 147648 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922604.1	741	Cynopterus brachyotis voucher FMNH 147647 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922603.1	741	Cynopterus brachyotis voucher FMNH 147646 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922602.1	741	Cynopterus brachyotis voucher FMNH 147644 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922601.1	741	Cynopterus brachyotis voucher FMNH 147643 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922600.1	741	Cynopterus brachyotis voucher FMNH 135625 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922599.1	741	Cynopterus brachyotis voucher FMNH 136953 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922598.1	741	Cynopterus brachyotis voucher FMNH 136952 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922597.1	741	Cynopterus brachyotis voucher FMNH 136951 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922596.1	741	Cynopterus brachyotis voucher FMNH 136950 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922595.1	741	Cynopterus brachyotis voucher FMNH 136949 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922594.1	741	Cynopterus brachyotis voucher FMNH 136948 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922593.1	741	Cynopterus brachyotis voucher FMNH 136947 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922592.1	741	Cynopterus brachyotis voucher CMC 3180 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922591.1	741	Cynopterus brachyotis voucher CMC 3179 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922590.1	741	Cynopterus brachyotis voucher CMC 3178 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922589.1	741	Cynopterus brachyotis voucher FMNH 150818 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922588.1	741	Cynopterus brachyotis voucher FMNH 150814 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922587.1	741	Cynopterus brachyotis voucher FMNH 150812 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922586.1	741	Cynopterus brachyotis voucher FMNH 150811 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922585.1	741	Cynopterus brachyotis voucher FMNH 150810 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922584.1	741	Cynopterus brachyotis voucher FMNH 150809 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922583.1	741	Cynopterus brachyotis voucher FMNH 150808 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922582.1	741	Cynopterus brachyotis voucher CMC 3656 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922581.1	741	Cynopterus brachyotis voucher CMC 2944 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922580.1	741	Cynopterus brachyotis voucher CMC 2943 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922579.1	741	Cynopterus brachyotis voucher CMC 2942 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922578.1	741	Cynopterus brachyotis voucher CMC 2941 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922577.1	741	Cynopterus brachyotis voucher CMC 2940 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922576.1	741	Cynopterus brachyotis voucher CMC 2939 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922575.1	741	Cynopterus brachyotis voucher CMC 3665 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922574.1	741	Cynopterus brachyotis voucher USNM 458079 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922573.1	741	Cynopterus brachyotis voucher USNM 458078 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922572.1	741	Cynopterus brachyotis voucher USNM 458077 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922571.1	741	Cynopterus brachyotis voucher USNM 458076 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922570.1	741	Cynopterus brachyotis voucher USNM 458075 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922569.1	741	Cynopterus brachyotis voucher EAR 1235 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922568.1	741	Cynopterus brachyotis voucher EAR 1234 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922567.1	741	Cynopterus brachyotis voucher USNM 458072 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922566.1	741	Cynopterus brachyotis voucher FMNH 146608 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922565.1	741	Cynopterus brachyotis voucher FMNH 146607 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922564.1	741	Cynopterus brachyotis voucher FMNH 146606 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922563.1	741	Cynopterus brachyotis voucher FMNH 146605 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922562.1	741	Cynopterus brachyotis voucher FMNH 146604 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922561.1	741	Cynopterus brachyotis voucher FMNH 146603 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922560.1	741	Cynopterus brachyotis voucher FMNH 146602 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922559.1	741	Cynopterus brachyotis voucher FMNH 146970 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922558.1	741	Cynopterus brachyotis voucher RBU 149 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922557.1	741	Cynopterus brachyotis voucher USNM 458037 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922556.1	741	Cynopterus brachyotis voucher RBU 147 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922555.1	741	Cynopterus brachyotis voucher USNM 458233 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922554.1	741	Cynopterus brachyotis voucher USNM 458014 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922553.1	741	Cynopterus brachyotis voucher USNM 458010 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922552.1	741	Cynopterus brachyotis voucher FMNH 168988 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922551.1	741	Cynopterus brachyotis voucher FMNH 168985 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922550.1	741	Cynopterus brachyotis voucher FMNH 168984 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922549.1	741	Cynopterus brachyotis voucher FMNH 168983 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922548.1	741	Cynopterus brachyotis voucher FMNH 168982 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922547.1	741	Cynopterus brachyotis voucher FMNH 168981 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_brachyotis	AY922546.1	741	Cynopterus brachyotis voucher FMNH 168980 cytochrome b (cytb) gene, partial cds; mitochondrial

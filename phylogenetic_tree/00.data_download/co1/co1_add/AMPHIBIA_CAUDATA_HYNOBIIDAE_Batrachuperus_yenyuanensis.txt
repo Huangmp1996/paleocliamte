@@ -1,0 +1,42 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	DQ333818.1	16394	Batrachuperus yenyuanensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	NC_012430.1	16394	Batrachuperus yenyuanensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304246.1	848	Batrachuperus yenyuanensis isolate Hap201 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304245.1	848	Batrachuperus yenyuanensis isolate Hap200 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304244.1	848	Batrachuperus yenyuanensis isolate Hap199 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304243.1	848	Batrachuperus yenyuanensis isolate Hap198 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304242.1	848	Batrachuperus yenyuanensis isolate Hap197 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304241.1	848	Batrachuperus yenyuanensis isolate Hap196 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304240.1	848	Batrachuperus yenyuanensis isolate Hap195 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304239.1	848	Batrachuperus yenyuanensis isolate Hap194 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304238.1	848	Batrachuperus yenyuanensis isolate Hap193 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304237.1	848	Batrachuperus yenyuanensis isolate Hap192 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304236.1	848	Batrachuperus yenyuanensis isolate Hap191 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304235.1	848	Batrachuperus yenyuanensis isolate Hap190 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304234.1	848	Batrachuperus yenyuanensis isolate Hap189 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304233.1	848	Batrachuperus yenyuanensis isolate Hap188 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304232.1	848	Batrachuperus yenyuanensis isolate Hap187 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304231.1	848	Batrachuperus yenyuanensis isolate Hap186 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304230.1	848	Batrachuperus yenyuanensis isolate Hap185 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304229.1	848	Batrachuperus yenyuanensis isolate Hap184 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304228.1	848	Batrachuperus yenyuanensis isolate Hap183 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304227.1	848	Batrachuperus yenyuanensis isolate Hap182 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304226.1	848	Batrachuperus yenyuanensis isolate Hap181 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304225.1	848	Batrachuperus yenyuanensis isolate Hap180 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304224.1	848	Batrachuperus yenyuanensis isolate Hap179 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304223.1	848	Batrachuperus yenyuanensis isolate Hap178 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304222.1	848	Batrachuperus yenyuanensis isolate Hap177 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304221.1	848	Batrachuperus yenyuanensis isolate Hap176 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304220.1	848	Batrachuperus yenyuanensis isolate Hap175 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304219.1	848	Batrachuperus yenyuanensis isolate Hap174 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304218.1	848	Batrachuperus yenyuanensis isolate Hap173 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304217.1	848	Batrachuperus yenyuanensis isolate Hap172 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304216.1	848	Batrachuperus yenyuanensis isolate Hap171 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304215.1	848	Batrachuperus yenyuanensis isolate Hap170 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304214.1	848	Batrachuperus yenyuanensis isolate Hap169 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304213.1	848	Batrachuperus yenyuanensis isolate Hap168 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304212.1	848	Batrachuperus yenyuanensis isolate Hap167 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304211.1	848	Batrachuperus yenyuanensis isolate Hap166 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304210.1	848	Batrachuperus yenyuanensis isolate Hap165 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304209.1	848	Batrachuperus yenyuanensis isolate Hap164 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JQ304208.1	848	Batrachuperus yenyuanensis isolate Hap163 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	JN700867.1	593	Batrachuperus yenyuanensis voucher YPX9833 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

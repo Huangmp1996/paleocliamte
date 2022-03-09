@@ -1,0 +1,34 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KU217314.1	930	Odorrana wuchuanensis isolate QL1369 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	NC_034983.1	18256	Odorrana wuchuanensis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025506.1	1143	Odorrana wuchuanensis isolate 21413 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025505.1	1146	Odorrana wuchuanensis isolate 214112 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025504.1	1146	Odorrana wuchuanensis isolate 21511 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025503.1	1146	Odorrana wuchuanensis isolate 21416 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025502.1	1143	Odorrana wuchuanensis isolate 21415 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025501.1	1146	Odorrana wuchuanensis isolate 21414 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025500.1	1146	Odorrana wuchuanensis isolate 21411 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025499.1	1143	Odorrana wuchuanensis isolate 21312 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025498.1	1143	Odorrana wuchuanensis isolate 21311 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025497.1	1146	Odorrana wuchuanensis isolate 21212 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025496.1	1146	Odorrana wuchuanensis isolate 21211 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025495.1	1146	Odorrana wuchuanensis isolate 11215 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025494.1	1146	Odorrana wuchuanensis isolate 11214 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025493.1	1146	Odorrana wuchuanensis isolate 11213 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025492.1	1146	Odorrana wuchuanensis isolate 11212 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025491.1	1146	Odorrana wuchuanensis isolate 11211 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025490.1	1149	Odorrana wuchuanensis isolate 2152 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025489.1	1146	Odorrana wuchuanensis isolate 2151 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025488.1	1143	Odorrana wuchuanensis isolate 2143 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025487.1	1143	Odorrana wuchuanensis isolate 2142 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025486.1	1143	Odorrana wuchuanensis isolate 2141 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025485.1	1146	Odorrana wuchuanensis isolate 2121 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025484.1	1146	Odorrana wuchuanensis isolate 118 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025483.1	1146	Odorrana wuchuanensis isolate 117 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025482.1	1146	Odorrana wuchuanensis isolate 116 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025481.1	1146	Odorrana wuchuanensis isolate 115 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025480.1	1146	Odorrana wuchuanensis isolate 114 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025479.1	1146	Odorrana wuchuanensis isolate 113 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025478.1	1146	Odorrana wuchuanensis isolate 112 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025477.1	1143	Odorrana wuchuanensis isolate 21412 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KY025476.1	1146	Odorrana wuchuanensis isolate 111 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_wuchuanensis	KU680791.1	18256	Odorrana wuchuanensis mitochondrion, complete genome

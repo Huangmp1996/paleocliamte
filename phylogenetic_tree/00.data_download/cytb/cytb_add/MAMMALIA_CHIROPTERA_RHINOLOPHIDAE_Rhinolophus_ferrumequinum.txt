@@ -1,0 +1,100 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MK089295.1	16845	Rhinolophus ferrumequinum mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MZ066789.1	103	Rhinolophus ferrumequinum isolate 133127 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037790.1	525	Rhinolophus ferrumequinum haplotype IT 32 - south cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037789.1	525	Rhinolophus ferrumequinum haplotype IT 31 - south cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037788.1	525	Rhinolophus ferrumequinum haplotype IT 30 - northern borders cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037787.1	525	Rhinolophus ferrumequinum haplotype IT 29 - northern borders cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037786.1	525	Rhinolophus ferrumequinum haplotype IT 28 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037785.1	525	Rhinolophus ferrumequinum haplotype IT 27 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037784.1	525	Rhinolophus ferrumequinum haplotype IT 26 - Sardinia cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037783.1	525	Rhinolophus ferrumequinum haplotype IT 25 - Sardinia cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037782.1	525	Rhinolophus ferrumequinum haplotype IT 24 - Sardinia cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037781.1	525	Rhinolophus ferrumequinum haplotype IT 23 - Sardinia cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037780.1	525	Rhinolophus ferrumequinum haplotype IT 22 - Sardinia cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037779.1	525	Rhinolophus ferrumequinum haplotype IT 21 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037778.1	525	Rhinolophus ferrumequinum haplotype IT 20 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037777.1	525	Rhinolophus ferrumequinum haplotype IT 19 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037776.1	525	Rhinolophus ferrumequinum haplotype IT 18 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037775.1	525	Rhinolophus ferrumequinum haplotype IT 17 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037774.1	525	Rhinolophus ferrumequinum haplotype IT 16 - northern borders cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037773.1	525	Rhinolophus ferrumequinum haplotype IT 15 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037772.1	525	Rhinolophus ferrumequinum haplotype IT 14 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037771.1	525	Rhinolophus ferrumequinum haplotype IT 13 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037770.1	525	Rhinolophus ferrumequinum haplotype IT 12 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037769.1	525	Rhinolophus ferrumequinum haplotype IT 11 - north, centre cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037768.1	525	Rhinolophus ferrumequinum haplotype IT 10 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037767.1	525	Rhinolophus ferrumequinum haplotype IT 9 - centre cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037766.1	525	Rhinolophus ferrumequinum haplotype IT 8 - north, centre cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037765.1	525	Rhinolophus ferrumequinum haplotype IT 7 - north, centre cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037764.1	525	Rhinolophus ferrumequinum haplotype IT 6 - south cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037763.1	525	Rhinolophus ferrumequinum haplotype IT 5 - south cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037762.1	525	Rhinolophus ferrumequinum haplotype IT 4 - south cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037761.1	525	Rhinolophus ferrumequinum haplotype IT 3 - north cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037760.1	525	Rhinolophus ferrumequinum haplotype IT 2 - centre, north, northern borders cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MN037759.1	525	Rhinolophus ferrumequinum haplotype IT 1 - whole Italy cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MK340944.1	416	Rhinolophus ferrumequinum isolate Sukhum-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	LC426436.1	1802	Rhinolophus ferrumequinum PyV12-DZ15C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	LC426435.1	1802	Rhinolophus ferrumequinum PyV13-DZ26C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	LC426434.1	1803	Rhinolophus ferrumequinum PyV12-DZ13C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	LC426433.1	1803	Rhinolophus ferrumequinum PyV11-DZ11C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029819.1	1116	Rhinolophus ferrumequinum isolate NM90490 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029818.1	1116	Rhinolophus ferrumequinum isolate pb4671 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029817.1	1116	Rhinolophus ferrumequinum isolate pb4605_cli cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029816.1	1116	Rhinolophus ferrumequinum isolate pb4351 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029815.1	1116	Rhinolophus ferrumequinum isolate pb4189 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029814.1	1116	Rhinolophus ferrumequinum isolate pb4178 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029813.1	1116	Rhinolophus ferrumequinum isolate pb4105 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029812.1	1116	Rhinolophus ferrumequinum isolate pb3971 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029811.1	1116	Rhinolophus ferrumequinum isolate pb3410 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029810.1	1116	Rhinolophus ferrumequinum isolate pb2080 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029809.1	1116	Rhinolophus ferrumequinum isolate pb1974 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029808.1	1116	Rhinolophus ferrumequinum isolate pb1879 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029807.1	1116	Rhinolophus ferrumequinum isolate pb1814 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029806.1	1116	Rhinolophus ferrumequinum isolate pb1754 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029805.1	1116	Rhinolophus ferrumequinum isolate pb1635 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MH029804.1	1116	Rhinolophus ferrumequinum isolate pb0897 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MG570064.1	1140	Rhinolophus ferrumequinum cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MF048903.1	316	Rhinolophus ferrumequinum isolate LUX16_A_1371 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MF048902.1	316	Rhinolophus ferrumequinum isolate LUX16_A_037 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MF048901.1	316	Rhinolophus ferrumequinum isolate LUX16_A_024 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KX467578.1	1140	Rhinolophus ferrumequinum voucher JL-011 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KX655826.1	424	Rhinolophus ferrumequinum cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KF294307.1	1140	Rhinolophus ferrumequinum isolate Jiyuan-331 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KX237528.1	1140	Rhinolophus ferrumequinum haplotype 14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KX237527.1	1140	Rhinolophus ferrumequinum haplotype 15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	AF451337.1	528	Rhinolophus ferrumequinum cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	JN392460.1	16839	Rhinolophus ferrumequinum korai mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EU434936.1	1140	Rhinolophus ferrumequinum haplotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EU434935.1	1140	Rhinolophus ferrumequinum haplotype 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EU436673.1	1140	Rhinolophus ferrumequinum cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	DQ351848.1	1140	Rhinolophus ferrumequinum voucher YN-05x-32 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	DQ351847.1	1140	Rhinolophus ferrumequinum voucher JL-05-21 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	DQ297575.1	1140	Rhinolophus ferrumequinum cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	DQ120920.1	767	Rhinolophus ferrumequinum haplotype Rfe867 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	DQ120919.1	767	Rhinolophus ferrumequinum haplotype Rfe205 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FJ185194.1	656	Rhinolophus ferrumequinum isolate cmr51 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544417.1	1140	Rhinolophus ferrumequinum isolate P cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544416.1	1140	Rhinolophus ferrumequinum isolate Q cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544415.1	1140	Rhinolophus ferrumequinum isolate D cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544414.1	1140	Rhinolophus ferrumequinum isolate L cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544413.1	1140	Rhinolophus ferrumequinum isolate G cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544412.1	1140	Rhinolophus ferrumequinum isolate O cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544411.1	1140	Rhinolophus ferrumequinum isolate E cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544410.1	1140	Rhinolophus ferrumequinum isolate R cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544409.1	1140	Rhinolophus ferrumequinum isolate M cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544408.1	1140	Rhinolophus ferrumequinum isolate H cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544407.1	1140	Rhinolophus ferrumequinum isolate N cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544406.1	1140	Rhinolophus ferrumequinum isolate B cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544405.1	1140	Rhinolophus ferrumequinum isolate I cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544404.1	1140	Rhinolophus ferrumequinum isolate C cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544403.1	1140	Rhinolophus ferrumequinum isolate K cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544402.1	1140	Rhinolophus ferrumequinum isolate F cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544401.1	1140	Rhinolophus ferrumequinum isolate J cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	EF544400.1	1140	Rhinolophus ferrumequinum isolate A cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KR346932.1	1140	Rhinolophus ferrumequinum isolate SD06 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KR346931.1	1140	Rhinolophus ferrumequinum isolate SD05 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KR346930.1	1140	Rhinolophus ferrumequinum isolate SD04 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	AH006592.2	737	Rhinolophus ferrumequinum cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KU531308.1	1647	Rhinolophus ferrumequinum isolate SP.C.111 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KU531307.1	1642	Rhinolophus ferrumequinum isolate SP.C.54 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KU531306.1	1647	Rhinolophus ferrumequinum isolate Rfer-12-016-BU-GAB_2 cytochrome b (CYTB) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial

@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_liboensis	OK270816.1	500	Goniurosaurus liboensis isolate ECNU-V0119 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_liboensis	OK270815.1	500	Goniurosaurus liboensis isolate ECNU-V0118 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_liboensis	MH151204.1	15805	Goniurosaurus liboensis mitochondrion, partial genome
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_liboensis	KC900230.1	527	Goniurosaurus liboensis voucher SYS r000217 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,4 @@
+AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	NC_020573.1	16541	Anthropoides virgo mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	FJ769845.1	16541	Grus virgo mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	DQ485805.1	1044	Grus virgo 12S ribosomal RNA and tRNA-Val genes, complete sequence; mitochondrial
+AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	U76011.1	868	Grus virgo 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene, domains I-III, partial sequence

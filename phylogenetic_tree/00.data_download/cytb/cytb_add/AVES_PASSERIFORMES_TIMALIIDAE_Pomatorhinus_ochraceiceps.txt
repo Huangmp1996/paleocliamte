@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	MK599078.1	1135	Pomatorhinus ochraceiceps voucher SR2016-742 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	AF094630.1	861	Pomatorhinus ochraceiceps cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	HQ529177.1	1040	Pomatorhinus ochraceiceps voucher MNHN:5.13 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	HQ529176.1	1040	Pomatorhinus ochraceiceps voucher USNM:459788 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	HQ529175.1	1040	Pomatorhinus ochraceiceps voucher USNM:459786 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	GU724387.1	1143	Pomatorhinus ochraceiceps ochraceiceps voucher KIZ:WS023 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	GU724386.1	1143	Pomatorhinus ochraceiceps ochraceiceps voucher KIZ:WS026 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	GU724385.1	1143	Pomatorhinus ochraceiceps ochraceiceps voucher KIZ:WS024 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	AF094658.1	521	Pomatorhinus ochraceiceps 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

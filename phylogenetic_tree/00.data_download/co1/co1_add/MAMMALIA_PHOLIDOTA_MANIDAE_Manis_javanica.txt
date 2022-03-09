@@ -1,0 +1,100 @@
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MW205998.1	829	Manis javanica isolate MJ18007 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035778.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype31 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035777.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype30 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035776.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype29 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035775.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype28 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035774.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype27 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035773.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype26 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035772.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype25 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035771.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype24 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035770.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype23 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035769.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype22 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035768.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype21 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035767.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype20 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035766.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype19 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035765.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035764.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype17 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035763.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype16 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035762.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype15 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035761.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035760.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035759.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035758.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype11 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035757.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype10 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035756.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype9 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035755.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype8 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035754.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype7 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035753.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype6 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035752.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035751.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035750.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035749.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MT035748.1	601	Manis javanica isolate cytochrome c oxidase subunit 1 (CO1) gene, parcial sequence, haplotype1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810523.1	658	Manis javanica isolate MJ74 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810522.1	658	Manis javanica isolate MJ73 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810521.1	616	Manis javanica isolate MJ72 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810520.1	658	Manis javanica isolate MJ71 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810519.1	658	Manis javanica isolate MJ70 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810518.1	658	Manis javanica isolate MJ69 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810517.1	658	Manis javanica isolate MJ67 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810516.1	658	Manis javanica isolate MJ66 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810515.1	658	Manis javanica isolate MJ65 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810514.1	658	Manis javanica isolate MJ64 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810513.1	580	Manis javanica isolate MJ63 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810512.1	658	Manis javanica isolate MJ62 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810511.1	657	Manis javanica isolate MJ61 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810510.1	658	Manis javanica isolate MJ60 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810509.1	658	Manis javanica isolate MJ59 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810508.1	592	Manis javanica isolate MJ58 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810507.1	658	Manis javanica isolate MJ57 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810506.1	649	Manis javanica isolate MJ56 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810505.1	658	Manis javanica isolate MJ55 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810504.1	658	Manis javanica isolate MJ54 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810503.1	658	Manis javanica isolate MJ53 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810502.1	592	Manis javanica isolate MJ52 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810501.1	658	Manis javanica isolate MJ51 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810500.1	658	Manis javanica isolate MJ50 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810499.1	658	Manis javanica isolate MJ49 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810498.1	658	Manis javanica isolate MJ48 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810497.1	658	Manis javanica isolate MJ47 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810496.1	658	Manis javanica isolate MJ46 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810495.1	658	Manis javanica isolate MJ45 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810494.1	658	Manis javanica isolate MJ44 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810493.1	658	Manis javanica isolate MJ43 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810492.1	658	Manis javanica isolate MJ42 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810491.1	658	Manis javanica isolate MJ41 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810490.1	658	Manis javanica isolate MJ40 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810489.1	658	Manis javanica isolate MJ39 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810488.1	658	Manis javanica isolate MJ38 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810487.1	658	Manis javanica isolate MJ37 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810486.1	658	Manis javanica isolate MJ36 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810485.1	658	Manis javanica isolate MJ35 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810484.1	658	Manis javanica isolate MJ34 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810483.1	658	Manis javanica isolate MJ33 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810482.1	658	Manis javanica isolate MJ32 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810481.1	658	Manis javanica isolate MJ31 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810480.1	658	Manis javanica isolate MJ30 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810479.1	658	Manis javanica isolate MJ29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810478.1	658	Manis javanica isolate MJ28 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810477.1	658	Manis javanica isolate MJ27 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810476.1	622	Manis javanica isolate MJ26 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810475.1	658	Manis javanica isolate MJ25 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810474.1	658	Manis javanica isolate MJ24 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810473.1	652	Manis javanica isolate MJ23 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810472.1	658	Manis javanica isolate MJ22 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810471.1	658	Manis javanica isolate MJ21 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810470.1	658	Manis javanica isolate MJ20 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810469.1	658	Manis javanica isolate MJ19 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810468.1	658	Manis javanica isolate MJ18 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810467.1	658	Manis javanica isolate MJ17 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810466.1	644	Manis javanica isolate MJ16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810465.1	658	Manis javanica isolate MJ15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810464.1	658	Manis javanica isolate MJ14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810463.1	658	Manis javanica isolate MJ13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810462.1	658	Manis javanica isolate MJ12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810461.1	658	Manis javanica isolate MJ11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810460.1	658	Manis javanica isolate MJ10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810459.1	658	Manis javanica isolate MJ09 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810458.1	658	Manis javanica isolate MJ08 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810457.1	658	Manis javanica isolate MJ07 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MK810456.1	550	Manis javanica isolate MJ06 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

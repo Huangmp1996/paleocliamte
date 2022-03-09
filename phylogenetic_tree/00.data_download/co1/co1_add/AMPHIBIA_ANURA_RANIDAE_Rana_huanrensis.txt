@@ -1,0 +1,68 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385869.1	658	Rana huanrensis isolate RH-kedou-10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385868.1	658	Rana huanrensis isolate RH-kedou-09 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385867.1	658	Rana huanrensis isolate RH-kedou-08 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385866.1	658	Rana huanrensis isolate RH-kedou-07 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385865.1	658	Rana huanrensis isolate RH-kedou-06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385864.1	658	Rana huanrensis isolate RH-kedou-05 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385863.1	658	Rana huanrensis isolate RH-kedou-04 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385862.1	658	Rana huanrensis isolate RH-kedou-03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385861.1	658	Rana huanrensis isolate RH-kedou-02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385860.1	658	Rana huanrensis isolate RH-kedou-01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385859.1	658	Rana huanrensis isolate RH-LJ-06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385858.1	658	Rana huanrensis isolate RH-LJ-03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY385856.1	658	Rana huanrensis isolate RH-LJ-01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897594.1	658	Rana huanrensis voucher RH-C-LJ-17 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897593.1	658	Rana huanrensis voucher RH-C-LJ-16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897592.1	658	Rana huanrensis voucher RH-C-LJ-15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897591.1	658	Rana huanrensis voucher RH-C-LJ-14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897590.1	658	Rana huanrensis voucher RH-C-LJ-13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897589.1	658	Rana huanrensis voucher RH-C-LJ-12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897588.1	658	Rana huanrensis voucher RH-C-LJ-9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897587.1	658	Rana huanrensis voucher RH-C-LJ-8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897586.1	658	Rana huanrensis voucher RH-C-LJ-7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX897585.1	658	Rana huanrensis voucher RH-C-LJ-4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX139725.1	558	Rana huanrensis voucher SYNU07040035 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196280.1	658	Rana huanrensis isolate C-LJ-48 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196279.1	658	Rana huanrensis isolate C-LJ-47 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196278.1	658	Rana huanrensis isolate C-LJ-46 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196277.1	658	Rana huanrensis isolate C-LJ-45 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196276.1	658	Rana huanrensis isolate C-LJ-44 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196275.1	658	Rana huanrensis isolate C-LJ-43 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196274.1	658	Rana huanrensis isolate C-LJ-42 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196273.1	658	Rana huanrensis isolate C-LJ-41 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196272.1	658	Rana huanrensis isolate C-LJ-40 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196271.1	658	Rana huanrensis isolate C-LJ-39 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196270.1	658	Rana huanrensis isolate C-LJ-38 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196269.1	658	Rana huanrensis isolate C-LJ-37 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196268.1	658	Rana huanrensis isolate C-LJ-36 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196267.1	658	Rana huanrensis isolate C-LJ-35 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196266.1	658	Rana huanrensis isolate C-LJ-34 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196265.1	658	Rana huanrensis isolate C-LJ-33 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196264.1	658	Rana huanrensis isolate C-LJ-32 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196263.1	658	Rana huanrensis isolate C-LJ-31 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196262.1	658	Rana huanrensis isolate C-LJ-30 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196261.1	658	Rana huanrensis isolate C-LJ-29 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196260.1	658	Rana huanrensis isolate C-LJ-28 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196259.1	658	Rana huanrensis isolate C-LJ-27 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196258.1	658	Rana huanrensis isolate C-LJ-26 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196257.1	658	Rana huanrensis isolate C-LJ-25 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196256.1	658	Rana huanrensis isolate C-LJ-24 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196255.1	658	Rana huanrensis isolate C-LJ-23 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196254.1	658	Rana huanrensis isolate C-LJ-22 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196253.1	658	Rana huanrensis isolate C-LJ-21 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196252.1	658	Rana huanrensis isolate C-LJ-20 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196251.1	658	Rana huanrensis isolate C-LJ-19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196250.1	658	Rana huanrensis isolate C-LJ-18 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196249.1	658	Rana huanrensis isolate C-LJ-11 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KY196248.1	658	Rana huanrensis isolate C-LJ-5 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX024951.1	558	Rana huanrensis voucher SYNU07040023 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	JF939072.1	558	Rana huanrenensis voucher SYNU040006 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	NC_028521.1	19253	Rana huanrensis voucher y-d20130058 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KT588071.1	19253	Rana huanrensis voucher y-d20130058 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	JQ798854.1	783	Rana huanrenensis voucher GRKOAM0000100694 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	JQ798853.1	783	Rana huanrenensis voucher NIBRAM0000000002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	JQ798852.1	783	Rana huanrenensis voucher NIBRAM0000100257 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	JQ844526.1	600	Rana huanrensis voucher NIBRAM0000100257 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	JQ844525.1	600	Rana huanrensis voucher NIBRAM0000000002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	JQ844524.1	600	Rana huanrensis voucher NIBRAM0000100406 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	JQ844523.1	600	Rana huanrensis voucher NIBRAM0000000007 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

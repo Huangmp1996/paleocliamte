@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	NC_026223.1	16783	Periparus ater mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KM588075.1	16783	Periparus ater mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	JF828066.1	557	Periparus ater sardus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	JF828065.1	556	Periparus ater ptilosus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HQ417132.1	557	Periparus ater abietum isolate MAR00267 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HQ417131.1	557	Periparus ater cypriotes isolate MAR04561 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HQ417130.1	557	Periparus ater atlas isolate MAR04008 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HQ417129.1	556	Periparus ater eckodedicatus isolate MAR01876 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HQ417127.1	556	Periparus ater aemodius isolate MAR04156 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	HQ417126.1	556	Periparus ater ater isolate MAR00692 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	AJ224490.1	376	Parus ater mitochondrion 16S rRNA gene, partial

@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	MT439991.1	1009	Sitta himalayensis voucher MAR90087 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	NC_042730.1	16822	Sitta himalayensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	MK343426.1	16822	Sitta himalayensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	MK203573.1	1041	Sitta himalayensis voucher KIZCAS05314 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	DQ219780.1	1041	Sitta himalayensis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	KJ455650.1	1041	Sitta himalayensis voucher FMNH:218800 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

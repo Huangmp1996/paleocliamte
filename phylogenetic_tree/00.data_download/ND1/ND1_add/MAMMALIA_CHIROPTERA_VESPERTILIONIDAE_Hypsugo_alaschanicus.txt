@@ -1,0 +1,8 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Hypsugo_alaschanicus	MK135784.1	16911	Hypsugo alaschanicus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Hypsugo_alaschanicus	MF459671.1	17039	Hypsugo alaschanicus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Hypsugo_alaschanicus	NC_029939.1	17300	Hypsugo alaschanicus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Hypsugo_alaschanicus	KT380130.1	17300	Hypsugo alaschanicus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Hypsugo_alaschanicus	FR848499.1	522	Hypsugo alaschanicus partial ND1 gene for NADH dehydrogenase subunit 1, isolate Hala4771
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Hypsugo_alaschanicus	FR848498.1	632	Hypsugo alaschanicus partial ND1 gene for NADH dehydrogenase subunit 1, isolate Hala4770
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Hypsugo_alaschanicus	FR848497.1	357	Hypsugo alaschanicus partial ND1 gene for NADH dehydrogenase subunit 1, isolate Hala4769
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Hypsugo_alaschanicus	FR848496.1	798	Hypsugo alaschanicus partial ND1 gene for NADH dehydrogenase subunit 1, isolate Hala4768

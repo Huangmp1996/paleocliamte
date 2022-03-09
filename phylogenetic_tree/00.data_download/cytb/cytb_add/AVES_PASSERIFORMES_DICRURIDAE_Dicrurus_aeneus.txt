@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_aeneus	MN991555.1	1143	Dicrurus aeneus voucher KU-23352 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_aeneus	EF449759.1	441	Dicrurus aeneus isolate N71/4-3A cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_aeneus	EF449744.1	422	Dicrurus aeneus isolate E29 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_aeneus	JQ864497.1	1143	Dicrurus aeneus voucher LSUMZ 51219 cytochrome b (cytb) gene, complete cds; mitochondrial

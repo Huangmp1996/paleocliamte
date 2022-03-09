@@ -1,0 +1,100 @@
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	MN356128.1	16598	Cuculus canorus mitochondrion, partial genome
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	MN067867.1	17457	Cuculus canorus mitochondrion, complete genome
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	GQ481658.1	694	Cuculus canorus voucher UWBM 58010 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	GQ481657.1	694	Cuculus canorus voucher UWBM 66441 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	GQ481656.1	694	Cuculus canorus voucher UWBM 47024 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734648.1	159	Cuculus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMUK 1996-1-126
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734647.1	159	Cuculus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMUK 1925-12-15-5852
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734646.1	159	Cuculus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMUK Baker-Box48-D2
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734645.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMUK 1919-21-5289
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734644.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMUK 85G1
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734643.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMUK 1873
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734642.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMO LE3198
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734641.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4900, isolate 47
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734640.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4899, isolate 30
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734639.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4888, isolate 355
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734638.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4862, isolate 366
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734637.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4830, isolate 1
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734636.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4791, isolate 359
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734635.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4789, isolate 64
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734634.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4788, isolate 3
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734633.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4785, isolate 44
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734632.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4783, isolate 12
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734631.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4782, isolate 14
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734630.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4777, isolate 171
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734629.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4775, isolate 16
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734628.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4769, isolate 25
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734627.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4769, isolate 24
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734626.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4766, isolate 39
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734625.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4765, isolate 41
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734624.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4764, isolate 11
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734623.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4763, isolate 33
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734622.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4762, isolate 37
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734621.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4759, isolate 1
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734620.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4758, isolate 2
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734619.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4756, isolate 73
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734618.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4755, isolate 2
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734617.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4753, isolate 58
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734616.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4753, isolate 57
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734615.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4748, isolate 61
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734614.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4746, isolate 17
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734613.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4739, isolate 156
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734612.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4524, isolate 78
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734611.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4429, isolate 56
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734610.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4359, isolate 41
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734609.1	159	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MZM 4334, isolate 131
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734592.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can276
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734591.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can147
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734590.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can148
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734589.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can142
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734588.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can144
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734587.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can132
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734586.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can121
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734585.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can120
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734584.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can129
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734583.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can119
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734582.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can128
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734581.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can278
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734580.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can195
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734579.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can300
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734578.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can299
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734577.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can162
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734576.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can150
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734575.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can156
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734574.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can155
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734573.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can157
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734572.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can149
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734571.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can151
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734570.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can158
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734569.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can154
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734568.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can153
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734567.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can164
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734566.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can171
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734565.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can169
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734564.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can117
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734563.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can118
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734562.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can108
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734561.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can107
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734560.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can175
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734559.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can87
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734558.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can71
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734557.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can73
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734556.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can72
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734555.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can84
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734554.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can81
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734553.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can78
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734552.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can190
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734551.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can180
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734550.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can188
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734549.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can187
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734548.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can185
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734547.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can176
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734546.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can189
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734545.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can178
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734544.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can174
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734543.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can192
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734542.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can194
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734541.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can193
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734540.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can96
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734539.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can100
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_canorus	LN734538.1	695	Cuculus canorus canorus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate can99

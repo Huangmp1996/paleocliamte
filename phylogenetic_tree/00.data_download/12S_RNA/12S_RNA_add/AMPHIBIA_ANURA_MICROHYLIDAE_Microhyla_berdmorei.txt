@@ -1,0 +1,17 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534714.1	920	Microhyla berdmorei voucher ZMMU:A5073-21 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534713.1	921	Microhyla berdmorei voucher ZISP:FN-00237 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534712.1	921	Microhyla berdmorei voucher ZPMSU 06364 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534711.1	921	Microhyla berdmorei voucher ZMMU:NAP-04133 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534710.1	920	Microhyla berdmorei voucher ZMMU:NAP-03595 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534709.1	920	Microhyla berdmorei voucher IABHU 3862 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534708.1	920	Microhyla berdmorei voucher DFBGBAU Msp G-7 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534707.1	920	Microhyla berdmorei voucher ZMMU:NAP-06744 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	MN534706.1	920	Microhyla berdmorei voucher RMBR:2153 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	LC465690.1	1918	Microhyla berdmorei KUHE:20654 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	LC465689.1	1918	Microhyla berdmorei KUHE:21992 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	KU840496.1	748	Microhyla berdmorei clone 12S15 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	KC822491.1	2420	Microhyla berdmorei voucher JAM1995 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	AB634604.1	839	Microhyla berdmorei mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUHE:52373
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	AB634603.1	840	Microhyla berdmorei mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: MZB:Amp:15270
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	AB634602.1	839	Microhyla berdmorei mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: MZB:Amp:16413
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_berdmorei	AB598314.1	870	Microhyla berdmorei mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUHE:52034

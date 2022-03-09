@@ -1,0 +1,100 @@
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK688993.1	16761	Sus scrofa breed Bama mininature pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	OK329967.1	16752	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT483613.1	16620	Sus scrofa isolate DM1122 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	4V19_A	1570	Chain A, MITORIBOSOMAL 16S RRNA
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MZ647672.1	16690	Sus scrofa domesticus breed Ghungroo mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MZ846190.1	16692	Sus scrofa domesticus breed Doom mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MW342493.1	16710	Sus scrofa breed Dongkhe pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MW534270.1	16710	Sus scrofa domesticus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MZ914562.1	588	Sus scrofa domesticus voucher AIWC 335 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT501674.1	16690	Sus scrofa breed Ghungroo Pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MZ521005.1	600	Sus scrofa voucher AIWC 303 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MW862829.1	306	Sus scrofa isolate 70H large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MW862828.1	307	Sus scrofa isolate 52H large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	NC_000845.1	16613	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	7NSJ_BA	1571	Chain BA, 16S rRNA
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	7NSI_BA	1571	Chain BA, 16S rRNA
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN025258.1	16508	Sus scrofa domesticus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858179.1	16730	Sus scrofa isolate Queshan75 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858178.1	16700	Sus scrofa isolate Queshan65 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858177.1	16730	Sus scrofa isolate Queshan61 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858176.1	16740	Sus scrofa isolate Nanyang59 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858175.1	16710	Sus scrofa isolate Nanyang53 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858174.1	16730	Sus scrofa isolate Nanyang41 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858173.1	16719	Sus scrofa isolate Yuxi35 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858172.1	16759	Sus scrofa isolate Yuxi23 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858171.1	16749	Sus scrofa isolate Yuxi22 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858170.1	16749	Sus scrofa isolate Yuxi21 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858169.1	16760	Sus scrofa isolate Huainan13 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746097.1	16750	Sus scrofa isolate Queshan66 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746096.1	16750	Sus scrofa isolate Queshan63 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746095.1	16720	Sus scrofa isolate Nanyang56 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746094.1	16710	Sus scrofa isolate Nanyang54 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746093.1	16729	Sus scrofa isolate Yuxi25 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746092.1	16739	Sus scrofa isolate Yuxi24 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746091.1	16730	Sus scrofa isolate Huainan6 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746090.1	16740	Sus scrofa isolate Huainan5 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746089.1	16750	Sus scrofa isolate Huainan4 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746088.1	16730	Sus scrofa isolate Huainan1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	7NSH_BA	1571	Chain BA, 16S rRNA
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	7NQL_BA	1571	Chain BA, 16S rRNA
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	7NQH_BA	1571	Chain BA, 16S rRNA
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	6GB2_BA	1571	Chain BA, 16S ribosomal RNA, mitochondrial
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	6GAW_BA	1571	Chain BA, 16S ribosomal RNA, mitochondrial
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	5AJ4_BA	1570	Chain BA, MITORIBOSOMAL 16S Ribosomal RNA
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	4CE4_A	1570	Chain A, 16S Ribosomal RNA
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT653633.1	16719	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	LC500157.1	465	Sus scrofa mitochondrial gene for 16S ribosomal RNA, partial sequence, note: sample name: AW30
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	LC500156.1	465	Sus scrofa mitochondrial gene for 16S ribosomal RNA, partial sequence, note: sample name: KB8
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	LC500155.1	465	Sus scrofa mitochondrial gene for 16S ribosomal RNA, partial sequence, note: sample name: MG2
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN624263.1	16771	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT199606.1	16619	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT199605.1	16609	Sus scrofa breed yimenghei pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MH603005.1	16720	Sus scrofa breed Fengjing mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN258706.1	16719	Sus scrofa isolate HEBAO 01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK248682.1	16613	Sus scrofa breed Andaman Desi pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK248681.1	16613	Sus scrofa breed Nicobari pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK251046.1	16730	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN550011.1	15371	Sus scrofa breed Hezuo mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN550010.1	15371	Sus scrofa breed Tibetan mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK344653.1	16581	Sus scrofa isolate Europe haplotype 4 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK344652.1	16581	Sus scrofa isolate Europe haplotype 3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK344651.1	16581	Sus scrofa isolate Europe haplotype 2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK344650.1	16581	Sus scrofa isolate Europe haplotype 1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK290991.1	16581	Sus scrofa isolate Europe mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG725632.1	16380	Sus scrofa cristatus isolate ABT/SWFH/3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MH423744.1	524	Sus scrofa voucher ZSI/FI/18/1/6 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG837550.1	16776	Sus scrofa isolate RC mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG837549.1	16709	Sus scrofa isolate TP mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	F14841.1	195	SSC24D12 Porcine small intestine cDNA library Sus scrofa cDNA clone c24d12 similar to mitochondrial 12S and 16S ribosomal RNA, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	EB684346.1	585	EST0154-1 Swine Lambda TriplEx2 Library Sus scrofa cDNA clone 333 3' similar to 16S rRNA, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	DY762964.1	505	ESTssh2-022 Porcine subtracted plasmid Library 2 Sus scrofa cDNA clone 02-105 3' similar to 16S ribosomal RNA, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CX065384.1	683	PDUts2100A07 Porcine testis cDNA library II Sus scrofa cDNA clone PDUts2100A07 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CX065342.1	683	PDUts2099F01 Porcine testis cDNA library II Sus scrofa cDNA clone PDUts2099F01 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CX064000.1	694	PDUts2084H10 Porcine testis cDNA library II Sus scrofa cDNA clone PDUts2084H10 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CX059233.1	340	PDUts2033A05 Porcine testis cDNA library II Sus scrofa cDNA clone PDUts2033A05 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CX059018.1	492	PDUts2030F10 Porcine testis cDNA library II Sus scrofa cDNA clone PDUts2030F10 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CX057643.1	689	PDUts2015G12 Porcine testis cDNA library II Sus scrofa cDNA clone PDUts2015G12 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CX057257.1	633	PDUts2011F10 Porcine testis cDNA library II Sus scrofa cDNA clone PDUts2011F10 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CX056787.1	679	PDUts2006E06 Porcine testis cDNA library II Sus scrofa cDNA clone PDUts2006E06 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV878344.1	688	PDUts1176C09 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1176C09 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV875209.1	669	PDUts1136E05 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1136E05 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV874841.1	678	PDUts1131H12 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1131H12 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV874191.1	648	PDUts1124A01 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1124A01 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV872748.1	571	PDUts1106D12 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1106D12 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV872089.1	678	PDUts1098G07 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1098G07 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV871468.1	495	PDUts1091G01 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1091G01 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV871281.1	628	PDUts1089E10 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1089E10 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV871203.1	392	PDUts1088F11 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1088F11 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV870862.1	682	PDUts1084E07 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1084E07 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV870602.1	603	PDUts1081C12 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1081C12 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV870595.1	607	PDUts1081C04 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1081C04 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV870594.1	595	PDUts1081C03 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1081C03 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV870507.1	586	PDUts1080B08 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1080B08 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV869821.1	617	PDUts1071G10 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1071G10 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV869790.1	579	PDUts1071D07 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1071D07 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV868423.1	682	PDUts1054G11 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1054G11 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV867281.1	592	PDUts1041B05 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1041B05 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV866889.1	532	PDUts1036C01 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1036C01 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	CV864824.1	523	PDUts1010E10 Porcine testis cDNA library I Sus scrofa cDNA clone PDUts1010E10 5' similar to homologue to gb|AY011178.1| Sus scrofa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	BU946724.1	257	PS24U-238 Pig Skin Subtraction Library- Sulfur Mustard Regulated Transcripts Sus scrofa cDNA similar to Rhizobium sp. JEYF14 gene for 16S rRNA, partial sequence, mRNA sequence

@@ -1,0 +1,5 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	EU583335.1	1016	Buteo lagopus sanctijohannis voucher KUNHM 3450 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GQ264787.1	1077	Buteo lagopus voucher LSUMZ B8683 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GQ264786.1	1077	Buteo lagopus voucher LSUMZ B45908 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	NC_029189.1	18559	Buteo lagopus voucher AHNU:A0381 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	KP337337.1	18559	Buteo lagopus voucher AHNU:A0381 mitochondrion, complete genome

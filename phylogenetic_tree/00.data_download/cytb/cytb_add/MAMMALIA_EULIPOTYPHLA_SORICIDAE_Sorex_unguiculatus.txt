@@ -1,0 +1,37 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	KX754479.1	1140	Sorex unguiculatus isolate HEG28-97 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	NC_005435.1	17105	Sorex unguiculatus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	D85350.1	402	Sorex unguiculatus mitochondrial gene for cytochrome b, partial cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	D85345.1	402	Sorex unguiculatus mitochondrial gene for cytochrome b, partial cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028531.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:98misc182
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028530.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc95
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028529.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:95misc13
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028528.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc53
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028527.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc141
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028526.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc69
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028525.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc142
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028524.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:94sak1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028523.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc104
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028522.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc129
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028521.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:96misc35
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028520.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97/8/17-16
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028519.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:96/6/17-1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028518.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:94su1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028517.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97/9/17-1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028516.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc26
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028515.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:94ris10
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028514.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:95misc14
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028513.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97/6/7-6
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028512.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc59
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028511.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97/6/21-9
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028510.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97/8/31-7
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028509.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:94sak15
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028508.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:97misc31
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028507.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:95misc15
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028506.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:n23/95
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028505.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:n25/95
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028504.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:96/9/15-7
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028503.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:95/9/7-11
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028502.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:94sak23
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB028501.1	1140	Sorex unguiculatus mitochondrial gene for cytochrome b, complete cds, isolate:96misc62
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AJ000439.1	1011	Sorex unguiculatus partial mitochondrial cytb gene
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_unguiculatus	AB061527.1	17105	Sorex unguiculatus mitochondrial DNA, complete genome

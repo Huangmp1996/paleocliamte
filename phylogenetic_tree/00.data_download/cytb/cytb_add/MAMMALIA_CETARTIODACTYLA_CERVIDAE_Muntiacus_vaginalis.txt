@@ -1,0 +1,17 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MH500770.1	16352	Muntiacus vaginalis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	NC_057642.1	16348	Muntiacus vaginalis isolate CG1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MT671399.1	16355	Muntiacus vaginalis isolate ADM2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MT671398.1	16355	Muntiacus vaginalis isolate ADM1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MT758353.1	16348	Muntiacus vaginalis isolate MP2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MT758352.1	16348	Muntiacus vaginalis isolate MP1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MT758351.1	16348	Muntiacus vaginalis isolate AP1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MT758350.1	16348	Muntiacus vaginalis isolate NL1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MT758349.1	16348	Muntiacus vaginalis isolate CG1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MK050507.1	16352	Muntiacus vaginalis isolate N5 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MK050506.1	16352	Muntiacus vaginalis isolate N4 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MK050505.1	16352	Muntiacus vaginalis isolate N3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MH547032.1	16352	Muntiacus vaginalis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MH045150.1	304	Muntiacus vaginalis isolate Barking_deer3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MH045149.1	304	Muntiacus vaginalis isolate Barking_deer2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	MH045148.1	304	Muntiacus vaginalis isolate Barking_deer1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_vaginalis	AF042715.1	1140	Muntiacus muntjak vaginalis cytochrome b gene, mitochondrial gene encoding mitochondrial protein, complete cds

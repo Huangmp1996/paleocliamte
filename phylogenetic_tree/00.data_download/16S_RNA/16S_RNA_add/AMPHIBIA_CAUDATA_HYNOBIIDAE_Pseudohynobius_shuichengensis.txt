@@ -1,0 +1,6 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	NC_021001.1	16394	Pseudohynobius shuichengensis voucher CIB-XM2855 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	FJ532060.1	16394	Pseudohynobius shuichengensis voucher CIB-XM2855 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	JN165948.1	466	Pseudohynobius shuichengensis voucher XM1082 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	JN165947.1	466	Pseudohynobius shuichengensis voucher XM1081 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	JN165832.1	582	Pseudohynobius shuichengensis voucher XM1082 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_shuichengensis	JN165831.1	582	Pseudohynobius shuichengensis voucher XM1081 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,24 @@
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329678.1	678	Apodemus latronum isolate WL15532 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329677.1	678	Apodemus latronum isolate WL15531 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329676.1	678	Apodemus latronum isolate WL15530 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329665.1	678	Apodemus latronum isolate SCH05050 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329616.1	678	Apodemus latronum isolate JCB003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329595.1	678	Apodemus latronum isolate GHZ017 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329594.1	678	Apodemus latronum isolate GHZ016 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329593.1	678	Apodemus latronum isolate GHZ014 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329590.1	678	Apodemus latronum isolate GC20140184 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329580.1	678	Apodemus latronum isolate DQ646 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329560.1	678	Apodemus latronum isolate 14ML006 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329558.1	678	Apodemus latronum isolate 14LH011 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329557.1	678	Apodemus latronum isolate 14LH010 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329556.1	678	Apodemus latronum isolate 14LH008 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329555.1	678	Apodemus latronum isolate 14JD010 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329554.1	678	Apodemus latronum isolate 14BS012 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	MK329553.1	678	Apodemus latronum isolate 14BS011 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	HQ318705.1	1239	Apodemus latronum isolate DC2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	HQ318704.1	1239	Apodemus latronum isolate DC1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	HQ318703.1	1239	Apodemus latronum isolate DB cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	HQ318702.1	1239	Apodemus latronum isolate XL cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	HQ318701.1	1239	Apodemus latronum isolate DF cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	HQ333256.1	16288	Apodemus latronum mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_latronum	NC_019585.1	16288	Apodemus latronum mitochondrion, complete genome

@@ -1,0 +1,15 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MH047798.1	497	Phrynocephalus theobaldi voucher DW011XZ01002 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MH047797.1	497	Phrynocephalus theobaldi voucher DW011XZ01001 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MF039063.1	16365	Phrynocephalus theobaldi theobaldi mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MF039062.1	17129	Phrynocephalus theobaldi orientalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	KJ551842.1	16608	Phrynocephalus theobaldi orientalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053856.1	502	Phrynocephalus theobaldi isolate 7495 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053855.1	502	Phrynocephalus theobaldi isolate Rdq160 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053854.1	502	Phrynocephalus theobaldi isolate 0071 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053853.1	502	Phrynocephalus theobaldi isolate 0070 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053852.1	502	Phrynocephalus theobaldi isolate Rdq122 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053851.1	502	Phrynocephalus theobaldi isolate Rdq121 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053850.1	502	Phrynocephalus theobaldi isolate Rdq142 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053849.1	502	Phrynocephalus theobaldi isolate Rdq141 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053848.1	502	Phrynocephalus theobaldi isolate Rdq102 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	AY053847.1	502	Phrynocephalus theobaldi isolate Rdq101 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

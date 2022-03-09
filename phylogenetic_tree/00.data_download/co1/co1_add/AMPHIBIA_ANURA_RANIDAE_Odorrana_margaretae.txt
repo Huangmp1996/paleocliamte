@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	KR087843.1	705	Odorrana margaretae voucher G028 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	NC_024603.1	17903	Odorrana margaretae mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	KJ815050.1	17903	Odorrana margaretae mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	JN700827.1	602	Rana margaretae voucher KIZ01636 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

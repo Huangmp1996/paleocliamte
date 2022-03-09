@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Spizixos_canifrons	MG762119.1	1040	Spizixos canifrons voucher MNHN Uncat. 15-09 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Spizixos_canifrons	MF458405.1	1041	Spizixos canifrons NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Spizixos_canifrons	KY454724.1	1041	Spizixos canifrons voucher CAS ORN 6462 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

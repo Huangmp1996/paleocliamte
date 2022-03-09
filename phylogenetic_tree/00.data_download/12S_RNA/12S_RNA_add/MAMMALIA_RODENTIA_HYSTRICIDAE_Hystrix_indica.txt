@@ -1,0 +1,9 @@
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	MW813971.1	324	Hystrix indica voucher AIWC 55 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	MW487618.1	171	Hystrix indica isolate H.indica2 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	MW487617.1	195	Hystrix indica isolate H.indica1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	MT152313.1	7525	Hystrix indica isolate HyInTr1 mitochondrion, partial genome
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	MT251914.1	185	Hystrix indica small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	MN647662.1	157	Hystrix indica small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	KX611874.1	384	Hystrix indica 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	KP191626.1	462	Hystrix indica isolate 9059 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	AY093669.1	394	Hystrix indica 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

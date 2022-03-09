@@ -1,0 +1,11 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	DQ283122.1	2387	Kurixalus eiffingeri voucher UMFS 5969 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	MF440298.1	1468	Kurixalus eiffingeri 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	KJ802926.1	1752	Kurixalus eiffingeri voucher KUHE 12910 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	AB933305.1	2429	Kurixalus eiffingeri mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: KUHE:12910
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	AY880492.1	505	Kurixalus eiffingeri 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	DQ468673.1	548	Kurixalus eiffingeri voucher A120 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	DQ468672.1	549	Kurixalus eiffingeri voucher 11320 (CE19) 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	DQ468670.1	549	Kurixalus eiffingeri voucher 11333 (CE03) 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	AF458128.1	1963	Chirixalus eiffingeri 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	DQ286995.1	593	Kurixalus eiffingeri voucher TTU-R-11758 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_eiffingeri	AF026363.2	1143	Chirixalus eiffingeri 16S ribosomal RNA gene, partial sequence, mitochondrial gene for mitochondrial RNA

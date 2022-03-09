@@ -1,0 +1,16 @@
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	GQ481387.1	694	Aythya marila voucher UWBM 59568 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	JF499102.1	694	Aythya marila voucher USNM:641825 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	JF499101.1	694	Aythya marila voucher USNM:641826 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	GU571752.1	648	Aythya marila voucher BISE-Aves160 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	GU571751.1	648	Aythya marila voucher BISE-Aves409 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	GU571275.1	747	Aythya marila voucher NHMO-BC541 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ432759.1	624	Aythya marila voucher USNM B07299 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434335.1	689	Aythya marila voucher 1480-10162 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434334.1	697	Aythya marila voucher 1480 20164 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434333.1	697	Aythya marila voucher 1480 20162 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434332.1	697	Aythya marila voucher 1480 20038 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434331.1	697	Aythya marila voucher 1480 10298 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434330.1	492	Aythya marila voucher 1480-10036 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434329.1	657	Aythya marila voucher 1480-10040 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434328.1	665	Aythya marila voucher 1480-10015 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_marila	DQ434327.1	689	Aythya marila voucher 1480-10090 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

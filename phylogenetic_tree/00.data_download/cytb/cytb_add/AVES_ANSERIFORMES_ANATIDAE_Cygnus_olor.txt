@@ -1,0 +1,6 @@
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	FJ170044.1	502	Cygnus olor cytochrome b (CytB) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	EU585645.1	1045	Cygnus olor voucher IPMB 481 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	HM063581.1	1065	Cygnus olor isolate MDS cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	NC_027096.1	16739	Cygnus olor mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	KR867679.1	16735	Cygnus olor mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	KP981364.1	16739	Cygnus olor mitochondrion, complete genome

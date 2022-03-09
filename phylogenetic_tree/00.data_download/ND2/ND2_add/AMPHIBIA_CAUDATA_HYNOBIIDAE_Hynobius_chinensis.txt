@@ -1,0 +1,7 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	DQ333819.1	16408	Hynobius chinensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	AY915934.1	1455	Hynobius chinensis voucher TP24994 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	AY915933.1	1455	Hynobius chinensis voucher RM9870 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	AY593174.1	1044	Hynobius chinensis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	HM036353.1	16404	Hynobius chinensis voucher CIB-XM2853 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	NC_008088.1	16408	Hynobius chinensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	JQ710885.1	16495	Hynobius chinensis mitochondrion, complete genome

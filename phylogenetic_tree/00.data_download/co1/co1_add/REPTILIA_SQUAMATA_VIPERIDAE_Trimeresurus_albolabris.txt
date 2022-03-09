@@ -1,0 +1,51 @@
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK064863.1	657	Trimeresurus albolabris voucher CHS764 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK064836.1	657	Trimeresurus albolabris voucher CHS721 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK064805.1	657	Trimeresurus albolabris voucher CHS661 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403579.1	638	Trimeresurus albolabris voucher GP1896 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403578.1	652	Trimeresurus albolabris voucher GP1895 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403577.1	646	Trimeresurus albolabris voucher GP1592 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403576.1	656	Trimeresurus albolabris voucher GP1591 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403575.1	652	Trimeresurus albolabris voucher GP979 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403574.1	652	Trimeresurus albolabris voucher GP978 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403573.1	648	Trimeresurus albolabris voucher GP6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403572.1	632	Trimeresurus albolabris voucher GP5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KP403571.1	655	Trimeresurus albolabris voucher GP4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AB920198.1	717	Trimeresurus albolabris mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: TAL4
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AB920197.1	717	Trimeresurus albolabris mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: TAL3
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KU986327.1	610	Trimeresurus albolabris voucher ROM Herps 35299 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KU986319.1	668	Trimeresurus albolabris voucher BIOUG-PW003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291124.1	637	Cryptelytrops albolabris isolate GV103 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291123.1	637	Cryptelytrops albolabris isolate GV102 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291122.1	637	Cryptelytrops albolabris isolate GV101 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291121.1	637	Cryptelytrops albolabris isolate GV100 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291120.1	637	Cryptelytrops albolabris isolate GV99 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291119.1	637	Cryptelytrops albolabris isolate GV98 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291118.1	637	Cryptelytrops albolabris isolate GV97 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291117.1	637	Cryptelytrops albolabris isolate GV96 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291116.1	636	Cryptelytrops albolabris isolate GV95 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291115.1	637	Cryptelytrops albolabris isolate GV94 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291114.1	637	Cryptelytrops albolabris isolate GV93 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291113.1	637	Cryptelytrops albolabris isolate GV92 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291112.1	637	Cryptelytrops albolabris isolate GV91 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291110.1	637	Cryptelytrops albolabris isolate GV87 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291094.1	572	Cryptelytrops albolabris isolate GV67 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291093.1	637	Cryptelytrops albolabris isolate GV66 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291082.1	637	Cryptelytrops albolabris isolate GV50 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291078.1	637	Cryptelytrops albolabris isolate GV46 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291077.1	637	Cryptelytrops albolabris isolate GV45 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291075.1	633	Cryptelytrops albolabris isolate GV43 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291067.1	636	Cryptelytrops albolabris isolate GV32 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291066.1	599	Cryptelytrops albolabris isolate GV31 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291065.1	637	Cryptelytrops albolabris isolate GV30 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291064.1	637	Cryptelytrops albolabris isolate GV29 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291063.1	637	Cryptelytrops albolabris isolate GV28 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291062.1	637	Cryptelytrops albolabris isolate GV27 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291061.1	599	Cryptelytrops albolabris isolate GV24 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291060.1	637	Cryptelytrops albolabris isolate GV21 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291059.1	637	Cryptelytrops albolabris isolate GV19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC291050.1	634	Cryptelytrops albolabris isolate GV5 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	NC_022820.1	17220	Trimeresurus albolabris mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KC171175.1	658	Cryptelytrops albolabris isolate TA3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KF311102.1	17220	Trimeresurus albolabris mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	JX233622.1	658	Cryptelytrops albolabris isolate TA2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	JX233621.1	658	Cryptelytrops albolabris isolate TA1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

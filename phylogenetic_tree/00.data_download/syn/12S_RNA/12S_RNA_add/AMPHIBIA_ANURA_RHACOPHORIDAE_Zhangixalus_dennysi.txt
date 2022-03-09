@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KX233869.1	15396	Rhacophorus dennysi mitochondrion, partial genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KT191129.1	17572	Rhacophorus dennysi voucher RDEN20150618 mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	NC_027452.1	18052	Rhacophorus dennysi mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KM035412.1	18052	Rhacophorus dennysi mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	DQ019592.1	373	Rhacophorus dennysi 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	JX219433.1	1948	Rhacophorus dennysi voucher Li06 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	EU215545.1	1958	Rhacophorus dennysi voucher SCUM 060401L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	EF564468.1	420	Rhacophorus dennysi isolate KIZ060821051 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	EF564467.1	418	Rhacophorus dennysi isolate KIZ060821050 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	AY880611.1	344	Polypedates dennysi 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	AY880568.1	384	Rhacophorus dennysi 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	AF215185.1	306	Rhacophorus dennysi 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	AF458139.1	1962	Polypedates dennysi 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

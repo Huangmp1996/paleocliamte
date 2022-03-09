@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	MN015357.1	1543	Takydromus sexlineatus isolate MV.LAC-12 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	JF498098.1	430	Takydromus sexlineatus voucher KU 311512 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	EU203643.1	2349	Takydromus sexlineatus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	KR815885.1	535	Takydromus sexlineatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	NC_022703.1	18943	Takydromus sexlineatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	KF425529.1	18943	Takydromus sexlineatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	GQ142112.1	500	Takydromus sexlineatus isolate ATE-1 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_sexlineatus	AF206589.1	2310	Takydromus sexlineatus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

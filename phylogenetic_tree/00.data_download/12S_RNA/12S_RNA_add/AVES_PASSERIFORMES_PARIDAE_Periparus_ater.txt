@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	NC_026223.1	16783	Periparus ater mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	KM588075.1	16783	Periparus ater mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	EF027312.1	147	Parus ater isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_ater	EF027311.1	147	Parus ater isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial

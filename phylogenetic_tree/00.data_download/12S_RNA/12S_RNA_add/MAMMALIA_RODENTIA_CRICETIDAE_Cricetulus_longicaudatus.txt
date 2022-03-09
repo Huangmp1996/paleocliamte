@@ -1,0 +1,7 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG685509.1	926	Cricetulus longicaudatus isolate Tuva2009 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	MG685508.1	926	Cricetulus longicaudatus isolate 449106 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	NC_025330.1	16302	Cricetulus longicaudatus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	KM067270.1	16302	Cricetulus longicaudatus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	AY997832.1	907	Cricetulus longicaudatus 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	AM000045.1	789	Cricetulus longicaudatus partial vwf gene for von Willebrand factor
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_longicaudatus	AJ973386.1	925	Cricetulus longicaudatus mitochondrial partial cytb gene for cytochrome b

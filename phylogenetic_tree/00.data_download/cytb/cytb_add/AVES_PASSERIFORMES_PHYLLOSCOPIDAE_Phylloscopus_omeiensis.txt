@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	MH079379.1	1029	Seicercus omeiensis voucher IOZ 17350 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	MH079378.1	1036	Seicercus omeiensis voucher IOZ 16387 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY635078.1	1038	Seicercus omeiensis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606190.1	668	Seicercus omeiensis isolate o3302 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606177.1	668	Seicercus omeiensis isolate o927 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606176.1	668	Seicercus omeiensis isolate o925 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606165.1	668	Seicercus omeiensis isolate o714 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606164.1	668	Seicercus omeiensis isolate o713 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606163.1	658	Seicercus omeiensis isolate o712 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606161.1	668	Seicercus omeiensis isolate o42 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606149.1	668	Seicercus omeiensis isolate o2049 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606143.1	668	Seicercus omeiensis isolate o2027 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_omeiensis	AY606138.1	668	Seicercus omeiensis isolate o922 cytochrome b (cytb) gene, partial cds; mitochondrial

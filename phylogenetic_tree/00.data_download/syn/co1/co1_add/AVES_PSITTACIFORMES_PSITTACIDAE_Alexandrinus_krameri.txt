@@ -1,0 +1,14 @@
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	OL580768.1	725	Psittacula krameri isolate s.no1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	OL468764.1	678	Psittacula krameri voucher ZMUVAS106 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	MN833797.1	421	Psittacula krameri cytochrome c oxidase subunit I (COXI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	MN065674.1	16413	Psittacula krameri mitochondrion, partial genome
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	MH844578.1	519	Psittacula krameri voucher NABDA_MAMMALS_1048 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	MF580196.1	658	Psittacula krameri voucher USNM:Birds:653168 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	MF580163.1	658	Psittacula krameri voucher USNM:Birds:653139 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	MF580160.1	651	Psittacula krameri voucher USNM:Birds:653407 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	HQ629775.1	570	Psittacula krameri voucher NMNH B02548 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	JF498892.1	678	Psittacula krameri voucher USNM:643549 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	JF498891.1	694	Psittacula krameri voucher USNM:643554 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	DQ433148.1	652	Psittacula krameri voucher USNM 620354 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	DQ433147.1	652	Psittacula krameri voucher USNM 620355 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PSITTACIFORMES_PSITTACIDAE_Alexandrinus_krameri	KC439336.1	611	Psittacula krameri cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,29 @@
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MN206975.1	18956	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MN122921.1	17691	Bubo bubo mitochondrion, partial genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656287.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656286.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656285.1	18954	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656284.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656283.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656282.1	18954	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656281.1	18954	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656280.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656279.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656278.1	18949	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656277.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656276.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656275.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656274.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656273.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	NC_038219.1	18952	Bubo bubo isolate D166 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MG681083.1	18952	Bubo bubo isolate D166 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	KY754487.1	697	Bubo bubo voucher Bird5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	GU571764.1	648	Bubo bubo voucher BISE-Aves2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	GU571763.1	648	Bubo bubo voucher BISE-Aves403 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	GU571285.1	731	Bubo bubo voucher NHMO-BC120 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	GU571284.1	734	Bubo bubo voucher NHMO-BC150 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	GQ922629.1	699	Bubo bubo bio-material A032 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EF515807.1	686	Bubo bubo voucher KRIBB1010 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	KR017967.1	944	Bubo bubo voucher GDE-CQSAS cytochrome oxidase subunit 1 (COX-1) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AB842591.1	708	Bubo bubo mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM622-10
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AB918148.1	16250	Bubo bubo mitochondrial DNA, complete genome

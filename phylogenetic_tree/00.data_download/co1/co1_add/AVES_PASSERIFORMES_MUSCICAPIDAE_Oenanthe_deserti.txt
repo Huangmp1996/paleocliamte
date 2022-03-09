@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	GQ482260.1	694	Oenanthe deserti voucher UWBM 57975 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	GQ482259.1	694	Oenanthe deserti voucher UWBM 57976 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	GQ482258.1	694	Oenanthe deserti voucher UWBM 66493 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	GQ482257.1	694	Oenanthe deserti voucher UWBM 57961 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	GQ482256.1	694	Oenanthe deserti voucher UWBM 66654 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	KP252229.1	652	Oenanthe deserti voucher USNM 645913 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	KP252228.1	652	Oenanthe deserti voucher USNM 645914 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	KP252227.1	652	Oenanthe deserti voucher USNM 645912 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	DQ683485.1	667	Oenanthe deserti homochroa voucher MIUT200399 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	DQ683484.1	667	Oenanthe deserti deserti voucher MIUT200398 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	DQ683483.1	667	Oenanthe deserti deserti voucher BMNHA2005.2.5 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Oenanthe_deserti	DQ683482.1	662	Oenanthe deserti deserti voucher MIUT20033 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial

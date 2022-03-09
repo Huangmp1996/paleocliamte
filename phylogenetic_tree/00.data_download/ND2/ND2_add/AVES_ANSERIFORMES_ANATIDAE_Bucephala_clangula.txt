@@ -1,0 +1,3 @@
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	MW849283.1	16625	Bucephala clangula voucher CPD1109 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	EU585697.1	1041	Bucephala clangula voucher IPMB 7149 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	AF515265.1	1088	Bucephala clangula tRNA-Met gene, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene; and tRNA-Trp gene, complete sequence; mitochondrial genes for mitochondrial products

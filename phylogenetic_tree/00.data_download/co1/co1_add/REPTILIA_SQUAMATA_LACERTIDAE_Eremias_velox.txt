@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	MK558359.1	586	Eremias velox cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	KM359148.1	18033	Eremias velox mitochondrion, partial genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	HQ733915.1	707	Eremias velox voucher CIB<CHN>:Guo523 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	HQ733914.1	698	Eremias velox voucher MVZ:Herp:233262 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	HQ733913.1	707	Eremias velox voucher MVZ:Herp:233263 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	HQ733912.1	663	Eremias velox voucher MVZ:Herp:238535 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	HQ733911.1	707	Eremias velox voucher UOG:JF1230 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	HQ733910.1	707	Eremias velox voucher UOG:JF1293 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_velox	HQ733909.1	636	Eremias velox voucher UOG:JF1383 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

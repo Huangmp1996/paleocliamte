@@ -1,0 +1,22 @@
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	LC541461.1	18542	Pitta nympha 1991-0249 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070560.1	607	Pitta nympha isolate T14 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070559.1	607	Pitta nympha isolate T10 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070558.1	607	Pitta nympha isolate T7 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070557.1	607	Pitta nympha isolate T6 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070556.1	607	Pitta nympha isolate T3 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070555.1	607	Pitta nympha isolate T1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070554.1	607	Pitta nympha isolate KP5 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070553.1	607	Pitta nympha isolate KP4 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070552.1	607	Pitta nympha isolate KP2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070551.1	607	Pitta nympha isolate KP1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070550.1	607	Pitta nympha isolate J15 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070549.1	607	Pitta nympha isolate J11 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070548.1	607	Pitta nympha isolate J10 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070547.1	607	Pitta nympha isolate J9 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070546.1	607	Pitta nympha isolate J8 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070545.1	607	Pitta nympha isolate J7 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070544.1	607	Pitta nympha isolate J6 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070543.1	607	Pitta nympha isolate J5 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070542.1	607	Pitta nympha isolate J3 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KM070541.1	607	Pitta nympha isolate J1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_nympha	KJ680302.1	18054	Pitta nympha mitochondrion, complete genome

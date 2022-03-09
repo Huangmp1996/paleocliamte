@@ -1,0 +1,22 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	MZ068092.1	333	Viverricula indica voucher AIWC 257 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	MH668812.1	103	Viverricula indica isolate AMCC118663 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	MH668811.1	103	Viverricula indica isolate AMCC110077 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891751.1	16581	Viverricula indica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891750.1	16534	Viverricula indica voucher AMNH 54831 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891749.1	16583	Viverricula indica voucher AMNH 184967 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891748.1	16585	Viverricula indica voucher AMNH 87376 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891747.1	16584	Viverricula indica voucher AMNH 102146 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891746.1	16580	Viverricula indica voucher ZFMK 2000.002 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891745.1	16586	Viverricula indica voucher SMTD B602 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	DQ286777.1	375	Viverricula indica voucher AHNU0406 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	NC_025296.1	16583	Viverricula indica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KM276554.1	16583	Viverricula indica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	HQ634968.1	441	Viverricula indica isolate WII/WFC/tissue/2368 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	HQ634967.1	441	Viverricula indica isolate WII/WFC/tissue/2320 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	HQ634960.1	439	Viverricula indica isolate WII/WFC/tissue/1647 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	HQ634958.1	441	Viverricula indica isolate WII/WFC/tissue/1376 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	HQ634951.1	440	Viverricula indica isolate WII/WFC/tissue/878 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	HQ634948.1	440	Viverricula indica isolate WII/WFC/tissue/673 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	HQ634947.1	442	Viverricula indica isolate WII/WFC/tissue/108 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	EF462466.1	381	Viverricula indica isolate F-939-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	DQ286782.1	374	Viverricula indica voucher AHNU0406 12S ribosomal RNA gene, partial sequence; mitochondrial

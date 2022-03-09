@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KX109614.1	822	Coccothraustes coccothraustes voucher MTD-C61158 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KM078789.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	NC_025614.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome

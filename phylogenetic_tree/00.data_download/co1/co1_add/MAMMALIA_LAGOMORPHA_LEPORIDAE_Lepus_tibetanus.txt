@@ -1,0 +1,41 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374042.1	572	Lepus tibetanus pamirensis voucher AKT14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374041.1	572	Lepus tibetanus pamirensis voucher AKT13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374040.1	572	Lepus tibetanus pamirensis voucher AKT7 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374039.1	572	Lepus tibetanus pamirensis voucher AKT4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374038.1	572	Lepus tibetanus pamirensis voucher WuQia1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374037.1	572	Lepus tibetanus pamirensis voucher KS18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374036.1	572	Lepus tibetanus pamirensis voucher KS14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374035.1	572	Lepus tibetanus pamirensis voucher KS13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374034.1	572	Lepus tibetanus pamirensis voucher KS12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374033.1	572	Lepus tibetanus pamirensis voucher KS8 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374032.1	572	Lepus tibetanus pamirensis voucher KS7 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374031.1	572	Lepus tibetanus pamirensis voucher KS4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374030.1	572	Lepus tibetanus pamirensis voucher KS1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374029.1	572	Lepus tibetanus pamirensis voucher WQ11 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374028.1	572	Lepus tibetanus pamirensis voucher WQ10 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374027.1	572	Lepus tibetanus pamirensis voucher WQ9 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374026.1	572	Lepus tibetanus pamirensis voucher WQ8 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374025.1	572	Lepus tibetanus pamirensis voucher WQ7 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374024.1	572	Lepus tibetanus pamirensis voucher WQ6 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374023.1	572	Lepus tibetanus pamirensis voucher WQ5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374022.1	572	Lepus tibetanus pamirensis voucher TX16 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374021.1	572	Lepus tibetanus pamirensis voucher TX15 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374020.1	572	Lepus tibetanus pamirensis voucher TX14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374019.1	572	Lepus tibetanus pamirensis voucher TX13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374018.1	572	Lepus tibetanus pamirensis voucher TX29 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374017.1	572	Lepus tibetanus pamirensis voucher TX28 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374016.1	572	Lepus tibetanus pamirensis voucher TX27 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374015.1	572	Lepus tibetanus pamirensis voucher TX26 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374014.1	572	Lepus tibetanus pamirensis voucher TX25 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374013.1	572	Lepus tibetanus pamirensis voucher TX24 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374012.1	572	Lepus tibetanus pamirensis voucher TX23 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374011.1	572	Lepus tibetanus pamirensis voucher TX22 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374010.1	572	Lepus tibetanus pamirensis voucher TX21 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374009.1	572	Lepus tibetanus pamirensis voucher TX20 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374008.1	572	Lepus tibetanus pamirensis voucher TX19 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374007.1	572	Lepus tibetanus pamirensis voucher TX18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	OL374006.1	572	Lepus tibetanus pamirensis voucher TX17 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN548102.1	16691	Lepus tibetanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN539746.1	16753	Lepus tibetanus pamirensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN539747.1	16809	Lepus tibetanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	LC073697.1	17597	Lepus tibetanus pamirensis mitochondrial DNA, complete genome

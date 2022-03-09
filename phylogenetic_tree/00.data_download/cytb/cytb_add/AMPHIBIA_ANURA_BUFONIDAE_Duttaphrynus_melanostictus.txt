@@ -1,0 +1,31 @@
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MN807947.1	639	Duttaphrynus melanostictus voucher ZMUVAS25 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MK941836.1	673	Duttaphrynus melanostictus voucher ZMUVAS7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY458592.1	17374	Bufo melanostictus mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171209.1	491	Bufo melanostictus ROM 33861 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171208.1	491	Bufo melanostictus ROM 33855 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171207.1	518	Bufo melanostictus ROM 33163 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171206.1	518	Bufo melanostictus ROM 32540 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171205.1	490	Bufo melanostictus ROM 33162 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171204.1	518	Bufo melanostictus KIZ-97L372 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171203.1	518	Bufo melanostictus KIZ-92L080 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171202.1	480	Bufo melanostictus KIZ-97L118 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171201.1	518	Bufo melanostictus KIZ-97L202 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171200.1	490	Bufo melanostictus KIZ-97H001 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF171199.1	492	Bufo melanostictus KIZ-95L001 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	GU136131.1	315	Bufo melanostictus cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY247259.1	903	Bufo melanostictus mitochondrial cytochrome b (cytb) gene and control region, partial sequence
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF249082.1	580	Bufo melanostictus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	NC_005794.2	17374	Bufo melanostictus mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174521.1	100	Bufo melanostictus ROM 33861 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174520.1	100	Bufo melanostictus ROM 33855 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174519.1	100	Bufo melanostictus ROM 33163 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174518.1	100	Bufo melanostictus ROM 32540 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174517.1	100	Bufo melanostictus ROM 33162 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174516.1	100	Bufo melanostictus KIZ-97L372 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174515.1	100	Bufo melanostictus KIZ-92L080 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174514.1	100	Bufo melanostictus KIZ-97L118 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174513.1	100	Bufo melanostictus KIZ-97L202 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174512.1	100	Bufo melanostictus KIZ-97H001 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF174511.1	100	Bufo melanostictus KIZ-95L001 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	L10977.1	579	Bufo melanostictus (MVZ RM 8778) mitochondrial cytochrome b gene, partial cds
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AJ584640.1	16328	Bufo melanostictus partial mitochondrial genome

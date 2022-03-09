@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	KC771255.1	16596	Anas crecca mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	KC984271.1	217	Anas crecca 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	NC_022452.1	16601	Anas crecca mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	KF203133.1	16601	Anas crecca mitochondrion, complete genome

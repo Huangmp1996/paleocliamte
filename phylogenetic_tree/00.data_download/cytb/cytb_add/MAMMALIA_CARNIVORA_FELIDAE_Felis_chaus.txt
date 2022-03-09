@@ -1,0 +1,75 @@
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370575.1	397	Felis chaus isolate Jungle Cat 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370574.1	398	Felis chaus isolate Jungle Cat 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370573.1	397	Felis chaus isolate Jungle Cat 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370572.1	397	Felis chaus isolate Jungle Cat 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370571.1	398	Felis chaus isolate Jungle Cat 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370559.1	286	Felis chaus isolate Jungle Cat 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370558.1	286	Felis chaus isolate Jungle Cat 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370557.1	286	Felis chaus isolate Jungle Cat 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370556.1	286	Felis chaus isolate Jungle Cat 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN370555.1	286	Felis chaus isolate Jungle Cat 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN175497.1	1140	Felis chaus isolate Esfahan_M-3-155-1/41 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	EU362125.1	133	Felis chaus isolate WII/WFC/R-299 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561755.1	141	Felis chaus isolate AIZ003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561754.1	141	Felis chaus isolate JCGZ01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561753.1	141	Felis chaus isolate JCAIZ4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561752.1	141	Felis chaus isolate JCGZ16 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561751.1	141	Felis chaus isolate JCGZ15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561750.1	141	Felis chaus isolate JCGZ14 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561749.1	141	Felis chaus isolate JCGZ04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561748.1	141	Felis chaus isolate JCGZ02 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561747.1	141	Felis chaus isolate JCGZ03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561746.1	141	Felis chaus isolate ORS001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561745.1	141	Felis chaus isolate STR051 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561744.1	141	Felis chaus isolate JCRaj3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561743.1	141	Felis chaus isolate JCRaj2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561742.1	141	Felis chaus isolate JCRAJ1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561741.1	141	Felis chaus isolate JCKTR1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561740.1	141	Felis chaus isolate JCKU09 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561739.1	141	Felis chaus isolate JCKU26 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561738.1	141	Felis chaus isolate JCKU30 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561737.1	141	Felis chaus isolate JCKU13 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561736.1	141	Felis chaus isolate BKN034 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561735.1	141	Felis chaus isolate BKN018 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561734.1	141	Felis chaus isolate BKN004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561733.1	141	Felis chaus isolate BKN001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561732.1	141	Felis chaus isolate BKN023 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561731.1	141	Felis chaus isolate JSL057 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561730.1	141	Felis chaus isolate STR014 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561729.1	141	Felis chaus isolate STR023 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561728.1	141	Felis chaus isolate JCHG01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561727.1	141	Felis chaus isolate JCCORB cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561726.1	141	Felis chaus isolate JCWB01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561725.1	141	Felis chaus isolate JCWB02 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561724.1	141	Felis chaus isolate JCNS11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561723.1	141	Felis chaus isolate JCkatr cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561722.1	141	Felis chaus isolate JCNaS1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561721.1	141	Felis chaus isolate JCN003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561720.1	141	Felis chaus isolate JCNSC9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561719.1	141	Felis chaus isolate JCNSC8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561718.1	141	Felis chaus isolate JCNS10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561717.1	141	Felis chaus isolate JCN002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561716.1	141	Felis chaus isolate JCN005 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561715.1	141	Felis chaus isolate JCN004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561714.1	141	Felis chaus isolate JCN001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561713.1	141	Felis chaus isolate JCHZ03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561712.1	141	Felis chaus isolate JCHZ01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561711.1	141	Felis chaus isolate JCMAND cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561710.1	141	Felis chaus isolate JcTVM2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561709.1	141	Felis chaus isolate JC007C cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561708.1	141	Felis chaus isolate JCKEM1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561707.1	141	Felis chaus isolate JCEKM3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561706.1	141	Felis chaus isolate JCA008 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561705.1	141	Felis chaus isolate JCA001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561704.1	141	Felis chaus isolate JCAP02 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561703.1	141	Felis chaus isolate JCAP04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561702.1	141	Felis chaus isolate JCMyso cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	GU561701.1	141	Felis chaus isolate JCTVM3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963211.1	444	Felis chaus isolate G cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963210.1	444	Felis chaus isolate A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963209.1	428	Felis chaus isolate B2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963208.1	428	Felis chaus isolate R cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963207.1	444	Felis chaus isolate B1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	NC_028307.1	16653	Felis chaus isolate FCH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KP202274.1	16653	Felis chaus isolate FCH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KJ634463.1	421	Felis chaus cytochrome b (CytB) gene, partial cds; mitochondrial

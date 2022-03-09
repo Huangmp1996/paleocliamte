@@ -1,0 +1,100 @@
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MW257210.1	17023	Prionailurus bengalensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN121632.1	17006	Prionailurus bengalensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370570.1	398	Prionailurus bengalensis isolate Leopard cat 6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370569.1	398	Prionailurus bengalensis isolate Leopard cat 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370568.1	398	Prionailurus bengalensis isolate Leopard cat 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370567.1	398	Prionailurus bengalensis isolate Leopard cat 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370566.1	398	Prionailurus bengalensis isolate Leopard cat 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370565.1	398	Prionailurus bengalensis isolate Leopard cat 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370554.1	286	Prionailurus bengalensis isolate Leopard cat 6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370553.1	286	Prionailurus bengalensis isolate Leopard cat 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370552.1	286	Prionailurus bengalensis isolate Leopard cat 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370551.1	286	Prionailurus bengalensis isolate Leopard cat 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370550.1	286	Prionailurus bengalensis isolate Leopard cat 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MN370549.1	286	Prionailurus bengalensis isolate Leopard cat 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	LC375961.1	17038	Prionailurus bengalensis euptilurus TS1-2 mitochondrial DNA, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	LC375960.1	17070	Prionailurus bengalensis euptilurus TS1-1 mitochondrial DNA, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329801.1	1140	Prionailurus bengalensis haplotype PBmtCb9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329800.1	1140	Prionailurus bengalensis haplotype PBmtCb8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329799.1	1140	Prionailurus bengalensis haplotype PBmtCb7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329798.1	1140	Prionailurus bengalensis haplotype PBmtCb6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329797.1	1140	Prionailurus bengalensis haplotype PBmtCb5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329796.1	1140	Prionailurus bengalensis haplotype PBmtCb4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329795.1	1140	Prionailurus bengalensis haplotype PBmtCb3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329794.1	1140	Prionailurus bengalensis haplotype PBmtCb2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	MH329793.1	1140	Prionailurus bengalensis haplotype PBmtCb1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297200.1	1247	Prionailurus bengalensis haplotype PbeMT9 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297199.1	1247	Prionailurus bengalensis haplotype PbeMT8 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297198.1	1247	Prionailurus bengalensis haplotype PbeMT6 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297197.1	1247	Prionailurus bengalensis haplotype PbeMT59 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297196.1	1247	Prionailurus bengalensis haplotype PbeMT58 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297195.1	1247	Prionailurus bengalensis haplotype PbeMT57 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297194.1	1233	Prionailurus bengalensis haplotype PbeMT55 cytochrome b (CYTB) gene, partial cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297193.1	1247	Prionailurus bengalensis haplotype PbeMT54 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297192.1	1247	Prionailurus bengalensis haplotype PbeMT53 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297191.1	1247	Prionailurus bengalensis haplotype PbeMT51 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297190.1	1247	Prionailurus bengalensis haplotype PbeMT5 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297189.1	1247	Prionailurus bengalensis haplotype PbeMT45 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297188.1	1247	Prionailurus bengalensis haplotype PbeMT44 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297187.1	1247	Prionailurus bengalensis haplotype PbeMT43 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297186.1	1247	Prionailurus bengalensis haplotype PbeMT42 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297185.1	1247	Prionailurus bengalensis haplotype PbeMT41 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297184.1	1247	Prionailurus bengalensis haplotype PbeMT40 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297183.1	1247	Prionailurus bengalensis haplotype PbeMT39 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297182.1	1247	Prionailurus bengalensis haplotype PbeMT38 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297181.1	1247	Prionailurus bengalensis haplotype PbeMT37 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297180.1	1247	Prionailurus bengalensis haplotype PbeMT34 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297179.1	1247	Prionailurus bengalensis haplotype PbeMT33 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297178.1	1247	Prionailurus bengalensis haplotype PbeMT32 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297177.1	1247	Prionailurus bengalensis haplotype PbeMT31 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297176.1	1247	Prionailurus bengalensis haplotype PbeMT30 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297175.1	1247	Prionailurus bengalensis haplotype PbeMT3 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297174.1	1247	Prionailurus bengalensis haplotype PbeMT29 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297173.1	1247	Prionailurus bengalensis haplotype PbeMT28 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297172.1	1247	Prionailurus bengalensis haplotype PbeMT27 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297171.1	1247	Prionailurus bengalensis haplotype PbeMT25 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297170.1	1247	Prionailurus bengalensis haplotype PbeMT23 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297169.1	1247	Prionailurus bengalensis haplotype PbeMT20 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297168.1	1247	Prionailurus bengalensis haplotype PbeMT2 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297167.1	1247	Prionailurus bengalensis haplotype PbeMT19 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297166.1	1247	Prionailurus bengalensis haplotype PbeMT17 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297165.1	1247	Prionailurus bengalensis haplotype PbeMT15 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297164.1	1247	Prionailurus bengalensis haplotype PbeMT14 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297163.1	1247	Prionailurus bengalensis haplotype PbeMT12 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KR297162.1	1247	Prionailurus bengalensis haplotype PbeMT11 cytochrome b (CYTB) gene, complete cds; tRNA-Thr gene, complete sequence; and tRNA-Pro gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857784.1	15441	Prionailurus bengalensis isolate PBE_58_Thailand mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857796.1	15442	Prionailurus bengalensis isolate PBE_20_Thailand mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857795.1	15442	Prionailurus bengalensis isolate PBE_53_Burma_Myanmar mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857794.1	15439	Prionailurus bengalensis isolate PBE_56_Thailand mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857793.1	15441	Prionailurus bengalensis isolate PBE_14_Borneo mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857792.1	15442	Prionailurus bengalensis isolate PBE_12_Sumatra mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857791.1	15443	Prionailurus bengalensis isolate PBE_128_Assam_India mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857790.1	15418	Prionailurus bengalensis isolate PBE_115_Borneo mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857789.1	15403	Prionailurus bengalensis isolate PBE_85_Borneo mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857788.1	15442	Prionailurus bengalensis isolate PBE_188_Borneo mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857787.1	15442	Prionailurus bengalensis isolate PBE_180_Vietnam mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857786.1	15440	Prionailurus bengalensis isolate PBE_165_Tibet mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857785.1	15443	Prionailurus bengalensis isolate PBE_140_Java mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857783.1	15442	Prionailurus bengalensis isolate PBE_52_Myanmar mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857782.1	15442	Prionailurus bengalensis isolate PBE_1_Assam_India mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857781.1	15442	Prionailurus bengalensis isolate PBE_150_Sumatra mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857780.1	15441	Prionailurus bengalensis isolate PBE_129_Malaysia mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857779.1	15442	Prionailurus bengalensis isolate PBE_123_Canton_China mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857778.1	15442	Prionailurus bengalensis isolate PBE_3_Assam_India mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857777.1	15441	Prionailurus bengalensis isolate PBE_43_Malaysia mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857776.1	15441	Prionailurus bengalensis isolate PBE_7_Nepal mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857775.1	15442	Prionailurus bengalensis isolate PBE_11_Sumatra mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857774.1	15442	Prionailurus bengalensis isolate PBE_2_Assam_India mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857773.1	15442	Prionailurus bengalensis isolate PBE_63_Lao mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857772.1	15442	Prionailurus bengalensis isolate PBE_156_China mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857771.1	15442	Prionailurus bengalensis isolate PBE_70_Borneo mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857770.1	15442	Prionailurus bengalensis isolate PBE_82_Borneo mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857769.1	15441	Prionailurus bengalensis isolate PBE_48_Negros_Philippines mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857768.1	15443	Prionailurus bengalensis isolate PBE_182_Bali mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857767.1	15442	Prionailurus bengalensis isolate PBE_124_China mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857766.1	15442	Prionailurus bengalensis isolate PBE_38_Taiwan mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857765.1	15441	Prionailurus bengalensis isolate PBE_189_SE_India mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857764.1	15442	Prionailurus bengalensis isolate PBE_190_SE_India mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857763.1	15427	Prionailurus bengalensis isolate PBE_192_S_India mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857762.1	15439	Prionailurus bengalensis isolate PBE_178_Malaysia mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Prionailurus_bengalensis	KX857761.1	15443	Prionailurus bengalensis isolate PBE_68_Bali mitochondrion, partial genome

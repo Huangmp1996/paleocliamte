@@ -1,0 +1,7 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	MN961433.1	570	Amolops tuberodepressus voucher SCUM050430CHX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	MN961432.1	570	Amolops tuberodepressus voucher SCUM050433CHX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	MK568315.1	633	Amolops tuberodepressus voucher SYS a003901 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	MK568314.1	633	Amolops tuberodepressus voucher SYS a003900 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	MK605602.1	637	Amolops tuberodepressus voucher SYS:a003902 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	KR559270.1	18348	Amolops tuberodepressus mitochondrion, partial genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_tuberodepressus	JN700805.1	602	Amolops tuberodepressus voucher SCUM050433CHX cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

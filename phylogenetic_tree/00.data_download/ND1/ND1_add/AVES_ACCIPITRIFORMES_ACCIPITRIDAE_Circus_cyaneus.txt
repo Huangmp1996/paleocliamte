@@ -1,0 +1,4 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KU237286.1	20173	Circus cyaneus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KX925606.1	18754	Circus cyaneus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KP857894.1	1222	Circus cyaneus cyaneus isolate NRM966543 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; and tRNA-Ile and tRNA-Gln genes, complete sequence; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KP857866.1	1222	Circus cyaneus cyaneus isolate MNHN_6365 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; and tRNA-Ile and tRNA-Gln genes, complete sequence; mitochondrial

@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_cinnamoventris	LR812012.1	1874	Sitta cinnamoventris mitochondrion genomic DNA containing partial ND5, cytb, tRNAs Thr, Pro, partial ND6 region, specimen voucher MTD-C46284
+AVES_PASSERIFORMES_SITTIDAE_Sitta_cinnamoventris	LR812011.1	2302	Sitta cinnamoventris mitochondrion genomic DNA containing partial ND5, cytb, tRNAs Thr, Pro, partial ND6 region, specimen voucher MTD-C46283
+AVES_PASSERIFORMES_SITTIDAE_Sitta_cinnamoventris	KJ456467.1	1143	Sitta cinnamoventris voucher FMNH:276855 cytochrome b (cytb) gene, complete cds; mitochondrial

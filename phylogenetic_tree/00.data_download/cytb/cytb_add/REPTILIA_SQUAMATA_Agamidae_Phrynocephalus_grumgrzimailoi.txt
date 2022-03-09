@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_Agamidae_Phrynocephalus_grumgrzimailoi	NC_025640.1	16301	Phrynocephalus grumgrzimailoi mitochondrion, complete genome
+REPTILIA_SQUAMATA_Agamidae_Phrynocephalus_grumgrzimailoi	KM093859.1	16301	Phrynocephalus grumgrzimailoi mitochondrion, complete genome
+REPTILIA_SQUAMATA_Agamidae_Phrynocephalus_grumgrzimailoi	AY053915.1	307	Phrynocephalus grumgrzimailoi isolate 01018 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_Agamidae_Phrynocephalus_grumgrzimailoi	AY053914.1	307	Phrynocephalus grumgrzimailoi isolate 01017 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_Agamidae_Phrynocephalus_grumgrzimailoi	AY053913.1	307	Phrynocephalus grumgrzimailoi isolate 2000132 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_Agamidae_Phrynocephalus_grumgrzimailoi	AY053912.1	307	Phrynocephalus grumgrzimailoi isolate 0962 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_Agamidae_Phrynocephalus_grumgrzimailoi	AY053911.1	307	Phrynocephalus grumgrzimailoi isolate 0961 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_Agamidae_Phrynocephalus_grumgrzimailoi	AY053910.1	307	Phrynocephalus grumgrzimailoi isolate 0931 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

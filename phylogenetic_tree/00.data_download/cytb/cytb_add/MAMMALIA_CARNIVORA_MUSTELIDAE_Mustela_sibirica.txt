@@ -1,0 +1,90 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	EF987747.1	1140	Mustela sibirica cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269451.1	472	Mustela sibirica isolate MssibAltay7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269450.1	472	Mustela sibirica isolate MssibAltay6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269449.1	472	Mustela sibirica isolate MssibAltay5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269448.1	472	Mustela sibirica isolate MssibAltay4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269447.1	472	Mustela sibirica isolate MssibAltay3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269446.1	472	Mustela sibirica isolate MssibAltay2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269445.1	472	Mustela sibirica isolate MssibAltay1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269444.1	472	Mustela sibirica isolate MssibYak22 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269443.1	472	Mustela sibirica isolate MssibYak21 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269442.1	472	Mustela sibirica isolate MssibYak20 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269441.1	472	Mustela sibirica isolate MssibYak19 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269440.1	472	Mustela sibirica isolate MssibYak18 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269439.1	472	Mustela sibirica isolate MssibYak17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269438.1	472	Mustela sibirica isolate MssibYak16 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269437.1	472	Mustela sibirica isolate MssibYak15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269436.1	472	Mustela sibirica isolate MssibYak14 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269435.1	472	Mustela sibirica isolate MssibYak13 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269434.1	472	Mustela sibirica isolate MssibYak12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269433.1	472	Mustela sibirica isolate MssibYak11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269432.1	472	Mustela sibirica isolate MssibYak10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269431.1	472	Mustela sibirica isolate MssibYak9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269430.1	472	Mustela sibirica isolate MssibYak8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269429.1	472	Mustela sibirica isolate MssibYak7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269428.1	472	Mustela sibirica isolate MssibYak6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269427.1	472	Mustela sibirica isolate MssibYak5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269426.1	472	Mustela sibirica isolate MssibYak4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269425.1	472	Mustela sibirica isolate MssibYak3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269424.1	472	Mustela sibirica isolate MssibYak2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MZ269423.1	472	Mustela sibirica isolate MssibYak1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MW625812.1	16488	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MN206976.1	16558	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MN264435.1	16529	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	MH818224.1	16476	Mustela sibirica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB082976.1	1185	Mustela sibirica irbp gene for interphotoreceptor retinoid binding protein, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017421.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB14
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017420.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB13
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017419.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB12
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017418.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB09
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017417.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB07
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017416.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB05
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017415.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB04
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017414.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB03
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017413.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB02
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017397.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB11
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017396.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB10
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017395.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB08
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017394.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB06
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AP017393.1	16031	Mustela sibirica mitochondrial DNA, complete genome, isolate: SB01
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	HM106317.1	16559	Mustela sibirica voucher YP6136 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	FJ589734.1	504	Mustela sibirica cytochrome b (cytb) gene, partial cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	NC_020637.1	16559	Mustela sibirica voucher YP6136 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739198.1	1140	Mustela sibirica voucher Cuj03 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739197.1	1140	Mustela sibirica voucher Cuj02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739196.1	1140	Mustela sibirica voucher Sa02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739195.1	1140	Mustela sibirica voucher Cej04 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739194.1	1140	Mustela sibirica voucher Cej03 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739193.1	1140	Mustela sibirica voucher Cej02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739192.1	1140	Mustela sibirica voucher Wa04 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739191.1	1140	Mustela sibirica voucher Wa02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739190.1	1140	Mustela sibirica voucher Jr01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739189.1	1140	Mustela sibirica voucher Sr02 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739188.1	1140	Mustela sibirica voucher Cuj01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739187.1	1140	Mustela sibirica voucher Wa03 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739186.1	1140	Mustela sibirica voucher CejSrWaSa01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	JQ739185.1	1140	Mustela sibirica voucher JsJj01 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564136.1	1140	Mustela sibirica mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: personal:Tetsuji Hosoda:TH98
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564135.1	1140	Mustela sibirica mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: personal:Tetsuji Hosoda:TH56
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564134.1	1140	Mustela sibirica mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: personal:Tetsuji Hosoda:TH51
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564133.1	1140	Mustela sibirica mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS1145
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564132.1	1140	Mustela sibirica mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS1121
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB564131.1	1140	Mustela sibirica mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: personal:Alexei P. Kryukov:AK#9
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	D26132.1	375	Mustela sibirica mitochondrial gene for cytochrome b, partial sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB026108.1	1140	Mustela sibirica mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051289.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS1145
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051288.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH102
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051287.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH101
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051286.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH100
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051285.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH067
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051284.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH051HS804
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051283.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS846
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051282.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH056HS809
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051281.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: TH052HS805
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051280.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS1184
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051279.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS1183
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051278.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS1173
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051277.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS1121
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051243.1	1140	Mustela sibirica mitochondrial cytb gene for cytochrome b, complete cds, isolate: HS1146
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB051242.1	1140	Mustela sibirica mitochondrial cytb gene for cytochrome b, complete cds, isolate: TH098
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_sibirica	AB029428.1	402	Mustela sibirica mitochondrial cytb gene for cytochrome b, partial cds, isolate:Msi-Russia

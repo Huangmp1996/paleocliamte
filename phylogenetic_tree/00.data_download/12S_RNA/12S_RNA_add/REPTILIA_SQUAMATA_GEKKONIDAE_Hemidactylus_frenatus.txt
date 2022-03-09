@@ -1,0 +1,48 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	MH047741.1	389	Hemidactylus frenatus voucher DW003YW01004 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	MH047740.1	389	Hemidactylus frenatus voucher DW003YW01003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	MH047739.1	389	Hemidactylus frenatus voucher DW003YW01001 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366200.1	416	Hemidactylus frenatus voucher JP0370 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366199.1	421	Hemidactylus frenatus voucher JP0173 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366198.1	428	Hemidactylus frenatus voucher JP0162 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366197.1	429	Hemidactylus frenatus voucher JP0205 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366196.1	359	Hemidactylus frenatus voucher JP0203 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366195.1	427	Hemidactylus frenatus voucher JP0202 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366194.1	379	Hemidactylus frenatus voucher JP0193 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366193.1	427	Hemidactylus frenatus voucher JP0190 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366192.1	426	Hemidactylus frenatus voucher JP0189 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KY366191.1	423	Hemidactylus frenatus voucher JP0188 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	GQ245970.2	16891	Hemidactylus frenatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455045.1	323	Hemidactylus frenatus voucher QCAZ 11593 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455044.1	347	Hemidactylus frenatus voucher QCAZ 11452 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455043.1	321	Hemidactylus frenatus voucher QCAZ 11197 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455042.1	346	Hemidactylus frenatus voucher QCAZ 11165 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455041.1	347	Hemidactylus frenatus voucher QCAZ 11128 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455040.1	350	Hemidactylus frenatus voucher QCAZ 10215 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455039.1	326	Hemidactylus frenatus voucher QCAZ 10213 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455038.1	347	Hemidactylus frenatus voucher QCAZ 10197 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455037.1	350	Hemidactylus frenatus voucher QCAZ 9111 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455036.1	340	Hemidactylus frenatus voucher QCAZ 8472 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455035.1	323	Hemidactylus frenatus voucher QCAZ 8130 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455034.1	355	Hemidactylus frenatus voucher QCAZ 8124 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455033.1	356	Hemidactylus frenatus voucher QCAZ 5076 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455032.1	346	Hemidactylus frenatus voucher QCAZ 4875 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KT455031.1	352	Hemidactylus frenatus voucher QCAZ 4524 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KP057585.1	428	Hemidactylus frenatus voucher OU.H17 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KF258151.1	365	Hemidactylus frenatus voucher 2011RTW02 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	KC735105.1	398	Hemidactylus frenatus voucher CES 07035 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	NC_012902.2	16891	Hemidactylus frenatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	JN700063.1	373	Hemidactylus frenatus voucher BSI2276 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	JN700062.1	372	Hemidactylus frenatus voucher MVZ:Herp:266344 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	JN700061.1	373	Hemidactylus frenatus voucher CAS229556 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	JN700060.1	373	Hemidactylus frenatus voucher MVZ:Herp:266434 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	JN700059.1	373	Hemidactylus frenatus voucher MVZ:Herp:266349 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	DQ120453.1	369	Hemidactylus frenatus isolate E509.5 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	DQ120452.1	368	Hemidactylus frenatus isolate E509.2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	DQ120451.1	368	Hemidactylus frenatus isolate E509.1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	DQ120450.1	368	Hemidactylus frenatus isolate E509.3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	DQ120449.1	368	Hemidactylus frenatus isolate E509.7 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	DQ120448.1	368	Hemidactylus frenatus isolate E509.6 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	AY218005.1	504	Hemidactylus frenatus isolate K5 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	HM595691.1	379	Hemidactylus frenatus voucher CES07035 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	DQ852702.1	959	Hemidactylus frenatus 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_frenatus	AF323516.1	390	Hemidactylus frenatus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

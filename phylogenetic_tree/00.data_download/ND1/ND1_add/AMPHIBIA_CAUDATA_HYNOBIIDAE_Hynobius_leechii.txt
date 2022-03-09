@@ -1,0 +1,4 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_leechii	DQ333811.1	16428	Hynobius leechii mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_leechii	AY916029.1	2048	Hynobius leechii NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_leechii	AY593151.1	972	Hynobius leechii NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_leechii	NC_008079.1	16428	Hynobius leechii mitochondrion, complete genome

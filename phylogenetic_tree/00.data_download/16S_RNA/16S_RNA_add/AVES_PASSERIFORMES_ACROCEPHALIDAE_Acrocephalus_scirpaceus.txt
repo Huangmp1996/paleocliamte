@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	NC_010227.1	17903	Acrocephalus scirpaceus mitochondrion, complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	EU794950.1	670	Acrocephalus scirpaceus isolate Orni60016 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	FJ465181.1	485	Acrocephalus scirpaceus fuscus voucher ZMA 56205 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_scirpaceus	AM889139.1	17903	Acrocephalus scirpaceus mitochondrial complete genome

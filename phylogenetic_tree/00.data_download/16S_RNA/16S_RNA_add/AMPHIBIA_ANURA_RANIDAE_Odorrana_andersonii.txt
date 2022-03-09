@@ -1,0 +1,7 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_andersonii	KF185057.1	1058	Odorrana andersonii voucher HNNU 001YN 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_andersonii	KR264064.1	1137	Odorrana andersonii voucher CAS233901 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_andersonii	KR264063.1	1033	Odorrana andersonii voucher CAS233900 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_andersonii	KF771292.1	1606	Odorrana andersonii 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_andersonii	JQ621937.1	550	Rana andersonii 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_andersonii	EF453745.1	835	Rana andersonii voucher KIZ-RD02YNJD01 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_andersonii	DQ359995.1	516	Odorrana andersonii voucher KIZ-RD02YNJD01 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,24 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	HM036354.1	16494	Hynobius yiwuensis voucher CIB-XM2843 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	EU586301.1	606	Hynobius yiwuensis voucher CIB-XM2158 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	EU586300.1	606	Hynobius yiwuensis voucher CIB-XM2157 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	NC_020649.1	16494	Hynobius yiwuensis voucher CIB-XM2843 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165982.1	467	Hynobius yiwuensis voucher JF302 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165981.1	467	Hynobius yiwuensis voucher JF301 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165980.1	466	Hynobius yiwuensis voucher JF228 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165979.1	466	Hynobius yiwuensis voucher JF227 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165978.1	466	Hynobius yiwuensis voucher XM2216 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165977.1	466	Hynobius yiwuensis voucher XM2215 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165976.1	466	Hynobius yiwuensis voucher XM2865 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165975.1	466	Hynobius yiwuensis voucher XM2864 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165974.1	466	Hynobius yiwuensis voucher XM3290 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165973.1	466	Hynobius yiwuensis voucher XM3289 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165864.1	582	Hynobius yiwuensis voucher JF302 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165863.1	582	Hynobius yiwuensis voucher JF301 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165862.1	582	Hynobius yiwuensis voucher JF228 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165861.1	582	Hynobius yiwuensis voucher JF227 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165860.1	582	Hynobius yiwuensis voucher XM2216 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165859.1	582	Hynobius yiwuensis voucher XM2215 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165858.1	582	Hynobius yiwuensis voucher XM2865 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165857.1	582	Hynobius yiwuensis voucher XM2864 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165856.1	582	Hynobius yiwuensis voucher XM3290 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JN165855.1	582	Hynobius yiwuensis voucher XM3289 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

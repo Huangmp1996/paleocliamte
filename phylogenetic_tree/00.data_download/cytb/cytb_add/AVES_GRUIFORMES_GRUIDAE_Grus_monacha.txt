@@ -1,0 +1,6 @@
+AVES_GRUIFORMES_GRUIDAE_Grus_monacha	LC541480.1	16655	Grus monacha TNZ1095 mitochondrial DNA, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_monacha	LC114479.1	5240	Grus monacha mitochondrial cytb, ND6 genes for cytochrome b, NADH dehydrogenase subunit 6, tRNA-Thr, tRNA-Pro and control region
+AVES_GRUIFORMES_GRUIDAE_Grus_monacha	AF123907.1	522	Grus monacha NADH dehydrogenase subunit 6 (ND6) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GRUIFORMES_GRUIDAE_Grus_monacha	U27548.1	1143	Grus monacha cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+AVES_GRUIFORMES_GRUIDAE_Grus_monacha	NC_020578.1	16650	Grus monacha mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_monacha	FJ769850.1	16650	Grus monacha mitochondrion, complete genome

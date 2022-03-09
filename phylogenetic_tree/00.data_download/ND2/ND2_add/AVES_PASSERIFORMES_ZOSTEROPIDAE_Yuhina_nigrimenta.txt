@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	NC_040991.1	17817	Yuhina nigrimenta mitochondrion, complete genome
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	MH916608.1	17817	Yuhina nigrimenta mitochondrion, complete genome
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	FJ460785.1	1041	Yuhina nigrimenta voucher AMNH DOT12297 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	JN826712.1	1041	Yuhina nigrimenta voucher KUNHM 9997 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	JN826711.1	1041	Yuhina nigrimenta voucher KUNHM 11150 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

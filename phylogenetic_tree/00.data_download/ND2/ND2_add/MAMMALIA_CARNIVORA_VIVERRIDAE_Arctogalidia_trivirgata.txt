@@ -1,0 +1,16 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819572.1	519	Arctogalidia trivirgata voucher MNHN:TC626 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819571.1	519	Arctogalidia trivirgata voucher MNHN:TC624 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819570.1	509	Arctogalidia trivirgata voucher MNHN:TC415 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819569.1	500	Arctogalidia trivirgata voucher MNHN:TC402 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819568.1	491	Arctogalidia trivirgata voucher MNHN:TC302 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819567.1	519	Arctogalidia trivirgata voucher MNHN:TC215 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819566.1	519	Arctogalidia trivirgata voucher MNHN:TC214 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819565.1	519	Arctogalidia trivirgata voucher MNHN:TC11 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819564.1	519	Arctogalidia trivirgata voucher MNHN:TC10 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819563.1	519	Arctogalidia trivirgata voucher FMNH:98648 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819562.1	519	Arctogalidia trivirgata voucher FMNH:80235 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819561.1	368	Arctogalidia trivirgata voucher FMNH:38004 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819560.1	519	Arctogalidia trivirgata voucher MNHN:C73 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	KM819559.1	519	Arctogalidia trivirgata voucher MNHN:2001-495 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	DQ683982.1	1044	Arctogalidia trivirgata voucher C124 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctogalidia_trivirgata	DQ683981.1	1044	Arctogalidia trivirgata voucher C35 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

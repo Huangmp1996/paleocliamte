@@ -1,0 +1,30 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	MN125374.1	16791	Ficedula albicilla mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	DQ674496.1	998	Ficedula albicilla voucher UW_Burke_59923 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ930547.1	1143	Ficedula albicilla voucher KU10388 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362845.1	1026	Ficedula albicilla isolate FIAL091 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362844.1	1026	Ficedula albicilla isolate FIAL088 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362843.1	1026	Ficedula albicilla isolate FIAL087 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362842.1	1026	Ficedula albicilla isolate FIAL079 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362841.1	1026	Ficedula albicilla isolate FIAL078 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362840.1	1026	Ficedula albicilla isolate FIAL076 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362839.1	1026	Ficedula albicilla isolate FIAL075 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362838.1	1026	Ficedula albicilla isolate FIAL065 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362837.1	1026	Ficedula albicilla isolate FIAL058 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362836.1	1026	Ficedula albicilla isolate FIAL047 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362835.1	1026	Ficedula albicilla isolate FIAL046 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362834.1	1026	Ficedula albicilla isolate FIAL044 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362833.1	1026	Ficedula albicilla isolate FIAL038 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362832.1	1026	Ficedula albicilla isolate FIAL037 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362831.1	1026	Ficedula albicilla isolate FIAL033 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362830.1	1026	Ficedula albicilla isolate FIAL030 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362829.1	1026	Ficedula albicilla isolate FIAL028 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362828.1	1026	Ficedula albicilla isolate FIAL024 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362827.1	1026	Ficedula albicilla isolate FIAL023 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362826.1	1026	Ficedula albicilla isolate FIAL022 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362825.1	1026	Ficedula albicilla isolate FIAL010 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362824.1	1026	Ficedula albicilla isolate FIAL009 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362823.1	1026	Ficedula albicilla isolate FIAL005 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362822.1	1026	Ficedula albicilla isolate FIAL003 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	KJ362821.1	1026	Ficedula albicilla isolate FIAL001 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	HM633301.1	1076	Ficedula albicilla voucher DZUG-U308 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_albicilla	EF081344.1	1143	Ficedula albicilla cytochrome b (cytb) gene, complete cds; mitochondrial

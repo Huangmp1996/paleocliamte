@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_sangzhiensis	MH406266.1	632	Megophrys sangzhiensis isolate 4315 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_sangzhiensis	MH406265.1	632	Megophrys sangzhiensis isolate 4314 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_sangzhiensis	MH406264.1	632	Megophrys sangzhiensis isolate 4313 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_sangzhiensis	MH406260.1	632	Megophrys sangzhiensis isolate 4307 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_sangzhiensis	MH406259.1	632	Megophrys sangzhiensis isolate 4306 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_sangzhiensis	MT654526.1	558	Xenophrys sangzhiensis voucher CIBSZ2012062008 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_sangzhiensis	MT654525.1	558	Xenophrys sangzhiensis voucher CIBSZ2012062005 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_sangzhiensis	KX812117.1	561	Megophrys sangzhiensis isolate YPX11006 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

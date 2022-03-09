@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_HIRUNDINIDAE_Cecropis_daurica	AY826036.1	1041	Cecropis daurica rufula NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Cecropis_daurica	KJ455463.1	1041	Cecropis daurica voucher UWBM:72130 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Cecropis_daurica	NC_024107.1	17949	Cecropis daurica mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Cecropis_daurica	KJ499911.1	17949	Cecropis daurica mitochondrion, complete genome

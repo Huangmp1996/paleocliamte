@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	HQ844349.1	872	Acrocephalus australis sumbae voucher KU 19431 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	HQ844348.1	884	Acrocephalus australis sumbae voucher KU 19430 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	FJ883031.1	735	Acrocephalus stentoreus levantinus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	JN574446.1	879	Acrocephalus stentoreus harterti voucher GNM<SWE>:U1727 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	JN574445.1	879	Acrocephalus stentoreus harterti voucher GNM<SWE>:U1726 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	JN574444.1	879	Acrocephalus stentoreus brunnescens voucher GNM<SWE>:U2590 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	JN574443.1	879	Acrocephalus stentoreus amyae voucher GNM<SWE>:U1725 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	JN574442.1	879	Acrocephalus stentoreus levantinus voucher ZMG<DEU-Griefswald>:B0918 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	AJ004307.1	1041	Acrocephalus stentoreus brunnescens mitochondrial cytb gene, partial (isolate 1)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	AJ004789.1	1041	Acrocephalus stentoreus ssp. harterti mitochondrial cytb gene
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	AJ004788.1	1041	Acrocephalus stentoreus subsp. brunnescens mitochondrial cytb gene
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_stentoreus	AJ004787.1	1041	Acrocephalus stentoreus subsp. levantina mitochondrial cytb gene

@@ -1,0 +1,16 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MN962024.1	588	Boiga kraepelini voucher ZISP 23316 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MN962023.1	588	Boiga kraepelini voucher ZISP 22712 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MN962022.1	588	Boiga kraepelini voucher ZISP 22686 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MN962021.1	588	Boiga kraepelini voucher ZISP 22685 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MN962020.1	588	Boiga kraepelini voucher ZISP 22076 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MN962019.1	588	Boiga kraepelini voucher ZISP 22075 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MN962018.1	588	Boiga kraepelini voucher MVZ 226520 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MK064789.1	657	Boiga kraepelini voucher CHS638 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MK064623.1	657	Boiga kraepelini voucher CHS115 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	KT932602.1	658	Boiga kraepelini isolate RN0930 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	KT932601.1	658	Boiga kraepelini isolate RN0796 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	KT932600.1	658	Boiga kraepelini isolate RN0592 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	KT932599.1	658	Boiga kraepelini isolate RN0590 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	KT932598.1	658	Boiga kraepelini isolate RN0538 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	KT932597.1	658	Boiga kraepelini isolate RN0476 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Boiga_kraepelini	MG788988.1	658	Boiga kraepelini voucher JHLS01 cytochrome c oxidase subunit I (COI) gene, partial cds

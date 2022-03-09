@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	MN356330.1	14885	Emberiza fucata mitochondrion, partial genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	GQ481764.1	694	Emberiza fucata voucher UWBM 72100 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	GQ481763.1	694	Emberiza fucata voucher UWBM 59910 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	GQ481762.1	678	Emberiza fucata voucher UWBM 75462 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	GQ481761.1	672	Emberiza fucata voucher UWBM 47052 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	NC_033338.1	16752	Emberiza fucata mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	KT737824.1	16752	Emberiza fucata mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	JF499130.1	649	Emberiza fucata voucher USNM:641822 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	JF499129.1	649	Emberiza fucata voucher USNM:641829 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	JF499128.1	659	Emberiza fucata voucher USNM:641894 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	AB843484.1	675	Emberiza fucata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO556-12
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	AB842734.1	716	Emberiza fucata mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM163-10
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	KP877674.1	695	Emberiza fucata isolate MAR1246 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

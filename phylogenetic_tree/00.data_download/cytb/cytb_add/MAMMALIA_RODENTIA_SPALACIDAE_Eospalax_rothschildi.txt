@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_rothschildi	JN544420.1	16377	Eospalax rothschildi mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_rothschildi	AF326268.1	1143	Eospalax rothschildi isolate 2 cytochrome b (cyt b) gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_rothschildi	AF326267.1	1172	Eospalax rothschildi isolate 1 cytochrome b (cyt b) gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_rothschildi	NC_018535.1	16377	Eospalax rothschildi mitochondrion, complete genome

@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MK201323.1	585	Oocatochus rufodorsatus voucher CHS192 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MK201322.1	585	Oocatochus rufodorsatus voucher CHS191 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	AF036016.1	233	Elaphe rufodorsata cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	AF036015.1	233	Elaphe rufodorsata cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	AF036014.1	233	Elaphe rufodorsata cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	DQ902123.1	1117	Oocatochus rufodorsatus voucher LSUMZ 37394 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	NC_022146.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KC990020.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	JQ798793.1	786	Oocatochus rufodorsatus voucher NIBRRP0000100164 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	JQ798792.1	786	Oocatochus rufodorsatus voucher NIBRRP0000100169 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	JQ798791.1	786	Oocatochus rufodorsatus voucher NIBRRP0000100360 cytochrome b (cytb) gene, partial cds; mitochondrial

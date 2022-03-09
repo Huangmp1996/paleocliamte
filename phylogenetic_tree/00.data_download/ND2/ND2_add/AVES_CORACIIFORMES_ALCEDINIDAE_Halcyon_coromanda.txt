@@ -1,0 +1,9 @@
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	MG008121.1	1041	Halcyon coromanda voucher KUNHM 17710 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	MG008120.1	1041	Halcyon coromanda voucher KUNHM 12687 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	NC_028177.1	16542	Halcyon coromanda mitochondrion, complete genome
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	KT356219.1	16542	Halcyon coromanda mitochondrion, complete genome
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	KJ455450.1	1041	Halcyon coromanda voucher UWBM:76223 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	KF818925.1	1022	Halcyon coromanda major voucher UAM27083 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	KF818924.1	1022	Halcyon coromanda major voucher UAM27269 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	KF818923.1	1022	Halcyon coromanda linae voucher UAM27081 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_coromanda	KF818922.1	1022	Halcyon coromanda linae voucher UAM27080 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

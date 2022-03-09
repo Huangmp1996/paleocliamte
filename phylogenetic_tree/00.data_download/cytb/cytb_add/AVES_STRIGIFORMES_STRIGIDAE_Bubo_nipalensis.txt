@@ -1,0 +1,3 @@
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_nipalensis	AB741541.1	1140	Bubo nipalensis mitochondrial cytb gene for cytochrome b, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_nipalensis	EU348886.1	948	Bubo nipalensis voucher IPMB 6095 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_nipalensis	AJ003972.1	1041	Bubo nipalensis mitochondrial cytb gene, partial (isolate 1)

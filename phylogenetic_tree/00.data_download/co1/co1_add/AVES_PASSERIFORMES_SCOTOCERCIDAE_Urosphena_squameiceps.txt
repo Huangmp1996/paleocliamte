@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	GQ482905.1	694	Urosphena squameiceps voucher UWBM 47559 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	GQ482904.1	694	Urosphena squameiceps voucher UWBM 47107 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	GQ482903.1	694	Urosphena squameiceps voucher UWBM 72190 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	GQ482902.1	694	Urosphena squameiceps voucher UWBM 71692 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	GQ482901.1	663	Urosphena squameiceps voucher UWBM 74744 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	AB843838.1	666	Urosphena squameiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO286-10
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	AB843837.1	673	Urosphena squameiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO247-10
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	AB843269.1	650	Urosphena squameiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM224-10
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	AB843268.1	605	Urosphena squameiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM157-10

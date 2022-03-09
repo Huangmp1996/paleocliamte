@@ -1,0 +1,36 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW204596.1	569	Occidozyga lima voucher GK-7451 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW204595.1	568	Occidozyga lima voucher GK-7452 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW204594.1	568	Occidozyga lima voucher GK-7924 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW007323.1	1444	Occidozyga lima isolate A2187_15 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW007322.1	1460	Occidozyga lima isolate A2064_14 tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW007321.1	1505	Occidozyga lima isolate A2199_15 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW007320.1	1438	Occidozyga lima isolate A2191_15 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW007319.1	1494	Occidozyga lima isolate A2136_15 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW007318.1	1505	Occidozyga lima isolate A1895_12 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW007317.1	1493	Occidozyga lima isolate A1887_12 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW007316.1	1969	Occidozyga lima isolate A1870_12 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217510.1	558	Occidozyga lima voucher GK-7410 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217509.1	558	Occidozyga lima voucher GK-7409 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217508.1	559	Occidozyga lima voucher GK-7451 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217507.1	558	Occidozyga lima voucher GK-7452 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217506.1	558	Occidozyga lima voucher GK-7924 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217498.1	554	Occidozyga lima voucher GK-7721 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217497.1	557	Occidozyga lima voucher GK-7733 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217496.1	557	Occidozyga lima voucher GK-7794 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217494.1	554	Occidozyga lima voucher GK-7002 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217493.1	553	Occidozyga lima voucher GK-7003 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MW217492.1	554	Occidozyga lima voucher GK-6911 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935928.1	549	Occidozyga lima voucher USNM:Herp:586927 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935927.1	549	Occidozyga lima voucher USNM:Herp:586926 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935926.1	548	Occidozyga lima voucher USNM:Herp:586925 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935925.1	549	Occidozyga lima voucher USNM:Herp:586924 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935924.1	549	Occidozyga lima voucher USNM:Herp:520376 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935923.1	549	Occidozyga lima voucher MBM-JBS5405 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	DQ283224.1	1903	Occidozyga lima voucher CAS 213254 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	KR827960.1	406	Occidozyga lima voucher T2814 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	KR827959.1	408	Occidozyga lima voucher 2003.0327 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	KR827958.1	406	Occidozyga lima voucher 0086Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	AF215398.1	514	Occidozyga lima 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	AB488903.1	859	Occidozyga lima mitochondrial gene for 16S ribosomal RNA, partial sequence, country: Malaysia:Kuala Lumpur
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	AF206497.1	1396	Occidozyga lima voucher ROM 25003 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	AF285213.1	530	Occidozyga lima TZ51 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,28 @@
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	JN710008.1	415	Indotestudo elongata isolate Ruanuivang cytochrome b gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	FJ026851.1	340	Indotestudo elongata isolate TE2-4 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	FJ026848.1	340	Indotestudo elongata isolate TD3 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	FJ026847.1	340	Indotestudo elongata isolate TD2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	FJ026846.1	340	Indotestudo elongata isolate TD1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	FJ026843.1	340	Indotestudo elongata isolate TB6 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	FJ026842.1	340	Indotestudo elongata isolate TB6-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	FJ026835.1	340	Indotestudo elongata isolate TA7 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	DQ080043.1	16788	Indotestudo elongata voucher MVZ 234627 mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY678432.1	429	Indotestudo elongata isolate 14A cytochrome b (cytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY678425.1	429	Indotestudo elongata isolate 14B cytochrome b (cytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY678355.1	429	Indotestudo elongata isolate 14 cytochrome b (cytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY678304.1	429	Indotestudo elongata isolate 14F cytochrome b (cytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY678303.1	429	Indotestudo elongata isolate 14E cytochrome b (cytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY678302.1	429	Indotestudo elongata isolate 14D cytochrome b (cytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY678301.1	429	Indotestudo elongata isolate 14C cytochrome b (cytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY673560.1	737	Indotestudo elongata NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY673555.1	737	Indotestudo elongata NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY673469.1	737	Indotestudo elongata NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY673468.1	737	Indotestudo elongata NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY673467.1	737	Indotestudo elongata NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY673466.1	737	Indotestudo elongata NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AY434643.1	1115	Indotestudo elongata cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AF371235.1	426	Indotestudo elongata tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial genes for mitochondrial products
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	DQ656607.1	16813	Indotestudo elongata mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	DQ497310.1	1140	Indotestudo elongata cytochrome b gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	NC_007695.1	16788	Indotestudo elongata mitochondrion, complete genome
+REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	JN232530.1	1053	Indotestudo elongata cytochrome b (cytb) gene, partial cds; mitochondrial

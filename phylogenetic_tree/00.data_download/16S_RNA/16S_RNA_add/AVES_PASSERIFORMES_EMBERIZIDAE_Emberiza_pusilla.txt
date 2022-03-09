@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	KP877649.1	844	Emberiza pusilla isolate MAR4898 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	NC_021408.1	16790	Emberiza pusilla mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	KC407232.1	16790	Emberiza pusilla mitochondrion, complete genome

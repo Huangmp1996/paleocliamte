@@ -1,0 +1,5 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	MG279351.1	17047	Lepus yarkandensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	NC_050569.1	17011	Lepus yarkandensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	MN450151.1	17011	Lepus yarkandensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	AY745170.1	756	Lepus yarkandensis isolate ta2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	AY745169.1	576	Lepus yarkandensis isolate ta1 12S ribosomal RNA gene, partial sequence; mitochondrial

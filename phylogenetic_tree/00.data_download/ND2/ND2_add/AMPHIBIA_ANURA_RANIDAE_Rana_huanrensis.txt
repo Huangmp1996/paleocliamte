@@ -1,0 +1,3 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KX269400.1	984	Rana huanrensis isolate MMS-231 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	NC_028521.1	19253	Rana huanrensis voucher y-d20130058 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_huanrensis	KT588071.1	19253	Rana huanrensis voucher y-d20130058 mitochondrion, complete genome

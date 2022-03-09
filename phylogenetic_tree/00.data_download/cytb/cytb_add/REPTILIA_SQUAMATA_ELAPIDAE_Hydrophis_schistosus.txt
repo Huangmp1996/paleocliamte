@@ -1,0 +1,19 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	MN454861.1	332	Hydrophis schistosus isolate 18 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KX239645.1	1140	Hydrophis schistosus cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	AB920281.1	506	Hydrophis schistosus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: ESC13
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	AB920280.1	518	Hydrophis schistosus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: ESC12
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	AB920279.1	518	Hydrophis schistosus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: ESC9
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	AB920278.1	506	Hydrophis schistosus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: ESC7
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	AB920277.1	509	Hydrophis schistosus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: ESC6
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	AB920276.1	510	Hydrophis schistosus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: ESC5
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	AB920275.1	519	Hydrophis schistosus mitochondrial Cytb gene for cytochrome b, partial cds, isolate: ESC4
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	FJ587155.1	1087	Enhydrina schistosa voucher QMJ79014 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966120.1	365	Hydrophis schistosus voucher KLS0169 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966119.1	1080	Hydrophis schistosus voucher IR002 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966118.1	1080	Hydrophis schistosus voucher IR001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KT966117.1	1086	Hydrophis schistosus voucher CAS229885 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	KC014393.1	1087	Hydrophis schistosa voucher MZBOphi12126 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987164.1	840	Hydrophis schistosa voucher KLS0026 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987163.1	218	Hydrophis schistosa voucher KLS0024 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987162.1	778	Hydrophis schistosa voucher MZB Ophi 12123 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_schistosus	JX987161.1	872	Hydrophis schistosa voucher MZB Ophi 12121 cytochrome b (CYTB) gene, partial cds; mitochondrial

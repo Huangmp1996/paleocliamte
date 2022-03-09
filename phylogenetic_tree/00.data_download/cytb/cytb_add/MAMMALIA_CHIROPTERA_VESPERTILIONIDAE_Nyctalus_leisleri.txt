@@ -1,0 +1,20 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	MZ066776.1	103	Nyctalus leisleri isolate 132631 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	DQ120877.1	726	Nyctalus leisleri haplotype Nle368 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	DQ120876.1	726	Nyctalus leisleri haplotype Nle752 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	DQ120875.1	726	Nyctalus leisleri haplotype Nle364 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	DQ887595.1	690	Nyctalus leisleri haplotype Nle5c cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	DQ887594.1	692	Nyctalus leisleri haplotype Nle4c cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	DQ887593.1	692	Nyctalus leisleri haplotype Nle3c cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	DQ887592.1	692	Nyctalus leisleri haplotype Nle1c cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	JX570901.1	1140	Nyctalus leisleri voucher MHNG 1956.071 M1473 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360690.1	726	Nyctalus leisleri haplotype C11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360689.1	726	Nyctalus leisleri haplotype C10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360688.1	726	Nyctalus leisleri haplotype C9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360687.1	726	Nyctalus leisleri haplotype C8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360686.1	726	Nyctalus leisleri haplotype C7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360685.1	726	Nyctalus leisleri haplotype C6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360684.1	726	Nyctalus leisleri haplotype C5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360683.1	726	Nyctalus leisleri haplotype C4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360682.1	726	Nyctalus leisleri haplotype C2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	EU360681.1	726	Nyctalus leisleri haplotype C1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	AF376832.1	1123	Nyctalus leisleri cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product

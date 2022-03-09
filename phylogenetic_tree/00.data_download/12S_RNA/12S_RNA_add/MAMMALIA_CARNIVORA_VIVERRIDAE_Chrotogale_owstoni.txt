@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	NC_053971.1	16852	Chrotogale owstoni mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	MW257222.1	16852	Chrotogale owstoni mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	DQ286775.1	375	Chrotogale owstoni voucher AHNU0310 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	DQ286780.1	375	Chrotogale owstoni voucher AHNU0310 12S ribosomal RNA gene, partial sequence; mitochondrial

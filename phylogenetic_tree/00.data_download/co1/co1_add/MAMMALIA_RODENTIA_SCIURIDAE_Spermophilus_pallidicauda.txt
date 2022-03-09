@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Spermophilus_pallidicauda	KX859270.1	692	Spermophilus pallidicauda voucher MGL-96 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Spermophilus_pallidicauda	KJ466736.1	657	Spermophilus pallidicauda voucher NMCDC:1367 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Spermophilus_pallidicauda	KJ466735.1	657	Spermophilus pallidicauda voucher NMCDC:1368 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Spermophilus_pallidicauda	KJ466734.1	657	Spermophilus pallidicauda voucher NMCDC:1366 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

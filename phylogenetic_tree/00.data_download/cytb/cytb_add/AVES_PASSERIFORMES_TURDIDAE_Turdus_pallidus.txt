@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	KX818817.1	275	Turdus pallidus isolate SB135 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	KX818816.1	275	Turdus pallidus isolate SB134 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	KX818815.1	275	Turdus pallidus isolate SB133 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	DQ910976.1	1000	Turdus pallidus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	EU154651.1	1038	Turdus pallidus voucher NRM-1999-11-06 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AY752392.1	998	Turdus pallidus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	D38324.1	646	Turdus pallidus mitochondrial gene for cytochrome b, partial cds

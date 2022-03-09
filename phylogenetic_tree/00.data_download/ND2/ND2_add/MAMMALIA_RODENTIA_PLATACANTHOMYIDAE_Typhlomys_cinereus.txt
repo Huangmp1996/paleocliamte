@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	KX778471.1	989	Typhlomys cinereus isolate Tcin_7-1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	KX778470.1	1017	Typhlomys cinereus isolate Tsp2_5-1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	KX778469.1	995	Typhlomys cinereus isolate Tsp2_4-1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	KX397283.1	15011	Typhlomys cinereus mitochondrion, partial genome
+MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	NC_033382.1	15011	Typhlomys cinereus mitochondrion, complete genome

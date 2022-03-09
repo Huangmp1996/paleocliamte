@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	NC_050259.1	16996	Erythrogenys gravivox dedekensi mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN918717.1	16996	Erythrogenys gravivox dedekensi mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	NC_040006.1	16963	Erythrogenys gravivox mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MH737742.1	16963	Erythrogenys gravivox mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	GU724468.1	1041	Pomatorhinus erythrogenys odicus voucher NTNU:T4134 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	GU724467.1	1041	Pomatorhinus erythrogenys odicus voucher KIZ:ALS023 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

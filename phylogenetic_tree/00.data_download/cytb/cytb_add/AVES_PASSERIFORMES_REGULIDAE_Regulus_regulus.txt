@@ -1,0 +1,83 @@
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KY378777.1	689	Regulus regulus ellenthalerae voucher L335_PN654 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KY378776.1	707	Regulus regulus voucher L353_PN1918 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735133.1	873	Regulus regulus ellenthalerae isolate MAR3514 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735132.1	873	Regulus regulus ellenthalerae isolate MAR3503 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735131.1	873	Regulus regulus interni isolate MAR5577 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735130.1	873	Regulus regulus interni isolate MAR5576 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735129.1	873	Regulus regulus interni isolate MAR5573 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735128.1	873	Regulus regulus regulus isolate MAR3037 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735127.1	873	Regulus regulus sikkimensis isolate MAR2873 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735126.1	873	Regulus regulus sikkimensis isolate MAR1881 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	EU735125.1	873	Regulus regulus sikkimensis isolate MAR5811 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	DQ008521.1	1038	Regulus regulus regulus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894884.1	1351	Regulus regulus voucher IPMB 1576 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894883.1	1351	Regulus regulus voucher IPMB 1571 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894882.1	1351	Regulus regulus voucher IPMB 1836 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894881.1	1351	Regulus regulus voucher IPMB 10252 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894880.1	1351	Regulus regulus voucher IPMB 966 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894879.1	1351	Regulus regulus voucher IPMB 22438 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894864.1	1351	Regulus regulus inermis voucher IPMB 30359 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894863.1	1351	Regulus regulus azoricus voucher IPMB 30360 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894862.1	1351	Regulus regulus azoricus voucher IPMB 30358 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894861.1	1351	Regulus regulus azoricus voucher IPMB 30355 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894860.1	1351	Regulus regulus azoricus voucher IPMB 30357 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AY894859.1	1351	Regulus regulus azoricus voucher IPMB 30356 NADH dehydrogenase subunit 5 (ND5) gene, partial cds; and cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551793.2	873	Regulus regulus tristis haplotype tris1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551789.2	873	Regulus regulus sanctae-mariae haplotype sanc1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551782.2	873	Regulus regulus japonensis haplotype jap1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551776.2	873	Regulus regulus japonensis haplotype jap3 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551774.2	873	Regulus regulus inermis haplotype iner3 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551773.2	873	Regulus regulus inermis haplotype iner1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551771.2	873	Regulus regulus himalayensis haplotype him1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551767.2	873	Regulus regulus azoricus haplotype azo3 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551788.1	585	Regulus regulus regulus haplotype reg2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551787.1	585	Regulus regulus regulus haplotype reg3 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551786.1	585	Regulus regulus regulus haplotype reg1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551781.1	585	Regulus regulus japonensis haplotype jap2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551780.1	585	Regulus regulus japonensis haplotype jap7 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551779.1	585	Regulus regulus japonensis haplotype jap6 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551778.1	585	Regulus regulus japonensis haplotype jap5 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551777.1	578	Regulus regulus japonensis haplotype jap4 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551775.1	585	Regulus regulus azoricus haplotype azo1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551765.1	585	Regulus regulus azoricus haplotype azo2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF551764.1	585	Regulus regulus inermis haplotype iner2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AF096459.1	836	Regulus regulus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	NC_029837.1	16847	Regulus regulus mitochondrion, complete genome
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KT934324.1	16847	Regulus regulus mitochondrion, complete genome
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105703.1	658	Regulus regulus isolate X3655 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105702.1	658	Regulus regulus isolate O54079 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105701.1	658	Regulus regulus isolate O54077 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105700.1	658	Regulus regulus isolate O54073 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105699.1	658	Regulus regulus isolate O54069 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105698.1	658	Regulus regulus isolate O54066 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105697.1	658	Regulus regulus isolate O54019 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105696.1	658	Regulus regulus isolate O54015 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105695.1	658	Regulus regulus isolate O54012 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105694.1	658	Regulus regulus isolate O54004 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105693.1	658	Regulus regulus isolate O54001 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105692.1	658	Regulus regulus isolate O54035 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105691.1	658	Regulus regulus isolate O54034 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105690.1	658	Regulus regulus isolate O54033 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105689.1	658	Regulus regulus isolate O54031 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105688.1	658	Regulus regulus isolate O54024 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105687.1	658	Regulus regulus isolate O54049 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105686.1	658	Regulus regulus isolate O54047 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105685.1	658	Regulus regulus isolate O54046 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105684.1	658	Regulus regulus isolate O54044 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105683.1	658	Regulus regulus isolate O54041 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105682.1	658	Regulus regulus isolate O54056 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105681.1	658	Regulus regulus isolate O54055 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105680.1	658	Regulus regulus isolate O54054 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105679.1	658	Regulus regulus isolate O54052 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105678.1	658	Regulus regulus isolate O54051 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105677.1	658	Regulus regulus isolate O90945 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105676.1	658	Regulus regulus isolate O90943 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105675.1	658	Regulus regulus isolate O90940 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105674.1	658	Regulus regulus isolate O54084 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105673.1	658	Regulus regulus isolate O54083 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105672.1	658	Regulus regulus isolate O54065 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105671.1	658	Regulus regulus isolate O54063 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105670.1	658	Regulus regulus isolate O54062 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	KM105669.1	658	Regulus regulus isolate O54059 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AJ004328.1	1041	Regulus regulus partial mitochondrial cytb gene, isolate 1
+AVES_PASSERIFORMES_REGULIDAE_Regulus_regulus	AJ004762.1	1041	Regulus regulus ssp. regulus mitochondrial cytb gene

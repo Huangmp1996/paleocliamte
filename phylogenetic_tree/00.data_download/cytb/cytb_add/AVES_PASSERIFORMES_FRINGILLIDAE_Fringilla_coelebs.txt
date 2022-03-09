@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MN122830.1	16341	Fringilla coelebs mitochondrion, partial genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MH170895.1	919	Fringilla coelebs isolate AJB4561 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MH170894.1	1001	Fringilla coelebs cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MH170893.1	889	Fringilla coelebs cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MH170892.1	1022	Fringilla coelebs cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MH170891.1	829	Fringilla coelebs cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MH170890.1	829	Fringilla coelebs cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KY378754.1	713	Fringilla coelebs voucher L369_MO1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KY378753.1	774	Fringilla coelebs palmae voucher L331_PN493 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KY378752.1	709	Fringilla coelebs voucher L352_PN157 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF284068.1	1217	Fringilla coelebs NADH dehydrogenase subunit 5 (ND5) and cytochrome b (CYTB) genes, partial cds; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF447368.1	1045	Fringilla coelebs cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	L76610.1	924	Fringilla coelebs FRCOE65 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	L76609.1	924	Fringilla coelebs FRCOE60 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AY495389.1	1127	Fringilla coelebs cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002893.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002892.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002891.1	622	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002890.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002889.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002888.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002887.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002886.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002885.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002884.1	622	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002883.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002882.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002881.1	622	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002880.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF002879.1	641	Fringilla coelebs cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	HQ284698.1	824	Fringilla coelebs isolate Fcoe1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592667.1	1002	Fringilla coelebs haplotype FCMO1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592666.1	1002	Fringilla coelebs haplotype FCIP16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592665.1	1002	Fringilla coelebs haplotype FCIP14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592664.1	1002	Fringilla coelebs haplotype FCIP13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592663.1	1002	Fringilla coelebs haplotype FCIP12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592662.1	1002	Fringilla coelebs haplotype FCAZ4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592661.1	1002	Fringilla coelebs haplotype FCAZ3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592660.1	1002	Fringilla coelebs haplotype FCMD20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592659.1	1002	Fringilla coelebs haplotype FCMD17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GU592658.1	1002	Fringilla coelebs haplotype FCGC22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330559.1	1002	Fringilla coelebs haplotype FC17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330558.1	1002	Fringilla coelebs haplotype FC16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330557.1	1002	Fringilla coelebs haplotype FC15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330556.1	1002	Fringilla coelebs haplotype FC14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330555.1	1002	Fringilla coelebs haplotype FC13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330554.1	1002	Fringilla coelebs haplotype FC12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330553.1	1002	Fringilla coelebs haplotype FC11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330552.1	1002	Fringilla coelebs haplotype FC10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330551.1	1002	Fringilla coelebs haplotype FC09 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330550.1	1002	Fringilla coelebs haplotype FC08 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330549.1	1002	Fringilla coelebs haplotype FC07 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330548.1	1002	Fringilla coelebs haplotype FC06 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330547.1	1002	Fringilla coelebs haplotype FC05 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330546.1	1002	Fringilla coelebs haplotype FC04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330545.1	1002	Fringilla coelebs haplotype FC03 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330544.1	1002	Fringilla coelebs haplotype FC02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	GQ330543.1	1002	Fringilla coelebs haplotype FC01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	U18862.1	307	Fringilla coelebs cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KM078769.1	16801	Fringilla coelebs mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	NC_025599.1	16801	Fringilla coelebs mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673025.1	634	Fringilla coelebs isolate A273689_(FC_TER_05) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673024.1	634	Fringilla coelebs isolate A273687_(FC_TER_04) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673023.1	634	Fringilla coelebs isolate A273661_(FC_TER_03) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673022.1	634	Fringilla coelebs isolate A273660_(FC_TER_02) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673021.1	634	Fringilla coelebs isolate A273654_(FC_TER_01) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673020.1	634	Fringilla coelebs isolate A165646_(FC_SMI_05) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673019.1	634	Fringilla coelebs isolate A165635_(FC_SMI_04) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673018.1	634	Fringilla coelebs isolate A165618_(FC_SMI_03) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673017.1	634	Fringilla coelebs isolate A165606_(FC_SMI_02) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673016.1	634	Fringilla coelebs isolate A165603_(FC_SMI_01) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673015.1	634	Fringilla coelebs isolate A261453_(FC_SMA_05) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673014.1	634	Fringilla coelebs isolate A261439_(FC_SMA_04) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673013.1	634	Fringilla coelebs isolate A261431_(FC_SMA_03) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673012.1	634	Fringilla coelebs isolate A165694_(FC_SMA_02) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673011.1	634	Fringilla coelebs isolate A165692_(FC_SMA_01) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673010.1	634	Fringilla coelebs isolate A261474_(FC_SJO_05) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673009.1	634	Fringilla coelebs isolate A261465_(FC_SJO_04) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673008.1	634	Fringilla coelebs isolate A261461_(FC_SJO_03) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673007.1	634	Fringilla coelebs isolate A261457_(FC_SJO_02) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673006.1	634	Fringilla coelebs isolate A261455_(FC_SJO_01) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673005.1	634	Fringilla coelebs isolate A329069_(FC_POR_05) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673004.1	634	Fringilla coelebs isolate A326024_(FC_POR_04) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673003.1	634	Fringilla coelebs isolate A298896_(FC_POR_03) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673002.1	634	Fringilla coelebs isolate A298894_(FC_POR_02) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673001.1	634	Fringilla coelebs isolate A298893_(FC_POR_01) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF673000.1	634	Fringilla coelebs isolate A273623_(FC_PIC_05) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672999.1	634	Fringilla coelebs isolate A273603_(FC_PIC_04) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672998.1	634	Fringilla coelebs isolate A261499_(FC_PIC_03) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672997.1	634	Fringilla coelebs isolate A261495_(FC_PIC_02) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672996.1	634	Fringilla coelebs isolate A261492_(FC_PIC_01) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672995.1	634	Fringilla coelebs isolate A285750 (FC_MOR_05) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672994.1	634	Fringilla coelebs isolate A285749 (FC_MOR_04) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672993.1	634	Fringilla coelebs isolate A285742 (FC_MOR_03) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672992.1	634	Fringilla coelebs isolate A285734 (FC_MOR_02) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672991.1	634	Fringilla coelebs isolate A285731 (FC_MOR_01) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672990.1	634	Fringilla coelebs isolate A301933 (FC_MAD_05) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672989.1	634	Fringilla coelebs isolate A301927 (FC_MAD_04) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672988.1	634	Fringilla coelebs isolate A301904 (FC_MAD_03) cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KF672987.1	634	Fringilla coelebs isolate A285700 (FC_MAD_02) cytochrome b (cytb) gene, partial cds; mitochondrial

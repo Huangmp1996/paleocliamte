@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Plagiopholis_styani	MW697084.1	19669	Plagiopholis styani mitochondrion, complete genome
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Plagiopholis_styani	MK201338.1	585	Plagiopholis styani voucher CHS209 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Plagiopholis_styani	MK201336.1	585	Plagiopholis styani voucher CHS207 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Plagiopholis_styani	EU496918.1	1080	Plagiopholis styani cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Plagiopholis_styani	KT199002.1	1018	Plagiopholis styani voucher GP2947 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Plagiopholis_styani	KT199001.1	1018	Plagiopholis styani voucher GP1397 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Plagiopholis_styani	KT199000.1	1018	Plagiopholis styani voucher GP833 cytochrome b (cytb) gene, partial cds; mitochondrial

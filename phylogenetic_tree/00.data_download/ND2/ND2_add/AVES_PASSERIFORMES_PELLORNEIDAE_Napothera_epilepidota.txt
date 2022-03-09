@@ -1,0 +1,23 @@
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991370.1	1041	Napothera epilepidota voucher MZB AG1687 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991369.1	1041	Napothera epilepidota voucher MZB AG622 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991368.1	1041	Napothera epilepidota voucher MZB AG621 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991367.1	1041	Napothera epilepidota voucher MZB AG589 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991366.1	1041	Napothera epilepidota voucher MZB AG513 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991365.1	1041	Napothera epilepidota voucher MZB AG460 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991364.1	1041	Napothera epilepidota voucher MZB AG408 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991363.1	1041	Napothera epilepidota voucher MZB AG343 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991362.1	1041	Napothera epilepidota voucher MZB AG341 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991361.1	1041	Napothera epilepidota voucher LSUMNS B-95100 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991360.1	1041	Napothera epilepidota voucher LSUMNS B-95005 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991359.1	1041	Napothera epilepidota voucher LSUMNS B-94967 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MN991358.1	1041	Napothera epilepidota voucher LSUMNS B-94966 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MK567168.1	951	Napothera epilepidota voucher SR2016-625 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MG546424.1	1041	Napothera epilepidota voucher LSUMNS B-79101 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MG546423.1	1041	Napothera epilepidota voucher LSUMNS B-79100 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MG546422.1	1002	Napothera epilepidota voucher LSUMNS B-78722 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MG546421.1	638	Napothera epilepidota voucher LSUMNS B-52557 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	NC_035626.1	17913	Napothera epilepidota mitochondrion, complete genome
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	KX831093.1	17913	Napothera epilepidota mitochondrion, complete genome
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	KJ455523.1	1041	Napothera epilepidota voucher NRM:20026631 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	DQ861983.1	1023	Napothera epilepidota isolate J25 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	JN826601.1	1041	Napothera epilepidota voucher LSUMNS B52626 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

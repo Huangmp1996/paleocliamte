@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	NC_027686.1	17939	Bufo stejnegeri voucher y-d20130012 mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	KR136211.1	17939	Bufo stejnegeri voucher y-d20130012 mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	JQ798834.1	783	Bufo stejnegeri voucher NIBRAM0000100334 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	JQ798833.1	783	Bufo stejnegeri voucher NIBRAM0000000192 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	JQ844504.1	600	Bufo stejnegeri voucher NIBRAM0000100334 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	JQ844503.1	600	Bufo stejnegeri voucher NIBRAM0000000192 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

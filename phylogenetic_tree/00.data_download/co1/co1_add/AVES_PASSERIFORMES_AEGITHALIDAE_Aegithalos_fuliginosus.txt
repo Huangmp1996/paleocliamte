@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	HM185337.1	1201	Aegithalos fuliginosus voucher IOZ2476 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	HM185336.1	1201	Aegithalos fuliginosus voucher IOZ2478 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	HM185335.1	1201	Aegithalos fuliginosus voucher IOZ2505 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	NC_024266.1	17953	Aegithalos fuliginosus mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KF951086.1	17953	Aegithalos fuliginosus mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	HM185384.1	948	Aegithalos fuliginosus voucher IOZ2476 cytochrome b (cyt b) gene, partial cds; mitochondrial

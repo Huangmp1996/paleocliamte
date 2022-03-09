@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KX233869.1	15396	Rhacophorus dennysi mitochondrion, partial genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	EU924604.1	547	Rhacophorus dennysi isolate KIZ060821050 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KT191129.1	17572	Rhacophorus dennysi voucher RDEN20150618 mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	NC_027452.1	18052	Rhacophorus dennysi mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KM035412.1	18052	Rhacophorus dennysi mitochondrion, complete genome

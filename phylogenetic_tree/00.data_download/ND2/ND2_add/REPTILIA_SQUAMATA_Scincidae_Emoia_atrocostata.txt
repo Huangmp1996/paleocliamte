@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_Scincidae_Emoia_atrocostata	JQ610250.1	514	Emoia atrocostata isolate EUG66 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Emoia_atrocostata	JQ610249.1	514	Emoia atrocostata isolate EUG65 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Emoia_atrocostata	MH124075.1	1041	Emoia atrocostata voucher JQR1889 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Emoia_atrocostata	MH124074.1	1041	Emoia atrocostata voucher USNM576201 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Emoia_atrocostata	MH124073.1	1041	Emoia atrocostata voucher RNF246 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Emoia_atrocostata	HQ907421.1	696	Emoia atrocostata voucher KU 304896 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Emoia_atrocostata	KJ574690.1	1006	Emoia atrocostata voucher KU:304896 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Emoia_atrocostata	JQ610903.1	1390	Emoia atrocostata voucher JAM 2271 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asx, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial

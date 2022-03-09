@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	DQ236206.1	565	Coccothraustes coccothraustes cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	HQ284693.1	908	Coccothraustes coccothraustes isolate Cocc1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	AY228055.1	879	Coccothraustes coccothraustes NRM 976374 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	U18861.1	307	Coccothraustes coccothraustes cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	DQ792780.1	1143	Coccothraustes coccothraustes isolate 39 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	EF371060.1	924	Coccothraustes coccothraustes isolate cococ1451 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KM078789.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	NC_025614.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome

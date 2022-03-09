@@ -1,0 +1,15 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MW001158.1	527	Megophrys kuatunensis voucher CIBWY18082407 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MW001157.1	527	Megophrys kuatunensis voucher CIBWY18082408 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MN563765.1	527	Megophrys kuatunensis voucher CIBWY18082408 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MN563764.1	527	Megophrys kuatunensis voucher CIBWY18082407 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KX856396.1	537	Megophrys kuatunensis isolate KRM7 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KX856395.1	537	Megophrys kuatunensis isolate KRM6 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KX856394.1	537	Megophrys kuatunensis isolate KRM2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KX856393.1	496	Megophrys kuatunensis isolate HAD34 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KX856392.1	537	Megophrys kuatunensis isolate HAD125 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KX856391.1	537	Megophrys kuatunensis isolate HAD124 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MF667881.1	536	Xenophrys kuatunensis voucher SYS a003449 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KJ560378.1	406	Xenophrys kuatunensis voucher SYS a001592 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KJ560377.1	406	Xenophrys kuatunensis voucher SYS a001590 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	KJ560376.1	406	Xenophrys kuatunensis voucher SYS a001579 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	JX867341.1	404	Xenophrys kuatunensis isolate SYSA0000241 16S ribosomal RNA gene, partial sequence; mitochondrial

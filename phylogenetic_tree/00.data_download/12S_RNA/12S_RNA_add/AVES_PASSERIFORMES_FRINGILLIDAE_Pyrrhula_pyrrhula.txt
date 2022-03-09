@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KM078804.1	16831	Pyrrhula pyrrhula mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	NC_025625.1	16831	Pyrrhula pyrrhula mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	EF027328.1	147	Pyrrhula pyrrhula isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	EF027327.1	147	Pyrrhula pyrrhula isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,35 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	KT803671.1	648	Luscinia megarhynchos isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ175293.1	652	Luscinia megarhynchos voucher USNM:Birds:640821 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ175292.1	652	Luscinia megarhynchos voucher USNM:Birds:640833 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	GQ482137.1	694	Luscinia megarhynchos voucher UWBM 61111 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	GQ482136.1	694	Luscinia megarhynchos voucher UWBM 46491 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	GQ482135.1	694	Luscinia megarhynchos voucher UWBM 64638 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	KF946753.1	652	Luscinia megarhynchos megarhynchos voucher ZMA58798 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740248.1	663	Luscinia megarhynchos isolate AE36870FL35 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740247.1	663	Luscinia megarhynchos isolate AE80024FL34 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740245.1	663	Luscinia megarhynchos isolate AE80022FL32 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740244.1	663	Luscinia megarhynchos isolate AE36814FL30 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740243.1	663	Luscinia megarhynchos isolate AE36781FL29 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740242.1	663	Luscinia megarhynchos isolate AE80018FL28 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740240.1	663	Luscinia megarhynchos isolate AE44802FL25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740239.1	663	Luscinia megarhynchos isolate AE36896FL24 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740238.1	663	Luscinia megarhynchos isolate AE36892FL23 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740237.1	663	Luscinia megarhynchos isolate AE36889FL22 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740236.1	663	Luscinia megarhynchos isolate AE80101FL21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740235.1	663	Luscinia megarhynchos isolate N115813FL20 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740234.1	663	Luscinia megarhynchos isolate AE80127FL19 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740230.1	663	Luscinia megarhynchos isolate AE36898FL15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740229.1	663	Luscinia megarhynchos isolate AE36899FL14 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740228.1	663	Luscinia megarhynchos isolate AE36900FL13 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740227.1	663	Luscinia megarhynchos isolate AE80014FL12 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740226.1	663	Luscinia megarhynchos isolate AE80128FL11 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740225.1	663	Luscinia megarhynchos isolate AE80035FL10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740224.1	663	Luscinia megarhynchos isolate AE80027FL9 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740223.1	663	Luscinia megarhynchos isolate AE80023FL8 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740222.1	663	Luscinia megarhynchos isolate AE80019FL7 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740220.1	663	Luscinia megarhynchos isolate AE36881FL5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740219.1	663	Luscinia megarhynchos isolate AE36879FL4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740218.1	663	Luscinia megarhynchos isolate AE36876FL3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740217.1	663	Luscinia megarhynchos isolate AE36874FL2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	JQ740216.1	663	Luscinia megarhynchos isolate AE36868FL1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Luscinia_megarhynchos	DQ683477.1	662	Luscinia megarhynchos voucher MIUT200359 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial

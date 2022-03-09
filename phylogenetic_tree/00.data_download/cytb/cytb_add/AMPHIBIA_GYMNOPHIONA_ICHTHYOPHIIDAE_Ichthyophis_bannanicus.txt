@@ -1,0 +1,100 @@
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU753996.1	390	Ichthyophis bannanicus voucher MVZ226266 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU770987.1	1136	Ichthyophis bannanicus haplotype P cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU770986.1	1136	Ichthyophis bannanicus haplotype O cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU770985.1	1136	Ichthyophis bannanicus haplotype N cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU770984.1	1136	Ichthyophis bannanicus haplotype M cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU770983.1	1136	Ichthyophis bannanicus haplotype L cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678926.1	1143	Ichthyophis bannanicus haplotype K cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678925.1	1143	Ichthyophis bannanicus haplotype J cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678924.1	1143	Ichthyophis bannanicus haplotype I cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678923.1	1143	Ichthyophis bannanicus haplotype H cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678922.1	1143	Ichthyophis bannanicus haplotype G cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678921.1	1143	Ichthyophis bannanicus haplotype F cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678920.1	1143	Ichthyophis bannanicus haplotype E cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678919.1	1143	Ichthyophis bannanicus haplotype D cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678918.1	1143	Ichthyophis bannanicus haplotype C cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678917.1	1143	Ichthyophis bannanicus haplotype B cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	EU678916.1	1143	Ichthyophis bannanicus haplotype A cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	AY101255.2	714	Ichthyophis bannanicus cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	AY458594.1	15983	Ichthyophis bannanicus mitochondrion, complete genome
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120249.1	1000	Ichthyophis bannanicus isolate H22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120248.1	1000	Ichthyophis bannanicus isolate H21 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120247.1	1000	Ichthyophis bannanicus isolate H20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120246.1	1000	Ichthyophis bannanicus isolate H19 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120245.1	1000	Ichthyophis bannanicus isolate h18 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120244.1	1000	Ichthyophis bannanicus isolate H17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120243.1	1000	Ichthyophis bannanicus isolate H16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120242.1	1000	Ichthyophis bannanicus isolate H15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120241.1	1000	Ichthyophis bannanicus isolate H14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120240.1	1000	Ichthyophis bannanicus isolate H13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120239.1	1000	Ichthyophis bannanicus isolate H12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120238.1	1000	Ichthyophis bannanicus isolate H11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120237.1	1000	Ichthyophis bannanicus isolate H10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120236.1	1000	Ichthyophis bannanicus isolate H09 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120235.1	1000	Ichthyophis bannanicus isolate H08 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120234.1	1000	Ichthyophis bannanicus isolate H07 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120233.1	1000	Ichthyophis bannanicus isolate H06 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120232.1	1000	Ichthyophis bannanicus isolate H05 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120231.1	1000	Ichthyophis bannanicus isolate H04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120230.1	1000	Ichthyophis bannanicus isolate H03 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120229.1	1000	Ichthyophis bannanicus isolate H02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM120228.1	1000	Ichthyophis bannanicus isolate H01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011464.1	1000	Ichthyophis bannanicus isolate Deqing73 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011463.1	1000	Ichthyophis bannanicus isolate Deqing72 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011462.1	1000	Ichthyophis bannanicus isolate Deqing71 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011461.1	1000	Ichthyophis bannanicus isolate Yangchun22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011460.1	1000	Ichthyophis bannanicus isolate Yangchun21 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011459.1	1000	Ichthyophis bannanicus isolate Yangchun20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011458.1	1000	Ichthyophis bannanicus isolate Luchuan95 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011457.1	1000	Ichthyophis bannanicus isolate Luchuan94 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011456.1	1000	Ichthyophis bannanicus isolate Luchuan93 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011455.1	1000	Ichthyophis bannanicus isolate BeilvP35 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011454.1	1000	Ichthyophis bannanicus isolate BeilvP34 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011453.1	1000	Ichthyophis bannanicus isolate BeilvP33 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011452.1	1000	Ichthyophis bannanicus isolate BeilvL09 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011451.1	1000	Ichthyophis bannanicus isolate BeilvL04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011450.1	1000	Ichthyophis bannanicus isolate BeilvL01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011449.1	1000	Ichthyophis bannanicus isolate Mengla05 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011448.1	1000	Ichthyophis bannanicus isolate Mengla02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	HM011447.1	1000	Ichthyophis bannanicus isolate Mengla01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249911.1	1136	Ichthyophis bannanicus isolate dq3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249910.1	1136	Ichthyophis bannanicus isolate yc8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249909.1	1136	Ichthyophis bannanicus isolate yc4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249908.1	1136	Ichthyophis bannanicus isolate ml17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249907.1	1136	Ichthyophis bannanicus isolate ml16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249906.1	1136	Ichthyophis bannanicus isolate ml15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249905.1	1136	Ichthyophis bannanicus isolate ml14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249904.1	1136	Ichthyophis bannanicus isolate ml12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	GQ249903.1	1136	Ichthyophis bannanicus isolate ml11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513566.1	2181	Ichthyophis bannanicus isolate H23 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513565.1	2181	Ichthyophis bannanicus isolate H22 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513564.1	2181	Ichthyophis bannanicus isolate H21 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513563.1	2181	Ichthyophis bannanicus isolate H20 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513562.1	2181	Ichthyophis bannanicus isolate H19 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513561.1	2181	Ichthyophis bannanicus isolate H18 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513560.1	2181	Ichthyophis bannanicus isolate H17 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513559.1	2181	Ichthyophis bannanicus isolate H16 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513558.1	2181	Ichthyophis bannanicus isolate H15 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513557.1	2181	Ichthyophis bannanicus isolate H14 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513556.1	2181	Ichthyophis bannanicus isolate H13 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513555.1	2181	Ichthyophis bannanicus isolate H12 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513554.1	2181	Ichthyophis bannanicus isolate H11 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513553.1	2181	Ichthyophis bannanicus isolate H10 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513552.1	2181	Ichthyophis bannanicus isolate H09 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513551.1	2181	Ichthyophis bannanicus isolate H08 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513550.1	2181	Ichthyophis bannanicus isolate H07 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513549.1	2181	Ichthyophis bannanicus isolate H06 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513548.1	2181	Ichthyophis bannanicus isolate H05 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513547.1	2181	Ichthyophis bannanicus isolate H04 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513546.1	2181	Ichthyophis bannanicus isolate H03 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513545.1	2181	Ichthyophis bannanicus isolate H02 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KM513544.1	2181	Ichthyophis bannanicus isolate H01 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264616.1	183	Ichthyophis bannanicus voucher ZMMU:NAP-01222 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264615.1	1289	Ichthyophis bannanicus voucher ZFMK:25737 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264614.1	1296	Ichthyophis bannanicus voucher ZFMK:89285 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264613.1	1296	Ichthyophis bannanicus voucher LSUHC:8409 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264612.1	1296	Ichthyophis bannanicus voucher LSUHC:8406 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264611.1	1295	Ichthyophis bannanicus voucher LSUHC:8405 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264610.1	1295	Ichthyophis bannanicus voucher LSUHC:8404 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264608.1	1296	Ichthyophis bannanicus voucher ZMMU:FN NP34 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	KP264607.1	1296	Ichthyophis bannanicus voucher ROM:03829 cytochrome b (cytb) gene, complete cds; mitochondrial

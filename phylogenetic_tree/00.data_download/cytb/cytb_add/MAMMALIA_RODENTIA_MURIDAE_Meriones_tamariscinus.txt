@@ -1,0 +1,41 @@
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	MT024691.1	1005	Meriones tamariscinus isolate XJ505 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	NC_034314.1	16389	Meriones tamariscinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	KX688104.1	16389	Meriones tamariscinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	KT834971.1	16393	Meriones tamariscinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604782.1	1140	Meriones tamariscinus haplotype H33 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604781.1	1140	Meriones tamariscinus haplotype H32 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604780.1	1140	Meriones tamariscinus haplotype H31 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604779.1	1140	Meriones tamariscinus haplotype H30 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604778.1	1140	Meriones tamariscinus haplotype H29 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604777.1	1140	Meriones tamariscinus haplotype H28 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604776.1	1140	Meriones tamariscinus haplotype H27 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604775.1	1140	Meriones tamariscinus haplotype H26 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604774.1	1140	Meriones tamariscinus haplotype H25 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604773.1	1140	Meriones tamariscinus haplotype H24 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604772.1	1140	Meriones tamariscinus haplotype H23 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604771.1	1140	Meriones tamariscinus haplotype H22 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604770.1	1140	Meriones tamariscinus haplotype H21 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604769.1	1140	Meriones tamariscinus haplotype H20 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604768.1	1140	Meriones tamariscinus haplotype H19 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604767.1	1140	Meriones tamariscinus haplotype H18 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604766.1	1140	Meriones tamariscinus haplotype H17 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604765.1	1140	Meriones tamariscinus haplotype H16 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604764.1	1140	Meriones tamariscinus haplotype H15 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604763.1	1140	Meriones tamariscinus haplotype H14 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604762.1	1140	Meriones tamariscinus haplotype H13 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604761.1	1140	Meriones tamariscinus haplotype H12 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604760.1	1140	Meriones tamariscinus haplotype H11 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604759.1	1140	Meriones tamariscinus haplotype H10 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604758.1	1140	Meriones tamariscinus haplotype H09 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604757.1	1140	Meriones tamariscinus haplotype H08 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604756.1	1140	Meriones tamariscinus haplotype H07 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604755.1	1140	Meriones tamariscinus haplotype H06 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604754.1	1140	Meriones tamariscinus haplotype H05 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604753.1	1140	Meriones tamariscinus haplotype H04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604752.1	1140	Meriones tamariscinus haplotype H03 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604751.1	1140	Meriones tamariscinus haplotype H02 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	JN604750.1	1140	Meriones tamariscinus haplotype H01 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	AB381916.1	684	Meriones tamariscinus mitochondrial COX2 gene for cytochrome c oxidase II, partial cds, specimen_vouher: #038-2003
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	AB381906.1	1090	Meriones tamariscinus mitochondrial cytb gene for cytochrome b, partial cds, specimen_vouher: #122-2001
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	AB381905.1	1104	Meriones tamariscinus mitochondrial cytb gene for cytochrome b, partial cds, specimen_vouher: #003-2001
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	AB381904.1	1113	Meriones tamariscinus mitochondrial cytb gene for cytochrome b, partial cds, specimen_vouher: #038-2003

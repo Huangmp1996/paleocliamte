@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_lichuanensis	NC_030627.1	17702	Oreolalax lichuanensis mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_lichuanensis	KU096847.1	17702	Oreolalax lichuanensis mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_lichuanensis	EF397260.1	1779	Oreolalax lichuanensis voucher CIB-ZYC787 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_lichuanensis	EF544237.1	1939	Oreolalax lichuanensis voucher IOZCAS 2675 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,100 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MZ031532.1	202	Lycodon rufozonatus voucher BSM30 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MZ031531.1	202	Lycodon rufozonatus voucher BSM29 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MZ031530.1	202	Lycodon rufozonatus voucher BSM28 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MZ031508.1	202	Lycodon rufozonatus voucher BSM06 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MZ031459.1	658	Lycodon rufozonatus voucher BSF30 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MZ031458.1	658	Lycodon rufozonatus voucher BSF29 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MZ031457.1	658	Lycodon rufozonatus voucher BSF28 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MZ031435.1	658	Lycodon rufozonatus voucher BSF06 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH153672.1	658	Lycodon rufozonatus voucher CLS4 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH153671.1	658	Lycodon rufozonatus voucher CLS3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH153670.1	658	Lycodon rufozonatus voucher CLS2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH153669.1	658	Lycodon rufozonatus voucher CLS1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK064829.1	657	Lycodon rufozonatus voucher CHS710 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK064768.1	657	Lycodon rufozonatus voucher CHS601 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK064659.1	657	Lycodon rufozonatus voucher CHS163 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736909.1	658	Lycodon rufozonatus isolate JQS26 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736908.1	658	Lycodon rufozonatus isolate JQS43 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736907.1	658	Lycodon rufozonatus isolate JQS41 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736906.1	658	Lycodon rufozonatus isolate JQS39 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736905.1	658	Lycodon rufozonatus isolate JQS40 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736904.1	658	Lycodon rufozonatus isolate JQS44 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736903.1	658	Lycodon rufozonatus isolate JQS45 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736902.1	658	Lycodon rufozonatus isolate JQS42 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736901.1	658	Lycodon rufozonatus isolate JQS27 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736900.1	658	Lycodon rufozonatus isolate JQS25 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736899.1	658	Lycodon rufozonatus isolate JQS38 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736898.1	658	Lycodon rufozonatus isolate JQS23 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736897.1	658	Lycodon rufozonatus isolate JQS29 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736896.1	658	Lycodon rufozonatus isolate JQS24 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736895.1	658	Lycodon rufozonatus isolate JQS15 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736894.1	658	Lycodon rufozonatus isolate JQS14 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736893.1	658	Lycodon rufozonatus isolate JQS33 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736892.1	658	Lycodon rufozonatus isolate JQS30 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736891.1	658	Lycodon rufozonatus isolate JQS19 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MG736890.1	658	Lycodon rufozonatus isolate JQS35 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220719.1	658	Lycodon rufozonatus voucher CGS133 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220693.1	658	Lycodon rufozonatus voucher CGS107 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220692.1	658	Lycodon rufozonatus voucher CGS106 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220691.1	658	Lycodon rufozonatus voucher CGS105 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220690.1	658	Lycodon rufozonatus voucher CGS104 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220689.1	658	Lycodon rufozonatus voucher CGS103 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220688.1	658	Lycodon rufozonatus voucher CGS102 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220687.1	658	Lycodon rufozonatus voucher CGS101 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220686.1	658	Lycodon rufozonatus voucher CGS100 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220685.1	658	Lycodon rufozonatus voucher CGS99 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220684.1	658	Lycodon rufozonatus voucher CGS98 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220678.1	658	Lycodon rufozonatus voucher CGS92 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220677.1	658	Lycodon rufozonatus voucher CGS91 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220674.1	658	Lycodon rufozonatus voucher CGS88 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220673.1	658	Lycodon rufozonatus voucher CGS87 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220666.1	658	Lycodon rufozonatus voucher CGS80 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220651.1	658	Lycodon rufozonatus voucher CGS65 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220645.1	658	Lycodon rufozonatus voucher CGS59 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220624.1	658	Lycodon rufozonatus voucher CGS38 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220622.1	658	Lycodon rufozonatus voucher CGS36 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220615.1	658	Lycodon rufozonatus voucher CGS29 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MH220613.1	658	Lycodon rufozonatus voucher CGS27 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KU529387.1	658	Lycodon rufozonatus rufozonatus isolate RN1208 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KU529386.1	658	Lycodon rufozonatus rufozonatus isolate RN1054 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KU529385.1	658	Lycodon rufozonatus rufozonatus isolate RN1029 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KU529384.1	658	Lycodon rufozonatus rufozonatus isolate RN1011 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KU529383.1	658	Lycodon rufozonatus rufozonatus isolate RN0862 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MF099702.1	658	Lycodon rufozonatus voucher CLS26 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MF099701.1	658	Lycodon rufozonatus voucher CLS25 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MF099700.1	658	Lycodon rufozonatus voucher CLS24 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MF099699.1	658	Lycodon rufozonatus voucher CLS23 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MF099698.1	658	Lycodon rufozonatus voucher CLS03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MF099697.1	658	Lycodon rufozonatus voucher CLS02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MF099696.1	658	Lycodon rufozonatus voucher CLS01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JN833601.1	658	Dinodon rufozonatum isolate DR4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JN833600.1	658	Dinodon rufozonatum isolate DR3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JN833599.1	658	Dinodon rufozonatum isolate DR2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JN833598.1	658	Dinodon rufozonatum isolate DR1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR815563.1	658	Lycodon rufozonatus voucher SAM43 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR815558.1	658	Lycodon rufozonatus voucher SAM38 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR815552.1	658	Lycodon rufozonatus voucher SAM32 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR815549.1	658	Lycodon rufozonatus voucher SAM29 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR815538.1	658	Lycodon rufozonatus voucher SAM18 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR815537.1	658	Lycodon rufozonatus voucher SAM17 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046015.1	658	Lycodon rufozonatus voucher SR164 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046014.1	658	Lycodon rufozonatus voucher SR163 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046013.1	658	Lycodon rufozonatus voucher SR162 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046012.1	658	Lycodon rufozonatus voucher SR161 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046011.1	658	Lycodon rufozonatus voucher SR160 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046010.1	658	Lycodon rufozonatus voucher SR158 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046003.1	658	Lycodon rufozonatus voucher SR147 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046002.1	658	Lycodon rufozonatus voucher SR146 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046001.1	658	Lycodon rufozonatus voucher SR145 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR046000.1	658	Lycodon rufozonatus voucher SR144 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045999.1	658	Lycodon rufozonatus voucher SR143 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045904.1	658	Lycodon rufozonatus voucher SR40 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045903.1	658	Lycodon rufozonatus voucher SR39 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045902.1	658	Lycodon rufozonatus voucher SR38 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045901.1	658	Lycodon rufozonatus voucher SR37 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045900.1	658	Lycodon rufozonatus voucher SR36 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045899.1	658	Lycodon rufozonatus voucher SR35 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045872.1	658	Lycodon rufozonatus voucher SR8 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KR045865.1	658	Lycodon rufozonatus voucher SR1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF148622.1	17189	Dinodon rufozonatum mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	NC_024559.1	17188	Lycodon rufozonatus mitochondrion, complete genome

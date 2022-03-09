@@ -1,0 +1,13 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	MH345727.1	16620	Procapra picticaudata mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679009.1	644	Procapra picticaudata isolate TB2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679008.1	644	Procapra picticaudata isolate TB1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679007.1	644	Procapra picticaudata isolate DL8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679006.1	644	Procapra picticaudata isolate DL7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679005.1	644	Procapra picticaudata isolate DL6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679004.1	644	Procapra picticaudata isolate DL5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679003.1	644	Procapra picticaudata isolate DL3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679002.1	644	Procapra picticaudata isolate DL2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679001.1	644	Procapra picticaudata isolate DL1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC679000.1	644	Procapra picticaudata isolate AJ3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC678999.1	644	Procapra picticaudata isolate AJ2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	KC678998.1	644	Procapra picticaudata isolate AJ1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

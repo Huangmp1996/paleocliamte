@@ -1,0 +1,36 @@
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	GU433953.1	916	Aegithalos fuliginosus isolate MAR812 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	GU433952.1	915	Aegithalos fuliginosus isolate MAR809 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	GU433942.1	997	Aegithalos fuliginosus isolate MAR706 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	NC_024266.1	17953	Aegithalos fuliginosus mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KF951086.1	17953	Aegithalos fuliginosus mitochondrion, complete genome
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790672.1	979	Aegithalos fuliginosus voucher IOZ16646 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790671.1	979	Aegithalos fuliginosus voucher IOZ16645 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790670.1	979	Aegithalos fuliginosus voucher IOZ16644 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790669.1	979	Aegithalos fuliginosus voucher IOZ16643 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790668.1	979	Aegithalos fuliginosus voucher IOZ16642 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790667.1	979	Aegithalos fuliginosus voucher IOZ16636 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790666.1	979	Aegithalos fuliginosus voucher IOZ16635 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790665.1	979	Aegithalos fuliginosus voucher IOZ16634 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790664.1	979	Aegithalos fuliginosus voucher IOZ16633 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790663.1	979	Aegithalos fuliginosus voucher IOZ16632 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790662.1	979	Aegithalos fuliginosus voucher IOZ16727 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790661.1	979	Aegithalos fuliginosus voucher IOZ16726 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790660.1	979	Aegithalos fuliginosus voucher IOZ16725 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790659.1	979	Aegithalos fuliginosus voucher IOZ16724 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790658.1	979	Aegithalos fuliginosus voucher IOZ16723 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790657.1	979	Aegithalos fuliginosus voucher IOZ16722 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790656.1	979	Aegithalos fuliginosus voucher IOZ16721 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790655.1	979	Aegithalos fuliginosus voucher IOZ2476 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790654.1	979	Aegithalos fuliginosus voucher IOZ16260 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790653.1	979	Aegithalos fuliginosus voucher IOZ16309 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790652.1	979	Aegithalos fuliginosus voucher IOZ16259 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790651.1	979	Aegithalos fuliginosus voucher IOZ2477 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790650.1	979	Aegithalos fuliginosus voucher IOZ2478 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790649.1	979	Aegithalos fuliginosus voucher IOZ2505 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790648.1	979	Aegithalos fuliginosus voucher IOZ2507 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790647.1	979	Aegithalos fuliginosus voucher IOZ2508 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790646.1	979	Aegithalos fuliginosus voucher IOZ2509 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790645.1	979	Aegithalos fuliginosus voucher IOZ2510 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790644.1	979	Aegithalos fuliginosus voucher IOZ2511 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790643.1	979	Aegithalos fuliginosus voucher IOZ2512 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_fuliginosus	KJ790642.1	979	Aegithalos fuliginosus voucher IOZ2513 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,0 +1,11 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	MK483118.1	20120	Rana omeimontis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KU246050.1	19934	Rana omeimontis voucher YC-EMLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	NC_035805.1	19934	Rana omeimontis voucher YC-EMLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KX024977.1	587	Rana omeimontis voucher SYNU08060314 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	JF939118.1	733	Rana omeimontis voucher KIZSC148 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	JF939109.1	733	Rana omeimontis voucher KIZ02424 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	AF274928.1	417	Rana omeimontis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KX269340.1	834	Rana omeimontis isolate SCUM0405196CJ cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KF204661.1	588	Rana omeimontis voucher SYNU08060317 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KF204660.1	588	Rana omeimontis voucher SYNU08060315 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KF204659.1	588	Rana omeimontis voucher SYNU08060314 cytochrome b (cytb) gene, partial cds; mitochondrial

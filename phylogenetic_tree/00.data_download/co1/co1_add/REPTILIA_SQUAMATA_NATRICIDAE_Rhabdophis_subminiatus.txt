@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MK064843.1	657	Rhabdophis subminiatus voucher CHS732 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	MH107859.1	657	Rhabdophis subminiatus voucher PUCZM/X/SL784 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	AB920232.1	709	Rhabdophis subminiatus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: RSU3
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	AB920231.1	708	Rhabdophis subminiatus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: RSU2
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_subminiatus	AB920230.1	702	Rhabdophis subminiatus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: RSU1

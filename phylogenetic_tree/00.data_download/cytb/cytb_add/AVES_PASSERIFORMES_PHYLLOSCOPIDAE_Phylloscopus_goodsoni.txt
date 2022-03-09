@@ -1,0 +1,19 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	MT921116.1	670	Phylloscopus goodsoni isolate 1A01944 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	MH079282.1	1077	Phylloscopus goodsoni goodsoni voucher KU 10387 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	MH079281.1	1037	Phylloscopus goodsoni goodsoni voucher IOZ 20409 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656228.1	1038	Phylloscopus goodsoni goodsoni isolate Yao cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656227.1	1038	Phylloscopus goodsoni goodsoni isolate HK cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656226.1	1038	Phylloscopus goodsoni goodsoni isolate 2_BBS1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656225.1	1038	Phylloscopus goodsoni goodsoni isolate 1_BBS2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656223.1	1038	Phylloscopus goodsoni fokiensis isolate 293 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656222.1	1038	Phylloscopus goodsoni fokiensis isolate 292 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656221.1	1038	Phylloscopus goodsoni fokiensis isolate 115 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656220.1	1038	Phylloscopus goodsoni fokiensis isolate 95 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	AY656219.1	1038	Phylloscopus goodsoni fokiensis isolate 054 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	EU851081.1	851	Phylloscopus goodsoni isolate MAR5710 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	EU771050.1	655	Phylloscopus goodsoni isolate MAR5736 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	EU771049.1	655	Phylloscopus goodsoni isolate MAR5711 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	EU771048.1	655	Phylloscopus goodsoni isolate MAR4927 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	EU771047.1	655	Phylloscopus goodsoni isolate MAR4924 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	EU771046.1	655	Phylloscopus goodsoni isolate MAR5729 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_goodsoni	EU771045.1	655	Phylloscopus goodsoni isolate MAR5710 cytochrome b (cytb) gene, partial cds; mitochondrial

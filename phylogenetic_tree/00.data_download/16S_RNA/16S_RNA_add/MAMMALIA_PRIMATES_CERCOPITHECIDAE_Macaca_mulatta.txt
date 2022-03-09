@@ -1,0 +1,60 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	LC496787.1	16582	Macaca mulatta mitochondrial DNA, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	MW947490.1	243	Macaca mulatta voucher AIWC 242 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	MN647048.1	557	Macaca mulatta isolate MMU1 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY011165.1	804	Macaca mulatta 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	NC_037466.1	16565	Macaca mulatta vestita mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	KX686496.1	16565	Macaca mulatta vestita mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY612638.1	16564	Macaca mulatta mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	KJ567053.1	16564	Macaca mulatta mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	KJ567051.1	16555	Macaca mulatta mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	KF830702.1	16561	Macaca mulatta lasiotus mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	JQ821843.1	16564	Macaca mulatta mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DQ334829.1	1039	Macaca mulatta cell-line CCL-208 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399507.1	1471	Macaca mulatta isolate Mm ULL5 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399506.1	1471	Macaca mulatta isolate Mm ULL4 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399505.1	1471	Macaca mulatta isolate Mm ULL3 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399504.1	1473	Macaca mulatta isolate Mm ULL2 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399503.1	1473	Macaca mulatta isolate Mm ULL1 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399489.1	1471	Macaca mulatta isolate mm 425.01 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399488.1	1471	Macaca mulatta isolate mm 374.03 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399487.1	1471	Macaca mulatta isolate mm 288.02 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399486.1	1472	Macaca mulatta isolate 23535 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399485.1	1471	Macaca mulatta isolate mm 228.99 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399484.1	1472	Macaca mulatta isolate 21693 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399483.1	1472	Macaca mulatta isolate 20580 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399482.1	1471	Macaca mulatta isolate 20330 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399480.1	1471	Macaca mulatta isolate mm 182.92 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	EU399479.1	1471	Macaca mulatta isolate 17414 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY835612.1	552	Macaca mulatta 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360318.1	551	Macaca mulatta isolate AC85 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360317.1	551	Macaca mulatta isolate AC2E 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360316.1	551	Macaca mulatta isolate 24453 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360315.1	551	Macaca mulatta isolate 24450 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360314.1	551	Macaca mulatta isolate 33617 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360313.1	551	Macaca mulatta isolate 33608 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360312.1	551	Macaca mulatta isolate 33607 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360311.1	551	Macaca mulatta isolate 25311 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360310.1	551	Macaca mulatta isolate 23274 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360309.1	551	Macaca mulatta isolate 23276 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360308.1	551	Macaca mulatta isolate 31437 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360307.1	551	Macaca mulatta isolate 24670 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360306.1	551	Macaca mulatta isolate 23007 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360305.1	551	Macaca mulatta isolate M9 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360304.1	551	Macaca mulatta isolate I741 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360303.1	551	Macaca mulatta isolate H517 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360302.1	551	Macaca mulatta isolate 32038 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360301.1	551	Macaca mulatta isolate 32018 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360300.1	551	Macaca mulatta isolate PR523 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360299.1	551	Macaca mulatta isolate 61 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360298.1	551	Macaca mulatta isolate 51 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360297.1	551	Macaca mulatta isolate RQ554 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360296.1	551	Macaca mulatta isolate A13N 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360295.1	551	Macaca mulatta isolate 5S7 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360294.1	551	Macaca mulatta isolate 84320 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360293.1	550	Macaca mulatta isolate PR539 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY360292.1	551	Macaca mulatta isolate L547 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AF424953.1	1493	Macaca mulatta isolate 944D 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AF424952.1	1493	Macaca mulatta isolate 92B.560 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AF424951.1	1493	Macaca mulatta isolate 16805 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AF424950.1	1494	Macaca mulatta isolate 20156 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AF424949.1	1495	Macaca mulatta isolate 23269 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

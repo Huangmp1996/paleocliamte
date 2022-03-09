@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	MN122910.1	16748	Turdus merula mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	NC_028188.1	16733	Turdus merula voucher TMER20150704V3 mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KT601060.1	16730	Turdus merula mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KT373849.1	16733	Turdus merula voucher TMER20150704V3 mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	KC984219.1	217	Turdus merula 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_merula	DQ916153.1	558	Turdus merula 16S ribosomal RNA gene, partial sequence; mitochondrial

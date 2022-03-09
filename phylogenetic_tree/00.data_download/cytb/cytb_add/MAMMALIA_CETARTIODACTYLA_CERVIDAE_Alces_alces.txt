@@ -1,0 +1,71 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MF784604.1	16418	Alces alces haplotype H22 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MF784603.1	16418	Alces alces haplotype H17 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MF784602.1	16418	Alces alces haplotype H13 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MF784601.1	16418	Alces alces haplotype H12 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MF784600.1	16418	Alces alces haplotype H6 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MF784599.1	16418	Alces alces haplotype H3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MF784598.1	16418	Alces alces haplotype H2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MF784597.1	16418	Alces alces haplotype H1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644928.1	16206	Alces alces isolate 12_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644927.1	16206	Alces alces isolate 07_02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644926.1	16206	Alces alces isolate 15_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644925.1	16206	Alces alces isolate 03_06 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644924.1	16206	Alces alces isolate 10_12 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644923.1	16206	Alces alces isolate 10_09 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644922.1	16183	Alces alces isolate 25_10 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644921.1	16183	Alces alces isolate 25_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644920.1	16206	Alces alces isolate 26_10 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644919.1	16206	Alces alces isolate 26_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644918.1	16206	Alces alces isolate 10_13 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644917.1	16206	Alces alces isolate 24_03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644916.1	16206	Alces alces isolate 24_02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644915.1	16206	Alces alces isolate 24_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644914.1	16206	Alces alces isolate 14_08 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644913.1	16206	Alces alces isolate 14_07 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644912.1	16206	Alces alces isolate 14_02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644911.1	16206	Alces alces isolate 14_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644910.1	16206	Alces alces isolate 19_06 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644909.1	16206	Alces alces isolate 10_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644908.1	16206	Alces alces isolate 20_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644907.1	16206	Alces alces isolate 09_03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644906.1	16206	Alces alces isolate 15_08 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644905.1	16206	Alces alces isolate 15_06 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644904.1	16206	Alces alces isolate 15_02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644903.1	16206	Alces alces isolate 16_08 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644902.1	16206	Alces alces isolate 16_07 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644901.1	16206	Alces alces isolate 16_03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644900.1	16206	Alces alces isolate 12_09 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644899.1	16206	Alces alces isolate 18_10 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644898.1	16206	Alces alces isolate 17_09 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644897.1	16206	Alces alces isolate 17_07 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644896.1	16206	Alces alces isolate 17_04 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644895.1	16206	Alces alces isolate 17_03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644894.1	16206	Alces alces isolate 21_06 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644893.1	16206	Alces alces isolate 21_05 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644892.1	16206	Alces alces isolate 23_06 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644891.1	16206	Alces alces isolate 23_05 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644890.1	16206	Alces alces isolate 23_03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	MK644889.1	16206	Alces alces isolate 23_01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	HQ122569.1	517	Alces alces cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY090105.1	403	Alces alces haplotype Europe2 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY090104.1	403	Alces alces haplotype Europe1 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY090103.1	403	Alces alces haplotype Asia4 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY090102.1	403	Alces alces haplotype Asia3 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY090101.1	403	Alces alces haplotype Asia2 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY090100.1	403	Alces alces haplotype Asia1 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY090099.1	403	Alces alces haplotype North America cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY840103.1	291	Alces alces cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AF040383.1	310	Alces alces cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY245520.1	299	Alces alces cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY035873.1	1140	Alces alces pfitzmayeri cytochrome B (cytB) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AY035872.1	1140	Alces alces cameloides cytochrome B (cytB) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	JN632595.1	16417	Alces alces isolate Kazakhstan mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	KP405229.1	16418	Alces alces cameloides isolate Moose-14-12 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	KC337273.1	1140	Alces alces haplotype H4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	KC337272.1	1140	Alces alces haplotype H3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	KC337271.1	1140	Alces alces haplotype H2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	KC337270.1	1140	Alces alces haplotype H1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	NC_020677.1	16417	Alces alces isolate Kazakhstan mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	JF489131.1	1140	Alces alces cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	EF077657.1	307	Alces alces cytochrome b (cytb) gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Alces_alces	AJ000026.1	1140	Alces alces mitochondrial cytb gene

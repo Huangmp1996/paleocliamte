@@ -1,0 +1,28 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	MT773155.1	540	Vanellus vanellus isolate 4Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GQ482909.1	694	Vanellus vanellus voucher UWBM 59768 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KY754558.1	697	Vanellus vanellus voucher Bird10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	JF499177.1	694	Vanellus vanellus voucher USNM:641778 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	JF499176.1	694	Vanellus vanellus voucher USNM:641781 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GU572161.1	648	Vanellus vanellus voucher BISE-Aves240 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GU572160.1	648	Vanellus vanellus voucher BISE-Aves287 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GU572159.1	648	Vanellus vanellus voucher BISE-Aves288 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GU571686.1	706	Vanellus vanellus voucher NHMO-BC314 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GU571685.1	716	Vanellus vanellus voucher NHMO-BC316 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GQ482910.1	694	Vanellus vanellus voucher UWBM 60142 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GQ482908.1	694	Vanellus vanellus voucher UWBM 49187 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GQ482907.1	694	Vanellus vanellus voucher UWBM 46397 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	GQ482906.1	694	Vanellus vanellus voucher UWBM 46383 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	FJ661091.1	672	Vanellus vanellus voucher AHNU:Y06052 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	AB843839.1	654	Vanellus vanellus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO064-10
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	NC_025637.1	16795	Vanellus vanellus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KM577158.1	16795	Vanellus vanellus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KF946937.1	667	Vanellus vanellus voucher ZMA58791 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KF946936.1	652	Vanellus vanellus voucher ZMA58790 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KF946935.1	668	Vanellus vanellus voucher ZMA58789 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KF946934.1	693	Vanellus vanellus voucher ZMA58788 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KF946933.1	693	Vanellus vanellus voucher ZMA58787 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KF946932.1	693	Vanellus vanellus voucher ZMA58786 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KF946931.1	668	Vanellus vanellus voucher ZMA58785 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	KF946930.1	693	Vanellus vanellus voucher ZMA58784 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	JQ342134.1	914	Vanellus vanellus isolate FTMJ1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_vanellus	JN801393.1	644	Vanellus vanellus voucher USNM 621342 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	MT366880.1	16772	Phoenicurus auroreus mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	GQ482372.1	694	Phoenicurus auroreus voucher UWBM 59769 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	GQ482370.1	694	Phoenicurus auroreus voucher UWBM 60170 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	JF499158.1	637	Phoenicurus auroreus voucher USNM:641793 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	JF499157.1	668	Phoenicurus auroreus voucher USNM:641794 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	JF499156.1	637	Phoenicurus auroreus voucher USNM:641882 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	GQ482374.1	694	Phoenicurus auroreus voucher UWBM 46349 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	GQ482373.1	694	Phoenicurus auroreus voucher UWBM 47090 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	GQ482371.1	694	Phoenicurus auroreus voucher UWBM 46901 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	EF515793.1	686	Phoenicurus auroreus voucher KRIBB2805 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	NC_026066.1	16772	Phoenicurus auroreus mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	KF997863.1	16772	Phoenicurus auroreus mitochondrion, complete genome

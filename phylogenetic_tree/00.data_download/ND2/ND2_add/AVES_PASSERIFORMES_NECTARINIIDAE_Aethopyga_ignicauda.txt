@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_ignicauda	KJ455309.1	1041	Aethopyga ignicauda NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_ignicauda	KC122450.1	1041	Aethopyga ignicauda voucher KU5649 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_ignicauda	KC122449.1	1041	Aethopyga ignicauda voucher KU15233 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

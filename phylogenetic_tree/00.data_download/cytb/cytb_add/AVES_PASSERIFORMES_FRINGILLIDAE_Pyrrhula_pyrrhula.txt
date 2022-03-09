@@ -1,0 +1,55 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KY378774.1	1125	Pyrrhula pyrrhula voucher L361 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AF342886.1	924	Pyrrhula pyrrhula cineracea cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	DQ236216.1	650	Pyrrhula pyrrhula clone ppy-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	DQ236215.1	482	Pyrrhula pyrrhula cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	DQ192020.1	1143	Pyrrhula pyrrhula cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	AF342881.2	924	Pyrrhula pyrrhula griseiventris cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284630.1	902	Pyrrhula pyrrhula cineracea isolate Pcin7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284629.1	911	Pyrrhula pyrrhula cineracea isolate Pcin6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284628.1	910	Pyrrhula pyrrhula cineracea isolate Pcin5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284627.1	924	Pyrrhula pyrrhula cineracea isolate Pcin3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284626.1	924	Pyrrhula pyrrhula cineracea isolate Pcin2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284625.1	265	Pyrrhula pyrrhula cineracea isolate Pcin1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284624.1	924	Pyrrhula pyrrhula griseiventris isolate Pgri4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284623.1	924	Pyrrhula pyrrhula griseiventris isolate Pgri3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284622.1	924	Pyrrhula pyrrhula griseiventris isolate Pgri1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284621.1	711	Pyrrhula pyrrhula griseiventris isolate Pgri2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284620.1	897	Pyrrhula pyrrhula pyrrhula isolate Ppyr63 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284619.1	899	Pyrrhula pyrrhula pileata isolate Ppyr61 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284618.1	911	Pyrrhula pyrrhula pileata isolate Ppyr59 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284617.1	918	Pyrrhula pyrrhula pileata isolate Ppyr55 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284616.1	888	Pyrrhula pyrrhula europoea isolate Ppyr50 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284615.1	846	Pyrrhula pyrrhula europoea isolate Ppyr47 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284614.1	866	Pyrrhula pyrrhula europoea isolate Ppyr45 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284613.1	890	Pyrrhula pyrrhula pyrrhula isolate Ppyr42 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284612.1	901	Pyrrhula pyrrhula pyrrhula isolate Ppyr41 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284611.1	893	Pyrrhula pyrrhula pyrrhula isolate Ppyr39 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284610.1	883	Pyrrhula pyrrhula pyrrhula isolate Ppyr38 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284609.1	860	Pyrrhula pyrrhula pyrrhula isolate Ppyr37 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284608.1	883	Pyrrhula pyrrhula pyrrhula isolate Ppyr36 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284607.1	883	Pyrrhula pyrrhula pyrrhula isolate Ppyr35Wdh cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284606.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr34 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284605.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr29 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284604.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr28 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284603.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr27 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284602.1	901	Pyrrhula pyrrhula europoea isolate Ppyr26 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284601.1	924	Pyrrhula pyrrhula europoea isolate Ppyr25 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284600.1	924	Pyrrhula pyrrhula europoea isolate Ppyr24 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284599.1	924	Pyrrhula pyrrhula europoea isolate Ppyr23 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284598.1	924	Pyrrhula pyrrhula europoea isolate Ppyr22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284597.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr21 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284596.1	924	Pyrrhula pyrrhula europoea isolate Ppyr20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284595.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr19 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284594.1	878	Pyrrhula pyrrhula pyrrhula isolate Ppyr17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284593.1	872	Pyrrhula pyrrhula pyrrhula isolate Ppyr13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284592.1	480	Pyrrhula pyrrhula pyrrhula isolate Ppyr11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284591.1	902	Pyrrhula pyrrhula pyrrhula isolate Ppyr9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284590.1	909	Pyrrhula pyrrhula europoea isolate Ppyr8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284589.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284588.1	924	Pyrrhula pyrrhula pileata isolate Ppyr4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284587.1	711	Pyrrhula pyrrhula pyrrhula isolate Ppyr3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284586.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284585.1	924	Pyrrhula pyrrhula pyrrhula isolate Ppyr1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	U18860.1	307	Pyrrhula pyrrhula cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KM078804.1	16831	Pyrrhula pyrrhula mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	NC_025625.1	16831	Pyrrhula pyrrhula mitochondrion, complete genome

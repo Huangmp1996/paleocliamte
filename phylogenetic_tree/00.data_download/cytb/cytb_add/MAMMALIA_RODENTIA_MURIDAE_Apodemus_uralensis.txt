@@ -1,0 +1,98 @@
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MN049939.1	856	Apodemus uralensis isolate H7-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MN049938.1	856	Apodemus uralensis isolate H6-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MN454325.1	1177	Apodemus uralensis isolate WLE483 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MN454324.1	1177	Apodemus uralensis isolate WLE445 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MN454323.1	1177	Apodemus uralensis isolate WLE9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329486.1	1046	Apodemus uralensis isolate JH098 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329485.1	1046	Apodemus uralensis isolate JH097 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329484.1	1046	Apodemus uralensis isolate JH050 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329483.1	1046	Apodemus uralensis isolate JH004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329482.1	1046	Apodemus uralensis isolate JH003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329481.1	1046	Apodemus uralensis isolate JH002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK938308.1	394	Apodemus uralensis voucher Gudauri87 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK938307.1	409	Apodemus uralensis voucher Gudauri66 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK938306.1	409	Apodemus uralensis voucher Akhmeta76 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748241.1	1072	Apodemus uralensis isolate XJ016 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748240.1	1072	Apodemus uralensis isolate XJ015 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748221.1	1071	Apodemus uralensis isolate XJ296 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748220.1	1071	Apodemus uralensis isolate XJ294 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748218.1	1071	Apodemus uralensis isolate XJ126 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748216.1	1071	Apodemus uralensis isolate XJ101 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748215.1	1071	Apodemus uralensis isolate XJ069 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748212.1	1071	Apodemus uralensis isolate XJ044 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748211.1	1071	Apodemus uralensis isolate XJ043 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748210.1	1071	Apodemus uralensis isolate XJ041 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748209.1	1071	Apodemus uralensis isolate XJ014 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MG748208.1	1071	Apodemus uralensis isolate XJ011 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001681.1	838	Apodemus uralensis haplotype 90 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001680.1	838	Apodemus uralensis haplotype 89 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001679.1	838	Apodemus uralensis haplotype 88 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001678.1	838	Apodemus uralensis haplotype 57 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001677.1	838	Apodemus uralensis haplotype 56 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001676.1	838	Apodemus uralensis haplotype 55 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001675.1	838	Apodemus uralensis haplotype 47 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001674.1	838	Apodemus uralensis haplotype 46 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001673.1	838	Apodemus uralensis haplotype 40 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001672.1	838	Apodemus uralensis haplotype 39 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001671.1	838	Apodemus uralensis haplotype 38 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001670.1	838	Apodemus uralensis haplotype 32 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001669.1	838	Apodemus uralensis haplotype 31 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001668.1	838	Apodemus uralensis haplotype 15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001667.1	838	Apodemus uralensis haplotype 14 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KY001666.1	838	Apodemus uralensis haplotype 13 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AY532800.1	349	Apodemus uralensis isolate TK125101 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AY532799.1	392	Apodemus uralensis isolate TK125100 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AY389021.1	1140	Apodemus uralensis isolate IOZAU001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF127541.1	477	Apodemus microps TK55857 cytochrome b (cyt b) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF159393.1	1144	Apodemus microps cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	EF016785.1	392	Apodemus uralensis haplotype Au 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	EF016784.1	392	Apodemus uralensis haplotype Au 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	EF016783.1	392	Apodemus uralensis haplotype Au 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	EF016782.1	392	Apodemus uralensis haplotype Au 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF249760.1	275	Apodemus uralensis isolate 17 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF249759.1	275	Apodemus uralensis isolate 16 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF249758.1	275	Apodemus uralensis isolate 11 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF249757.1	275	Apodemus uralensis isolate 10 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF249756.1	275	Apodemus uralensis isolate 29 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF249755.1	275	Apodemus uralensis isolate 27 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF249754.1	275	Apodemus uralensis isolate 115 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	AF249753.1	275	Apodemus uralensis isolate 114 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844685.1	422	Apodemus uralensis isolate Smolensk04-7 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844686.1	422	Apodemus uralensis isolate Smolensk04-107 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844684.1	422	Apodemus uralensis isolate Smolensk04-4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844683.1	422	Apodemus uralensis isolate Saratov7 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844682.1	422	Apodemus uralensis isolate Saratov3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844681.1	422	Apodemus uralensis isolate Tver cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844680.1	422	Apodemus uralensis isolate Moscow03-177 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844679.1	422	Apodemus uralensis isolate Moscow03-176 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844678.1	422	Apodemus uralensis isolate Moscow03-175 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844677.1	422	Apodemus uralensis isolate Tula25 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844676.1	422	Apodemus uralensis isolate Tula19 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844675.1	422	Apodemus uralensis isolate Tula5 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844674.1	422	Apodemus uralensis isolate Tula3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844673.1	422	Apodemus uralensis isolate Tula2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844672.1	422	Apodemus uralensis isolate Voronezh311 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844671.1	422	Apodemus uralensis isolate Voronezh6 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	DQ844670.1	422	Apodemus uralensis isolate Krasnodar cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KR003083.1	1076	Apodemus uralensis haplotype Hap 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KR003082.1	1076	Apodemus uralensis haplotype Hap 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KR003081.1	1076	Apodemus uralensis haplotype Hap 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KR003080.1	1076	Apodemus uralensis haplotype Hap 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839610.1	1056	Apodemus uralensis isolate s#08/GXIIIa cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839609.1	1056	Apodemus uralensis isolate s#082/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839608.1	1056	Apodemus uralensis isolate s#081/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839607.1	1056	Apodemus uralensis isolate s#080/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839606.1	1056	Apodemus uralensis isolate s#061/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839605.1	1056	Apodemus uralensis isolate s#038/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839604.1	1056	Apodemus uralensis isolate s#037/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839603.1	1056	Apodemus uralensis isolate s#036/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839602.1	1056	Apodemus uralensis isolate s#035/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839601.1	1056	Apodemus uralensis isolate s#034/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839600.1	1056	Apodemus uralensis isolate s#011/KXIII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839599.1	1056	Apodemus uralensis isolate s#094/KXII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839598.1	1056	Apodemus uralensis isolate s#093/KXII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839597.1	1056	Apodemus uralensis isolate s#062/KXII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839596.1	1056	Apodemus uralensis isolate s#061/KXII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839595.1	1056	Apodemus uralensis isolate s#060/KXII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839594.1	1056	Apodemus uralensis isolate s#059/KXII cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF839593.1	1056	Apodemus uralensis isolate s#004/KXII cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KM078781.1	16818	Pinicola enucleator mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	NC_025609.1	16818	Pinicola enucleator mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HQ284755.1	823	Pinicola enucleator enucleator isolate Pine3-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HQ284754.1	823	Pinicola enucleator enucleator isolate Pine1-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial

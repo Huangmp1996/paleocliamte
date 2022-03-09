@@ -1,0 +1,44 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	MT808303.1	546	Kurixalus verrucosus voucher MZMU1408 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	MT632252.1	555	Kurixalus verrucosus voucher ZSIS-M48 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	MN519706.1	557	Kurixalus verrucosus voucher ZSIS-M51 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KU589225.2	518	Kurixalus verrucosus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554502.1	858	Kurixalus verrucosus voucher Rao 14102913 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554501.1	858	Kurixalus verrucosus voucher Rao 14102912 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554500.1	858	Kurixalus verrucosus voucher Rao 14102911 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554499.1	858	Kurixalus verrucosus voucher Rao 14102910 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554498.1	858	Kurixalus verrucosus voucher Rao 14102909 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554497.1	858	Kurixalus verrucosus voucher Rao 14102908 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554496.1	858	Kurixalus verrucosus voucher Rao 14102906 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554495.1	858	Kurixalus verrucosus voucher Rao 14102905 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554494.1	858	Kurixalus verrucosus voucher Rao 14102904 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554493.1	858	Kurixalus verrucosus voucher Rao 14102903 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554492.1	858	Kurixalus verrucosus voucher Rao 14102902 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554491.1	858	Kurixalus verrucosus voucher Rao 14102901 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554490.1	859	Kurixalus verrucosus voucher Rao 06308 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554489.1	859	Kurixalus verrucosus voucher Rao 06306 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554488.1	859	Kurixalus verrucosus voucher Rao 06305 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554487.1	859	Kurixalus verrucosus voucher Rao 06304 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554486.1	859	Kurixalus verrucosus voucher Rao 06303 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554485.1	859	Kurixalus verrucosus voucher Rao 06302 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554484.1	859	Kurixalus verrucosus voucher Rao 06301 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554483.1	859	Kurixalus verrucosus voucher Rao 06203 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554482.1	859	Kurixalus verrucosus voucher Rao 06202 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554481.1	859	Kurixalus verrucosus voucher Rao 06201 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554480.1	859	Kurixalus verrucosus voucher Rao 06196 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554479.1	859	Kurixalus verrucosus voucher Rao 06195 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554478.1	859	Kurixalus verrucosus voucher Rao 06194 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KX554477.1	859	Kurixalus verrucosus voucher Rao 06193 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KC465825.1	1946	Kurixalus verrucosus voucher RAO 6305 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KC465824.1	1946	Kurixalus verrucosus voucher RAO 6306 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KC465823.1	1942	Kurixalus verrucosus voucher CAS:HERP:231489 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	KC465822.1	1949	Kurixalus verrucosus voucher CAS:HERP:224381 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	AF285227.1	554	Rhacophorus verrucosus TZ98111 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	AF285226.1	541	Rhacophorus verrucosus TZ378 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	EU178093.1	942	Rhacophorus verrucosus isolate 0695KurVer 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	GU227333.1	851	Rhacophorus verrucosus isolate CAS231491 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	GU227332.1	851	Rhacophorus verrucosus isolate CAS231489 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	GU227331.1	853	Rhacophorus verrucosus isolate CAS225128 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	GU227330.1	853	Rhacophorus verrucosus isolate CAS224563 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	GU227329.1	853	Rhacophorus verrucosus isolate CAS224381 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	EU178086.1	402	Rhacophorus verrucosus isolate 0695KurVer 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_verrucosus	DQ286999.1	586	Rhacophorus verrucosus voucher CAS 231491 16S ribosomal RNA gene, partial sequence; mitochondrial

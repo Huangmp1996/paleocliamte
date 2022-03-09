@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_griseisticta	NC_045181.1	17897	Muscicapa griseisticta mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_griseisticta	MK390479.1	17897	Muscicapa griseisticta mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_griseisticta	GQ482219.1	675	Muscicapa griseisticta voucher UWBM 44145 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_griseisticta	GQ482218.1	669	Muscicapa griseisticta voucher UWBM 44071 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_griseisticta	GQ482217.1	663	Muscicapa griseisticta voucher UWBM 58404 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_griseisticta	KM924373.1	458	Muscicapa griseisticta isolate 58404 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_griseisticta	KM924372.1	590	Muscicapa griseisticta isolate 44144 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_griseisticta	KM924371.1	614	Muscicapa griseisticta isolate 44071 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	NC_051558.1	16914	Nucifraga caryocatactes mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	MT506195.1	16914	Nucifraga caryocatactes mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	KJ456365.1	1143	Nucifraga caryocatactes voucher ZMUC:116112 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Nucifraga_caryocatactes	U86041.1	925	Nucifraga caryocatactes cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

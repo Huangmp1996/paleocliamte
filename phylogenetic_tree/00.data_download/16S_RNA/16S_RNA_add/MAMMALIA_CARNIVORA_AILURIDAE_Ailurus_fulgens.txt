@@ -1,0 +1,7 @@
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	MK886830.1	16517	Ailurus fulgens mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	MG053422.1	491	Ailurus fulgens isolate FMT_13 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	NC_011124.1	16493	Ailurus fulgens mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	NC_009691.1	16374	Ailurus fulgens styani mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AM711897.1	16493	Ailurus fulgens complete mitochondrial genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AB291074.1	16374	Ailurus fulgens styani mitochondrial DNA, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AF306946.1	545	Ailurus fulgens 16S ribosomal RNA gene, partial sequence

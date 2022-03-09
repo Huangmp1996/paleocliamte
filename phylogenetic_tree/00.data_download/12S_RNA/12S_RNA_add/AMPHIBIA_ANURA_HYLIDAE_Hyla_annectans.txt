@@ -1,0 +1,54 @@
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KM271781.1	17973	Hyla annectans mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742570.1	905	Hyla annectans isolate Guizhou2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742569.1	905	Hyla annectans isolate Guizhou1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742568.1	901	Hyla annectans isolate Junlian_Sichuan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742567.1	903	Hyla annectans isolate Junlian_Sichuan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742566.1	905	Hyla annectans isolate Chuanxi_Yuexi_Sichuan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742565.1	905	Hyla annectans isolate Chuanxi_Yuexi_Sichuan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742564.1	893	Hyla annectans isolate Jingdong_Lijiang_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742563.1	905	Hyla annectans isolate Wuling_Xuanhan_Sichuan5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742562.1	905	Hyla annectans isolate Wuling_Xuanhan_Sichuan4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742561.1	905	Hyla annectans isolate Wuling_Xuanhan_Sichuan3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742560.1	905	Hyla annectans isolate Wuling_Xuanhan_Sichuan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742559.1	905	Hyla annectans isolate Wuling_Xuanhan_Sichuan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742558.1	903	Hyla annectans isolate Wuling_Nanchuan_Chongqing5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742557.1	903	Hyla annectans isolate Wuling_Nanchuan_Chongqing4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742556.1	904	Hyla annectans isolate Wuling_Nanchuan_Chongqing3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742555.1	899	Hyla annectans isolate Wuling_Nanchuan_Chongqing2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742554.1	905	Hyla annectans isolate Wuling_Nanchuan_Chongqing1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742553.1	899	Hyla annectans isolate Wuling_Youyang_Chongqing 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742552.1	904	Hyla annectans isolate Binchuan_Yunnan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742551.1	904	Hyla annectans isolate Ningliang_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742550.1	905	Hyla annectans isolate Lvfeng_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742549.1	905	Hyla annectans isolate Zhaotong_Yunnan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742548.1	905	Hyla annectans isolate Zhaotong_Yunnan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742547.1	905	Hyla annectans isolate Yuexi_Sichuan3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742546.1	905	Hyla annectans isolate Yuexi_Sichuan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742545.1	905	Hyla annectans isolate Mile_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742544.1	904	Hyla annectans isolate Kunming_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742543.1	902	Hyla annectans isolate Menghai_Yunnan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742542.1	902	Hyla annectans isolate Menghai_Yunnan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742541.1	903	Hyla annectans isolate Menglian_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742540.1	904	Hyla annectans isolate Yunlong_Yunnan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742539.1	904	Hyla annectans isolate Yunlong_Yunnan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742538.1	904	Hyla annectans isolate Sangzhi_Hunan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742537.1	905	Hyla annectans isolate Sangzhi_Hunan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742536.1	903	Hyla annectans isolate Tengchong_Yunnan3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742535.1	904	Hyla annectans isolate Binchuan_Yunnan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742534.1	905	Hyla annectans isolate Jinping_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742533.1	904	Hyla annectans isolate Hongya_Sichuan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742532.1	905	Hyla annectans isolate Shiwuli_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742531.1	904	Hyla annectans isolate Tengchong_Yunnan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742530.1	905	Hyla annectans isolate Tengchong_Yunnan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742529.1	904	Hyla annectans isolate Jinggu_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742528.1	905	Hyla annectans isolate Yongde_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742527.1	905	Hyla annectans isolate Yuexi_Sichuan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742526.1	905	Hyla annectans isolate Shuifu_Yunnan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742525.1	905	Hyla annectans isolate Shuifu_Yunnan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742524.1	905	Hyla annectans isolate Yuanyang_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742523.1	905	Hyla annectans isolate Lvchun_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	KP742522.1	905	Hyla annectans isolate Weixi_Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	NC_025309.1	17973	Hyla annectans mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	AY843600.1	2417	Hyla annectans 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	JN541316.1	401	Hyla annectans 12S ribosomal RNA gene, partial sequence
+AMPHIBIA_ANURA_HYLIDAE_Hyla_annectans	AY819421.1	716	Hyla annectans tRNA-Phe gene, partial sequence; 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, partial sequence; mitochondrial

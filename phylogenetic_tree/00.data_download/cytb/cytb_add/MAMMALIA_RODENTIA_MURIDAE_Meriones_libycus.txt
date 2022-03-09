@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MT024684.1	876	Meriones libycus isolate XJ5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KR089029.1	1140	Meriones libycus voucher MVZ:191969 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580747.1	737	Meriones libycus voucher ZMFUM1631 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580746.1	737	Meriones libycus voucher ZMFUM2839 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580745.1	737	Meriones libycus voucher ZMFUM2505 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580744.1	737	Meriones libycus voucher ZMFUM2503 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580743.1	737	Meriones libycus voucher ZMFUM2502 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580742.1	737	Meriones libycus voucher ZMFUM4065 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580741.1	737	Meriones libycus voucher PMS17710 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580740.1	737	Meriones libycus voucher PMS17716 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580739.1	737	Meriones libycus voucher PMS17717 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580738.1	737	Meriones libycus voucher PMS17715 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580737.1	737	Meriones libycus voucher MNHN-VV2001-220 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580736.1	737	Meriones libycus voucher MNHN-VV1999-023 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580735.1	737	Meriones libycus voucher PMS19282 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580734.1	737	Meriones libycus voucher PMS19278 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580733.1	737	Meriones libycus voucher PMS19266 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580732.1	737	Meriones libycus voucher PMS19232 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580731.1	737	Meriones libycus voucher PMS19267 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580730.1	737	Meriones libycus voucher PMS19239 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580729.1	737	Meriones libycus voucher PMS19265 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580728.1	737	Meriones libycus voucher PMS19264 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580727.1	737	Meriones libycus voucher PMS19244 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580726.1	737	Meriones libycus voucher PMS19249 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580725.1	737	Meriones libycus voucher ZMFUM2501 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580724.1	737	Meriones libycus voucher ZMFUM2883 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580723.1	737	Meriones libycus voucher ZMFUM1421 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580722.1	737	Meriones libycus voucher ZMFUM4521 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580721.1	737	Meriones libycus voucher ZMFUM4518 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580720.1	737	Meriones libycus voucher ZMFUM4524 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580719.1	737	Meriones libycus voucher ZMFUM1420 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580718.1	737	Meriones libycus voucher ZMFUM1419 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580717.1	737	Meriones libycus voucher ZMFUM1492 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580716.1	737	Meriones libycus voucher ZMFUM1482 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580715.1	737	Meriones libycus voucher ZMFUM1531 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580714.1	737	Meriones libycus voucher ZMFUM4580 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580713.1	737	Meriones libycus voucher ZMFUM1250 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580712.1	737	Meriones libycus voucher ZMFUM1247 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580711.1	737	Meriones libycus voucher ZMFUM1241 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580710.1	737	Meriones libycus voucher ZMFUM1558 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580709.1	737	Meriones libycus voucher ZMFUM1553 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580708.1	737	Meriones libycus voucher ZMFUM1713 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580707.1	737	Meriones libycus voucher ZMFUM1692 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580706.1	737	Meriones libycus voucher ZMFUM2849 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580705.1	737	Meriones libycus voucher ZMFUM2835 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580704.1	737	Meriones libycus voucher ZMFUM1666 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580703.1	737	Meriones libycus voucher ZMFUM2896 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580702.1	737	Meriones libycus voucher ZMFUM2765 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580701.1	737	Meriones libycus voucher ZMFUM1544 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580700.1	737	Meriones libycus voucher ZMFUM1682 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580699.1	737	Meriones libycus voucher ZMFUM909 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580698.1	737	Meriones libycus voucher ZMFUM3281 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580697.1	737	Meriones libycus voucher ZMFUM3959 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH580696.1	737	Meriones libycus voucher ZMFUM4205 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH384472.1	533	Meriones libycus strain Esfarayen-Hossein Abad(AH) cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MH384471.1	533	Meriones libycus strain Bojnourd-Mahnan63 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KP899542.1	1140	Meriones libycus isolate Mli-T6 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KP899541.1	1140	Meriones libycus isolate Mli-T3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KP899540.1	1140	Meriones libycus isolate Mli-D8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535312.1	663	Meriones libycus strain KS13/366 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535311.1	663	Meriones libycus strain KS12/2058 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535310.1	663	Meriones libycus strain KS12/2056 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535309.1	663	Meriones libycus strain KS12/1988 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535308.1	663	Meriones libycus strain KS12/1985 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535307.1	663	Meriones libycus strain KS12/1963 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535306.1	663	Meriones libycus strain KS12/1959 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535305.1	663	Meriones libycus strain KS12/1958 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535304.1	663	Meriones libycus strain KS12/1955 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535303.1	663	Meriones libycus strain KS12/1954 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535302.1	663	Meriones libycus strain KS12/1945 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535301.1	663	Meriones libycus strain KS12/1863 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535300.1	663	Meriones libycus strain KS12/1847 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	MF535299.1	663	Meriones libycus strain KS12/1846 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	LN868374.1	1140	Meriones libycus mitochondrial Cytb gene for Cytochrome b, specimen voucher ML9T
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	LN868373.1	1140	Meriones libycus mitochondrial Cytb gene for Cytochrome b, specimen voucher ML15
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	LN868372.1	1140	Meriones libycus mitochondrial Cytb gene for Cytochrome b, specimen voucher ML14
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	LN868371.1	1140	Meriones libycus mitochondrial Cytb gene for Cytochrome b, specimen voucher ML12
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	LN868370.1	1140	Meriones libycus mitochondrial Cytb gene for Cytochrome b, specimen voucher ML11
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	LN868369.1	1140	Meriones libycus mitochondrial Cytb gene for Cytochrome b, specimen voucher MLG1
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU182946.1	709	Meriones libycus clone 140 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU182945.1	709	Meriones libycus clone 135 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU182937.1	667	Meriones libycus clone 25 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU182936.1	667	Meriones libycus clone 5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU156732.1	1179	Meriones libycus voucher Y157 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU156731.1	1179	Meriones libycus voucher Y138 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU156730.1	1179	Meriones libycus voucher Y121 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU156729.1	1179	Meriones libycus voucher 140 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU156728.1	1179	Meriones libycus voucher 135 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU156727.1	1179	Meriones libycus voucher 125 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU156726.1	1179	Meriones libycus voucher 26 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KU156725.1	1179	Meriones libycus voucher 5 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	NC_027683.1	16341	Meriones libycus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KR013226.1	16341	Meriones libycus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KC480084.1	941	Meriones libycus haplotype 8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KC480083.1	941	Meriones libycus haplotype 7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KC480082.1	941	Meriones libycus haplotype 6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KC480081.1	941	Meriones libycus haplotype 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KC480080.1	941	Meriones libycus haplotype 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KC480079.1	941	Meriones libycus haplotype 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_libycus	KC480078.1	941	Meriones libycus haplotype 2 cytochrome b (cytb) gene, partial cds; mitochondrial

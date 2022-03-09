@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	NC_040991.1	17817	Yuhina nigrimenta mitochondrion, complete genome
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	MH916608.1	17817	Yuhina nigrimenta mitochondrion, complete genome
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	DQ092884.1	1143	Yuhina nigrimenta voucher 12777 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	AF376880.1	477	Yuhina nigrimenta cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	JN827237.1	1143	Yuhina nigrimenta voucher KUNHM 9997 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_nigrimenta	JN827236.1	1143	Yuhina nigrimenta voucher KUNHM 11150 cytochrome b (CYTB) gene, complete cds; mitochondrial

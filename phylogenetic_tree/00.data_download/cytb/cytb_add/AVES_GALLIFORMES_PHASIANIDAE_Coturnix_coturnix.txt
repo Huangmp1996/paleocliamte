@@ -1,0 +1,30 @@
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	MW574359.1	16700	Coturnix coturnix voucher FMNH 467848 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	MH423749.1	291	Coturnix coturnix voucher ZSI/FI/18/1/3 cytochrome b gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	HQ122587.1	517	Coturnix coturnix cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515814.1	611	Coturnix coturnix haplotype Hap12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515813.1	611	Coturnix coturnix haplotype Hap11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515812.1	611	Coturnix coturnix haplotype Hap10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515811.1	611	Coturnix coturnix haplotype Hap9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515810.1	611	Coturnix coturnix haplotype Hap8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515809.1	611	Coturnix coturnix haplotype Hap7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515808.1	611	Coturnix coturnix haplotype Hap6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515807.1	611	Coturnix coturnix haplotype Hap4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515806.1	611	Coturnix coturnix haplotype Hap3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515805.1	611	Coturnix coturnix haplotype Hap2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ515804.1	611	Coturnix coturnix haplotype Hap1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EU826435.1	441	Coturnix coturnix cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EU839461.1	1143	Coturnix coturnix voucher 503 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	AY870277.1	828	Coturnix coturnix isolate V7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	AY840105.1	273	Coturnix coturnix cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	U90641.1	660	Coturnix coturnix cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	L08377.1	1143	Coturnix coturnix mitochondrion cytochrome b gene, complete cds
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	DQ987599.1	611	Coturnix coturnix cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	KT008968.1	148	Coturnix coturnix cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EF014445.1	105	Coturnix coturnix clone 4P microsatellite sequence
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EF014443.1	238	Coturnix coturnix clone 13 microsatellite sequence
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EF014441.1	177	Coturnix coturnix clone 3 microsatellite sequence
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EF014439.1	190	Coturnix coturnix clone 4 microsatellite sequence
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EF014437.1	276	Coturnix coturnix clone 11 microsatellite sequence
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EF014435.1	150	Coturnix coturnix clone 5 microsatellite sequence
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	EF014434.1	156	Coturnix coturnix clone 2P microsatellite sequence
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	D38359.1	293	Coturnix coturnix gene for 18S rRNA, partial sequence

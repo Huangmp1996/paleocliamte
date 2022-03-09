@@ -1,0 +1,8 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Nisaetus_nipalensis	AB843767.1	684	Nisaetus nipalensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO139-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Nisaetus_nipalensis	AB843766.1	677	Nisaetus nipalensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO127-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Nisaetus_nipalensis	AB843173.1	670	Nisaetus nipalensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM578-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Nisaetus_nipalensis	AB843172.1	666	Nisaetus nipalensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM581-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Nisaetus_nipalensis	AB843171.1	667	Nisaetus nipalensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM505-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Nisaetus_nipalensis	AB843170.1	684	Nisaetus nipalensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM710-11
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Nisaetus_nipalensis	NC_007598.1	17667	Nisaetus nipalensis mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Nisaetus_nipalensis	AP008238.1	17667	Spizaetus nipalensis mitochondrial DNA, complete genome

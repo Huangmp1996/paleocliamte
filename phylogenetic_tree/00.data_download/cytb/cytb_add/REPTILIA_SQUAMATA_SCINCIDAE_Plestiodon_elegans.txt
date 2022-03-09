@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC534024.1	910	Plestiodon elegans Pele_uncatPenghu mitochondrial cytb gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150795.1	910	Plestiodon elegans mitochondrial gene for cytochrome b, partial cds, specimen_voucher: KUZ<JPN>:R36177
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150794.1	910	Plestiodon elegans mitochondrial gene for cytochrome b, partial cds, specimen_voucher: KUZ<JPN>:R66355
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150793.1	1015	Plestiodon elegans mitochondrial gene for cytochrome b, tRNA-Glu, partial cds, specimen_voucher: KUZ<JPN>:R71915
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150792.1	1015	Plestiodon elegans mitochondrial gene for cytochrome b, tRNA-Glu, partial cds, specimen_voucher: KUZ<JPN>:R71914
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC147550.1	1015	Plestiodon elegans mitochondrial gene for cytochrome b, partial cds, specimen_voucher: KUZ<JPN>:R66354
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	EU203036.1	910	Plestiodon elegans voucher KUZ R58273 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	KM017746.1	17058	Plestiodon elegans mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	NC_024576.1	17304	Plestiodon elegans mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	KJ643142.1	17304	Plestiodon elegans mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	AB761033.1	910	Plestiodon elegans mitochondrial gene for cytochrome b, partial cds, specimen_voucher: KUZ<JPN>:R66354

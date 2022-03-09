@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_Scincidae_Scincella_reevesii	NC_054206.1	15424	Scincella reevesii mitochondrion, complete genome
+REPTILIA_SQUAMATA_Scincidae_Scincella_reevesii	MN832615.1	15424	Scincella reevesii mitochondrion, complete genome
+REPTILIA_SQUAMATA_Scincidae_Scincella_reevesii	JF498078.1	461	Scincella reevesii voucher FMNH 255540 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Scincella_reevesii	AY308300.1	562	Scincella reevesii strain E61 7 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Scincella_reevesii	AY308299.1	545	Scincella reevesii strain E61 6 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Scincella_reevesii	AY308298.1	541	Scincella reevesii strain E61 15 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Scincella_reevesii	HQ902587.1	1990	Scincella reevesii 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Scincella_reevesii	HM773215.1	483	Scincella reevesii voucher E131.14_IEBRA.0828 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	LN650643.1	1001	Anthus spinoletta coutellii mitochondrial partial cytb gene for Cytochrome b, clone AS01
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	MF458371.1	1143	Anthus spinoletta cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	U46773.1	1041	Anthus spinoletta cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

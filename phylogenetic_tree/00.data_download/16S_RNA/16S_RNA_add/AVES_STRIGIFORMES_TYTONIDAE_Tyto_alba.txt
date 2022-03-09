@@ -1,0 +1,33 @@
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	MN356151.1	9059	Tyto alba mitochondrion, partial genome
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	EU410491.1	16148	Tyto alba mitochondrion, partial genome
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440425.1	561	Tyto alba tuidara voucher ZMA:19883 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440424.1	561	Tyto alba tuidara voucher ZMA:22.101 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440423.1	561	Tyto alba tuidara voucher ZMA:22.100 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440418.1	561	Tyto alba guttata voucher ZMA:58844 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440417.1	561	Tyto alba guttata voucher ZMA:58843 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440416.1	561	Tyto alba guttata voucher ZMA:58965 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440415.1	561	Tyto alba guttata voucher ZMA:58964 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440414.1	561	Tyto alba guttata voucher ZMA:58963 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440413.1	561	Tyto alba guttata voucher ZMA:58962 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440412.1	561	Tyto alba alba voucher NHMC80.4.108.6 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440411.1	561	Tyto alba alba voucher NHMC80.4.108.7 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440410.1	561	Tyto alba alba voucher NHMC80.4.108.9 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440409.1	561	Tyto alba alba voucher NHMC80.4.108.8 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440408.1	561	Tyto alba erlangeri voucher MFUM:800003 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440407.1	561	Tyto alba erlangeri voucher MFUM:800002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440406.1	561	Tyto alba erlangeri voucher MFUM:800001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440405.1	561	Tyto alba pratincola voucher LSUMZ:29566 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440404.1	561	Tyto alba pratincola voucher LSUMZ:21784 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440403.1	561	Tyto alba pratincola voucher LSUMZ:49509 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440402.1	561	Tyto alba pratincola voucher LSUMZ:49510 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440401.1	561	Tyto alba pratincola voucher LSUMZ:49511 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440400.1	561	Tyto alba pratincola voucher LSUMZ:49512 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440399.1	561	Tyto alba pratincola voucher LSUMZ:20485 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440398.1	561	Tyto alba pratincola voucher LSUMZ:20610 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440397.1	561	Tyto alba pratincola voucher LSUMZ:44989 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	KX440396.1	561	Tyto alba pratincola voucher LSUMZ:16306 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	FJ465289.1	482	Tyto alba guttata voucher ZMA 58237 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	FJ465288.1	468	Tyto alba guttata voucher ZMA 58235 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	FJ465283.1	482	Tyto alba voucher ZMA 58259 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	FJ465282.1	483	Tyto alba voucher ZMA 58257 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	FJ465281.1	468	Tyto alba voucher ZMA 55945 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	MW929091.1	16835	Motacilla alba mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	MN356232.1	16828	Motacilla alba mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	EU167005.1	1143	Motacilla alba cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AY228069.1	879	Motacilla alba NRM 976193 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AF526463.1	960	Motacilla alba specimen-voucher UWBM47619 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AF526461.1	960	Motacilla alba specimen-voucher UWBM44591 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AF526451.1	960	Motacilla alba specimen-voucher UWBM44255 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AF526443.1	960	Motacilla alba specimen-voucher UWBM58795 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AF526441.1	960	Motacilla alba specimen-voucher UWBM49718 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AF526437.1	960	Motacilla alba specimen-voucher UWBM46304 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AH012423.2	2118	Motacilla alba voucher Univ. Washington Burke Museum 46411 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	NC_029229.1	16826	Motacilla alba mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	KT736087.1	16826	Motacilla alba mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	U46777.1	1041	Motacilla alba cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

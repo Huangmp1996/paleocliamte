@@ -1,0 +1,11 @@
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	MT584416.1	1146	Bufo stejnegeri isolate Bufo_S cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	MK031483.1	647	Bufo stejnegeri voucher SNU002 cytochrome b (CYTB) gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	MK031482.1	647	Bufo stejnegeri voucher MMS1155 cytochrome b (CYTB) gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	MK031481.1	647	Bufo stejnegeri voucher MMS1154 cytochrome b (CYTB) gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	MK031480.1	647	Bufo stejnegeri voucher MMS360 cytochrome b (CYTB) gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	MK031479.1	647	Bufo stejnegeri voucher MMS138 cytochrome b (CYTB) gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	MK031478.1	647	Bufo stejnegeri voucher BS014 cytochrome b (CYTB) gene, partial cds; and D-loop, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	NC_027686.1	17939	Bufo stejnegeri voucher y-d20130012 mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	KR136211.1	17939	Bufo stejnegeri voucher y-d20130012 mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	JQ798752.1	444	Bufo stejnegeri voucher NIBRAM0000100334 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Bufo_stejnegeri	JQ798751.1	444	Bufo stejnegeri voucher NIBRAM0000000192 cytochrome b (cytb) gene, partial cds; mitochondrial

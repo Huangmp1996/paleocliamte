@@ -1,0 +1,3 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Xenus_cinereus	NC_033973.1	16817	Xenus cinereus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Xenus_cinereus	KX644890.1	16817	Xenus cinereus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Xenus_cinereus	AY894187.1	999	Xenus cinereus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621612.1	1176	Lanius isabellinus isolate N17 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621611.1	1176	Lanius isabellinus isolate N16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621610.1	1176	Lanius isabellinus isolate N15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621588.1	1143	Lanius isabellinus isolate M17 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621587.1	1143	Lanius isabellinus isolate M16 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621586.1	1143	Lanius isabellinus isolate M15 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF635031.1	961	Lanius isabellinus phoenicuroides voucher IPMB 12860 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF635017.1	875	Lanius isabellinus phoenicuroides voucher IPMB 12873 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF113120.1	1143	Lanius isabellinus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	KP995437.1	16819	Lanius isabellinus mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	NC_027655.1	16819	Lanius isabellinus mitochondrion, complete genome

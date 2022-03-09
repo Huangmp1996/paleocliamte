@@ -1,0 +1,34 @@
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	MT050680.1	1041	Passer domesticus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	MN356394.1	16804	Passer domesticus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	MF458379.1	1026	Passer domesticus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	KX109629.1	894	Passer domesticus voucher MTD-C64358 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AF230906.1	924	Passer domesticus 48 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	EU834876.1	411	Passer domesticus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	EU834857.1	609	Passer domesticus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AY495393.1	1143	Passer domesticus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AF094639.1	486	Passer domesticus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AF399697.1	302	Passer domesticus isolate UK95AA5 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AF399678.1	302	Passer domesticus isolate HOSP cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AY030117.1	1143	Passer domesticus domesticus cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	KM078784.1	16802	Passer domesticus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	NC_025611.1	16802	Passer domesticus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	KC439284.1	410	Passer domesticus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671347.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Taif3
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671346.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Taif2
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671345.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Taif1
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671344.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Tabuk5
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671343.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Tabuk4
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671342.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Tabuk3
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671341.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Tabuk2
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671340.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Tabuk1
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671339.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Qassim2
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671338.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Qassim1
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671337.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Al-Madina2
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671336.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Al-Madina1
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671335.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Jazan3
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671334.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Jazan2
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671333.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Jazan1
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671332.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Arar2
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AB671331.1	659	Passer domesticus domesticus mitochondrial cytb gene for cytochrome b, partial cds, haplotype: Arar1
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	L76636.1	917	Passer domesticus cytb gene, complete sequence; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_domesticus	AF094667.1	516	Passer domesticus 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

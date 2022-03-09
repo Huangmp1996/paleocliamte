@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877640.1	835	Emberiza cia cia isolate MAR4003 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877636.1	835	Emberiza cia flemingorum isolate MAR3346 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877635.1	835	Emberiza cia cia isolate MAR2586 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	FJ465216.1	482	Emberiza cia voucher MFUM 200556 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	FJ465215.1	470	Emberiza cia voucher MFUM 200418 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,7 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MW625810.1	16555	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	HM106326.1	16467	Martes flavigula voucher YP6016 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	FJ719367.1	16549	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	KP992962.1	516	Martes flavigula isolate MF2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	KP992961.1	516	Martes flavigula isolate MF1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	KM347744.1	16533	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	NC_012141.1	16549	Martes flavigula mitochondrion, complete genome

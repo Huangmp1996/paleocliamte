@@ -1,0 +1,8 @@
+AVES_GRUIFORMES_GRUIDAE_Grus_japonensis	LC541481.1	16725	Grus japonensis TMZ1099 mitochondrial DNA, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_japonensis	MH041485.1	16727	Grus japonensis mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_japonensis	LC104777.1	180	Grus japonensis mitochondrial gene for 12S rRNA, partial sequence, bio_material: NSMT(National Science Museum, Tokyo)-DNA-50400
+AVES_GRUIFORMES_GRUIDAE_Grus_japonensis	NC_020575.1	16715	Grus japonensis mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_japonensis	FJ769847.1	16715	Grus japonensis mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Grus_japonensis	AY447954.1	314	Grus japonensis 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GRUIFORMES_GRUIDAE_Grus_japonensis	DQ485807.1	1044	Grus japonensis 12S ribosomal RNA and tRNA-Val genes, complete sequence; mitochondrial
+AVES_GRUIFORMES_GRUIDAE_Grus_japonensis	AB017618.1	1535	Grus japonensis mitochondrial genes for NADH dehydrogenase subunit 6, 12S rRNA, tRNA-glu, tRNA-Phe and D-loop, partial and complete sequence, isolate:GJKL5-RNA

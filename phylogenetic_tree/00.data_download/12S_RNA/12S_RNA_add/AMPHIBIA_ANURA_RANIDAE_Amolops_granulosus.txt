@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_granulosus	NC_044901.1	17785	Amolops granulosus mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_granulosus	MH922934.1	17785	Amolops granulosus mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_granulosus	KF771286.1	1607	Amolops granulosus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_granulosus	AB211458.1	849	Amolops granulosus mitochondrial gene for 12S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Amolops_granulosus	DQ204436.1	474	Amolops granulosus voucher KIZ C92161 12S ribosomal RNA gene, partial sequence; mitochondrial

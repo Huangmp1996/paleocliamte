@@ -1,0 +1,33 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	FJ469673.1	16519	Naemorhedus caudatus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	AY356357.1	1140	Naemorhedus caudatus cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	U17861.1	1140	Nemorhaedus caudatus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, complete cds
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	FJ666593.1	203	Naemorhedus caudatus isolate GL1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	AF503795.1	645	Nemorhaedus caudatus isolate 3 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	AF503794.1	646	Nemorhaedus caudatus isolate 2 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	AF503793.1	646	Nemorhaedus caudatus isolate 1 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	NC_013751.1	16519	Naemorhedus caudatus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259117.1	1140	Nemorhaedus caudatus raddeanus isolate g-351 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259116.1	1140	Nemorhaedus caudatus raddeanus isolate f-254 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259115.1	1140	Nemorhaedus caudatus raddeanus isolate e-108 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259114.1	1140	Nemorhaedus caudatus raddeanus isolate d-138 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259113.1	1140	Nemorhaedus caudatus raddeanus isolate c-91 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259112.1	1140	Nemorhaedus caudatus raddeanus isolate b-475 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259111.1	1140	Nemorhaedus caudatus raddeanus isolate b-93 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259110.1	1140	Nemorhaedus caudatus raddeanus isolate b-92 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259109.1	1140	Nemorhaedus caudatus raddeanus isolate b-100 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259108.1	1140	Nemorhaedus caudatus raddeanus isolate b-63 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259107.1	1140	Nemorhaedus caudatus raddeanus isolate a-2048 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259106.1	1140	Nemorhaedus caudatus raddeanus isolate a-1853 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259105.1	1140	Nemorhaedus caudatus raddeanus isolate a-1852 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259104.1	1140	Nemorhaedus caudatus raddeanus isolate a-253 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259103.1	1140	Nemorhaedus caudatus raddeanus isolate a-109 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259102.1	1140	Nemorhaedus caudatus raddeanus isolate a-133 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259101.1	1140	Nemorhaedus caudatus raddeanus isolate a-94 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259100.1	1140	Nemorhaedus caudatus raddeanus isolate a-87 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259099.1	1140	Nemorhaedus caudatus raddeanus isolate a-86 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259098.1	1140	Nemorhaedus caudatus raddeanus isolate a-73 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259097.1	1140	Nemorhaedus caudatus raddeanus isolate a-67 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259096.1	1140	Nemorhaedus caudatus raddeanus isolate a-65 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	EU259095.1	1140	Nemorhaedus caudatus raddeanus isolate a-41 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	FJ866603.1	139	Naemorhedus caudatus isolate GL2 ZFY gene, intron
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	FJ866598.1	213	Naemorhedus caudatus isolate GL2 ZFX gene, intron

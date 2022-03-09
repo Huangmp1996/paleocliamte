@@ -1,0 +1,61 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MW111478.1	677	Naja atra voucher KIZ07215 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MT346704.1	657	Naja atra isolate 793 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MT346703.1	634	Naja atra isolate 582 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK201524.1	585	Naja atra voucher CHS781 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK201431.1	585	Naja atra voucher CHS607 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK201246.1	585	Naja atra voucher CHS030 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK201245.1	585	Naja atra voucher CHS029 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MH122724.1	387	Naja atra cytochrome b (cyt b) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KU527539.1	1061	Naja atra voucher HS13319 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KU527538.1	1061	Naja atra voucher HS13318 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KU363806.1	1061	Naja atra voucher HS15041 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KU363805.1	1061	Naja atra voucher HS15040 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KX694859.1	685	Naja atra voucher ROM_30851 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EU921898.1	17214	Naja atra voucher CIB093931 mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EU913475.1	17216	Naja atra voucher CIB093930 mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN709998.1	527	Naja atra isolate N.atra.SL cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN709997.1	527	Naja atra isolate N.atra.TQ cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EF206656.1	1117	Naja atra cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KF913318.1	307	Naja atra voucher S-102 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KF913317.1	307	Naja atra voucher S-101 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KF913316.1	307	Naja atra voucher S-31 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	NC_011389.1	17216	Naja atra mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160680.1	1117	Naja atra isolate C39 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160679.1	1117	Naja atra isolate C38 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160678.1	1117	Naja atra isolate C37 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160677.1	1117	Naja atra isolate C36 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160676.1	1117	Naja atra isolate C35 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160675.1	1117	Naja atra isolate C34 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160674.1	1117	Naja atra isolate C33 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160673.1	1117	Naja atra isolate C32 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160672.1	1117	Naja atra isolate C31 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160671.1	1117	Naja atra isolate C30 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160670.1	1117	Naja atra isolate C29 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160669.1	1117	Naja atra isolate C28 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160668.1	1117	Naja atra isolate C27 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160667.1	1117	Naja atra isolate C26 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160666.1	1117	Naja atra isolate C25 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160665.1	1117	Naja atra isolate C24 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160664.1	1117	Naja atra isolate C23 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160663.1	1117	Naja atra isolate C22 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160662.1	1117	Naja atra isolate C21 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160661.1	1117	Naja atra isolate C20 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160660.1	1117	Naja atra isolate C19 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160659.1	1117	Naja atra isolate C18 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160658.1	1117	Naja atra isolate C17 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160657.1	1117	Naja atra isolate C16 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160656.1	1117	Naja atra isolate C15 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160655.1	1117	Naja atra isolate C14 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160654.1	1117	Naja atra isolate C13 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160653.1	1117	Naja atra isolate C12 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160652.1	1117	Naja atra isolate C11 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160651.1	1117	Naja atra isolate C10 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160650.1	1117	Naja atra isolate C9 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160649.1	1117	Naja atra isolate C8 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160648.1	1117	Naja atra isolate C7 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160647.1	1117	Naja atra isolate C6 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160646.1	1117	Naja atra isolate C5 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160645.1	1117	Naja atra isolate C4 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160644.1	1117	Naja atra isolate C3 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN160643.1	1117	Naja atra isolate C2 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	AF155213.1	646	Naja atra cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

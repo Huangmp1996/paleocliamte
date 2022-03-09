@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	KC749472.1	970	Syrmaticus ellioti 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	NC_010771.1	16688	Syrmaticus ellioti mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	DQ832100.1	682	Syrmaticus ellioti 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	AB164624.1	16688	Syrmaticus ellioti mitochondrial DNA, complete genome

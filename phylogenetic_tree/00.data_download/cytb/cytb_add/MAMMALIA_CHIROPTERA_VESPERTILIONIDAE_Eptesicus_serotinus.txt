@@ -1,0 +1,100 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MZ066767.1	103	Eptesicus serotinus isolate 133164 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MG570068.1	1140	Eptesicus serotinus cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KF019064.1	755	Eptesicus serotinus serotinus isolate 124EseUKR cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KF019063.1	755	Eptesicus serotinus serotinus isolate 123EseUKR cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KF019050.1	624	Eptesicus serotinus pachyomus isolate 110EpaIR cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KF019049.1	755	Eptesicus serotinus serotinus isolate 109EseGEO cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KF019048.1	755	Eptesicus serotinus serotinus isolate 108EseGEO cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KF019047.1	755	Eptesicus serotinus serotinus isolate 107EseGEO cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KF019046.1	755	Eptesicus serotinus serotinus isolate 106EseIR cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MG211697.1	489	Eptesicus serotinus serotinus isolate 201539226Ese cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MG211696.1	489	Eptesicus serotinus serotinus isolate 201427094Ese cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MG211695.1	713	Eptesicus serotinus serotinus isolate 201539228Ese cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MG211694.1	713	Eptesicus serotinus serotinus isolate 201548093Ese cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MG211693.1	713	Eptesicus serotinus serotinus isolate 201544034Ese cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF038481.1	1140	Eptesicus serotinus isolate 124203 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187955.1	1064	Eptesicus serotinus isolate 130576 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187954.1	1064	Eptesicus serotinus isolate 129394 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187953.1	1064	Eptesicus serotinus isolate 126669 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187952.1	1064	Eptesicus serotinus isolate 123801 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187951.1	1064	Eptesicus serotinus isolate 107251 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187950.1	1064	Eptesicus serotinus isolate 128942 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187949.1	1064	Eptesicus serotinus isolate 126406 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187948.1	1064	Eptesicus serotinus isolate 070397 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187947.1	1064	Eptesicus serotinus isolate 129944 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187946.1	1064	Eptesicus serotinus isolate 129666 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187945.1	1064	Eptesicus serotinus isolate 129290 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187944.1	1064	Eptesicus serotinus isolate 129123 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187943.1	1064	Eptesicus serotinus isolate 128827 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187942.1	1064	Eptesicus serotinus isolate 128210 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187941.1	1064	Eptesicus serotinus isolate 121633 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187940.1	1064	Eptesicus serotinus isolate 120914 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187939.1	1064	Eptesicus serotinus isolate 116883 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187938.1	1064	Eptesicus serotinus isolate 131054 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187937.1	1064	Eptesicus serotinus isolate 130904 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187936.1	1064	Eptesicus serotinus isolate 130640 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187935.1	1064	Eptesicus serotinus isolate 130544 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187934.1	1064	Eptesicus serotinus isolate 130526 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187933.1	1064	Eptesicus serotinus isolate 130461 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187932.1	1064	Eptesicus serotinus isolate 129961 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187931.1	1064	Eptesicus serotinus isolate 129959 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187930.1	1064	Eptesicus serotinus isolate 126980 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187929.1	1064	Eptesicus serotinus isolate 126735 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187928.1	1064	Eptesicus serotinus isolate 126609 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187927.1	1064	Eptesicus serotinus isolate 110805 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187926.1	1064	Eptesicus serotinus isolate 110707 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187925.1	1064	Eptesicus serotinus isolate 100806 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187924.1	1064	Eptesicus serotinus isolate 090738 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187923.1	1064	Eptesicus serotinus isolate 060929 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187922.1	1064	Eptesicus serotinus isolate 030816 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187921.1	1064	Eptesicus serotinus isolate 010415 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187920.1	1064	Eptesicus serotinus isolate 090718 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187919.1	1064	Eptesicus serotinus isolate 120857 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187918.1	1064	Eptesicus serotinus isolate 120906 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187917.1	1064	Eptesicus serotinus isolate 001299 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187916.1	1064	Eptesicus serotinus isolate 129428 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187915.1	1064	Eptesicus serotinus isolate 129396 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187914.1	1064	Eptesicus serotinus isolate 129116 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187913.1	1064	Eptesicus serotinus isolate 124193 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187912.1	1064	Eptesicus serotinus isolate 130650 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187911.1	1064	Eptesicus serotinus isolate 081276 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187910.1	1064	Eptesicus serotinus isolate 060804 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187909.1	1064	Eptesicus serotinus isolate 060361 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187908.1	1064	Eptesicus serotinus isolate 041577 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187907.1	1064	Eptesicus serotinus isolate 000132 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187906.1	1064	Eptesicus serotinus isolate 129865 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187905.1	1064	Eptesicus serotinus isolate 126259 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187904.1	1064	Eptesicus serotinus isolate 110774 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187903.1	1064	Eptesicus serotinus isolate 100553 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187902.1	1064	Eptesicus serotinus isolate 080064 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187901.1	1064	Eptesicus serotinus isolate 060491 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187900.1	1064	Eptesicus serotinus isolate 030106 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187899.1	1064	Eptesicus serotinus isolate 129668 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187898.1	1064	Eptesicus serotinus isolate 129409 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187897.1	1064	Eptesicus serotinus isolate 060399 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187896.1	1064	Eptesicus serotinus isolate 030504 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187895.1	1064	Eptesicus serotinus isolate 129087 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187894.1	1064	Eptesicus serotinus isolate 127646 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187893.1	1064	Eptesicus serotinus isolate 127058 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187892.1	1064	Eptesicus serotinus isolate 123649 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187891.1	1064	Eptesicus serotinus isolate 081432 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187890.1	1064	Eptesicus serotinus isolate 070707 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187889.1	1064	Eptesicus serotinus isolate 041204 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187888.1	1064	Eptesicus serotinus isolate 010357 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187887.1	1064	Eptesicus serotinus isolate 130654 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187886.1	1064	Eptesicus serotinus isolate 130652 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187885.1	1064	Eptesicus serotinus isolate 130653 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187884.1	1064	Eptesicus serotinus isolate 130310 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187883.1	1064	Eptesicus serotinus isolate 123008 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187882.1	1064	Eptesicus serotinus isolate 041019 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	MF187881.1	1064	Eptesicus serotinus isolate 128683 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KX655840.1	420	Eptesicus serotinus serotinus cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	KX655831.1	402	Eptesicus serotinus andersoni cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	EU751000.1	1140	Eptesicus serotinus voucher AK 10826 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	DQ120839.1	726	Eptesicus serotinus haplotype Ese394 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	DQ120838.1	726	Eptesicus serotinus haplotype Ese802 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	DQ120837.1	726	Eptesicus serotinus haplotype Ese724 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	DQ120836.1	726	Eptesicus serotinus haplotype Ese1290 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	DQ120835.1	726	Eptesicus serotinus haplotype Ese1282 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	DQ120834.1	727	Eptesicus serotinus haplotype Ese241 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_serotinus	DQ120833.1	727	Eptesicus serotinus haplotype Ese796 cytochrome b (Cytb) gene, partial cds; mitochondrial

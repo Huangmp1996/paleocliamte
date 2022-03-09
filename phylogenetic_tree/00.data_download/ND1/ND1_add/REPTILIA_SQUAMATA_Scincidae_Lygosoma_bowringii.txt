@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_Scincidae_Lygosoma_bowringii	MK409588.1	966	Subdoluseps bowringii voucher LSUHC 7993 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Lygosoma_bowringii	MK409587.1	966	Subdoluseps bowringii voucher FMNH 261839 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Lygosoma_bowringii	HQ907328.1	1147	Lygosoma bowringii voucher LSUHC 6998 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Xle gene, complete sequence; and tRNA-Glx gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Lygosoma_bowringii	JN981975.1	966	Lygosoma bowringii voucher LSUHC 6970 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial

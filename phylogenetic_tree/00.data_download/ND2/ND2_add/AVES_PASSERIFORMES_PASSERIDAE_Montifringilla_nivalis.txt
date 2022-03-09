@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MN337362.1	975	Montifringilla nivalis isolate MAR3111 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MN337361.1	975	Montifringilla nivalis isolate MAR1532 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX109703.1	874	Montifringilla nivalis voucher MTD-C64406 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	NC_025911.1	16923	Montifringilla nivalis mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KJ148628.1	16923	Montifringilla nivalis mitochondrion, complete genome

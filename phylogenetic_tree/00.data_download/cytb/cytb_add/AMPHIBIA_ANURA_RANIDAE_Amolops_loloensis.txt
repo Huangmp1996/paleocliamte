@@ -1,0 +1,7 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	NC_029250.1	18926	Amolops loloensis voucher SM-ZDTW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	KT750963.1	18926	Amolops loloensis voucher SM-ZDTW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	KJ008431.1	998	Amolops loloensis isolate Lo06002 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	KJ008430.1	998	Amolops loloensis isolate Lo06001 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	KJ008429.1	930	Amolops loloensis isolate Lo213T cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	KJ008428.1	932	Amolops loloensis isolate Lo214T cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_loloensis	KJ008427.1	932	Amolops loloensis isolate Lo211a cytochrome b (cytb) gene, partial cds; mitochondrial

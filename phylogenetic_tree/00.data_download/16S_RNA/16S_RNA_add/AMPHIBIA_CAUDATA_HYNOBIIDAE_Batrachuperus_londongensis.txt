@@ -1,0 +1,12 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	DQ333809.1	16379	Batrachuperus londongensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	NC_008077.1	16379	Batrachuperus londongensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165905.1	467	Batrachuperus londongensis voucher XM1372 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165904.1	467	Batrachuperus londongensis voucher XM122 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165903.1	467	Batrachuperus londongensis voucher XM120 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165789.1	582	Batrachuperus londongensis voucher XM1372 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165788.1	582	Batrachuperus londongensis voucher XM122 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165787.1	582	Batrachuperus londongensis voucher XM120 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	AY916005.1	1067	Batrachuperus londongensis voucher RM2709 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	AY593121.1	1598	Batrachuperus londongensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	AY028719.1	471	Batrachuperus londongensis strain MVZ231020 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	AY028718.1	471	Batrachuperus londongensis strain MVZ231019 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

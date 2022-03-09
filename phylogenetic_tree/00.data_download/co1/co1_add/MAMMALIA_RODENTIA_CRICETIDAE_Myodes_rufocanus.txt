@@ -1,0 +1,99 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356218.1	1545	Myodes rufocanus bedfordiae clone JA6551KTF153 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356217.1	1545	Myodes rufocanus bedfordiae clone JA5277KTF945 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356216.1	1545	Myodes rufocanus bedfordiae clone JA5171KTF862 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356215.1	1545	Myodes rufocanus bedfordiae clone JA4277KTF637 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356214.1	1545	Myodes rufocanus bedfordiae clone JA4032KTF597 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356213.1	1545	Myodes rufocanus bedfordiae clone KT3122KTF118 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356212.1	1545	Myodes rufocanus bedfordiae clone KT3120KTF116 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356211.1	1545	Myodes rufocanus bedfordiae clone KT3028KTF66 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	MZ356210.1	1545	Myodes rufocanus bedfordiae clone KT3011KTF49 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	HM380211.1	657	Myodes rufocanus voucher NOMAM-046 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968254.1	1545	Myodes rufocanus isolate XJ174 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968251.1	1545	Myodes rufocanus isolate XJ163 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968244.1	1545	Myodes rufocanus isolate CHBS032 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968243.1	1545	Myodes rufocanus isolate CHBS031 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968242.1	1545	Myodes rufocanus isolate CHBS026 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968238.1	1545	Myodes rufocanus isolate 09NRAP105 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968236.1	1545	Myodes rufocanus isolate 09NRAP074 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968235.1	1545	Myodes rufocanus isolate 09NRAP072 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968234.1	1545	Myodes rufocanus isolate 09NRAP064 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968232.1	1545	Myodes rufocanus isolate 09NRAP040 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968231.1	1545	Myodes rufocanus isolate 09NRAP039 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KY968228.1	1531	Myodes rufocanus isolate CHBS023 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JN311717.1	652	Myodes rufocanus voucher ROM 112879 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JN311716.1	650	Myodes rufocanus voucher ROM 112878 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	NC_029477.1	16487	Myodes rufocanus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KT725595.1	16487	Myodes rufocanus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	KF152987.1	645	Myodes rufocanus voucher JW290 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693313.1	651	Myodes rufocanus isolate 1327 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693312.1	651	Myodes rufocanus isolate 1328 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693311.1	651	Myodes rufocanus isolate 1333 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693310.1	651	Myodes rufocanus isolate 1331 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693309.1	651	Myodes rufocanus isolate 1326 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693308.1	651	Myodes rufocanus isolate 1325 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693307.1	651	Myodes rufocanus isolate 2658 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693306.1	651	Myodes rufocanus isolate 1567 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693305.1	651	Myodes rufocanus isolate 1566 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693304.1	651	Myodes rufocanus isolate 1565 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693303.1	651	Myodes rufocanus isolate 1564 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693302.1	651	Myodes rufocanus isolate 1563 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693301.1	651	Myodes rufocanus isolate 1562 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693300.1	651	Myodes rufocanus isolate 1558 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693299.1	651	Myodes rufocanus isolate 2668 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693298.1	651	Myodes rufocanus isolate 1557 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693297.1	651	Myodes rufocanus isolate 1555 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693296.1	651	Myodes rufocanus isolate 1553 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693295.1	651	Myodes rufocanus isolate 1552 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF693294.1	651	Myodes rufocanus isolate 1550 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903284.1	657	Myodes rufocanus voucher ROM 112847 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903283.1	657	Myodes rufocanus voucher ZMMU AAL-303 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903282.1	657	Myodes rufocanus voucher ZMMU AAL-301 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903281.1	599	Myodes rufocanus voucher ZMMU 07AAL-194 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903280.1	657	Myodes rufocanus voucher ZMMU 07AAL-134 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903279.1	657	Myodes rufocanus voucher ZMMU 07AAL-129 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903278.1	657	Myodes rufocanus voucher ZMMU 07AAL-102 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903277.1	657	Myodes rufocanus voucher ZMMU 07AAL-101 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903276.1	657	Myodes rufocanus voucher ZMMU 07AAL-100 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903275.1	657	Myodes rufocanus voucher ZMMU 07AAL-099 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903274.1	657	Myodes rufocanus voucher ROM 112846 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903273.1	657	Myodes rufocanus voucher ROM 112845 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903272.1	657	Myodes rufocanus voucher ROM 112889 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903271.1	638	Myodes rufocanus voucher ROM 112888 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903270.1	657	Myodes rufocanus voucher ROM 112851 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903269.1	654	Myodes rufocanus voucher ROM 112883 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903268.1	653	Myodes rufocanus voucher ROM 112881 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903267.1	654	Myodes rufocanus voucher ROM 112880 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903266.1	657	Myodes rufocanus voucher ROM 112917 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903265.1	657	Myodes rufocanus voucher ROM 112916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903264.1	657	Myodes rufocanus voucher ROM 112850 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903263.1	657	Myodes rufocanus voucher ROM 112869 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903262.1	653	Myodes rufocanus voucher ROM 112915 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903261.1	657	Myodes rufocanus voucher ROM 112868 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903260.1	657	Myodes rufocanus voucher ROM 112864 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903259.1	657	Myodes rufocanus voucher ROM 112863 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903258.1	657	Myodes rufocanus voucher ROM 112862 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903257.1	657	Myodes rufocanus voucher ROM 112861 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903256.1	657	Myodes rufocanus voucher ROM 112908 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903255.1	657	Myodes rufocanus voucher ROM 112896 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903254.1	657	Myodes rufocanus voucher ROM 112907 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903253.1	657	Myodes rufocanus voucher ZISP TX-00674 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903252.1	657	Myodes rufocanus voucher ZISP TX-00516 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903251.1	657	Myodes rufocanus voucher ZISP TX-01310 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903250.1	657	Myodes rufocanus voucher ROM 112906 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903249.1	657	Myodes rufocanus voucher ZISP TX-00883 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903248.1	657	Myodes rufocanus voucher ZISP TX-00882 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903247.1	657	Myodes rufocanus voucher ZISP TX-00001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903246.1	657	Myodes rufocanus voucher ZISP TX-00673 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903245.1	657	Myodes rufocanus voucher ZISP TX-00096 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903244.1	657	Myodes rufocanus voucher ZISP TX-00515 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903243.1	657	Myodes rufocanus voucher ZISP TX-00881 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903242.1	657	Myodes rufocanus voucher ZISP TX-00095 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903241.1	657	Myodes rufocanus voucher ZISP TX-00514 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903240.1	657	Myodes rufocanus voucher ZISP TX-00880 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903239.1	657	Myodes rufocanus voucher ZISP TX-00094 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903238.1	657	Myodes rufocanus voucher ZISP TX-00513 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903237.1	657	Myodes rufocanus voucher ZISP TX-01306 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903236.1	657	Myodes rufocanus voucher ZISP TX-00808 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903235.1	657	Myodes rufocanus voucher ZISP TX-00879 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903234.1	657	Myodes rufocanus voucher ZISP TX-00512 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Myodes_rufocanus	JF903233.1	657	Myodes rufocanus voucher ZISP TX-01038 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

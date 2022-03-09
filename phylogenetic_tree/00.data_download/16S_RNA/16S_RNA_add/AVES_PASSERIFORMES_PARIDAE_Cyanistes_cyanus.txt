@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KX388472.1	16788	Cyanistes cyanus isolate 781 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KC202314.1	479	Cyanistes cyanus tianschanicus isolate MAR01642 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KC202310.1	493	Cyanistes cyanus yenisseensis isolate MAR00342 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Cyanistes_cyanus	KC202308.1	493	Cyanistes cyanus cyanus isolate MAR00123 16S ribosomal RNA gene, partial sequence; mitochondrial

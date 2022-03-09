@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_strialata	HQ529132.1	318	Stachyris strialata voucher AMNH:417144 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_strialata	GU724479.1	1041	Stachyris strialata voucher KIZ:DYS126 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_strialata	JN826686.1	1041	Stachyris strialata voucher KUNHM 10003 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Stachyris_strialata	JN826685.1	1041	Stachyris strialata voucher KUNHM 10136 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

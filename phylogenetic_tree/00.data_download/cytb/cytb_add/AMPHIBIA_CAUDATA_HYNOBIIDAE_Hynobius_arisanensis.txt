@@ -1,0 +1,11 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	EF462213.1	16401	Hynobius arisanensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652224.1	784	Hynobius arisanensis voucher NTNUB 201650 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652223.1	784	Hynobius arisanensis voucher ZC17 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652222.1	784	Hynobius arisanensis voucher ZC16 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652221.1	784	Hynobius arisanensis voucher ZC12 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652220.1	784	Hynobius arisanensis voucher ZC11 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652219.1	784	Hynobius arisanensis voucher NTNUB 201673 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652218.1	784	Hynobius arisanensis voucher NTNUB 201669 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652217.1	784	Hynobius arisanensis voucher NTNUB 201663 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	DQ652216.1	784	Hynobius arisanensis voucher NTNUB 201662 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_arisanensis	NC_009335.1	16401	Hynobius arisanensis mitochondrion, complete genome

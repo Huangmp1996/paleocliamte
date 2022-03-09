@@ -1,0 +1,8 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	EU161864.1	834	Anser fabalis voucher IPMB 41654 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	EU161863.1	834	Anser fabalis voucher IPMB 41653 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	EU161862.1	834	Anser fabalis voucher IPMB 41652 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	EU161861.1	834	Anser fabalis voucher IPMB 41651 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	EU161860.1	834	Anser fabalis voucher IPMB 41650 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	EU161859.1	834	Anser fabalis voucher IPMB 41649 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	EU585618.1	1045	Anser fabalis voucher IPMB 41649 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	HQ890328.1	16688	Anser fabalis mitochondrion, complete genome

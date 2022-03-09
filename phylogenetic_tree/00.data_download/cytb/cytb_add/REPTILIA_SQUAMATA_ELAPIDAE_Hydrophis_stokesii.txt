@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	LC639204.1	1089	Hydrophis stokesii KUZ<JPN>:R88360 mitochondrial cytb gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	JQ217201.1	768	Hydrophis stokesii voucher WAM157820 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	DQ233929.1	982	Astrotia stokesii isolate As008 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	DQ233928.1	982	Astrotia stokesii isolate As007 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	DQ233927.1	982	Astrotia stokesii isolate As004 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	DQ233926.1	982	Astrotia stokesii isolate As002 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	KT966127.1	1092	Hydrophis stokesii voucher MZBOphi4235 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	KC014391.1	1085	Astrotia stokesii voucher MZBOphi4066 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_stokesii	KC014390.1	371	Astrotia stokesii voucher MW04488 cytochrome b (cytb) gene, partial cds; mitochondrial

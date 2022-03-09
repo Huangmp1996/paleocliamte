@@ -1,0 +1,4 @@
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	LN734274.1	1027	Cuculus poliocephalus mitochondrial partial 12S rRNA gene, isolate pol643
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	LC104772.1	182	Cuculus poliocephalus poliocephalus mitochondrial gene for 12S rRNA, partial sequence, bio_material: NSMT(National Science Museum, Tokyo)-DNA-8966
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	NC_028414.1	17508	Cuculus poliocephalus mitochondrion, complete genome
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	KT378620.1	17508	Cuculus poliocephalus mitochondrion, complete genome

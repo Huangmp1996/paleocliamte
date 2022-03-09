@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	NC_045376.1	16875	Dendrocitta formosae mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	MK875763.1	16875	Dendrocitta formosae mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	AY395620.1	924	Dendrocitta formosae voucher NRM 568803 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	DQ912600.1	999	Dendrocitta formosae voucher KUNHM B-6699 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	JQ864494.1	1026	Dendrocitta formosae cytochrome b (cytb) gene, complete cds; mitochondrial

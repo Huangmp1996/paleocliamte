@@ -1,0 +1,8 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	AF401475.1	800	Eptesicus nilssoni clone Enil1298 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	AF401474.1	800	Eptesicus nilssoni clone Enil1393 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	AF401473.1	800	Eptesicus nilssoni clone Enil1596 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	AY033987.1	800	Eptesicus nilssoni NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	DQ915025.1	900	Eptesicus nilssoni isolate Enil4737_MGL NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	FR848493.1	798	Eptesicus nilssoni partial ND1 gene for NADH dehydrogenase subunit 1, isolate Enil4908
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	FR848492.1	798	Eptesicus nilssoni partial ND1 gene for NADH dehydrogenase subunit 1, isolate Enil4737
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	AB079822.1	957	Eptesicus nilssoni mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

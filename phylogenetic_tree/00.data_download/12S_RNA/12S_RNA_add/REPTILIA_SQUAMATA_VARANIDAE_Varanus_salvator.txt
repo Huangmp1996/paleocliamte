@@ -1,0 +1,28 @@
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KU746375.1	386	Varanus salvator isolate VS4 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KU746374.1	386	Varanus salvator isolate VS3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KU746373.1	386	Varanus salvator isolate VS2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KU746372.1	386	Varanus salvator isolate VS1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AH005483.2	764	Varanus salvator 12S ribosomal RNA genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU747731.1	17489	Varanus salvator mitochondrion, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AB980996.1	17715	Varanus salvator komaini mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AB980995.1	17536	Varanus salvator mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	NC_010974.1	17489	Varanus salvator mitochondrion, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	HM040918.1	190	Varanus salvator 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU621802.1	390	Varanus salvator isolate VS01 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219879.1	446	Varanus salvator bio-material Dusit zoo VSS15 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219878.1	445	Varanus salvator bio-material Dusit zoo VSS14 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219877.1	446	Varanus salvator bio-material Dusit zoo VSS13 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219876.1	446	Varanus salvator bio-material Dusit zoo VSS12 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219875.1	447	Varanus salvator bio-material Dusit zoo VSS11 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219874.1	443	Varanus salvator bio-material Dusit zoo VSS10 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219873.1	445	Varanus salvator bio-material Dusit zoo VSS9 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219872.1	447	Varanus salvator bio-material Dusit zoo VSS8 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219871.1	447	Varanus salvator bio-material Dusit zoo VSS7 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219870.1	440	Varanus salvator bio-material Dusit zoo VSS6 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219869.1	447	Varanus salvator bio-material Dusit zoo VSS5 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219868.1	445	Varanus salvator bio-material Dusit zoo VSS4 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219867.1	437	Varanus salvator bio-material Dusit zoo VSS3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219866.1	436	Varanus salvator bio-material Dusit zoo VSS2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219865.1	447	Varanus salvator bio-material Dusit zoo VSS1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219864.1	446	Varanus salvator bio-material Dusit zoo VSK2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	GU219863.1	443	Varanus salvator bio-material Dusit zoo VSK1 12S ribosomal RNA gene, partial sequence; mitochondrial

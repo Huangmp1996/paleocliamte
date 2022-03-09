@@ -1,0 +1,94 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM776971.1	1037	Pinicola enucleator flammula voucher UAM:8979 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640909.1	1037	Pinicola enucleator kamtschatkensis isolate UWBM51643 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640908.1	1037	Pinicola enucleator kamtschatkensis isolate UWBM51628 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640907.1	1037	Pinicola enucleator kamtschatkensis isolate UWBM44628 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640905.1	1037	Pinicola enucleator kamtschatkensis isolate UWBM47316 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640904.1	1037	Pinicola enucleator kamtschatkensis isolate UWBM47315 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640903.1	1037	Pinicola enucleator kamtschatkensis isolate UWBM47313 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640902.1	1037	Pinicola enucleator kamtschatkensis isolate UWBM47314 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640901.1	617	Pinicola enucleator flammula isolate UAM10157 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640900.1	648	Pinicola enucleator flammula isolate UAM8794 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640898.1	1037	Pinicola enucleator flammula isolate UAM11831 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640897.1	1037	Pinicola enucleator flammula isolate UAM11287 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640896.1	1037	Pinicola enucleator flammula isolate UAM8797 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640895.1	1037	Pinicola enucleator flammula isolate UAM7362 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640894.1	1037	Pinicola enucleator flammula isolate UAM11285 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM640893.1	1037	Pinicola enucleator flammula isolate UAM11286 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870867.1	1041	Pinicola enucleator voucher NRM996174 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870866.1	1041	Pinicola enucleator voucher NRM996173 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870865.1	1041	Pinicola enucleator voucher NRM996030 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870864.1	1041	Pinicola enucleator voucher NRM996029 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870863.1	1041	Pinicola enucleator voucher NRM996027 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870862.1	1041	Pinicola enucleator voucher NRM996026 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870861.1	1041	Pinicola enucleator voucher NRM996022 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870860.1	1041	Pinicola enucleator voucher NRM986669 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870859.1	1041	Pinicola enucleator voucher NRM20026115 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870858.1	1041	Pinicola enucleator voucher NRM20016155 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870857.1	1041	Pinicola enucleator voucher NRM2006321 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870856.1	1041	Pinicola enucleator voucher sar6540 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870855.1	1041	Pinicola enucleator voucher sar6539 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870854.1	1041	Pinicola enucleator voucher sar6538 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870853.1	1041	Pinicola enucleator voucher sar6537 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870852.1	1041	Pinicola enucleator voucher csw5676 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870851.1	1041	Pinicola enucleator voucher csw5652 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870850.1	1041	Pinicola enucleator voucher bks3275 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870849.1	1041	Pinicola enucleator voucher svd1176 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870848.1	1041	Pinicola enucleator voucher svd1175 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870847.1	1041	Pinicola enucleator voucher sar6333 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870846.1	1041	Pinicola enucleator voucher drf176 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870845.1	1041	Pinicola enucleator voucher csw4777 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870844.1	1041	Pinicola enucleator voucher wlk286 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870843.1	1041	Pinicola enucleator voucher wlk271 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870842.1	1041	Pinicola enucleator voucher x7726 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870841.1	1041	Pinicola enucleator voucher x7712 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870840.1	1041	Pinicola enucleator voucher mde12 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870839.1	1041	Pinicola enucleator voucher mde10 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870838.1	1041	Pinicola enucleator voucher jk9205 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870837.1	1041	Pinicola enucleator voucher awj8 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870836.1	1041	Pinicola enucleator voucher awj303 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870835.1	1041	Pinicola enucleator voucher awj17 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870834.1	1041	Pinicola enucleator voucher aek504 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870833.1	1041	Pinicola enucleator voucher aek458 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870832.1	1041	Pinicola enucleator voucher aek430 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870831.1	1041	Pinicola enucleator voucher svd423 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870830.1	1041	Pinicola enucleator voucher svd422 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870829.1	1041	Pinicola enucleator voucher svd408 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870828.1	1041	Pinicola enucleator voucher svd407 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870827.1	1041	Pinicola enucleator voucher sar6268 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870826.1	1041	Pinicola enucleator voucher B57235 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870825.1	1041	Pinicola enucleator voucher B57234 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870824.1	1041	Pinicola enucleator voucher B29690 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870823.1	1041	Pinicola enucleator voucher gav851 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870822.1	1041	Pinicola enucleator voucher gav850 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870821.1	1041	Pinicola enucleator voucher dhb2000 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870820.1	1041	Pinicola enucleator voucher B6526 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870819.1	1041	Pinicola enucleator voucher B6525 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870818.1	1041	Pinicola enucleator voucher B6524 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870817.1	1041	Pinicola enucleator voucher B6478 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870816.1	1041	Pinicola enucleator voucher B6432 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870815.1	1041	Pinicola enucleator voucher svd3064 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870814.1	1041	Pinicola enucleator voucher NRM20066073 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870813.1	1041	Pinicola enucleator voucher NRM20066071 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870812.1	1041	Pinicola enucleator voucher NRM20066069 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870811.1	1041	Pinicola enucleator voucher NRM20066064 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870810.1	1041	Pinicola enucleator voucher NRM20066059 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870809.1	1041	Pinicola enucleator voucher svd645 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870808.1	1041	Pinicola enucleator voucher svd644 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870807.1	1041	Pinicola enucleator voucher gav216 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870806.1	1041	Pinicola enucleator voucher gav198 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870805.1	1041	Pinicola enucleator voucher cds4877 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870804.1	1041	Pinicola enucleator voucher cds4876 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870803.1	1041	Pinicola enucleator voucher svd4323 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870802.1	1041	Pinicola enucleator voucher svd4271 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870801.1	1041	Pinicola enucleator voucher svd3973 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870800.1	1041	Pinicola enucleator voucher dab597 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ870799.1	1041	Pinicola enucleator voucher dab561 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	FJ547517.1	1041	Pinicola enucleator voucher UAAAC svd3510 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	FJ547516.1	1041	Pinicola enucleator voucher UAAAC svd4110 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	FJ547515.1	1041	Pinicola enucleator voucher UAAAC svd4109 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	FJ547514.1	1041	Pinicola enucleator voucher UAAAC svd3974 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	FJ547513.1	1041	Pinicola enucleator voucher UAAAC svd3109 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KM078781.1	16818	Pinicola enucleator mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	NC_025609.1	16818	Pinicola enucleator mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	JN715468.1	1041	Pinicola enucleator NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF194140.1	444	Pinicola enucleator voucher NRM 996174 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial

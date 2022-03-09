@@ -1,0 +1,5 @@
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	MT132171.1	160	Platalea leucorodia voucher Plaleu1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	KT901459.1	16846	Platalea leucorodia mitochondrion, complete genome
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	HM804927.1	644	Platalea leucorodia isolate Plaleu1 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	GQ199608.1	16715	Platalea leucorodia mitochondrion, complete genome
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Platalea_leucorodia	NC_012772.1	16715	Platalea leucorodia mitochondrion, complete genome

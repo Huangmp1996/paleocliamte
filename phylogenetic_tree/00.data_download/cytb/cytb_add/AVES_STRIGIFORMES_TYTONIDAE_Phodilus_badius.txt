@@ -1,0 +1,8 @@
+AVES_STRIGIFORMES_TYTONIDAE_Phodilus_badius	AF115889.1	268	Phodilus badius cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_STRIGIFORMES_TYTONIDAE_Phodilus_badius	AF115888.1	272	Phodilus badius cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_STRIGIFORMES_TYTONIDAE_Phodilus_badius	NC_023787.1	17086	Phodilus badius mitochondrion, complete genome
+AVES_STRIGIFORMES_TYTONIDAE_Phodilus_badius	KJ456384.1	1019	Phodilus badius voucher LSUMZ B-23976 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_TYTONIDAE_Phodilus_badius	KF961183.1	17086	Phodilus badius mitochondrion, complete genome
+AVES_STRIGIFORMES_TYTONIDAE_Phodilus_badius	EU348928.1	948	Phodilus badius voucher IPMB 6223 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_TYTONIDAE_Phodilus_badius	AJ004042.1	1041	Phodilus badius partial mitochondrial cytb gene, isolate 2
+AVES_STRIGIFORMES_TYTONIDAE_Phodilus_badius	AJ004041.1	1041	Phodilus badius partial mitochondrial cytb gene, isolate 1

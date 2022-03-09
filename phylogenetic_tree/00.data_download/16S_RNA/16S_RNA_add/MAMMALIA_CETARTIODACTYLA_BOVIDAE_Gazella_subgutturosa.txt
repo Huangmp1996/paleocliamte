@@ -1,0 +1,27 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	MZ146344.1	342	Gazella subgutturosa subgutturosa isolate UZB12-11 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	MW285638.1	16435	Gazella subgutturosa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN632644.1	16433	Gazella subgutturosa isolate PhC1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN632643.1	16436	Gazella subgutturosa isolate AWWP mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	NC_020710.1	16433	Gazella subgutturosa isolate PhC1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376044.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-20 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376043.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-19 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376042.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-18 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376041.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-17 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376040.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-16 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376039.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-15 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376038.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-14 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376037.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-13 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376036.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-12 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376035.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-11 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376034.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-10 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376033.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-09 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376032.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-08 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376031.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-07 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376030.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-06 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376029.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-05 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376028.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-04 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376027.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-03 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376026.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-02 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN376025.1	879	Gazella subgutturosa marica voucher PSRCEW-ASG-01 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	AF538359.1	1423	Gazella subgutturosa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	U87057.1	340	Gazella subgutturosa 16S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

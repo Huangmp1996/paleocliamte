@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_phoenicea	KR809499.1	949	Liocichla phoenicea isolate LPxx004a NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_phoenicea	KR809498.1	949	Liocichla phoenicea isolate LPxx003a NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_phoenicea	KR809497.1	949	Liocichla phoenicea isolate LPxx002a NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_phoenicea	KJ455479.1	1041	Liocichla phoenicea NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_phoenicea	JN826565.1	1041	Liocichla phoenicea voucher KUNHM 15195 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

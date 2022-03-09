@@ -1,0 +1,9 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KC516816.1	912	Uropsilus gracilis voucher NC0403 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KC516815.1	912	Uropsilus gracilis voucher CQ10031 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KC516814.1	912	Uropsilus gracilis voucher CQ10016 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KC516813.1	912	Uropsilus gracilis voucher HB10N040 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KC516812.1	912	Uropsilus gracilis voucher JJSA061 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KC516811.1	912	Uropsilus gracilis voucher JJSA161 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KC516810.1	912	Uropsilus gracilis voucher JJSA109 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	NC_031330.1	16536	Uropsilus gracilis voucher Nanchuan0403 mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KM379136.1	16536	Uropsilus gracilis voucher Nanchuan0403 mitochondrion, complete genome

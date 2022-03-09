@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	MN356444.1	8008	Cettia cetti mitochondrion, partial genome
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	DQ008509.1	1038	Cettia cetti albiventris cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	HQ333039.1	1041	Cettia cetti orientalis voucher GB:U1037 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	HQ121525.1	1041	Cettia cetti cetti cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	DQ673876.1	1037	Cettia cetti cetti cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	HQ706176.1	1038	Cettia cetti cetti voucher U1936 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	JX236380.1	1118	Cettia cetti cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	AJ004798.1	1041	Cettia cetti mitochondrial cytb gene
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	AJ004313.1	1041	Cettia cetti partial mitochondrial cytb gene, isolate 3
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	AJ004312.1	1041	Cettia cetti partial mitochondrial cytb gene, isolate 2
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Cettia_cetti	AJ004311.1	1041	Cettia cetti partial mitochondrial cytb gene, isolate 1

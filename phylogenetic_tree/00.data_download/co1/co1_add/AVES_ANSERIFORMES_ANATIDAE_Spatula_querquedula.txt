@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Spatula_querquedula	GU571724.1	648	Anas querquedula voucher BISE-Aves217 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_querquedula	GU571723.1	648	Anas querquedula voucher BISE-Aves408 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_querquedula	GQ481326.1	694	Anas querquedula voucher UWBM 47172 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_querquedula	AB843353.1	650	Anas querquedula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO008-08

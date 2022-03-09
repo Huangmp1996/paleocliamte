@@ -1,0 +1,11 @@
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	MN356129.1	17414	Egretta garzetta mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	NW_009259177.1	2012079	Egretta garzetta isolate BGI_Z169 unplaced genomic scaffold, ASM68718v1 scaffold523, whole genome shotgun sequence
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	NW_009260614.1	8616954	Egretta garzetta isolate BGI_Z169 unplaced genomic scaffold, ASM68718v1 scaffold108, whole genome shotgun sequence
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	AY986773.1	547	Egretta garzetta oocyte maturation factor Mos (c-mos) gene, partial cds
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	KJ190950.1	19822	Egretta garzetta mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	NC_023981.1	17361	Egretta garzetta mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	KJ192197.1	17361	Egretta garzetta mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	KF469285.1	441	Egretta garzetta isolate 5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	KF469284.1	441	Egretta garzetta isolate 4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	AY766387.1	425	Egretta garzetta 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	AF407135.1	971	Egretta garzetta 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

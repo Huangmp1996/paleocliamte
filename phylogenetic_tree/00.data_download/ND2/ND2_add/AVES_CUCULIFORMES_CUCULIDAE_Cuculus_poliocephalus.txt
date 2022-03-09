@@ -1,0 +1,5 @@
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	LN734473.1	1087	Cuculus poliocephalus mitochondrial ND2 gene for NADH dehydrogenase subunit 2, isolate pol643
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	AF072596.1	298	Cuculus poliocephalus NADH dehydrogenase subunit 2 (ND2) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	NC_028414.1	17508	Cuculus poliocephalus mitochondrion, complete genome
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	KT378620.1	17508	Cuculus poliocephalus mitochondrion, complete genome
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	KJ455393.1	1041	Cuculus poliocephalus voucher UWBM:75459 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,24 @@
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MZ031535.1	202	Myrrophis chinensis voucher BSM33 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MZ031534.1	202	Myrrophis chinensis voucher BSM32 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MZ031533.1	202	Myrrophis chinensis voucher BSM31 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MZ031462.1	658	Myrrophis chinensis voucher BSF33 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MZ031461.1	658	Myrrophis chinensis voucher BSF32 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MZ031460.1	658	Myrrophis chinensis voucher BSF31 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MK064883.1	657	Myrrophis chinensis voucher CHS795 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MK064718.1	657	Myrrophis chinensis voucher CHS283 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KU529389.1	658	Myrrophis chinensis isolate RN0628 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KU529388.1	658	Myrrophis chinensis isolate RN0549 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	MF099675.1	658	Myrrophis chinensis voucher ZGSS06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KR046055.1	658	Myrrophis chinensis voucher SR232 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KR046054.1	658	Myrrophis chinensis voucher SR231 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KR045981.1	658	Myrrophis chinensis voucher SR121 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KR045980.1	658	Myrrophis chinensis voucher SR120 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KR045979.1	658	Myrrophis chinensis voucher SR119 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KR045978.1	658	Myrrophis chinensis voucher SR118 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KR045977.1	658	Myrrophis chinensis voucher SR117 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KF698939.1	658	Myrrophis chinensis voucher S-99 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	KF698938.1	658	Myrrophis chinensis voucher S-98 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	JX233641.1	658	Enhydris chinensis isolate ECh4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	JX233640.1	658	Enhydris chinensis isolate ECh3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	JX233639.1	658	Enhydris chinensis isolate ECh2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Myrrophis_chinensis	JX233638.1	658	Enhydris chinensis isolate ECh1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

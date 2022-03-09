@@ -1,0 +1,9 @@
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	LN734604.1	695	Cuculus saturatus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate sat33
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	LN734603.1	695	Cuculus saturatus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate sat34
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	LN734602.1	695	Cuculus saturatus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate sat32
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	AB843449.1	667	Cuculus saturatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO122-10
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	AB843448.1	592	Cuculus saturatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO442-10
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	AB843447.1	636	Cuculus saturatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO120-10
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	AB842690.1	605	Cuculus saturatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM683-10
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	AB842689.1	661	Cuculus saturatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM218-10
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	AB842688.1	663	Cuculus saturatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM135-10

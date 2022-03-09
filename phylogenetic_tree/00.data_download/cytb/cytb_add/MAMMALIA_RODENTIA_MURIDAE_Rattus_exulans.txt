@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510802.1	1140	Rattus exulans MM3290 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510801.1	1034	Rattus exulans YUZ144 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510800.1	1034	Rattus exulans YUZ131 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510799.1	1034	Rattus exulans YUZ128 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510798.1	1034	Rattus exulans YUZ127 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510797.1	1140	Rattus exulans YUZ126 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510796.1	1140	Rattus exulans YUZ125 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510795.1	1140	Rattus exulans YUZ124 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510794.1	1034	Rattus exulans YUZ114 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510793.1	1034	Rattus exulans YUZ17 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510792.1	1034	Rattus exulans YUZ16 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510791.1	1034	Rattus exulans YUZ15 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510790.1	1034	Rattus exulans YUZ14 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510789.1	1034	Rattus exulans YUZ13 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510788.1	1034	Rattus exulans YUZ12 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510787.1	1034	Rattus exulans YUZ11 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510786.1	1034	Rattus exulans YUZ10 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510785.1	1034	Rattus exulans YUZ9 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510784.1	1034	Rattus exulans YUZ8 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510783.1	1034	Rattus exulans YUZ7 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510782.1	1140	Rattus exulans YUZ6 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510781.1	1140	Rattus exulans YUZ5 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510780.1	1140	Rattus exulans YUZ3 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510779.1	1140	Rattus exulans YUZ2 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510778.1	1140	Rattus exulans YUZ1 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510777.1	1140	Rattus exulans YUZ40 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510776.1	1140	Rattus exulans MM4423 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510775.1	1140	Rattus exulans MM4422 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510774.1	1140	Rattus exulans MM4421 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510773.1	1140	Rattus exulans MM4420 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510772.1	1140	Rattus exulans MM4415 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510771.1	1140	Rattus exulans MM4414 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510770.1	1140	Rattus exulans HS5237 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510769.1	1140	Rattus exulans HS5236 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510768.1	1140	Rattus exulans HS5251 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	LC510767.1	1140	Rattus exulans MM3295 mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	MH818041.1	1140	Rattus exulans isolate ZOREX3 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	MH818040.1	1140	Rattus exulans isolate ZOREX2 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	MH818039.1	1140	Rattus exulans isolate ZOREX1 cytochrome b (CytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	MN126569.1	16303	Rattus exulans voucher BOR577 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	MK111917.1	791	Rattus exulans isolate KINA60 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	MK111916.1	791	Rattus exulans isolate KINA361 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY754126.1	1089	Rattus exulans cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814721.1	16301	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814720.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814719.1	16080	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814718.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814717.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814716.1	16150	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814715.1	16097	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814714.1	16147	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814713.1	15993	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814712.1	16303	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814711.1	16193	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814710.1	15853	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814709.1	16300	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273711.1	16307	Rattus exulans isolate RNZAwa01 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273710.1	16307	Rattus exulans isolate RAU8480Thai mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273709.1	16307	Rattus exulans isolate RPNGYur 9Oct06 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF436989.1	850	Rattus exulans isolate TK156124 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF436987.1	850	Rattus exulans isolate TK156113 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF436977.1	850	Rattus exulans isolate TK156111 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	DQ191486.1	1137	Rattus exulans cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217472.1	1104	Rattus exulans voucher R5447 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217470.1	1105	Rattus exulans voucher R5349 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217441.1	856	Rattus exulans voucher R4140 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217440.1	843	Rattus exulans voucher R4103 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217437.1	1127	Rattus exulans voucher R4004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217428.1	845	Rattus exulans voucher R3563 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217424.1	1134	Rattus exulans voucher R3520 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217411.1	1133	Rattus exulans voucher R3224 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217395.1	1118	Rattus exulans voucher R2795 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217392.1	834	Rattus exulans voucher R1836 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217388.1	834	Rattus exulans voucher R1805 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217383.1	826	Rattus exulans voucher R1055 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217379.1	1134	Rattus exulans voucher R0856 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217377.1	1020	Rattus exulans voucher R0284 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ530564.1	16308	Rattus exulans isolate R4824 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155783.1	381	Rattus exulans voucher ABTC:110264 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155782.1	381	Rattus exulans voucher YAP356 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155781.1	381	Rattus exulans voucher ABTC:121002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155780.1	381	Rattus exulans voucher ABTC:112596 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155779.1	381	Rattus exulans voucher ABTC:110269 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155778.1	360	Rattus exulans voucher ET6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155777.1	381	Rattus exulans voucher ABTC:112973 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155776.1	381	Rattus exulans voucher ET9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155775.1	381	Rattus exulans voucher YAP525 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ155774.1	381	Rattus exulans voucher ABTC:119086 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534034.1	1097	Rattus exulans voucher R4725 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534033.1	1108	Rattus exulans voucher R4256 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534032.1	977	Rattus exulans voucher R4216 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534031.1	977	Rattus exulans voucher R4112 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534030.1	974	Rattus exulans voucher R4104 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534029.1	1108	Rattus exulans voucher R4100 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534028.1	841	Rattus exulans voucher R4078 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534027.1	1042	Rattus exulans voucher R4035 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534026.1	900	Rattus exulans voucher R4033 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534025.1	795	Rattus exulans voucher R3723 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534024.1	704	Rattus exulans voucher R3555 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX534023.1	538	Rattus exulans voucher R3554 cytochrome b (cytb) gene, partial cds; mitochondrial

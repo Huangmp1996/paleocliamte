@@ -1,0 +1,37 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	L77143.1	910	Phylloscopus borealis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	NC_045526.1	16881	Seicercus borealis mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	MK390476.1	16881	Seicercus borealis mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	Z73484.1	1038	Phylloscopus borealis borealis mitochondrial cytochrome b gene
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AY635052.1	1038	Phylloscopus borealis borealis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	HQ608870.1	1176	Phylloscopus borealis isolate Y13 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	HQ608832.1	1143	Phylloscopus borealis isolate Y12 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	HQ243660.1	1012	Phylloscopus borealis borealis voucher DZUG U225 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	HQ243659.1	1012	Phylloscopus borealis borealis voucher DZUG U2212 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	HQ243658.1	1012	Phylloscopus borealis borealis voucher DZUG U2211 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	HQ243657.1	578	Phylloscopus borealis borealis voucher BMNH:1873.5.12.221 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	KP245889.1	474	Seicercus borealis borealis voucher UAM:6940 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	KP245888.1	982	Seicercus borealis borealis voucher UAM:14874 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	KP267733.1	616	Seicercus borealis isolate MAR1367 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB531003.1	1012	Phylloscopus borealis borealis mitochondrial Cytb gene for cytochrome b, partial cds, pop_variant: PborSelenga05
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB531002.1	1012	Phylloscopus borealis borealis mitochondrial Cytb gene for cytochrome b, partial cds
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB531001.1	1012	Phylloscopus borealis borealis mitochondrial Cytb gene for cytochrome b, partial cds, specimen_voucher: UWBM:58016
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB531000.1	1012	Phylloscopus borealis borealis mitochondrial Cytb gene for cytochrome b, partial cds, specimen_voucher: UWBM:66701
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB530999.1	1012	Phylloscopus borealis borealis mitochondrial Cytb gene for cytochrome b, partial cds, specimen_voucher: UWBM:78398
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB530998.1	1012	Phylloscopus borealis borealis mitochondrial Cytb gene for cytochrome b, partial cds, specimen_voucher: UWBM:56562
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB530997.1	1012	Phylloscopus borealis borealis mitochondrial Cytb gene for cytochrome b, partial cds, specimen_voucher: UWBM:82173
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362462.1	1951	Phylloscopus borealis borealis mitochondrial ND5, cytb genes for NADH dehydrogenase subunit 5, cytochrome b, partial and complete cds, isolate: Magadan05Pb11
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362461.1	1951	Phylloscopus borealis kennicotti mitochondrial ND5, cytb genes for NADH dehydrogenase subunit 5, cytochrome b, partial and complete cds, isolate: AlaRCF247
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362446.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: MagadanM9027
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362445.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: MagadanM10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362444.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: MagadanM9
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362443.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: MagadanM2
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362442.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: MagadanM1
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362441.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: Anadyr-NRM253
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362440.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: Anadyr-NRM252
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362439.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: Anadyr-NRM246
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362438.1	1012	Phylloscopus borealis borealis mitochondrial cytb gene for cytochrome b, partial cds, isolate: Anadyr-NRM212
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362437.1	1012	Phylloscopus borealis kennicotti mitochondrial cytb gene for cytochrome b, partial cds, isolate: AlaKSW1456
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362436.1	1012	Phylloscopus borealis kennicotti mitochondrial cytb gene for cytochrome b, partial cds, isolate: Ala246
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	AB362435.1	1012	Phylloscopus borealis kennicotti mitochondrial cytb gene for cytochrome b, partial cds, isolate: Ala224
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	D38316.1	646	Phylloscopus borealis mitochondrial gene for cytochrome b, partial cds
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealis	D38346.1	293	Phylloscopus borealis gene for 18S rRNA, partial sequence

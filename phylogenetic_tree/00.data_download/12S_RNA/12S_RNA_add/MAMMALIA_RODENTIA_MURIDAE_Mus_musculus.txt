@@ -1,0 +1,99 @@
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NR_157145.1	1980	Mus musculus GTP binding protein 3 (Gtpbp3), transcript variant 3, non-coding RNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NR_157146.1	2093	Mus musculus GTP binding protein 3 (Gtpbp3), transcript variant 4, non-coding RNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NR_157144.1	2049	Mus musculus GTP binding protein 3 (Gtpbp3), transcript variant 2, non-coding RNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NR_157147.1	2293	Mus musculus GTP binding protein 3 (Gtpbp3), transcript variant 5, non-coding RNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_032544.4	2053	Mus musculus GTP binding protein 3 (Gtpbp3), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_007440.5	3018	Mus musculus arachidonate 12-lipoxygenase (Alox12), transcript variant 1, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001331118.1	3032	Mus musculus arachidonate 12-lipoxygenase (Alox12), transcript variant 2, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001331055.1	2375	Mus musculus transcription factor B2, mitochondrial (Tfb2m), transcript variant 3, mRNA; nuclear gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001331054.1	2401	Mus musculus transcription factor B2, mitochondrial (Tfb2m), transcript variant 2, mRNA; nuclear gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_008249.5	2464	Mus musculus transcription factor B2, mitochondrial (Tfb2m), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_025392.2	1260	Mus musculus BRCA2 and CDKN1A interacting protein (Bccip), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	OK058401.1	185	Mus musculus isolate InsAg22 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_028142.5	2209	Mus musculus NOL1/NOP2/Sun domain family, member 4 (Nsun4), transcript variant 1, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001369075.1	4995	Mus musculus NOL1/NOP2/Sun domain family, member 4 (Nsun4), transcript variant 2, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001369076.1	4914	Mus musculus NOL1/NOP2/Sun domain family, member 4 (Nsun4), transcript variant 3, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_027998.4	1851	Mus musculus claudin 23 (Cldn23), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MT328573.1	425	Mus musculus clone bc3 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001110016.1	2942	Mus musculus WD repeat domain 36 (Wdr36), transcript variant 2, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001110015.1	3281	Mus musculus WD repeat domain 36 (Wdr36), transcript variant 1, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_144863.4	2161	Mus musculus WD repeat domain 36 (Wdr36), transcript variant 3, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_029790.3	1891	Mus musculus methyltransferase like 15 (Mettl15), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_146074.3	1382	Mus musculus transcription factor B1, mitochondrial (Tfb1m), mRNA; nuclear gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW524625.1	143	Mus musculus isolate VM161019-005 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW524517.1	142	Mus musculus isolate VM102319-018 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW524514.1	141	Mus musculus isolate VM102319-017 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW524221.1	141	Mus musculus isolate VM061819-004 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW524219.1	141	Mus musculus isolate VM061819-002_2 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW524199.1	143	Mus musculus isolate VM061719-302 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW524177.1	142	Mus musculus isolate VM061719-117 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW524176.1	142	Mus musculus isolate VM061719-115 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_010008.4	3595	Mus musculus cytochrome P450, family 2, subfamily j, polypeptide 6 (Cyp2j6), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MT937073.1	16300	Mus musculus breed tmt-TA C5024T mitochondrion
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_028979.2	1944	Mus musculus cytochrome P450, family 2, subfamily j, polypeptide 9 (Cyp2j9), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MT410886.1	16311	Mus musculus isolate DM54 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN964117.1	16300	Mus musculus voucher MA364 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN537869.1	1871	Mus musculus strain C57BL/6J small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	C80927.1	576	C80927 Mouse 3.5-dpc blastocyst cDNA Mus musculus cDNA clone J0090G08 3' similar to M.musculus mitochondrial 12S ribosomal RNA, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	C78578.1	535	C78578 Mouse 3.5-dpc blastocyst cDNA Mus musculus cDNA clone J0051E05 3' similar to H.stella mitochondrial 12S rRNA gene, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	C78060.1	524	C78060 Mouse 3.5-dpc blastocyst cDNA Mus musculus cDNA clone J0042B08 3' similar to M.musculus mitochondrial 12S ribosomal RNA, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	C77738.1	623	C77738 Mouse 3.5-dpc blastocyst cDNA Mus musculus cDNA clone J0036H03 3' similar to M.musculus mitochondrial 12S ribosomal RNA, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AW360743.1	661	BHP11 Mouse Brown Adipose Tissue (BAT) cDNA Mus musculus cDNA 5' similar to 12S rRNA, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA521773.1	101	vi24f03.r1 Barstead mouse irradiated colon MPLRB7 Mus musculus cDNA clone IMAGE:904733 5' similar to gb|M63563|HETRRZAAB H.glaber 12S rRNA gene, complete (rRNA), mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA409915.1	271	EST01795 Mouse 7.5 dpc embryo ectoplacental cone cDNA library Mus musculus cDNA clone C0014B08 3' similar to M.musculus mitochondrial 12S ribosomal RNA, score = 1313, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA410153.1	272	EST01706 Mouse 7.5 dpc embryo ectoplacental cone cDNA library Mus musculus cDNA clone C0013B06 3' similar to M.musculus mitochondrial 12S ribosomal RNA, score = 1353, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AY012114.1	1022	Mus musculus 12S ribosomal RNA gene, partial sequence; and tRNA-Val gene, complete sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062084.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_17
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062083.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_16
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062082.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_15
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062081.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_14
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062080.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_13
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062079.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_12
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062078.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_11
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062077.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_10
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062076.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_9
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062075.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_8
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062074.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_7
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062073.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_6
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062072.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_5
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062071.1	2625	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_4
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062070.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_3
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062069.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_2
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062068.1	2624	Mus musculus mitochondrion DNA, including 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu genes, complete sequence, sequence_id: (92..2715)_1
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062067.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_20
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062066.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_19
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062065.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_18
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062064.1	2490	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_17
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062063.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_16
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062062.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_15
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062061.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_14
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062060.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_13
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062059.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_12
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062058.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_11
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062057.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_10
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062056.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_9
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062055.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_8
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062054.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_7
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062053.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_6
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062052.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_5
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062051.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_4
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062050.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_3
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062049.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_2
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC062048.1	2488	Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_1
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	KY018919.1	16300	Mus musculus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NC_005089.1	16299	Mus musculus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU450583.1	16301	Mus musculus strain MRL/MpJ mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	DQ874614.2	16300	Mus musculus musculus strain PWD/Ph mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU315229.1	16301	Mus musculus clone B82 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU315228.1	16302	Mus musculus clone B82M mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU312161.1	16300	Mus musculus clone A11 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	EU312160.1	16300	Mus musculus clone P29 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	KX381752.1	341	Mus musculus isolate T6171 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	KX381619.1	341	Mus musculus isolate M972 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	KX381618.1	341	Mus musculus isolate M969 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	KX381617.1	341	Mus musculus isolate M968 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	KX381616.1	341	Mus musculus isolate M966 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	JQ003190.1	16300	Mus musculus strain WOM/W mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675031.1	16300	Mus musculus isolate M10 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675030.1	16300	Mus musculus isolate M9 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	HQ675029.1	16301	Mus musculus isolate M7 mitochondrion, complete genome

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	NC_053057.1	16875	Bombycilla garrulus mitochondrion, complete genome
+AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	MN356253.1	16875	Bombycilla garrulus mitochondrion, complete genome
+AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	DQ466855.1	1041	Bombycilla garrulus voucher NRM 986044 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	AY329412.1	1041	Bombycilla garrulus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	FJ177331.1	1041	Bombycilla garrulus voucher AMNH (PRS1417) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

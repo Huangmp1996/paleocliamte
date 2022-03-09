@@ -1,0 +1,12 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	KF199149.1	15072	Quasipaa jiulongensis mitochondrion, partial genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	JX989322.1	568	Quasipaa jiulongensis isolate WYJ8 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	JX989321.1	568	Quasipaa jiulongensis isolate WYJ7 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	JX989320.1	558	Quasipaa jiulongensis isolate WYJ6 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	JX989319.1	567	Quasipaa jiulongensis isolate WYJ5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	JX989318.1	559	Quasipaa jiulongensis isolate WYJ1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	JX989317.1	563	Quasipaa jiulongensis isolate WYJ4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	JX989316.1	560	Quasipaa jiulongensis isolate WYJ3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	JX989315.1	560	Quasipaa jiulongensis isolate WYJ2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	EU979801.1	553	Paa jiulongensis voucher YNU-HU200206037 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	DQ118485.1	558	Paa jiulongensis voucher KizYP021 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_jiulongensis	DQ118441.1	368	Paa jiulongensis voucher KizYP021 12S ribosomal RNA gene, partial sequence; mitochondrial

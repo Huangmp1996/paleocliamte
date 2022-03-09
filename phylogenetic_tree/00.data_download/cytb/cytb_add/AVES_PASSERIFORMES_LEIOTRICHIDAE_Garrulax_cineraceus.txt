@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	EU447072.1	846	Garrulax cineraceus strenuous cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	EU447071.1	846	Garrulax cineraceus cinereiceps cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	NC_024553.1	17800	Garrulax cineraceus mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	KF926988.1	17800	Garrulax cineraceus mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	JF804077.1	619	Garrulax cineraceus isolate 4921 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	JN827026.1	1143	Garrulax cineraceus voucher KUNHM 6725 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	JN827025.1	1143	Garrulax cineraceus voucher KUNHM 11043 cytochrome b (CYTB) gene, complete cds; mitochondrial

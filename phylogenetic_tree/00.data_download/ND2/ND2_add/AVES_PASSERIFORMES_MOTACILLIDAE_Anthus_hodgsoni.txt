@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_hodgsoni	KX189345.1	16886	Anthus hodgsoni mitochondrion, partial genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_hodgsoni	KP671560.1	1040	Anthus hodgsoni hodgsoni isolate DZUG_U3912 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_hodgsoni	KJ455323.1	1041	Anthus hodgsoni NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

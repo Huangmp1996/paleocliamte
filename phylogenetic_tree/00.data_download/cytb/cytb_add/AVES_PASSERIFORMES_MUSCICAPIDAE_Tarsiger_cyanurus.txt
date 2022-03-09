@@ -1,0 +1,45 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	DQ119523.1	1143	Tarsiger cyanurus cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	AY329475.1	998	Tarsiger cyanurus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KC967091.1	1076	Luscinia cyanura pallidior cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	NC_026067.1	16803	Luscinia cyanura mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KF997864.1	16803	Luscinia cyanura mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024170.1	1143	Luscinia cyanura pallidior isolate Pakistan cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024169.1	1143	Luscinia cyanura pallidior isolate ManaliInd cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024140.1	1143	Luscinia cyanura cyanura isolate SCLZ0537 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024139.1	1143	Luscinia cyanura cyanura isolate SCLZ0531 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024138.1	1143	Luscinia cyanura cyanura isolate SCLZ0524 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024137.1	1143	Luscinia cyanura cyanura isolate SCLZ0522 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024136.1	1143	Luscinia cyanura cyanura isolate SCLZ0521 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024135.1	1143	Luscinia cyanura cyanura isolate GXJX2172 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024134.1	1143	Luscinia cyanura cyanura isolate GXJX1990 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024133.1	1143	Luscinia cyanura cyanura isolate GXJX1989 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024132.1	1143	Luscinia cyanura cyanura isolate GXJX1789 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024131.1	1143	Luscinia cyanura cyanura isolate HNDZ0012 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024130.1	1143	Luscinia cyanura cyanura isolate HNDZ0011 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024129.1	1143	Luscinia cyanura cyanura isolate HNDZ0010 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024128.1	1143	Luscinia cyanura cyanura isolate HNDZ0009 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024127.1	1143	Luscinia cyanura cyanura isolate HNDZ0008 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024126.1	1143	Luscinia cyanura cyanura isolate HNDZ0007 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024125.1	1143	Luscinia cyanura cyanura isolate HNDZ0005 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024124.1	1143	Luscinia cyanura cyanura isolate HNDZ0004 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024123.1	1143	Luscinia cyanura cyanura isolate HNDZ0002 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024122.1	1143	Luscinia cyanura cyanura isolate HNDZ0001 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024121.1	1143	Luscinia cyanura cyanura isolate RKYD0155 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024120.1	1143	Luscinia cyanura cyanura isolate RKYD0154 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024119.1	1143	Luscinia cyanura cyanura isolate RKYD3144 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024118.1	1143	Luscinia cyanura cyanura isolate RKYD3099 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024117.1	1143	Luscinia cyanura cyanura isolate RKYD3098 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024116.1	1143	Luscinia cyanura cyanura isolate RKYD3095 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024115.1	1143	Luscinia cyanura cyanura isolate RKYD3091 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024114.1	1143	Luscinia cyanura cyanura isolate RQLD1566 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024113.1	1143	Luscinia cyanura cyanura isolate RQLD1565 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024112.1	1143	Luscinia cyanura cyanura isolate RQLD1564 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024111.1	1143	Luscinia cyanura cyanura isolate RQLD1542 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024110.1	1143	Luscinia cyanura cyanura isolate RQLD1541 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	KJ024109.1	1143	Luscinia cyanura cyanura isolate RQLD1533 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	AB244013.1	1007	Luscinia cyanura mitochondrial cytb gene for cytochrome b oxidase, partial cds, haplotype: TC02
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	AB244012.1	1007	Luscinia cyanura mitochondrial cytb gene for cytochrome b oxidase, partial cds, haplotype: TC01
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	D38318.1	646	Luscinia cyanura mitochondrial gene for cytochrome b, partail cds
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	D38354.1	293	Luscinia cyanura gene for 18S rRNA, partial sequence
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	HM633388.1	1076	Tarsiger cyanurus voucher DZUG-U54 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Tarsiger_cyanurus	DQ285440.1	983	Tarsiger cyanurus cytochrome b gene, partial cds; mitochondrial

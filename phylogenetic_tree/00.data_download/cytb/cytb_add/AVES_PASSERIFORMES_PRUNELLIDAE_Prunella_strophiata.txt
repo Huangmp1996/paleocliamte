@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KY787032.1	1126	Prunella strophiata voucher IOZ 5334 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KY787031.1	1126	Prunella strophiata voucher IOZ 14619 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KY787030.1	1126	Prunella strophiata voucher DZUG U677 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KY787029.1	1027	Prunella strophiata voucher DZUG 674 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KY787028.1	1027	Prunella strophiata voucher DZUG 491 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KY787027.1	1126	Prunella strophiata voucher IOZ 8015 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KY787026.1	1126	Prunella strophiata voucher IOZ 1243 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	NC_031819.1	16830	Prunella strophiata isolate 20151201 mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KX109637.1	1041	Prunella strophiata voucher NME08/006 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KU975800.1	16830	Prunella strophiata isolate 20151201 mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_strophiata	KJ456431.1	1026	Prunella strophiata cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,8 @@
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	NC_053843.1	16966	Porzana pusilla mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	MW043485.1	16966	Porzana pusilla mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	MK262350.1	791	Porzana pusilla voucher MKP 2227 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	KY009737.1	16978	Porzana pusilla mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	AB843716.1	679	Porzana pusilla mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO170-10
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	AB843715.1	618	Porzana pusilla mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO155-10
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	JQ342132.1	914	Porzana pusilla isolate XTJ2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	JQ342131.1	914	Porzana pusilla isolate XTJ1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

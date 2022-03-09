@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_finlaysoni	MK327561.1	659	Pycnonotus finlaysoni voucher 05091803BZF cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_finlaysoni	FJ473154.1	655	Pycnonotus finlaysoni bio-material NRM 20026612 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_finlaysoni	KT307975.1	614	Pycnonotus finlaysoni isolate 605.1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_finlaysoni	KP943332.1	587	Pycnonotus finlaysoni finlaysoni voucher PSUZC-AV 2014.2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_finlaysoni	KP943331.1	587	Pycnonotus finlaysoni finlaysoni voucher PSUZC-AV 2014.13 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_finlaysoni	KP943330.1	587	Pycnonotus finlaysoni finlaysoni voucher PSUZC-AV 2014.8 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_finlaysoni	KP943329.1	587	Pycnonotus finlaysoni finlaysoni voucher PSUZC-AV 2014.10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_finlaysoni	KP943328.1	587	Pycnonotus finlaysoni finlaysoni voucher PSUZC-AV 2014.11 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

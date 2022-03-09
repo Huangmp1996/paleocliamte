@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	MK194019.1	1298	Thermophis baileyi voucher CHS258 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	MK194018.1	1298	Thermophis baileyi voucher CHS257 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	NC_035713.1	17355	Thermophis baileyi mitochondrion, complete genome
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_baileyi	MF326642.1	17355	Thermophis baileyi mitochondrion, complete genome

@@ -1,0 +1,33 @@
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	NC_019617.1	16298	Niviventer excelsior mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	JQ927552.1	16298	Niviventer excelsior mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	MH593048.1	1137	Niviventer excelsior isolate 14LH003 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	EF053009.1	1143	Niviventer excelsior isolate Glgs066 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	EF053008.1	1143	Niviventer excelsior isolate Glgs065 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	EF053007.1	1143	Niviventer excelsior isolate 029 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	EF053006.1	1143	Niviventer excelsior isolate 070 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	EF053005.1	1143	Niviventer excelsior isolate 04043 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	EF053004.1	1143	Niviventer excelsior isolate 030 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KY068850.1	1140	Niviventer excelsior isolate Z201405703 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KY068849.1	1140	Niviventer excelsior isolate Z201405699 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KY068848.1	1140	Niviventer excelsior isolate Z201405694 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KY068847.1	1140	Niviventer excelsior isolate Z201405693 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KY068846.1	1140	Niviventer excelsior isolate Z201405692 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KY068715.1	1140	Niviventer excelsior isolate 0905210 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	DQ191482.1	1137	Niviventer excelsior cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	HM037047.1	1137	Niviventer excelsior isolate JL003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	HM037046.1	1137	Niviventer excelsior isolate YJ002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	HM037045.1	1137	Niviventer excelsior isolate BT003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	HM037044.1	1137	Niviventer excelsior isolate CWL52 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479941.1	1137	Niviventer excelsior isolate SCSL007 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479940.1	1137	Niviventer excelsior isolate SCSK3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479939.1	1137	Niviventer excelsior isolate SCSH3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479938.1	1137	Niviventer excelsior isolate SCSH1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479937.1	1137	Niviventer excelsior isolate SCE032 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479936.1	1137	Niviventer excelsior isolate SCSD003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479935.1	1137	Niviventer excelsior isolate XZC012 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479934.1	1137	Niviventer excelsior isolate XZC011 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479933.1	1137	Niviventer excelsior isolate XZC010 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479932.1	1137	Niviventer excelsior isolate XZC007 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479931.1	1137	Niviventer excelsior isolate XZC006 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479930.1	1137	Niviventer excelsior isolate XZC004 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	GU479929.1	1137	Niviventer excelsior isolate XZC002 cytochrome b (cytb) gene, partial cds; mitochondrial

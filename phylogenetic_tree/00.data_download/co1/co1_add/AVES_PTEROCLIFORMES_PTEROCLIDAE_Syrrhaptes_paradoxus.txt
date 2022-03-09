@@ -1,0 +1,5 @@
+AVES_PTEROCLIFORMES_PTEROCLIDAE_Syrrhaptes_paradoxus	MN356289.1	22005	Syrrhaptes paradoxus mitochondrion, partial genome
+AVES_PTEROCLIFORMES_PTEROCLIDAE_Syrrhaptes_paradoxus	GQ482741.1	694	Syrrhaptes paradoxus voucher UWBM 59826 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PTEROCLIFORMES_PTEROCLIDAE_Syrrhaptes_paradoxus	GQ482740.1	694	Syrrhaptes paradoxus voucher UWBM 67598 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PTEROCLIFORMES_PTEROCLIDAE_Syrrhaptes_paradoxus	GQ482739.1	694	Syrrhaptes paradoxus voucher UWBM 57962 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PTEROCLIFORMES_PTEROCLIDAE_Syrrhaptes_paradoxus	GQ482738.1	684	Syrrhaptes paradoxus voucher UWBM 59840 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

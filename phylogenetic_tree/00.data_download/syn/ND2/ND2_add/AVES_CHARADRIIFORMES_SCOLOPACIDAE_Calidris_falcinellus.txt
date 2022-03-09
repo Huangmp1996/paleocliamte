@@ -1,0 +1,3 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	MW160420.1	15555	Limicola falcinellus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	EF373247.1	998	Limicola falcinellus voucher SBB-032 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	KC969110.1	981	Limicola falcinellus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

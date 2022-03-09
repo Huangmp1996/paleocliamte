@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	LC569702.1	1027	Hyla chinensis KUZ:R62217 mitochondrial cytb gene for cytochrome b, partial sequence
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	LC569701.1	1027	Hyla chinensis KUZ:R62214 mitochondrial cytb gene for cytochrome b, partial sequence
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	AY458593.1	18180	Hyla chinensis mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	NC_006403.1	18180	Hyla chinensis mitochondrion, complete genome

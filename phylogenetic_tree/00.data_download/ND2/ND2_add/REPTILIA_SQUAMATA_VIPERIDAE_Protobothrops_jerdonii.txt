@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	MK199087.1	1026	Protobothrops jerdonii voucher CHS787 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	MK199020.1	1026	Protobothrops jerdonii voucher CHS669 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	MK198965.1	1026	Protobothrops jerdonii voucher CHS350 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	NC_021402.1	17239	Protobothrops jerdonii mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_jerdonii	KC112560.1	17239	Protobothrops jerdonii mitochondrion, complete genome

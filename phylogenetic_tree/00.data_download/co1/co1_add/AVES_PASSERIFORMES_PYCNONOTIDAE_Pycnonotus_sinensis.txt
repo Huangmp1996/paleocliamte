@@ -1,0 +1,96 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	EU447064.1	615	Pycnonotus sinensis sinensis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700433.1	687	Pycnonotus sinensis voucher T5464 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700432.1	687	Pycnonotus sinensis voucher T5461 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700431.1	687	Pycnonotus sinensis voucher T5456 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700430.1	687	Pycnonotus sinensis voucher T5454 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700429.1	687	Pycnonotus sinensis voucher S02240 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700428.1	687	Pycnonotus sinensis voucher S02237 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700427.1	687	Pycnonotus sinensis voucher S02236 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700426.1	687	Pycnonotus sinensis voucher S00158 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700425.1	687	Pycnonotus sinensis voucher S00274 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700424.1	687	Pycnonotus sinensis voucher S01884 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700423.1	687	Pycnonotus sinensis voucher S02161 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700422.1	687	Pycnonotus sinensis voucher S02158 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700421.1	687	Pycnonotus sinensis voucher S02157 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700420.1	687	Pycnonotus sinensis voucher S02156 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700419.1	687	Pycnonotus sinensis voucher S02130 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700418.1	687	Pycnonotus sinensis voucher S01886 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700417.1	687	Pycnonotus sinensis voucher S00269 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700416.1	687	Pycnonotus sinensis voucher S00268 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700415.1	687	Pycnonotus sinensis voucher S00267 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700414.1	687	Pycnonotus sinensis voucher S00265 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700413.1	687	Pycnonotus sinensis voucher S02247 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700412.1	687	Pycnonotus sinensis voucher S02246 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700411.1	687	Pycnonotus sinensis voucher S01696 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700410.1	687	Pycnonotus sinensis voucher S01695 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700409.1	687	Pycnonotus sinensis voucher S00067 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700408.1	687	Pycnonotus sinensis voucher S00044 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700407.1	687	Pycnonotus sinensis voucher S02128 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700406.1	687	Pycnonotus sinensis voucher S00755 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700405.1	687	Pycnonotus sinensis voucher S00231 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700404.1	687	Pycnonotus sinensis voucher S00230 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700403.1	687	Pycnonotus sinensis voucher S00229 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	HQ700402.1	687	Pycnonotus sinensis voucher S00150 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170288.1	687	Pycnonotus sinensis voucher S00262 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170287.1	687	Pycnonotus sinensis voucher S00228 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170286.1	687	Pycnonotus sinensis voucher S01565 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170285.1	687	Pycnonotus sinensis voucher S01881 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170284.1	687	Pycnonotus sinensis voucher S00045 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170283.1	687	Pycnonotus sinensis voucher S01889 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170282.1	687	Pycnonotus sinensis voucher S01566 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170281.1	687	Pycnonotus sinensis voucher S01878 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170280.1	687	Pycnonotus sinensis voucher S01888 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170279.1	687	Pycnonotus sinensis voucher S01891 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170278.1	687	Pycnonotus sinensis voucher S00147 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170277.1	687	Pycnonotus sinensis voucher S00162 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170276.1	687	Pycnonotus sinensis voucher S01890 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170275.1	687	Pycnonotus sinensis voucher S00148 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170274.1	687	Pycnonotus sinensis voucher S00049 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170273.1	687	Pycnonotus sinensis voucher S00047 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170272.1	687	Pycnonotus sinensis voucher S00168 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170271.1	687	Pycnonotus sinensis voucher S00761 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170270.1	687	Pycnonotus sinensis voucher S00759 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170269.1	687	Pycnonotus sinensis voucher S00227 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170268.1	687	Pycnonotus sinensis voucher S00146 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170267.1	687	Pycnonotus sinensis voucher S01568 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170266.1	687	Pycnonotus sinensis voucher S01882 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170265.1	687	Pycnonotus sinensis voucher S00760 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170264.1	687	Pycnonotus sinensis voucher S00042 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170263.1	687	Pycnonotus sinensis voucher T5463 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170262.1	687	Pycnonotus sinensis voucher T5457 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170261.1	687	Pycnonotus sinensis voucher T5460 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170260.1	687	Pycnonotus sinensis voucher T5468 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170259.1	687	Pycnonotus sinensis voucher T5465 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170258.1	687	Pycnonotus sinensis voucher T5459 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170257.1	687	Pycnonotus sinensis voucher S01567 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170256.1	687	Pycnonotus sinensis voucher S00046 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170255.1	687	Pycnonotus sinensis voucher S00184 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170254.1	687	Pycnonotus sinensis voucher S00221 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170253.1	687	Pycnonotus sinensis voucher S00232 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170252.1	687	Pycnonotus sinensis voucher S00043 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170251.1	687	Pycnonotus sinensis voucher S00266 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170250.1	687	Pycnonotus sinensis voucher S00264 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170249.1	687	Pycnonotus sinensis voucher S01887 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170248.1	687	Pycnonotus sinensis voucher T5462 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170247.1	687	Pycnonotus sinensis voucher T5466 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170246.1	687	Pycnonotus sinensis voucher T5455 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170245.1	687	Pycnonotus sinensis voucher S00040 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170244.1	687	Pycnonotus sinensis voucher T5467 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170243.1	687	Pycnonotus sinensis voucher S00165 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170242.1	687	Pycnonotus sinensis voucher S00174 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170241.1	687	Pycnonotus sinensis voucher S00036 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170240.1	687	Pycnonotus sinensis voucher S00145 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170239.1	687	Pycnonotus sinensis voucher S00167 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170238.1	687	Pycnonotus sinensis voucher S00012 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170237.1	687	Pycnonotus sinensis voucher T5458 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU170236.1	687	Pycnonotus sinensis voucher S00273 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	GU475148.1	16923	Pycnonotus sinensis isolate 3953 mitochondrion, complete genome
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	FJ661088.1	681	Pycnonotus sinensis voucher AHNU:Y06031 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	FJ473108.1	655	Pycnonotus sinensis bio-material AMNH DOT 5237 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	KP943339.1	584	Pycnonotus sinensis sinensis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	AB843727.1	687	Pycnonotus sinensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO544-12
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	AB843110.1	616	Pycnonotus sinensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM769-11
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	AB843109.1	664	Pycnonotus sinensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM246-10
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	AB843108.1	676	Pycnonotus sinensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM327-10
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	KJ147475.1	16922	Pycnonotus sinensis hainanus mitochondrion, complete genome
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_sinensis	NC_013838.1	16923	Pycnonotus sinensis mitochondrion, complete genome

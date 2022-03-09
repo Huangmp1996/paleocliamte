@@ -1,0 +1,99 @@
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177477.1	16459	Andrias davidianus voucher ROM:11055 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177476.1	16449	Andrias davidianus voucher ROM:11054 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177475.1	16460	Andrias davidianus voucher ROM:11053 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177474.1	16465	Andrias davidianus voucher ROM:11052 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177473.1	16415	Andrias davidianus voucher ROM:11048 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177472.1	16446	Andrias davidianus voucher ROM:11047 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177471.1	16348	Andrias davidianus voucher ROM:11045 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177470.1	16316	Andrias davidianus voucher ROM:11041 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177469.1	16344	Andrias davidianus voucher NHM:1945.11.7.1 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177468.1	16464	Andrias davidianus voucher NHM:1909.7.22.1 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177467.1	16459	Andrias davidianus voucher MCZA2853 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177466.1	16449	Andrias davidianus voucher NMNH:52409 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177465.1	16447	Andrias davidianus voucher ZMB:24105 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177464.1	16422	Andrias davidianus voucher ROM:11039 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177463.1	16461	Andrias davidianus voucher ROM:11038 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177462.1	16451	Andrias davidianus voucher ROM:11037 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	MK177461.1	16463	Andrias davidianus voucher ROM:11036 mitochondrion, partial genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131061.1	16566	Andrias davidianus isolate HNSZSDJ82 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131060.1	16567	Andrias davidianus isolate AHHS695 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131059.1	16564	Andrias davidianus isolate ZJLSQY680 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131058.1	16568	Andrias davidianus isolate SXTBYG677 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131057.1	16567	Andrias davidianus isolate SXSLZS672 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131056.1	16800	Andrias davidianus isolate GXXA609 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131055.1	16503	Andrias davidianus isolate GXZY587 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131054.1	16500	Andrias davidianus isolate GZGDYX583 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131053.1	16567	Andrias davidianus isolate YNYL551 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131052.1	16500	Andrias davidianus isolate HNLS55 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131051.1	16501	Andrias davidianus isolate CQWL481 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131050.1	16498	Andrias davidianus isolate HNWMY48 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131049.1	16567	Andrias davidianus isolate HNLC409 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131048.1	16568	Andrias davidianus isolate HNJY390 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131047.1	16566	Andrias davidianus isolate SXYQLS371 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131046.1	16570	Andrias davidianus isolate GDLZ365 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131045.1	16570	Andrias davidianus isolate JXJGS352 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131044.1	16596	Andrias davidianus isolate JXJA336 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131043.1	16566	Andrias davidianus isolate SCMB244 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131042.1	16834	Andrias davidianus isolate GSTS240 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131041.1	16498	Andrias davidianus isolate GXRS226 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KU131040.1	16567	Andrias davidianus isolate SXTB202 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX298242.1	16497	Andrias davidianus isolate JZ voucher HS16095 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX298241.1	16568	Andrias davidianus isolate HZ voucher HS16093 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX298240.1	16567	Andrias davidianus isolate HQ voucher HS16092 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX298239.1	16569	Andrias davidianus isolate HB voucher HS16094 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KX268733.1	16565	Andrias davidianus voucher HS16091 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	AY916038.1	2032	Andrias davidianus NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	AY915918.1	1443	Andrias davidianus voucher MVZ204245 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152009.1	840	Andrias davidianus isolate GX30 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152008.1	840	Andrias davidianus isolate GX29 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152007.1	840	Andrias davidianus isolate GX28 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152006.1	840	Andrias davidianus isolate GX27 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152005.1	840	Andrias davidianus isolate GX26 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152004.1	840	Andrias davidianus isolate GX25 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152003.1	840	Andrias davidianus isolate GX24 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152002.1	840	Andrias davidianus isolate GX23 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152001.1	840	Andrias davidianus isolate GX22 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP152000.1	840	Andrias davidianus isolate GX21 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151999.1	840	Andrias davidianus isolate GX20 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151998.1	840	Andrias davidianus isolate GX19 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151997.1	840	Andrias davidianus isolate GX18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151996.1	840	Andrias davidianus isolate GX17 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151995.1	840	Andrias davidianus isolate GX16 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151994.1	840	Andrias davidianus isolate GX15 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151993.1	840	Andrias davidianus isolate GX14 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151992.1	840	Andrias davidianus isolate GX13 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151991.1	840	Andrias davidianus isolate GX12 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151990.1	840	Andrias davidianus isolate GX11 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151989.1	840	Andrias davidianus isolate GX10 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151988.1	840	Andrias davidianus isolate GX09 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151987.1	840	Andrias davidianus isolate GX08 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151986.1	840	Andrias davidianus isolate GX07 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151985.1	840	Andrias davidianus isolate GX06 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151984.1	840	Andrias davidianus isolate GX05 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151983.1	840	Andrias davidianus isolate GX04 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151982.1	840	Andrias davidianus isolate GX03 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151981.1	840	Andrias davidianus isolate GX02 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151980.1	840	Andrias davidianus isolate GX01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151979.1	840	Andrias davidianus isolate Sichuan20 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151978.1	840	Andrias davidianus isolate Sichuan19 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151977.1	840	Andrias davidianus isolate Sichuan18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151976.1	840	Andrias davidianus isolate Sichuan17 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151975.1	840	Andrias davidianus isolate Sichuan16 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151974.1	840	Andrias davidianus isolate Sichuan15 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151973.1	840	Andrias davidianus isolate Sichuan14 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151972.1	840	Andrias davidianus isolate Sichuan13 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151971.1	840	Andrias davidianus isolate Sichuan12 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151970.1	840	Andrias davidianus isolate Sichuan11 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151969.1	840	Andrias davidianus isolate Sichuan10 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151968.1	840	Andrias davidianus isolate Sichuan09 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151967.1	840	Andrias davidianus isolate Sichuan08 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151966.1	840	Andrias davidianus isolate Sichuan07 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151965.1	840	Andrias davidianus isolate Sichuan06 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151964.1	840	Andrias davidianus isolate Sichuan05 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151963.1	840	Andrias davidianus isolate Sichuan04 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151962.1	840	Andrias davidianus isolate Sichuan03 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151961.1	840	Andrias davidianus isolate Sichuan02 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151960.1	840	Andrias davidianus isolate Sichuan01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151959.1	840	Andrias davidianus isolate Shaanxi20 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151958.1	840	Andrias davidianus isolate Shaanxi19 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_CRYPTOBRANCHIDAE_Andrias_davidianus	KP151957.1	840	Andrias davidianus isolate Shaanxi18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

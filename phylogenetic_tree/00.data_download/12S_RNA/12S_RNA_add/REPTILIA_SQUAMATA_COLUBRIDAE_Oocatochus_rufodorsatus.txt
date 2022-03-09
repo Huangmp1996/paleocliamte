@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MK065405.1	497	Oocatochus rufodorsatus voucher CHS192 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	MK065404.1	497	Oocatochus rufodorsatus voucher CHS191 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	NC_022146.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KC990020.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	JQ815341.1	613	Oocatochus rufodorsatus voucher NIBRRP0000100164 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	JQ815340.1	613	Oocatochus rufodorsatus voucher NIBRRP0000100169 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	JQ815339.1	613	Oocatochus rufodorsatus voucher NIBRRP0000100360 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	AY122800.1	592	Oocatochus rufodorsatus SH1444 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	AY122799.1	592	Oocatochus rufodorsatus SH1416 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	AF236675.2	809	Elaphe refuodorsata 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

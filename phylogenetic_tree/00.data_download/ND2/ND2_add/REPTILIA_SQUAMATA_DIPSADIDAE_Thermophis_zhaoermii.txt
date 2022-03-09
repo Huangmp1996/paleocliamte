@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	MK198944.1	1026	Thermophis zhaoermii voucher CHS256 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	JF411071.1	1032	Thermophis zhaoermii isolate HS200818-1 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	GQ166168.1	17322	Thermophis zhaoermii mitochondrion, complete genome
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	NC_012816.1	17322	Thermophis zhaoermii mitochondrion, complete genome
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	JN559855.1	794	Thermophis zhaoermii haplotype LitangT1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

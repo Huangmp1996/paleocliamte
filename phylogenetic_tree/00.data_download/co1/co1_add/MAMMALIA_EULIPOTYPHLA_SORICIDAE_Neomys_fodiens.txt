@@ -1,0 +1,9 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	MN122915.1	16867	Neomys fodiens isolate DM31 mitochondrion, partial genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	MN122912.1	16188	Neomys fodiens isolate DM30 mitochondrion, partial genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	HM380203.1	657	Neomys fodiens voucher NOMAM-013 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KX859269.1	688	Neomys fodiens voucher MGL-95 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	JF499325.1	657	Neomys fodiens voucher ZMMU AAL-309 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	NC_025559.1	17260	Neomys fodiens mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KM092492.1	17260	Neomys fodiens mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	GU981249.1	591	Neomys fodiens isolate Neomfod1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	AY332673.1	439	Neomys fodiens specimen-voucher P29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product

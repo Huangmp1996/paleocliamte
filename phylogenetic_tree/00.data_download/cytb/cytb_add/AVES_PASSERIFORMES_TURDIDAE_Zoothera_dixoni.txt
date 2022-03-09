@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dixoni	KU195731.1	1077	Zoothera dixoni voucher Mosk_R130390_U3461 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dixoni	KU195730.1	1031	Zoothera dixoni voucher IZCAS:IOZ17516 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dixoni	KU195729.1	1077	Zoothera dixoni voucher AMNH:DOT5680 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dixoni	EU154685.1	1038	Zoothera dixoni voucher NRM 2007 6488 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dixoni	AY752362.1	998	Zoothera dixoni cytochrome b (cytb) gene, partial cds; mitochondrial

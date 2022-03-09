@@ -1,0 +1,6 @@
+AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	NC_028408.1	17184	Gallicrex cinerea mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	KP057881.1	17184	Gallicrex cinerea mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	AB843517.1	658	Gallicrex cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO169-10
+AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	KC439319.1	654	Gallicrex cinerea cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	JQ342130.1	914	Gallicrex cinerea isolate DJ2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	JQ342129.1	914	Gallicrex cinerea isolate DJ1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

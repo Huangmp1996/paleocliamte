@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	NC_058599.1	17873	Rana johnsi mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ571365.1	17873	Rana johnsi mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	DQ283214.1	2399	Rana johnsi voucher AMNH A161191 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	KX269182.1	1909	Rana johnsi isolate ABV-00203 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	AF206096.1	508	Rana johnsi voucher ROM 24230 12S ribosomal RNA gene, partial sequence; mitochondrial

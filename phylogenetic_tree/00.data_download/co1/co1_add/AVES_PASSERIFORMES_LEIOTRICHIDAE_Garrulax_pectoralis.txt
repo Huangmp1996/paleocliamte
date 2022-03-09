@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	MH265838.1	569	Garrulax pectoralis subfusus voucher NRM 570054 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	MH265837.1	633	Garrulax pectoralis picticollis voucher NRM 570095 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	EU447028.1	615	Garrulax pectoralis pingi cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	JQ174923.2	651	Garrulax pectoralis voucher USNM:Birds:620484 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	JQ174922.1	652	Garrulax pectoralis voucher USNM:Birds:620356 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_pectoralis	JQ174921.1	652	Garrulax pectoralis voucher USNM:Birds:616215 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

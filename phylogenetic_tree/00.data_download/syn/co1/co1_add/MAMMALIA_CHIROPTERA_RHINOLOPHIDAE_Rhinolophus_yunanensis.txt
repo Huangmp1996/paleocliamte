@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	NC_036419.1	16864	Rhinolophus yunnanensis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	KY808508.1	16864	Rhinolophus yunnanensis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	FJ840487.1	519	Rhinolophus yunnanensis haplotype GZNU20060103001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	DQ666481.1	488	Rhinolophus yunnanensis isolate 1233 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

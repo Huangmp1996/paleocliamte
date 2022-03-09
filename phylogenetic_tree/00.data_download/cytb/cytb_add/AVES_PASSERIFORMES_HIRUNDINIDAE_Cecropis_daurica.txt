@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_HIRUNDINIDAE_Cecropis_daurica	AY825977.1	971	Cecropis daurica cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Cecropis_daurica	KJ456305.1	1143	Cecropis daurica voucher UWBM:72130 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Cecropis_daurica	NC_024107.1	17949	Cecropis daurica mitochondrion, complete genome
+AVES_PASSERIFORMES_HIRUNDINIDAE_Cecropis_daurica	KJ499911.1	17949	Cecropis daurica mitochondrion, complete genome

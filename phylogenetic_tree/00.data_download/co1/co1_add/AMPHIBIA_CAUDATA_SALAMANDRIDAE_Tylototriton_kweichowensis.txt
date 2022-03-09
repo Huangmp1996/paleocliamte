@@ -1,0 +1,7 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KU320632.1	16725	Tylototriton kweichowensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	NC_029231.1	16727	Tylototriton kweichowensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KT373904.1	16727	Tylototriton kweichowensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	DQ517851.1	2711	Tylototriton kweichowensis voucher TP25555 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	AB689014.1	2711	Tylototriton kweichowensis mitochondrial DNA, trnL(UUR) - cox1 region, isolate: TK-2009-pet_trade-Tk01
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	JQ046332.1	561	Tylototriton kweichowensis voucher GZ070653 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	JN700849.1	576	Tylototriton kweichowensis voucher KIZ09346 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

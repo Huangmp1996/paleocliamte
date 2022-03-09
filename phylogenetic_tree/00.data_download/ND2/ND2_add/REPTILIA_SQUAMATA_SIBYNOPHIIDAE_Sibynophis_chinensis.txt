@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK199137.1	1029	Sibynophis chinensis voucher CHS880 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK199136.1	1029	Sibynophis chinensis voucher CHS879 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK199065.1	582	Sibynophis chinensis voucher CHS753 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK199034.1	1026	Sibynophis chinensis voucher CHS695 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK198942.1	1026	Sibynophis chinensis voucher CHS246 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK198941.1	1026	Sibynophis chinensis voucher CHS245 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	NC_022430.1	17163	Sibynophis chinensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	KC000131.1	1010	Sibynophis chinensis isolate FTB2495 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	KF360246.1	17163	Sibynophis chinensis isolate BBRB090907-1 mitochondrion, complete genome

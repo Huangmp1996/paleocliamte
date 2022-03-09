@@ -1,0 +1,13 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	NC_056333.1	16838	Episoriculus leucops mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	MW114663.1	16838	Episoriculus leucops mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	KY605325.1	690	Episoriculus leucops isolate LC058 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	KY605324.1	690	Episoriculus leucops isolate LC053 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	KY605323.1	690	Episoriculus leucops isolate LC050 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	KY605322.1	690	Episoriculus leucops isolate LC046 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	KY605321.1	690	Episoriculus leucops isolate LC041 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	KY605320.1	690	Episoriculus leucops isolate LC039 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	KY605319.1	690	Episoriculus leucops isolate LC001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981238.1	591	Episoriculus leucops isolate Epileu08 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981237.1	591	Episoriculus leucops isolate Epileu07 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981236.1	591	Episoriculus leucops isolate Epileu02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981235.1	591	Episoriculus leucops isolate Epileu01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

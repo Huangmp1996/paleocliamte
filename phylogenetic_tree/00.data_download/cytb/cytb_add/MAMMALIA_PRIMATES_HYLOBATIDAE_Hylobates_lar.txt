@@ -1,0 +1,71 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576783.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar15
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576782.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar14
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576781.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar13
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576780.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar12
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576779.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar11
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576778.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar10
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576777.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar09
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576776.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar08
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576775.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar07
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576774.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar06
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576773.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar05
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576772.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar04-Jhybrid02
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576771.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar03
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576770.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar02
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC576769.1	1140	Hylobates lar mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jhlar01
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548038.1	1901	Hylobates lar KZ14 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548037.1	1901	Hylobates lar KZ13 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548036.1	1901	Hylobates lar KZ10 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548035.1	1901	Hylobates lar KZ08 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548034.1	1901	Hylobates lar KZ06 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548033.1	1901	Hylobates lar KZ05 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548032.1	1901	Hylobates lar KZ04 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548031.1	1901	Hylobates lar KZ03 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548030.1	1901	Hylobates lar KZ02 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548029.1	1901	Hylobates lar KZ01 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548028.1	1901	Hylobates lar DZ23 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548027.1	1901	Hylobates lar DZ22 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548026.1	1901	Hylobates lar DZ18 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548025.1	1901	Hylobates lar DZ15 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548024.1	1900	Hylobates lar DZ13 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548023.1	1901	Hylobates lar DZ10 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548022.1	1901	Hylobates lar DZ09 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548021.1	1901	Hylobates lar DZ08 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548020.1	1901	Hylobates lar DZ03 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	LC548019.1	1901	Hylobates lar DZ02 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321329.1	1140	Hylobates lar vestitus haplotype HVE1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321328.1	1140	Hylobates lar lar haplotype HLL1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321327.1	1140	Hylobates lar entelloides haplotype HEN2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321326.1	1140	Hylobates lar entelloides haplotype HEN1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321325.1	1140	Hylobates lar carpenteri haplotype HCA1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321324.1	1140	Hylobates lar haplotype HLA6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321323.1	1140	Hylobates lar haplotype HLA5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321322.1	1140	Hylobates lar haplotype HLA4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321321.1	1140	Hylobates lar haplotype HLA3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321320.1	1140	Hylobates lar haplotype HLA2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	GU321319.1	1140	Hylobates lar haplotype HLA1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622777.1	16473	Hylobates lar isolate T13 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622776.1	16473	Hylobates lar isolate T12 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622775.1	16474	Hylobates lar isolate T11 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622774.1	16475	Hylobates lar isolate T10 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622773.1	16473	Hylobates lar isolate T04 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622772.1	16474	Hylobates lar isolate P01 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622771.1	16471	Hylobates lar isolate J29 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622770.1	16474	Hylobates lar isolate J28 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622769.1	16431	Hylobates lar isolate J27 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622768.1	16472	Hylobates lar isolate J26 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622767.1	16415	Hylobates lar isolate J10 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622766.1	16472	Hylobates lar isolate J09 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622765.1	16472	Hylobates lar isolate 502 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622764.1	16473	Hylobates lar isolate 501 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622763.1	16473	Hylobates lar isolate 26 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	NC_002082.1	16472	Hylobates lar mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	L02772.1	252	Hylobates lar mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	L02771.1	252	Hylobates lar mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	L02770.1	252	Hylobates lar mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	L02769.1	252	Hylobates lar mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	L02768.1	252	Hylobates lar mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	L02767.1	252	Hylobates lar mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	L02766.1	252	Hylobates lar mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	Y13301.1	1141	Hylobates lar mitochondrial DNA for cytb gene
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	X99256.1	16472	Hylobates lar complete mitochondrial DNA sequence

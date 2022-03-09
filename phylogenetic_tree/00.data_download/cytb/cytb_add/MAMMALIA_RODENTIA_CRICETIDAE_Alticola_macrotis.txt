@@ -1,0 +1,16 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK341117.1	1122	Alticola macrotis voucher 30 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK341095.1	975	Alticola macrotis voucher 4117 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK341092.1	189	Alticola macrotis voucher 4639 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK341090.1	803	Alticola macrotis vinogradovi voucher 4115 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK328038.1	1128	Alticola macrotis voucher 3497 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK328037.1	1128	Alticola macrotis voucher 3495 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK328036.1	1128	Alticola macrotis voucher 3486 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK328035.1	1128	Alticola macrotis voucher 3673 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	MK328034.1	1127	Alticola macrotis voucher 4116 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	AF119273.1	1143	Alticola macrotis cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	AY309411.1	1143	Alticola macrotis specimen-voucher AF7474 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	DQ845196.1	1143	Alticola macrotis vinogradovi voucher ZINRAS 90981 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	DQ845195.1	685	Alticola macrotis vinogradovi voucher ZINRAS 90985 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	DQ845189.1	896	Alticola macrotis vinogradovi voucher ZINRAS 90980 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	KC962260.1	835	Alticola macrotis isolate Amac27 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_macrotis	KC962259.1	835	Alticola macrotis isolate Amac25 cytochrome b (Cyt b) gene, partial cds; mitochondrial

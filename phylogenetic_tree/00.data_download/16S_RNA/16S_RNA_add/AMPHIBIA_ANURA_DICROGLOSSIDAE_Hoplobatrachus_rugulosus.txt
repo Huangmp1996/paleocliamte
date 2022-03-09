@@ -1,0 +1,100 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MT820165.1	808	Hoplobatrachus rugulosus voucher UPLB:ACD 912 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MG935822.1	555	Hoplobatrachus rugulosus voucher USNM:Herp:520480 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MG935821.1	555	Hoplobatrachus rugulosus voucher USNM:Herp:524038 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	MG847619.1	559	Hoplobatrachus rugulosus isolate S24 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	DQ283141.1	2415	Hoplobatrachus rugulosus voucher FMNH 255191 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609321.1	555	Hoplobatrachus rugulosus isolate D124 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609320.1	555	Hoplobatrachus rugulosus isolate D118 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609319.1	555	Hoplobatrachus rugulosus isolate D114 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609318.1	555	Hoplobatrachus rugulosus isolate D093 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609317.1	555	Hoplobatrachus rugulosus isolate D085 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609316.1	532	Hoplobatrachus rugulosus isolate D082 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609315.1	555	Hoplobatrachus rugulosus isolate D047 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609314.1	295	Hoplobatrachus rugulosus isolate D046 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609313.1	555	Hoplobatrachus rugulosus isolate D045 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609312.1	524	Hoplobatrachus rugulosus isolate D044 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609311.1	533	Hoplobatrachus rugulosus isolate D043 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609310.1	525	Hoplobatrachus rugulosus isolate D042 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609309.1	527	Hoplobatrachus rugulosus isolate D040 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609308.1	528	Hoplobatrachus rugulosus isolate D039 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609307.1	430	Hoplobatrachus rugulosus isolate DO37 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609306.1	549	Hoplobatrachus rugulosus isolate D036 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609305.1	555	Hoplobatrachus rugulosus isolate DO35 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609304.1	524	Hoplobatrachus rugulosus isolate D034 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609303.1	555	Hoplobatrachus rugulosus isolate D033 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609302.1	512	Hoplobatrachus rugulosus isolate D032 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609301.1	555	Hoplobatrachus rugulosus isolate D031 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609300.1	481	Hoplobatrachus rugulosus isolate D030 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609299.1	528	Hoplobatrachus rugulosus isolate D029 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609298.1	555	Hoplobatrachus rugulosus isolate D028 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609297.1	526	Hoplobatrachus rugulosus isolate D027 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609296.1	549	Hoplobatrachus rugulosus isolate D026 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609295.1	514	Hoplobatrachus rugulosus isolate D025 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609294.1	555	Hoplobatrachus rugulosus isolate D024 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609293.1	555	Hoplobatrachus rugulosus isolate D023 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609292.1	555	Hoplobatrachus rugulosus isolate D022 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609291.1	398	Hoplobatrachus rugulosus isolate D021 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609290.1	555	Hoplobatrachus rugulosus isolate D020 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609289.1	555	Hoplobatrachus rugulosus isolate D019 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609288.1	555	Hoplobatrachus rugulosus isolate D018 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609287.1	555	Hoplobatrachus rugulosus isolate D017 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609286.1	358	Hoplobatrachus rugulosus isolate D016 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609285.1	518	Hoplobatrachus rugulosus isolate D015 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609284.1	555	Hoplobatrachus rugulosus isolate D014 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609283.1	526	Hoplobatrachus rugulosus isolate D013 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609282.1	515	Hoplobatrachus rugulosus isolate D012 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609281.1	515	Hoplobatrachus rugulosus isolate D011 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609280.1	359	Hoplobatrachus rugulosus isolate D010 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609279.1	555	Hoplobatrachus rugulosus isolate D009 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609278.1	555	Hoplobatrachus rugulosus isolate D008 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609277.1	555	Hoplobatrachus rugulosus isolate D007 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609276.1	528	Hoplobatrachus rugulosus isolate D006 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609275.1	396	Hoplobatrachus rugulosus isolate D005 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609274.1	510	Hoplobatrachus rugulosus isolate D004 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609273.1	555	Hoplobatrachus rugulosus isolate D003 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609272.1	531	Hoplobatrachus rugulosus isolate D002 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KY609271.1	555	Hoplobatrachus rugulosus isolate D001 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KP298036.1	2401	Hoplobatrachus rugulosus voucher ACD:912 tRNA-Phe gene, partial sequence; 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR827770.1	413	Hoplobatrachus rugulosus voucher 2007.6265 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR827769.1	406	Hoplobatrachus rugulosus voucher TAD_P318 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR827768.1	413	Hoplobatrachus rugulosus voucher K3178 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR827767.1	413	Hoplobatrachus rugulosus voucher 2003.8636 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KR827766.1	413	Hoplobatrachus rugulosus voucher 0033Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB530609.1	1424	Hoplobatrachus rugulosus mitochondrial genes for 16S rRNA, tRNA-Val, partial sequence, haplotype: Hrug-Th
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	KC196066.1	16903	Hoplobatrachus rugulosus mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	NC_019615.1	20309	Hoplobatrachus rugulosus mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	HM104684.1	20309	Hoplobatrachus rugulosus voucher JHHWW001 mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB636618.1	1514	Hoplobatrachus rugulosus mitochondrial gene for 16S rRNA, partial sequence, haplotype: Chin-Nongkh-3-16S
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB636617.1	1585	Hoplobatrachus rugulosus mitochondrial gene for 16S rRNA, complete sequence, haplotype: Chin-Chacho-3663-16S
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB636616.1	1587	Hoplobatrachus rugulosus mitochondrial gene for 16S rRNA, complete sequence, haplotype: Chin-Chacho-3909-16S
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB636615.1	1585	Hoplobatrachus rugulosus mitochondrial gene for 16S rRNA, complete sequence, haplotype: Chin-Chacho-3911-16S
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	DQ346985.1	1366	Hoplobatrachus rugulosus isolate 0684 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AY322307.1	751	Hoplobatrachus rugulosus 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AY322289.1	555	Hoplobatrachus rugulosus 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AY014372.1	480	Hoplobatrachus rugulosus isolate Viet149 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AY014368.1	524	Hoplobatrachus rugulosus isolate 1Laos 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB539962.1	449	Hoplobatrachus rugulosus mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB539961.1	363	Hoplobatrachus rugulosus mitochondrial gene for 12S rRNA, partial sequence
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514840.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: TRD-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514839.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: WNK-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514838.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: WNK-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514837.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: UDN-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514836.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: UBR-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514835.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: UBR-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514834.1	363	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: TAK-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514833.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: SKN-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514832.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: SKN-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514831.1	363	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: SKL-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514830.1	363	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: PNA-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514829.1	363	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: PCB-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514828.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: NKR-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514827.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: NKR-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514826.1	363	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: NKN-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514825.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: NAN-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514824.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: MDH-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514823.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: MDH-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514822.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: CTR-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514821.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: CTR-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514820.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: CHP-2
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514819.1	362	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: CHP-1
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_rugulosus	AB514818.1	363	Hoplobatrachus rugulosus gene for 12S rRNA, partial sequence, haplotype: CBR-1

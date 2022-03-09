@@ -1,0 +1,55 @@
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	KU130880.1	402	Tupaia belangeri isolate 126.3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	KU130879.1	402	Tupaia belangeri isolate 126.2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531776.1	1140	Tupaia belangeri isolate LQ28D3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531775.1	1140	Tupaia belangeri isolate LQ28D1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531774.1	1140	Tupaia belangeri isolate LQ21D1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531773.1	1140	Tupaia belangeri isolate LQ14D2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531772.1	1140	Tupaia belangeri isolate LQ14D1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531771.1	1140	Tupaia belangeri isolate LQ7D2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531770.1	1140	Tupaia belangeri isolate LQ7D1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531769.1	1140	Tupaia belangeri isolate LQF1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531768.1	1140	Tupaia belangeri isolate LQ23 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531767.1	1140	Tupaia belangeri isolate LQ20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531766.1	1140	Tupaia belangeri isolate LQ19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531765.1	1140	Tupaia belangeri isolate LQ18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531764.1	1140	Tupaia belangeri isolate LQ17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531763.1	1140	Tupaia belangeri isolate LQ16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531762.1	1140	Tupaia belangeri isolate LQ15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531761.1	1140	Tupaia belangeri isolate LQ14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531760.1	1140	Tupaia belangeri isolate LQ13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531759.1	1140	Tupaia belangeri isolate LQ12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531758.1	1140	Tupaia belangeri isolate LQ11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531757.1	1140	Tupaia belangeri isolate LQ10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531756.1	1140	Tupaia belangeri isolate LQ9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531755.1	1140	Tupaia belangeri isolate LQ8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531754.1	1140	Tupaia belangeri isolate LQ7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531753.1	1140	Tupaia belangeri isolate LQ6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531752.1	1140	Tupaia belangeri isolate LQ5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531751.1	1140	Tupaia belangeri isolate LQ4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531750.1	1140	Tupaia belangeri isolate LQ3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU531749.1	1140	Tupaia belangeri isolate LQ2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836341.1	1134	Tupaia belangeri isolate N3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836340.1	1134	Tupaia belangeri isolate N25 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836339.1	1134	Tupaia belangeri isolate H9_TS110 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836338.1	1134	Tupaia belangeri isolate H8_MD408 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836337.1	1134	Tupaia belangeri isolate H5_T84 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836336.1	1134	Tupaia belangeri isolate H5_N22 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836335.1	1134	Tupaia belangeri isolate H4_N2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836334.1	1134	Tupaia belangeri isolate H3_N36 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836333.1	1134	Tupaia belangeri isolate H2_TS04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836332.1	1134	Tupaia belangeri isolate H2_N30 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836331.1	1134	Tupaia belangeri isolate H1_N39 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836330.1	1134	Tupaia belangeri isolate H1_MD265 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836329.1	1134	Tupaia belangeri isolate H12_N29 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836328.1	1134	Tupaia belangeri isolate H12_N11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836327.1	1134	Tupaia belangeri isolate H11_TS211 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836326.1	1134	Tupaia belangeri isolate H11_TS111 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	HQ836325.1	1134	Tupaia belangeri isolate H10_TS208 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	EU376531.1	1140	Tupaia belangeri isolate LQ1 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	AF217811.1	16754	Tupaia belangeri mitochondrion, complete sequence
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	DQ986459.1	1140	Tupaia belangeri isolate A1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	NC_002521.1	16754	Tupaia belangeri mitochondrion, complete genome
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	JN800724.1	16805	Tupaia belangeri isolate H5 mitochondrion, complete genome
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	JN800723.1	16758	Tupaia belangeri isolate H1-HD mitochondrion, complete genome
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	JN800722.1	16791	Tupaia belangeri isolate H1 mitochondrion, complete genome
+MAMMALIA_SCANDENTIA_TUPAIIDAE_Tupaia_belangeri	AJ421453.1	16745	Tupaia belangeri complete mitochondrial genome

@@ -1,0 +1,7 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	MN733918.1	16644	Rana kukunoris mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	MT418671.1	647	Rana kukunoris voucher SYS a006652 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	MT418655.1	647	Rana kukunoris voucher SYS a006653 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KU246049.1	18863	Rana kukunoris voucher RG-GYLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	NC_035804.1	18863	Rana kukunoris voucher RG-GYLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KU310893.1	15182	Rana kukunoris mitochondrion, partial genome
+AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	JF939073.1	558	Rana kukunoris voucher CJ06102001 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial

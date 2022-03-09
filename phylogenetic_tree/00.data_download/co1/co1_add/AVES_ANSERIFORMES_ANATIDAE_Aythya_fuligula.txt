@@ -1,0 +1,16 @@
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	MT410934.1	16640	Aythya fuligula mitochondrion, partial genome
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	DQ433344.1	670	Aythya fuligula voucher UWBM 56543 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	JN788908.1	503	Aythya fuligula isolate J1482 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	JF499100.1	684	Aythya fuligula voucher USNM:641807 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	JF499099.1	694	Aythya fuligula voucher USNM:641849 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	GU571750.1	648	Aythya fuligula voucher BISE-Aves195 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	GU571749.1	648	Aythya fuligula voucher BISE-Aves349 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	GU571274.1	747	Aythya fuligula voucher NHMO-BC542 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	GU571273.1	742	Aythya fuligula voucher NHMO-BC184 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	DQ433345.1	674	Aythya fuligula voucher UWBM 63666 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	DQ433343.1	619	Aythya fuligula voucher UWBM 56541 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	AB842580.1	670	Aythya fuligula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM337-10
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	AB842579.1	641	Aythya fuligula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM568-10
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	AB842578.1	676	Aythya fuligula mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM569-10
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	NC_024595.1	16616	Aythya fuligula voucher JS04 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	KJ722069.1	16616	Aythya fuligula voucher JS04 mitochondrion, complete genome

@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	MK064858.1	657	Calamaria pavimentata voucher CHS758 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	KU529450.1	658	Calamaria pavimentata pavimentata isolate RN1755 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	KU529449.1	658	Calamaria pavimentata pavimentata isolate RN1218 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	KU529448.1	658	Calamaria pavimentata pavimentata isolate RN1206 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	KU529447.1	658	Calamaria pavimentata pavimentata isolate RN1064 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial

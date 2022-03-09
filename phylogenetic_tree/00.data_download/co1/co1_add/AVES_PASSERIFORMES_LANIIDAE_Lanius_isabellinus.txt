@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	GQ482020.1	694	Lanius isabellinus voucher UWBM 46630 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	MF580193.1	658	Lanius isabellinus voucher USNM:Birds:653269 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621612.1	1176	Lanius isabellinus isolate N17 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621611.1	1176	Lanius isabellinus isolate N16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621610.1	1176	Lanius isabellinus isolate N15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621588.1	1143	Lanius isabellinus isolate M17 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621587.1	1143	Lanius isabellinus isolate M16 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF621586.1	1143	Lanius isabellinus isolate M15 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	GQ482019.1	694	Lanius isabellinus voucher UWBM 60139 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	GQ482018.1	694	Lanius isabellinus voucher UWBM 46496 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	FJ465337.1	612	Lanius isabellinus voucher ZMA 56203 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	EF422251.1	1176	Lanius isabellinus cytohrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	KP995437.1	16819	Lanius isabellinus mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	NC_027655.1	16819	Lanius isabellinus mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_isabellinus	HQ168059.1	694	Lanius isabellinus voucher PSRCEW-BB-IS01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

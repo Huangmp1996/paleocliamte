@@ -1,0 +1,98 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366098.1	351	Rousettus leschenaultii isolate NPAB0448 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366097.1	386	Rousettus leschenaultii isolate NPAB0447 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366096.1	377	Rousettus leschenaultii isolate NPAB0405 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366095.1	308	Rousettus leschenaultii isolate NPAB0360 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366094.1	403	Rousettus leschenaultii isolate NPAB0339 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366093.1	372	Rousettus leschenaultii isolate NPAB0319 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366092.1	385	Rousettus leschenaultii isolate NPAB0296 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366091.1	435	Rousettus leschenaultii isolate NPAB0228 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366090.1	434	Rousettus leschenaultii isolate NPAB0209 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366089.1	435	Rousettus leschenaultii isolate NPAB0204 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366088.1	383	Rousettus leschenaultii isolate NPAB0152 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366087.1	408	Rousettus leschenaultii isolate NPAB0110 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366085.1	375	Rousettus leschenaultii isolate NPAB0097 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366084.1	380	Rousettus leschenaultii isolate NPAB0093 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366082.1	435	Rousettus leschenaultii isolate NPAB0082 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366081.1	357	Rousettus leschenaultii isolate NPAB0072 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366080.1	333	Rousettus leschenaultii isolate NPAB0070 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366079.1	373	Rousettus leschenaultii isolate NPAB0065 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366078.1	392	Rousettus leschenaultii isolate NPAB0052 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366077.1	375	Rousettus leschenaultii isolate NPAB0049 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366076.1	390	Rousettus leschenaultii isolate NPAB0044 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366075.1	385	Rousettus leschenaultii isolate NPAB0034 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366074.1	383	Rousettus leschenaultii isolate NPAB0025 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366073.1	435	Rousettus leschenaultii isolate NPAB0022 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366072.1	372	Rousettus leschenaultii isolate NPAB0009 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MT366071.1	372	Rousettus leschenaultii isolate NPAB0003 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	NC_046927.1	16655	Rousettus leschenaultii isolate CKM109 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MN816355.1	16703	Rousettus leschenaultii isolate VN431 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MN816354.1	16655	Rousettus leschenaultii isolate CKM109 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MH999929.1	964	Rousettus leschenaultii haplotype cyt25 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MH999924.1	904	Rousettus leschenaultii haplotype cyt20 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MH999915.1	964	Rousettus leschenaultii haplotype cyt11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MH999910.1	958	Rousettus leschenaultii haplotype cyt6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	LC426462.1	1650	Rousettus leschenaultii PyVP-NJ33C mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	LC426461.1	1646	Rousettus leschenaultii PyVH-NJ32F mitochondrial cytb gene, cytochrome b, partial sequence
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	MG570061.1	1140	Rousettus leschenaultii cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	KX823315.1	1140	Rousettus leschenaultii isolate T265 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	JN572099.1	420	Rousettus leschenaultii isolate Rous2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	EU434956.1	1140	Rousettus leschenaultii cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	AF044662.1	402	Rousettus leschenaulti cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489957.1	1138	Rousettus leschenaultii isolate YD02 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489956.1	1138	Rousettus leschenaultii isolate YD03 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489955.1	1138	Rousettus leschenaultii isolate YD04 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489954.1	1138	Rousettus leschenaultii isolate YD05 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489953.1	1138	Rousettus leschenaultii isolate YD06 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489952.1	1138	Rousettus leschenaultii isolate YN24 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489951.1	1138	Rousettus leschenaultii isolate YN23 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489950.1	1138	Rousettus leschenaultii isolate YN21 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489949.1	1138	Rousettus leschenaultii isolate YN19 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489948.1	1138	Rousettus leschenaultii isolate YN18 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489947.1	1138	Rousettus leschenaultii isolate GD37 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489946.1	1138	Rousettus leschenaultii isolate GD36 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489945.1	1138	Rousettus leschenaultii isolate GD26 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489944.1	1138	Rousettus leschenaultii isolate GD25 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489943.1	1138	Rousettus leschenaultii isolate GD24 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489942.1	1138	Rousettus leschenaultii isolate GX65 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489941.1	1138	Rousettus leschenaultii isolate GX64 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489940.1	1138	Rousettus leschenaultii isolate GX62 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489939.1	1138	Rousettus leschenaultii isolate GX61 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489938.1	1138	Rousettus leschenaultii isolate GX59 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489937.1	1138	Rousettus leschenaultii isolate GX58 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489936.1	1138	Rousettus leschenaultii isolate HN61 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489935.1	1138	Rousettus leschenaultii isolate HN60 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489934.1	1138	Rousettus leschenaultii isolate HN59 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489933.1	1138	Rousettus leschenaultii isolate HN5 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489932.1	1138	Rousettus leschenaultii isolate HN4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ489931.1	1138	Rousettus leschenaultii isolate HN2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549337.1	1140	Rousettus leschenaultii isolate YD01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549336.1	1140	Rousettus leschenaultii isolate YD02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549335.1	1140	Rousettus leschenaultii isolate YD03 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549334.1	1140	Rousettus leschenaultii isolate YD04 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549333.1	1140	Rousettus leschenaultii isolate YD05 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549332.1	1140	Rousettus leschenaultii isolate YD06 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549331.1	1140	Rousettus leschenaultii isolate YN24 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549330.1	1140	Rousettus leschenaultii isolate YN23 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549329.1	1140	Rousettus leschenaultii isolate YN21 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549328.1	1140	Rousettus leschenaultii isolate YN19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549327.1	1140	Rousettus leschenaultii isolate YN18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549326.1	1140	Rousettus leschenaultii isolate GD38 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549325.1	1140	Rousettus leschenaultii isolate GD37 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549324.1	1140	Rousettus leschenaultii isolate GD36 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549323.1	1140	Rousettus leschenaultii isolate GD26 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549322.1	1140	Rousettus leschenaultii isolate GD25 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549321.1	1140	Rousettus leschenaultii isolate GD24 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549320.1	1140	Rousettus leschenaultii isolate GX65 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549319.1	1140	Rousettus leschenaultii isolate GX64 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549318.1	1140	Rousettus leschenaultii isolate GX62 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549317.1	1140	Rousettus leschenaultii isolate GX61 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549316.1	1140	Rousettus leschenaultii isolate GX59 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549315.1	1140	Rousettus leschenaultii isolate GX58 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549314.1	1140	Rousettus leschenaultii isolate HN61 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549313.1	1140	Rousettus leschenaultii isolate HN60 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549312.1	1140	Rousettus leschenaultii isolate HN59 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549311.1	1140	Rousettus leschenaultii isolate HN5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549310.1	1140	Rousettus leschenaultii isolate HN4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	FJ549309.1	1140	Rousettus leschenaultii isolate HN2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	DQ888669.1	1140	Rousettus leschenaulti isolate A8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_leschenaultii	JN398218.1	1140	Rousettus leschenaultii cytochrome b (CytB) gene, complete cds; mitochondrial

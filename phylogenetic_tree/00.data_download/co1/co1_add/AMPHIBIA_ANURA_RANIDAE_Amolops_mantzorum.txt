@@ -1,0 +1,23 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MN961409.1	564	Amolops mantzorum voucher SCUM045825HX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MN961408.1	570	Amolops mantzorum voucher SCUM045817HX cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK568323.1	633	Amolops mantzorum voucher SYS a005365 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK568322.1	633	Amolops mantzorum voucher SYS a005360 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK568319.1	621	Amolops mantzorum voucher SYS a005336 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605625.1	637	Amolops mantzorum voucher SYS:a005372 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605624.1	637	Amolops mantzorum voucher SYS:a005371 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605623.1	637	Amolops mantzorum voucher SYS:a005370 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605622.1	637	Amolops mantzorum voucher SYS:a005368 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605621.1	637	Amolops mantzorum voucher SYS:a005367 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605620.1	637	Amolops mantzorum voucher SYS:a005366 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605619.1	637	Amolops mantzorum voucher SYS:a005359 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605618.1	637	Amolops mantzorum voucher SYS:a005358 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605617.1	637	Amolops mantzorum voucher SYS:a005357 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605616.1	637	Amolops mantzorum voucher SYS:a005356 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MK605611.1	620	Amolops mantzorum voucher SYS:a005337 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	KF771332.1	1397	Amolops mantzorum NADH dehydrogenase subunit 2 (nad2) gene, partial cds; tRNA-Trp (trnW), tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	KF771330.1	1397	Amolops kangtingensis NADH dehydrogenase subunit 2 (nad2) gene, partial cds; tRNA-Trp (trnW), tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	NC_024180.1	17744	Amolops mantzorum mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	KJ546429.1	17744	Amolops mantzorum mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	JN700800.1	602	Amolops mantzorum voucher SCUM045817HX cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	JN700799.1	602	Amolops mantzorum voucher SCUM045824HX cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	JN700798.1	602	Amolops mantzorum voucher KIZ05127 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,100 @@
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	MW046261.1	1140	Hipposideros armiger voucher BM.2019.05.25 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	MF630864.1	1140	Hipposideros armiger isolate HUN-12 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KX467587.1	1140	Hipposideros armiger voucher GX-029 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	AF451332.1	528	Hipposideros armiger cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	EU434946.1	1140	Hipposideros armiger haplotype 3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	EU434945.1	1140	Hipposideros armiger haplotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	EU434944.1	1140	Hipposideros armiger haplotype 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	DQ297585.1	1140	Hipposideros armiger cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	DQ865345.1	1140	Hipposideros armiger voucher YN-05x-97 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KP119673.1	1140	Hipposideros armiger haplotype Har_25 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KP119672.1	1140	Hipposideros armiger haplotype Har_24 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KP119671.1	1140	Hipposideros armiger haplotype Har_23 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KP119670.1	1140	Hipposideros armiger haplotype Har_22 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KP119669.1	1140	Hipposideros armiger haplotype Har_21 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KP119668.1	1140	Hipposideros armiger haplotype Har_20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KP119667.1	1140	Hipposideros armiger haplotype Har_19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735806.1	1140	Hipposideros armiger haplotype Har_18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735805.1	1140	Hipposideros armiger haplotype Har_17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735804.1	1140	Hipposideros armiger haplotype Har_16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735803.1	1140	Hipposideros armiger haplotype Har_15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735802.1	1140	Hipposideros armiger haplotype Har_14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735801.1	1140	Hipposideros armiger haplotype Har_13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735800.1	1140	Hipposideros armiger haplotype Har_12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735799.1	1140	Hipposideros armiger haplotype Har_11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735798.1	1140	Hipposideros armiger haplotype Har_10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735797.1	1140	Hipposideros armiger haplotype Har-09 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735796.1	1140	Hipposideros armiger haplotype Har_08 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735795.1	1140	Hipposideros armiger haplotype Har_07 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735794.1	1140	Hipposideros armiger haplotype Har_06 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735793.1	1140	Hipposideros armiger haplotype Har_05 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735792.1	1140	Hipposideros armiger haplotype Har_04 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735791.1	1140	Hipposideros armiger haplotype Har_03 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735790.1	1140	Hipposideros armiger haplotype Har_02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	KJ735789.1	1140	Hipposideros armiger haplotype Har-01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849197.1	1140	Hipposideros armiger voucher FJ0830 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849196.1	1140	Hipposideros armiger voucher JX06X70 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849195.1	1140	Hipposideros armiger voucher JX09115 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849194.1	1140	Hipposideros armiger voucher JX06X71 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849193.1	1140	Hipposideros armiger voucher HaiN1135 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849192.1	1140	Hipposideros armiger voucher GD0843 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849191.1	1140	Hipposideros armiger voucher GD0847 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849190.1	1140	Hipposideros armiger voucher GD0850 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849189.1	1140	Hipposideros armiger voucher HaiN1132 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849188.1	1140	Hipposideros armiger voucher 93206 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849187.1	1140	Hipposideros armiger voucher 9897 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849186.1	1140	Hipposideros armiger voucher YN08118 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849185.1	1140	Hipposideros armiger voucher YN08107 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849184.1	1140	Hipposideros armiger voucher YN0899 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849183.1	1140	Hipposideros armiger voucher L10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849182.1	1140	Hipposideros armiger voucher 20001111 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849181.1	1140	Hipposideros armiger voucher PSUZC100103 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849180.1	1140	Hipposideros armiger voucher PSUZC100105 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849179.1	1140	Hipposideros armiger voucher YN07C311 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849178.1	1140	Hipposideros armiger voucher YN07C310 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849177.1	1140	Hipposideros armiger voucher YN0816 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849176.1	1140	Hipposideros armiger voucher YN0817 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849175.1	1140	Hipposideros armiger voucher YN0855 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849174.1	1140	Hipposideros armiger voucher SC76 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849173.1	1140	Hipposideros armiger voucher GL1020 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849172.1	1140	Hipposideros armiger voucher GL1014 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849171.1	1140	Hipposideros armiger voucher GZ07C100 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849170.1	1140	Hipposideros armiger voucher SC108 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849169.1	1140	Hipposideros armiger voucher GX085 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849168.1	1140	Hipposideros armiger voucher GZ07C46 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849167.1	1140	Hipposideros armiger voucher VN0926 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849166.1	1140	Hipposideros armiger voucher 2007276 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849165.1	1140	Hipposideros armiger voucher T2705092 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849164.1	1140	Hipposideros armiger voucher VN095 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849163.1	1140	Hipposideros armiger voucher GX0829 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849162.1	1140	Hipposideros armiger voucher YN0697 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849161.1	1140	Hipposideros armiger voucher YN0656 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849160.1	1140	Hipposideros armiger voucher YN07C156 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849159.1	1140	Hipposideros armiger voucher YN07C123 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849158.1	1140	Hipposideros armiger voucher VN096 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849157.1	1140	Hipposideros armiger voucher Harm4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849156.1	1140	Hipposideros armiger voucher 98385 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849155.1	1140	Hipposideros armiger voucher T0909091 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849154.1	1140	Hipposideros armiger voucher ITBV:CMR3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849153.1	1140	Hipposideros armiger voucher 98388 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849152.1	1140	Hipposideros armiger voucher ITBV:CMR2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849151.1	1140	Hipposideros armiger voucher T20080911 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX849150.1	1140	Hipposideros armiger voucher ITBV:CMR1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247022.1	1635	Hipposideros armiger voucher PSUZC-MM2008.143 haplotype Harm_16 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247021.1	1636	Hipposideros armiger voucher IEBR-T.080607.3 haplotype Harm_15 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247020.1	1636	Hipposideros armiger voucher IEBR-T.100607.11 haplotype Harm_14 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247019.1	1636	Hipposideros armiger haplotype Harm_08 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247018.1	1636	Hipposideros armiger haplotype Harm_07 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247017.1	1636	Hipposideros armiger haplotype Harm_06 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247016.1	846	Hipposideros armiger voucher HZM.17.35008 haplotype Harm_01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JX465363.1	1140	Hipposideros armiger isolate WenchengHa7 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	NC_018540.1	16784	Hipposideros armiger mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN980966.1	16784	Hipposideros armiger mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247039.1	1635	Hipposideros armiger voucher IEBR-T.171109.2 haplotype Harm_13 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247038.1	1635	Hipposideros armiger voucher IEBR-T.270509.1 haplotype Harm_12 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247037.1	1635	Hipposideros armiger voucher IEBR-T.171109.1 haplotype Harm_11 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247036.1	1636	Hipposideros armiger voucher IEBR-T.270509.2 haplotype Harm_10 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247035.1	1636	Hipposideros armiger voucher IEBR-VN.09.6 haplotype Harm_09 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247034.1	1636	Hipposideros armiger voucher IEBR-T.190908.2 haplotype Harm_05 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247033.1	1636	Hipposideros armiger voucher IEBR-T.090909.1 haplotype Harm_04 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_HIPPOSIDERIDAE_Hipposideros_armiger	JN247032.1	1636	Hipposideros armiger voucher IEBR-T.110708.14 haplotype Harm_03 cytochrome b (cytb) gene, complete cds; tRNA-Thr and tRNA-Pro genes, complete sequence; and D-loop, partial sequence; mitochondrial

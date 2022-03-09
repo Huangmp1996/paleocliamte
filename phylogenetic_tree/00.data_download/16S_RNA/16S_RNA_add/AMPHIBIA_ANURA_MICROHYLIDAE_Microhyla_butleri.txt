@@ -1,0 +1,38 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534626.1	864	Microhyla butleri voucher ZMMU:A5335-40 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534625.1	864	Microhyla butleri voucher ZMMU:NAP-06827 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534624.1	863	Microhyla butleri voucher ZMMU:NAP-02815 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534623.1	864	Microhyla butleri voucher ZMMU:A4922-64 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534622.1	821	Microhyla butleri voucher ZMMU:A6038 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534621.1	864	Microhyla butleri voucher ZMMU:A5549-96 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534620.1	863	Microhyla butleri voucher ZMMU:A6037 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534521.1	538	Microhyla butleri voucher ZMMU:NAP-06827 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534520.1	462	Microhyla butleri voucher ZMMU:NAP-02815 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534519.1	479	Microhyla butleri voucher ZMMU:A4922-64 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534518.1	462	Microhyla butleri voucher ZMMU:A6038 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534517.1	464	Microhyla butleri voucher ZMMU:A5549-96 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MN534516.1	465	Microhyla butleri voucher ZMMU:A6037 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MK713571.1	563	Microhyla butleri isolate Nam Kar large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MK208938.1	2199	Microhyla butleri voucher ZMMU:NAP8283 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MK208937.1	2211	Microhyla butleri voucher ZMMU:NAP8282 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	LC465693.1	1911	Microhyla butleri KUHE:33557 mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MH286428.1	495	Microhyla butleri voucher ITBCZ4376_Microhyla_butleri_Tram_Lap_Gia large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MH286427.1	806	Microhyla butleri voucher ITBCZ4360_Microhyla_sp._Tram_Lap_Gia_Lai large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MH286426.1	806	Microhyla butleri voucher ITBCZ4361_Microhyla_sp._Tram_Lap_Gia_Lai large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MG935894.1	550	Microhyla butleri voucher USNM:Herp:586948 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MG935893.1	550	Microhyla butleri voucher MBM-JBS2952 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	MG935892.1	550	Microhyla butleri voucher USNM:Herp:586947 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KT285802.1	16720	Microhyla butleri isolate MB1 mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	NC_030049.1	16722	Microhyla butleri isolate CIbSZ20150408 mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KT972718.1	16722	Microhyla butleri isolate CIbSZ20150408 mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR827916.1	408	Microhyla butleri voucher 2006.2336 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR827915.1	408	Microhyla butleri voucher TAD_P956 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR827914.1	409	Microhyla butleri voucher 1997.5503 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR827913.1	409	Microhyla butleri voucher 1999.5639 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR827912.1	409	Microhyla butleri voucher K754 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KR827911.1	408	Microhyla butleri voucher 2006.2333 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	KC180042.1	575	Microhyla butleri voucher CAS:HERP:210751 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	AB634665.1	811	Microhyla butleri mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:44203
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	AB634664.1	811	Microhyla butleri mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:40591
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	AB201189.1	860	Microhyla butleri mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher:KUHE33557
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	AB598339.1	822	Microhyla butleri mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:40649
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_butleri	AF285199.1	557	Microhyla butleri TZ9874 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

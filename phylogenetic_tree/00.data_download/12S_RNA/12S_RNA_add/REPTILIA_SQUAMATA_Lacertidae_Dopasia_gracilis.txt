@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_Lacertidae_Dopasia_gracilis	MN661343.1	17133	Dopasia gracilis voucher ML01 mitochondrion, complete genome
+REPTILIA_SQUAMATA_Lacertidae_Dopasia_gracilis	NC_030369.1	17788	Dopasia gracilis isolate RE13001 mitochondrion, complete genome
+REPTILIA_SQUAMATA_Lacertidae_Dopasia_gracilis	KJ941042.1	17788	Dopasia gracilis isolate RE13001 mitochondrion, complete genome
+REPTILIA_SQUAMATA_Lacertidae_Dopasia_gracilis	AF380953.1	1018	Ophisaurus gracilis 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products

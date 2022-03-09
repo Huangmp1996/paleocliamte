@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935634.1	655	Occidozyga lima voucher USNM:Herp:586927 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935633.1	654	Occidozyga lima voucher USNM:Herp:586926 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935632.1	621	Occidozyga lima voucher USNM:Herp:586925 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935631.1	616	Occidozyga lima voucher USNM:Herp:586924 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935630.1	655	Occidozyga lima voucher USNM:Herp:520376 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	MG935629.1	655	Occidozyga lima voucher MBM-JBS5405 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	KR087832.1	705	Occidozyga lima voucher T2814 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_lima	KR087831.1	705	Occidozyga lima voucher 2003.0327 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

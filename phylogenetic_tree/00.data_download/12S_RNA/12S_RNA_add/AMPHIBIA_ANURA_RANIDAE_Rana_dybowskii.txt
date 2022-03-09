@@ -1,0 +1,42 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	MH719370.1	559	Rana dybowskii small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876980.1	443	Rana dybowskii isolate mms1366 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876979.1	443	Rana dybowskii isolate mms1365 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876978.1	443	Rana dybowskii isolate mms1306 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876977.1	443	Rana dybowskii isolate mms1305 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876976.1	443	Rana dybowskii isolate mms1304 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876975.1	443	Rana dybowskii isolate mms1268 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876974.1	443	Rana dybowskii isolate mms1267 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876973.1	443	Rana dybowskii isolate mms1266 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876972.1	443	Rana dybowskii isolate mms1265 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876971.1	443	Rana dybowskii isolate mms1264 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876970.1	443	Rana dybowskii isolate mms0264 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876969.1	443	Rana dybowskii isolate mms0225 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876968.1	442	Rana dybowskii isolate mms0220 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876967.1	442	Rana dybowskii isolate mms0218 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KM876966.1	443	Rana dybowskii isolate mms0210 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024858.1	393	Rana dybowskii voucher SYNU-HR33 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024857.1	393	Rana dybowskii voucher SYNU-FS04 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024856.1	393	Rana dybowskii voucher SYNU-BX13 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024855.1	393	Rana dybowskii voucher SYNU13070057 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024854.1	393	Rana dybowskii voucher SYNU13070056 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024853.1	393	Rana dybowskii voucher SYNU13070055 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024852.1	393	Rana dybowskii voucher SYNU13070054 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024851.1	393	Rana dybowskii voucher SYNU13070053 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024850.1	393	Rana dybowskii voucher SYNU13070052 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024849.1	393	Rana dybowskii voucher SYNU13070051 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024848.1	393	Rana dybowskii voucher SYNU08100691 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024847.1	393	Rana dybowskii voucher SYNU08100690 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024846.1	393	Rana dybowskii voucher SYNU07030624 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX024845.1	393	Rana dybowskii voucher SYNU06100592 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX269188.1	1952	Rana dybowskii isolate MSUZP-IVM-1d 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KF204617.1	393	Rana dybowskii voucher SYNU07040020 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	NC_023528.1	18864	Rana dybowskii mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KF898355.1	18864	Rana dybowskii mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	DQ289125.1	537	Rana dybowskii voucher KizYP06097 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	DQ289124.1	510	Rana dybowskii voucher KizYP06056 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	DQ289123.1	537	Rana dybowskii voucher KizYP06096 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	DQ289100.1	407	Rana dybowskii voucher KizYP06097 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	DQ289099.1	407	Rana dybowskii voucher KizYP06056 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	DQ289098.1	404	Rana dybowskii voucher KizYP06096 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	AB058855.1	407	Rana dybowskii gene for12S ribosomal RNA, partial sequence, isolate:dyb. J
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	AF218715.1	421	Rana dybowskii 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

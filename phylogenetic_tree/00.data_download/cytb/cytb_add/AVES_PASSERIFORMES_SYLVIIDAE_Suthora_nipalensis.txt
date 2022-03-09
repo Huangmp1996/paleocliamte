@@ -1,0 +1,25 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230632.1	857	Suthora nipalensis beaulieui isolate PL07 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230631.1	857	Suthora nipalensis beaulieui isolate PL06 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230630.1	857	Suthora nipalensis beaulieui isolate PL05 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230629.1	857	Suthora nipalensis beaulieui isolate PL04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230628.1	857	Suthora nipalensis beaulieui isolate PL03 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230627.1	857	Suthora nipalensis beaulieui isolate PL01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230626.1	857	Suthora nipalensis feae isolate DI05 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230625.1	857	Suthora nipalensis feae isolate DI04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230624.1	857	Suthora nipalensis feae isolate DI03 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230623.1	857	Suthora nipalensis feae isolate DI02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230622.1	857	Suthora nipalensis feae isolate DI01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230621.1	857	Suthora nipalensis poliotis isolate MW04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230620.1	857	Suthora nipalensis poliotis isolate MW03 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230619.1	857	Suthora nipalensis poliotis isolate MW02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MT230618.1	857	Suthora nipalensis poliotis isolate MW01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	JF756730.1	1143	Paradoxornis nipalensis craddocki voucher NTNU T1783 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	JF756729.1	1143	Paradoxornis nipalensis craddocki voucher NTNU T1781 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	JF756728.1	1143	Paradoxornis nipalensis beaulieu voucher NTNU T5351 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	JF756727.1	1143	Paradoxornis nipalensis poliotis voucher NTNU T2668 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	JF756726.1	1143	Paradoxornis nipalensis nipalensis voucher NTNU T2901 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	AF484875.1	477	Paradoxornis nipalensis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	NC_028437.1	16996	Paradoxornis nipalensis voucher PNIP20150817V2 mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	KT598467.1	16996	Paradoxornis nipalensis voucher PNIP20150817V2 mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	KJ456371.1	1143	Paradoxornis nipalensis voucher CAS:95893 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	JN827133.1	967	Paradoxornis nipalensis voucher AMNH DOT5190 cytochrome b (CYTB) gene, partial cds; mitochondrial

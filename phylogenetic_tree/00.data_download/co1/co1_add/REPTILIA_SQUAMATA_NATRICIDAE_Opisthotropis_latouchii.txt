@@ -1,0 +1,16 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	NC_046823.1	17051	Opisthotropis latouchii mitochondrion, complete genome
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK570292.1	17051	Opisthotropis latouchii mitochondrion, complete genome
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064905.1	657	Opisthotropis latouchii voucher CHS826 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064891.1	657	Opisthotropis latouchii voucher CHS805 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064888.1	657	Opisthotropis latouchii voucher CHS801 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064866.1	657	Opisthotropis latouchii voucher CHS767 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064848.1	657	Opisthotropis latouchii voucher CHS741 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064830.1	657	Opisthotropis latouchii voucher CHS713 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064820.1	657	Opisthotropis latouchii voucher CHS692 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064815.1	657	Opisthotropis latouchii voucher CHS678 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064811.1	657	Opisthotropis latouchii voucher CHS671 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064782.1	657	Opisthotropis latouchii voucher CHS622 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064762.1	657	Opisthotropis latouchii voucher CHS586 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064761.1	657	Opisthotropis latouchii voucher CHS585 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064759.1	657	Opisthotropis latouchii voucher CHS582 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_latouchii	MK064671.1	369	Opisthotropis latouchii voucher CHS194 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,6 @@
+AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	MH041490.1	16747	Grus leucogeranus mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	LC114478.1	5271	Grus leucogeranus mitochondrial cytb, ND6 genes for cytochrome b, NADH dehydrogenase subunit 6, tRNA-Thr, tRNA-Pro and control region
+AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	AF123900.1	522	Grus leucogeranus NADH dehydrogenase subunit 6 (ND6) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	U27549.1	1143	Grus leucogeranus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	NC_020574.1	16688	Grus leucogeranus mitochondrion, complete genome
+AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	FJ769846.1	16688	Grus leucogeranus mitochondrion, complete genome

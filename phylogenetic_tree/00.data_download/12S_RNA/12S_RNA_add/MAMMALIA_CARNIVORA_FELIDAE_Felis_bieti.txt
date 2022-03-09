@@ -1,0 +1,3 @@
+MAMMALIA_CARNIVORA_FELIDAE_Felis_bieti	AY773081.1	355	Felis bieti cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_bieti	KP202273.1	16809	Felis silvestris bieti isolate FBI mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Felis_bieti	AY773084.1	371	Felis bieti 12S ribosomal RNA gene, partial sequence; mitochondrial

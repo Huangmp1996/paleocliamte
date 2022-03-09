@@ -1,0 +1,9 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	KY410916.1	16175	Callosciurus inornatus voucher USNM 259731 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	KY410915.1	16173	Callosciurus inornatus voucher USNM 240514 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	KY410914.1	16178	Callosciurus inornatus voucher USNM 240516 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	KY410864.1	16184	Callosciurus inornatus voucher USNM 488223 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	MK256849.1	572	Callosciurus inornatus isolate QB_74 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	MK256841.1	637	Callosciurus inornatus isolate NA18_99 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	MK256840.1	637	Callosciurus inornatus isolate NA18_98 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	MK256838.1	637	Callosciurus inornatus isolate NA18_77 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Callosciurus_inornatus	MK256837.1	637	Callosciurus inornatus isolate NA18_59 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

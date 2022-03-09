@@ -1,0 +1,8 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	MW046277.1	432	Rhizomys pruinosus voucher NTS.2019.04.58 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	MG193909.1	16579	Rhizomys pruinosus isolate Wenzhou mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	MH189045.1	741	Rhizomys pruinosus isolate HDMK8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	MH189044.1	711	Rhizomys pruinosus isolate HDMK7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	KY754146.1	1140	Rhizomys pruinosus cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	NC_021478.1	16575	Rhizomys pruinosus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	KC789518.1	16575	Rhizomys pruinosus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Rhizomys_pruinosus	AJ238285.1	241	Rhizomys pruinosus pruinosus mitochondrial cytb gene, isolate zhsh1, partial

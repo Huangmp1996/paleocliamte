@@ -1,0 +1,18 @@
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	MW111525.1	1834	Duttaphrynus himalayanus voucher KIZ08305 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	KT031501.2	569	Duttaphrynus himalayanus voucher MVZ:Herp:241544 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	KT031500.2	569	Duttaphrynus himalayanus voucher MVZ:Herp:241543 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	MT982992.1	532	Duttaphrynus himalayanus voucher CDZMTU242 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	MT982991.1	531	Duttaphrynus himalayanus voucher CDZMTU241 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	MT982990.1	532	Duttaphrynus himalayanus voucher CDZMTU240 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	MT982989.1	532	Duttaphrynus himalayanus voucher CDZMTU239 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	MT982988.1	532	Duttaphrynus himalayanus voucher CDZMTU238 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	MT982987.1	532	Duttaphrynus himalayanus voucher CDZMTU237 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	MT982986.1	532	Duttaphrynus himalayanus voucher CDZMTU236 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	KY000452.1	520	Duttaphrynus himalayanus isolate DH5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	KY000451.1	516	Duttaphrynus himalayanus isolate DH4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	KY000450.1	517	Duttaphrynus himalayanus isolate DH3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	KY000449.1	566	Duttaphrynus himalayanus isolate DH2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	KY000448.1	517	Duttaphrynus himalayanus isolate DH1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	FJ882790.1	3861	Duttaphrynus himalayanus voucher SDB 4566; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	KT991345.1	553	Duttaphrynus himalayanus voucher CCMB D03_b166 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_himalayanus	AF160780.1	568	Bufo himalayanus KIZ-95L010 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

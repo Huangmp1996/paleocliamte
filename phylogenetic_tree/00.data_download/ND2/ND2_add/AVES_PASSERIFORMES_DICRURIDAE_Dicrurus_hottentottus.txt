@@ -1,0 +1,20 @@
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MN991429.1	1041	Dicrurus hottentottus voucher LSUMNS B-38627 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MN991345.1	1041	Dicrurus hottentottus voucher LSUMNS B-93493 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MN991344.1	1041	Dicrurus hottentottus borneensis voucher LSUMNS B-88021 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MN991343.1	1041	Dicrurus hottentottus borneensis voucher LSUMNS B-85173 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MN991342.1	1041	Dicrurus hottentottus borneensis voucher LSUMNS B-78667 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MN991341.1	1041	Dicrurus hottentottus borneensis voucher LSUMNS B-78653 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MN991340.1	1041	Dicrurus hottentottus borneensis voucher LSUMNS B-38644 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	NC_043948.1	16963	Dicrurus hottentottus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MK814795.1	16963	Dicrurus hottentottus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	GQ145384.1	980	Dicrurus hottentottus voucher KUNHM 14164 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	EF449662.1	1041	Dicrurus hottentottus isolate N51/35-1B NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	EF449655.1	1041	Dicrurus hottentottus isolate L17 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	KP069686.1	1041	Dicrurus hottentottus voucher KUNHM 10036 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	KF818994.1	1040	Dicrurus hottentottus palawanensis voucher UAM27418 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	KF818993.1	1040	Dicrurus hottentottus palawanensis voucher UAM27416 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	KF818992.1	1040	Dicrurus hottentottus striatus voucher UAM25474 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	KF818991.1	1040	Dicrurus hottentottus striatus voucher UAM27419 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	KF818990.1	1040	Dicrurus hottentottus samarensis voucher UAM21472 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	KF818989.1	1040	Dicrurus hottentottus samarensis voucher UAM21718 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	JQ864456.1	1041	Dicrurus hottentottus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,10 @@
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	MT773170.1	663	Tadorna ferruginea isolate 19Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	GQ482747.1	694	Tadorna ferruginea voucher UWBM 57887 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	GQ482745.1	694	Tadorna ferruginea voucher UWBM 57893 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	GQ482749.1	694	Tadorna ferruginea voucher UWBM 46399 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	GQ482748.1	694	Tadorna ferruginea voucher UWBM 56474 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	GQ482746.1	694	Tadorna ferruginea voucher UWBM 56475 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	NC_024640.1	16639	Tadorna ferruginea mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	KP718122.1	647	Tadorna ferruginea voucher KT-085 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	KF684946.1	16639	Tadorna ferruginea mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	KC439340.1	639	Tadorna ferruginea cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

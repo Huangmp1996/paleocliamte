@@ -1,0 +1,25 @@
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MW020582.1	16603	Mareca penelope voucher CGRB5061 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MW020581.1	16603	Mareca penelope voucher CGRB5038 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	NC_050973.1	16596	Anas penelope mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MT304825.1	16596	Anas penelope mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	GQ481323.1	694	Mareca penelope voucher UWBM 44651 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703208.1	695	Anas penelope isolate 08_873_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703207.1	695	Anas penelope isolate 08_871_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703206.1	695	Anas penelope isolate 08_854_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703205.1	695	Anas penelope isolate 08_853_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703204.1	695	Anas penelope isolate 08_852_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703203.1	695	Anas penelope isolate 20_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703202.1	695	Anas penelope isolate 2-12_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703201.1	695	Anas penelope isolate 2-11_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703200.1	695	Anas penelope isolate 2-10_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703199.1	695	Anas penelope isolate 2-3_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703198.1	695	Anas penelope isolate 2-2_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN703197.1	695	Anas penelope isolate 2-1_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN788897.1	503	Anas penelope isolate J1497 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JN788896.1	503	Anas penelope isolate J0588 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	JF499087.1	670	Anas penelope voucher USNM:641859 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	GU571720.1	648	Anas penelope voucher BISE-Aves136 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	GU571719.1	648	Anas penelope voucher BISE-Aves446 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	GU571239.1	726	Anas penelope voucher NHMO-BC499 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	GQ481324.1	694	Anas penelope voucher UWBM 59450 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	FJ808624.1	677	Anas penelope voucher KU08005 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

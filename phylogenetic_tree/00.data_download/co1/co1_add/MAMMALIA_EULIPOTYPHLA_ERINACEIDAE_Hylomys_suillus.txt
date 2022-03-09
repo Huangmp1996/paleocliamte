@@ -1,0 +1,8 @@
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	KY605335.1	690	Hylomys suillus isolate LC152 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	KY605334.1	690	Hylomys suillus isolate LC129 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	KY605333.1	690	Hylomys suillus isolate LC128 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	KY605332.1	690	Hylomys suillus isolate LC125 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	NC_010298.1	15353	Hylomys suillus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	JF459627.1	481	Hylomys suillus voucher ROM:101955 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AM905042.1	15353	Hylomys suillus mitochondrial genome, isolate T-0675
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AM905041.1	17290	Hylomys suillus complete mitochondrial genome, isolate T-1773

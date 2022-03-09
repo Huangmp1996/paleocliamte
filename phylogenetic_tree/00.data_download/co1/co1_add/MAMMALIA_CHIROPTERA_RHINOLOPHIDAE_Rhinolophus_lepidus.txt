@@ -1,0 +1,18 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	MG821186.1	676	Rhinolophus lepidus voucher NHM.OU.CHI.41.2014 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	KY034120.1	657	Rhinolophus lepidus voucher SB060511-02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	KY034117.1	532	Rhinolophus lepidus voucher SB060514-10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541581.1	421	Rhinolophus lepidus voucher ZMMU S-175129 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541580.1	657	Rhinolophus lepidus voucher ROM MAM 110888 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541579.1	656	Rhinolophus lepidus voucher ROM MAM 110887 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541578.1	657	Rhinolophus lepidus voucher ROM MAM 110886 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541577.1	657	Rhinolophus lepidus voucher ROM MAM 110893 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541576.1	657	Rhinolophus lepidus voucher INECOL M0076 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541575.1	421	Rhinolophus lepidus voucher INECOL M0177 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541574.1	637	Rhinolophus lepidus voucher CMF950728-07 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541573.1	657	Rhinolophus lepidus voucher SMF 83922 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541572.1	657	Rhinolophus lepidus voucher SMF 83920 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541571.1	421	Rhinolophus lepidus voucher CMF920704-02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541570.1	421	Rhinolophus lepidus voucher CMF920704-01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541569.1	657	Rhinolophus lepidus voucher HZM 31.36495 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541568.1	562	Rhinolophus lepidus voucher ZMMU S-175417 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	HM541567.1	421	Rhinolophus lepidus voucher ZMMU S-175294 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

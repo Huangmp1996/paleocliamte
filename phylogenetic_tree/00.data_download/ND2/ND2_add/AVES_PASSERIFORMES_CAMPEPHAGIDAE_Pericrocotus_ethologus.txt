@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_ethologus	GQ255856.1	525	Pericrocotus ethologus annamensis NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_ethologus	GQ255855.1	525	Pericrocotus ethologus ethologus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_ethologus	EF052789.1	1039	Pericrocotus ethologus isolate L1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_ethologus	NC_024257.1	16935	Pericrocotus ethologus mitochondrion, complete genome
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_ethologus	JX256246.1	16935	Pericrocotus ethologus mitochondrion, complete genome
+AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_ethologus	JQ864471.1	1041	Pericrocotus ethologus voucher AMNH 5533 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

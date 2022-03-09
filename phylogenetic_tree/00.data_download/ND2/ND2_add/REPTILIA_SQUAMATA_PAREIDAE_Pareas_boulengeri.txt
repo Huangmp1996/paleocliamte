@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	NC_050894.1	18190	Pareas boulengeri mitochondrion, complete genome
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MN866896.1	18190	Pareas boulengeri mitochondrion, complete genome
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK199140.1	1029	Pareas boulengeri voucher CHS885 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK198849.1	1026	Pareas boulengeri voucher CHS020 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_boulengeri	MK198848.1	1026	Pareas boulengeri voucher CHS019 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

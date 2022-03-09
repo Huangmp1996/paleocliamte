@@ -1,0 +1,27 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	MK567177.1	953	Pomatorhinus ferruginosus voucher SR2016-437 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	MK567176.1	990	Pomatorhinus ferruginosus voucher SR2016-52 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	MK567175.1	950	Pomatorhinus ferruginosus voucher SR2016-50 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	MK567174.1	950	Pomatorhinus ferruginosus voucher SR2016-731 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529061.1	519	Pomatorhinus ferruginosus orientalis voucher MNHN:7.11 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529060.1	519	Pomatorhinus ferruginosus dickinsoni voucher AMNH:DOT 12275 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529059.1	519	Pomatorhinus ferruginosus orientalis voucher AMNH:DOT 2631 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529058.1	519	Pomatorhinus ferruginosus orientalis voucher AMNH:DOT 10954 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529057.1	519	Pomatorhinus ferruginosus dickinsoni voucher AMNH:DOT 10777 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529056.1	485	Pomatorhinus ferruginosus stanfordi voucher AMNH:306657 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529055.1	485	Pomatorhinus ferruginosus stanfordi voucher AMNH:306654 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529054.1	519	Pomatorhinus ferruginosus formosus voucher BMNH:1947.7.20.18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529053.1	519	Pomatorhinus ferruginosus orientalis voucher AMNH:290864 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529052.1	519	Pomatorhinus ferruginosus stanfordi voucher USNM:585859 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529051.1	519	Pomatorhinus ferruginosus stanfordi voucher USNM:584531 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529050.1	519	Pomatorhinus ferruginosus formosus voucher FMNH:326575 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529049.1	519	Pomatorhinus ferruginosus formosus voucher FMNH:236315 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529048.1	519	Pomatorhinus ferruginosus voucher BMNH:1949.Whil.13267 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529047.1	519	Pomatorhinus ferruginosus voucher BMNH:1947.42.13 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529046.1	519	Pomatorhinus ferruginosus albogularis voucher USNM:534837 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	HQ529045.1	519	Pomatorhinus ferruginosus albogularis voucher USNM:534836 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	KJ455588.1	1041	Pomatorhinus ferruginosus voucher MTD C62173 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	GU724466.1	1041	Pomatorhinus ferruginosus orientalis voucher KIZ:04359 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	GU724462.1	1041	Pomatorhinus ferruginosus orientalis voucher KIZ:04384 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	JN826628.1	1041	Pomatorhinus ferruginosus voucher KUNHM 15241 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	JN826627.1	1041	Pomatorhinus ferruginosus voucher KUNHM 15090 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ferruginosus	JN826625.1	1041	Pomatorhinus ferruginosus voucher KUNHM 15146 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

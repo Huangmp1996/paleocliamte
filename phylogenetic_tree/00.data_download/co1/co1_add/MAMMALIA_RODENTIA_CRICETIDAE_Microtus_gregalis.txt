@@ -1,0 +1,15 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199180.1	16110	Lasiopodomys gregalis isolate MI081 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199179.1	16173	Lasiopodomys gregalis isolate MI362 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199178.1	16114	Lasiopodomys gregalis isolate MI1105 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199177.1	16015	Lasiopodomys gregalis isolate MI079 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199176.1	16113	Lasiopodomys gregalis isolate MI093 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199175.1	16116	Lasiopodomys gregalis isolate MI361 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199174.1	16106	Lasiopodomys gregalis isolate MI283 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199173.1	16023	Lasiopodomys gregalis isolate MI069 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199172.1	16096	Lasiopodomys gregalis isolate MI068 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199171.1	16113	Lasiopodomys gregalis isolate MI080 mitochondrion, partial genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199170.1	16294	Lasiopodomys gregalis isolate MG1 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	MN199169.1	16292	Lasiopodomys gregalis isolate MG2 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	KP190315.1	1542	Lasiopodomys gregalis isolate XJ140 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	KP190314.1	1542	Lasiopodomys gregalis isolate XJ132 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_gregalis	KP190313.1	1542	Lasiopodomys gregalis isolate XJ002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

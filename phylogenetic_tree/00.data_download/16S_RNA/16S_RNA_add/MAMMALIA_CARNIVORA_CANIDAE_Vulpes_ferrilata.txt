@@ -1,0 +1,3 @@
+MAMMALIA_CARNIVORA_CANIDAE_Vulpes_ferrilata	NC_027935.1	16667	Vulpes ferrilata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Vulpes_ferrilata	KT033906.1	16667	Vulpes ferrilata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_CANIDAE_Vulpes_ferrilata	KC538826.1	413	Vulpes ferrilata voucher QTPNM 12112003 16S ribosomal RNA gene, partial sequence; mitochondrial

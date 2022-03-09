@@ -1,0 +1,14 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	MW429380.1	16834	Crocidura tanakae mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	NC_046831.1	16969	Crocidura tanakae mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	MN128390.1	16969	Crocidura tanakae mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358567.1	1029	Crocidura tanakae voucher KU165848 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358566.1	1031	Crocidura tanakae voucher KU165847 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358565.1	1029	Crocidura tanakae voucher KU165846 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358564.1	1035	Crocidura tanakae voucher KU165845 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358563.1	1032	Crocidura tanakae voucher KU165844 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358562.1	1033	Crocidura tanakae voucher KU165843 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358558.1	1044	Crocidura tanakae voucher NTU979 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358557.1	1044	Crocidura tanakae voucher NTU971 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358556.1	1033	Crocidura tanakae voucher NTU970 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358555.1	1010	Crocidura tanakae voucher NTU969 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_tanakae	GU358554.1	1034	Crocidura tanakae voucher NTU788 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

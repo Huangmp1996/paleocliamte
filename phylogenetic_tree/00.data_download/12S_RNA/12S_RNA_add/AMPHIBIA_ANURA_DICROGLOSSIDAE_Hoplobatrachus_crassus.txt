@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	DQ346972.1	1374	Hoplobatrachus crassus isolate 0107 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AF249013.1	749	Hoplobatrachus crassus 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AB290425.1	687	Hoplobatrachus crassus mitochondrial gene for 12S rRNA, partial sequence, haplotype: cra-assa-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_crassus	AB273158.1	690	Hoplobatrachus crassus mitochondrial gene for 12S rRNA, partial sequence, haplotype: cra-khul-I

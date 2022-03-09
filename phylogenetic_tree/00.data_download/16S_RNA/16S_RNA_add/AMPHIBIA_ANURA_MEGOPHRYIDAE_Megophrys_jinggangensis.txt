@@ -1,0 +1,18 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406858.1	536	Megophrys jinggangensis isolate 4825 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406857.1	536	Megophrys jinggangensis isolate 4824 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406781.1	536	Megophrys jinggangensis isolate 4029 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406780.1	536	Megophrys jinggangensis isolate 4028 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406702.1	536	Megophrys jinggangensis isolate 2609 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406701.1	536	Megophrys jinggangensis isolate 2544 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MF667877.1	535	Megophrys jinggangensis voucher SYS a002607 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MF667876.1	535	Megophrys jinggangensis voucher SYS a002543 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KX811841.1	527	Megophrys jinggangensis isolate YPX8506 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KX811840.1	527	Megophrys jinggangensis isolate KIZ07132 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KX811839.1	527	Megophrys jinggangensis isolate KIZ07113 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KJ560402.1	565	Xenophrys jinggangensis voucher SYS a002132 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KJ560401.1	566	Xenophrys jinggangensis voucher SYS a002131 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KJ560400.1	565	Xenophrys jinggangensis voucher SYS a001860 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KJ560399.1	564	Xenophrys jinggangensis voucher SYS a001859 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	JX867338.1	406	Xenophrys sp. TDZ-2012 isolate SYSA0001414 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	JX867337.1	406	Xenophrys sp. TDZ-2012 isolate SYSA0001416 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	JX867336.1	406	Xenophrys sp. TDZ-2012 isolate SYSA0001484 16S ribosomal RNA gene, partial sequence; mitochondrial

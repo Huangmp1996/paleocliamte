@@ -1,0 +1,87 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	KX233868.1	15216	Quasipaa boulengeri mitochondrion, partial genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	KX645665.1	16672	Quasipaa boulengeri mitochondrion, partial genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	KF199152.1	15106	Quasipaa boulengeri mitochondrion, partial genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	NC_021937.1	17741	Quasipaa boulengeri mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	KC686711.1	17741	Quasipaa boulengeri mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX989601.1	872	Quasipaa boulengeri isolate JGB2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX989600.1	867	Quasipaa boulengeri isolate JGB1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX989599.1	853	Quasipaa boulengeri isolate YSB2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX989598.1	863	Quasipaa boulengeri isolate YSB1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX989597.1	860	Quasipaa boulengeri isolate PJB1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629519.1	362	Quasipaa boulengeri voucher XM3392 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629518.1	362	Quasipaa boulengeri voucher XM3393 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629517.1	362	Quasipaa boulengeri voucher QLY389 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629516.1	362	Quasipaa boulengeri voucher QLY391 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629515.1	362	Quasipaa boulengeri voucher XM3598 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629514.1	362	Quasipaa boulengeri voucher XM3527 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629513.1	362	Quasipaa boulengeri voucher XM3599 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629512.1	362	Quasipaa boulengeri voucher XM3481 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629511.1	362	Quasipaa boulengeri voucher XM3600 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629510.1	362	Quasipaa boulengeri voucher XM3601 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629509.1	362	Quasipaa boulengeri voucher XM3602 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629508.1	362	Quasipaa boulengeri voucher XM2031 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629507.1	362	Quasipaa boulengeri voucher QLY392 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629506.1	362	Quasipaa boulengeri voucher XM3482 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629505.1	362	Quasipaa boulengeri voucher XM3580 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629504.1	362	Quasipaa boulengeri voucher XM3590 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629503.1	362	Quasipaa boulengeri voucher XM3621 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629502.1	362	Quasipaa boulengeri voucher XM3617 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629501.1	362	Quasipaa boulengeri voucher XM3080 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629500.1	362	Quasipaa boulengeri voucher XM3644 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629499.1	362	Quasipaa boulengeri voucher XM3591 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629498.1	362	Quasipaa boulengeri voucher XM3619 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629497.1	362	Quasipaa boulengeri voucher XM3570 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629496.1	362	Quasipaa boulengeri voucher XM2028 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629495.1	362	Quasipaa boulengeri voucher XM3008 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629494.1	362	Quasipaa boulengeri voucher XM3603 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629493.1	362	Quasipaa boulengeri voucher XM3383 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629492.1	362	Quasipaa boulengeri voucher XM3643 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629491.1	362	Quasipaa boulengeri voucher XM3110 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629490.1	362	Quasipaa boulengeri voucher XM3528 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629489.1	362	Quasipaa boulengeri voucher XM3623 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629488.1	362	Quasipaa boulengeri voucher XM3560 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629487.1	362	Quasipaa boulengeri voucher QLY385 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629486.1	362	Quasipaa boulengeri voucher XM3625 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629485.1	362	Quasipaa boulengeri voucher XM3551 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629484.1	362	Quasipaa boulengeri voucher XM3550 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629483.1	362	Quasipaa boulengeri voucher XM3552 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629482.1	362	Quasipaa boulengeri voucher XM3549 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629481.1	362	Quasipaa boulengeri voucher XM3548 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629480.1	362	Quasipaa boulengeri voucher XM3546 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629479.1	362	Quasipaa boulengeri voucher XM3545 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629478.1	362	Quasipaa boulengeri voucher XM3544 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629477.1	362	Quasipaa boulengeri voucher XM3538 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629476.1	362	Quasipaa boulengeri voucher XY64 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629475.1	362	Quasipaa boulengeri voucher XM3390 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629474.1	362	Quasipaa boulengeri voucher XM3389 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629473.1	362	Quasipaa boulengeri voucher XM3561 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629472.1	362	Quasipaa boulengeri voucher XM3173 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629471.1	362	Quasipaa boulengeri voucher XM3181 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629470.1	362	Quasipaa boulengeri voucher XM3176 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629469.1	361	Quasipaa boulengeri voucher XM3543 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	JX629468.1	361	Quasipaa boulengeri voucher XM3164 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	AY322311.1	748	Paa boulengeri 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979791.1	350	Paa boulengeri voucher MVZ226340 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979761.1	368	Paa boulengeri voucher YNU-HUHU01 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979760.1	361	Paa boulengeri voucher YNU-HU2003061301 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979759.1	365	Paa boulengeri voucher YNU-HU20024060 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979758.1	345	Paa boulengeri voucher KIZ-HUB293 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979757.1	345	Paa boulengeri voucher KIZ-JX246 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979756.1	359	Paa boulengeri voucher KIZ-HUB274 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979755.1	347	Paa boulengeri voucher KIZ-HUB292 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979680.1	408	Paa boulengeri voucher YNU-HUHU01 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979679.1	409	Paa boulengeri voucher YNU-HU2003061301 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979678.1	397	Paa boulengeri voucher YNU-HU20024060 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979677.1	410	Paa boulengeri voucher YNU-HU20024061 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979676.1	410	Paa boulengeri voucher KIZ-HUB293 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979675.1	374	Paa boulengeri voucher KIZ-JX246 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979674.1	410	Paa boulengeri voucher SCUM37989 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979673.1	410	Paa boulengeri voucher KIZ-HUB274 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	EU979672.1	412	Paa boulengeri voucher KIZ-HUB292 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	DQ458243.1	727	Paa boulengeri voucher SCUM37989 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	DQ118479.1	557	Paa boulengeri voucher KizYP002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	DQ118477.1	529	Paa boulengeri voucher KizYP219 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	DQ118435.1	365	Paa boulengeri voucher KizYP002 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	DQ118433.1	365	Paa boulengeri voucher KizYP219 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	AF315140.1	550	Paa boulengeri 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_boulengeri	AF205550.1	391	Paa boulengeri 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

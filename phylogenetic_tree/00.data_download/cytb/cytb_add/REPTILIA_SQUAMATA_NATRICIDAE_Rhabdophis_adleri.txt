@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_adleri	MK987076.1	1041	Rhabdophis adleri isolate SICAU201505001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_adleri	MW111465.1	1081	Rhabdophis adleri voucher KIZYPX19182 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_adleri	MK530562.1	1057	Rhabdophis adleri isolate GP4635 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_adleri	MK201354.1	585	Rhabdophis adleri voucher CHS233 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_adleri	LC325357.1	1065	Rhabdophis adleri HT832 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_adleri	LC325356.1	1065	Rhabdophis adleri HT831 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_adleri	KF800931.1	990	Rhabdophis adleri voucher WJC20090801 cytochrome b (cytb) gene, partial cds; mitochondrial

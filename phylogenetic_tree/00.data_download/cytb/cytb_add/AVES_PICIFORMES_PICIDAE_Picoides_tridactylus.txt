@@ -1,0 +1,6 @@
+AVES_PICIFORMES_PICIDAE_Picoides_tridactylus	AY863147.1	973	Picoides tridactylus tridactylus cytochrome b gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picoides_tridactylus	AF394300.1	1551	Picoides tridactylus strain 49797 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Picoides_tridactylus	AF394299.1	1535	Picoides tridactylus strain 47015 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Picoides_tridactylus	AF389331.1	1029	Picoides tridactylus strain 49797 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Picoides_tridactylus	AF389330.1	1029	Picoides tridactylus strain 47015 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Picoides_tridactylus	AY701066.1	952	Picoides tridactylus alpinus isolate Dtrialp1 cytochrome b (cytb) gene, partial cds; mitochondrial

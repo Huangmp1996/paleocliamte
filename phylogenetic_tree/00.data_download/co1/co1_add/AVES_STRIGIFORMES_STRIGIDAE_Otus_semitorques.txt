@@ -1,0 +1,9 @@
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	LC541473.1	18834	Otus semitorques pryeri 1994-0148 mitochondrial DNA, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	AB843646.1	677	Otus semitorques mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO433-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	AB843645.1	679	Otus semitorques mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO434-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	AB843644.1	677	Otus semitorques mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO429-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	AB842993.1	672	Otus semitorques mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM225-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	AB842992.1	667	Otus semitorques mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM252-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	AB842991.1	663	Otus semitorques mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM399-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	AB842990.1	668	Otus semitorques mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM258-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_semitorques	AB842989.1	656	Otus semitorques mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM254-10

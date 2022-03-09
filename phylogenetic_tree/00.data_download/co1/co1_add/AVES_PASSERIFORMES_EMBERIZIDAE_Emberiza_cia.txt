@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	GQ481748.1	694	Emberiza cia voucher UWBM 46403 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	GQ481747.1	684	Emberiza cia voucher UWBM 46542 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	FJ465325.1	612	Emberiza cia voucher MFUM 200556 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877680.1	694	Emberiza cia flemingorum isolate MAR3346 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877679.1	687	Emberiza cia cia isolate MAR2586 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

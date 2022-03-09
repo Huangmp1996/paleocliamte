@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	AY607312.1	2010	Rana chaochiaoensis voucher CAS 194478 NADH dehydrogenase subunit 1 (nad1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (nad2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KU246048.1	18591	Rana chaochiaoensis voucher SM-ZJLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	NC_035803.1	18591	Rana chaochiaoensis voucher SM-ZJLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KX269408.1	969	Rana chaochiaoensis isolate SCUM0405170CJ NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial

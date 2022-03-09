@@ -1,0 +1,30 @@
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	NC_054244.1	16921	Aerodramus fuciphagus mitochondrion, complete genome
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	MW074961.1	16921	Aerodramus fuciphagus mitochondrion, complete genome
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671335.1	604	Aerodramus fuciphagus isolate KG5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671334.1	604	Aerodramus fuciphagus isolate KG4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671333.1	604	Aerodramus fuciphagus isolate KG3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671332.1	604	Aerodramus fuciphagus isolate KG2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671331.1	604	Aerodramus fuciphagus isolate KG1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671330.1	604	Aerodramus fuciphagus isolate PT4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671329.1	604	Aerodramus fuciphagus isolate PT2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671328.1	604	Aerodramus fuciphagus isolate PT1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671327.1	604	Aerodramus fuciphagus isolate TM5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671326.1	604	Aerodramus fuciphagus isolate TM4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671325.1	604	Aerodramus fuciphagus isolate TM3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671324.1	604	Aerodramus fuciphagus isolate TM2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671323.1	604	Aerodramus fuciphagus isolate TM1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671322.1	604	Aerodramus fuciphagus isolate KT5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671321.1	604	Aerodramus fuciphagus isolate KT4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671320.1	604	Aerodramus fuciphagus isolate KT3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671319.1	604	Aerodramus fuciphagus isolate KT2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671318.1	604	Aerodramus fuciphagus isolate KT1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671317.1	604	Aerodramus fuciphagus isolate GM5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671316.1	604	Aerodramus fuciphagus isolate GM4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671315.1	604	Aerodramus fuciphagus isolate GM3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671314.1	604	Aerodramus fuciphagus isolate GM2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671313.1	604	Aerodramus fuciphagus isolate GM1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671312.1	604	Aerodramus fuciphagus isolate SP5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671311.1	604	Aerodramus fuciphagus isolate SP4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671310.1	604	Aerodramus fuciphagus isolate SP3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671309.1	604	Aerodramus fuciphagus isolate SP2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_fuciphagus	KJ671308.1	604	Aerodramus fuciphagus isolate SP1 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,21 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418665.1	647	Rana longicrus voucher SYS a007519 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418659.1	647	Rana longicrus voucher SYS a007097 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418658.1	647	Rana longicrus voucher SYS a007038 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418649.1	647	Rana longicrus voucher SYS a005905 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418648.1	647	Rana longicrus voucher SYS a005892 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418643.1	647	Rana longicrus voucher SYS a005218 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418641.1	647	Rana longicrus voucher SYS a004605 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418640.1	647	Rana longicrus voucher SYS a004487 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418623.1	647	Rana longicrus voucher SYS a002355 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418617.1	647	Rana longicrus voucher SYS a000754 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MT418616.1	647	Rana longicrus voucher SYS a000735 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MH034322.1	588	Rana longicrus voucher JL-10-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MH034321.1	588	Rana longicrus voucher 15023 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MH034320.1	588	Rana longicrus voucher JL-08-08 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MH034319.1	588	Rana longicrus voucher 17785 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	MH034318.1	588	Rana longicrus voucher 17690 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939104.1	558	Rana longicrus voucher KIZYPX14268 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939097.1	558	Rana longicrus voucher KIZYPX11472 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939094.1	558	Rana longicrus voucher KIZYPX11138 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939093.1	558	Rana longicrus voucher KIZYPX11133 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_longicrus	JF939067.1	558	Rana longicrus voucher KIZ15026 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial

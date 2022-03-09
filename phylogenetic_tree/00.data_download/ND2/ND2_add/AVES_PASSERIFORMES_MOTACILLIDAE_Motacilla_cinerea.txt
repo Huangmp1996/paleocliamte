@@ -1,0 +1,31 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MW929089.1	16836	Motacilla cinerea mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MH908373.1	1032	Motacilla cinerea cinerea voucher USNM:Birds:656344 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578120.1	1041	Motacilla cinerea voucher SDM OF15405 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578119.1	1041	Motacilla cinerea voucher SDM NVF13525 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578118.1	1041	Motacilla cinerea voucher USNM:640940 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578117.1	1041	Motacilla cinerea voucher USNM:640900 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578116.1	1041	Motacilla cinerea voucher USNM:640896 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578115.1	1041	Motacilla cinerea voucher USNM:640540 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578114.1	1041	Motacilla cinerea voucher USNM:640382 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578113.1	1041	Motacilla cinerea voucher USNM:640355 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578112.1	1041	Motacilla cinerea voucher USNM:640343 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578111.1	1041	Motacilla cinerea voucher USNM:640342 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578110.1	1041	Motacilla cinerea voucher MNHB MR0336 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578109.1	1041	Motacilla cinerea voucher USNM:640184 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578108.1	1041	Motacilla cinerea voucher SDM NVF11013 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578107.1	1041	Motacilla cinerea voucher SDM NVF10007 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578106.1	1041	Motacilla cinerea voucher USNM:639929 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578105.1	1041	Motacilla cinerea voucher USNM:639917 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578104.1	1041	Motacilla cinerea voucher SDM NVF10008 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578103.1	1041	Motacilla cinerea voucher USNM:637546 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MG578102.1	1041	Motacilla cinerea voucher USNM:637545 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AF447292.1	1404	Motacilla cinerea NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AY259443.1	1041	Motacilla cinerea cinerea isolate Var03 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AY259442.1	1034	Motacilla cinerea cinerea isolate Var01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AY259441.1	527	Motacilla cinerea cinerea isolate M.cin.Heil NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AF526495.1	1006	Motacilla cinerea specimen-voucher UWBM44455 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AF526471.1	1006	Motacilla cinerea specimen-voucher UWBM46556 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	NC_027933.1	16835	Motacilla cinerea mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KR092187.1	16835	Motacilla cinerea mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KJ455508.1	1041	Motacilla cinerea NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KC759289.1	1041	Motacilla cinerea voucher IVF0746 (SDM) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	MH079256.1	1067	Abrornis chloronotus voucher MAR 4158 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	MH079255.1	1076	Abrornis chloronotus voucher MAR 4220 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	DQ008504.1	1038	Phylloscopus chloronotus simlaensis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583263.1	442	Phylloscopus chloronotus isolate 90174SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583262.1	442	Phylloscopus chloronotus isolate 90141SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583261.1	442	Phylloscopus chloronotus isolate 90037SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583260.1	442	Phylloscopus chloronotus isolate 03337SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583259.1	442	Phylloscopus chloronotus isolate 03336SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583258.1	442	Phylloscopus chloronotus isolate 03321SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583257.1	442	Phylloscopus chloronotus isolate 02973SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583256.1	442	Phylloscopus chloronotus isolate 02929SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583255.1	442	Phylloscopus chloronotus isolate 02648SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	AY583254.1	442	Phylloscopus chloronotus isolate 02646SIM cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_chloronotus	KJ456391.1	1026	Abrornis chloronotus cytochrome b (cytb) gene, partial cds; mitochondrial

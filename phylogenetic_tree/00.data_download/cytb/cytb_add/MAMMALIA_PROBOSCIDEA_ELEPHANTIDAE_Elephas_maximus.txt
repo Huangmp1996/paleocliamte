@@ -1,0 +1,100 @@
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MZ062898.1	272	Elephas maximus cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW999345.1	316	Elephas maximus voucher AIWC 151 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439882.1	54	Elephas maximus isolate IV208 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439881.1	54	Elephas maximus isolate IV397 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439880.1	54	Elephas maximus isolate ELSL001 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439879.1	54	Elephas maximus isolate IV707 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439878.1	54	Elephas maximus isolate IV226 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439877.1	54	Elephas maximus isolate IV222 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439876.1	54	Elephas maximus isolate IV221 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439875.1	54	Elephas maximus isolate TP4 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439874.1	54	Elephas maximus isolate IV133 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439873.1	54	Elephas maximus isolate IV094 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439872.1	54	Elephas maximus isolate IV091 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439871.1	54	Elephas maximus isolate IV011 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439870.1	54	Elephas maximus isolate ELMA001 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439869.1	54	Elephas maximus isolate ELIN004 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439868.1	54	Elephas maximus isolate IV729 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439867.1	54	Elephas maximus isolate IV722 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439866.1	54	Elephas maximus isolate IV721 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439865.1	54	Elephas maximus isolate ELMA004 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439864.1	54	Elephas maximus isolate C2901-11 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439863.1	54	Elephas maximus isolate TT23B cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439862.1	54	Elephas maximus isolate IV135 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439861.1	54	Elephas maximus isolate IV088 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439860.1	54	Elephas maximus isolate IV087 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439859.1	54	Elephas maximus isolate ELSL002 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439858.1	54	Elephas maximus isolate ELMA003 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439857.1	54	Elephas maximus isolate ELMA002 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439856.1	54	Elephas maximus isolate ELIN003 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439855.1	54	Elephas maximus isolate ELIN002 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439854.1	54	Elephas maximus isolate ELIN001 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MW439853.1	54	Elephas maximus isolate ELMA005 cytochrome b (Cytb) gene, partial sequence; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230782.1	116	Elephas maximus isolate EM61 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230781.1	116	Elephas maximus isolate EM60 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230780.1	116	Elephas maximus isolate EM59 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230779.1	116	Elephas maximus isolate EM58 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230778.1	116	Elephas maximus isolate EM57 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230777.1	116	Elephas maximus isolate EM56 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230776.1	116	Elephas maximus isolate EM55 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230775.1	116	Elephas maximus isolate EM54 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230774.1	116	Elephas maximus isolate EM53 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230773.1	116	Elephas maximus isolate EM52 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230772.1	116	Elephas maximus isolate EM51 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230771.1	116	Elephas maximus isolate EM50 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230770.1	116	Elephas maximus isolate EM49 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230769.1	116	Elephas maximus isolate EM48 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230768.1	116	Elephas maximus isolate EM47 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230767.1	116	Elephas maximus isolate EM46 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230766.1	116	Elephas maximus isolate EM45 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230765.1	116	Elephas maximus isolate EM44 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230764.1	116	Elephas maximus isolate EM43 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230763.1	116	Elephas maximus isolate EM42 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230762.1	116	Elephas maximus isolate EM41 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230761.1	116	Elephas maximus isolate EM40 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230760.1	116	Elephas maximus isolate EM39 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230759.1	116	Elephas maximus isolate EM38 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230758.1	116	Elephas maximus isolate EM37 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230757.1	116	Elephas maximus isolate EM36 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230756.1	116	Elephas maximus isolate EM35 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230755.1	116	Elephas maximus isolate EM34 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230754.1	116	Elephas maximus isolate EM33 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230753.1	116	Elephas maximus isolate EM32 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230752.1	116	Elephas maximus isolate EM31 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230751.1	116	Elephas maximus isolate EM30 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230750.1	116	Elephas maximus isolate EM29 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230749.1	116	Elephas maximus isolate EM28 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230748.1	116	Elephas maximus isolate EM27 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230747.1	116	Elephas maximus isolate EM26 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230746.1	116	Elephas maximus isolate EM25 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230745.1	116	Elephas maximus isolate EM24 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230744.1	116	Elephas maximus isolate EM23 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230743.1	116	Elephas maximus isolate EM22 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230742.1	116	Elephas maximus isolate EM21 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230741.1	116	Elephas maximus isolate EM20 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230740.1	116	Elephas maximus isolate EM19 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230739.1	116	Elephas maximus isolate EM18 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230738.1	116	Elephas maximus isolate EM17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230737.1	116	Elephas maximus isolate EM16 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230736.1	116	Elephas maximus isolate EM15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230735.1	116	Elephas maximus isolate EM14 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230734.1	116	Elephas maximus isolate EM13 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230733.1	116	Elephas maximus isolate EM12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230732.1	116	Elephas maximus isolate EM11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230731.1	116	Elephas maximus isolate EM10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230730.1	116	Elephas maximus isolate EM9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230729.1	116	Elephas maximus isolate EM8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230728.1	116	Elephas maximus isolate EM7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230727.1	116	Elephas maximus isolate EM6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230726.1	116	Elephas maximus isolate EM5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230725.1	116	Elephas maximus isolate EM4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230724.1	116	Elephas maximus isolate EM3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230723.1	116	Elephas maximus isolate EM2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MN230722.1	116	Elephas maximus isolate EM1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MF314180.1	570	Elephas maximus isolate EL007 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MF314179.1	570	Elephas maximus isolate EL004 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MF314178.1	570	Elephas maximus isolate EL006 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	MF314177.1	570	Elephas maximus isolate EL008 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	EF588275.2	16847	Elephas maximus mitochondrion, complete genome
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	DQ329149.2	256	Elephas maximus asurus cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PROBOSCIDEA_ELEPHANTIDAE_Elephas_maximus	DQ316068.1	16902	Elephas maximus mitochondrion, complete genome

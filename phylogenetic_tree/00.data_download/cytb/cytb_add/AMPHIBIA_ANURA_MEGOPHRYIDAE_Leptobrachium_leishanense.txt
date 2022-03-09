@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_leishanense	EU180915.1	1097	Vibrissaphora leishanensis voucher DQR-Leishan VL02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_leishanense	EU180914.1	1097	Vibrissaphora leishanensis voucher DQR-Leishan VL01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_leishanense	NC_031411.1	17485	Leptobrachium leishanense mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_leishanense	KU760082.1	17485	Leptobrachium leishanense mitochondrion, complete genome

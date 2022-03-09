@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MW861756.1	16804	Oriolus chinensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818798.1	280	Oriolus chinensis isolate SB116 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818797.1	280	Oriolus chinensis isolate SB115 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818796.1	280	Oriolus chinensis isolate SB114 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818795.1	280	Oriolus chinensis isolate SB113 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818794.1	280	Oriolus chinensis isolate SB109 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	NC_020424.1	16803	Oriolus chinensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	JQ083495.1	16803	Oriolus chinensis mitochondrion, complete genome

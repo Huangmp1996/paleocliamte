@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	MT366880.1	16772	Phoenicurus auroreus mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	GU930808.1	1041	Phoenicurus auroreus voucher UWBM 47088 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	KP173658.1	1041	Phoenicurus auroreus voucher USNM640061 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	KP173657.1	1041	Phoenicurus auroreus voucher USNM640539 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	KP173656.1	1041	Phoenicurus auroreus voucher UWBM73291 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	KP173655.1	1041	Phoenicurus auroreus voucher UWBM47089 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	NC_026066.1	16772	Phoenicurus auroreus mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_auroreus	KF997863.1	16772	Phoenicurus auroreus mitochondrion, complete genome

@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	MH265802.1	633	Garrulax cineraceus strenuus voucher NRM 570094 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	MH265801.1	633	Garrulax cineraceus voucher MG cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	EU447027.1	615	Garrulax cineraceus strenuous cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	EU447026.1	615	Garrulax cineraceus cinereiceps cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	NC_024553.1	17800	Garrulax cineraceus mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_cineraceus	KF926988.1	17800	Garrulax cineraceus mitochondrion, complete genome

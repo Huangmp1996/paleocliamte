@@ -1,0 +1,25 @@
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	MT773154.1	580	Anas clypeata isolate 3Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	AY666360.1	693	Anas clypeata voucher 1B-147 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	AY666352.1	693	Anas clypeata voucher 1B-118 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JN788907.1	503	Anas clypeata isolate K561 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JN788906.1	503	Anas clypeata isolate K537 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JN788905.1	503	Anas clypeata isolate J1362 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JN788904.1	503	Anas clypeata isolate J1118 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JN788903.1	503	Anas clypeata isolate J0807 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JF499085.1	675	Anas clypeata voucher USNM:641832 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JF499084.1	669	Anas clypeata voucher USNM:641839 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JF499083.1	675	Anas clypeata voucher USNM:641856 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	JF499082.1	669	Anas clypeata voucher USNM:641915 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	GU571716.1	648	Anas clypeata voucher BISE-Aves138 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	GU571715.1	648	Anas clypeata voucher BISE-Aves343 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	GU571236.1	724	Anas clypeata voucher NHMO-BC468 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	EF515737.1	686	Anas clypeata voucher KRIBB2683 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	DQ432719.1	626	Anas clypeata voucher LSU34146 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	NC_028346.1	16599	Anas clypeata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	KT345702.1	16599	Anas clypeata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	KT075276.1	652	Anas clypeata voucher USNM:Birds:649706 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	DQ434274.1	689	Anas clypeata voucher 1420-10080 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	DQ434273.1	689	Anas clypeata voucher 1420-10120 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	DQ434272.1	689	Anas clypeata voucher 1420-10008 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	DQ434271.1	664	Anas clypeata voucher 1420-10054 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	DQ434270.1	665	Anas clypeata voucher 1420-10117 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

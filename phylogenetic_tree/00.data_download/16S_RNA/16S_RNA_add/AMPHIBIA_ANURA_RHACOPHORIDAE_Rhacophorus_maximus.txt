@@ -1,0 +1,11 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	MT983170.1	462	Zhangixalus maximus voucher CDZMTU420 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	LC386568.1	1902	Rhacophorus maximus KUHE:35130 mitochondrial DNA, contains 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	KR828047.1	408	Rhacophorus maximus voucher 0937Y6 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	KR828046.1	408	Rhacophorus maximus voucher 0937Y3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	LC010593.1	432	Rhacophorus maximus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4113
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	LC010592.1	432	Rhacophorus maximus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:1534
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	JX219411.1	1947	Rhacophorus maximus voucher Rao6241 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	HM448032.1	569	Rhacophorus maximus isolate E181.4_IEBRA.0942 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	HM448031.1	569	Rhacophorus maximus isolate E181.5_IEBR3653 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	HM448030.1	569	Rhacophorus maximus isolate E184.18_IEBRA.0940 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_maximus	EF564548.1	569	Rhacophorus maximus isolate KIZ060821140 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,12 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	MN582496.1	1088	Trimerodytes aequifasciata voucher GP993 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	MN582475.1	1079	Trimerodytes aequifasciata voucher GP1611 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	MN582471.1	1088	Trimerodytes aequifasciata voucher GP1258 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	MN582462.1	1081	Trimerodytes aequifasciata voucher ROM35664 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	LC325329.1	1037	Trimerodytes aequifasciata HT681 mitochondrial MT-CYB gene, partial sequence
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	LC325326.1	930	Trimerodytes aequifasciata HT678 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	MN017776.1	1051	Trimerodytes aequifasciatus isolate CIB109019 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	MK201367.1	585	Sinonatrix aequifasciata voucher CHS251 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	KF913325.1	307	Sinonatrix aequifasciata voucher S-116 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	KF913324.1	307	Sinonatrix aequifasciata voucher S-115 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	KF913323.1	307	Sinonatrix aequifasciata voucher S-114 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Trimerodytes_aequifasciatus	JQ687430.1	1094	Sinonatrix aequifasciata isolate GP357 cytochrome b (cytB) gene, partial cds; mitochondrial

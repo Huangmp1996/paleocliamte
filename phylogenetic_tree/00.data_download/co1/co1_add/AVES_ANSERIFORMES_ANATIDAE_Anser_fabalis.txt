@@ -1,0 +1,5 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	HQ890328.1	16688	Anser fabalis mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	GU571730.1	648	Anser fabalis voucher BISE-Aves219 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	GU571245.1	705	Anser fabalis voucher NHMO-BC586 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	FJ808625.1	706	Anser fabalis voucher KU08007 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_fabalis	JN801264.1	652	Anser fabalis voucher USNM 623344 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

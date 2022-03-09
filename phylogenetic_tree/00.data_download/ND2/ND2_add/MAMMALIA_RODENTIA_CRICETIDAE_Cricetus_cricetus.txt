@@ -1,0 +1,3 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	MF405145.2	16264	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	NC_037888.1	16263	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	MF034880.1	16263	Cricetus cricetus mitochondrion, complete genome

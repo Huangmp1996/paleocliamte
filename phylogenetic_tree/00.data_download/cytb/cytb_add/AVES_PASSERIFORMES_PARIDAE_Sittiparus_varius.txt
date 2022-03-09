@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_PARIDAE_Sittiparus_varius	LC541463.1	16774	Poecile varius namiyei 2000-0508 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_PARIDAE_Sittiparus_varius	AY308718.1	1030	Parus varius varius MCZ 166231 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Sittiparus_varius	AB239508.1	1143	Parus varius varius mitochondrial cytb gene for cytochrome b, complete cds, isolate:NSMTAD3024
+AVES_PASSERIFORMES_PARIDAE_Sittiparus_varius	AB239507.1	1143	Parus varius varius mitochondrial cytb gene for cytochrome b, complete cds, isolate:NSMTAD1965
+AVES_PASSERIFORMES_PARIDAE_Sittiparus_varius	AB239506.1	1143	Parus varius varius mitochondrial cytb gene for cytochrome b, complete cds, isolate:NSMTD1682
+AVES_PASSERIFORMES_PARIDAE_Sittiparus_varius	AB239505.1	1143	Parus varius varius mitochondrial cytb gene for cytochrome b, complete cds, isolate:NSMTAD1587

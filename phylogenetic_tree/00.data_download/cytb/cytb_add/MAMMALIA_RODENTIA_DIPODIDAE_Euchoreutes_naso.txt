@@ -1,0 +1,22 @@
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585977.1	1110	Euchoreutes naso isolate xj7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585976.1	1110	Euchoreutes naso isolate xj6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585975.1	1110	Euchoreutes naso isolate xj5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585974.1	1110	Euchoreutes naso isolate xj4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585973.1	1110	Euchoreutes naso isolate xj3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585972.1	1110	Euchoreutes naso isolate xj2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585971.1	1110	Euchoreutes naso isolate xj1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585970.1	1110	Euchoreutes naso isolate GS12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585969.1	1110	Euchoreutes naso isolate GS11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585968.1	1110	Euchoreutes naso isolate GS10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585967.1	1110	Euchoreutes naso isolate GS9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585966.1	1110	Euchoreutes naso isolate GS8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585965.1	1110	Euchoreutes naso isolate GS7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585964.1	1110	Euchoreutes naso isolate GS6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585963.1	1110	Euchoreutes naso isolate GS5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585962.1	1110	Euchoreutes naso isolate GS4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585961.1	1110	Euchoreutes naso isolate GS3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585960.1	1110	Euchoreutes naso isolate GS2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	HQ585959.1	1110	Euchoreutes naso isolate GS1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	NC_027500.1	16705	Euchoreutes naso mitochondrion, complete genome
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	KP981634.1	16705	Euchoreutes naso mitochondrion, complete genome
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	KM397212.1	1116	Euchoreutes naso voucher ZMMU_S179636 cytochrome b (cytb) gene, partial cds; mitochondrial

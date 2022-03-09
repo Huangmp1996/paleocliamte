@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	JF756837.1	1041	Alcippe chrysotis voucher NTNU T4129 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	KJ455480.1	1041	Alcippe chrysotis voucher CAS:95891 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	DQ861978.1	1023	Alcippe chrysotis forresti isolate J01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Lioparus_chrysotis	JN826568.1	1041	Alcippe chrysotis voucher KUNHM 11078 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

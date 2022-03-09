@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	MT199263.1	1091	Fowlea flavipunctatus voucher CIB 116028 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	MT199262.1	1096	Fowlea flavipunctatus voucher CIB 116026 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	LC325330.1	943	Fowlea flavipunctatus HT682 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	LC105632.1	1172	Fowlea flavipunctatus XFL3 mitochondrial Cytb gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	LC105631.1	1176	Fowlea flavipunctatus XFL2 mitochondrial Cytb gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	LC105614.1	694	Fowlea flavipunctatus XFL2 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	LC075343.1	718	Fowlea flavipunctatus XFL03 mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	LC075342.1	725	Fowlea flavipunctatus XFL01 mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	MT587286.1	1081	Fowlea flavipunctatus voucher FMNH250122 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Fowlea_flavipunctatus	MK201387.1	585	Xenochrophis flavipunctatus voucher CHS306 cytochrome b (cytb) gene, partial cds; mitochondrial

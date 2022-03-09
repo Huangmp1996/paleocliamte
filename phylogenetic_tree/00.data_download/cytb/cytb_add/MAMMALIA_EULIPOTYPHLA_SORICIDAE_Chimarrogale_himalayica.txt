@@ -1,0 +1,40 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KY082608.1	1140	Chimarrogale himalayica voucher ZIN:101820 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KY082607.1	1140	Chimarrogale himalayica voucher ZIN:101819 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KY082606.1	1140	Chimarrogale himalayica voucher ZIN:101654 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KY082605.1	1140	Chimarrogale himalayica voucher ZIN:101653 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794770.1	1140	Chimarrogale himalayica isolate Chv_Yn8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794769.1	1140	Chimarrogale himalayica isolate Chv_Yn7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794768.1	1140	Chimarrogale himalayica isolate Chv_Yn6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794767.1	1140	Chimarrogale himalayica isolate Chv_Yn5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794766.1	1140	Chimarrogale himalayica isolate Chv_Yn4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794765.1	1140	Chimarrogale himalayica isolate Chv_Yn3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794764.1	1140	Chimarrogale himalayica isolate Chv_Yn2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794763.1	1140	Chimarrogale himalayica isolate Chv_Yn1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794762.1	1140	Chimarrogale himalayica isolate Chl_Fj2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794761.1	1140	Chimarrogale himalayica isolate Chl_Fj1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794760.1	1140	Chimarrogale himalayica isolate Chl_Hb1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794759.1	1140	Chimarrogale himalayica isolate Chl_Sx3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794758.1	1140	Chimarrogale himalayica isolate Chl_Sx2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794757.1	1140	Chimarrogale himalayica isolate Chl_Sx1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794756.1	1140	Chimarrogale himalayica isolate Chl_Tw11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794755.1	1140	Chimarrogale himalayica isolate Chl_Tw10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794754.1	1140	Chimarrogale himalayica isolate Chl_Tw9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794753.1	1140	Chimarrogale himalayica isolate Chl_Tw8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794752.1	1140	Chimarrogale himalayica isolate Chl_Tw7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794751.1	1140	Chimarrogale himalayica isolate Chl_Tw6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794750.1	1140	Chimarrogale himalayica isolate Chl_Tw5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794749.1	1140	Chimarrogale himalayica isolate Chl_Tw4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794748.1	1140	Chimarrogale himalayica isolate Chl_Tw3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794747.1	1140	Chimarrogale himalayica isolate Chl_Tw2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	KC794746.1	1140	Chimarrogale himalayica isolate Chl_Tw1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	GU981264.1	1140	Chimarrogale himalayica isolate Chimhim2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	GU981263.1	1140	Chimarrogale himalayica isolate Chimhim1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AY526742.1	930	Chimarrogale himalayica voucher THU_Lala-4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AY526741.1	930	Chimarrogale himalayica voucher THU_Lala-3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AY526740.1	930	Chimarrogale himalayica voucher THU_Lala-2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AY526739.1	930	Chimarrogale himalayica voucher THU_lala-1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AB175094.1	1140	Chimarrogale himalayica mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AB175093.1	1140	Chimarrogale himalayica mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AB175092.1	1140	Chimarrogale himalayica mitochondrial gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AB107875.1	1140	Chimarrogale himalayica mitochondrial Cytb gene for cytochrome b, complete cds, specimen_voucher:2003/3/15-2 (Ohdachi private collection)
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chimarrogale_himalayica	AB107874.1	1140	Chimarrogale himalayica mitochondrial Cytb gene for cytochrome b, complete cds, specimen_voucher:2003/3/15-1 (Ohdachi private collection)

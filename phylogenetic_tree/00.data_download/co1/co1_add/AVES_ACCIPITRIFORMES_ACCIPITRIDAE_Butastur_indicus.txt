@@ -1,0 +1,9 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	LC541471.1	18013	Butastur indicus 2004-0171 mitochondrial DNA, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	NC_032362.1	19059	Butastur indicus mitochondrial DNA, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	AB830616.1	19059	Butastur indicus mitochondrial DNA, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	AB843382.1	682	Butastur indicus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO126-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	AB843381.1	678	Butastur indicus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO141-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	AB842598.1	673	Butastur indicus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM173-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	AB842597.1	668	Butastur indicus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM368-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	AB842596.1	668	Butastur indicus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM365-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Butastur_indicus	KM874454.1	746	Butastur indicus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

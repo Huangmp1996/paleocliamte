@@ -1,0 +1,7 @@
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	NC_053843.1	16966	Porzana pusilla mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	MW043485.1	16966	Porzana pusilla mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	KY009737.1	16978	Porzana pusilla mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	U77171.1	246	Porzana pusilla cytochrome-b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	KC614105.1	975	Porzana pusilla cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	JQ342154.1	934	Porzana pusilla isolate XTJ2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Zapornia_pusilla	JQ342153.1	934	Porzana pusilla isolate XTJ1 cytochrome b (cytb) gene, partial cds; mitochondrial

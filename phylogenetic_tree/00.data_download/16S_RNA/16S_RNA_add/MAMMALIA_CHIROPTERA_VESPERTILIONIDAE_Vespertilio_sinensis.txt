@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	KM092493.1	17146	Vespertilio sinensis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	NC_024558.1	16971	Vespertilio sinensis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	KJ081440.1	16971	Vespertilio sinensis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	GU461885.1	533	Vespertilio sinensis 16S ribosomal RNA gene, partial sequence; mitochondrial

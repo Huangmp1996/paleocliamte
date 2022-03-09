@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_mollissima	KU195794.1	1026	Zoothera mollissima voucher IZCAS:IOZ20890 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_mollissima	KU195793.1	1038	Zoothera mollissima voucher IZCAS:IOZ20888 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_mollissima	KU195792.1	954	Zoothera mollissima voucher BMNH:1933.11.13.94 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_mollissima	KU195791.1	954	Zoothera mollissima voucher BMNH:1906.12.17.255 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_mollissima	KJ455703.1	1041	Zoothera mollissima voucher AMNH:5601 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_mollissima	AY752319.1	1041	Zoothera mollisima NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

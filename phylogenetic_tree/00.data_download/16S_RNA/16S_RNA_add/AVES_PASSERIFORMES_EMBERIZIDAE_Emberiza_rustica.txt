@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	KP877644.1	720	Schoeniclus rusticus latifascius isolate MAR4857 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	KP877639.1	844	Schoeniclus rusticus rusticus isolate MAR3968 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	NC_024924.1	16798	Emberiza rustica voucher AHHF01 mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	KC831775.1	16798	Emberiza rustica voucher AHHF01 mitochondrion, complete genome

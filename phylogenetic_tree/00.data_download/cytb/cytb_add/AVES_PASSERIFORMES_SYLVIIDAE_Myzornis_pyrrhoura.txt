@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Myzornis_pyrrhoura	NC_051886.1	17397	Myzornis pyrrhoura mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Myzornis_pyrrhoura	MK612108.1	17397	Myzornis pyrrhoura mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Myzornis_pyrrhoura	KJ456360.1	1143	Myzornis pyrrhoura voucher CAS:96037 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Myzornis_pyrrhoura	JN827121.1	662	Myzornis pyrrhoura voucher KUNHM 15109 cytochrome b (CYTB) gene, partial cds; mitochondrial

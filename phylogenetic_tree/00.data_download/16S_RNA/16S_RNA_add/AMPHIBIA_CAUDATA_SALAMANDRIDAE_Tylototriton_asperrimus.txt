@@ -1,0 +1,23 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800623.1	506	Tylototriton asperrimus voucher VNMNTAO1213 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800619.1	506	Tylototriton asperrimus voucher CIBXZ20091204 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800618.1	506	Tylototriton asperrimus voucher CIBXZ20091 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800617.1	506	Tylototriton asperrimus voucher CIBXZ20092 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800616.1	506	Tylototriton asperrimus voucher CIBXZ20091201 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800566.1	506	Tylototriton asperrimus voucher CIB200807055 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800565.1	506	Tylototriton asperrimus voucher CIB20070715 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800550.1	506	Tylototriton asperrimus voucher CIBGX200807016 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800549.1	506	Tylototriton asperrimus voucher CIB70063 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800548.1	506	Tylototriton asperrimus voucher CIBGX200807012 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800547.1	506	Tylototriton asperrimus voucher CIBGX200807010 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KY800546.1	506	Tylototriton asperrimus voucher CIBGX20080714 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KC733374.1	1728	Tylototriton asperrimus voucher GZNU2006030002 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KC733373.1	1728	Tylototriton asperrimus voucher GZNU2006030001 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KC733372.1	1728	Tylototriton asperrimus voucher GZNU2007060502 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KC733371.1	1728	Tylototriton asperrimus voucher GZNU2007060501 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KC733370.1	1728	Tylototriton asperrimus voucher GZNU2010052502 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	KC733369.1	1728	Tylototriton asperrimus voucher GZNU2010052501 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	JQ824194.1	469	Tylototriton asperrimus isolate TYPX9918 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	JQ824193.1	434	Tylototriton asperrimus isolate YPX9922 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	JQ824191.1	473	Tylototriton asperrimus isolate 08080216 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	JQ824190.1	433	Tylototriton asperrimus isolate 08080215 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_asperrimus	EU880340.1	16262	Tylototriton asperrimus mitochondrion, partial genome

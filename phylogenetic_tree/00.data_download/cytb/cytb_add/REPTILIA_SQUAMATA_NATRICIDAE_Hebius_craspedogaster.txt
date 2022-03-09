@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	MK201428.1	585	Hebius craspedogaster voucher CHS602 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	MK201301.1	585	Hebius craspedogaster voucher CHS155 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	LC325350.1	975	Hebius craspedogaster HT801 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	KJ685704.1	1071	Hebius craspedogaster voucher GP455 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	KJ685703.1	1074	Hebius craspedogaster voucher GP336 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	KJ685689.1	1068	Hebius craspedogaster voucher GP1963 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	KJ685682.1	1074	Hebius craspedogaster voucher GP1712 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	KJ685681.1	1074	Hebius craspedogaster voucher GP1636 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	KJ685672.1	1074	Hebius craspedogaster voucher GP1240 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	GQ281781.1	1084	Amphiesma craspedogaster isolate GP600 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Hebius_craspedogaster	JQ687429.1	1099	Amphiesma craspedogaster isolate GP139 cytochrome b (cytB) gene, partial cds; mitochondrial

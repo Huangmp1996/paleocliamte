@@ -1,0 +1,26 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	GU684781.1	658	Tylonycteris robustula voucher ZMMU S-184714 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	GU684779.1	658	Tylonycteris robustula voucher ZMMU S-184715 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	GU684766.1	658	Tylonycteris robustula voucher ZMMU S-184713 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	GU684758.1	658	Tylonycteris robustula voucher ZMMU S-184712 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	GU684753.1	658	Tylonycteris robustula voucher ZMMU S-184711 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	KX496368.1	291	Tylonycteris robustula voucher CG 1906-96C cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	KX496367.1	291	Tylonycteris robustula voucher ZMA18449 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM914947.1	658	Tylonycteris robustula voucher ZMMU SVK 164-09 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM914929.1	658	Tylonycteris robustula voucher ZMMU SVK 138-09 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM914922.1	658	Tylonycteris robustula voucher ZMMU SVK 124-09 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM914921.1	658	Tylonycteris robustula voucher ZMMU SVK 123-09 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM542004.1	657	Tylonycteris robustula voucher ROM MAM 110590 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM542003.1	657	Tylonycteris robustula voucher EBD 25723 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM542002.1	657	Tylonycteris robustula voucher EBD 25722 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM542001.1	657	Tylonycteris robustula voucher EBD 25748 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM542000.1	657	Tylonycteris robustula voucher CMF980127-80 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541999.1	657	Tylonycteris robustula voucher ROM MAM 111384 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541998.1	657	Tylonycteris robustula voucher ROM MAM 111383 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541997.1	657	Tylonycteris robustula voucher ROM MAM 111382 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541996.1	657	Tylonycteris robustula voucher ROM MAM 111381 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541995.1	657	Tylonycteris robustula voucher ROM MAM 111380 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541994.1	657	Tylonycteris robustula voucher ROM MAM 117979 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541993.1	650	Tylonycteris robustula voucher ROM MAM 118161 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541992.1	625	Tylonycteris robustula voucher ROM MAM 111379 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541991.1	655	Tylonycteris robustula voucher ROM MAM 118087 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Tylonycteris_robustula	HM541990.1	657	Tylonycteris robustula voucher ROM MAM 110562 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

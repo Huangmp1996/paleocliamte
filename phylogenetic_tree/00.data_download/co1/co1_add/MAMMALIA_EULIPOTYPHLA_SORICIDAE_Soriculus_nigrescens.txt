@@ -1,0 +1,7 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	NC_052688.1	17284	Soriculus nigrescens mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	KY454853.1	17284	Soriculus nigrescens mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981255.1	591	Soriculus nigrescens isolate Sorinig8 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981254.1	591	Soriculus nigrescens isolate Sorinig7 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981253.1	591	Soriculus nigrescens isolate Sorinig6 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981252.1	591	Soriculus nigrescens isolate Sorinig3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Soriculus_nigrescens	GU981251.1	591	Soriculus nigrescens isolate Sorinig1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

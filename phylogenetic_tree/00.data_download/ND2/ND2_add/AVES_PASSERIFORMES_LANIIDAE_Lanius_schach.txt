@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	NC_030604.1	16820	Lanius schach voucher HS15003 mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	KU058639.1	16820	Lanius schach voucher HS15003 mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	JQ864464.1	1041	Lanius schach voucher NRM 20046858 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

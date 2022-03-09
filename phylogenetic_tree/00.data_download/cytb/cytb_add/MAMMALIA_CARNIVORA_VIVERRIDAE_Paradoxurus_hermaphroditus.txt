@@ -1,0 +1,99 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MW257219.1	16666	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MH423777.1	387	Paradoxurus hermaphroditus voucher ZSI_FI_1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	NC_039591.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MG200264.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	JN709950.1	409	Paradoxurus hermaphroditus isolate STB cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	JN709949.1	409	Paradoxurus hermaphroditus isolate CayX1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	AY928673.1	1137	Paradoxurus hermaphroditus cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ404363.1	739	Paradoxurus hermaphroditus cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881693.1	1140	Paradoxurus hermaphroditus isolate N1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881692.1	829	Paradoxurus hermaphroditus isolate S3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881691.1	829	Paradoxurus hermaphroditus isolate S2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881690.1	1140	Paradoxurus hermaphroditus isolate R1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881689.1	1140	Paradoxurus hermaphroditus isolate F1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881688.1	829	Paradoxurus hermaphroditus isolate Bk2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881687.1	1068	Paradoxurus hermaphroditus isolate Bk1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881686.1	667	Paradoxurus hermaphroditus isolate J5 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881685.1	452	Paradoxurus hermaphroditus isolate S4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881684.1	1140	Paradoxurus hermaphroditus isolate I2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881683.1	1140	Paradoxurus hermaphroditus isolate S1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881682.1	1140	Paradoxurus hermaphroditus isolate J4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881680.1	626	Paradoxurus hermaphroditus isolate MNHN-B4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881679.1	1140	Paradoxurus hermaphroditus isolate MNHN-B3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881678.1	661	Paradoxurus hermaphroditus isolate MNHN-PM14 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881677.1	1140	Paradoxurus hermaphroditus isolate MNHN-C14 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881676.1	1140	Paradoxurus hermaphroditus isolate MNHN-C13 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881675.1	198	Paradoxurus hermaphroditus isolate MNHN-C12 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881674.1	1140	Paradoxurus hermaphroditus isolate MNHN-C11 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881673.1	1137	Paradoxurus hermaphroditus isolate MNHN-C10 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881672.1	1140	Paradoxurus hermaphroditus isolate MNHN-C9 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881671.1	407	Paradoxurus hermaphroditus isolate MNHN-C8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881670.1	615	Paradoxurus hermaphroditus isolate MNHN-C7 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881669.1	391	Paradoxurus hermaphroditus isolate MNHN-C6 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881668.1	1140	Paradoxurus hermaphroditus isolate MNHN-C5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881667.1	1140	Paradoxurus hermaphroditus isolate MNHN-C4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881666.1	1140	Paradoxurus hermaphroditus isolate MNHN-PM13 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881665.1	198	Paradoxurus hermaphroditus isolate MNHN-PM11 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881664.1	741	Paradoxurus hermaphroditus isolate MNHN-PM12 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881663.1	198	Paradoxurus hermaphroditus isolate MNHN-PM10 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881662.1	1029	Paradoxurus hermaphroditus isolate MNHN-PM9 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881661.1	1020	Paradoxurus hermaphroditus isolate MNHN-PM8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881660.1	1140	Paradoxurus hermaphroditus isolate MNHN-PM7 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881659.1	198	Paradoxurus hermaphroditus isolate MNHN-PM6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881658.1	1140	Paradoxurus hermaphroditus isolate MNHN-T5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881657.1	1140	Paradoxurus hermaphroditus isolate MNHN-T4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881656.1	1140	Paradoxurus hermaphroditus isolate MNHN-C3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881655.1	1140	Paradoxurus hermaphroditus isolate MNHN-My4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881653.1	145	Paradoxurus hermaphroditus isolate MNHN-Ch1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881652.1	273	Paradoxurus hermaphroditus isolate Ch2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881651.1	362	Paradoxurus hermaphroditus isolate I1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881650.1	297	Paradoxurus hermaphroditus isolate J3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881649.1	320	Paradoxurus hermaphroditus isolate J2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881648.1	378	Paradoxurus hermaphroditus isolate J1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881647.1	1140	Paradoxurus hermaphroditus isolate MNHN-B2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881646.1	1140	Paradoxurus hermaphroditus isolate MNHN-M1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881645.1	1140	Paradoxurus hermaphroditus isolate MNHN-V11 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881644.1	1140	Paradoxurus hermaphroditus isolate MNHN-V10 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881643.1	1140	Paradoxurus hermaphroditus isolate MNHN-V9 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881642.1	1105	Paradoxurus hermaphroditus isolate MNHN-PM5 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881641.1	1126	Paradoxurus hermaphroditus isolate MNHN-PM4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881640.1	1140	Paradoxurus hermaphroditus isolate MNHN-V8 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881639.1	1140	Paradoxurus hermaphroditus isolate MNHN-PM3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881638.1	1140	Paradoxurus hermaphroditus isolate MNHN-PM2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881637.1	1120	Paradoxurus hermaphroditus isolate MNHN-My3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881636.1	1140	Paradoxurus hermaphroditus isolate MNHN-My2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881635.1	1140	Paradoxurus hermaphroditus isolate MNHN-My1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881634.1	1140	Paradoxurus hermaphroditus isolate MNHN-PM1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881633.1	943	Paradoxurus hermaphroditus isolate MNHN-V7 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881632.1	1140	Paradoxurus hermaphroditus isolate MNHN-SL1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881631.1	1140	Paradoxurus hermaphroditus isolate MNHN-C2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881630.1	1109	Paradoxurus hermaphroditus isolate MNHN-C1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881629.1	425	Paradoxurus hermaphroditus isolate MNHN-T2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881628.1	1140	Paradoxurus hermaphroditus isolate MNHN-V5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881627.1	967	Paradoxurus hermaphroditus isolate MNHN-V4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881626.1	1140	Paradoxurus hermaphroditus isolate MNHN-V3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881625.1	1126	Paradoxurus hermaphroditus isolate MNHN-V2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881624.1	1140	Paradoxurus hermaphroditus isolate MNHN-T3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881623.1	741	Paradoxurus hermaphroditus isolate Ph9 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881622.1	1140	Paradoxurus hermaphroditus isolate Ph8 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881621.1	1105	Paradoxurus hermaphroditus isolate Ph11 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881620.1	1140	Paradoxurus hermaphroditus isolate Ph10 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881619.1	1140	Paradoxurus hermaphroditus isolate Ph7 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881618.1	1090	Paradoxurus hermaphroditus isolate Ph6 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881617.1	1140	Paradoxurus hermaphroditus isolate Ph4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881616.1	1140	Paradoxurus hermaphroditus isolate Ph3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881615.1	1140	Paradoxurus hermaphroditus isolate Ph2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881614.1	1140	Paradoxurus hermaphroditus isolate MNHN-T1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881613.1	1140	Paradoxurus hermaphroditus isolate MNHN-B1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	FJ881612.1	1140	Paradoxurus hermaphroditus isolate MNHN-L1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	EU910453.1	145	Paradoxurus hermaphroditus voucher L-91 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	AY170113.1	1140	Paradoxurus hermaphroditus specimen-voucher LRH-3167 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	AF125152.1	664	Paradoxurus hermaphroditus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ852015.1	1022	Paradoxurus hermaphroditus voucher MNHN:TC678 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ852014.1	1022	Paradoxurus hermaphroditus voucher MNHN:TC677 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ852013.1	1020	Paradoxurus hermaphroditus voucher MNHN:TC622 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ852012.1	252	Paradoxurus hermaphroditus voucher MNHN:TC621 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ852011.1	1040	Paradoxurus hermaphroditus voucher MNHN:TC291 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ852010.1	425	Paradoxurus hermaphroditus voucher MNHN:CG 2004-623 (R3408) cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ852009.1	806	Paradoxurus hermaphroditus voucher FMNH:65460 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ852008.1	1020	Paradoxurus hermaphroditus voucher COM:N36 cytochrome b (cytb) gene, partial cds; mitochondrial

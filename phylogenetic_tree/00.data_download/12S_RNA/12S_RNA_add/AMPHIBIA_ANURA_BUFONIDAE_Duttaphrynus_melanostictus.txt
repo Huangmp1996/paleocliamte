@@ -1,0 +1,56 @@
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MT921855.1	2199	Duttaphrynus melanostictus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MW133339.1	1833	Duttaphrynus melanostictus voucher KIZ014120 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MW133338.1	1833	Duttaphrynus melanostictus voucher KIZ048451 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MW133337.1	1832	Duttaphrynus melanostictus voucher KIZ013446 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MW133336.1	1834	Duttaphrynus melanostictus voucher KIZYPX5759 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH560507.1	574	Duttaphrynus melanostictus voucher UTA A-65511 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH560506.1	522	Duttaphrynus melanostictus voucher UTA A-63417 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH560505.1	579	Duttaphrynus melanostictus voucher UTA A-65510 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	DQ283333.1	2421	Duttaphrynus melanostictus voucher AMNH A161135 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	FJ882791.1	3864	Duttaphrynus melanostictus voucher VUB 0052; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	DQ158475.1	2373	Duttaphrynus melanostictus voucher FMNH 255309 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY680268.1	2427	Duttaphrynus melanostictus voucher TNHC 59161 tRNA-Phe gene, partial sequence; 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KX192078.1	425	Duttaphrynus melanostictus voucher UTA A-53737 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY458592.1	17374	Bufo melanostictus mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KT991335.1	417	Duttaphrynus melanostictus voucher CCMB D05_b337 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KF664640.1	376	Duttaphrynus melanostictus voucher CAS 247174 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KJ725144.1	441	Duttaphrynus melanostictus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KJ697684.1	3900	Duttaphrynus melanostictus voucher D_mel-(WB/N-24P)-10B/2011 tRNA-Leu gene, partial sequence; tRNA-Thr, tRNA-Pro, tRNA-Phe, 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, and tRNA-Leu genes, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, partial cds; and tRNA-Ile gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KJ001636.1	874	Duttaphrynus melanostictus voucher D_mel-(WB/N-24P)-17/2011 tRNA-Thr gene, partial sequence; tRNA-Pro and tRNA-Phe genes, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	NC_005794.2	17374	Bufo melanostictus mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	JN541315.1	400	Bufo melanostictus 12S ribosomal RNA gene, partial sequence
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF249001.1	742	Bufo melanostictus 12S ribosomal RNA, partial sequence; tRNA-Val, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	GU191103.1	173	Bufo melanostictus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF375487.1	405	Bufo melanostictus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY180227.1	852	Bufo melanostictus specimen-voucher AMNH16064 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY180226.1	852	Bufo melanostictus specimen-voucher AMNH16059 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY180213.1	852	Bufo melanostictus specimen-voucher AMNH16001 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AB435318.1	2366	Bufo melanostictus mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: KUHE:39029
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	GU143812.1	470	Bufo melanostictus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071737.1	391	Bufo melanostictus isolate 141 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071736.1	417	Bufo melanostictus isolate 143 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071735.1	427	Bufo melanostictus isolate 140 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071734.1	391	Bufo melanostictus isolate 135 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071733.1	391	Bufo melanostictus isolate 103 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071732.1	390	Bufo melanostictus isolate 104 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071731.1	389	Bufo melanostictus isolate 99 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071730.1	431	Bufo melanostictus isolate 154 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071729.1	391	Bufo melanostictus isolate 28 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071728.1	391	Bufo melanostictus isolate 111 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071727.1	391	Bufo melanostictus isolate 145 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071726.1	391	Bufo melanostictus isolate 144 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071725.1	391	Bufo melanostictus isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071724.1	392	Bufo melanostictus isolate 110 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071723.1	393	Bufo melanostictus isolate 134 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071722.1	391	Bufo melanostictus isolate 132 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071721.1	392	Bufo melanostictus isolate 136 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071720.1	431	Bufo melanostictus isolate 139 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071719.1	391	Bufo melanostictus isolate 137 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU071718.1	399	Bufo melanostictus isolate 102 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AB331714.1	2368	Bufo melanostictus mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AJ584640.1	16328	Bufo melanostictus partial mitochondrial genome
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AB167899.1	433	Bufo melanostictus mitochondrial gene for 12S rRNA, partial sequence, country:India: Western Ghats, Mangalore, Padil
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF160774.1	376	Bufo melanostictus ROM 32540 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF160773.1	376	Bufo melanostictus ROM 33162 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AF160772.1	376	Bufo melanostictus KIZ-95L001 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	U52721.1	945	Bufo melanostictus MVZ 217645 12S ribosomal RNA gene, mitochondrial gene encoding mitochondrial rRNA, partial sequence

@@ -1,0 +1,5 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	AY239042.1	16357	Muntiacus crinifrons mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	NC_004577.1	16357	Muntiacus crinifrons mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	GQ329037.1	658	Muntiacus crinifrons ZJU:CLS438 MOBE-B-P30 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	GQ329036.1	658	Muntiacus crinifrons ZJU:CLS438 MOBE-B-P1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	GQ329035.1	658	Muntiacus crinifrons ZJU:CLS438 MUCR-S-M6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

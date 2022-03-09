@@ -1,0 +1,5 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	MF630876.1	1140	Rhinolophus lepidus isolate YN-70 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	MF630875.1	1140	Rhinolophus lepidus isolate YN-24 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	KX467576.1	1140	Rhinolophus lepidus voucher YN-016 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	AF451338.1	528	Rhinolophus lepidus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_lepidus	FJ185202.1	639	Rhinolophus lepidus isolate cmr91 cytochrome b (cytb) gene, partial cds; mitochondrial

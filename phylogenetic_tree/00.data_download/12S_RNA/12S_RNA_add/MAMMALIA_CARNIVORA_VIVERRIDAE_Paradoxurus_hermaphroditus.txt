@@ -1,0 +1,15 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MZ068091.1	330	Paradoxurus hermaphroditus voucher AIWC 258 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MW257219.1	16666	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MH423735.1	428	Paradoxurus hermaphroditus voucher ZSI_FI_1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	NC_039591.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MH538948.1	434	Paradoxurus hermaphroditus isolate Vmt10 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MG200264.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634965.1	440	Paradoxurus hermaphroditus isolate WII/WFC/tissue/1750 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634964.1	439	Paradoxurus hermaphroditus isolate WII/WFC/tissue/1712 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634962.1	439	Paradoxurus hermaphroditus isolate WII/WFC/tissue/1690 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634961.1	439	Paradoxurus hermaphroditus isolate WII/WFC/tissue/1651 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634957.1	439	Paradoxurus hermaphroditus isolate WII/WFC/tissue/1179 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634956.1	440	Paradoxurus hermaphroditus isolate WII/WFC/tissue/1158 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634955.1	440	Paradoxurus hermaphroditus isolate WII/WFC/tissue/1147 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634953.1	439	Paradoxurus hermaphroditus isolate WII/WFC/tissue/973/skin/WFC/WII 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	HQ634949.1	440	Paradoxurus hermaphroditus isolate WII/WFC/tissue/810 12S ribosomal RNA gene, partial sequence; mitochondrial

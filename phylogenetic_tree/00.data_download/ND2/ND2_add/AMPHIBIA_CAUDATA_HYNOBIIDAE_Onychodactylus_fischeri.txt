@@ -1,0 +1,5 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	DQ333820.1	16456	Onychodactylus fischeri mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	AY916033.1	2043	Onychodactylus fischeri NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	AY915921.1	1453	Onychodactylus fischeri voucher MVZ163731 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	AY593175.1	1041	Onychodactylus fischeri NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	NC_008089.1	16456	Onychodactylus fischeri mitochondrion, complete genome

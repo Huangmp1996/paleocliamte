@@ -1,0 +1,4 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	MN122916.1	13998	Buteo buteo mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AF380305.2	18674	Buteo buteo mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KM364882.1	18231	Buteo buteo burmanicus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	NC_003128.3	18674	Buteo buteo mitochondrion, complete genome

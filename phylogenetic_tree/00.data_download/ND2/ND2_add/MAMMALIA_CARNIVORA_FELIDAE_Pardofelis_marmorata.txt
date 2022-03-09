@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	MW257207.1	17075	Pardofelis marmorata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KT288227.2	16828	Pardofelis marmorata voucher PMA_10_5102 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	NC_028303.1	16827	Pardofelis marmorata isolate PMA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Pardofelis_marmorata	KP202263.1	16827	Pardofelis marmorata isolate PMA mitochondrion, complete genome

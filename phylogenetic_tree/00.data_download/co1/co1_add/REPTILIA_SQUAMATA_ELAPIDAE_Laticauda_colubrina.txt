@@ -1,0 +1,12 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MH274251.1	655	Laticauda colubrina voucher USNM:Herp:497558 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MH274250.1	655	Laticauda colubrina voucher USNM:Herp:497559 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MH274249.1	655	Laticauda colubrina voucher USNM:Herp:577703 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MH274248.1	655	Laticauda colubrina voucher USNM:Herp:577712 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MH274247.1	655	Laticauda colubrina voucher USNM:Herp:533630 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MH274246.1	655	Laticauda colubrina voucher USNM:Herp:513410 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MH274245.1	655	Laticauda colubrina voucher USNM:Herp:531997 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MH274244.1	649	Laticauda colubrina voucher USNM:Herp:577702 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MK064597.1	657	Laticauda colubrina voucher CHS025 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	NC_036054.1	17450	Laticauda colubrina mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	KY496324.1	17450	Laticauda colubrina mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	KT075333.1	633	Laticauda colubrina voucher USNM:Herp:497558 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

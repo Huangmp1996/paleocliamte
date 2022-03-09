@@ -1,0 +1,4 @@
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Rafetus_swinhoei	KU997642.1	16778	Rafetus swinhoei isolate YZGS0001 mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Rafetus_swinhoei	HQ709384.1	16990	Rafetus swinhoei mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Rafetus_swinhoei	NC_017901.1	16990	Rafetus swinhoei mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Rafetus_swinhoei	AF236824.1	384	Pelochelys maculatus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

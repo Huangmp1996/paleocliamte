@@ -1,0 +1,4 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	DQ333817.1	16379	Batrachuperus tibetanus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	NC_008085.1	16379	Batrachuperus tibetanus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY916004.1	1068	Batrachuperus tibetanus voucher RM7797 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY593116.1	926	Batrachuperus tibetanus 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,3 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_pusilla	MN547458.1	16490	Ochotona pusilla voucher SAF16770 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_pusilla	KT307488.1	657	Ochotona pusilla cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_pusilla	DQ347457.1	353	Ochotona pusilla voucher ZMMU S-148333 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

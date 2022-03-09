@@ -1,0 +1,9 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	LC006025.1	1140	Belomys pearsonii mitochondrial Cytb gene for cytochrome b, complete cds, haplotype: BPV4
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	LC006024.1	1140	Belomys pearsonii mitochondrial Cytb gene for cytochrome b, complete cds, haplotype: BPV3
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	LC006023.1	1140	Belomys pearsonii mitochondrial Cytb gene for cytochrome b, complete cds, haplotype: BPV2
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	LC006022.1	1140	Belomys pearsonii mitochondrial Cytb gene for cytochrome b, complete cds, haplotype: BPV1
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	LC006021.1	1140	Belomys pearsonii mitochondrial Cytb gene for cytochrome b, complete cds, haplotype: BPT3
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	LC006020.1	1140	Belomys pearsonii mitochondrial Cytb gene for cytochrome b, complete cds, haplotype: BPT2
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	LC006019.1	1140	Belomys pearsonii mitochondrial Cytb gene for cytochrome b, complete cds, haplotype: BPT1
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	AB030262.1	1068	Belomys pearsonii mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_RODENTIA_SCIURIDAE_Belomys_pearsonii	AB126245.1	1140	Belomys pearsonii mitochondrial cytb gene for cytochrome b, complete cds, isolate:TW06

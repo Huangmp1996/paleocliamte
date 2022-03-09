@@ -1,0 +1,10 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	NC_013978.1	17229	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	AF353433.1	1067	Columba livia NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GU908131.1	17229	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GQ240309.1	17205	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP168712.1	17233	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP319029.1	17245	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KJ455388.1	1041	Columba livia voucher UWBM:66231 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP258178.1	17221	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KJ722068.1	17235	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KF926376.1	17239	Columba livia mitochondrion, complete genome

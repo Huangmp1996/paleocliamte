@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_STURNIDAE_Agropsar_philippensis	GQ482687.1	694	Sturnus philippensis voucher ZMMU EAK 104 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Agropsar_philippensis	GQ482686.1	694	Sturnus philippensis voucher ZMMU RYA 1589 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Agropsar_philippensis	GQ482685.1	694	Sturnus philippensis voucher ZMMU RYA 1588 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Agropsar_philippensis	GQ482684.1	694	Sturnus philippensis voucher ZMMU EAK 106 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Agropsar_philippensis	GQ482683.1	694	Sturnus philippensis voucher ZMMU EAK 105 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Agropsar_philippensis	EF484208.1	1551	Sturnus philippensis isolate SturnusphilippBTK4 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Agropsar_philippensis	AB843785.1	676	Sturnus philippensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO285-10
+AVES_PASSERIFORMES_STURNIDAE_Agropsar_philippensis	AB843784.1	657	Sturnus philippensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO448-10

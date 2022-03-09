@@ -1,0 +1,53 @@
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043068.1	1039	Alaudala cheleensis leucophaea isolate U5287 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043067.1	1039	Alaudala cheleensis leucophaea isolate U5286 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043066.1	1040	Alaudala cheleensis leucophaea isolate U5317 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043065.1	1040	Alaudala cheleensis leucophaea isolate U5316 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043064.1	1038	Alaudala cheleensis leucophaea isolate IOZ-XJ20171203 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043063.1	1040	Alaudala cheleensis leucophaea isolate IOZ-XJ20171201 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043062.1	943	Alaudala cheleensis leucophaea isolate NHMUK-1941.5.30.7387 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043061.1	943	Alaudala cheleensis leucophaea isolate AMNH-556143 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043060.1	943	Alaudala cheleensis leucophaea isolate NHMUK-1931.7.8.180 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043059.1	943	Alaudala cheleensis leucophaea isolate NHMUK-1911.12.15.105 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043058.1	943	Alaudala cheleensis leucophaea isolate NHMUK-1931.7.8.181 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043026.1	1040	Alaudala cheleensis leucophaea isolate U0606 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043025.1	1040	Alaudala cheleensis leucophaea isolate U0608 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043024.1	1040	Alaudala cheleensis leucophaea isolate U2290 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT043023.1	1040	Alaudala cheleensis leucophaea isolate U2289 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042981.1	937	Alaudala cheleensis isolate UWBM75930 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042980.1	789	Alaudala cheleensis isolate UWBM75929 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042979.1	789	Alaudala cheleensis isolate UWBM71089 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042978.1	937	Alaudala cheleensis isolate UWBM71059 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042977.1	943	Alaudala cheleensis isolate UWBM70936 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042976.1	1040	Alaudala cheleensis isolate NMW93974 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042975.1	1040	Alaudala cheleensis isolate NMW93973 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042974.1	1040	Alaudala cheleensis isolate NMW93972 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042973.1	1040	Alaudala cheleensis isolate NMW93971 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042972.1	1023	Alaudala cheleensis isolate MSUZMP040 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042971.1	1023	Alaudala cheleensis isolate MSUZMN387 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042970.1	945	Alaudala cheleensis isolate UWBM75928 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042969.1	1040	Alaudala cheleensis isolate U4637 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042968.1	1040	Alaudala cheleensis isolate U4636 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042967.1	1040	Alaudala cheleensis isolate U4634 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042966.1	950	Alaudala cheleensis isolate U4633 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042965.1	1040	Alaudala cheleensis isolate U4632 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042964.1	1040	Alaudala cheleensis isolate U4627 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042963.1	950	Alaudala cheleensis isolate U4626 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042962.1	1040	Alaudala cheleensis isolate U4623 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042961.1	1040	Alaudala cheleensis isolate U4618 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042960.1	1040	Alaudala cheleensis isolate U4617 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042959.1	1040	Alaudala cheleensis isolate U4615 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042958.1	922	Alaudala cheleensis isolate U4614 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042957.1	1040	Alaudala cheleensis isolate U4608 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042956.1	953	Alaudala cheleensis isolate U4607 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042955.1	1040	Alaudala cheleensis isolate UWBM59820 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042954.1	1021	Alaudala cheleensis isolate UWBM59818 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042953.1	1038	Alaudala cheleensis isolate IOZ5617 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042952.1	1040	Alaudala cheleensis isolate U2202 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042951.1	943	Alaudala cheleensis isolate ZMB7943 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042950.1	943	Alaudala cheleensis isolate ZMB29195 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042949.1	943	Alaudala cheleensis isolate AMNH423255 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MT042948.1	943	Alaudala cheleensis isolate AMNH423256 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MW143077.1	16914	Alaudala cheleensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MN356181.1	17129	Alaudala cheleensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	NC_046419.1	17021	Alaudala cheleensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Alaudala_rufescens	MG681104.1	17021	Alaudala cheleensis mitochondrion, complete genome

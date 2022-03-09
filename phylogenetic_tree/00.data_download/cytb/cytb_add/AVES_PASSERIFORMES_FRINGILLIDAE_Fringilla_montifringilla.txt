@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	L77903.1	924	Fringilla montifringilla FRMON89 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	DQ192024.1	1143	Fringilla montifringilla clone fmo-4 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	DQ192023.1	1143	Fringilla montifringilla clone fmo-3 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	DQ192022.1	1143	Fringilla montifringilla clone fmo-2 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	DQ192021.1	1143	Fringilla montifringilla clone fmo-1 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	AY495390.1	1143	Fringilla montifringilla cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	AF002897.1	641	Fringilla montifringilla cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	AF002896.1	641	Fringilla montifringilla cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	NC_024048.1	16807	Fringilla montifringilla voucher AHNU:A0112 mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	JQ922259.1	16807	Fringilla montifringilla mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	D38339.1	293	Fringilla montifringilla gene for 18S rRNA, partial sequence

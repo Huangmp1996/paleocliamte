@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_monileger	KU982448.1	1143	Garrulax monileger schmackeri voucher Gms1 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_monileger	KJ456286.1	1053	Garrulax monileger voucher NRM:20026667 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_monileger	JN980901.1	1143	Garrulax monileger cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_monileger	JF804066.1	619	Garrulax monileger isolate 1780 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_monileger	JN827042.1	911	Garrulax monileger voucher USNM 5596 cytochrome b (CYTB) gene, partial cds; mitochondrial

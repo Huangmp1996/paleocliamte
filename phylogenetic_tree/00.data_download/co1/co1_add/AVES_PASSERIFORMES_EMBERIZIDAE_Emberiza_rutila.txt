@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	GQ481805.1	694	Emberiza rutila voucher UWBM 73421 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	GQ481804.1	694	Emberiza rutila voucher UWBM 58394 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	GQ481803.1	679	Emberiza rutila voucher UWBM 72276 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	GQ481802.1	675	Emberiza rutila voucher UWBM 59697 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	GQ481801.1	675	Emberiza rutila voucher UWBM 57935 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	GQ481800.1	672	Emberiza rutila voucher UWBM 73120 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	NC_024925.1	16803	Emberiza rutila mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rutila	KC952874.1	16803	Emberiza rutila mitochondrion, complete genome

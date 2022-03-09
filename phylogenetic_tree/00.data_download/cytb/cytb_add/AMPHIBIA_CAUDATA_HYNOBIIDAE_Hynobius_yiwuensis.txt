@@ -1,0 +1,21 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	AY300159.1	752	Hynobius yiwuensis MVZ Herp 231123 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	AY300158.1	752	Hynobius yiwuensis MVZ Herp 231122 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	AY300157.1	752	Hynobius yiwuensis CIB-2000-JF230 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	AY300156.1	752	Hynobius yiwuensis ROM Herp 39963 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	AY300155.1	752	Hynobius yiwuensis MVZ Herp 235006 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	AY300154.1	752	Hynobius yiwuensis MVZ Herp 231119 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	AY300153.1	752	Hynobius yiwuensis MVZ Herp 231117 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	HM036354.1	16494	Hynobius yiwuensis voucher CIB-XM2843 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929941.1	1141	Hynobius yiwuensis voucher CIB-XM3290 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929940.1	1141	Hynobius yiwuensis voucher CIB-XM3289 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929939.1	1141	Hynobius yiwuensis voucher CIB-XM2865 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929938.1	1141	Hynobius yiwuensis voucher CIB-XM2864 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929937.1	1141	Hynobius yiwuensis voucher CIB-JF219 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929936.1	1141	Hynobius yiwuensis voucher CIB-JF302 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929935.1	1141	Hynobius yiwuensis voucher CIB-JF301 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929934.1	1141	Hynobius yiwuensis voucher CIB-XM2216 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929933.1	1141	Hynobius yiwuensis voucher CIB-XM2215 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929932.1	1141	Hynobius yiwuensis voucher CIB-JF227 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	JQ929931.1	1141	Hynobius yiwuensis voucher CIB-JF228 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	NC_020649.1	16494	Hynobius yiwuensis voucher CIB-XM2843 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_yiwuensis	AB548374.1	1141	Hynobius yiwuensis mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher: CIB:20070255

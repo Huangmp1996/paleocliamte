@@ -1,0 +1,9 @@
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	GU571854.1	648	Cygnus cygnus voucher BISE-Aves209 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	GU571853.1	648	Cygnus cygnus voucher BISE-Aves264 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	GU571361.1	701	Cygnus cygnus voucher NHMO-BC527 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	GU571360.1	754	Cygnus cygnus voucher NHMO-BC173 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	FJ808633.1	684	Cygnus cygnus voucher KU08015 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	EF515739.1	686	Cygnus cygnus voucher KRIBB1835 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	KR821135.1	16723	Cygnus cygnus mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	NC_027095.1	16724	Cygnus cygnus mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_cygnus	KP981363.1	16724	Cygnus cygnus mitochondrion, complete genome

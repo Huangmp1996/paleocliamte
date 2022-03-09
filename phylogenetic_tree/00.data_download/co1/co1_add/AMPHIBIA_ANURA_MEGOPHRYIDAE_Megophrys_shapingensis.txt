@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	MH406359.1	632	Megophrys shapingensis isolate 5339 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	MH406352.1	632	Megophrys shapingensis isolate 5310 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	KX812061.1	561	Atympanophrys shapingensis isolate YPX37515 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	KX812060.1	556	Atympanophrys shapingensis isolate KIZ014512 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	NC_018785.1	17631	Atympanophrys shapingensis mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	JX458090.1	17631	Atympanophrys shapingensis mitochondrion, complete genome

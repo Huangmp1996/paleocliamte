@@ -1,0 +1,33 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	NC_048987.1	16350	Eospalax smithii mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	MH891800.1	16350	Eospalax smithii mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	KX354150.1	963	Eospalax smithii voucher ZMMU:S-195193 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522101.1	833	Eospalax smithii voucher Dazumu(s)52 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522100.1	833	Eospalax smithii voucher Dazumu(s)51 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522093.1	833	Eospalax smithii voucher Ashinu(s)87 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522091.1	833	Eospalax smithii voucher Shiergou(s)155 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522087.1	833	Eospalax smithii voucher Shiergou(s)161 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522086.1	833	Eospalax smithii voucher Machang(s)13 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522085.1	833	Eospalax smithii voucher Machang(s)11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522071.1	833	Eospalax smithii voucher Songduo(s)83 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522064.1	833	Eospalax smithii voucher Xizhang(s)2-9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522060.1	833	Eospalax smithii voucher Xizhang(s)05 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522059.1	833	Eospalax smithii voucher Xizhang(s)01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522058.1	833	Eospalax smithii voucher Xizhang(s)2-1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522057.1	833	Eospalax smithii voucher Xizhang(s)026 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522047.1	833	Eospalax smithii voucher Dazumu(s)47 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522045.1	833	Eospalax smithii voucher Dazumu(s)41 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522044.1	833	Eospalax smithii voucher Dazumu(s)43 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522043.1	833	Eospalax smithii voucher Dazumu(s)45 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	EF522041.1	833	Eospalax smithii voucher Machang(s)15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339021.1	1140	Eospalax smithii isolate 05 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339020.1	1140	Eospalax smithii isolate 03 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339019.1	1140	Eospalax smithii isolate 02 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339018.1	1140	Eospalax smithii isolate 01 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	KM103909.1	1140	Eospalax smithii isolate zokor136 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	KM103907.1	1140	Eospalax smithii isolate zokor134 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	KM103906.1	1140	Eospalax smithii isolate zokor133 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	KM103905.1	1140	Eospalax smithii isolate zokor132 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339030.1	952	Eospalax smithii isolate 05 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339029.1	952	Eospalax smithii isolate 03 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339028.1	952	Eospalax smithii isolate 02 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_smithii	GU339027.1	952	Eospalax smithii isolate 01 12S ribosomal RNA gene, partial sequence; mitochondrial

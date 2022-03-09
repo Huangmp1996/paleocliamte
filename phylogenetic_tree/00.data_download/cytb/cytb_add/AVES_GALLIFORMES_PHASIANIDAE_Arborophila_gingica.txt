@@ -1,0 +1,12 @@
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	MN868243.1	16727	Arborophila gingica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	FJ752425.1	16728	Arborophila gingica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057869.1	1143	Arborophila gingica gingica isolate BM03 cytochrome b gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057868.1	1143	Arborophila gingica gingica isolate BM02 cytochrome b gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057867.1	1143	Arborophila gingica guangxiensis isolate BM007 cytochrome b gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057866.1	1143	Arborophila gingica guangxiensis isolate BM006 cytochrome b gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057865.1	1143	Arborophila gingica guangxiensis isolate BM005 cytochrome b gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057864.1	1143	Arborophila gingica guangxiensis isolate BM004 cytochrome b gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057863.1	1143	Arborophila gingica guangxiensis isolate BM003 cytochrome b gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KU057862.1	1143	Arborophila gingica guangxiensis isolate BM002 cytochrome b gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KP119017.1	1143	Arborophila gingica guangxiensis voucher BM001 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_gingica	KP119016.1	1143	Arborophila gingica gingica voucher BM01 cytochrome b (CYTB) gene, complete cds; mitochondrial

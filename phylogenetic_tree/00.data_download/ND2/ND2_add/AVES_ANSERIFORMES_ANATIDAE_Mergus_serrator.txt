@@ -1,0 +1,5 @@
+AVES_ANSERIFORMES_ANATIDAE_Mergus_serrator	MW849285.1	16627	Mergus serrator voucher CPD1244 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mergus_serrator	EU585718.1	1017	Mergus serrator voucher IPMB 22463 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mergus_serrator	DQ831206.1	72	Mergus serrator isolate GCH7 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mergus_serrator	DQ831205.1	72	Mergus serrator isolate GCH6 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mergus_serrator	DQ831204.1	72	Mergus serrator isolate GCH5 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial

@@ -1,0 +1,7 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP100056.1	16775	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	DQ453753.1	16609	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938959.1	16500	Mauremys mutica isolate taiwan mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938958.1	16494	Mauremys mutica isolate hainan mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938957.1	16759	Mauremys mutica isolate beigui mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	NC_009330.1	16609	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AB090068.1	456	Mauremys mutica mitochondrial gene for 16S rRNA, partial sequence

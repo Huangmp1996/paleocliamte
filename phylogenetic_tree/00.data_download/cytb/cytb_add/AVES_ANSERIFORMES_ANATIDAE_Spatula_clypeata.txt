@@ -1,0 +1,6 @@
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	KX534427.1	999	Anas clypeata voucher UMMZ-T564 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	EU914154.1	1045	Anas clypeata voucher IPMB 7108 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	AF059174.1	1094	Anas clypeata tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	AF059062.1	1074	Anas clypeata cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	NC_028346.1	16599	Anas clypeata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Spatula_clypeata	KT345702.1	16599	Anas clypeata mitochondrion, complete genome

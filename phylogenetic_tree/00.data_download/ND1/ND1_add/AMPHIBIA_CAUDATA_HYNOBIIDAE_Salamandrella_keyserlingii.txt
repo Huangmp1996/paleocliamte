@@ -1,0 +1,30 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	DQ333814.1	16338	Salamandrella keyserlingii mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY916031.1	2047	Salamandrella keyserlingii NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	AY593155.1	972	Salamandrella keyserlingii NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508764.1	16338	Salamandrella keyserlingii isolate SKN9 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508763.1	16334	Salamandrella keyserlingii isolate SK8440 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508762.1	16340	Salamandrella keyserlingii isolate SK8391 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508761.1	16336	Salamandrella keyserlingii isolate SK8321 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508760.1	16337	Salamandrella keyserlingii isolate SK8301 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508759.1	16337	Salamandrella keyserlingii isolate SK8250 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508758.1	16337	Salamandrella keyserlingii isolate SK8191 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508757.1	16337	Salamandrella keyserlingii isolate SK8070 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508756.1	16334	Salamandrella keyserlingii isolate SK8021 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508755.1	16337	Salamandrella keyserlingii isolate SK1001 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508754.1	16336	Salamandrella keyserlingii isolate SK921 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508753.1	16337	Salamandrella keyserlingii isolate SK751 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508752.1	16337	Salamandrella keyserlingii isolate SK745 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508751.1	16336	Salamandrella keyserlingii isolate SK741 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508750.1	16336	Salamandrella keyserlingii isolate SK721 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508749.1	16336	Salamandrella keyserlingii isolate SK711 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508748.1	16336	Salamandrella keyserlingii isolate SK701 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508747.1	16336	Salamandrella keyserlingii isolate SK472 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508746.1	16336	Salamandrella keyserlingii isolate SK471 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508745.1	16337	Salamandrella keyserlingii isolate SK441a mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508744.1	16337	Salamandrella keyserlingii isolate SK430 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508743.1	16337	Salamandrella keyserlingii isolate SK364 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508742.1	16337	Salamandrella keyserlingii isolate SK363 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508741.1	16339	Salamandrella keyserlingii isolate SK314 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508740.1	16338	Salamandrella keyserlingii isolate SK224 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	JX508739.1	16336	Salamandrella keyserlingii isolate SK181 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Salamandrella_keyserlingii	NC_008082.1	16338	Salamandrella keyserlingii mitochondrion, complete genome

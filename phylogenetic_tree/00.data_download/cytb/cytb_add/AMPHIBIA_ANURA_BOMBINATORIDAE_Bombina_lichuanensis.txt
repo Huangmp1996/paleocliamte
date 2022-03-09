@@ -1,0 +1,9 @@
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531244.1	942	Bombina lichuanensis voucher IZCAS:H30066 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531243.1	942	Bombina lichuanensis voucher IZCAS:H30065 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531215.1	942	Bombina lichuanensis voucher IZCAS:H30055 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531214.1	942	Bombina lichuanensis voucher IZCAS:H30054 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531213.1	942	Bombina lichuanensis voucher IZCAS:H30053 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	DQ925786.1	1002	Bombina lichuanensis isolate LC2-10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	DQ925785.1	1002	Bombina lichuanensis isolate LC1-9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	NC_021477.1	18554	Bombina lichuanensis voucher BL3589 mitochondrion, complete genome
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	JX893183.1	18554	Bombina lichuanensis voucher BL3589 mitochondrion, complete genome

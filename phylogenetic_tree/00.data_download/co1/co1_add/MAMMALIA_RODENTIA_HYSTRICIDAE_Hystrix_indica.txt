@@ -1,0 +1,6 @@
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	LT746359.1	658	Hystrix indica mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIB:ZPL:0783
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	LT746358.1	658	Hystrix indica mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIB:ZPL:0782
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	JN714184.1	653	Hystrix indica isolate WF-RFDF-15-3 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	JN714183.1	653	Hystrix indica isolate WF-RFDF-15-2 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	JN714182.1	653	Hystrix indica isolate WF-RFDF-15-1 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_indica	JN714177.1	645	Hystrix indica isolate WF-RFDF-11 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial

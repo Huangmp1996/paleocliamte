@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	MN356378.1	14895	Pomatorhinus ruficollis mitochondrion, partial genome
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	VZSW00000000.1	15791	Pomatorhinus ruficollis isolate B10K-IZ-033-81, whole genome shotgun sequencing project
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	HM140304.1	594	Pomatorhinus ruficollis isolate 2879 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	NC_029769.1	17009	Pomatorhinus ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	KT970675.1	17009	Pomatorhinus ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	JQ175955.1	652	Pomatorhinus ruficollis voucher USNM:Birds:609295 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	JQ175954.1	652	Pomatorhinus ruficollis voucher USNM:Birds:620565 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ruficollis	JQ175953.1	652	Pomatorhinus ruficollis voucher USNM:Birds:620559 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,6 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_guangxiensis	JF712657.1	1711	Paramesotriton guanxiensis haplotype GZNU2006002 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_guangxiensis	FJ938041.1	1759	Paramesotriton guanxiensis haplotype GZNU2006001 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_guangxiensis	AY079470.1	353	Paramesotriton guangxiensis isolate GX09 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_guangxiensis	AY079469.1	353	Paramesotriton guangxiensis isolate GX08 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_guangxiensis	AY079468.1	353	Paramesotriton guangxiensis isolate GX07 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_guangxiensis	AY079467.1	353	Paramesotriton guangxiensis isolate GX06 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

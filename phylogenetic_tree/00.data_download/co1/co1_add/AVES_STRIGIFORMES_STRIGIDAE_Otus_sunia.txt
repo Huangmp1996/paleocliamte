@@ -1,0 +1,9 @@
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	MN276053.1	17604	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	MK932900.1	695	Otus sunia voucher KU249 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	NC_041422.1	17835	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	MF346692.1	17835	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	GQ482289.1	694	Otus sunia voucher UWBM 51180 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	GQ482288.1	694	Otus sunia voucher UWBM 58434 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	GQ482287.1	694	Otus sunia voucher UWBM 51122 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	GQ482286.1	694	Otus sunia voucher UWBM 60071 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	EU621641.1	570	Otus sunia cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

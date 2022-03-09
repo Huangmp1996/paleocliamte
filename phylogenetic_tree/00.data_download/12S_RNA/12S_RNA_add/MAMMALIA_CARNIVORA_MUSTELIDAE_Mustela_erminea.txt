@@ -1,0 +1,19 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	MT584107.1	16464	Mustela erminea isolate DM1128 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	MW257230.1	16500	Mustela erminea mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224405.1	362	Mustela erminea isolate FRT90 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224404.1	396	Mustela erminea isolate FRT89 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224403.1	314	Mustela erminea isolate FRT88 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224402.1	414	Mustela erminea isolate FRT86 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224401.1	390	Mustela erminea isolate FRT85 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224314.1	317	Mustela erminea isolate FRT90 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224313.1	287	Mustela erminea isolate FRT89 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224312.1	311	Mustela erminea isolate FRT88 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224311.1	309	Mustela erminea isolate FRT87 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224310.1	327	Mustela erminea isolate FRT86 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224309.1	345	Mustela erminea isolate FRT85 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM224308.1	332	Mustela erminea isolate FRT84 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	NC_025516.1	16471	Mustela erminea mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	KM091450.1	16471	Mustela erminea mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	AB119066.1	957	Mustela erminea mitochondrial gene for 12S rRNA, partial sequence
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	EF027272.1	145	Mustela erminea 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_erminea	AF068553.1	378	Mustela erminea 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

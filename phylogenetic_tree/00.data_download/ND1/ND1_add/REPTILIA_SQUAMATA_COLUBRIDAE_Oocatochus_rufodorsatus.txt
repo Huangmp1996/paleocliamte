@@ -1,0 +1,3 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	DQ902165.1	955	Oocatochus rufodorsatus voucher LSUMZ 37394 NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	NC_022146.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Oocatochus_rufodorsatus	KC990020.1	17159	Oocatochus rufodorsatus mitochondrion, complete genome

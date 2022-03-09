@@ -1,0 +1,40 @@
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AY788011.1	593	Danio rerio voucher AMNH233432 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	H56883.1	285	ZF-E105 zebrafish embryonic Danio rerio cDNA clone ZF-E105 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	H56880.1	190	ZF-E102 zebrafish embryonic Danio rerio cDNA clone ZF-E102 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	H56879.1	221	ZF-E101 zebrafish embryonic Danio rerio cDNA clone ZF-E101 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	H56870.1	173	ZF-E92 zebrafish embryonic Danio rerio cDNA clone ZF-E92 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	H56857.1	282	ZF-E79 zebrafish embryonic Danio rerio cDNA clone ZF-E79 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	H56841.1	242	ZF-E63 zebrafish embryonic Danio rerio cDNA clone ZF-E63 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	CB365695.1	68	ZF001-P00047-DPE-F2-B_G08 GISZF001 Danio rerio cDNA clone IMAGE:6909593 5' similar to ZF-E563 zebrafish embryonic Danio rerio cDNA clone ZF-E563 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566553.1	204	ZF-ES74 zebrafish embryonic (subtraction) Danio rerio cDNA clone ZF-ES74 5' end similar to 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566520.1	289	ZF-ES41 zebrafish embryonic (subtraction) Danio rerio cDNA clone ZF-ES41 5' end similar to 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566481.1	199	ZF-ES2 zebrafish embryonic (subtraction) Danio rerio cDNA clone ZF-ES2 5' end similar to 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566479.1	148	ZF-E570 zebrafish embryonic Danio rerio cDNA clone ZF-E570 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566472.1	273	ZF-E563 zebrafish embryonic Danio rerio cDNA clone ZF-E563 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566446.1	240	ZF-E537 zebrafish embryonic Danio rerio cDNA clone ZF-E537 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566422.1	225	ZF-E513 zebrafish embryonic Danio rerio cDNA clone ZF-E513 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566404.1	242	ZF-E489 zebrafish embryonic Danio rerio cDNA clone ZF-E489 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566399.1	146	ZF-E484 zebrafish embryonic Danio rerio cDNA clone ZF-E484 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566366.1	112	ZF-E451 zebrafish embryonic Danio rerio cDNA clone ZF-E451 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566358.1	168	ZF-E443 zebrafish embryonic Danio rerio cDNA clone ZF-E443 5' end similar to mitochondrial 16S rRNA subunit, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566349.1	154	ZF-E434 zebrafish embryonic Danio rerio cDNA clone ZF-E434 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA566337.1	196	ZF-E422 zebrafish embryonic Danio rerio cDNA clone ZF-E422 5' end similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AA549792.1	154	ZF-A28 zebrafish adult Danio rerio cDNA 5' similar to mitochondrial 16S rRNA, mRNA sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KY242364.1	609	Danio rerio voucher NBFGR-CH-1180 16S ribosomal RNA gene, partial sequence; mitochondrial
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	MG018719.1	986	Danio rerio isolate DRCF large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	EF417169.1	1086	Danio rerio large subunit ribosomal RNA gene, partial sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	NC_002333.2	16596	Danio rerio mitochondrion, complete genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AC024175.3	16596	Danio rerio mitochondrial genome, complete sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624627.1	16580	Danio rerio strain AB mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624626.1	16579	Danio rerio strain WIK mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624625.1	16577	Danio rerio strain TL mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624624.1	16574	Danio rerio strain SJD mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624623.1	16579	Danio rerio strain HL mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KT624622.1	16576	Danio rerio strain PS mitochondrion, partial genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KP860051.1	569	Danio rerio 16S ribosomal RNA gene, partial sequence; mitochondrial
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	KM244705.1	16560	Danio rerio mitochondrion, complete genome
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AB741876.1	615	Danio rerio mitochondrial gene for 16S ribosomal RNA, partial sequence, strain: AB
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	JQ581534.1	227	Danio rerio haplotype C 16S ribosomal RNA gene, partial sequence; mitochondrial
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	JQ581533.1	227	Danio rerio haplotype B 16S ribosomal RNA gene, partial sequence; mitochondrial
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AF036006.1	1623	Danio rerio 16S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, complete sequence
+Actinopterygii_Cypriniformes_Danionidae_Danio_rerio	AY054970.1	435	Danio rerio 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

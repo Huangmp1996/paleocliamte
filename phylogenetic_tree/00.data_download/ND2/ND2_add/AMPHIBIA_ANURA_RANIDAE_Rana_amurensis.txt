@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_amurensis	AY607314.1	2011	Rana amurensis voucher CAS 194156 NADH dehydrogenase subunit 1 (nad1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (nad2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_amurensis	MF370348.1	20571	Rana amurensis voucher HRB1504006 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_amurensis	KX269418.1	790	Rana amurensis isolate MSUZP-SLK-RUS49 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_amurensis	NC_030042.1	18470	Rana amurensis voucher SYNU11100268 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_amurensis	KU343216.1	18470	Rana amurensis voucher SYNU11100268 mitochondrion, complete genome

@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MT259587.1	16710	Cynopterus sphinx voucher MZF1967 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	NC_046902.1	16897	Cynopterus sphinx isolate CKM35 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MN816305.1	16897	Cynopterus sphinx isolate CKM35 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AB079802.1	957	Cynopterus sphinx mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

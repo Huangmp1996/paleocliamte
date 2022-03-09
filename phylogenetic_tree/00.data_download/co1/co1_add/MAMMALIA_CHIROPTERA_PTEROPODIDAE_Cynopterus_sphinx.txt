@@ -1,0 +1,99 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MT259587.1	16710	Cynopterus sphinx voucher MZF1967 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MW039079.1	678	Cynopterus sphinx voucher sp2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MT900613.1	668	Cynopterus sphinx voucher NHM.OU.CHI.28a.2015 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	NC_046902.1	16897	Cynopterus sphinx isolate CKM35 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MN816305.1	16897	Cynopterus sphinx isolate CKM35 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MK410368.1	1545	Cynopterus sphinx isolate VN1992B13 cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MG821198.1	483	Cynopterus sphinx voucher NHM.OU.CHI.10.2012 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MG821171.1	670	Cynopterus sphinx voucher NHM.OU.CHI.86.2015 cytochrome oxidase subunit 1 (CoI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MG299065.1	652	Cynopterus sphinx voucher 12-hu-ih-113 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	GU684776.1	658	Cynopterus sphinx voucher ZMMU S-184640 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	GU684748.1	658	Cynopterus sphinx voucher ZMMU S-184639 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM914954.1	658	Cynopterus sphinx voucher ZMMU SVK 172-09 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540240.1	648	Cynopterus sphinx voucher ROM MAM 118130 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540239.1	657	Cynopterus sphinx voucher ROM MAM 118073 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540238.1	657	Cynopterus sphinx voucher ROM MAM 118072 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540237.1	657	Cynopterus sphinx voucher ROM MAM 116189 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540236.1	657	Cynopterus sphinx voucher ROM MAM 116188 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540235.1	657	Cynopterus sphinx voucher ROM MAM 116187 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540234.1	657	Cynopterus sphinx voucher ROM MAM 116054 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540233.1	657	Cynopterus sphinx voucher ROM MAM 116164 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540232.1	657	Cynopterus sphinx voucher ROM MAM 116163 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540231.1	643	Cynopterus sphinx voucher ROM MAM 116162 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540230.1	647	Cynopterus sphinx voucher ROM MAM 116158 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540229.1	647	Cynopterus sphinx voucher ROM MAM 116157 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540228.1	653	Cynopterus sphinx voucher ROM MAM 116156 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540227.1	657	Cynopterus sphinx voucher ROM MAM 116155 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540226.1	657	Cynopterus sphinx voucher ROM MAM 116154 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540225.1	657	Cynopterus sphinx voucher ROM MAM 116153 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540224.1	657	Cynopterus sphinx voucher ROM MAM 116151 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540223.1	657	Cynopterus sphinx voucher ROM MAM 116147 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540222.1	657	Cynopterus sphinx voucher ROM MAM 116146 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540221.1	657	Cynopterus sphinx voucher ROM MAM 116145 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540220.1	657	Cynopterus sphinx voucher ROM MAM 116144 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540219.1	649	Cynopterus sphinx voucher ROM MAM 116132 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540218.1	657	Cynopterus sphinx voucher ROM MAM 107662 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540217.1	656	Cynopterus sphinx voucher ROM MAM 118100 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540216.1	655	Cynopterus sphinx voucher ROM MAM 118158 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540215.1	657	Cynopterus sphinx voucher ZMMU S-180574 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540214.1	657	Cynopterus sphinx voucher ZMMU S-180551 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540213.1	657	Cynopterus sphinx voucher ZMMU S-180575 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540212.1	616	Cynopterus sphinx voucher EBD 25666 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540211.1	378	Cynopterus sphinx voucher EBD 25103 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540210.1	655	Cynopterus sphinx voucher SMF 85759 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HM540209.1	657	Cynopterus sphinx voucher ZMMU S-172555 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	HQ580344.1	657	Cynopterus sphinx voucher ABA 10-81 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KT291769.1	639	Cynopterus sphinx isolate CSAI-3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JX282935.1	680	Cynopterus sphinx isolate JPH06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JX500417.1	657	Cynopterus sphinx voucher SPKC 06 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599985.1	657	Cynopterus sphinx voucher ROM:112358 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599984.1	657	Cynopterus sphinx voucher ROM:111402 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599983.1	657	Cynopterus sphinx voucher ROM:111376 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599982.1	657	Cynopterus sphinx voucher ROM:111268 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599981.1	657	Cynopterus sphinx voucher ROM:111267 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599980.1	657	Cynopterus sphinx voucher ROM:111266 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599979.1	657	Cynopterus sphinx voucher ROM:111265 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599976.1	647	Cynopterus sphinx voucher ROM:111008 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599970.1	657	Cynopterus sphinx voucher ROM:110970 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599969.1	657	Cynopterus sphinx voucher ROM:110969 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599968.1	657	Cynopterus sphinx voucher ROM:110968 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599967.1	657	Cynopterus sphinx voucher ROM:110967 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599965.1	657	Cynopterus sphinx voucher ROM:110953 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599964.1	657	Cynopterus sphinx voucher ROM:110952 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599961.1	657	Cynopterus sphinx voucher ROM:110937 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599959.1	657	Cynopterus sphinx voucher ROM:110927 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599958.1	652	Cynopterus sphinx voucher ROM:110926 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599957.1	657	Cynopterus sphinx voucher ROM:110923 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599956.1	657	Cynopterus sphinx voucher ROM:110922 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599954.1	657	Cynopterus sphinx voucher ROM:110920 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599953.1	657	Cynopterus sphinx voucher ROM:110919 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599952.1	657	Cynopterus sphinx voucher ROM:110918 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599950.1	657	Cynopterus sphinx voucher ROM:110916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599949.1	657	Cynopterus sphinx voucher ROM:110915 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599948.1	657	Cynopterus sphinx voucher ROM:110914 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599947.1	657	Cynopterus sphinx voucher ROM:110913 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599946.1	657	Cynopterus sphinx voucher ROM:110912 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599945.1	657	Cynopterus sphinx voucher ROM:110911 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599944.1	657	Cynopterus sphinx voucher ROM:110910 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599943.1	657	Cynopterus sphinx voucher ROM:110909 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599942.1	657	Cynopterus sphinx voucher ROM:110908 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599941.1	648	Cynopterus sphinx voucher ROM:110901 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599939.1	657	Cynopterus sphinx voucher ROM:110890 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599938.1	657	Cynopterus sphinx voucher ROM:110802 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599937.1	657	Cynopterus sphinx voucher ROM:110801 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599936.1	657	Cynopterus sphinx voucher ROM:110800 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599935.1	657	Cynopterus sphinx voucher ROM:110793 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599934.1	657	Cynopterus sphinx voucher ROM:110792 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599933.1	657	Cynopterus sphinx voucher ROM:110791 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599932.1	657	Cynopterus sphinx voucher ROM:110790 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599931.1	657	Cynopterus sphinx voucher ROM:110789 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599930.1	657	Cynopterus sphinx voucher ROM:110788 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599929.1	657	Cynopterus sphinx voucher ROM:110787 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599928.1	657	Cynopterus sphinx voucher ROM:110786 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599927.1	657	Cynopterus sphinx voucher ROM:110785 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599926.1	657	Cynopterus sphinx voucher ROM:F44106 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599925.1	657	Cynopterus sphinx voucher ROM:110766 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599924.1	657	Cynopterus sphinx voucher ROM:110765 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599923.1	657	Cynopterus sphinx voucher ROM:110764 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599922.1	657	Cynopterus sphinx voucher ROM:110763 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JQ599921.1	657	Cynopterus sphinx voucher ROM:110762 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

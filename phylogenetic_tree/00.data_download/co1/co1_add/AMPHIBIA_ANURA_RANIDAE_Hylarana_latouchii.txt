@@ -1,0 +1,14 @@
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	NC_057198.1	17007	Hylarana latouchii voucher LSU20200422001ZL mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MT702387.1	17007	Hylarana latouchii voucher LSU20200422001ZL mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MN241431.1	17291	Hylarana latouchii mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MH034231.1	588	Hylarana latouchii voucher 16179 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MH034230.1	588	Hylarana latouchii voucher 16326 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MH034229.1	588	Hylarana latouchii voucher 17054 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MH034228.1	588	Hylarana latouchii voucher 17754 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MH034227.1	588	Hylarana latouchii voucher 15660 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MH034226.1	588	Hylarana latouchii voucher 15961 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	MH034225.1	588	Hylarana latouchii voucher 16149 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	KF771327.1	976	Hylarana latouchii tRNA-Trp (trnW) gene, partial sequence; tRNA-Ala (trnA), tRNA-Asn (trnN), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	JN700816.1	602	Rana latouchii voucher YPX11284 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	JN700815.1	602	Rana latouchii voucher KIZ06288 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_latouchii	JN700814.1	602	Rana latouchii voucher YPX12505 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

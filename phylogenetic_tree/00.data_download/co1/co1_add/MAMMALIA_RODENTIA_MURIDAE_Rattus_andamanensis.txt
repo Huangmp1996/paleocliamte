@@ -1,0 +1,37 @@
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	NC_046686.1	16304	Rattus andamanensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	MK558274.1	16304	Rattus andamanensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KY605368.1	690	Rattus andamanensis isolate LC160 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KY605367.1	689	Rattus andamanensis isolate LC159 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KY605366.1	690	Rattus andamanensis isolate LC158 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KY605365.1	689	Rattus andamanensis isolate LC157 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KY605364.1	681	Rattus andamanensis isolate LC156 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KY605363.1	690	Rattus andamanensis isolate LC155 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KY605362.1	689	Rattus andamanensis isolate LC153 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445284.1	623	Rattus andamanensis voucher CCP-AO 0008 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445283.1	657	Rattus andamanensis voucher CCP-AO 0012 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	HM217533.1	655	Rattus andamanensis voucher R3087 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	HM217525.1	651	Rattus andamanensis voucher R2953 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KC010294.1	709	Rattus andamanensis haplotype HCORA02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	KC010293.1	713	Rattus andamanensis haplotype HCORA01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445282.1	657	Rattus andamanensis voucher ROM:110940 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445281.1	657	Rattus andamanensis voucher ROM:110939 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445280.1	655	Rattus andamanensis voucher ROM:107790 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445279.1	657	Rattus andamanensis voucher ROM:107789 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445278.1	655	Rattus andamanensis voucher ROM:107784 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445277.1	657	Rattus andamanensis voucher ROM:107783 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445276.1	657	Rattus andamanensis voucher ROM:107779 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445275.1	657	Rattus andamanensis voucher ROM:107777 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445274.1	657	Rattus andamanensis voucher ROM:107776 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445273.1	657	Rattus andamanensis voucher ROM:107767 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445272.1	655	Rattus andamanensis voucher ROM:107758 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445271.1	657	Rattus andamanensis voucher ROM:107757 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445270.1	657	Rattus andamanensis voucher ROM:107742 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445269.1	651	Rattus andamanensis voucher ROM:107730 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445268.1	657	Rattus andamanensis voucher ROM:107729 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445267.1	657	Rattus andamanensis voucher ROM:107728 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445266.1	657	Rattus andamanensis voucher ROM:107726 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445265.1	655	Rattus andamanensis voucher ROM:107725 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445264.1	421	Rattus andamanensis voucher CMF 960504.12 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445263.1	656	Rattus andamanensis voucher ROM:107526 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445262.1	657	Rattus andamanensis voucher ROM:107672 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_andamanensis	JF445261.1	657	Rattus andamanensis voucher ROM:111333 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

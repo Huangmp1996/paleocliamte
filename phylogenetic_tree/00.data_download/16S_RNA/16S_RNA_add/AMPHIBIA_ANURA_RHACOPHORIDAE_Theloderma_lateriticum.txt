@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_lateriticum	LC012851.1	2403	Theloderma lateriticum mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: VNMN:1216
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_lateriticum	LC012850.1	2400	Theloderma lateriticum mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: VNMN:1215
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_lateriticum	LC012849.1	2399	Theloderma lateriticum mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: VNMN:PAE 226
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_lateriticum	LC012848.1	2307	Theloderma lateriticum mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: AMNH:168757

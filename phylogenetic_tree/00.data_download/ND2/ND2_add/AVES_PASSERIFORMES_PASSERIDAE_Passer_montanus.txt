@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MW495245.1	16904	Passer montanus saturatus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MH211399.1	16807	Passer montanus isolate XJWLMQ mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MH211398.1	16887	Passer montanus isolate QHXN mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MH211397.1	16888	Passer montanus isolate JXJA mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MH211396.1	16886	Passer montanus isolate GZAS mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GU816845.1	1041	Passer montanus NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AY030144.1	1041	Passer montanus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KJ455541.1	1041	Passer montanus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KM577704.1	16904	Passer montanus saturatus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	NC_024821.1	16887	Passer montanus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	JX486030.1	16887	Passer montanus mitochondrion, complete genome

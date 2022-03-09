@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	NC_045374.1	17879	Muscicapa sibirica mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	MK770601.1	17879	Muscicapa sibirica mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	GQ482226.1	694	Muscicapa sibirica voucher UWBM 58009 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	GQ482225.1	694	Muscicapa sibirica voucher UWBM 74629 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	GQ482224.1	694	Muscicapa sibirica voucher UWBM 59998 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	GQ482223.1	684	Muscicapa sibirica voucher UWBM 44282 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	GQ482222.1	684	Muscicapa sibirica voucher UWBM 44571 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	GQ482221.1	684	Muscicapa sibirica voucher UWBM 73106 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	GQ482220.1	681	Muscicapa sibirica voucher UWBM 83285 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	AB843614.1	675	Muscicapa sibirica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO306-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	AB842958.1	661	Muscicapa sibirica mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM236-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	KM924382.1	614	Muscicapa sibirica sibirica isolate 83370 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	KM924380.1	614	Muscicapa sibirica sibirica isolate 83285 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	KM924374.1	614	Muscicapa sibirica sibirica isolate 59998 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	EF422242.1	1176	Muscicapa sibirica cytohrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	NC_050983.1	17370	Lepus oiostolus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	MT376741.1	17370	Lepus oiostolus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY745187.1	639	Lepus oiostolus isolate tibet 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY745178.1	551	Lepus oiostolus isolate s5o 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	AY745177.1	756	Lepus oiostolus isolate s3o 12S ribosomal RNA gene, partial sequence; mitochondrial

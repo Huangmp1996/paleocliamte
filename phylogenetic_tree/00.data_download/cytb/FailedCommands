@@ -1,0 +1,3 @@
+python cytb_add.py AVES_FALCONIFORMES_FALCONIDAE_Falco_naumanni
+python cytb_add.py AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba
+python cytb_add.py MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_mutus

@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	GQ242095.1	1041	Orthotomus sutorius voucher NRM 20046853 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	KJ455530.1	1041	Orthotomus sutorius NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	KF015235.1	977	Orthotomus sutorius voucher KUMNH23548 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	DQ871365.1	1030	Orthotomus sutorius isolate D24 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	JX006149.1	1041	Orthotomus sutorius maculicollis voucher J1164 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	JX006148.1	1041	Orthotomus sutorius maculicollis voucher J1136 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	JX006147.1	1041	Orthotomus sutorius edela voucher USNM220010 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	JX006146.1	1041	Orthotomus sutorius edela voucher USNM219581 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	JX006145.1	1041	Orthotomus sutorius longicauda voucher KUMNH13563 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

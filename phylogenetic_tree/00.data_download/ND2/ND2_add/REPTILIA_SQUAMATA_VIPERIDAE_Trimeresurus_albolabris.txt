@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK199047.1	1026	Trimeresurus albolabris voucher CHS721 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK199016.1	1026	Trimeresurus albolabris voucher CHS661 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	NC_022820.1	17220	Trimeresurus albolabris mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KF311102.1	17220	Trimeresurus albolabris mitochondrion, complete genome

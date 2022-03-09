@@ -1,0 +1,17 @@
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	MZ005612.1	1023	Pyrgilauda blanfordi isolate MAR2217 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	MZ005611.1	1065	Pyrgilauda blanfordi isolate MAR2218 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	MZ005610.1	1072	Pyrgilauda blanfordi isolate MAR2222 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	MZ005603.1	1143	Pyrgilauda blanfordi isolate MAR990 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	MZ005602.1	1143	Pyrgilauda blanfordi isolate MAR989 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	MN337350.1	900	Pyrgilauda blanfordi isolate MAR1775 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	DQ244063.1	879	Montifringilla blanfordi voucher QPB cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	FJ624120.1	880	Pyrgilauda blanfordi voucher QZ1149 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	FJ624119.1	880	Pyrgilauda blanfordi voucher QZ1136 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	FJ624118.1	880	Pyrgilauda blanfordi voucher QZ1135 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	FJ624117.1	880	Pyrgilauda blanfordi voucher QZ1106 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	FJ624116.1	880	Pyrgilauda blanfordi voucher zhao12 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	FJ624115.1	880	Pyrgilauda blanfordi voucher 20 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	FJ624114.1	880	Pyrgilauda blanfordi voucher 19 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	FJ624113.1	880	Pyrgilauda blanfordi voucher 15 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	NC_025912.1	16913	Pyrgilauda blanfordi mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_blanfordi	KJ148629.1	16913	Pyrgilauda blanfordi mitochondrion, complete genome

@@ -1,0 +1,7 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_chinensis	MW046274.1	432	Myotis chinensis voucher NTS.2019.04.37 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_chinensis	KX467607.1	1116	Myotis chinensis voucher HUN-046 cytchrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_chinensis	EF555228.1	1140	Myotis chinensis haplotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_chinensis	EF555227.1	1140	Myotis chinensis haplotype 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_chinensis	JX465368.1	1140	Myotis chinensis isolate ZaoxiMc1 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_chinensis	JF412415.1	1101	Myotis chinensis isolate Mchin8_exAS08-1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_chinensis	AB106588.1	1140	Myotis chinensis mitochondrial cytb gene for cytochrome b, complete cds, specimen_voucher: GU7844 (Guangzhou University)

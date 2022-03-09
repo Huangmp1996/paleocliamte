@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	NC_039536.1	17109	Paradoxornis gularis mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	KX397391.1	17109	Paradoxornis gularis mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	JF756747.1	1143	Paradoxornis gularis transfluvialis voucher NTNU T2899 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	JF756746.1	1143	Paradoxornis gularis transfluvialis voucher NTNU T1816 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	JF756745.1	1143	Paradoxornis gularis fokiensis voucher NTNU T5453 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	JF756744.1	1143	Paradoxornis gularis fokiensis voucher NTNU T5452 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	HM140311.1	621	Paradoxornis gularis isolate 3070 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	AF484873.1	477	Paradoxornis gularis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	KJ456370.1	1143	Paradoxornis gularis cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	JX565698.1	1105	Paradoxornis gularis voucher IOZ10456 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	JN827132.1	1143	Paradoxornis gularis voucher KUNHM 6706 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	JN827131.1	1143	Paradoxornis gularis voucher KUNHM 11037 cytochrome b (CYTB) gene, complete cds; mitochondrial

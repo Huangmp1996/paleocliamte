@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	NC_056274.1	17042	Opisthotropis guangxiensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MT571495.1	17042	Opisthotropis guangxiensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MK201551.1	585	Opisthotropis guangxiensis voucher CHS822 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MK201519.1	585	Opisthotropis guangxiensis voucher CHS772 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MK201499.1	585	Opisthotropis guangxiensis voucher CHS746 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	MK201496.1	585	Opisthotropis guangxiensis voucher CHS740 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Opisthotropis_guangxiensis	GQ281776.1	1059	Opisthotropis guangxiensis isolate GP746 cytochrome b (cytb) gene, partial cds; mitochondrial

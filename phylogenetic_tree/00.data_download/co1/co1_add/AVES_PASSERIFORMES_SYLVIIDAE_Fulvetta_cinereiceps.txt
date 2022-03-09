@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_cinereiceps	MG833030.1	16969	Fulvetta cinereiceps mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_cinereiceps	HM140294.1	594	Alcippe cinereiceps isolate 2608 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_cinereiceps	JQ173953.1	652	Alcippe cinereiceps voucher USNM:Birds:631850 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_cinereiceps	JQ173952.1	652	Alcippe cinereiceps voucher USNM:Birds:631843 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

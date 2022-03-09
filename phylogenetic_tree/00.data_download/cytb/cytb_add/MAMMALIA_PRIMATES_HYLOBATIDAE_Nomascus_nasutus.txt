@@ -1,0 +1,4 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_nasutus	GU594996.1	1140	Nomascus nasutus isolate nas4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_nasutus	GU321247.1	1140	Nomascus nasutus haplotype NNA3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_nasutus	GU321246.1	1140	Nomascus nasutus haplotype NNA2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_nasutus	GU321245.1	1140	Nomascus nasutus haplotype NNA1 cytochrome b (cytb) gene, partial cds; mitochondrial

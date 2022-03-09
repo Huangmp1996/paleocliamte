@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_feae	KY034076.1	657	Murina aurata feae voucher PS.10.0154 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_feae	KY034072.1	657	Murina aurata feae voucher PS.10.0133 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_feae	KF772778.1	705	Murina aurata feae clone VN11-1244 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_feae	KF772777.1	705	Murina aurata feae clone VN11-1208 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial

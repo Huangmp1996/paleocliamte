@@ -1,0 +1,28 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599114.1	880	Seicercus poliogenys voucher SR-2013-171 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599113.1	848	Seicercus poliogenys voucher SR-2013-226 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599112.1	989	Seicercus poliogenys voucher SR-2013-222 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599111.1	878	Seicercus poliogenys voucher SR-2013-145 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599110.1	1140	Seicercus poliogenys voucher SR-2013-91 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599109.1	985	Seicercus poliogenys voucher KU30674 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599108.1	606	Seicercus poliogenys voucher KU15205 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599107.1	606	Seicercus poliogenys voucher KU9979 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599106.1	606	Seicercus poliogenys voucher KU15120 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599105.1	606	Seicercus poliogenys voucher KU10095 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599104.1	606	Seicercus poliogenys voucher KU10224 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599103.1	606	Seicercus poliogenys voucher KU15206 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599102.1	606	Seicercus poliogenys voucher KU15119 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599101.1	1140	Seicercus poliogenys voucher SR2016-713 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599100.1	1140	Seicercus poliogenys voucher SR2016-711 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599099.1	1140	Seicercus poliogenys voucher SR2016-590 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599098.1	1140	Seicercus poliogenys voucher SR2016-544 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599097.1	977	Seicercus poliogenys voucher SR2016_78 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599096.1	822	Seicercus poliogenys voucher SR-2013-400 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599095.1	472	Seicercus poliogenys voucher SR-2013-399 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599094.1	993	Seicercus poliogenys voucher SR-2013-271 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MK599093.1	1140	Seicercus poliogenys voucher SR2016-541 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MH079381.1	1053	Seicercus poliogenys voucher IOZ 19213 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	MH079380.1	1044	Seicercus poliogenys voucher IOZ 19268 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	AY635081.1	1038	Seicercus poliogenys cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	AY635080.1	1038	Seicercus poliogenys cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	AY635079.1	1038	Seicercus poliogenys cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_poliogenys	KJ456462.1	1143	Seicercus poliogenys cytochrome b (cytb) gene, complete cds; mitochondrial

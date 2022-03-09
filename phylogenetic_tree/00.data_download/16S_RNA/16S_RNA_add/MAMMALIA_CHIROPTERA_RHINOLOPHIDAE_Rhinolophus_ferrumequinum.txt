@@ -1,0 +1,11 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	MK089295.1	16845	Rhinolophus ferrumequinum mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	AY395859.1	2602	Rhinolophus ferrumequinum 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	JN392460.1	16839	Rhinolophus ferrumequinum korai mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KT783534.1	16760	Rhinolophus ferrumequinum tragatus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	KT779432.1	16804	Rhinolophus ferrumequinum nippon mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	JX084273.1	16870	Rhinolophus ferrumequinum quelpartis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	NC_016191.1	16839	Rhinolophus ferrumequinum korai mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	GU461872.1	531	Rhinolophus ferrumequinum isolate B 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	GU461871.1	531	Rhinolophus ferrumequinum isolate A 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	FJ375761.1	1624	Rhinolophus ferrumequinum isolate GZNU20080502001 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_ferrumequinum	DQ989619.1	1423	Rhinolophus ferrumequinum voucher GZNU200308 16S ribosomal RNA gene, partial sequence; mitochondrial

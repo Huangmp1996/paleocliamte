@@ -1,0 +1,8 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_agrestis	MT410884.1	16296	Microtus agrestis isolate DM50d mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_agrestis	NC_041250.1	16297	Microtus agrestis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_agrestis	MH152570.1	16297	Microtus agrestis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_agrestis	EF027264.1	144	Microtus agrestis isolate 4 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_agrestis	EF027263.1	144	Microtus agrestis isolate 3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_agrestis	EF027262.1	144	Microtus agrestis isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_agrestis	EF027261.1	144	Microtus agrestis isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_agrestis	AY948542.1	683	Microtus agrestis control region, partial sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA, partial sequence; mitochondrial

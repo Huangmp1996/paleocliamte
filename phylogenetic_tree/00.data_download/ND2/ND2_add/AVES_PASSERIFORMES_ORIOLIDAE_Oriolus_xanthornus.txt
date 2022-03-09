@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706464.1	830	Oriolus xanthornus tanakae voucher BMNH:1956.60.549 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706463.1	830	Oriolus xanthornus tanakae voucher BMNH:1956.60.550 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706462.1	516	Oriolus xanthornus reubeni voucher BMNH:1887.11.20.590 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706461.1	618	Oriolus xanthornus reubeni voucher BMNH:1886.3.1.1388 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706460.1	830	Oriolus xanthornus ceylonensis voucher BMNH:1946.28.269 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706459.1	830	Oriolus xanthornus ceylonensis voucher BMNH:1949Whl1.1999 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706458.1	1041	Oriolus xanthornus maderaspatanus voucher ZMUC:139617 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706457.1	830	Oriolus xanthornus maderaspatanus voucher BMNH:1949Whl1.1998 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706456.1	830	Oriolus xanthornus maderaspatanus voucher BMNH:1949Whl1.1992 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	MK706455.1	830	Oriolus xanthornus xanthornus voucher BMNH:1949Whl1.1981 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_xanthornus	AY529964.1	1034	Oriolus xanthornus voucher MNHN 4-10D NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

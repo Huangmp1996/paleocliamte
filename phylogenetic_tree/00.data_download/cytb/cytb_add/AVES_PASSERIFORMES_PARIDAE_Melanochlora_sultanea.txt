@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PARIDAE_Melanochlora_sultanea	AY308722.1	1003	Melanochlora sultanea AMNH_PRS2247 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Melanochlora_sultanea	AY308721.1	1036	Melanochlora sultanea MCZ 268318 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Melanochlora_sultanea	KJ456337.1	1143	Melanochlora sultanea cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Melanochlora_sultanea	JX221708.1	1143	Melanochlora sultanea isolate JM109 cytochrome b (cytb) gene, complete cds; mitochondrial

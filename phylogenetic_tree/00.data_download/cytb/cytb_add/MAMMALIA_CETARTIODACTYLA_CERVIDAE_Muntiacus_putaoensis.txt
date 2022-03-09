@@ -1,0 +1,11 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	NC_036430.1	16349	Muntiacus putaoensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	MF737190.1	16349	Muntiacus putaoensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	MF737181.1	1140	Muntiacus putaoensis haplotype Hap3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	MF737180.1	1140	Muntiacus putaoensis haplotype Hap2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	MF737179.1	1140	Muntiacus putaoensis haplotype Hap1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	KJ425280.1	1140	Muntiacus putaoensis isolate M4.1 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523669.1	876	Muntiacus putaoensis isolate nmc15 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523668.1	876	Muntiacus putaoensis isolate nmc14 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523667.1	876	Muntiacus putaoensis isolate nmc13 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523666.1	876	Muntiacus putaoensis isolate nmc12 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523665.1	876	Muntiacus putaoensis isolate nmc11 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial

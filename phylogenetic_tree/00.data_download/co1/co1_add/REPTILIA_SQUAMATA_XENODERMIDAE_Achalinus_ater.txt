@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_ater	MT365521.1	615	Achalinus ater voucher YBU18273 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_ater	MT365520.1	615	Achalinus ater voucher YBU18404 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_ater	MT365519.1	615	Achalinus ater voucher YBU19029 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_ater	MN380334.1	624	Achalinus ater voucher SYS:r00852 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_ater	MK064760.1	657	Achalinus ater voucher CHS584 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

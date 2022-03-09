@@ -1,0 +1,11 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	AY666481.1	653	Aquila chrysaetos voucher 1B-2696 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	AY666434.1	654	Aquila chrysaetos voucher 1B-3622 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	GU571738.1	614	Aquila chrysaetos voucher BISE-Aves10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	GU571737.1	648	Aquila chrysaetos voucher BISE-Aves252 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	GU571265.1	747	Aquila chrysaetos voucher NHMO-BC546 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	GU571264.1	740	Aquila chrysaetos voucher NHMO-BC156 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	DQ834328.1	439	Aquila chrysaetos canadensis haplotype G cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	KR017975.1	944	Aquila chrysaetos voucher 1641-6719 cytochrome oxidase subunit 1 (COX-1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	AB842562.1	643	Aquila chrysaetos mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM706-11
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	NC_024087.1	17332	Aquila chrysaetos mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_chrysaetos	KF905228.1	17332	Aquila chrysaetos mitochondrion, complete genome

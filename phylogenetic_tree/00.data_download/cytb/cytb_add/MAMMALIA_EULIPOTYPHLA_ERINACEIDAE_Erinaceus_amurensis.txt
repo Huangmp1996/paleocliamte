@@ -1,0 +1,4 @@
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KX964606.1	16941	Erinaceus amurensis mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	HQ857521.1	1140	Erinaceus amurensis clone 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	HQ857520.1	1140	Erinaceus amurensis clone 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KF783125.1	1134	Erinaceus amurensis voucher ZMMU S-176464 cytochrome b (cytb) gene, partial cds; mitochondrial

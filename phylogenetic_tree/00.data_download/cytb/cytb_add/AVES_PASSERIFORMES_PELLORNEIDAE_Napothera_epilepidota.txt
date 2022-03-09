@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	MK599054.1	608	Napothera epilepidota voucher SR2016-625 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	NC_035626.1	17913	Napothera epilepidota mitochondrion, complete genome
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	KX831093.1	17913	Napothera epilepidota mitochondrion, complete genome
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	AF484871.1	658	Napothera epilepidota cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	KJ456361.1	1143	Napothera epilepidota voucher NRM:20026631 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Napothera_epilepidota	JN827125.1	1143	Napothera epilepidota voucher LSUMNS B52626 cytochrome b (CYTB) gene, complete cds; mitochondrial

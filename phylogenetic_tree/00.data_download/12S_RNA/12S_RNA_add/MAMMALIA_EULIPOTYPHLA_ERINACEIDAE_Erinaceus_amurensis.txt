@@ -1,0 +1,4 @@
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KX964606.1	16941	Erinaceus amurensis mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KF783169.1	966	Erinaceus amurensis voucher ZMMU S-176464 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	HQ857483.1	969	Erinaceus amurensis clone 2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	HQ857482.1	968	Erinaceus amurensis clone 1 12S ribosomal RNA gene, partial sequence; mitochondrial

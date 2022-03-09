@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN122907.1	16760	Nyctalus noctula isolate DM12 mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN122876.1	15987	Nyctalus noctula isolate DM35 mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	NC_027237.1	17478	Nyctalus noctula mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	KP273590.1	17478	Nyctalus noctula mitochondrion, complete genome

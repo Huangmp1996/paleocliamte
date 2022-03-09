@@ -1,0 +1,57 @@
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KY495255.1	1030	Pyrrhocorax pyrrhocorax NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024395.1	512	Pyrrhocorax pyrrhocorax isolate CANT4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024394.1	512	Pyrrhocorax pyrrhocorax isolate CANT14 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024393.1	512	Pyrrhocorax pyrrhocorax isolate CANT1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024392.1	512	Pyrrhocorax pyrrhocorax isolate AE2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024391.1	512	Pyrrhocorax pyrrhocorax isolate MO_R2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024390.1	512	Pyrrhocorax pyrrhocorax isolate MO_CEU1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024389.1	512	Pyrrhocorax pyrrhocorax isolate MO1875 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024388.1	512	Pyrrhocorax pyrrhocorax isolate MO13499 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024387.1	512	Pyrrhocorax pyrrhocorax isolate MO13497 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024386.1	512	Pyrrhocorax pyrrhocorax isolate MO13494 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024385.1	512	Pyrrhocorax pyrrhocorax isolate MO13495 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024384.1	512	Pyrrhocorax pyrrhocorax isolate LP75 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024383.1	512	Pyrrhocorax pyrrhocorax isolate LP52 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024382.1	512	Pyrrhocorax pyrrhocorax isolate LP34 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024381.1	512	Pyrrhocorax pyrrhocorax isolate LP30 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024380.1	512	Pyrrhocorax pyrrhocorax isolate LP25 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024379.1	512	Pyrrhocorax pyrrhocorax isolate LP1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024378.1	512	Pyrrhocorax pyrrhocorax isolate N13_MUR NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024377.1	512	Pyrrhocorax pyrrhocorax isolate 51GAPED NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024376.1	512	Pyrrhocorax pyrrhocorax isolate 46GAPED NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024375.1	512	Pyrrhocorax pyrrhocorax isolate N6_MUR NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024374.1	512	Pyrrhocorax pyrrhocorax isolate GRN_5 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024373.1	512	Pyrrhocorax pyrrhocorax isolate GRN_12 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024372.1	512	Pyrrhocorax pyrrhocorax isolate T_FU9 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024371.1	512	Pyrrhocorax pyrrhocorax isolate T_FU8 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024370.1	512	Pyrrhocorax pyrrhocorax isolate LIZ47 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024369.1	512	Pyrrhocorax pyrrhocorax isolate LIZ34 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024368.1	512	Pyrrhocorax pyrrhocorax isolate LIZ17 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024367.1	512	Pyrrhocorax pyrrhocorax isolate A_6188810 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024366.1	512	Pyrrhocorax pyrrhocorax isolate A_6188809 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024365.1	512	Pyrrhocorax pyrrhocorax isolate T_FU2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024364.1	512	Pyrrhocorax pyrrhocorax isolate 98RPOR NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024363.1	512	Pyrrhocorax pyrrhocorax isolate A_6059735 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024362.1	512	Pyrrhocorax pyrrhocorax isolate A_6188802 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024361.1	512	Pyrrhocorax pyrrhocorax isolate 38BAD NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024360.1	512	Pyrrhocorax pyrrhocorax isolate SG1_18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024359.1	512	Pyrrhocorax pyrrhocorax isolate M_6JP NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024358.1	512	Pyrrhocorax pyrrhocorax isolate M_C1A NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024357.1	512	Pyrrhocorax pyrrhocorax isolate 4GAPED NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024356.1	512	Pyrrhocorax pyrrhocorax isolate CA_H1F NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024355.1	512	Pyrrhocorax pyrrhocorax isolate M_CAU NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024354.1	512	Pyrrhocorax pyrrhocorax isolate 51PNSAC NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024353.1	512	Pyrrhocorax pyrrhocorax isolate CA_171 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024352.1	512	Pyrrhocorax pyrrhocorax isolate LIZ43 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024351.1	512	Pyrrhocorax pyrrhocorax isolate 6SAG NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024350.1	512	Pyrrhocorax pyrrhocorax isolate MG_MTJ24 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024349.1	512	Pyrrhocorax pyrrhocorax isolate CA_YHC NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024348.1	512	Pyrrhocorax pyrrhocorax isolate 10RLOB NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024347.1	512	Pyrrhocorax pyrrhocorax isolate LM_1N2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024346.1	512	Pyrrhocorax pyrrhocorax isolate CR_FUP NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024345.1	512	Pyrrhocorax pyrrhocorax isolate LM_1F6 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024344.1	512	Pyrrhocorax pyrrhocorax isolate LM_1C7 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KX024343.1	512	Pyrrhocorax pyrrhocorax isolate 45PNSE NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	NC_025926.1	16889	Pyrrhocorax pyrrhocorax mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KJ598622.1	16889	Pyrrhocorax pyrrhocorax mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ864480.1	1041	Pyrrhocorax pyrrhocorax voucher UWBM 75747 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

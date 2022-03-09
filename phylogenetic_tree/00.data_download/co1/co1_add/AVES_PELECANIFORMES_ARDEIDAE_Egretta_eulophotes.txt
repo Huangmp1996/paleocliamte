@@ -1,0 +1,29 @@
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	GQ481726.1	694	Egretta eulophotes voucher ZMMU EAK 045 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731497.1	680	Egretta eulophotes voucher eu25 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731496.1	680	Egretta eulophotes voucher eu24 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731495.1	680	Egretta eulophotes voucher eu23 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731494.1	680	Egretta eulophotes voucher eu22 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731493.1	680	Egretta eulophotes voucher eu21 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731492.1	680	Egretta eulophotes voucher eu20 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731491.1	680	Egretta eulophotes voucher eu19 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731490.1	680	Egretta eulophotes voucher eu18 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731489.1	680	Egretta eulophotes voucher eu17 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731488.1	680	Egretta eulophotes voucher eu16 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731487.1	680	Egretta eulophotes voucher eu15 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731486.1	680	Egretta eulophotes voucher eu14 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731485.1	680	Egretta eulophotes voucher eu13 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731484.1	680	Egretta eulophotes voucher eu12 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731483.1	680	Egretta eulophotes voucher eu11 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731482.1	680	Egretta eulophotes voucher eu10 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731481.1	680	Egretta eulophotes voucher eu9 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731480.1	680	Egretta eulophotes voucher eu8 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731479.1	680	Egretta eulophotes voucher eu7 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731478.1	680	Egretta eulophotes voucher eu6 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731477.1	680	Egretta eulophotes voucher eu5 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731476.1	680	Egretta eulophotes voucher eu4 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731475.1	680	Egretta eulophotes voucher eu3 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731474.1	680	Egretta eulophotes voucher eu2 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KP731473.1	680	Egretta eulophotes voucher eu1 cytochrome c oxidase 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KJ190949.1	20058	Egretta eulophotes mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	KC708545.1	695	Egretta eulophotes isolate 4 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_eulophotes	NC_009736.1	17579	Egretta eulophotes mitochondrion, complete genome

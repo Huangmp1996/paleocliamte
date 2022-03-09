@@ -1,0 +1,12 @@
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KU746389.1	470	Varanus salvator isolate VS4 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KU746388.1	470	Varanus salvator isolate VS3 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KU746387.1	470	Varanus salvator isolate VS2 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KU746386.1	469	Varanus salvator isolate VS1 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU747731.1	17489	Varanus salvator mitochondrion, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AB980996.1	17715	Varanus salvator komaini mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AB980995.1	17536	Varanus salvator mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AF407526.1	2785	Varanus salvator salvator UMFS 10374 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AF407525.1	2743	Varanus salvator bivitattus UMFS 10670 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	NC_010974.1	17489	Varanus salvator mitochondrion, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	HM040939.1	215	Varanus salvator 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU621807.1	450	Varanus salvator isolate VS01 16S ribosomal RNA gene, partial sequence; mitochondrial

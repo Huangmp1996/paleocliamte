@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	MH407189.1	1049	Megophrys shapingensis isolate 5339 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	MH407182.1	1049	Megophrys shapingensis isolate 5310 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	AY561310.1	300	Atympanophrys shapingensis cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	NC_018785.1	17631	Atympanophrys shapingensis mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_shapingensis	JX458090.1	17631	Atympanophrys shapingensis mitochondrion, complete genome

@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	KP336988.1	1125	Cyanoptila cyanomelana isolate 16356 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	HQ896033.1	16802	Cyanoptila cyanomelana mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	AB843454.1	673	Cyanoptila cyanomelana mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO494-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	AB843456.1	247	Cyanoptila cyanomelana mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO180-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	AB843455.1	687	Cyanoptila cyanomelana mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO279-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	AB842699.1	697	Cyanoptila cyanomelana mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM546-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	AB842698.1	613	Cyanoptila cyanomelana mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM500-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	AB842697.1	659	Cyanoptila cyanomelana mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM360-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	AB842696.1	696	Cyanoptila cyanomelana mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM573-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	AB842695.1	658	Cyanoptila cyanomelana mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM530-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	NC_015232.1	16802	Cyanoptila cyanomelana mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	JQ174616.1	652	Cyanoptila cyanomelana voucher USNM:Birds:633242 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	JQ174615.1	652	Cyanoptila cyanomelana voucher USNM:Birds:633303 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

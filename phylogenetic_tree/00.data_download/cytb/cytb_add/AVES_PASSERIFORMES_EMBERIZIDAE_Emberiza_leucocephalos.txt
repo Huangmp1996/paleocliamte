@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	NC_037692.1	16754	Emberiza leucocephalos mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	KY349100.1	16754	Emberiza leucocephalos mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	KP877743.1	616	Emberiza leucocephalos isolate MAR4478 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	KP877721.1	1035	Emberiza leucocephalos isolate MAR1627 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	EU325751.1	1076	Emberiza leucocephalos leucocephalos cytochrome b gene, partial cds; mitochondrial

@@ -1,0 +1,51 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	HQ318710.1	1239	Neodon irene isolate X84 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	HQ318709.1	1239	Neodon irene isolate DG14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	HQ318708.1	1239	Neodon irene isolate DB3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	HQ318707.1	1239	Neodon irene isolate YJ12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	HQ318706.1	1239	Neodon irene isolate LT4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	KP190275.1	1542	Neodon irene isolate YJGXG0503 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	KP190274.1	1542	Neodon irene isolate HLG0304 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	KP190273.1	1542	Neodon irene isolate HLG0305 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	KC709680.1	650	Neodon irene isolate WL80_2006 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962253.1	653	Neodon irene isolate QH584-4_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962252.1	653	Neodon irene isolate QH584-1_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962251.1	653	Neodon irene isolate QH386_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962250.1	653	Neodon irene isolate QHMX81_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962249.1	653	Neodon irene isolate QHMX67_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962248.1	653	Neodon irene isolate QHMX64_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962247.1	653	Neodon irene isolate QH576_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962246.1	653	Neodon irene isolate QH634_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962245.1	653	Neodon irene isolate QH577_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962244.1	653	Neodon irene isolate QH471_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962243.1	653	Neodon irene isolate QH464_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962242.1	653	Neodon irene isolate QH457_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962241.1	653	Neodon irene isolate QHMX16_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962240.1	653	Neodon irene isolate QH588_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962239.1	653	Neodon irene isolate QHMY52_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962238.1	653	Neodon irene isolate QH946_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962237.1	653	Neodon irene isolate QH293_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962236.1	653	Neodon irene isolate QH296_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962235.1	653	Neodon irene isolate QHMY54_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962234.1	653	Neodon irene isolate QH575_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962233.1	653	Neodon irene isolate QH538_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962232.1	653	Neodon irene isolate QH545_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962231.1	653	Neodon irene isolate QH589_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962230.1	653	Neodon irene isolate QH629_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962229.1	653	Neodon irene isolate QH414_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962228.1	653	Neodon irene isolate QH558_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962227.1	653	Neodon irene isolate QH540_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962226.1	653	Neodon irene isolate QH413_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962225.1	653	Neodon irene isolate QH657_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962224.1	653	Neodon irene isolate QH627_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962223.1	653	Neodon irene isolate QH548_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962222.1	653	Neodon irene isolate QHMY53_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962221.1	653	Neodon irene isolate QH626_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JX962220.1	653	Neodon irene isolate QH385_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	NC_016055.1	16367	Neodon irene mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	HM165298.1	1539	Neodon irene isolate SAF07090 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JQ043515.1	650	Neodon irene isolate QH101 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JQ043514.1	650	Neodon irene isolate QH188 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JQ043513.1	650	Neodon irene isolate QH270 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JQ043512.1	650	Neodon irene isolate QH203 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JQ043511.1	650	Neodon irene isolate QH146 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Neodon_irene	JQ043510.1	650	Neodon irene isolate QH182 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

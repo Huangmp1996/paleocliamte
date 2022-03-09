@@ -1,0 +1,4 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	MK043030.1	17158	Columba rupestris voucher IN3905 mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	NC_031867.1	17201	Columba rupestris mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	KX902246.1	17201	Columba rupestris mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	AF353410.1	1069	Columba rupestris cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products

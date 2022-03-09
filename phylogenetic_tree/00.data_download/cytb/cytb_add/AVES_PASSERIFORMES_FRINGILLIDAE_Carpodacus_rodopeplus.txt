@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194084.1	723	Carpodacus rodopeplus voucher ZFMK 2000/78 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194083.1	723	Carpodacus rodopeplus voucher ZFMK 2000/80 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194038.1	724	Carpodacus rodopeplus voucher MTD C24172 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194037.1	724	Carpodacus rodopeplus voucher ZMB 25.1864 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194177.1	1143	Carpodacus rodopeplus voucher AMNH DOT 5631 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rodopeplus	KF194169.1	1143	Carpodacus rodopeplus voucher CAS ORN 95886 cytochrome b (cytb) gene, complete cds; mitochondrial

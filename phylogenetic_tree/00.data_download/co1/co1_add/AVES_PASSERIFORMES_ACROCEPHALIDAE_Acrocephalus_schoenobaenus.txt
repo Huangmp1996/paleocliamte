@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	GQ481281.1	613	Acrocephalus schoenobaenus voucher UWBM 82146 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	GQ481280.1	694	Acrocephalus schoenobaenus voucher UWBM 64789 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	GQ481279.1	681	Acrocephalus schoenobaenus voucher UWBM 59638 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	GU571695.1	648	Acrocephalus schoenobaenus voucher BISE-Aves166 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	GU571694.1	648	Acrocephalus schoenobaenus voucher BISE-Aves375 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	GU571219.1	678	Acrocephalus schoenobaenus voucher NHMO-BC433 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	GU571218.1	682	Acrocephalus schoenobaenus voucher NHMO-BC434 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	KJ453151.1	662	Acrocephalus schoenobaenus isolate 12557 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	KJ453150.1	662	Acrocephalus schoenobaenus isolate 12562 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	KF946569.1	620	Acrocephalus schoenobaenus voucher ZMA58862 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	KF946568.1	649	Acrocephalus schoenobaenus voucher ZMA58810 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	KF946567.1	693	Acrocephalus schoenobaenus voucher ZMA58809 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_schoenobaenus	KF946566.1	693	Acrocephalus schoenobaenus voucher ZMA58278 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

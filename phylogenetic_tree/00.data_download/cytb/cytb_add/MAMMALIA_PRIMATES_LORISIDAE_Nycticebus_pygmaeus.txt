@@ -1,0 +1,42 @@
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MW592451.1	331	Nycticebus pygmaeus isolate CZM1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MW592450.1	331	Nycticebus pygmaeus isolate ABQP1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MW592449.1	331	Nycticebus pygmaeus isolate DLC001 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MW592448.1	331	Nycticebus pygmaeus isolate CZBGC1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MW592447.1	331	Nycticebus pygmaeus isolate CZSC1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MW592446.1	331	Nycticebus pygmaeus isolate SD299 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MW592445.1	331	Nycticebus pygmaeus isolate DLC002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MH104761.1	1107	Nycticebus pygmaeus voucher MUSCNYC-F36 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MH104760.1	1107	Nycticebus pygmaeus voucher MUSCNYC-F34 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MH104759.1	1107	Nycticebus pygmaeus voucher MUSCNYC-T04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	MH104758.1	1107	Nycticebus pygmaeus voucher MUSCNYC-T03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	NC_033381.1	16856	Nycticebus pygmaeus mitochondrion, complete genome
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KX397281.1	16856	Nycticebus pygmaeus mitochondrion, complete genome
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY878368.1	425	Nycticebus pygmaeus isolate P4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY878367.1	425	Nycticebus pygmaeus isolate P3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY878366.1	425	Nycticebus pygmaeus isolate P2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687900.1	1140	Nycticebus pygmaeus isolate KF1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687894.1	1140	Nycticebus pygmaeus isolate YV1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687893.1	1140	Nycticebus pygmaeus isolate KF4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687892.1	1140	Nycticebus pygmaeus isolate KF3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687891.1	1140	Nycticebus pygmaeus isolate KF2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY441476.1	1140	Nycticebus pygmaeus cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KP410664.1	1140	Nycticebus pygmaeus voucher NP2ULI cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KP410648.1	1140	Nycticebus pygmaeus voucher NP8ULI cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KP410626.1	1140	Nycticebus pygmaeus voucher NI cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KP410624.1	1140	Nycticebus pygmaeus voucher NPYG613 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KP410614.1	1140	Nycticebus pygmaeus voucher NP10ULI cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KP410607.1	1140	Nycticebus pygmaeus voucher NP5ULI cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KP410606.1	1140	Nycticebus pygmaeus voucher NP1ULI cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KP410590.1	1140	Nycticebus pygmaeus voucher NP7ULI cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	HQ842870.1	381	Nycticebus pygmaeus isolate 20100613MG001 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	HQ842869.1	381	Nycticebus pygmaeus isolate 20100423PB006 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	HQ842868.1	381	Nycticebus pygmaeus isolate 20100423PB005 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	HQ842867.1	381	Nycticebus pygmaeus isolate 20100423PB004 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	HQ842866.1	381	Nycticebus pygmaeus isolate 20100423PB003 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	HQ842865.1	381	Nycticebus pygmaeus isolate 20100423PB002 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	HQ842864.1	381	Nycticebus pygmaeus isolate 20100423PB001 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687899.1	389	Nycticebus pygmaeus isolate YV1 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687898.1	389	Nycticebus pygmaeus isolate KF4 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687897.1	389	Nycticebus pygmaeus isolate KF3 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687896.1	389	Nycticebus pygmaeus isolate KF2 D-loop, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	AY687895.1	388	Nycticebus pygmaeus isolate KF1 D-loop, partial sequence; mitochondrial

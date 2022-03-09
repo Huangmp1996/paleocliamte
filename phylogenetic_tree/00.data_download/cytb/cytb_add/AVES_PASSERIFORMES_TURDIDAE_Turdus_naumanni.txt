@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_naumanni	DQ119550.1	598	Turdus naumanni cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_naumanni	DQ910963.1	1000	Turdus naumanni cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_naumanni	KJ834096.1	16750	Turdus naumanni naumanni mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_naumanni	DQ263753.1	991	Turdus naumanni cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_naumanni	EU154641.1	1038	Turdus naumanni naumanni voucher NRM-2000-09-26 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_naumanni	D32169.1	646	Turdus naumanni mitochondrial gene for cytochrome b, partial sequence
+AVES_PASSERIFORMES_TURDIDAE_Turdus_naumanni	D38351.1	293	Turdus naumanni gene for 18S rRNA, partial sequence

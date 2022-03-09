@@ -1,0 +1,14 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	MW405910.1	522	Theloderma albopunctatum voucher Theloderma_sp._PT02499 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	MW405909.1	523	Theloderma albopunctatum voucher Theloderma_sp._JC02506 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	MW405908.1	524	Theloderma albopunctatum voucher Theloderma_sp._PT02378 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	KT461912.1	943	Theloderma albopunctatum isolate NAP03575 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	KT461911.1	943	Theloderma albopunctatum isolate NAP03566 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	KT461910.1	943	Theloderma albopunctatum isolate NAP03557 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	KT461909.1	947	Theloderma albopunctatum isolate Ta3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	KT461908.1	948	Theloderma albopunctatum isolate Ta2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	KT461884.1	1766	Theloderma albopunctatum isolate Ta1 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	EU215526.1	1970	Liuixalus sp. KIZ 061209YP 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	EF564522.1	583	Philautus albopunctatus isolate KIZ060821217 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	EF564521.1	571	Philautus albopunctatus isolate KIZ060821201 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	EF646375.1	536	Philautus albopunctatus clone 14 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_albopunctatum	EF646374.1	535	Philautus albopunctatus clone 13 16S ribosomal RNA gene, partial sequence; mitochondrial

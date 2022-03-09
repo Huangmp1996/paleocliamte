@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_aspalax	KY754052.1	1140	Myospalax aspalax cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_aspalax	AF326272.1	1172	Myospalax aspalax cytochrome b (cyt b) gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_aspalax	NC_026915.1	16436	Myospalax aspalax mitochondrion, complete genome
+MAMMALIA_RODENTIA_SPALACIDAE_Myospalax_aspalax	KP724691.1	16436	Myospalax aspalax mitochondrion, complete genome

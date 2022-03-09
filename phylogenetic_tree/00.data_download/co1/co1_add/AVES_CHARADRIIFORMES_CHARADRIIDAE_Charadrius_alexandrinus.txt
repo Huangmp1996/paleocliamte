@@ -1,0 +1,22 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	MN356435.1	16692	Charadrius alexandrinus mitochondrion, partial genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	NC_041118.1	16905	Charadrius alexandrinus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	MF565382.1	16905	Charadrius alexandrinus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	KM001259.1	626	Charadrius alexandrinus isolate alexanCV3a cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	KM001258.1	626	Charadrius alexandrinus isolate alexanCV2a cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	KM001257.1	626	Charadrius alexandrinus isolate alexanCV1a cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	KU722454.1	657	Charadrius alexandrinus voucher USNM:Birds:647820 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AY666381.1	692	Charadrius alexandrinus voucher JGS 1751 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AY666380.1	692	Charadrius alexandrinus voucher JGS 1704 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	JF499112.1	694	Charadrius alexandrinus voucher USNM:641773 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	JF499111.1	694	Charadrius alexandrinus voucher USNM:641877 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	GQ481563.1	694	Charadrius alexandrinus voucher UWBM 60131 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	GQ481562.1	694	Charadrius alexandrinus voucher UWBM 59943 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	GQ481561.1	694	Charadrius alexandrinus voucher UWBM 60140 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	GQ481560.1	694	Charadrius alexandrinus voucher UWBM 60141 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	DQ432842.1	609	Charadrius alexandrinus voucher LSU5723 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AB843418.1	702	Charadrius alexandrinus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO460-10
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AB843417.1	681	Charadrius alexandrinus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO050-10
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AB843416.1	677	Charadrius alexandrinus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO051-10
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AB842648.1	662	Charadrius alexandrinus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM419-10
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	AB842647.1	700	Charadrius alexandrinus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM610-10
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	EF215614.1	705	Charadrius alexandrinus voucher CO1 control region, partial sequence; mitochondrial

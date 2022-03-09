@@ -1,0 +1,6 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	GQ922628.1	699	Buteo hemilasius bio-material A051 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	GQ922627.1	699	Buteo hemilasius bio-material A047 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	EF515768.1	686	Buteo hemilasius voucher KRIBB1864 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	NC_029377.1	18079	Buteo hemilasius mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	KT935541.1	18079	Buteo hemilasius mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	KJ862134.1	648	Buteo hemilasius voucher B16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

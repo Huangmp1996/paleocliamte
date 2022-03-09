@@ -1,0 +1,39 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MT408963.1	1031	Rana chensinensis voucher SYS a002393 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	MT408962.1	1031	Rana chensinensis voucher SYS a002392 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KF185061.1	1050	Rana chensinensis voucher HNNU 20060359 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KX269186.1	1938	Rana chensinensis isolate KIZ-RD05SHX01 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KF020598.1	528	Rana chensinensis voucher SYNU-hld1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	KF771299.1	1596	Rana chensinensis 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289121.1	536	Rana chensinensis voucher KizYP06rd3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289120.1	524	Rana chensinensis voucher KizYP06rd2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289119.1	536	Rana chensinensis voucher KizYP06rd1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289118.1	524	Rana chensinensis voucher KizYP06099 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289117.1	537	Rana chensinensis voucher KizYP06092 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289116.1	537	Rana chensinensis voucher KizYP06081 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289115.1	536	Rana chensinensis voucher KizYP06100 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289114.1	504	Rana chensinensis voucher KizYP06095 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289113.1	524	Rana chensinensis voucher KizYP06091 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289112.1	537	Rana chensinensis voucher KizYP06079 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289096.1	404	Rana chensinensis voucher KizYP06rd3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289095.1	406	Rana chensinensis voucher KizYP06rd2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289094.1	406	Rana chensinensis voucher KizYP06rd1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289093.1	406	Rana chensinensis voucher KizYP06099 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289092.1	403	Rana chensinensis voucher KizYP06092 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289091.1	400	Rana chensinensis voucher KizYP06081 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289090.1	405	Rana chensinensis voucher KizYP06100 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289089.1	388	Rana chensinensis voucher KizYP06095 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289088.1	407	Rana chensinensis voucher KizYP06091 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	DQ289087.1	407	Rana chensinensis voucher KizYP06079 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	GU225903.1	524	Rana chensinensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	GU225902.1	519	Rana chensinensis voucher SYNU07100766 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	GU225901.1	523	Rana chensinensis voucher SYNU07100756 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	GU225900.1	523	Rana chensinensis voucher SYNU07060252 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	GU225899.1	523	Rana chensinensis voucher SYNU06100587 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	GU225898.1	523	Rana chensinensis voucher SYNU07070379 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	GU225897.1	524	Rana chensinensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	HQ228157.1	543	Rana chensinensis voucher SYNU08090671 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	HQ228156.1	542	Rana chensinensis voucher SYNU07050125 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	AF315132.1	536	Rana chensinensis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	AF315123.1	386	Rana chensinensis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	AB058871.1	540	Rana chensinensis gene for16S ribosomal RNA, partial sequence, isolate:chen. C
+AMPHIBIA_ANURA_RANIDAE_Rana_chensinensis	AB058870.1	540	Rana chensinensis gene for16S ribosomal RNA, partial sequence, isolate:chen. R

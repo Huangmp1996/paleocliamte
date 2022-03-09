@@ -1,0 +1,20 @@
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	MT773152.1	630	Fulica atra isolate 1Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	MN122918.1	17029	Fulica atra mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	MK262643.1	648	Fulica atra voucher SP001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	KY040006.1	681	Fulica atra isolate CCAVC2 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	KY040005.1	681	Fulica atra isolate CCAVC1 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	KT803613.1	648	Fulica atra isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	JF499133.1	694	Fulica atra voucher USNM:641834 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	GU571901.1	648	Fulica atra voucher BISE-Aves90 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	GU571900.1	648	Fulica atra voucher BISE-Aves457 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	GU571406.1	730	Fulica atra voucher NHMO-BC186 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	GU571405.1	677	Fulica atra voucher NHMO-BC187 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	GQ481938.1	694	Fulica atra voucher UWBM 71979 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	KP252184.1	652	Fulica atra voucher USNM 645907 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	AB843516.1	678	Fulica atra mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO152-10
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	KP313718.1	17030	Fulica atra mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	NC_025500.1	17029	Fulica atra mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	KF644582.1	17029	Fulica atra mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	KC439318.1	658	Fulica atra cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	JQ342126.1	914	Fulica atra isolate BGD2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Fulica_atra	JQ342125.1	914	Fulica atra isolate BGD1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

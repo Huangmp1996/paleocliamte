@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK199051.1	1026	Naja kaouthia voucher CHS726 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK198853.1	1026	Naja kaouthia voucher CHS026 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	LC431744.1	17203	Naja kaouthia mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	AY059008.1	1032	Naja kaouthia voucher CAS:HERP:206602 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial

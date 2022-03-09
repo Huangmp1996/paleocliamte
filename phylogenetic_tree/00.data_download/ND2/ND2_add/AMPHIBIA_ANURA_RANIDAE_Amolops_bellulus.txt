@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_bellulus	MN958724.1	890	Amolops bellulus voucher KIZYPX9038 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_bellulus	MN958723.1	890	Amolops bellulus voucher KIZYPX9037 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_bellulus	FJ417176.1	1062	Amolops bellulus voucher CAS 233991 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_bellulus	FJ417175.1	1062	Amolops bellulus voucher CAS 233986 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial

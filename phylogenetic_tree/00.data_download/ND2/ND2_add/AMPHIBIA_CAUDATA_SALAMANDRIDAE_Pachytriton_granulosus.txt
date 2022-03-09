@@ -1,0 +1,78 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	NC_054199.1	16288	Pachytriton granulosus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	MN073499.1	16288	Pachytriton granulosus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	MW056200.1	16293	Pachytriton granulosus voucher LSU20200827JZJ01 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KU375028.1	1124	Pachytriton granulosus voucher KIZ012983 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KU375027.1	1124	Pachytriton granulosus voucher KIZ012982 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KU375026.1	1124	Pachytriton granulosus voucher KIZ06363 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KU375025.1	1124	Pachytriton granulosus voucher KIZ06364 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KU375024.1	1124	Pachytriton granulosus voucher KIZ012975 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, complete sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152548.1	1181	Pachytriton granulosus isolate YPX12701 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152547.1	1181	Pachytriton granulosus isolate YPX12700 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152546.1	1181	Pachytriton granulosus isolate YPX12699 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152498.1	1181	Pachytriton granulosus isolate 24657 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152497.1	1181	Pachytriton granulosus isolate 24656 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152496.1	1181	Pachytriton granulosus isolate 24655 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152495.1	1181	Pachytriton granulosus isolate 24654 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152494.1	1181	Pachytriton granulosus isolate 24653 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152493.1	1181	Pachytriton granulosus isolate 24652 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152485.1	1181	Pachytriton granulosus isolate 24643 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152484.1	1181	Pachytriton granulosus isolate 24584 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152483.1	1181	Pachytriton granulosus isolate 24583 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152482.1	1181	Pachytriton granulosus isolate 24582 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152481.1	1181	Pachytriton granulosus isolate 24581 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152480.1	1181	Pachytriton granulosus isolate 24580 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152479.1	1180	Pachytriton granulosus isolate 24642 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152478.1	1180	Pachytriton granulosus isolate 24641 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152477.1	1181	Pachytriton granulosus isolate 24579 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152476.1	1181	Pachytriton granulosus isolate 24575 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152475.1	1181	Pachytriton granulosus isolate 24574 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152474.1	1180	Pachytriton granulosus isolate 24573 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152473.1	1181	Pachytriton granulosus isolate 24572 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152472.1	1180	Pachytriton granulosus isolate 24571 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152471.1	1181	Pachytriton granulosus isolate 24570 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152470.1	1181	Pachytriton granulosus isolate 24569 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152469.1	1180	Pachytriton granulosus isolate 24568 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152468.1	1181	Pachytriton granulosus isolate 24567 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152467.1	1180	Pachytriton granulosus isolate 24566 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152466.1	1181	Pachytriton granulosus isolate 24565 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152465.1	1181	Pachytriton granulosus isolate 24564 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152464.1	1181	Pachytriton granulosus isolate 24563 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152463.1	1181	Pachytriton granulosus isolate 24562 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152462.1	1181	Pachytriton granulosus isolate 24561 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152461.1	1181	Pachytriton granulosus isolate 24560 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152460.1	1181	Pachytriton granulosus isolate 24559 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152459.1	1181	Pachytriton granulosus isolate 24557 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152458.1	1181	Pachytriton granulosus isolate 24556 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152457.1	1181	Pachytriton granulosus isolate 24555 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152456.1	1181	Pachytriton granulosus isolate 24554 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152455.1	1181	Pachytriton granulosus isolate 24553 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152454.1	1181	Pachytriton granulosus isolate 24546 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152453.1	1181	Pachytriton granulosus isolate 24545 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152452.1	1181	Pachytriton granulosus isolate 24544 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152451.1	1181	Pachytriton granulosus isolate 24543 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152450.1	1181	Pachytriton granulosus isolate 24538 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152449.1	1181	Pachytriton granulosus isolate 24537 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152448.1	1181	Pachytriton granulosus isolate 24536 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152447.1	1181	Pachytriton granulosus isolate 24533 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152446.1	1181	Pachytriton granulosus isolate 24532 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152445.1	1181	Pachytriton granulosus isolate 24531 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152444.1	1181	Pachytriton granulosus isolate 24530 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152443.1	1181	Pachytriton granulosus isolate 24529 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152442.1	1181	Pachytriton granulosus isolate 24528 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152441.1	1181	Pachytriton granulosus isolate 24527 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152440.1	1181	Pachytriton granulosus isolate 24526 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152439.1	1181	Pachytriton granulosus isolate 24523 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152438.1	1181	Pachytriton granulosus isolate 24535 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152437.1	1181	Pachytriton granulosus isolate 24534 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152436.1	1181	Pachytriton granulosus isolate 24502 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152435.1	1181	Pachytriton granulosus isolate 24498 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152434.1	1181	Pachytriton granulosus isolate 24497 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152428.1	1181	Pachytriton granulosus isolate 24428 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152427.1	1181	Pachytriton granulosus isolate 24416 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152426.1	1181	Pachytriton granulosus isolate 24415 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152425.1	1181	Pachytriton granulosus isolate 24414 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152424.1	1181	Pachytriton granulosus isolate 24603 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	KT152423.1	1181	Pachytriton granulosus isolate 24601 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	JX907845.1	1197	Pachytriton granulosus voucher CIB 95960 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	JX907844.1	1197	Pachytriton granulosus voucher CIB 95964 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_granulosus	JX907843.1	1197	Pachytriton granulosus voucher CIB 95963 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

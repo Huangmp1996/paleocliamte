@@ -1,0 +1,24 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482497.1	694	Pinicola enucleator voucher UWBM 46574 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482496.1	694	Pinicola enucleator voucher UWBM 51847 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482495.1	694	Pinicola enucleator voucher UWBM 51642 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482494.1	694	Pinicola enucleator voucher UWBM 47313 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482493.1	694	Pinicola enucleator voucher UWBM 44628 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482492.1	684	Pinicola enucleator voucher UWBM 56795 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482491.1	675	Pinicola enucleator voucher UWBM 82324 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	AY666321.1	694	Pinicola enucleator voucher 1B-623 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	AY666314.1	694	Pinicola enucleator voucher 1B-624 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GU572046.1	648	Pinicola enucleator voucher BISE-Aves239 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GU572045.1	648	Pinicola enucleator voucher BISE-Aves414 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GU571577.1	750	Pinicola enucleator voucher NHMO-BC130 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482502.1	694	Pinicola enucleator voucher ZMMU RYA 1698 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482501.1	694	Pinicola enucleator voucher ZMMU RYA 1697 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482500.1	694	Pinicola enucleator voucher ZMMU RYA 1696 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482499.1	694	Pinicola enucleator voucher ZMMU RYA 1700 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	GQ482498.1	694	Pinicola enucleator voucher ZMMU RYA 1699a cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KM078781.1	16818	Pinicola enucleator mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	AB843091.1	709	Pinicola enucleator mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM529-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	NC_025609.1	16818	Pinicola enucleator mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM033662.1	694	Pinicola enucleator voucher BIOUG<CAN>:GMNP 8101-99944 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM033661.1	694	Pinicola enucleator voucher BIOUG<CAN>:GMNP 8101-99945 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM033660.1	694	Pinicola enucleator voucher BIOUG<CAN>:TLBS 195149280 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HM033659.1	691	Pinicola enucleator voucher BIOUG<CAN>:TLBS 195149281 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

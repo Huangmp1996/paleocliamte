@@ -1,0 +1,15 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KY800558.1	503	Tylototriton kweichowensis voucher CIB20050215 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KY800557.1	503	Tylototriton kweichowensis voucher CIB20050213 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KY800552.1	503	Tylototriton kweichowensis voucher CIBWg20080818018 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KY800551.1	503	Tylototriton kweichowensis voucher CIBWg20080818014 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KU320632.1	16725	Tylototriton kweichowensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	NC_029231.1	16727	Tylototriton kweichowensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KT373904.1	16727	Tylototriton kweichowensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KC733368.1	1728	Tylototriton kweichowensis voucher GZNU2007051802 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KC733367.1	1728	Tylototriton kweichowensis voucher GZNU2007051801 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KC733366.1	1728	Tylototriton kweichowensis voucher GZNU07060102 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KC733365.1	1728	Tylototriton kweichowensis voucher GZNU07060101 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	JQ824185.1	558	Tylototriton kweichowensis isolate KIZ0805101 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	JQ824184.1	558	Tylototriton kweichowensis isolate KIZ0805104 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	JQ824183.1	558	Tylototriton kweichowensis isolate GZ070655 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	JQ824182.1	558	Tylototriton kweichowensis isolate GZ070653 16S ribosomal RNA gene, partial sequence; mitochondrial

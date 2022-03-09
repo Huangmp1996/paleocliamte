@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	AB853435.1	386	Goniurosaurus luii mitochondrial gene for 12S rRNA, partial sequence
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	NC_026105.1	16519	Goniurosaurus luii voucher GL511 mitochondrion, complete genome
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	KM455054.1	16519	Goniurosaurus luii voucher GL511 mitochondrion, complete genome
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	EF081253.1	936	Goniurosaurus luii 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	AB308454.1	273	Goniurosaurus luii mitochondrial gene for 12S rRNA, partial sequence

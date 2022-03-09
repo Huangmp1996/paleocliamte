@@ -1,0 +1,13 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	OL468798.1	652	Spilopelia senegalensis voucher ZMUVAS108 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	MF580183.1	658	Streptopelia senegalensis voucher USNM:Birds:653248 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	KU722529.1	657	Streptopelia senegalensis voucher USNM:Birds:647980 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	AF279735.1	383	Streptopelia senegalensis cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	KP252249.1	652	Streptopelia senegalensis voucher USNM 645885 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	KP252248.1	652	Streptopelia senegalensis voucher USNM 645884 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	KP252247.1	652	Streptopelia senegalensis voucher USNM 645813 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	KP252246.1	652	Streptopelia senegalensis voucher USNM 645817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	KP252245.1	652	Streptopelia senegalensis voucher USNM 645846 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	KT240061.1	632	Streptopelia senegalensis cytochrome C oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	HQ168039.1	693	Streptopelia senegalensis voucher PSRCEW-BB-PD03 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	HQ168038.1	693	Streptopelia senegalensis voucher PSRCEW-BB-PD02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_senegalensis	HQ168037.1	693	Streptopelia senegalensis voucher PSRCEW-BB-PD01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

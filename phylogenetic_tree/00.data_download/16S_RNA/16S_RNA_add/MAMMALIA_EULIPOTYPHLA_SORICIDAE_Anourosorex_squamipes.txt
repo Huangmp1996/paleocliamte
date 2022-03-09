@@ -1,0 +1,5 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_squamipes	KT827219.1	556	Anourosorex squamipes isolate KIZJY033 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_squamipes	NC_024563.1	17121	Anourosorex squamipes mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_squamipes	KJ545899.1	17121	Anourosorex squamipes mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_squamipes	GU981066.1	1573	Anourosorex squamipes isolate Ansquam1 16S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Anourosorex_squamipes	DQ630292.1	984	Anourosorex squamipes isolate 1 16S ribosomal RNA gene, partial sequence; mitochondrial

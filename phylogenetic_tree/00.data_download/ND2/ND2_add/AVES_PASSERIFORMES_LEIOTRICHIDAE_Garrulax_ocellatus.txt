@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	NC_027657.1	17828	Garrulax ocellatus mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	KP995195.1	17828	Garrulax ocellatus mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	KJ455467.1	1041	Garrulax ocellatus voucher AMNH:5651 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	JN826523.1	1041	Garrulax ocellatus voucher KUNHM 11342 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	JN826522.1	1041	Garrulax ocellatus voucher AMNH DOT5651 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

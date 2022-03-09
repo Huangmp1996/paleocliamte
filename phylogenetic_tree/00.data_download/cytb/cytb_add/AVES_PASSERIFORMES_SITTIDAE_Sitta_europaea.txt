@@ -1,0 +1,28 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472779.1	790	Sitta europaea isolate MAR1714 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472767.1	1126	Sitta europaea isolate MAR10182 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472761.1	1140	Sitta europaea isolate UWBM64712 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472760.1	1140	Sitta europaea isolate UWBM57910 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472757.1	1140	Sitta europaea isolate UWBM47255 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472756.1	1140	Sitta europaea isolate UWBM44041 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472752.1	1140	Sitta europaea isolate SEM01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472749.1	1140	Sitta europaea isolate MAR8816 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472748.1	1140	Sitta europaea isolate MAR8805 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472747.1	1140	Sitta europaea isolate MAR8804 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472742.1	1116	Sitta europaea isolate MAR4674 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472737.1	1140	Sitta europaea isolate MAR2140 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472736.1	1140	Sitta europaea isolate MAR2139 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472735.1	1140	Sitta europaea isolate MAR2138 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472734.1	1140	Sitta europaea isolate MAR2137 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MT472733.1	1138	Sitta europaea isolate MAR11205 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	NC_053059.1	16827	Sitta europaea mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MN356255.1	16827	Sitta europaea mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MK040227.1	1001	Sitta europaea sinensis voucher IOZ2450 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MK040226.1	1001	Sitta europaea sinensis voucher IOZ8335 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	DQ119548.1	674	Sitta europaea cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	AF378102.1	999	Sitta europaea cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	U63397.2	875	Sitta europaea cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	DQ792801.1	1143	Sitta europaea isolate A33 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	AB239523.1	1143	Sitta europaea sinensis mitochondrial cytb gene for cytochrome b, complete cds, isolate:A29097SE
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	AB239522.1	1143	Sitta europaea sinensis mitochondrial cytb gene for cytochrome b, complete cds, isolate:593
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	AB239521.1	1143	Sitta europaea amurensis mitochondrial cytb gene for cytochrome b, complete cds, isolate:NSMTAD1604
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	AB239520.1	1143	Sitta europaea amurensis mitochondrial cytb gene for cytochrome b, complete cds, isolate:NSMTAD1539

@@ -1,0 +1,19 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	NC_025639.1	16249	Phrynocephalus helioscopus mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	KM093858.1	16249	Phrynocephalus helioscopus mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053817.1	504	Phrynocephalus helioscopus isolate 0996 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053816.1	504	Phrynocephalus helioscopus isolate 01035 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053815.1	504	Phrynocephalus helioscopus isolate 01034 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053814.1	504	Phrynocephalus helioscopus isolate 01089 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053813.1	504	Phrynocephalus helioscopus isolate 01056 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053812.1	504	Phrynocephalus helioscopus isolate 01054 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053811.1	504	Phrynocephalus helioscopus isolate 01052 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053810.1	504	Phrynocephalus helioscopus isolate 01051 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053809.1	504	Phrynocephalus helioscopus isolate 2000133 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053808.1	504	Phrynocephalus helioscopus isolate 0955 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053807.1	504	Phrynocephalus helioscopus isolate 01088 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053806.1	504	Phrynocephalus helioscopus isolate 0954 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053805.1	504	Phrynocephalus helioscopus isolate 2000134 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053804.1	504	Phrynocephalus helioscopus isolate 2000126 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053803.1	504	Phrynocephalus helioscopus isolate 0925 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053802.1	504	Phrynocephalus helioscopus isolate 0894 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	AY053801.1	504	Phrynocephalus helioscopus isolate 0893 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

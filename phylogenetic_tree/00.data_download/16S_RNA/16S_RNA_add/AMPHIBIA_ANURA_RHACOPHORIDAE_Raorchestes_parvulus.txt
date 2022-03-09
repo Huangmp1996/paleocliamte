@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MW019901.1	563	Raorchestes parvulus voucher KIZ016748 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MK564634.1	790	Raorchestes parvulus voucher KIZ 20160374 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MK564633.1	791	Raorchestes parvulus voucher KIZ 20160373 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MK564632.1	791	Raorchestes parvulus voucher KIZ 20160372 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MK564631.1	791	Raorchestes parvulus voucher KIZ 20160367 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MK564630.1	790	Raorchestes parvulus voucher KIZ 20160366 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MK564629.1	791	Raorchestes parvulus voucher KIZ 20160365 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	KR828036.1	402	Raorchestes parvulus voucher 0069Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	KR828035.1	395	Raorchestes parvulus voucher 2006.2572 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	KR828034.1	402	Raorchestes parvulus voucher K3056 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	LC012865.1	1911	Raorchestes parvulus mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: KUHE:38322
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	AB871421.1	828	Raorchestes parvulus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: KUHE:19128
+AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	DQ286988.1	571	Philautus parvulus voucher FMNH 261891 16S ribosomal RNA gene, partial sequence; mitochondrial

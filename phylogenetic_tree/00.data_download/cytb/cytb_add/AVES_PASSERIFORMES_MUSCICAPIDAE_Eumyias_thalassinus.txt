@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Eumyias_thalassinus	MN991566.1	1143	Eumyias thalassinus voucher LSUMNS B-79578 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Eumyias_thalassinus	KJ456274.1	1083	Eumyias thalassinus voucher AMNH:5567 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Eumyias_thalassinus	EF081349.1	1143	Muscicapa thalassina cytochrome b (cytb) gene, complete cds; mitochondrial

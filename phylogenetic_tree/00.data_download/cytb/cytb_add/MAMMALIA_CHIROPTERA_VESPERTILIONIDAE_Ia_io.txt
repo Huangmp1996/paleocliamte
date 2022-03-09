@@ -1,0 +1,22 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MZ579648.1	16689	Ia io voucher GZNU-NF-001 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MG570069.1	1137	Ia io cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615184.1	1140	Ia io voucher YN-11-335 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615183.1	1140	Ia io voucher YN-07-463 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615182.1	1140	Ia io voucher YN-07-462 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615181.1	1140	Ia io voucher YN-07-460 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615180.1	1140	Ia io voucher YN-07-458 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615179.1	1140	Ia io voucher YN-07-457 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615178.1	1140	Ia io voucher YN-07-455 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615177.1	1140	Ia io voucher Sxi-10-120 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615176.1	1140	Ia io voucher HuN-10-022 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615175.1	1140	Ia io voucher HuN-10-010 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615174.1	1140	Ia io voucher HuN-10-008 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615173.1	1140	Ia io voucher GX-11-023 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615172.1	1140	Ia io voucher GX0743 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615171.1	1140	Ia io voucher GX-07-031 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615170.1	1140	Ia io voucher GX-07-022 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615169.1	1140	Ia io voucher PS160314.5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615168.1	1140	Ia io voucher PS170304.1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	KX467592.1	1122	Ia io voucher HUN-010 cytchrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	DQ302094.1	1140	Ia io cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	JX465365.1	1140	Ia io isolate YichangIi81 cytochrome b gene, complete cds; mitochondrial

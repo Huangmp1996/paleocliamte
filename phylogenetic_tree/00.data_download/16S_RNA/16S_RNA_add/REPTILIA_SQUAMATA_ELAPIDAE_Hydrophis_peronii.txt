@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_peronii	JQ217145.1	466	Hydrophis peronii voucher MZBOphi4257 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_peronii	KT966193.1	466	Hydrophis peronii voucher MZBOphi4255 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_peronii	KU323976.1	520	Hydrophis peronii 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_peronii	KC014311.1	487	Acalyptophis peronii voucher ZMUCR661330 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_peronii	DQ234006.1	520	Acalyptophis peroni isolate Ap007 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_peronii	DQ234005.1	520	Acalyptophis peroni isolate Ap005 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_peronii	DQ234004.1	520	Acalyptophis peroni isolate Ap001 16S ribosomal RNA gene, partial sequence; mitochondrial

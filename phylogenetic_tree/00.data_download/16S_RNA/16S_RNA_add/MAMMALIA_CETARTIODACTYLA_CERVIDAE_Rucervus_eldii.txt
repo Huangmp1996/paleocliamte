@@ -1,0 +1,14 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555114.1	16357	Rucervus eldii voucher SANPT03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555113.1	16357	Rucervus eldii voucher SANPS02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	MT555112.1	16357	Rucervus eldii voucher SANPR01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	KU133959.1	16357	Rucervus eldii eldii mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	HM138200.1	16357	Cervus eldi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	JN632697.1	16357	Rucervus eldi isolate CYTO mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	KJ870153.1	549	Rucervus eldii 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	NC_014701.1	16357	Rucervus eldi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	DQ989293.1	524	Cervus eldi thamin 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	AY540849.1	311	Cervus eldi isolate INTHb cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	AY456909.1	311	Cervus eldi isolate INTHaCyt cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	AY391772.1	556	Cervus eldi INTHb16 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	AY391771.1	556	Cervus eldi INTHa16 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Rucervus_eldii	AF108041.1	495	Cervus eldi 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

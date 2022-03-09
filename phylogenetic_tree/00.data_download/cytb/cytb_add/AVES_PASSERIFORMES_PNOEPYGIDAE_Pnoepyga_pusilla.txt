@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	MF085570.1	992	Pnoepyga pusilla voucher LSNF0040 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	MF085569.1	992	Pnoepyga pusilla voucher LSNF0039 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	KJ456414.1	1143	Pnoepyga pusilla voucher CAS:95894 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	JX518496.1	940	Pnoepyga pusilla isolate 4931 cytochrome b (cytochrome b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	JX518492.1	940	Pnoepyga pusilla isolate 716 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	JX236401.1	1041	Pnoepyga pusilla cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	JF804115.2	940	Pnoepyga pusilla isolate 06972 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PNOEPYGIDAE_Pnoepyga_pusilla	JN827150.1	1143	Pnoepyga pusilla voucher KUNHM 15250 cytochrome b (CYTB) gene, complete cds; mitochondrial

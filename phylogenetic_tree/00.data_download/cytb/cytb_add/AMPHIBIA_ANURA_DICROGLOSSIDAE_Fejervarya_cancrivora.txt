@@ -1,0 +1,9 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	MK396086.1	557	Fejervarya cancrivora haplotype ChCytb-6 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	MK396085.1	557	Fejervarya cancrivora haplotype ChCytb-5 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	MK396084.1	557	Fejervarya cancrivora haplotype ChCytb-4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	MK396083.1	557	Fejervarya cancrivora haplotype ChCytb-3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	MK396082.1	557	Fejervarya cancrivora haplotype ChCytb-2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	MK396081.1	557	Fejervarya cancrivora haplotype ChCytb-1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	EU652694.1	17843	Fejervarya cancrivora mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	NC_012647.1	17843	Fejervarya cancrivora mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Fejervarya_cancrivora	AB488817.1	558	Fejervarya cancrivora mitochondrial Cytb gene for cytochrome b, partial cds, clone: Cytb-can

@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	FJ752427.1	16728	Tragopan temminckii mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	AF222566.1	1041	Tragopan temminckii NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	NC_020586.1	16728	Tragopan temminckii mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	AF222595.1	976	Tragopan temminckii 12S small subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

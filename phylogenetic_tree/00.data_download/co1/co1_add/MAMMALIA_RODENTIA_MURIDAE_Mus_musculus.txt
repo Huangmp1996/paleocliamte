@@ -1,0 +1,98 @@
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_008969.4	2881	Mus musculus prostaglandin-endoperoxide synthase 1 (Ptgs1), mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_133684.4	1946	Mus musculus mitochondrial amidoxime reducing component 2 (Mtarc2), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001368285.1	1772	Mus musculus mitochondrial amidoxime reducing component 2 (Mtarc2), transcript variant 2, mRNA; nuclear gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001362399.1	2590	Mus musculus fermitin family member 3 (Fermt3), transcript variant 2, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_153795.2	2587	Mus musculus fermitin family member 3 (Fermt3), transcript variant 1, mRNA
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NM_001368286.1	1692	Mus musculus mitochondrial amidoxime reducing component 2 (Mtarc2), transcript variant 3, mRNA; nuclear gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MW478036.1	546	Mus musculus voucher SAq cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MT351151.1	658	Mus musculus domesticus isolate Pure-C57BL/6J cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NC_000068.8	181755017	Mus musculus strain C57BL/6J chromosome 2, GRCm39
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	NC_000082.7	98008968	Mus musculus strain C57BL/6J chromosome 16, GRCm39
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MT410886.1	16311	Mus musculus isolate DM54 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN964117.1	16300	Mus musculus voucher MA364 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228637.1	2331	Mus musculus castaneus voucher 1214 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228636.1	2331	Mus musculus voucher 1140 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228635.1	2331	Mus musculus voucher 26925 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228634.1	2331	Mus musculus voucher 24980 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228633.1	2331	Mus musculus voucher 16 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228632.1	2331	Mus musculus voucher 240 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228631.1	2331	Mus musculus voucher 126 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228630.1	2331	Mus musculus voucher 100 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228629.1	2331	Mus musculus domesticus voucher SBP14 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228628.1	2331	Mus musculus domesticus voucher SBP1 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228627.1	2328	Mus musculus gansuensis voucher 437 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228626.1	2328	Mus musculus gansuensis voucher 425 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228625.1	2328	Mus musculus gansuensis voucher 424 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228624.1	2328	Mus musculus voucher 418 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228623.1	2328	Mus musculus voucher 19 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228622.1	2328	Mus musculus voucher 26637 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228621.1	2328	Mus musculus voucher 24383 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228620.1	2328	Mus musculus wagneri voucher 24330 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228619.1	2328	Mus musculus voucher 24245 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228618.1	2328	Mus musculus wagneri voucher 25559 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228617.1	2328	Mus musculus voucher 26921 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228616.1	2328	Mus musculus voucher 26643 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228615.1	2328	Mus musculus voucher 26071 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228614.1	2331	Mus musculus voucher 24981 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228613.1	2328	Mus musculus voucher 24295 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228612.1	2328	Mus musculus voucher 24279 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228611.1	2328	Mus musculus voucher 24227 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228610.1	2328	Mus musculus voucher 24223 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228609.1	2328	Mus musculus voucher 5 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228608.1	2331	Mus musculus gansuensis voucher 447 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228607.1	2328	Mus musculus voucher 413 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228606.1	2328	Mus musculus voucher 406 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228605.1	2328	Mus musculus voucher 3 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228604.1	2328	Mus musculus voucher 26920 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228603.1	2328	Mus musculus musculus voucher 26258 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228602.1	2328	Mus musculus voucher 26072 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228601.1	2328	Mus musculus musculus voucher 24635 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228600.1	2328	Mus musculus musculus voucher 24634 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228599.1	2328	Mus musculus voucher 24228 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228598.1	2328	Mus musculus musculus voucher 24133 breast and ovarian cancer susceptibility protein (Brca1) gene, partial cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228594.1	1260	Mus musculus castaneus voucher 1214 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228593.1	1260	Mus musculus voucher 1140 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228592.1	1260	Mus musculus voucher 26925 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228591.1	1260	Mus musculus voucher 240 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228590.1	1260	Mus musculus voucher 126 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228589.1	1260	Mus musculus domesticus voucher SBP14 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228588.1	1260	Mus musculus domesticus voucher SBP1 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228587.1	1260	Mus musculus gansuensis voucher 425 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228586.1	1260	Mus musculus gansuensis voucher 424 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228585.1	1260	Mus musculus voucher 24383 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228584.1	1260	Mus musculus wagneri voucher 24330 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228583.1	1260	Mus musculus wagneri voucher 25559 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228582.1	1260	Mus musculus gansuensis voucher 447 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228581.1	1260	Mus musculus musculus voucher 26258 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228580.1	1260	Mus musculus musculus voucher 24635 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228579.1	1260	Mus musculus musculus voucher 24634 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN228578.1	1260	Mus musculus musculus voucher 24133 cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MH727419.1	636	Mus musculus isolate M.musculus cytochrome oxidase subunit I (Cox1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN326042.1	655	Mus musculus voucher USNM:MAMM:601520 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN326035.1	655	Mus musculus voucher USNM:MAMM:601519 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MN326027.1	655	Mus musculus voucher USNM:MAMM:601518 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	CF755280.1	472	lae57d02.y2 Colon epithelia progenitors cDNA Mus musculus cDNA 5' similar to TR:Q02673 Q02673 HYPOTHETICAL 29.3 KD PROTEIN IN COI INTRON 12 REGION, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AI876391.1	106	uk74e01.y1 Schiller mouse AtT20 Mus musculus cDNA clone IMAGE:1974744 5' similar to TR:O03793 O03793 CYTOCHROME OXIDASE, SUBUNIT 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA840034.1	362	vw68a12.r1 Stratagene mouse heart (#937316) Mus musculus cDNA clone IMAGE:1260094 5' similar to TR:O09207 O09207 CYTOCHROME OXIDASE, SUBUNIT 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA734923.1	344	vs17d09.r1 Barstead mouse irradiated colon MPLRB7 Mus musculus cDNA clone IMAGE:1138481 5' similar to TR:O09207 O09207 CYTOCHROME OXIDASE, SUBUNIT 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA689986.1	154	vt64b06.r1 Barstead mouse irradiated colon MPLRB7 Mus musculus cDNA clone IMAGE:1167827 5' similar to TR:O09207 O09207 CYTOCHROME OXIDASE, SUBUNIT 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA637795.1	79	vr33c09.r1 Barstead mouse myotubes MPLRB5 Mus musculus cDNA clone IMAGE:1122448 5' similar to SW:YMC1_TRYBB P04540 HYPOTHETICAL 71.5 KD PROTEIN IN COX1 3'REGION. [1], mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA139758.1	94	mq91b04.r1 Stratagene mouse heart (#937316) Mus musculus cDNA clone IMAGE:586063 5' similar to TR:G407142 G407142 CYTOCHROME OXIDASE SUBUNIT 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	AA118407.1	145	mo35a02.r1 Life Tech mouse embryo 13 5dpc 10666014 Mus musculus cDNA clone IMAGE:555530 5' similar to TR:G578845 G578845 CYTOCHROME OXIDASE SUBUNIT 1, mRNA sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	MH290182.1	541	Mus musculus isolate 017-R2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228857.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS3736
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228856.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HI116
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228855.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HI134
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228854.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HI111
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228853.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HI196
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228852.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS3720
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228851.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS3721
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228850.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS3701
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228849.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS3689
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228848.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS3357
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228847.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS2925
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228846.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HI481
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228845.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: MG3065
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228844.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HI186
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228843.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS5001
+MAMMALIA_RODENTIA_MURIDAE_Mus_musculus	LC228842.1	3085	Mus musculus mitochondrial genes for tRNA-Met, NADH dehydrogenase subunit 2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, cytochrome c oxidase subunit I, tRNA-Ser, tRNA-Asp, isolate: HS4997

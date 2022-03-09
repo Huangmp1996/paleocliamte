@@ -1,0 +1,9 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443790.1	16145	Axis porcinus isolate K3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443789.1	16145	Axis porcinus isolate K2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443788.1	16145	Axis porcinus isolate K1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443787.1	16145	Axis porcinus isolate D1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443786.1	16145	Axis porcinus isolate C1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MF435989.1	16351	Axis porcinus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KY117537.1	16400	Axis porcinus mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	JN632600.1	16375	Axis porcinus isolate CYTO mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	NC_020681.1	16375	Axis porcinus isolate CYTO mitochondrion, complete genome

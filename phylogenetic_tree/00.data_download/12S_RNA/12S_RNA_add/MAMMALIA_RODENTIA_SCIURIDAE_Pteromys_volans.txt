@@ -1,0 +1,9 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	MT430951.1	16513	Pteromys volans mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	LC424773.1	170	Pteromys volans HS0871 mitochondrial gene for 12S ribosomal RNA, partial sequence
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	MH212330.1	16514	Pteromys volans mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	NC_019612.1	16513	Pteromys volans mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	JQ230001.1	16513	Pteromys volans mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	AY227545.1	831	Pteromys volans isolate Ptv 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	D50285.1	394	Pteromys volans mitochondrial 12S ribosomal RNA, partial sequence
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	D50284.1	394	Pteromys volans mitochondrial 12S ribosomal RNA
+MAMMALIA_RODENTIA_SCIURIDAE_Pteromys_volans	D50283.1	394	Pteromys volans mitochondrial 12S ribosomal RNA

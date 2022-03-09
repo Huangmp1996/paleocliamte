@@ -1,0 +1,100 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ066996.1	202	Elaphe carinata voucher CBSM156 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ066995.1	202	Elaphe carinata voucher CBSM155 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ066941.1	202	Elaphe carinata voucher CBSM77 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ066922.1	202	Elaphe carinata voucher CBSM28 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ066921.1	202	Elaphe carinata voucher CBSM25 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ066920.1	202	Elaphe carinata voucher CBSM22 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ045950.1	658	Elaphe carinata voucher CBSF77 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ045934.1	658	Elaphe carinata voucher CBSF28 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ045933.1	658	Elaphe carinata voucher CBSF25 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031522.1	202	Elaphe carinata voucher BSM20 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031521.1	202	Elaphe carinata voucher BSM19 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031520.1	202	Elaphe carinata voucher BSM18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031506.1	202	Elaphe carinata voucher BSM04 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031505.1	202	Elaphe carinata voucher BSM03 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031504.1	202	Elaphe carinata voucher BSM02 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031500.1	202	Elaphe carinata voucher GSM18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031449.1	658	Elaphe carinata voucher BSF20 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031448.1	658	Elaphe carinata voucher BSF19 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031447.1	658	Elaphe carinata voucher BSF18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031433.1	658	Elaphe carinata voucher BSF04 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031432.1	658	Elaphe carinata voucher BSF03 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031431.1	658	Elaphe carinata voucher BSF02 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MZ031427.1	658	Elaphe carinata voucher GSF18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR045951.1	658	Elaphe carinata voucher SR90 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR045950.1	658	Elaphe carinata voucher SR89 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH153668.1	658	Elaphe carinata voucher WJS4 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH153667.1	658	Elaphe carinata voucher WJS3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH153666.1	658	Elaphe carinata voucher WJS2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH153665.1	658	Elaphe carinata voucher WJS1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK064894.1	657	Elaphe carinata voucher CHS809 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK064722.1	657	Elaphe carinata voucher CHS296 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK064721.1	657	Elaphe carinata voucher CHS295 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK064637.1	657	Elaphe carinata voucher CHS134 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK064636.1	657	Elaphe carinata voucher CHS133 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK064635.1	657	Elaphe carinata voucher CHS132 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220706.1	658	Elaphe carinata voucher CGS120 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220705.1	658	Elaphe carinata voucher CGS119 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220702.1	658	Elaphe carinata voucher CGS116 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220701.1	658	Elaphe carinata voucher CGS115 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220700.1	658	Elaphe carinata voucher CGS114 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220696.1	658	Elaphe carinata voucher CGS110 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220695.1	658	Elaphe carinata voucher CGS109 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220683.1	658	Elaphe carinata voucher CGS97 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220682.1	658	Elaphe carinata voucher CGS96 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220676.1	658	Elaphe carinata voucher CGS90 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220672.1	658	Elaphe carinata voucher CGS86 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220671.1	658	Elaphe carinata voucher CGS85 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220670.1	658	Elaphe carinata voucher CGS84 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220669.1	658	Elaphe carinata voucher CGS83 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220654.1	658	Elaphe carinata voucher CGS68 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220650.1	658	Elaphe carinata voucher CGS64 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220649.1	658	Elaphe carinata voucher CGS63 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220647.1	658	Elaphe carinata voucher CGS61 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220631.1	658	Elaphe carinata voucher CGS45 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220629.1	658	Elaphe carinata voucher CGS43 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220627.1	658	Elaphe carinata voucher CGS41 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220605.1	658	Elaphe carinata voucher CGS19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220604.1	658	Elaphe carinata voucher CGS18 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220603.1	658	Elaphe carinata voucher CGS17 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220602.1	658	Elaphe carinata voucher CGS16 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220601.1	658	Elaphe carinata voucher CGS15 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220600.1	658	Elaphe carinata voucher CGS14 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220599.1	658	Elaphe carinata voucher CGS13 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220598.1	658	Elaphe carinata voucher CGS12 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220597.1	658	Elaphe carinata voucher CGS11 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220596.1	658	Elaphe carinata voucher CGS10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220595.1	658	Elaphe carinata voucher CGS09 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220593.1	658	Elaphe carinata voucher CGS07 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220592.1	658	Elaphe carinata voucher CGS06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220591.1	658	Elaphe carinata voucher CGS05 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220590.1	658	Elaphe carinata voucher CGS04 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220589.1	658	Elaphe carinata voucher CGS03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220588.1	658	Elaphe carinata voucher CGS02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH220587.1	658	Elaphe carinata voucher CGS01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MH153693.1	658	Elaphe carinata voucher H-68 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	LC328536.1	605	Elaphe carinata yonaguniensis JMEcy150319 mitochondrial COX1 gene for cytochrome c oxidase subunit 1, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KT932607.1	658	Elaphe carinata isolate RN1652 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KT932606.1	658	Elaphe carinata isolate RN1310 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KT932605.1	658	Elaphe carinata isolate RN1199 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KT932604.1	658	Elaphe carinata isolate RN1043 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KT932603.1	658	Elaphe carinata isolate RN0972 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MF099674.1	658	Elaphe carinata voucher WJS24 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MF099673.1	658	Elaphe carinata voucher WJS23 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MF099672.1	658	Elaphe carinata voucher WJS22 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MF099671.1	658	Elaphe carinata voucher WJS21 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MF099670.1	658	Elaphe carinata voucher WJS20 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KX009582.1	658	Elaphe carinata isolate EC20151009-01 cytochrome c oxidase 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KX009581.1	658	Elaphe carinata isolate EC20151010-01 cytochrome c oxidase 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	JF700159.1	658	Elaphe carinata voucher AS59MT03 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	JF700158.1	658	Elaphe carinata voucher AS59MT02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	AY122755.1	513	Elaphe carinata SH575 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	AY122754.1	513	Elaphe carinata SH1177 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KU180459.1	17154	Elaphe carinata mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR815536.1	658	Elaphe carinata voucher SAM16 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR815535.1	658	Elaphe carinata voucher SAM15 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR815534.1	658	Elaphe carinata voucher SAM14 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR815533.1	658	Elaphe carinata voucher SAM13 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR815532.1	658	Elaphe carinata voucher SAM12 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR815531.1	658	Elaphe carinata voucher SAM11 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KR815530.1	658	Elaphe carinata voucher SAM10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

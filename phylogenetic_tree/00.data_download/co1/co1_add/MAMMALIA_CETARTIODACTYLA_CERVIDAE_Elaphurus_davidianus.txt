@@ -1,0 +1,48 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KX377320.1	574	Elaphurus davidianus haplotype ED1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KX377319.1	574	Elaphurus davidianus haplotype ED2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF673864.1	16346	Elaphurus davidianus voucher NHM:7021029 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663050.1	627	Elaphurus davidianus isolate M22 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663049.1	627	Elaphurus davidianus isolate M22(B) cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663048.1	627	Elaphurus davidianus isolate M21 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663047.1	627	Elaphurus davidianus isolate M21(B) cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663046.1	627	Elaphurus davidianus isolate M20 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663045.1	627	Elaphurus davidianus isolate M19 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663044.1	627	Elaphurus davidianus isolate M18 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663043.1	627	Elaphurus davidianus isolate M17 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663042.1	627	Elaphurus davidianus isolate M16 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663041.1	627	Elaphurus davidianus isolate M15 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663040.1	627	Elaphurus davidianus isolate M14 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663039.1	627	Elaphurus davidianus isolate M13 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663038.1	627	Elaphurus davidianus isolate M12 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663037.1	627	Elaphurus davidianus isolate M11 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663036.1	627	Elaphurus davidianus isolate M11(B) cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663035.1	627	Elaphurus davidianus isolate M2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663034.1	627	Elaphurus davidianus isolate M1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663033.1	627	Elaphurus davidianus isolate M3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663032.1	627	Elaphurus davidianus isolate M4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663031.1	627	Elaphurus davidianus isolate M6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663030.1	627	Elaphurus davidianus isolate M5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663029.1	627	Elaphurus davidianus isolate M10 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663028.1	627	Elaphurus davidianus isolate M9 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663027.1	627	Elaphurus davidianus isolate M7 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF663026.1	627	Elaphurus davidianus isolate M8 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF632307.1	607	Elaphurus davidianus voucher M7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	JN399997.1	16355	Elaphurus davidianus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	HM204521.1	611	Elaphurus davidianus isolate MLR cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	JN632632.1	16355	Elaphurus davidianus isolate CYTO mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KF509973.1	676	Elaphurus davidianus voucher jdmlW cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KF509972.1	693	Elaphurus davidianus voucher jdmlX cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KC129144.1	475	Elaphurus davidianus voucher AS06MT04 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KC129143.1	475	Elaphurus davidianus voucher AS06MT03 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KC129142.1	475	Elaphurus davidianus voucher AS06MT02 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KC129141.1	475	Elaphurus davidianus voucher AS06MT01 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	NC_018358.1	16355	Elaphurus davidianus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329026.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-F-LA1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329025.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-B-BJ70 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329024.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-B-BJ69 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329023.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-B-BJ68 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329022.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-B-BJ66 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329021.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-B-BJ64 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329020.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-B-BJ63 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329019.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-B-BJ62 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	GQ329018.1	658	Elaphurus davidianus ZJU:CLS438 ELDA-B-BJ61 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

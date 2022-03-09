@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_vela	MW133360.1	967	Diploderma vela voucher KIZ019298 tRNA-Xle and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_vela	MW788326.1	16432	Diploderma vela mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_vela	MT577949.1	995	Diploderma vela voucher KIZ:027672 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_vela	MT577948.1	1004	Diploderma vela voucher KIZ:027673 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_vela	MK001415.1	990	Diploderma vela voucher KIZ034925 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_vela	MK001414.1	972	Diploderma vela voucher KIZ019299 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial

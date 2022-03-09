@@ -1,0 +1,64 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468409.1	1140	Ellobius tancrei voucher K19-44 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468408.1	1140	Ellobius tancrei voucher K19-38 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468407.1	1140	Ellobius tancrei voucher M15-162 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468406.1	1140	Ellobius tancrei voucher M15-156 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468405.1	1140	Ellobius tancrei voucher M15-155 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468404.1	1140	Ellobius tancrei voucher M15-154 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468403.1	1140	Ellobius tancrei voucher M15-153 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468402.1	1140	Ellobius tancrei voucher M15-152 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468401.1	1140	Ellobius tancrei voucher M15-151 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468400.1	1140	Ellobius tancrei voucher M15-100 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468399.1	1140	Ellobius tancrei voucher M15-99 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468398.1	1140	Ellobius tancrei voucher M15-98 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468397.1	1140	Ellobius tancrei voucher M15-97 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468396.1	1140	Ellobius tancrei voucher M15-96 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468395.1	1140	Ellobius tancrei voucher M15-95 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468394.1	1140	Ellobius tancrei voucher M15-87 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468393.1	1140	Ellobius tancrei voucher M15-77 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468392.1	1140	Ellobius tancrei voucher M15-23 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468391.1	1140	Ellobius tancrei voucher M15-22 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468390.1	1140	Ellobius tancrei voucher M15-21 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468389.1	1140	Ellobius tancrei voucher M15-20 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468388.1	1140	Ellobius tancrei voucher M10-180 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468387.1	1140	Ellobius tancrei voucher M09-145 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468386.1	1140	Ellobius tancrei voucher M06-210 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468385.1	1140	Ellobius tancrei voucher M06-73 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468384.1	1140	Ellobius tancrei voucher M06-71 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468383.1	1140	Ellobius tancrei voucher M19-30 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468382.1	1039	Ellobius tancrei voucher M06-46 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468381.1	1140	Ellobius tancrei voucher M06-45 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468380.1	1140	Ellobius tancrei voucher 25255 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468379.1	1140	Ellobius tancrei voucher 25115 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MT468378.1	1140	Ellobius tancrei voucher S-130709 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264346.1	1143	Ellobius tancrei voucher 25159 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264345.1	1143	Ellobius tancrei voucher 24913 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264344.1	1143	Ellobius tancrei voucher 24912 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264343.1	1143	Ellobius tancrei voucher 24917 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264342.1	1143	Ellobius tancrei voucher 24916 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264341.1	1143	Ellobius tancrei voucher 24906 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264340.1	1143	Ellobius tancrei voucher 24905 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264339.1	1143	Ellobius tancrei voucher 24910 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264338.1	1143	Ellobius tancrei voucher 24907 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264337.1	1143	Ellobius tancrei voucher 24904 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264336.1	1143	Ellobius tancrei voucher 24915 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264335.1	1143	Ellobius tancrei voucher 24914 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264334.1	1143	Ellobius tancrei voucher 24876 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264333.1	1143	Ellobius tancrei voucher 24874 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264332.1	1143	Ellobius tancrei voucher 24873 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264331.1	1143	Ellobius tancrei voucher 24872 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264330.1	1143	Ellobius tancrei voucher 25626 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264329.1	1143	Ellobius tancrei voucher 25625 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264328.1	1143	Ellobius tancrei voucher 25618 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MG264327.1	1143	Ellobius tancrei voucher 25601 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544912.1	1143	Ellobius tancrei voucher 27027 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544909.1	1143	Ellobius tancrei voucher 27022 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544908.1	1143	Ellobius tancrei voucher 27021 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544907.1	1143	Ellobius tancrei voucher 27020 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544906.1	1143	Ellobius tancrei voucher 27019 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544905.1	1143	Ellobius tancrei voucher 27018 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544904.1	1143	Ellobius tancrei voucher 27017 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544903.1	1143	Ellobius tancrei voucher 27016 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544902.1	1143	Ellobius tancrei voucher 27014 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544901.1	1143	Ellobius tancrei voucher 27013 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	MK544900.1	1143	Ellobius tancrei voucher 24898 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Ellobius_tancrei	AF119270.1	1143	Ellobius tancrei cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product

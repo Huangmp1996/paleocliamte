@@ -1,0 +1,15 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KX233869.1	15396	Rhacophorus dennysi mitochondrion, partial genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KT191129.1	17572	Rhacophorus dennysi voucher RDEN20150618 mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	NC_027452.1	18052	Rhacophorus dennysi mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	KM035412.1	18052	Rhacophorus dennysi mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	DQ019609.1	523	Rhacophorus dennysi 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	LC010576.1	461	Rhacophorus dennysi mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4098
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	LC010575.1	461	Rhacophorus dennysi mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: KUHE:55211
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	JX219433.1	1948	Rhacophorus dennysi voucher Li06 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	AF215355.1	534	Rhacophorus dennysi 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	EU215545.1	1958	Rhacophorus dennysi voucher SCUM 060401L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	EF564540.1	570	Rhacophorus dennysi isolate KIZ060821051 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	EF564539.1	568	Rhacophorus dennysi isolate KIZ060821050 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	AY880524.1	506	Rhacophorus dennysi 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	AF458139.1	1962	Polypedates dennysi 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dennysi	AF285219.1	555	Polypedates dennysii TZ727 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

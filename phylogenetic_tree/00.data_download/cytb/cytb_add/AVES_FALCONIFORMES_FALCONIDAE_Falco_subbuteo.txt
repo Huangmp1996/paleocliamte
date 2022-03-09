@@ -1,0 +1,6 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_subbuteo	NC_057089.1	17678	Falco subbuteo mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_subbuteo	MN431594.1	17922	Falco subbuteo mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_subbuteo	MW266990.1	17678	Falco subbuteo mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_subbuteo	EU233119.1	1143	Falco subbuteo subbuteo voucher IPMB 3861 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_subbuteo	EU233118.1	1120	Falco subbuteo subbuteo voucher IPMB 25281 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_FALCONIFORMES_FALCONIDAE_Falco_subbuteo	EU233117.1	1143	Falco subbuteo subbuteo voucher IPMB 1770 cytochrome b (cytb) gene, complete cds; mitochondrial

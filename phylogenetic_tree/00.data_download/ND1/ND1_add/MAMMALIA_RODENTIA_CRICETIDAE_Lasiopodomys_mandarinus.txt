@@ -1,0 +1,6 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_mandarinus	MT614219.1	16562	Lasiopodomys mandarinus voucher LM03 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_mandarinus	MT614218.1	16562	Lasiopodomys mandarinus voucher LM02 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_mandarinus	MT614217.1	16562	Lasiopodomys mandarinus voucher LM01 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_mandarinus	JX014233.1	16367	Lasiopodomys mandarinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_mandarinus	NC_025283.1	16375	Lasiopodomys mandarinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Lasiopodomys_mandarinus	KF819832.1	16375	Lasiopodomys mandarinus mitochondrion, complete genome

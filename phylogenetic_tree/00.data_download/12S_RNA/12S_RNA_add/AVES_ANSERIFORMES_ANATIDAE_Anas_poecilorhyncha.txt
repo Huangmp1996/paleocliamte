@@ -1,0 +1,5 @@
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KC466567.1	16603	Anas poecilorhyncha mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KF751616.1	16606	Anas poecilorhyncha mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	NC_022418.1	16608	Anas poecilorhyncha mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KF156760.1	16608	Anas poecilorhyncha mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	AY164517.1	985	Anas poecilorhyncha 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

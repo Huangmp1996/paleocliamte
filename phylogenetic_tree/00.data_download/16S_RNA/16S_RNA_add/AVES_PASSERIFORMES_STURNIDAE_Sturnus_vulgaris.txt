@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	MN356384.1	264	Sturnus vulgaris mitochondrion, partial genome
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	NC_029360.1	16793	Sturnus vulgaris isolate sv009 mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	KT946692.1	16793	Sturnus vulgaris isolate sv047 mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	KT946691.1	16793	Sturnus vulgaris isolate sv009 mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	KM042922.1	461	Sturnus vulgaris 16S ribosomal RNA gene, partial sequence
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	HQ213786.1	398	Sturnus vulgaris 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ465267.1	483	Sturnus vulgaris voucher MFUM 200431 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	AF202826.1	876	Sturnus vulgaris tRNA-Val and 16S ribosomal RNA genes, partial sequences; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	AF202799.1	491	Sturnus vulgaris 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	AF151413.1	507	Sturnus vulgaris 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

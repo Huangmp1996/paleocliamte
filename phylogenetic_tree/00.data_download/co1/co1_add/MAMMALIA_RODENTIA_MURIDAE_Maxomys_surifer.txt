@@ -1,0 +1,99 @@
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KY464181.1	16291	Maxomys surifer voucher CBGP_R4223 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	NC_036732.1	16291	Maxomys surifer voucher CBGP_R4223 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU958016.1	527	Maxomys surifer isolate 14-052 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057310.1	601	Maxomys surifer finis isolate BZM-14C cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057309.1	678	Maxomys surifer finis isolate F32 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057308.1	678	Maxomys surifer finis isolate F37_COI cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057307.1	678	Maxomys surifer finis isolate F35_COI cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057306.1	678	Maxomys surifer finis isolate F31_COI cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057305.1	372	Maxomys surifer finis isolate F26_COI cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057304.1	671	Maxomys surifer isolate NA-46 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057303.1	671	Maxomys surifer isolate NA-45 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057302.1	671	Maxomys surifer isolate NA-44 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KU057301.1	671	Maxomys surifer isolate NA-43 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF343504.1	476	Maxomys surifer isolate TK153614 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF343502.1	476	Maxomys surifer isolate MM06 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445025.1	421	Maxomys surifer voucher CCP-AO 0001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445024.1	657	Maxomys surifer voucher CCP-AO 0002 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445023.1	657	Maxomys surifer voucher CCP-AO 0018 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445022.1	421	Maxomys surifer voucher TG970519-10 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445021.1	657	Maxomys surifer voucher TG970518-16 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445020.1	657	Maxomys surifer voucher TG970514-20 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445019.1	656	Maxomys surifer voucher TG970512-15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445018.1	657	Maxomys surifer voucher TG970511-40 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445017.1	657	Maxomys surifer voucher TG970511-42 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445014.1	657	Maxomys surifer voucher CCP-AO 0017 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445013.1	657	Maxomys surifer voucher TG970512-14 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445012.1	657	Maxomys surifer voucher TG970513-26 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445011.1	593	Maxomys surifer voucher TG970513-25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445010.1	555	Maxomys surifer voucher TG970514-15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445009.1	657	Maxomys surifer voucher TG970514-19 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445008.1	657	Maxomys surifer voucher TG970517-99 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF445007.1	657	Maxomys surifer voucher TG970514-21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	GU294901.1	480	Maxomys surifer voucher MW301 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	GU294894.1	480	Maxomys surifer voucher SP19372 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	GU294879.1	480	Maxomys surifer voucher TK153614 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	HM217572.1	655	Maxomys surifer voucher R4223 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	HM217549.1	581	Maxomys surifer voucher R3464 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010223.1	688	Maxomys surifer haplotype HCOMS32 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010222.1	651	Maxomys surifer haplotype HCOMS31 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010221.1	708	Maxomys surifer haplotype HCOMS30 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010220.1	708	Maxomys surifer haplotype HCOMS29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010219.1	709	Maxomys surifer haplotype HCOMS28 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010218.1	673	Maxomys surifer haplotype HCOMS27 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010217.1	713	Maxomys surifer haplotype HCOMS26 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010216.1	713	Maxomys surifer haplotype HCOMS25 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010215.1	713	Maxomys surifer haplotype HCOMS24 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010214.1	713	Maxomys surifer haplotype HCOMS23 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010213.1	713	Maxomys surifer haplotype HCOMS22 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010212.1	708	Maxomys surifer haplotype HCOMS21 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010211.1	708	Maxomys surifer haplotype HCOMS20 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010210.1	708	Maxomys surifer haplotype HCOMS19 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010209.1	708	Maxomys surifer haplotype HCOMS18 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010208.1	706	Maxomys surifer haplotype HCOMS17 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010207.1	708	Maxomys surifer haplotype HCOMS16 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010206.1	297	Maxomys surifer haplotype HCOMS15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010205.1	679	Maxomys surifer haplotype HCOMS14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010204.1	663	Maxomys surifer haplotype HCOMS13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010203.1	668	Maxomys surifer haplotype HCOMS12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010202.1	701	Maxomys surifer haplotype HCOMS11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010201.1	711	Maxomys surifer haplotype HCOMS10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010200.1	713	Maxomys surifer haplotype HCOMS09 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010199.1	713	Maxomys surifer haplotype HCOMS08 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010198.1	713	Maxomys surifer haplotype HCOMS07 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010197.1	713	Maxomys surifer haplotype HCOMS06 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010196.1	713	Maxomys surifer haplotype HCOMS05 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010195.1	713	Maxomys surifer haplotype HCOMS04 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010194.1	713	Maxomys surifer haplotype HCOMS03 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010193.1	713	Maxomys surifer haplotype HCOMS02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	KC010192.1	713	Maxomys surifer haplotype HCOMS01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JQ755858.1	373	Maxomys surifer isolate K9 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459800.1	657	Maxomys surifer voucher ROM:102087 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459799.1	657	Maxomys surifer voucher ROM:102086 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459798.1	657	Maxomys surifer voucher ROM:102072 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459797.1	654	Maxomys surifer voucher ROM:102030 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459796.1	657	Maxomys surifer voucher ROM:101964 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459795.1	657	Maxomys surifer voucher ROM:102281 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459794.1	657	Maxomys surifer voucher ROM:102280 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459793.1	655	Maxomys surifer voucher ROM:102268 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459792.1	657	Maxomys surifer voucher ROM:102267 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459791.1	657	Maxomys surifer voucher ROM:102266 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459790.1	657	Maxomys surifer voucher ROM:102256 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459789.1	657	Maxomys surifer voucher ROM:102238 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459788.1	657	Maxomys surifer voucher ROM:102237 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459787.1	653	Maxomys surifer voucher ROM:102236 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459786.1	657	Maxomys surifer voucher ROM:102210 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459785.1	657	Maxomys surifer voucher ROM:102209 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459784.1	657	Maxomys surifer voucher ROM:102208 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459783.1	657	Maxomys surifer voucher ROM:102207 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459782.1	657	Maxomys surifer voucher ROM:102206 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459781.1	657	Maxomys surifer voucher ROM:102205 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459780.1	657	Maxomys surifer voucher ROM:102204 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459779.1	657	Maxomys surifer voucher ROM:102203 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459778.1	657	Maxomys surifer voucher ROM:102202 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459777.1	657	Maxomys surifer voucher ROM:102201 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459776.1	657	Maxomys surifer voucher ROM:102200 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459775.1	657	Maxomys surifer voucher ROM:102199 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459774.1	657	Maxomys surifer voucher ROM:102170 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459773.1	657	Maxomys surifer voucher ROM:102156 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Maxomys_surifer	JF459772.1	654	Maxomys surifer voucher ROM:102155 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

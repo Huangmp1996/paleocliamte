@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MW929089.1	16836	Motacilla cinerea mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KY378761.1	945	Motacilla cinerea patriciae voucher L378_Va1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KY378760.1	964	Motacilla cinerea canariensis voucher L381_Va4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KY378759.1	811	Motacilla cinerea voucher L583 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KY378758.1	1026	Motacilla cinerea voucher L582 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KY378757.1	827	Motacilla cinerea voucher L560 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KY378756.1	805	Motacilla cinerea voucher L358 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AF447370.1	1045	Motacilla cinerea cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AF526460.1	960	Motacilla cinerea specimen-voucher UWBM44455 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AF526436.1	960	Motacilla cinerea specimen-voucher UWBM46556 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	NC_027933.1	16835	Motacilla cinerea mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KR092187.1	16835	Motacilla cinerea mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KJ456347.1	1026	Motacilla cinerea cytochrome b (cytb) gene, partial cds; mitochondrial

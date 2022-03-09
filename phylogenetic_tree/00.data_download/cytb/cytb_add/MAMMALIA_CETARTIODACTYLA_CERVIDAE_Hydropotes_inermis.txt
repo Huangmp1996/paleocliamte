@@ -1,0 +1,22 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	MN746502.1	16355	Hydropotes inermis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	JF802125.1	16356	Hydropotes inermis argyropus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EU216750.1	307	Hydropotes inermis cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	FJ666594.1	251	Hydropotes inermis isolate WD1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EF139155.1	1140	Hydropotes inermis argyropus isolate cgrb669 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EF139154.1	1140	Hydropotes inermis argyropus isolate cgrb548 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EF139153.1	1140	Hydropotes inermis argyropus isolate cgrb547 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EF139152.1	1140	Hydropotes inermis argyropus isolate cgrb541 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EF139151.1	1140	Hydropotes inermis argyropus isolate cgrb540 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EF139150.1	1140	Hydropotes inermis argyropus isolate cgrb539 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EF139149.1	1140	Hydropotes inermis argyropus isolate cgrb363 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EF139148.1	1140	Hydropotes inermis argyropus isolate cgrb362 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	NC_011821.1	16355	Hydropotes inermis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	EU315254.1	16355	Hydropotes inermis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	JN632649.1	16354	Hydropotes inermis isolate H6 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	KP203884.1	16355	Hydropotes inermis argyropus strain SC15 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	JX254914.2	16355	Hydropotes inermis argyropus strain HC23 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	NC_018032.1	16356	Hydropotes inermis argyropus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	FJ866606.1	140	Hydropotes inermis isolate WD2 ZFY gene, intron
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	FJ866601.1	168	Hydropotes inermis isolate WD2 ZFX gene, intron
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	AJ000028.1	1140	Hydropotes inermis mitochondrial cytb gene
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Hydropotes_inermis	AB019633.1	367	Hydropotes inermis mitochondrial gene for cytochrome b, partial cds, haplotype HIN

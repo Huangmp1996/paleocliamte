@@ -1,0 +1,16 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269163.1	375	Procapra gutturosa isolate G2c cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269161.1	375	Procapra gutturosa isolate R1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269160.1	375	Procapra gutturosa isolate K4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269159.1	375	Procapra gutturosa isolate V10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269158.1	375	Procapra gutturosa isolate V8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269157.1	375	Procapra gutturosa isolate V7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269156.1	375	Procapra gutturosa isolate V2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269155.1	375	Procapra gutturosa isolate V1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269154.1	375	Procapra gutturosa isolate Gz1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269153.1	375	Procapra gutturosa isolate G27 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269152.1	375	Procapra gutturosa isolate G17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269151.1	375	Procapra gutturosa isolate G16 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ269150.1	375	Procapra gutturosa isolate 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	DQ001162.1	402	Procapra gutturosa cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	JN632689.1	16546	Procapra gutturosa isolate ED mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_gutturosa	NC_020738.1	16546	Procapra gutturosa isolate ED mitochondrion, complete genome

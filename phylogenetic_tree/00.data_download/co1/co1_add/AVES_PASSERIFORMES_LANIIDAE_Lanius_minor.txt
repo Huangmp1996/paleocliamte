@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	GQ482024.1	694	Lanius minor voucher UWBM 61082 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	GQ482023.1	694	Lanius minor voucher UWBM 61076 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	GQ482022.1	694	Lanius minor voucher UWBM 56922 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	JF498787.1	580	Lanius minor voucher USNM 641336 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	EF621599.1	1176	Lanius minor isolate N4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	EF621575.1	1143	Lanius minor isolate M4 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	GQ482021.1	694	Lanius minor voucher UWBM 56645 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	FJ465339.1	612	Lanius minor voucher MFUM 200422 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	KX283124.1	655	Lanius minor voucher AI-B190 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

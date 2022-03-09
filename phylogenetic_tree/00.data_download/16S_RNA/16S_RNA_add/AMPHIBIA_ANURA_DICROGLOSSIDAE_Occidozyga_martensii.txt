@@ -1,0 +1,54 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007315.1	1910	Occidozyga martensii isolate 268805 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007314.1	1911	Occidozyga martensii isolate 268335 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007313.1	1966	Occidozyga martensii isolate 268332 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007308.1	1920	Occidozyga martensii isolate 262822 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007305.1	1912	Occidozyga martensii isolate 261823 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007304.1	1923	Occidozyga martensii isolate 261798 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007303.1	1921	Occidozyga martensii isolate 261807 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007302.1	1912	Occidozyga martensii isolate 257363 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007300.1	1972	Occidozyga martensii isolate A2065_14 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007299.1	1975	Occidozyga martensii isolate A1886_12 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007298.1	1895	Occidozyga martensii isolate 261789 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007297.1	1911	Occidozyga martensii isolate A2196_15 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007296.1	1908	Occidozyga martensii isolate A2197_15 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW007295.1	1908	Occidozyga martensii isolate 255134 12S small subunit ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217505.1	563	Occidozyga martensii voucher GK-7713 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217504.1	527	Occidozyga martensii voucher GK-7695 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217491.1	568	Occidozyga martensii voucher GK-7349 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217484.1	568	Occidozyga martensii voucher PT01617 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217483.1	567	Occidozyga martensii voucher PT2754 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217482.1	539	Occidozyga martensii voucher PT2755 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217481.1	568	Occidozyga martensii voucher PT0600 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217480.1	568	Occidozyga martensii voucher PT0942 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217479.1	568	Occidozyga martensii voucher PT0943 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217478.1	566	Occidozyga martensii voucher PT1172 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217477.1	570	Occidozyga martensii voucher PT1543 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217476.1	568	Occidozyga martensii voucher PT1544 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MW217475.1	568	Occidozyga martensii voucher PT2634 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935942.1	560	Occidozyga martensii voucher USNM:Herp:586940 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935941.1	560	Occidozyga martensii voucher USNM:Herp:586942 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935940.1	560	Occidozyga martensii voucher USNM:Herp:586943 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935939.1	560	Occidozyga martensii voucher USNM:Herp:586930 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935938.1	560	Occidozyga martensii voucher USNM:Herp:586931 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935937.1	560	Occidozyga martensii voucher USNM:Herp:586932 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935936.1	560	Occidozyga martensii voucher USNM:Herp:586933 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935935.1	560	Occidozyga martensii voucher USNM:Herp:586934 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935934.1	560	Occidozyga martensii voucher USNM:Herp:586935 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935933.1	560	Occidozyga martensii voucher USNM:Herp:586936 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935932.1	560	Occidozyga martensii voucher USNM:Herp:586937 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935931.1	560	Occidozyga martensii voucher USNM:Herp:586938 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935930.1	560	Occidozyga martensii voucher USNM:Herp:586939 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	MG935929.1	560	Occidozyga martensii voucher USNM:Herp:586941 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	DQ283357.1	1978	Occidozyga martensii voucher AMNH A161171 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	GU177877.1	18321	Occidozyga martensii mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	KU243090.1	986	Occidozyga martensii isolate FMNH268805 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	KP318725.1	2376	Occidozyga martensii voucher KUHE:19790 tRNA-Phe, partial sequence; 12S ribosomal RNA and tRNA-Val, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	NC_014685.1	18321	Occidozyga martensii mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	DQ458248.1	733	Occidozyga martensii voucher SCUMH020 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	DQ458247.1	715	Occidozyga martensii voucher SCUM0437983 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	DQ458246.1	741	Occidozyga martensii voucher SCUM0437980 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	DQ458256.1	525	Occidozyga martensii voucher SCUMH020 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	DQ458255.1	560	Occidozyga martensii voucher SCUM0437983 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	DQ458254.1	485	Occidozyga martensii voucher SCUM0437980 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	AF206467.1	1406	Occidozyga martensii voucher ROM 22222 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Occidozyga_martensii	AF285214.1	566	Occidozyga martensii TZ178 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,6 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_altarium	MH888180.1	604	Myotis altarium cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_altarium	MF630871.1	1140	Myotis altarium isolate SXI-138 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_altarium	KX467610.1	1140	Myotis altarium voucher JX-095 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_altarium	FJ215677.1	1140	Myotis altarium cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_altarium	EF553530.1	1140	Myotis altarium cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_altarium	JX465366.1	1140	Myotis altarium isolate YichangMa49 cytochrome b gene, complete cds; mitochondrial

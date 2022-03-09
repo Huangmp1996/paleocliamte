@@ -1,0 +1,6 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_hyperborea	NC_057103.1	17063	Ochotona hyperborea mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_hyperborea	MW270995.1	17063	Ochotona hyperborea mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_hyperborea	MN547448.1	16554	Ochotona hyperborea voucher HLJ17163 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_hyperborea	MN547447.1	16482	Ochotona hyperborea voucher HLJ17142 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_hyperborea	MN547446.1	16530	Ochotona hyperborea voucher HLJ17045 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_hyperborea	MN547445.1	16460	Ochotona hyperborea voucher HLJ17020 mitochondrion, partial genome

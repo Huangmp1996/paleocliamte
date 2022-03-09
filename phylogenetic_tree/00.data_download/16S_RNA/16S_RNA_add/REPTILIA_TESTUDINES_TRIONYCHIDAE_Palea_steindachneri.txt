@@ -1,0 +1,6 @@
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KX882746.1	16875	Palea steindachneri mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	FJ541030.1	17243	Palea steindachneri mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	NC_013841.1	17243	Palea steindachneri mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	AY743418.1	1607	Palea steindachneri 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	AF285232.1	493	Palea steindachneri TZ680 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	AF285231.1	424	Palea steindachneri TZ57 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

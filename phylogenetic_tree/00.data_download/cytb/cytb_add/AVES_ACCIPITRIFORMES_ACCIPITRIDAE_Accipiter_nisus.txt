@@ -1,0 +1,7 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MN929010.1	18352	Accipiter nisus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	EU583323.1	1016	Accipiter nisus nisus voucher KUNH 4501 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MN122826.1	16426	Accipiter nisus mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KJ680300.1	19417	Accipiter nisus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	NC_025580.1	18647	Accipiter nisus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KM360148.1	18647	Accipiter nisus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AY423067.1	1029	Accipiter nisus cytochrome b gene, partial cds; mitochondrial

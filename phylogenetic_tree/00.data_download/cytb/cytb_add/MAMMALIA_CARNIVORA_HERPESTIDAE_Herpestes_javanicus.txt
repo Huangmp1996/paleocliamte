@@ -1,0 +1,48 @@
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	MW257214.1	16760	Urva javanica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KP986478.1	1140	Herpestes javanicus voucher MNHN:TC258 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346590.1	1025	Urva javanica isolate MNHN-TC693 voucher KFBG:M0005-2012 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346589.1	1020	Urva javanica isolate MNHN-TC649 voucher KFBG:M0067-2004 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346588.1	810	Urva javanica voucher BZM:17400 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY346587.1	192	Urva javanica voucher AMNH:102913 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	KY117548.1	16343	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AF522338.1	1109	Herpestes javanicus voucher C228 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AY928675.1	1140	Herpestes javanicus cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AY873843.1	16763	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	GU183542.1	402	Herpestes javanicus isolate T170_Thai cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ848672.1	420	Herpestes javanicus isolate HJ98 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ848671.1	420	Herpestes javanicus isolate HJ10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ848670.1	420	Herpestes javanicus isolate HJ13 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ848669.1	420	Herpestes javanicus isolate HJ40 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ848668.1	420	Herpestes javanicus isolate HJ303 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ848667.1	420	Herpestes javanicus isolate HJ84 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	FJ391216.1	972	Herpestes javanicus voucher AMNH:101655 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AY170108.1	1140	Herpestes javanicus specimen-voucher Nellis cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519073.1	1006	Herpestes javanicus isolate HjaC396 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519072.1	1140	Herpestes javanicus isolate HjaC382 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519071.1	1019	Herpestes javanicus isolate HjaC393 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519070.1	1140	Herpestes javanicus isolate HjaC288 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519069.1	1002	Herpestes javanicus isolate HcrC383 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519068.1	1076	Herpestes javanicus isolate HjaC394 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519067.1	378	Herpestes javanicus isolate HjaC375 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519066.1	1014	Herpestes javanicus isolate HjaC374 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519065.1	1140	Herpestes javanicus isolate HjaC229 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519064.1	1140	Herpestes javanicus isolate HjaC287 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519063.1	1140	Herpestes javanicus isolate HjaC453 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519062.1	1140	Herpestes javanicus isolate HjaC452 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519061.1	1140	Herpestes javanicus isolate HjaC451 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519060.1	393	Herpestes javanicus isolate HjaL1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519059.1	1115	Herpestes javanicus isolate HjaC192 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519058.1	1140	Herpestes javanicus isolate HjaC129 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	DQ519057.1	1140	Herpestes javanicus isolate HjaC312 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	NC_006835.1	16763	Herpestes javanicus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB534163.1	402	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, isolate: Kiire-6
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB534162.1	402	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, isolate: Kiire-5
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB534161.1	402	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, isolate: Kiire-4
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB534160.1	402	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, isolate: Kiire-3
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB534159.1	402	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, isolate: Kiire-2
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB534158.1	402	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, isolate: Kiire-1
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB534157.1	402	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, isolate: 008-11
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB050131.1	752	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, clone:Amami-2
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB050130.1	752	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, clone:Amami-1
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB050129.1	752	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, clone:Okinawa-2
+MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_javanicus	AB050128.1	752	Herpestes javanicus mitochondrial cytb gene for cytochrome b, partial cds, clone:Okinawa-1

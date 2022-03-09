@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	MW451664.1	538	Gekko subpalmatus voucher SYSr001768 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	MW451663.1	538	Gekko subpalmatus voucher SYSr001767 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	MW451662.1	538	Gekko subpalmatus voucher SYSr001762 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	MW451653.1	538	Gekko subpalmatus voucher SYSr001381 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	MW451652.1	538	Gekko subpalmatus voucher SYSr001380 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	NC_052836.1	17105	Gekko subpalmatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	MK680534.1	17105	Gekko subpalmatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	JX624323.1	532	Gekko subpalmatus isolate SYSr0000546 16S ribosomal RNA gene, partial sequence
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_subpalmatus	JX624320.1	532	Gekko subpalmatus isolate SYSr0000469 16S ribosomal RNA gene, partial sequence

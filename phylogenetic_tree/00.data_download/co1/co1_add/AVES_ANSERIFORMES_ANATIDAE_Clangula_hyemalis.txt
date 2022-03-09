@@ -1,0 +1,16 @@
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	MW849278.1	16642	Clangula hyemalis voucher CPD1207 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	GQ481595.1	694	Clangula hyemalis voucher UWBM 43917 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	GQ481594.1	694	Clangula hyemalis voucher UWBM 43894 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	GQ481593.1	694	Clangula hyemalis voucher UWBM 59523 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	GU571827.1	648	Clangula hyemalis voucher BISE-Aves18 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	GU571340.1	737	Clangula hyemalis voucher NHMO-BC141 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	GU571339.1	740	Clangula hyemalis voucher NHMO-BC140 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434544.1	668	Clangula hyemalis voucher 1540-10066 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434551.1	697	Clangula hyemalis voucher 1540 10131 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434550.1	697	Clangula hyemalis voucher 1540 10127 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434549.1	697	Clangula hyemalis voucher 1540 10123 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434548.1	697	Clangula hyemalis voucher 1540 10121 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434547.1	697	Clangula hyemalis voucher 1540 10098 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434546.1	492	Clangula hyemalis voucher 1540-10008 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434545.1	619	Clangula hyemalis voucher 1540-10061 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Clangula_hyemalis	DQ434543.1	689	Clangula hyemalis voucher 1540-10010 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,7 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	MN356392.1	6753	Calidris pugnax mitochondrion, partial genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	NC_046877.1	16902	Calidris pugnax mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	MN956840.1	16902	Calidris pugnax mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	GQ255993.1	3275	Philomachus pugnax isolate ruff # 1481191 D-loop and tRNA-Pro gene, complete sequence; NADH dehydrogenase subunit 6 (ND6) gene, complete cds; tRNA-Glu gene, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	NW_015090977.1	9331205	Calidris pugnax isolate Ruff unplaced genomic scaffold, ASM143184v1 scaffold133, whole genome shotgun sequence
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	KF041205.1	624	Philomachus pugnax 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	EF373100.2	557	Philomachus pugnax voucher 1337609 12S ribosomal RNA gene, partial sequence; mitochondrial

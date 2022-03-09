@@ -1,0 +1,10 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	LR877379.1	647	Crocidura suaveolens mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIB:ZPL:08653
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KY754500.1	655	Crocidura suaveolens voucher NMW 69240 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KP993021.1	516	Crocidura suaveolens isolate CrS8 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KP993020.1	516	Crocidura suaveolens isolate CrS7 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KP993019.1	516	Crocidura suaveolens isolate CrS6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KP993018.1	516	Crocidura suaveolens isolate CrS5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KP993017.1	516	Crocidura suaveolens isolate CrS4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KP993016.1	516	Crocidura suaveolens isolate CrS3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KP993015.1	516	Crocidura suaveolens isolate CrS2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_suaveolens	KP993014.1	516	Crocidura suaveolens isolate CrS1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial

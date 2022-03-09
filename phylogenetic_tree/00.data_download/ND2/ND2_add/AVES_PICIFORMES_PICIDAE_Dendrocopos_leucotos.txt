@@ -1,0 +1,3 @@
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	DQ188168.1	1036	Dendrocopos leucotos isolate O3 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	NC_029862.1	16838	Dendrocopos leucotos mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Dendrocopos_leucotos	KU131555.1	16838	Dendrocopos leucotos mitochondrion, complete genome

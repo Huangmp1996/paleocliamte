@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	NC_057250.1	16737	Turdus ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	MT712159.1	16737	Turdus ruficollis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	EU154560.1	395	Turdus ruficollis subsp. ruficollis voucher NRM-2005-06-09 12S ribosomal RNA gene, partial sequence; mitochondrial

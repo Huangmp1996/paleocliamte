@@ -1,0 +1,42 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	NC_046795.1	17750	Hydrophis cyanocinctus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	MK953550.1	17750	Hydrophis cyanocinctus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	MK201572.1	585	Hydrophis cyanocinctus voucher CHS857 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	MK201571.1	585	Hydrophis cyanocinctus voucher CHS856 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KX239640.1	1140	Hydrophis cyanocinctus cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	DQ233946.1	982	Hydrophis cyanocinctus isolate Hcy002 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	DQ233945.1	982	Hydrophis cyanocinctus isolate Hcy001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966071.1	1080	Hydrophis cyanocinctus voucher ZMUC:R661367 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966070.1	1080	Hydrophis cyanocinctus voucher MZBOphi3969 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966069.1	428	Hydrophis cyanocinctus voucher KLS0171 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966068.1	1022	Hydrophis cyanocinctus voucher KLS0170 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966067.1	459	Hydrophis cyanocinctus voucher KLS0156 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966066.1	895	Hydrophis cyanocinctus voucher KLS0114 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966065.1	448	Hydrophis cyanocinctus voucher KLS0110 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966064.1	1074	Hydrophis cyanocinctus voucher KLS0069 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966063.1	1092	Hydrophis cyanocinctus cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966062.1	999	Hydrophis cyanocinctus voucher FMNH:249656 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966061.1	954	Hydrophis cyanocinctus voucher FMNH:249604 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966060.1	1080	Hydrophis cyanocinctus voucher ZMUC:R661369 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KT966059.1	1080	Hydrophis cyanocinctus voucher ZMUC:R661368 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572624.1	1088	Leioselasma cyanocincta voucher X01050 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572616.1	848	Leioselasma cyanocincta voucher MZBOphi3889 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572612.1	1080	Leioselasma cyanocincta voucher MZBOphi3967 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572611.1	1085	Leioselasma cyanocincta voucher MZBOphi3965 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572610.1	1082	Leioselasma cyanocincta voucher MZBOphi3964 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572598.1	1022	Leioselasma cyanocincta voucher KLS061 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572597.1	1027	Leioselasma cyanocincta voucher KLS012 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572596.1	848	Leioselasma cyanocincta voucher QMJ83699 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572595.1	848	Leioselasma cyanocincta voucher QMJ81639 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572594.1	848	Leioselasma cyanocincta voucher QMJ81213 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572593.1	848	Leioselasma cyanocincta voucher QMJ81022 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572592.1	848	Leioselasma cyanocincta voucher QMJ80936 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572590.1	847	Leioselasma cyanocincta voucher QMJ79236 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572589.1	1084	Leioselasma cyanocincta voucher MZBOphi4168 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572586.1	1084	Leioselasma cyanocincta voucher ABTC101328 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572585.1	1087	Leioselasma cyanocincta voucher ARR_A022 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572584.1	1088	Leioselasma cyanocincta voucher ARR_A021 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC572583.1	1088	Leioselasma cyanocincta voucher ARR_01091998 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC014412.1	869	Leioselasma cyanocincta voucher MZBOphi3890 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC014411.1	851	Leioselasma cyanocincta voucher MZBOphi3963 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC014410.1	851	Leioselasma cyanocincta voucher MZBOphi3962 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_cyanocinctus	KC014409.1	1079	Leioselasma cyanocincta voucher MZBOphi4168 cytochrome b (cytb) gene, partial cds; mitochondrial

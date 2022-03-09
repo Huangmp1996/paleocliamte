@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	JF498874.1	669	Lonchura punctulata voucher USNM:643417 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	JF498873.1	694	Lonchura punctulata voucher USNM:643561 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	JF498872.1	694	Lonchura punctulata voucher USNM:643564 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	NC_028036.1	16824	Lonchura punctulata mitochondrion, complete genome
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	KR184724.1	16824	Lonchura punctulata mitochondrion, complete genome
+AVES_PASSERIFORMES_ESTRILDIDAE_Lonchura_punctulata	KC439324.1	626	Lonchura punctulata cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MN239961.1	1074	Takydromus intermedius voucher SYS:r001741 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MN239960.1	1074	Takydromus intermedius voucher SYS:r001553 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MN239959.1	1074	Takydromus intermedius voucher SYS:r000856 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MN239958.1	1074	Takydromus intermedius voucher SYS:r001602 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	AY248462.1	702	Takydromus intermedius isolate INT101 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product

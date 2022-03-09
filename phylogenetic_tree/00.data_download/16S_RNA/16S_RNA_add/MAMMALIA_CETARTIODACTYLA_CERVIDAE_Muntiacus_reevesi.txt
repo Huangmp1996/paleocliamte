@@ -1,0 +1,8 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_reevesi	MZ895085.1	16355	Muntiacus reevesi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_reevesi	KY117561.1	16350	Muntiacus reevesi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_reevesi	AF527537.1	16354	Muntiacus reevesi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_reevesi	EF035447.1	16353	Muntiacus reevesi micrurus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_reevesi	NC_008491.1	16353	Muntiacus reevesi micrurus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_reevesi	NC_004069.1	16354	Muntiacus reevesi mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_reevesi	AF108037.1	495	Muntiacus reevesi 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_reevesi	M35877.1	2682	M.reevesi mitochondrial Phe-, Val-tRNA, 12S, and 16S rRNA genes, complete, and Leu-tRNA gene, 5' end

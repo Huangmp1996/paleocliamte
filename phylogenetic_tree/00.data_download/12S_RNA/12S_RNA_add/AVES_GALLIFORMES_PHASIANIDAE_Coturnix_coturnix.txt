@@ -1,0 +1,11 @@
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	MW574359.1	16700	Coturnix coturnix voucher FMNH 467848 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	MH423716.1	374	Coturnix coturnix voucher ZSI/FI/18/1/3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	X57245.1	2814	C.coturnix mitochondrial nd6 gene for NADH dehydrogenase and tRNA-Glu, tRNA-Phe, tRNA-Val, 12S rRNA & 16S rRNA genes
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	KF469290.1	434	Coturnix coturnix isolate 10 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	JN695771.1	435	Coturnix coturnix isolate Q5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	JN695770.1	435	Coturnix coturnix isolate Q4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	JN695769.1	435	Coturnix coturnix isolate Q3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	JN695768.1	435	Coturnix coturnix isolate Q2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	JN695767.1	435	Coturnix coturnix isolate Q1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	FN675551.1	716	Coturnix coturnix mitochondrial partial 12S rRNA gene, isolate 2
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	AM902516.1	716	Coturnix coturnix partial 12S rRNA gene

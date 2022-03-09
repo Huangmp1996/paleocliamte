@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK194242.1	1303	Elaphe carinata voucher CHS809 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK194033.1	1303	Elaphe carinata voucher CHS296 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK194032.1	1304	Elaphe carinata voucher CHS295 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK193934.1	1288	Elaphe carinata voucher CHS134 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK193933.1	1304	Elaphe carinata voucher CHS133 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK193932.1	1306	Elaphe carinata voucher CHS132 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KU180459.1	17154	Elaphe carinata mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	HM439985.1	432	Elaphe carinata isolate C2_hc-m13F_B05_090800490G 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	HM439984.1	432	Elaphe carinata isolate A14_hc-m13F_F02_090800470G 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	HM439983.1	432	Elaphe carinata isolate C3_hc-m13F_C05_090800491G 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	HM439986.1	431	Elaphe carinata isolate A15_hc-m13F_G02_090800471G 16S ribosomal RNA gene, partial sequence; mitochondrial

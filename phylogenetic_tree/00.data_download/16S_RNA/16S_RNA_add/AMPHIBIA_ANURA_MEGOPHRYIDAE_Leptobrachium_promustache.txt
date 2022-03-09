@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_promustache	EF544241.1	1937	Vibrissaphora promustache voucher IOZCAS 2904-2 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_promustache	EF544240.1	1947	Vibrissaphora promustache voucher IOZCAS 2904-1 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_promustache	EU180871.1	565	Vibrissaphora promustache voucher KIZ-PB-Vsp03001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_promustache	EU180870.1	565	Vibrissaphora promustache voucher KIZ-PB-Vsp03009 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_promustache	EU180869.1	565	Vibrissaphora promustache voucher KIZ-PB-Vsp03004 16S ribosomal RNA gene, partial sequence; mitochondrial

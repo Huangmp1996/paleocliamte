@@ -1,0 +1,11 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT372821.1	16433	Sacalia quadriocellata isolate Hainan mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT372820.1	16555	Sacalia quadriocellata isolate Mainland mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GU320209.1	16551	Sacalia quadriocellata mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EF088646.1	16816	Sacalia quadriocellata mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	NC_011819.1	16816	Sacalia quadriocellata mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867685.1	660	Sacalia quadriocellata voucher 2009-SQ-017 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867684.1	660	Sacalia quadriocellata voucher 2009-SQ-013 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867683.1	660	Sacalia quadriocellata voucher 2009-SQ-009 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867682.1	660	Sacalia quadriocellata voucher 2009-SQ-008 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867681.1	660	Sacalia quadriocellata voucher 2009-SQ-007 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867680.1	660	Sacalia quadriocellata voucher 2009-SQ-006 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dauma	MK580135.1	1041	Zoothera dauma voucher MCZ:266030 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dauma	MK580134.1	1041	Zoothera dauma voucher MCZ:196711 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dauma	KJ455702.1	1041	Zoothera dauma NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dauma	GU358831.1	1041	Zoothera dauma voucher NRM 20056740 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Zoothera_dauma	AY752326.1	1041	Zoothera dauma NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

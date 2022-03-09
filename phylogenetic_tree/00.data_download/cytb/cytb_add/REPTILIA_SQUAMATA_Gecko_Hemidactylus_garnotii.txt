@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	EU268396.1	307	Hemidactylus garnotii voucher CAS 222276 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	EU268395.1	307	Hemidactylus garnotii voucher CAS 223286 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	DQ120292.1	303	Hemidactylus garnotii isolate E509.8 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	DQ120291.1	303	Hemidactylus garnotii isolate E509.11 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	DQ120290.1	303	Hemidactylus garnotii isolate E509.10 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	DQ120289.1	303	Hemidactylus garnotii isolate E509.9 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	DQ120288.1	303	Hemidactylus garnotii isolate E509.20 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	HM559597.1	307	Hemidactylus garnotii cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	FJ619573.1	283	Hemidactylus garnotii isolate TS138 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	JF772112.1	307	Hemidactylus garnotii clone TS148 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemidactylus_garnotii	JF772111.1	307	Hemidactylus garnotii clone TS118 cytochrome b gene, partial cds; mitochondrial

@@ -1,0 +1,54 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	MT712129.1	17839	Hydrophis curtus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	NC_046794.1	17702	Hydrophis curtus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	MK953549.1	17702	Hydrophis curtus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KX239647.1	1139	Hydrophis curtus cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	DQ233973.1	982	Lapemis curtus isolate Lc129 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	DQ233972.1	982	Lapemis curtus isolate Lc112 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	DQ233971.1	982	Lapemis curtus isolate Lc111 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	DQ233970.1	982	Lapemis curtus isolate Lc089 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	DQ233969.1	982	Lapemis curtus isolate Lc003 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	DQ233968.1	982	Lapemis curtus isolate Lc002 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	DQ233967.1	976	Lapemis curtus isolate Lc001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653904.1	1080	Hydrophis curtus isolate MZB.Ophi_3957 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653903.1	1080	Hydrophis curtus isolate MZB.Ophi_3955 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653902.1	1083	Hydrophis curtus isolate MZB.Ophi_3953 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653901.1	1080	Hydrophis curtus isolate ZRC.CDM1678 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653900.1	1080	Hydrophis curtus isolate MZB.Ophi_4191 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653899.1	1080	Hydrophis curtus isolate MZB.Ophi_4192 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653898.1	1080	Hydrophis curtus isolate MZB.Ophi_4189 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653897.1	1080	Hydrophis curtus isolate MZB.Ophi_4193 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653896.1	1033	Hydrophis curtus isolate MZB.Ophi_4196 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653895.1	1075	Hydrophis curtus isolate MZB.Ophi_4194 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653894.1	463	Hydrophis curtus isolate 2013.17.01.NH cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653893.1	977	Hydrophis curtus isolate 2013.16.01.NH cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653892.1	1074	Hydrophis curtus isolate 2013.15.01.NH cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653891.1	1077	Hydrophis curtus isolate 2013.14.01.NH cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653890.1	1062	Hydrophis curtus isolate 2013.13.01.NH cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653889.1	1083	Hydrophis curtus isolate CAS204975 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653888.1	1071	Hydrophis curtus isolate MT223 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653887.1	306	Hydrophis curtus isolate India cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653886.1	1011	Hydrophis curtus isolate FMNH249650 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653885.1	999	Hydrophis curtus isolate FMNH249640 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653884.1	1020	Hydrophis curtus isolate FMNH249637 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653883.1	1059	Hydrophis curtus isolate FMNH249635 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653882.1	927	Hydrophis curtus isolate FMNH249634 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653881.1	1077	Hydrophis curtus isolate MZB.Ophi_4167 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653880.1	1076	Hydrophis curtus isolate MZB.Ophi_4165 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653879.1	953	Hydrophis curtus isolate MZB.Ophi_4164 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653878.1	1025	Hydrophis curtus isolate MZB.Ophi_4163 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653877.1	1077	Hydrophis curtus isolate MZB.Ophi_4162 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653876.1	1083	Hydrophis curtus isolate MZB.Ophi_4161 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653875.1	1080	Hydrophis curtus isolate MZB.Ophi_4159 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653874.1	1025	Hydrophis curtus isolate MZB.Ophi_4158 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653873.1	769	Hydrophis curtus isolate NTM.R36648 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653872.1	1059	Hydrophis curtus isolate NTM.R36645 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653871.1	1080	Hydrophis curtus isolate NTM.R36644 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653870.1	1080	Hydrophis curtus isolate NTM.R36641 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653869.1	770	Hydrophis curtus isolate NTM.R36639 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653868.1	949	Hydrophis curtus isolate MW04687 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653867.1	925	Hydrophis curtus isolate MW04675 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653866.1	878	Hydrophis curtus isolate MW04674 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653865.1	880	Hydrophis curtus isolate MW04673 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KJ653864.1	940	Hydrophis curtus isolate MW04497 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KC014453.1	874	Lapemis curtus voucher MW04489 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_curtus	KC014452.1	886	Lapemis curtus voucher MW04486 cytochrome b (cytb) gene, partial cds; mitochondrial

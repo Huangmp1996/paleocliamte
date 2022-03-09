@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	MG788980.1	658	Sinomicrurus kelloggi voucher FJHSHS01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	MN685876.1	550	Sinomicrurus kelloggi isolate GP2194 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	MK064918.1	657	Sinomicrurus kelloggi voucher CHS854 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	MK064601.1	657	Sinomicrurus kelloggi voucher CHS033 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_kelloggi	MK064599.1	657	Sinomicrurus kelloggi voucher CHS031 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

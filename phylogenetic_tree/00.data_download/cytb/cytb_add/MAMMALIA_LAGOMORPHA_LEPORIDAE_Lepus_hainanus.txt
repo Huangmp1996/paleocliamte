@@ -1,0 +1,19 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	JQ219662.1	16646	Lepus hainanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232986.1	1140	Lepus hainanus isolate H11 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232985.1	1140	Lepus hainanus isolate H9 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232984.1	1140	Lepus hainanus isolate H10 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232983.1	1140	Lepus hainanus isolate H2 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232982.1	1140	Lepus hainanus isolate H5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232981.1	1140	Lepus hainanus isolate H4 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232980.1	1140	Lepus hainanus isolate H3 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232979.1	1140	Lepus hainanus isolate H7 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232978.1	1140	Lepus hainanus isolate H6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232977.1	1140	Lepus hainanus isolate H8 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HM232976.1	1140	Lepus hainanus isolate H1 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	AY745116.1	1140	Lepus hainanus isolate hai15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	AY745115.1	1140	Lepus hainanus isolate hai1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	AY745114.1	1140	Lepus hainanus isolate hai18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	AY599077.1	1140	Lepus hainanus cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	NC_025902.1	16646	Lepus hainanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	HG763841.1	1140	Lepus hainanus mitochondrial mt-cyb gene gene for cytochrome b, isolate DT
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	KF723323.1	1140	Lepus hainanus isolate DT cytochrome b gene, complete cds; mitochondrial

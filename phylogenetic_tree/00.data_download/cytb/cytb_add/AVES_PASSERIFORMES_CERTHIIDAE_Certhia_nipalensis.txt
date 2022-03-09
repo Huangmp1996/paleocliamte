@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_nipalensis	DQ196383.1	512	Certhia nipalensis voucher MAR 90050 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_nipalensis	DQ196382.1	512	Certhia nipalensis voucher MAR 4153 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_nipalensis	DQ196381.1	512	Certhia nipalensis voucher MAR 2741 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_nipalensis	KJ456218.1	1143	Certhia nipalensis voucher AMNH:5603 cytochrome b (cytb) gene, complete cds; mitochondrial

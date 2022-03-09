@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Branta_bernicla	AY072596.1	307	Branta bernicla nigricans cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_ANSERIFORMES_ANATIDAE_Branta_bernicla	AY072595.1	307	Branta bernicla hrota cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_ANSERIFORMES_ANATIDAE_Branta_bernicla	EU585628.1	1045	Branta bernicla voucher IPMB 6977 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Branta_bernicla	HM063580.1	1065	Branta bernicla voucher JFBM:38648 cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial

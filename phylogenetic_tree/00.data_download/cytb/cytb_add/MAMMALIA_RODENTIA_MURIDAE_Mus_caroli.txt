@@ -1,0 +1,55 @@
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	MK166027.1	16301	Mus caroli mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB164044.1	1002	Mus caroli rag1 gene, partial cds, isolate: HS1587
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	LC426286.1	1140	Mus caroli YUZ150 mitochondrial cytb gene for cytochrome b, complete cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	LC426285.1	1140	Mus caroli YUZ149 mitochondrial cytb gene for cytochrome b, complete cds
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	KY754047.1	1140	Mus caroli cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AY057812.1	1145	Mus caroli cytochrome b (Cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	KU375153.1	1140	Mus caroli voucher AMNH:275650 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	JN850554.1	303	Mus caroli cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AF520638.1	1191	Mus caroli isolate TW1 tRNA-Glu gene, partial sequence; cytochrome b gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AF520637.1	1191	Mus caroli tRNA-Glu gene, partial sequence; cytochrome b gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	NC_025268.1	16313	Mus caroli isolate R5231 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	KJ530558.1	16313	Mus caroli isolate R5231 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	KJ530557.1	16310	Mus caroli isolate C0423 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB253438.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS3579
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB253437.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, complete cds, isolate: HS3293
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213511.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: A94/HS2997
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213510.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: A92/HS2996
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213509.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: A93/HS2961
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213508.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: SY6/HS3001
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213507.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: SX1/HS2963
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213506.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: R1245/HS3289
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213505.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: YA29/HS3249
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213504.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: YA28/HS3248
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213503.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: VN02-1/HS2995
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213502.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: CM28366/HS2958
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213501.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: HX22/HS2951
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213500.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: NN12/HS3243
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213499.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: NN11/HS3242
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213498.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: NN10/HS3241
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213497.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: 12F/HS3148
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213496.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: 11M/HS3147
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213495.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: 10F/HS3146
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213494.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: 9M/HS3145
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213493.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: 8F/HS3144
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213492.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: JOT-0123/HS2789
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213491.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: JOT-0091/HS2787
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213490.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: JOT-0090/HS2786
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213489.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: JOT-0086/HS2785
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB213488.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate: JOT-0085/HS2784
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109803.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:M24355 (MZB)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109802.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:M24354 (MZB)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109801.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:M24353 (MZB)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109800.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:M24352 (MZB)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109799.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:M24351 (MZB)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109798.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:M24350 (MZB)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109797.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:MG602 (NIG)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109796.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:MG600 (NIG)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109795.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate:MG630
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109794.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher:MG619 (NIG)
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109793.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate:HS1526
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB109792.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate:HS1766
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AY224673.1	414	Mus caroli mitochondrial D-loop, partial sequence; and tRNA-Phe gene, complete sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB125763.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate:HS2961
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB125762.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds, isolate:HS2958
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB033698.1	1140	Mus caroli mitochondrial cytb gene for cytochrome b, partial cds

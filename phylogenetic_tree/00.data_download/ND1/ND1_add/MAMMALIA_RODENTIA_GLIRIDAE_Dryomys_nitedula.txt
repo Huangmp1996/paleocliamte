@@ -1,0 +1,27 @@
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449453.1	715	Dryomys nitedula isolate Abant-Bolu NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449452.1	715	Dryomys nitedula isolate Gelibolu-Canakkale 3 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449451.1	715	Dryomys nitedula isolate Gelibolu-Canakkale 2 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449450.1	715	Dryomys nitedula isolate Gelibolu-Canakkale 1 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449449.1	715	Dryomys nitedula isolate Elmali-Antalya NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449448.1	715	Dryomys nitedula isolate Savsat-Artvin 2 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449447.1	715	Dryomys nitedula isolate Savsat-Artvin 1 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449446.1	715	Dryomys nitedula isolate Camlihemsin-Rize 3 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449445.1	715	Dryomys nitedula isolate Camlihemsin-Rize 2 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449444.1	715	Dryomys nitedula isolate Camlihemsin-Rize 1 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449443.1	715	Dryomys nitedula isolate Cat-Rize 2 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449442.1	715	Dryomys nitedula isolate Cat-Rize 1 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449441.1	715	Dryomys nitedula isolate Edirne 6 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449440.1	715	Dryomys nitedula isolate Edirne 5 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449439.1	715	Dryomys nitedula isolate Edirne 4 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449438.1	715	Dryomys nitedula isolate Edirne 3 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449437.1	715	Dryomys nitedula isolate Edirne 2 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449436.1	715	Dryomys nitedula isolate Edirne 1 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449435.1	715	Dryomys nitedula isolate Madenkoy-Nigde 2 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449434.1	715	Dryomys nitedula isolate Madenkoy-Nigde 1 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449433.1	715	Dryomys nitedula isolate Hacibeyli-Nigde NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449432.1	715	Dryomys nitedula isolate Eber-Afyon NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449431.1	715	Dryomys nitedula isolate Yaprakli-Cankiri NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449430.1	715	Dryomys nitedula isolate Bulancak-Giresun NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449429.1	715	Dryomys nitedula isolate Kumbag-Tekirdag NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449428.1	715	Dryomys nitedula isolate Cakalli-Samsun NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_GLIRIDAE_Dryomys_nitedula	MF449427.1	715	Dryomys nitedula isolate Pinarbasi-Kayseri NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial

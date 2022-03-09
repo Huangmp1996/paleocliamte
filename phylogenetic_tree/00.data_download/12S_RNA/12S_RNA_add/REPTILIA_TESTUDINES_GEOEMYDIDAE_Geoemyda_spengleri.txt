@@ -1,0 +1,6 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	NC_044641.1	17448	Geoemyda spengleri mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	MH748151.1	17448	Geoemyda spengleri mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	JN860612.1	1146	Geoemyda spengleri voucher ANUM26080305 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	AY434634.1	371	Geoemyda spengleri 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	EU030189.1	397	Geoemyda spengleri 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	AF043407.1	391	Geomyda spengleri 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

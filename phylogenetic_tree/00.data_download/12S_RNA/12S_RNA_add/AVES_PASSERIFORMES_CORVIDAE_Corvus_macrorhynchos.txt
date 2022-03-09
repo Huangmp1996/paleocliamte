@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	MN069302.1	16927	Corvus macrorhynchos intermedius mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	LC104778.1	181	Corvus macrorhynchos mitochondrial gene for 12S rRNA, partial sequence, bio_material: NSMT(National Science Museum, Tokyo)-DNA-50061
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	NC_027173.1	16927	Corvus macrorhynchos isolate SRI37 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	KR072661.1	17066	Corvus macrorhynchos isolate SRI38 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	KR057957.1	16927	Corvus macrorhynchos isolate SRI37 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	AB042345.1	397	Corvus macrorhynchos mitochondrial gene for 12S ribosomal RNA, partial sequence

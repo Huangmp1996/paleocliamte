@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_scabridus	HM802950.1	825	Gekko scabridus isolate YNDL08 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_scabridus	HM802949.1	825	Gekko scabridus isolate YNDL01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_scabridus	HM802948.1	825	Gekko scabridus isolate YNQJ05 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_scabridus	HM802947.1	825	Gekko scabridus isolate YNQJ01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_scabridus	HM802946.1	825	Gekko scabridus isolate YNYR07 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_scabridus	HM802945.1	825	Gekko scabridus isolate YNYR03 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,47 @@
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	JF718887.1	1082	Equus hemionus onager cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	JF718886.1	1140	Equus hemionus kulan cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	DQ464015.1	143	Equus hemionus isolate CH31 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	HM118851.1	16634	Equus hemionus mitochondrion, complete genome
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	GQ324585.1	143	Equus hemionus isolate CH28 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937192.1	210	Equus hemionus khur isolate kc33 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937191.1	260	Equus hemionus khur isolate kc32 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937190.1	200	Equus hemionus khur isolate kc31 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937189.1	239	Equus hemionus khur isolate kc30 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937188.1	214	Equus hemionus khur isolate kc29 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937187.1	210	Equus hemionus khur isolate kc28 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937186.1	210	Equus hemionus khur isolate kc27 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937185.1	233	Equus hemionus khur isolate kc26 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937184.1	121	Equus hemionus khur isolate kc25 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937183.1	264	Equus hemionus khur isolate kc24 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937182.1	264	Equus hemionus khur isolate kc23 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937181.1	260	Equus hemionus khur isolate kc22 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937180.1	260	Equus hemionus khur isolate kc21 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937179.1	260	Equus hemionus khur isolate kc20 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937178.1	260	Equus hemionus khur isolate kc19 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937177.1	260	Equus hemionus khur isolate kc18 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937176.1	264	Equus hemionus khur isolate kc17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937175.1	264	Equus hemionus khur isolate kc16 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937174.1	264	Equus hemionus khur isolate kc15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937173.1	264	Equus hemionus khur isolate kc14 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937172.1	248	Equus hemionus khur isolate kc13 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937171.1	242	Equus hemionus khur isolate kc12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937170.1	264	Equus hemionus khur isolate kc11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937169.1	255	Equus hemionus khur isolate kc10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937168.1	224	Equus hemionus khur isolate kc9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937167.1	200	Equus hemionus khur isolate kc8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937166.1	200	Equus hemionus khur isolate kc7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937165.1	200	Equus hemionus khur isolate kc6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937164.1	200	Equus hemionus khur isolate kc5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937163.1	206	Equus hemionus khur isolate kc4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937162.1	224	Equus hemionus khur isolate kc3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937161.1	212	Equus hemionus khur isolate kc2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KT937160.1	237	Equus hemionus khur isolate kc1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KJ490651.1	262	Equus hemionus khur isolate 7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KJ490650.1	262	Equus hemionus khur isolate 6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KJ490649.1	258	Equus hemionus khur isolate 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KJ490648.1	262	Equus hemionus khur isolate 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	KJ490647.1	262	Equus hemionus khur isolate 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	NC_018782.1	16381	Equus hemionus kulan isolate Ehemionus mitochondrion, complete genome
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	JX312728.1	16381	Equus hemionus kulan isolate Ehemionus mitochondrion, complete genome
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	JX312730.1	16379	Equus hemionus onager isolate O91 mitochondrion, complete genome
+MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	NC_016061.1	16634	Equus hemionus mitochondrion, complete genome

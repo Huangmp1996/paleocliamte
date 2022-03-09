@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	GQ481368.1	694	Anthus trivialis voucher UWBM 57886 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	GU571734.1	648	Anthus trivialis voucher BISE-Aves118 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	GU571733.1	648	Anthus trivialis voucher BISE-Aves298 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	GU571261.1	657	Anthus trivialis voucher NHMO-BC533 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	GU571260.1	751	Anthus trivialis voucher NHMO-BC54 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	GQ481370.1	694	Anthus trivialis voucher UWBM 51790 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	GQ481369.1	694	Anthus trivialis voucher UWBM 49488 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	GQ481367.1	694	Anthus trivialis voucher UWBM 46527 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_trivialis	KF946594.1	661	Anthus trivialis trivialis voucher Tissue553 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

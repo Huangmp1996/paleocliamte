@@ -1,0 +1,23 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164257.1	1140	Euroscaptor parvidens voucher ZMMU:S-195071 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164256.1	1140	Euroscaptor parvidens voucher ZIN:101902 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164255.1	1140	Euroscaptor parvidens voucher ZMMU:S-195070 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164254.1	1109	Euroscaptor parvidens voucher ZIN:101901 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164253.1	508	Euroscaptor parvidens voucher ZIN:102247 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164252.1	1140	Euroscaptor parvidens voucher ZIN:101923 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164251.1	1111	Euroscaptor parvidens voucher ZIN:101922 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164250.1	1139	Euroscaptor parvidens voucher ZIN:101921 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164249.1	1112	Euroscaptor parvidens voucher ZIN:101920 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KX164248.1	717	Euroscaptor parvidens voucher ZIN:102246 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	AB823122.1	1140	Euroscaptor parvidens mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1354/SIK0860
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	AB823121.1	1140	Euroscaptor parvidens mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1353/SIK0859
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	AB823120.1	1140	Euroscaptor parvidens mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1352/SIK0858
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	AB823119.1	1140	Euroscaptor parvidens mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1348/SIK0854
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	AB823118.1	1140	Euroscaptor parvidens mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1347/SIK0853
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	AB823117.1	1140	Euroscaptor parvidens mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1346/SIK0852
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KC481344.1	1140	Euroscaptor parvidens voucher ZIN96665 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KC481343.1	1093	Euroscaptor parvidens voucher ZIN96664 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KC481342.1	1105	Euroscaptor parvidens voucher ZIN96663 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KC481341.1	1125	Euroscaptor parvidens voucher ZIN98919 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KC481340.1	1140	Euroscaptor parvidens voucher ZIN98918 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KC481339.1	1122	Euroscaptor parvidens voucher ZIN98917 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Euroscaptor_parvidens	KC481338.1	1125	Euroscaptor parvidens voucher ZIN98916 cytochrome b (cytb) gene, partial cds; mitochondrial

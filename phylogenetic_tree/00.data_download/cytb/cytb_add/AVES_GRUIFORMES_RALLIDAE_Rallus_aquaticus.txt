@@ -1,0 +1,7 @@
+AVES_GRUIFORMES_RALLIDAE_Rallus_aquaticus	NC_041578.1	17149	Rallus aquaticus mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Rallus_aquaticus	MH229988.1	17149	Rallus aquaticus mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Rallus_aquaticus	AF172382.1	300	Rallus aquaticus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GRUIFORMES_RALLIDAE_Rallus_aquaticus	U77172.1	246	Rallus aquaticus cytochrome-b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_GRUIFORMES_RALLIDAE_Rallus_aquaticus	KC614115.1	451	Rallus aquaticus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Rallus_aquaticus	JQ342146.1	934	Rallus aquaticus isolate PTYJ2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Rallus_aquaticus	JQ342145.1	934	Rallus aquaticus isolate PTYJ1 cytochrome b (cytb) gene, partial cds; mitochondrial

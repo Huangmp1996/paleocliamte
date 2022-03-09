@@ -1,0 +1,23 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GQ481602.1	694	Coccothraustes coccothraustes voucher UWBM 58089 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GQ481601.1	694	Coccothraustes coccothraustes voucher UWBM 74326 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GQ481600.1	694	Coccothraustes coccothraustes voucher UWBM 83260 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GQ481599.1	685	Coccothraustes coccothraustes voucher UWBM 47236 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GQ481598.1	685	Coccothraustes coccothraustes voucher UWBM 75179 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GQ481597.1	681	Coccothraustes coccothraustes voucher UWBM 49326 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GQ481596.1	675	Coccothraustes coccothraustes voucher UWBM 60125 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KT803646.1	648	Coccothraustes coccothraustes isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GU571829.1	648	Coccothraustes coccothraustes voucher BISE-Aves188 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GU571828.1	648	Coccothraustes coccothraustes voucher BISE-Aves300 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GU571342.1	751	Coccothraustes coccothraustes voucher NHMO-BC266 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	GU571341.1	714	Coccothraustes coccothraustes voucher NHMO-BC244 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	EF515789.1	686	Coccothraustes coccothraustes voucher KRIBB752 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KM078789.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	AB843431.1	678	Coccothraustes coccothraustes mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO201-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	AB843430.1	676	Coccothraustes coccothraustes mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO202-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	AB843429.1	693	Coccothraustes coccothraustes mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO517-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	AB842662.1	653	Coccothraustes coccothraustes mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM132-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	AB842661.1	674	Coccothraustes coccothraustes mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM444-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	AB842660.1	654	Coccothraustes coccothraustes mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM497-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	AB842659.1	678	Coccothraustes coccothraustes mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM152-10
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	NC_025614.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KF946641.1	693	Coccothraustes coccothraustes voucher ZMA56212 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

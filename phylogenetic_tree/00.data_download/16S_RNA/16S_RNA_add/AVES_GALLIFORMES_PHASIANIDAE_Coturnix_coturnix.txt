@@ -1,0 +1,6 @@
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	MW574359.1	16700	Coturnix coturnix voucher FMNH 467848 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	MW486622.1	668	Coturnix coturnix isolate Qu2 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	MW475273.1	221	Coturnix coturnix isolate Qua1 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	X57245.1	2814	C.coturnix mitochondrial nd6 gene for NADH dehydrogenase and tRNA-Glu, tRNA-Phe, tRNA-Val, 12S rRNA & 16S rRNA genes
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	KC984276.1	217	Coturnix coturnix 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_coturnix	AF302070.1	1265	Coturnix coturnix 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

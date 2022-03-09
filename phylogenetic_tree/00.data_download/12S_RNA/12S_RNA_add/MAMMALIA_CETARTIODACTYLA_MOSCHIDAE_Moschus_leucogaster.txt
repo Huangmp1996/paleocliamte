@@ -1,0 +1,3 @@
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_leucogaster	NC_042604.1	16431	Moschus leucogaster mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_leucogaster	MG602790.1	16431	Moschus leucogaster mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_leucogaster	AY921577.1	956	Moschus leucogaster 12S ribosomal RNA gene, complete sequence; mitochondrial

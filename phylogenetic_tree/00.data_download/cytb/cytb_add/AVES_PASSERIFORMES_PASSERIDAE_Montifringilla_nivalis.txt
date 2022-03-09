@@ -1,0 +1,92 @@
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005609.1	1138	Montifringilla nivalis isolate MAR10186 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005608.1	1120	Montifringilla nivalis isolate MAR10185 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005601.1	1143	Montifringilla nivalis isolate MAR4842 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005600.1	1143	Montifringilla nivalis isolate MAR3112 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005599.1	1143	Montifringilla nivalis isolate MAR3110 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005598.1	1143	Montifringilla nivalis isolate MAR2426 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005597.1	1143	Montifringilla nivalis isolate MAR2208 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005596.1	1143	Montifringilla nivalis isolate MAR1776 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005595.1	1143	Montifringilla nivalis isolate MAR1534 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005594.1	1143	Montifringilla nivalis isolate MAR1533 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MZ005593.1	1143	Montifringilla nivalis isolate MAR11140 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MN337353.1	1038	Montifringilla nivalis isolate MAR3111 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	MN337352.1	1038	Montifringilla nivalis isolate MAR1532 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369117.1	340	Montifringilla nivalis nivalis isolate EPseq38 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369116.1	340	Montifringilla nivalis nivalis isolate EPseq37 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369115.1	340	Montifringilla nivalis nivalis isolate EPseq36 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369114.1	340	Montifringilla nivalis nivalis isolate EPseq35 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369113.1	340	Montifringilla nivalis nivalis isolate EPseq34 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369112.1	340	Montifringilla nivalis nivalis isolate EPseq33 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369111.1	340	Montifringilla nivalis nivalis isolate EPseq32 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369110.1	340	Montifringilla nivalis nivalis isolate EPseq31 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369109.1	340	Montifringilla nivalis nivalis isolate EPseq30 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369108.1	340	Montifringilla nivalis nivalis isolate EPseq29 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369107.1	340	Montifringilla nivalis nivalis isolate EPseq28 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369106.1	340	Montifringilla nivalis nivalis isolate EPseq27 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369105.1	340	Montifringilla nivalis nivalis isolate EPseq26 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369104.1	340	Montifringilla nivalis nivalis isolate EPseq25 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369103.1	340	Montifringilla nivalis nivalis isolate EPseq24 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369102.1	340	Montifringilla nivalis nivalis isolate EPseq23 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369101.1	340	Montifringilla nivalis nivalis isolate EPseq22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369100.1	340	Montifringilla nivalis nivalis isolate EPseq21 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369099.1	340	Montifringilla nivalis nivalis isolate EPseq20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369098.1	340	Montifringilla nivalis nivalis isolate EPseq19 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369097.1	340	Montifringilla nivalis nivalis isolate EPseq18 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369096.1	340	Montifringilla nivalis nivalis isolate EPseq17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369095.1	340	Montifringilla nivalis nivalis isolate EPseq16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369094.1	340	Montifringilla nivalis nivalis isolate EPseq15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369093.1	340	Montifringilla nivalis nivalis isolate EPseq14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369092.1	340	Montifringilla nivalis nivalis isolate EPseq13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369091.1	340	Montifringilla nivalis nivalis isolate EPseq12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369090.1	340	Montifringilla nivalis nivalis isolate EPseq11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369089.1	340	Montifringilla nivalis nivalis isolate EPseq10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369088.1	340	Montifringilla nivalis nivalis isolate EPseq9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369087.1	340	Montifringilla nivalis nivalis isolate EPseq8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369086.1	340	Montifringilla nivalis nivalis isolate EPseq7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369085.1	340	Montifringilla nivalis nivalis isolate EPseq6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369084.1	340	Montifringilla nivalis nivalis isolate EPseq5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369083.1	340	Montifringilla nivalis nivalis isolate EPseq4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369082.1	340	Montifringilla nivalis nivalis isolate EPseq3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369081.1	340	Montifringilla nivalis nivalis isolate EPseq2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369080.1	340	Montifringilla nivalis nivalis isolate EPseq1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369079.1	340	Montifringilla nivalis nivalis isolate CMseq26 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369078.1	340	Montifringilla nivalis nivalis isolate CMseq25 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369077.1	340	Montifringilla nivalis nivalis isolate CMseq24 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369076.1	340	Montifringilla nivalis nivalis isolate CMseq23 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369075.1	340	Montifringilla nivalis nivalis isolate CMseq22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369074.1	340	Montifringilla nivalis nivalis isolate CMseq21 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369073.1	340	Montifringilla nivalis nivalis isolate CMseq20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369072.1	340	Montifringilla nivalis nivalis isolate CMseq19 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369071.1	340	Montifringilla nivalis nivalis isolate CMseq18 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369070.1	340	Montifringilla nivalis nivalis isolate CMseq17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369069.1	340	Montifringilla nivalis nivalis isolate CMseq16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369068.1	340	Montifringilla nivalis nivalis isolate CMseq15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369067.1	340	Montifringilla nivalis nivalis isolate CMseq14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369066.1	340	Montifringilla nivalis nivalis isolate CMseq13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369065.1	340	Montifringilla nivalis nivalis isolate CMseq12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369064.1	340	Montifringilla nivalis nivalis isolate CMseq11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369063.1	340	Montifringilla nivalis nivalis isolate CMseq10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369062.1	340	Montifringilla nivalis nivalis isolate CMseq9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369061.1	340	Montifringilla nivalis nivalis isolate CMseq8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369060.1	340	Montifringilla nivalis nivalis isolate CMseq7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369059.1	340	Montifringilla nivalis nivalis isolate CMseq6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369058.1	340	Montifringilla nivalis nivalis isolate SAseq6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369057.1	340	Montifringilla nivalis nivalis isolate SAseq5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369056.1	340	Montifringilla nivalis nivalis isolate SAseq4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369055.1	340	Montifringilla nivalis nivalis isolate SAseq3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369054.1	340	Montifringilla nivalis nivalis isolate SAseq2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369053.1	340	Montifringilla nivalis nivalis isolate SAseq1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369052.1	340	Montifringilla nivalis nivalis isolate CPseq4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369051.1	340	Montifringilla nivalis nivalis isolate CMseq5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369050.1	340	Montifringilla nivalis nivalis isolate CMseq4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369049.1	340	Montifringilla nivalis nivalis isolate CMseq3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369048.1	340	Montifringilla nivalis nivalis isolate CMseq2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369047.1	340	Montifringilla nivalis nivalis isolate CMseq1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369046.1	340	Montifringilla nivalis nivalis isolate CPseq3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369045.1	340	Montifringilla nivalis nivalis isolate CPseq2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX369044.1	340	Montifringilla nivalis nivalis isolate CPseq1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KX109628.1	1041	Montifringilla nivalis voucher MTD-C64406 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	DQ244058.1	879	Montifringilla nivalis nivalis voucher QMNN cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	NC_025911.1	16923	Montifringilla nivalis mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	KJ148628.1	16923	Montifringilla nivalis mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Montifringilla_nivalis	JX236394.1	1108	Montifringilla nivalis groumgrzimaili cytochrome b (cytb) gene, partial cds; mitochondrial

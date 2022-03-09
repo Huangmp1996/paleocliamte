@@ -1,0 +1,16 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MW257240.1	16546	Melogale moschata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MN400429.1	16597	Melogale moschata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MH986733.1	553	Melogale moschata voucher IPEE RAS:SP1 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MH986732.1	553	Melogale moschata voucher IPEE RAS:M10 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MH986731.1	553	Melogale moschata voucher IPEE RAS:AVA13-169 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	HM106328.1	16587	Melogale moschata voucher YP6128 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AF498229.1	284	Melogale moschata rhodopsin (rho) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AF498158.1	1140	Melogale moschata cytochrome b (cyt b) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AF498205.1	622	Melogale moschata growth hormone receptor precursor (ghr) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AF498150.1	369	Melogale moschata nicotinic cholinergic receptor alpha polypeptide 1 precursor (chrna1) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AF498126.1	296	Melogale moschata apolipoprotein B-100 (apoB-100) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AF498181.1	416	Melogale moschata feline sarcoma proto-oncogene (c-fes) gene, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	KP726273.1	16497	Melogale moschata subaurantiaca voucher TESRI-S3911 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	NC_020644.1	16587	Melogale moschata voucher YP6128 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AB564118.1	612	Melogale moschata mitochondrial CYB gene for cytochrome b, partial cds, specimen_voucher: personal:Hitoshi Suzuki:HS2372
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AB564117.1	612	Melogale moschata mitochondrial CYB gene for cytochrome b, partial cds, specimen_voucher: personal:Alexei P. Kyukov:AK703

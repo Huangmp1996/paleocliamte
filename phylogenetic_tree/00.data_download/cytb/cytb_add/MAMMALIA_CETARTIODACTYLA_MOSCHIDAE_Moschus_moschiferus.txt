@@ -1,0 +1,11 @@
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	KT337321.1	16356	Moschus moschiferus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	FJ469675.1	16351	Moschus moschiferus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	EU216751.1	307	Moschus moschiferus cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	AY121995.1	1140	Moschus moschiferus cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	FJ666590.1	98	Moschus moschiferus isolate MD1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	AF026883.1	1140	Moschus moschiferus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	JN632662.1	16356	Moschus moschiferus isolate MA1177 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	NC_013753.1	16351	Moschus moschiferus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	FJ866607.1	141	Moschus moschiferus isolate MD1 ZFY gene, intron
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	FJ866602.1	168	Moschus moschiferus isolate MD1 ZFX gene, intron
+MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	AB019645.1	352	Moschus moschiferus mitochondrial gene for cytochrome b, partial cds, haplotype MOM

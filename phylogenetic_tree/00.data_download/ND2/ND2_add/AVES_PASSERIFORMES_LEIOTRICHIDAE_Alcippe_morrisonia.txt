@@ -1,0 +1,53 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	MK997491.1	605	Alcippe morrisonia voucher KIZ DHYJ221 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	MK997490.1	605	Alcippe morrisonia voucher KIZ DHYJ219 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	MK997489.1	605	Alcippe morrisonia voucher KIZ DHYJ226 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	MK997488.1	605	Alcippe morrisonia voucher KIZ DHYJ165 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	MK997487.1	605	Alcippe morrisonia voucher KIZ DHYJ220 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	MK997486.1	605	Alcippe morrisonia voucher KIZ DHYJ163 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	MK997485.1	605	Alcippe morrisonia voucher KIZ DHYJ142 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	KX376475.1	17788	Alcippe morrisonia hueti mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	JF756839.1	1029	Alcippe morrisonia voucher NTNU T0610 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154826.1	1041	Alcippe morrisonia schaefferi voucher AMNH 67 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154825.1	1041	Alcippe morrisonia schaefferi voucher AMNH 73 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154824.1	1041	Alcippe morrisonia schaefferi voucher AMNH 2443 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154823.1	1041	Alcippe morrisonia schaefferi voucher AMNH 12 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154822.1	1041	Alcippe morrisonia schaefferi voucher AMNH 19 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154821.1	1041	Alcippe morrisonia schaefferi voucher AMNH 41 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154820.1	1041	Alcippe morrisonia schaefferi voucher AMNH 44 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154819.1	1041	Alcippe morrisonia schaefferi voucher UKMNH 9933 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154818.1	1041	Alcippe morrisonia schaefferi voucher UKMNH 10103 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154817.1	1041	Alcippe morrisonia rufescentior voucher LSUMNS 51223 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154816.1	1041	Alcippe morrisonia rufescentior voucher LSUMNS 51228 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154815.1	1041	Alcippe morrisonia rufescentior voucher LSUMNS 51234 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154814.1	1041	Alcippe morrisonia rufescentior voucher LSUMNS 51235 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154813.1	1041	Alcippe morrisonia rufescentior voucher LSUMNS 51236 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154812.1	1041	Alcippe morrisonia rufescentior voucher LSUMNS 51237 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154806.1	1041	Alcippe morrisonia morrisonia voucher AMNH 3261 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154805.1	1041	Alcippe morrisonia morrisonia voucher AMNH 3262 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154804.1	1041	Alcippe morrisonia morrisonia voucher AMNH 3286 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154803.1	1041	Alcippe morrisonia morrisonia voucher AMNH 3285 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154802.1	1041	Alcippe morrisonia morrisonia voucher AMNH 3339 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154801.1	1041	Alcippe morrisonia morrisonia voucher AMNH 3340 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154800.1	1041	Alcippe morrisonia morrisonia voucher AMNH 337 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154799.1	1041	Alcippe morrisonia hueti voucher LSUMNS 51203 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154798.1	1041	Alcippe morrisonia hueti voucher LSUMNS 51207 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154797.1	1041	Alcippe morrisonia hueti voucher LSUMNS 51209 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154796.1	1041	Alcippe morrisonia hueti voucher LSUMNS 51213 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154795.1	1041	Alcippe morrisonia hueti voucher LSUMNS 51214 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154794.1	1041	Alcippe morrisonia hueti voucher LSUMNS 51215 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154793.1	1041	Alcippe morrisonia hueti voucher LSUMNS 51216 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154792.1	1041	Alcippe morrisonia hueti voucher LSUMNS 51208 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154791.1	1041	Alcippe morrisonia fratercula voucher CAS 92248 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154790.1	1041	Alcippe morrisonia fratercula voucher CAS 92250 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154789.1	1041	Alcippe morrisonia fratercula voucher CAS 92251 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154788.1	1041	Alcippe morrisonia fratercula voucher CAS 92253 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154787.1	1041	Alcippe morrisonia fratercula voucher CAS 92254 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154786.1	1041	Alcippe morrisonia fratercula voucher CAS 92252 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154785.1	1041	Alcippe morrisonia davidi voucher UKMNH 6641 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154784.1	1041	Alcippe morrisonia davidi voucher UKMNH 6644 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	EF154783.1	1041	Alcippe morrisonia davidi voucher UKMNH 6646 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	DQ861976.1	930	Alcippe morrisonia schaefferi isolate F88 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	DQ861958.1	1023	Alcippe morrisonia isolate A66 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	DQ861953.1	1023	Alcippe morrisonia morrisonia isolate A60 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	JN826472.1	1041	Alcippe morrisonia voucher KUNHM 6662 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_morrisonia	JN826471.1	1041	Alcippe morrisonia voucher AMNH DOT5142 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

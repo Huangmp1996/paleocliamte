@@ -1,0 +1,69 @@
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	NC_058002.1	17703	Pareas formosensis voucher LSU2020MLTWDT01 mitochondrion, complete genome
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW111481.1	977	Pareas formosensis voucher KIZ046804 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW111480.1	1077	Pareas formosensis voucher KIZ014472 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW531674.1	17703	Pareas formosensis voucher LSU2020MLTWDT01 mitochondrion, complete genome
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW287066.1	1110	Pareas formosensis voucher ZMMU R-16333 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW287065.1	1126	Pareas formosensis voucher ZMMU R-14072 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW287064.1	1126	Pareas formosensis voucher ZMMU R-13709 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW287063.1	1098	Pareas formosensis voucher ZMMU NAP-08868 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW287062.1	1110	Pareas formosensis voucher ZMMU R-16684 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW287061.1	1119	Pareas formosensis voucher H26-HAM01 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MW287060.1	1119	Pareas formosensis voucher NMNH 05637 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135089.1	1095	Pareas formosensis voucher GP2383 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135088.1	1095	Pareas formosensis voucher GP2196 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135076.1	1095	Pareas formosensis voucher GP3911 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135075.1	1095	Pareas formosensis voucher GP2384 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135074.1	1095	Pareas formosensis voucher GP2332 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135073.1	1095	Pareas formosensis voucher GP4659 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135072.1	1095	Pareas formosensis voucher GP4581 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135071.1	1095	Pareas formosensis voucher GP2170 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135070.1	1095	Pareas formosensis voucher GP2165 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135069.1	1095	Pareas formosensis voucher GP2164 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK135068.1	1095	Pareas formosensis voucher GP2146 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK201495.1	585	Pareas formosensis voucher CHS738 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK201478.1	585	Pareas formosensis voucher CHS697 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	MK201465.1	585	Pareas formosensis voucher CHS673 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	HQ528535.1	1005	Pareas formosensis isolate Xingou1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642194.1	1117	Pareas formosensis haplotype K34 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642193.1	1117	Pareas formosensis haplotype K33 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642192.1	1117	Pareas formosensis haplotype K32 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642191.1	1117	Pareas formosensis haplotype K31 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642190.1	1117	Pareas formosensis haplotype K30 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642189.1	1117	Pareas formosensis haplotype K29 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642188.1	1117	Pareas formosensis haplotype K28 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642187.1	1117	Pareas formosensis haplotype K27 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642186.1	1117	Pareas formosensis haplotype K26 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642185.1	1117	Pareas formosensis haplotype K25 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642184.1	1117	Pareas formosensis haplotype K24 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642183.1	1117	Pareas formosensis haplotype K23 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642182.1	1117	Pareas formosensis haplotype K22 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642181.1	1117	Pareas formosensis haplotype K21 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642180.1	1117	Pareas formosensis haplotype K20 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642179.1	1117	Pareas formosensis haplotype K19 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642178.1	1117	Pareas formosensis haplotype K18 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642177.1	1117	Pareas formosensis haplotype K17 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642176.1	1117	Pareas formosensis haplotype K16 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642175.1	1117	Pareas formosensis haplotype K15 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642174.1	1117	Pareas formosensis haplotype K14 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642173.1	1117	Pareas formosensis haplotype k13 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642172.1	1117	Pareas formosensis haplotype K12 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642171.1	1117	Pareas formosensis haplotype K11 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642170.1	1117	Pareas formosensis haplotype K10 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642169.1	1117	Pareas formosensis haplotype K09 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642168.1	1117	Pareas formosensis haplotype K08 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642167.1	1117	Pareas formosensis haplotype K07 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642166.1	1117	Pareas formosensis haplotype K06 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642165.1	1117	Pareas formosensis haplotype K05 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642164.1	1117	Pareas formosensis haplotype K04 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642163.1	1117	Pareas formosensis haplotype K03 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642162.1	1117	Pareas formosensis haplotype K02 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	KJ642161.1	1117	Pareas formosensis haplotype K01 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827694.1	1086	Pareas formosensis isolate tianquan2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827693.1	1086	Pareas formosensis isolate baoxing3 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827692.1	1086	Pareas formosensis isolate baoxing2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827691.1	1086	Pareas formosensis isolate tianquan1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827690.1	1050	Pareas formosensis isolate baoxing1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827688.1	1086	Pareas formosensis isolate taibei cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827687.1	1086	Pareas formosensis isolate taidong cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827686.1	1086	Pareas formosensis isolate taoyuan cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_formosensis	JF827685.1	1086	Pareas formosensis isolate yilan cytochrome b (cytb) gene, partial cds; mitochondrial

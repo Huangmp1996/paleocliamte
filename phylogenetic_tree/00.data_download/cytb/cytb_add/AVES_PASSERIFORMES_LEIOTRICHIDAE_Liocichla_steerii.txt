@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	EU447100.1	846	Liocichla steerii cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	JF756767.1	1143	Liocichla steerii voucher NTNU T1271 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	AF484863.1	422	Liocichla steerii cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	KR809495.1	400	Liocichla steerii isolate LSxx005a cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	KR809494.1	400	Liocichla steerii isolate LSxx004a cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	KR809493.1	400	Liocichla steerii isolate LSxx003a cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	KR809492.1	400	Liocichla steerii isolate LSxx002a cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	KR809491.1	400	Liocichla steerii isolate LSxx001a cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	JN827090.1	967	Liocichla steerii voucher AMNH DOT5198 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Liocichla_steerii	JN827089.1	967	Liocichla steerii voucher AMNH DOT5178 cytochrome b (CYTB) gene, partial cds; mitochondrial

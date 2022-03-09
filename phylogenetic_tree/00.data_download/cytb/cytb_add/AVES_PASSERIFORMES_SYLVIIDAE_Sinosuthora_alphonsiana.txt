@@ -1,0 +1,19 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	JF756711.1	1143	Paradoxornis alphonsianus yunnanensis voucher NTNU T1652 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	JF756710.1	1143	Paradoxornis alphonsianus yunnanensis voucher NTNU T1634 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	JF756709.1	1143	Paradoxornis alphonsianus stresemanni voucher NTNU T4290 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	JF756708.1	1143	Paradoxornis alphonsianus stresemanni voucher NTNU T4285 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	JF756707.1	1143	Paradoxornis alphonsianus stresemanni voucher NTNU T3163 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	JF756704.1	1143	Paradoxornis alphonsianus alphonsianus voucher NTNU T5341 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	JN827128.1	1143	Paradoxornis alphonsianus voucher KUNHM 11096 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552185.1	875	Paradoxornis alphonsianus yunnanensis michondrial partial cytb gene, specimen voucher 1634
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552184.1	875	Paradoxornis alphonsianus yunnanensis michondrial partial cytb gene, specimen voucher 1652
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552183.1	875	Paradoxornis alphonsianus alphonsianus michondrial partial cytb gene, specimen voucher 0113801138
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552177.1	875	Paradoxornis alphonsianus alphonsianus michondrial partial cytb gene, specimen voucher 0228302283
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552176.1	875	Paradoxornis alphonsianus alphonsianus michondrial partial cytb gene, specimen voucher 0113601136
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552172.1	875	Paradoxornis alphonsianus alphonsianus michondrial partial cytb gene, specimen voucher 0113301133
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552165.1	875	Paradoxornis alphonsianus alphonsianus michondrial partial cytb gene, specimen voucher 02276
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552164.1	875	Paradoxornis alphonsianus michondrial partial cytb gene, specimen voucher 01132
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552161.1	875	Paradoxornis alphonsianus michondrial partial cytb gene, specimen voucher 01129
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552160.1	875	Paradoxornis alphonsianus michondrial partial cytb gene, specimen voucher 01128
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552157.1	875	Paradoxornis alphonsianus michondrial partial cytb gene, specimen voucher 01124
+AVES_PASSERIFORMES_SYLVIIDAE_Sinosuthora_alphonsiana	FN552155.1	875	Paradoxornis alphonsianus michondrial partial cytb gene, specimen voucher 01122

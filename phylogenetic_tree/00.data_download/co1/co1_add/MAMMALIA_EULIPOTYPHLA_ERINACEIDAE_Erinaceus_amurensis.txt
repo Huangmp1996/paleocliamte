@@ -1,0 +1,11 @@
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KX964606.1	16941	Erinaceus amurensis mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP993006.1	516	Erinaceus amurensis isolate EA10 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP993005.1	516	Erinaceus amurensis isolate EA9 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP993004.1	516	Erinaceus amurensis isolate EA8 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP993003.1	516	Erinaceus amurensis isolate EA7 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP993002.1	516	Erinaceus amurensis isolate EA6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP993001.1	516	Erinaceus amurensis isolate EA5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP993000.1	516	Erinaceus amurensis isolate EA4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP992999.1	516	Erinaceus amurensis isolate EA3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP992998.1	516	Erinaceus amurensis isolate EA2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Erinaceus_amurensis	KP992997.1	516	Erinaceus amurensis isolate EA1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial

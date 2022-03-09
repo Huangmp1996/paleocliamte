@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	MZ424446.1	16740	Turdus obscurus mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	MZ337397.1	16739	Turdus obscurus mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	AY049511.1	1041	Turdus obscurus UAM9090 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	DQ911094.1	1035	Turdus obscurus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

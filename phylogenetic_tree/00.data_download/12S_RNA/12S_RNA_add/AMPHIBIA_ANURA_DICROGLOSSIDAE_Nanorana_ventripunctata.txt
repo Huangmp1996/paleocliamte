@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	MN012066.1	423	Nanorana ventripunctata isolate SH050538 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	NC_039094.1	18373	Nanorana ventripunctata mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	KY594708.1	18373	Nanorana ventripunctata mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	EU979779.1	368	Nanorana ventripunctata voucher SCUM045881WD 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	EU979717.1	411	Nanorana ventripunctata voucher SCUM045887WD 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	EU979716.1	411	Nanorana ventripunctata voucher SCUM045886WD 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	EU979715.1	411	Nanorana ventripunctata voucher SCUM045881WD 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	DQ118503.1	544	Nanorana ventripunctata voucher KizYP201 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	DQ118502.1	529	Nanorana ventripunctata voucher KizYP200 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	DQ118501.1	548	Nanorana ventripunctata voucher KizYP202 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	DQ118459.1	368	Nanorana ventripunctata voucher KizYP201 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	DQ118458.1	368	Nanorana ventripunctata voucher KizYP200 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	DQ118457.1	368	Nanorana ventripunctata voucher KizYP202 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,4 @@
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM246408.1	1037	Miniopterus magnater isolate YueN01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM246407.1	1037	Miniopterus magnater isolate HaiN01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM246406.1	1037	Miniopterus magnater isolate HaiN03 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MINIOPTERIDAE_Miniopterus_magnater	KM246405.1	1037	Miniopterus magnater isolate GD01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

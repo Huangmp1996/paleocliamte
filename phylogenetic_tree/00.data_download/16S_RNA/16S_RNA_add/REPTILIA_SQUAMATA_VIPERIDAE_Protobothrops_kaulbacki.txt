@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	MT764154.1	478	Protobothrops kaulbacki voucher CESS214 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	MW133313.1	655	Protobothrops kaulbacki voucher KIZ011065 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	MW133312.1	655	Protobothrops kaulbacki voucher KIZYPX27856 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	KY695463.1	17237	Protobothrops kaulbacki mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	KT220290.1	477	Protobothrops kaulbacki voucher GP 550 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	KT220271.1	661	Protobothrops kaulbacki voucher GP 550 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	NC_029166.1	17237	Protobothrops kaulbacki mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	KJ689382.1	17237	Protobothrops kaulbacki mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	DQ666055.1	487	Protobothrops kaulbacki voucher SYNU0400II30 16S ribosomal RNA gene, partial sequence; mitochondrial

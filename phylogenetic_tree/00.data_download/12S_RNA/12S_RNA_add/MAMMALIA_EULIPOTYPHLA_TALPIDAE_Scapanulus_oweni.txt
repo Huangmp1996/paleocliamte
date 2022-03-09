@@ -1,0 +1,6 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KX754512.1	821	Scapanulus oweni isolate Soweni_4 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KX754511.1	821	Scapanulus oweni isolate Soweni_3 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KX754510.1	821	Scapanulus oweni isolate Soweni_2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KX754509.1	821	Scapanulus oweni isolate Soweni_1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	NC_025777.1	16826	Scapanulus oweni voucher SAF_QL120129 mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Scapanulus_oweni	KM506754.1	16826	Scapanulus oweni voucher SAF_QL120129 mitochondrion, complete genome

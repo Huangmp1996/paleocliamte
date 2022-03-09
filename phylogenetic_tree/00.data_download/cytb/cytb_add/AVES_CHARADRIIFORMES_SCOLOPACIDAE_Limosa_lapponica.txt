@@ -1,0 +1,7 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MN356415.1	16732	Limosa lapponica mitochondrion, partial genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	NC_046765.1	16773	Limosa lapponica mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK341549.1	16773	Limosa lapponica mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KX371106.1	16732	Limosa lapponica baueri mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	AF285816.1	1019	Limosa lapponica isolate NCSM13192 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	AF285815.1	1019	Limosa lapponica cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	AF285814.1	1019	Limosa lapponica isolate UAM8832 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product

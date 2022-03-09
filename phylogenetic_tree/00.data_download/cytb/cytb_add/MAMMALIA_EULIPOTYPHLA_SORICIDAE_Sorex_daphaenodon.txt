@@ -1,0 +1,16 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	NC_044107.1	17407	Sorex daphaenodon mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	MK110676.1	17407	Sorex daphaenodon mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	MH332361.1	1140	Sorex daphaenodon voucher IBPN 6069 Cytochrome b (Cyt b) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	MH332354.1	1140	Sorex daphaenodon voucher IBPN NED50 Cytochrome b (Cyt b) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	JF439299.1	1140	Sorex daphaenodon isolate MSB:Mamm:149784 cytochrome b (Cyt b) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	HM036154.1	402	Sorex daphaenodon voucher Sd_Hent2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU223669.1	836	Sorex daphaenodon voucher MSB:Mamm:148704 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU564735.1	1134	Sorex daphaenodon voucher Sd Birobidgan F-1803 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU564734.1	1140	Sorex daphaenodon voucher Sd Mongolia7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU564733.1	1140	Sorex daphaenodon voucher Sd Mongolia4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GU564732.1	1140	Sorex daphaenodon voucher Sd Mongolia3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GQ355619.1	425	Sorex daphaenodon voucher Irkutsk-Sd475 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	GQ355618.1	425	Sorex daphaenodon voucher Irkutsk-Sd456 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	D85356.1	402	Sorex daphaenodon mitochondrial gene for cytochrome b, partial cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	D85342.1	402	Sorex daphaenodon mitochondrial gene for cytochrome b, partial cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_daphaenodon	AB175126.1	1140	Sorex daphaenodon mitochondrial gene for cytochrome b, complete cds

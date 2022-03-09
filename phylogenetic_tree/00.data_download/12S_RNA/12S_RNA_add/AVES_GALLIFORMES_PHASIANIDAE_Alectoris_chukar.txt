@@ -1,0 +1,17 @@
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MW487614.1	72	Alectoris chukar isolate Achukar3 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MW487613.1	146	Alectoris chukar isolate A.chukar2 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MW487612.1	156	Alectoris chukar isolate A.chukar1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KY829450.1	16688	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ752426.1	16686	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KT806484.1	16685	Alectoris chukar isolate HLSSJ1508 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KC749447.1	966	Alectoris chukar 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	NC_020585.1	16686	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FR691558.2	677	Alectoris chukar mitochondrial partial 12S rRNA gene
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FN675564.1	718	Alectoris chukar mitochondrial partial 12S rRNA gene, isolate 8
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FN675563.1	718	Alectoris chukar mitochondrial partial 12S rRNA gene, isolate 7
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FN675562.1	718	Alectoris chukar mitochondrial partial 12S rRNA gene, isolate 6
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FN675561.1	718	Alectoris chukar mitochondrial partial 12S rRNA gene, isolate 4
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FN675560.1	718	Alectoris chukar mitochondrial partial 12S rRNA gene, isolate 3
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FN675559.1	718	Alectoris chukar mitochondrial partial 12S rRNA gene, isolate 9
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	AM944504.1	718	Alectoris chukar mitochondrial partial 12S rRNA gene, isolate 2
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	AM944503.1	718	Alectoris chukar mitochondrial partial 12S rRNA gene, isolate 1

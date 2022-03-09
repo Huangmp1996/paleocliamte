@@ -1,0 +1,3 @@
+AVES_CHARADRIIFORMES_TURNICIDAE_Turnix_tanki	MW307919.1	17620	Turnix tanki mitochondrion, complete genome
+AVES_CHARADRIIFORMES_TURNICIDAE_Turnix_tanki	AY703823.1	606	Turnix tanki cytochrome b gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_TURNICIDAE_Turnix_tanki	JQ342155.1	934	Turnix tanki isolate HJSZC1 cytochrome b (cytb) gene, partial cds; mitochondrial

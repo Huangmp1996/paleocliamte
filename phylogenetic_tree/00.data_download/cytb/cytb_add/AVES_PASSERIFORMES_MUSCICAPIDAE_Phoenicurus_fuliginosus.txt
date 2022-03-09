@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	AY329473.1	993	Rhyacornis fuliginosa cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	GU930806.1	993	Rhyacornis fuliginosa voucher FMNH 347850 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	KJ024172.1	1143	Rhyacornis fuliginosa isolate RFU1983 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	HM633372.1	1076	Rhyacornis fuliginosa voucher DZUG-U14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_fuliginosus	DQ285435.1	983	Rhyacornis fuliginosa cytochrome b gene, partial cds; mitochondrial

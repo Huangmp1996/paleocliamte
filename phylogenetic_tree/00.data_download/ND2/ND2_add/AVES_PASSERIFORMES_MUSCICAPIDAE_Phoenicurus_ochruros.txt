@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	GU930814.1	1035	Phoenicurus ochruros voucher UWBM 64755 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KP173649.1	1041	Phoenicurus ochruros voucher USNM640702 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KP173648.1	1041	Phoenicurus ochruros voucher UWBM64739 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KP173647.1	1041	Phoenicurus ochruros voucher UWBM66744 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KP173646.1	1041	Phoenicurus ochruros voucher UWBM66329 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KJ455553.1	1041	Phoenicurus ochruros NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

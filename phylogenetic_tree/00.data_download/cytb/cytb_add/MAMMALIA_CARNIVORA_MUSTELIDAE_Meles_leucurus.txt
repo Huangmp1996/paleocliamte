@@ -1,0 +1,25 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	MW625811.1	16404	Meles leucurus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	NC_039173.1	16529	Meles leucurus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	MF497304.1	16529	Meles leucurus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KU361237.1	1140	Meles leucurus isolate H2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KU361236.1	1140	Meles leucurus isolate H1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KU707936.1	16496	Meles leucurus amurensis isolate Meles_leucurus_KOR002 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KU707935.1	16497	Meles leucurus amurensis isolate Meles_leucurus_KOR001 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KU052604.1	16497	Meles leucurus amurensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	HQ711951.1	1140	Meles meles leucurus isolate 342Ch cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	HQ711950.1	1140	Meles meles leucurus isolate 45Mo cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	HQ711949.1	1140	Meles meles leucurus isolate 331Or cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF944287.1	1140	Meles leucurus haplotype Dd02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF944286.1	1140	Meles leucurus haplotype Dd01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF944285.1	1140	Meles leucurus haplotype Ac01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF944284.1	1140	Meles leucurus haplotype Kn01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF944283.1	1140	Meles leucurus haplotype Sb01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891483.1	1140	Meles leucurus haplotype Wa01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891482.1	1140	Meles leucurus haplotype Sa02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891481.1	1140	Meles leucurus haplotype Sa01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891480.1	1140	Meles leucurus haplotype Jr02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891479.1	1140	Meles leucurus haplotype Jr01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891478.1	1140	Meles leucurus haplotype Wa02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891477.1	1140	Meles leucurus haplotype Sg01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891476.1	1140	Meles leucurus haplotype Sg03 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Meles_leucurus	KF891475.1	1140	Meles leucurus haplotype Sg02 cytochrome b (cytb) gene, complete cds; mitochondrial

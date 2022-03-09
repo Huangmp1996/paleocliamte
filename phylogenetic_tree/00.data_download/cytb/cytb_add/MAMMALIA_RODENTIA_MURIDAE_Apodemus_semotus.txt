@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_semotus	AB164040.1	1002	Apodemus semotus rag1 gene, partial cds, isolate: HS2
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_semotus	KY753944.1	1140	Apodemus semotus cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_semotus	EU349734.1	1136	Apodemus semotus voucher MVZ 180489 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_semotus	AJ311136.1	955	Apodemus semotus mitochondrial 12S rRNA gene, tissue library T-248
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_semotus	AB033694.1	1140	Apodemus semotus mitochondrial cytb gene for cytochrome b, partial cds

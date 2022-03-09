@@ -1,0 +1,4 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	NW_022681466.1	72259912	Trachypithecus francoisi isolate TF-2019V2 unplaced genomic scaffold, Tfra_2.0 Lachesis_group20, whole genome shotgun sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	MF872231.1	16554	Trachypithecus francoisi, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	NC_023970.1	16554	Trachypithecus francoisi mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	KJ174502.1	16554	Trachypithecus francoisi mitochondrion, complete genome

@@ -1,0 +1,27 @@
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	MN122823.1	16490	Strix aluco mitochondrion, partial genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	MG737402.1	318	Strix aluco isolate M005852 cytochrome b (CYB) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	EU436216.1	415	Strix aluco isolate katt1 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AY422982.1	960	Strix aluco cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AF115872.2	320	Strix aluco cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	EU601107.1	901	Strix aluco isolate L45 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	EU348934.1	948	Strix aluco wilkonskii voucher IPMB 6082 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	EU348933.1	948	Strix aluco sylvatica voucher IPMB 6160 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004045.1	1041	Strix aluco mitochondrial cytb gene, partial (isolate 1)
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004057.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 19
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004056.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 18
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004055.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 17
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004054.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 16
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004053.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 13
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004052.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004051.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 9
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004050.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 8
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004049.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 7
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004048.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 6
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004047.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 4
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ004046.1	1041	Strix aluco partial mitochondrial cytb gene, isolate 3
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ003911.1	300	Strix aluco partial mitochondrial cytb gene, isolate 21
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ003910.1	300	Strix aluco partial mitochondrial cytb gene, isolate 20
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ003909.1	300	Strix aluco partial mitochondrial cytb gene, isolate 15
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ003908.1	300	Strix aluco partial mitochondrial cytb gene, isolate 14
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ003907.1	300	Strix aluco partial mitochondrial cytb gene, isolate 5
+AVES_STRIGIFORMES_STRIGIDAE_Strix_aluco	AJ003906.1	300	Strix aluco partial mitochondrial cytb gene, isolate 2

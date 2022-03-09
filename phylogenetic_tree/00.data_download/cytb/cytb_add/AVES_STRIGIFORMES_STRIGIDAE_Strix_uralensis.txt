@@ -1,0 +1,14 @@
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	NC_038218.1	18708	Strix uralensis isolate C5 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	MG681082.1	18709	Strix uralensis isolate C7 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	MG681081.1	18708	Strix uralensis isolate C5 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB741546.1	1140	Strix uralensis mitochondrial cytb gene for cytochrome b, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	JX092123.1	1143	Strix uralensis cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	EU348939.1	948	Strix uralensis macroura voucher IPMB 6191 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	EU348938.1	948	Strix uralensis liturata voucher IPMB 6330 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AJ004063.1	1041	Strix uralensis partial mitochondrial cytb gene, isolate 6
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AJ004062.1	1041	Strix uralensis partial mitochondrial cytb gene, isolate 2
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AJ003920.1	300	Strix uralensis partial mitochondrial cytb gene, isolate 5
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AJ003919.1	300	Strix uralensis partial mitochondrial cytb gene, isolate 4
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AJ003918.1	300	Strix uralensis partial mitochondrial cytb gene, isolate 3
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AJ003917.1	300	Strix uralensis partial mitochondrial cytb gene, isolate 1
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	D38361.1	293	Strix uralensis gene for 18S rRNA, partial sequence

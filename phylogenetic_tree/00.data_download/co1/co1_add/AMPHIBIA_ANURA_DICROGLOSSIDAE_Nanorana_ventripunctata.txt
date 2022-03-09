@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	MN012329.1	539	Nanorana ventripunctata isolate SH050539 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	MN012328.1	539	Nanorana ventripunctata isolate SH050538 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	NC_039094.1	18373	Nanorana ventripunctata mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	KY594708.1	18373	Nanorana ventripunctata mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	KX807070.1	552	Nanorana ventripunctata isolate CIBYN2009070301 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_ventripunctata	KJ810985.1	539	Nanorana ventripunctata isolate YPX18343 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

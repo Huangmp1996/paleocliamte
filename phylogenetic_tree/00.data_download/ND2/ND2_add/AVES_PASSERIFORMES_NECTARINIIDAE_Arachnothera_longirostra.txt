@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908352.1	1029	Arachnothera longirostra buettikoferi voucher USNM:Birds:656319 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908333.1	1032	Arachnothera longirostra buettikoferi voucher USNM:Birds:656300 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908308.1	1032	Arachnothera longirostra buettikoferi voucher USNM:Birds:656272 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908242.1	1032	Arachnothera longirostra buettikoferi voucher USNM:Birds:656200 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908219.1	1031	Arachnothera longirostra buettikoferi voucher USNM:Birds:656176 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908216.1	1032	Arachnothera longirostra buettikoferi voucher USNM:Birds:656173 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908214.1	1023	Arachnothera longirostra buettikoferi voucher USNM:Birds:656171 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908198.1	1029	Arachnothera longirostra buettikoferi voucher USNM:Birds:656153 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MH908195.1	1032	Arachnothera longirostra buettikoferi voucher USNM:Birds:656150 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MG546348.1	586	Arachnothera longirostra voucher LSUMNS B-93538 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MG546347.1	961	Arachnothera longirostra voucher LSUMNS B-93535 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MG546346.1	1041	Arachnothera longirostra voucher LSUMNS B-79043 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MG546345.1	1041	Arachnothera longirostra voucher LSUMNS B-78987 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MG546344.1	1041	Arachnothera longirostra voucher LSUMNS B-74742 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	MG546343.1	1041	Arachnothera longirostra voucher LSUMNS B-46985 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JF956963.1	1041	Arachnothera longirostra isolate 24 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JF956956.1	1041	Arachnothera longirostra isolate 17 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JF956950.1	1041	Arachnothera longirostra isolate 11 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JF956944.1	1041	Arachnothera longirostra isolate 5 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JF956943.1	1041	Arachnothera longirostra isolate 4 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JF956940.1	1041	Arachnothera longirostra isolate 1 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JF956939.1	1041	Arachnothera longirostra isolate 55 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JF956937.1	1041	Arachnothera longirostra isolate 53 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126686.1	781	Arachnothera longirostra voucher HCL UI5 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126685.1	781	Arachnothera longirostra voucher LSUMNS B52237 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126684.1	781	Arachnothera longirostra voucher LSUMNS B57069 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126683.1	781	Arachnothera longirostra voucher LSUMNS B58207 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126682.1	781	Arachnothera longirostra voucher HCL SK6 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126681.1	781	Arachnothera longirostra voucher HCL UI4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126680.1	781	Arachnothera longirostra voucher LSUMNS B36446 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126679.1	781	Arachnothera longirostra voucher UNIMAS TA005 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126678.1	781	Arachnothera longirostra voucher UWBM 81902 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126677.1	781	Arachnothera longirostra voucher LSUMNS B58195 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126676.1	781	Arachnothera longirostra voucher LSUMNS B58194 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126675.1	781	Arachnothera longirostra voucher LSUMNS B58189 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126674.1	781	Arachnothera longirostra voucher LSUMNS B58176 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126673.1	781	Arachnothera longirostra voucher LSUMNS B58173 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126672.1	781	Arachnothera longirostra voucher LSUMNS B58171 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126671.1	781	Arachnothera longirostra voucher LSUMNS B58169 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126670.1	781	Arachnothera longirostra voucher LSUMNS B57008 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126669.1	781	Arachnothera longirostra voucher LSUMNS B52605 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126668.1	781	Arachnothera longirostra voucher LSUMNS B52244 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126667.1	781	Arachnothera longirostra voucher LSUMNS B52241 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126666.1	781	Arachnothera longirostra voucher LSUMNS B52239 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126665.1	781	Arachnothera longirostra voucher LSUMNS B52229 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126664.1	781	Arachnothera longirostra voucher LSUMNS B52218 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126663.1	781	Arachnothera longirostra voucher LSUMNS B52217 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126662.1	781	Arachnothera longirostra voucher LSUMNS B52215 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126661.1	781	Arachnothera longirostra voucher LSUMNS B52202 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126660.1	781	Arachnothera longirostra voucher LSUMNS B52200 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126659.1	781	Arachnothera longirostra voucher LSUMNS B52198 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126658.1	781	Arachnothera longirostra voucher LSUMNS B52186 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126657.1	781	Arachnothera longirostra voucher LSUMNS B52185 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126656.1	781	Arachnothera longirostra voucher LSUMNS B52176 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126655.1	781	Arachnothera longirostra voucher LSUMNS B52163 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126654.1	781	Arachnothera longirostra voucher LSUMNS B52159 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126653.1	781	Arachnothera longirostra voucher LSUMNS B52142 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126652.1	781	Arachnothera longirostra voucher LSUMNS B52141 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126651.1	781	Arachnothera longirostra voucher LSUMNS B52126 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126650.1	781	Arachnothera longirostra voucher LSUMNS B51147 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126649.1	781	Arachnothera longirostra voucher LSUMNS B51139 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126648.1	781	Arachnothera longirostra voucher LSUMNS B51134 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126647.1	781	Arachnothera longirostra voucher LSUMNS B51060 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126646.1	781	Arachnothera longirostra voucher LSUMNS B50994 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126645.1	781	Arachnothera longirostra voucher LSUMNS B50993 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126644.1	781	Arachnothera longirostra voucher LSUMNS B50323 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126643.1	781	Arachnothera longirostra voucher LSUMNS B38546 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126642.1	781	Arachnothera longirostra voucher LSUMNS B36322 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126641.1	781	Arachnothera longirostra voucher LSUMNS B36307 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126640.1	781	Arachnothera longirostra voucher LSUMNS B36306 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	JN126639.1	781	Arachnothera longirostra voucher LSUMNS B36305 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010906.1	781	Arachnothera longirostra voucher LSUMNS B52095 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010905.1	781	Arachnothera longirostra isolate E21 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010904.1	781	Arachnothera longirostra isolate D3 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010903.1	781	Arachnothera longirostra isolate D2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010902.1	781	Arachnothera longirostra voucher LSUMNS B52077 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010901.1	781	Arachnothera longirostra isolate BH21 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010900.1	781	Arachnothera longirostra voucher LSUMNS B52086 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010899.1	781	Arachnothera longirostra voucher LSUMNS B52063 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010898.1	781	Arachnothera longirostra voucher LSUMNS B52059 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010897.1	781	Arachnothera longirostra voucher NMNH B165 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010896.1	781	Arachnothera longirostra voucher UWBM 82077 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010895.1	781	Arachnothera longirostra voucher UWBM 82076 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010894.1	781	Arachnothera longirostra voucher UWBM 81972 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010893.1	781	Arachnothera longirostra voucher UWBM 81911 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010892.1	781	Arachnothera longirostra voucher UWBM 81901 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010891.1	781	Arachnothera longirostra voucher UWBM 67469 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010890.1	781	Arachnothera longirostra voucher LSUMNS B58219 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010889.1	781	Arachnothera longirostra voucher LSUMNS B52171 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010888.1	781	Arachnothera longirostra voucher LSUMNS B52143 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010887.1	781	Arachnothera longirostra voucher LSUMNS B52122 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010886.1	781	Arachnothera longirostra voucher LSUMNS B51143 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010885.1	781	Arachnothera longirostra voucher LSUMNS B51059 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010884.1	781	Arachnothera longirostra voucher LSUMNS B50992 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010883.1	781	Arachnothera longirostra voucher LSUMNS B47184 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010882.1	781	Arachnothera longirostra voucher LSUMNS B47073 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010881.1	781	Arachnothera longirostra voucher LSUMNS B47064 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010880.1	781	Arachnothera longirostra voucher LSUMNS B46994 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010879.1	781	Arachnothera longirostra voucher LSUMNS B46985 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Arachnothera_longirostra	HQ010878.1	781	Arachnothera longirostra voucher LSUMNS B46961 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

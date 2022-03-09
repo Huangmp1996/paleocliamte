@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	JF937590.1	16818	Gracula religiosa mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	EF484189.1	1551	Gracula religiosa isolate GrelB27008 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	EF484188.1	1551	Gracula religiosa isolate GindiAKD06 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	NC_015898.1	16818	Gracula religiosa mitochondrion, complete genome

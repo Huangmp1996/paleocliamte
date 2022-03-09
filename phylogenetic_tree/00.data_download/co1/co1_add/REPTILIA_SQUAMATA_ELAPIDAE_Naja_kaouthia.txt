@@ -1,0 +1,19 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	LC533893.1	520	Naja kaouthia NKA4 mitochondrial COI gene, partial sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT348390.1	679	Naja kaouthia voucher MZMU1195 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT348389.1	677	Naja kaouthia voucher MZMU1426 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT348388.1	673	Naja kaouthia voucher MZMU998 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT348387.1	675	Naja kaouthia voucher MZMU1170 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT348386.1	673	Naja kaouthia voucher MZMU982 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MT348385.1	673	Naja kaouthia voucher MZMU1163 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK064840.1	657	Naja kaouthia voucher CHS726 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK064598.1	657	Naja kaouthia voucher CHS026 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	LC431744.1	17203	Naja kaouthia mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MH107858.1	660	Naja kaouthia voucher PUCZM/X/SL787 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MH107857.1	675	Naja kaouthia voucher PUCZM/X/SL774 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MH107856.1	681	Naja kaouthia voucher PUCZM/X/SL773 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	AB920185.1	720	Naja kaouthia mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: NKA3
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	AB920184.1	724	Naja kaouthia mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: NKA2
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	AB920183.1	718	Naja kaouthia mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: NKA1
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	GU570594.1	245	Naja kaouthia voucher CFSLK Nk01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	GU570577.1	173	Naja kaouthia voucher CFSLK Nk01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	KM521202.1	634	Naja kaouthia isolate CUZSI81 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

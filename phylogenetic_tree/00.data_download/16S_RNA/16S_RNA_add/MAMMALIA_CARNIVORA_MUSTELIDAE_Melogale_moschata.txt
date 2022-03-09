@@ -1,0 +1,6 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MW257240.1	16546	Melogale moschata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MN400429.1	16597	Melogale moschata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MG996891.1	132	Melogale moschata voucher ROM_112340 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	HM106328.1	16587	Melogale moschata voucher YP6128 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	KP726273.1	16497	Melogale moschata subaurantiaca voucher TESRI-S3911 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	NC_020644.1	16587	Melogale moschata voucher YP6128 mitochondrion, complete genome

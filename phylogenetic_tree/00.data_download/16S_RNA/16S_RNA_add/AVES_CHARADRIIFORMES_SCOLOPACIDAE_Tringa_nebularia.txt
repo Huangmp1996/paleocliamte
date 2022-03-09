@@ -1,0 +1,4 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	MG883743.1	16689	Tringa nebularia voucher IN1793 mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	NC_044651.1	16682	Tringa nebularia mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	MK460251.1	16682	Tringa nebularia mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_nebularia	AY894165.1	890	Tringa nebularia 16S ribosomal RNA gene, partial sequence; mitochondrial

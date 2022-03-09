@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	DQ835616.1	17962	Amolops tormotus mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	NC_009423.1	17962	Amolops tormotus mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	EF426296.1	1065	Amolops tormotus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	EF453739.1	822	Odorrana tormotus voucher SCUM052069 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_tormota	EF453738.1	822	Odorrana tormotus voucher SCUM052068 12S ribosomal RNA gene, partial sequence; mitochondrial

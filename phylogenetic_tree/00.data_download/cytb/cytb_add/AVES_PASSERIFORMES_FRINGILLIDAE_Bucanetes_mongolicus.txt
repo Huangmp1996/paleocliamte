@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	MT210116.1	872	Eremopsaltria mongolica voucher UWBM46256 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	KM078792.1	16811	Eremopsaltria mongolica mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	NC_025616.1	16811	Eremopsaltria mongolica mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	AF342888.1	924	Eremopsaltria mongolica cytochrome b gene, partial cds; mitochondrial

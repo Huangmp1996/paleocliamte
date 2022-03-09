@@ -1,0 +1,22 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	LC541458.1	18340	Pernis ptilorhynchus orientalis HN0387 mitochondrial DNA, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424385.1	332	Pernis ptilorhyncus orientalis strain Pptiori15 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424384.1	332	Pernis ptilorhyncus orientalis strain Pptiori14 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424383.1	332	Pernis ptilorhyncus orientalis strain Pptiori12 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424382.1	332	Pernis ptilorhyncus orientalis strain Pptiori11 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424381.1	332	Pernis ptilorhyncus orientalis strain Pptiori10 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424380.1	332	Pernis ptilorhyncus orientalis strain Pptiori4 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424379.1	332	Pernis ptilorhyncus philippensis strain Pptiphi4 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424378.1	332	Pernis ptilorhyncus philippensis strain Pptiphi3 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424377.1	332	Pernis ptilorhyncus philippensis strain Pptiphi2 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424376.1	332	Pernis ptilorhyncus orientalis strain Pptiori16 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424375.1	332	Pernis ptilorhyncus ruficollis strain Pptiruf6 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424374.1	332	Pernis ptilorhyncus ruficollis strain Pptiruf3 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424373.1	332	Pernis ptilorhyncus ruficollis strain Pptiruf2 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424372.1	332	Pernis ptilorhyncus ptilorhyncus strain Pptipti3 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424371.1	332	Pernis ptilorhyncus ptilorhyncus strain Pptipti2 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424370.1	332	Pernis ptilorhyncus palawanensis strain Pptipal2 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424369.1	332	Pernis ptilorhyncus palawanensis strain Pptipal1 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424368.1	332	Pernis ptilorhyncus torquatus strain Pptitor7 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424367.1	332	Pernis ptilorhyncus torquatus strain Pptitor6 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424366.1	332	Pernis ptilorhyncus torquatus strain Pptitor3 cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AY424365.1	332	Pernis ptilorhyncus torquatus strain Pptitor1 cytochrome b gene, partial cds; mitochondrial

@@ -1,0 +1,7 @@
+MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	MH978908.1	16672	Otocolobus manul mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KX098455.1	399	Otocolobus manul 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KX098454.1	399	Otocolobus manul 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	NC_028323.1	16626	Otocolobus manul isolate OMA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KP202295.1	16626	Otocolobus manul isolate OMA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KR132585.1	17009	Otocolobus manul mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KJ001803.1	381	Otocolobus manul 12S ribosomal RNA gene, partial sequence; mitochondrial

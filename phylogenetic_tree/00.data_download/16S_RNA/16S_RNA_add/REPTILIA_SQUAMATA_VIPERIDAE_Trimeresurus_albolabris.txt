@@ -1,0 +1,37 @@
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MG561511.1	1096	Trimeresurus albolabris isolate 35alboEJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MG561509.1	1108	Trimeresurus albolabris isolate 33alboCJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MG561508.1	1096	Trimeresurus albolabris isolate 32alboCJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MG561485.1	1100	Trimeresurus albolabris isolate 9alboWJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MN746427.1	464	Trimeresurus albolabris voucher GV2019111705 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MN746426.1	464	Trimeresurus albolabris voucher GV2019111704 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK494175.1	534	Trimeresurus albolabris 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK194204.1	1302	Trimeresurus albolabris voucher CHS764 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK194170.1	1303	Trimeresurus albolabris voucher CHS721 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MK194130.1	1300	Trimeresurus albolabris voucher CHS661 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	MG561510.1	1100	Trimeresurus albolabris isolate 34alboCJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216330.1	473	Trimeresurus albolabris voucher KIZ:06371 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216329.1	458	Trimeresurus albolabris voucher GP 3568 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216328.1	470	Trimeresurus albolabris voucher GP 3567 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216327.1	457	Trimeresurus albolabris voucher GP 3566 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216326.1	469	Trimeresurus albolabris voucher GP 3565 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216284.1	538	Trimeresurus albolabris voucher KIZ:06371 12S small subunit ribosomal RNA, tRNA-Val gene, and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216283.1	626	Trimeresurus albolabris voucher KIZ:05191 12S small subunit ribosomal RNA, tRNA-Val gene, and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216282.1	625	Trimeresurus albolabris voucher GP 3568 12S small subunit ribosomal RNA, tRNA-Val gene, and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216281.1	611	Trimeresurus albolabris voucher GP 3567 12S small subunit ribosomal RNA, tRNA-Val gene, and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216280.1	611	Trimeresurus albolabris voucher GP 3566 12S small subunit ribosomal RNA, tRNA-Val gene, and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KT216279.1	611	Trimeresurus albolabris voucher GP 3565 12S small subunit ribosomal RNA, tRNA-Val gene, and 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	NC_022820.1	17220	Trimeresurus albolabris mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	KF311102.1	17220	Trimeresurus albolabris mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	GQ428467.1	461	Cryptelytrops albolabris isolate B410 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	GQ428465.1	497	Cryptelytrops albolabris isolate B20 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	GQ428464.1	494	Cryptelytrops albolabris isolate B191 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AY059560.1	462	Trimeresurus albolabris isolate A229 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AY352744.1	449	Trimeresurus albolabris isolate A157 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AY352743.1	492	Trimeresurus albolabris isolate B183 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AY352742.1	494	Trimeresurus albolabris isolate A104 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AF517182.1	497	Trimeresurus albolabris isolate A165 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AF517179.1	497	Trimeresurus albolabris isolate B117 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AF517178.1	469	Trimeresurus albolabris isolate B22 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AF517173.1	494	Trimeresurus albolabris isolate B47 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AF517171.1	494	Trimeresurus albolabris isolate B6 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_VIPERIDAE_Trimeresurus_albolabris	AF057242.1	496	Trimeresurus albolabris 16S large subunit ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

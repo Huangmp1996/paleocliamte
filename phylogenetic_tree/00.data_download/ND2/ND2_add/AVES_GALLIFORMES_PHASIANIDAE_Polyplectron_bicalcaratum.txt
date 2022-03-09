@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	EU417812.1	16702	Polyplectron bicalcaratum mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	EF569479.1	1041	Polyplectron bicalcaratum NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	DQ768263.1	1041	Polyplectron bicalcaratum NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	NC_012900.1	16702	Polyplectron bicalcaratum mitochondrion, complete genome

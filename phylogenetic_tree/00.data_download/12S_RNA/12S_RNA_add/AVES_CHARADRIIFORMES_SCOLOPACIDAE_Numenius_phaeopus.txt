@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	NC_030507.1	17091	Numenius phaeopus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	KP308149.1	17091	Numenius phaeopus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	JQ962996.1	492	Numenius phaeopus variegatus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	AF285805.1	462	Numenius phaeopus isolate UAM10237 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	AF285804.1	462	Numenius phaeopus isolate UAM8212 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

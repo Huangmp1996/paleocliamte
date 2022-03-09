@@ -1,0 +1,23 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	MK533705.1	16905	Phylloscopus coronatus mitochondrion, partial genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	GQ482424.1	694	Phylloscopus coronatus voucher UWBM 47430 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	GQ482423.1	694	Phylloscopus coronatus voucher UWBM 72206 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	GQ482422.1	691	Phylloscopus coronatus voucher UWBM 72043 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	GQ482421.1	687	Phylloscopus coronatus voucher UWBM 74909 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	GQ482420.1	681	Phylloscopus coronatus voucher UWBM 47429 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	HQ608874.1	1176	Phylloscopus coronatus isolate Y17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	HQ608834.1	1143	Phylloscopus coronatus isolate Y14 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843693.1	693	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO531-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843692.1	682	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO225-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843691.1	655	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO226-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843077.1	687	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM459-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843076.1	668	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM456-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843075.1	657	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM637-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843074.1	700	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM734-11
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843073.1	694	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM733-11
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843072.1	710	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM732-11
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843071.1	680	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM731-11
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843070.1	691	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM730-11
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843069.1	661	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM446-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843068.1	701	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM439-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843067.1	719	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM485-10
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB843066.1	671	Phylloscopus coronatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM143-10

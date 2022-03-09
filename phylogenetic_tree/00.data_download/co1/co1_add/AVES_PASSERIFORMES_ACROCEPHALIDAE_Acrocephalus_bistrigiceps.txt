@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	GQ481259.1	694	Acrocephalus bistrigiceps voucher UWBM 47067 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	GQ481258.1	694	Acrocephalus bistrigiceps voucher UWBM 74817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	GQ481257.1	694	Acrocephalus bistrigiceps voucher UWBM 59967 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	GQ481256.1	672	Acrocephalus bistrigiceps voucher UWBM 47551 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	HQ608891.1	1176	Acrocephalus bistrigiceps isolate Y34 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	HQ608855.1	1143	Acrocephalus bistrigiceps isolate Y35 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	AB843333.1	660	Acrocephalus bistrigiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO192-10
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	AB843332.1	631	Acrocephalus bistrigiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO328-10
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	AB843331.1	690	Acrocephalus bistrigiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO480-10
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	AB842513.1	654	Acrocephalus bistrigiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM130-10
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	AB842512.1	698	Acrocephalus bistrigiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM548-10
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	AB842511.1	649	Acrocephalus bistrigiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM121-10
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	AB842510.1	666	Acrocephalus bistrigiceps mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM125-10
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	KJ453128.1	662	Acrocephalus bistrigiceps isolate 6659 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_bistrigiceps	KJ453127.1	662	Acrocephalus bistrigiceps isolate 6629 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

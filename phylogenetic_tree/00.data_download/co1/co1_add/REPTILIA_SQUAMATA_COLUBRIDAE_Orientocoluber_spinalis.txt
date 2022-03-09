@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	NC_049067.1	17196	Orientocoluber spinalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	MT304473.1	17196	Orientocoluber spinalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	AY541512.1	407	Hierophis spinalis voucher MHNG 2443.5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	AY541511.1	407	Hierophis spinalis voucher MVZ 211019 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Orientocoluber_spinalis	JQ798880.1	662	Hierophis spinalis voucher NIBRRP0000100287 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

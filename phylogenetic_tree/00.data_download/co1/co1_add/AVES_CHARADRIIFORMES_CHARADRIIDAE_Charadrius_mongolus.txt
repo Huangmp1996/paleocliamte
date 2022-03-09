@@ -1,0 +1,4 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_mongolus	MW298528.1	16919	Charadrius mongolus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_mongolus	GQ481572.1	694	Charadrius mongolus voucher UWBM 51109 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_mongolus	GQ481571.1	694	Charadrius mongolus voucher UWBM 51110 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_mongolus	GQ481570.1	694	Charadrius mongolus voucher UWBM 44445 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

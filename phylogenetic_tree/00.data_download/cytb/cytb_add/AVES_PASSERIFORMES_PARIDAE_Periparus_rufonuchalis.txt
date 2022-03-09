@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PARIDAE_Periparus_rufonuchalis	DQ217887.1	633	Parus rufonuchalis isolate MAR 90131 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_rufonuchalis	DQ217886.1	633	Parus rufonuchalis isolate MAR 90130 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_rufonuchalis	DQ217857.1	633	Parus rufonuchalis isolate MAR 1568 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Periparus_rufonuchalis	AY308729.1	1042	Parus rufonuchalis FMNH 395843 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Periparus_rufonuchalis	KJ456376.1	1026	Periparus rufonuchalis cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,14 @@
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	NC_015526.1	16692	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	MT410882.1	16773	Phasianus colchicus mitochondrion, partial genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	NW_022205364.1	9890974	Phasianus colchicus isolate SZU-A5-319 unplaced genomic scaffold, ASM414374v1 scaffold55_cov57, whole genome shotgun sequence
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	EU492389.1	1334	Phasianus colchicus haplotype GCC-A NADH dehydrogenase subunit 6 (ND6) gene, partial cds; tRNA-Glu gene, D-loop, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	FJ752430.1	16683	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KU049722.1	16688	Phasianus colchicus alaschanicus isolate HLSHJZ16688 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	JF739859.1	16692	Phasianus colchicus voucher AHNU:A0035 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KT364526.1	16687	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KF469291.1	441	Phasianus colchicus isolate 11 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	AY447962.1	315	Phasianus colchicus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	FN675613.1	642	Phasianus colchicus mitochondrial partial 12S rRNA gene, isolate 1
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	EF027319.1	145	Phasianus colchicus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	AM902515.1	717	Phasianus colchicus partial 12S rRNA gene
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	U83742.1	965	Phasianus colchicus 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene

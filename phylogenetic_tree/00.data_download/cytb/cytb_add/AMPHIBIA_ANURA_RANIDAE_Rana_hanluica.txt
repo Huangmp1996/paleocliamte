@@ -1,0 +1,17 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939139.1	733	Rana hanluica voucher KIZYPX1182 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939137.1	733	Rana hanluica voucher KIZYPX1177 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939136.1	733	Rana hanluica voucher KIZYPX1172 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939135.1	733	Rana hanluica voucher KIZ03477 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939124.1	733	Rana hanluica voucher KIZYPX10656 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939123.1	733	Rana hanluica voucher KIZYPX10654 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939115.1	733	Rana hanluica voucher KIZHuN06 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939114.1	733	Rana hanluica voucher KIZHuN024 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939113.1	733	Rana hanluica voucher KIZHuN01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	JF939112.1	733	Rana hanluica voucher KIZGX84 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	KX269338.1	834	Rana hanluica isolate KIZGX07112915 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	KF020629.1	750	Rana hanluica voucher SYNU0700490 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	KF204666.1	810	Rana hanluica voucher SYNU07100493 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	KF204665.1	810	Rana hanluica voucher SYNU07110532 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	KF204664.1	810	Rana hanluica voucher SYNU07100427 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	KF204663.1	588	Rana hanluica voucher SYNU07100492 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_hanluica	KF204662.1	588	Rana hanluica voucher SYNU07100491 cytochrome b (cytb) gene, partial cds; mitochondrial

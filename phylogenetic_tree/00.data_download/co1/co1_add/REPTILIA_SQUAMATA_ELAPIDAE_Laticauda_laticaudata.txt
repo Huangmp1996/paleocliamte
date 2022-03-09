@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	KX985568.1	566	Laticauda laticaudata voucher CAS:214444 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	KX985567.1	545	Laticauda laticaudata voucher CAS:214443 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	NC_036053.1	17209	Laticauda laticaudata mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	KY496323.1	17209	Laticauda laticaudata mitochondrion, complete genome

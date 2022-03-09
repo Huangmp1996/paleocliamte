@@ -1,0 +1,5 @@
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	MN122856.1	16537	Ardea cinerea mitochondrion, partial genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AY871309.1	547	Ardea cinerea oocyte maturation factor Mos gene, partial cds
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	NC_025900.1	18703	Ardea cinerea mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KJ190947.1	18703	Ardea cinerea mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AF407136.1	972	Ardea cinerea 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

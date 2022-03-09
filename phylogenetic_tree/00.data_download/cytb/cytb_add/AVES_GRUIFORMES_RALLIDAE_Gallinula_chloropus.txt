@@ -1,0 +1,12 @@
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	EF682000.1	307	Gallinula chloropus indica isolate DG2210 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	EF681999.1	202	Gallinula chloropus orientalis isolate DG2209 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	EF681995.1	307	Gallinula chloropus isolate DG2077 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	EF681994.1	307	Gallinula chloropus isolate DG2073 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	EF681992.1	307	Gallinula chloropus brachyptera isolate DG1890 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	EF681991.1	202	Gallinula chloropus brachyptera isolate DG1889 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	EF681990.1	202	Gallinula chloropus brachyptera isolate DG1888 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	DQ485911.1	1143	Gallinula chloropus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	HQ896036.1	17027	Gallinula chloropus mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	JQ342138.1	934	Gallinula chloropus isolate HSJ2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	JQ342137.1	934	Gallinula chloropus isolate HSJ1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	NC_015236.1	17027	Gallinula chloropus mitochondrion, complete genome

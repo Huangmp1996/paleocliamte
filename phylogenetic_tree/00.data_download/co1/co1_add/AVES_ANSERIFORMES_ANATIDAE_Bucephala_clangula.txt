@@ -1,0 +1,13 @@
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	MW849283.1	16625	Bucephala clangula voucher CPD1109 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	EU525336.1	807	Bucephala clangula voucher 1B-4024 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	GU571768.1	695	Bucephala clangula voucher BISE-Aves255 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	GU571767.1	695	Bucephala clangula voucher BISE-Aves77 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	GU571288.1	748	Bucephala clangula voucher NHMO-BC111 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	GQ481404.1	694	Bucephala clangula voucher UWBM 56566 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	DQ433385.1	696	Bucephala clangula voucher CWS70122 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	DQ432778.1	623	Bucephala clangula voucher USNM B97498 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	DQ434496.1	492	Bucephala clangula voucher 1510-10465 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	DQ434495.1	664	Bucephala clangula voucher 1510-10004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	DQ434494.1	667	Bucephala clangula voucher 1510-10123 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	DQ434493.1	669	Bucephala clangula voucher 1510-10009 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Bucephala_clangula	DQ434492.1	689	Bucephala clangula voucher 1510-10045 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

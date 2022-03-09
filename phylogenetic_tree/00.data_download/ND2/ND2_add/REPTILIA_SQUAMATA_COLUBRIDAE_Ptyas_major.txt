@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_major	MK199060.1	1026	Ptyas major voucher CHS742 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_major	MK199032.1	1026	Ptyas major voucher CHS693 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_major	MK198875.1	1026	Ptyas major voucher CHS121 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_major	MK198873.1	1026	Ptyas major voucher CHS119 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_major	NC_028048.1	17217	Cyclophiops major mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_major	KF148620.1	17217	Cyclophiops major mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Ptyas_major	KC347452.1	1022	Cyclophiops major isolate FTB2310 NADH hydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

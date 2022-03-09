@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_leucolophus	MH265818.1	633	Garrulax leucolophus patkaicus voucher MNHN 1929-2 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_leucolophus	MH265817.1	633	Garrulax leucolophus diardi voucher NRM 20046870 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_leucolophus	JQ174917.1	652	Garrulax leucolophus voucher USNM:Birds:620523 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_leucolophus	JQ174916.1	652	Garrulax leucolophus voucher USNM:Birds:620310 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

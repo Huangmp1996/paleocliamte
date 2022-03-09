@@ -1,0 +1,47 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	AF342882.1	924	Pinicola enucleator cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075469.1	1143	Pinicola enucleator leucura voucher UAM 13086 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075468.1	1143	Pinicola enucleator voucher UAM 6745 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075467.1	1143	Pinicola enucleator voucher UAM 6737 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075466.1	1143	Pinicola enucleator voucher UAM 6483 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075465.1	1143	Pinicola enucleator voucher UAM 6479 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075464.1	1143	Pinicola enucleator voucher UAM 10157 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075463.1	1143	Pinicola enucleator voucher UAM 8794 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075462.1	1143	Pinicola enucleator voucher UAM 15182 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075461.1	1143	Pinicola enucleator voucher UAM 11287 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075460.1	1143	Pinicola enucleator voucher UAM 11286 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075459.1	1143	Pinicola enucleator voucher UAM 11285 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075458.1	1143	Pinicola enucleator carlottae voucher UAM 6758 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075457.1	1143	Pinicola enucleator voucher UAM 6649 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075456.1	1143	Pinicola enucleator carlottae voucher UAM 17959 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075455.1	1143	Pinicola enucleator carlottae voucher UAM 17958 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075454.1	1143	Pinicola enucleator carlottae voucher UAM 11653 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075453.1	1143	Pinicola enucleator carlottae voucher UAM 11040 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075452.1	1143	Pinicola enucleator carlottae voucher UAM 10175 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075451.1	1143	Pinicola enucleator carlottae voucher UAM 10174 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075450.1	1143	Pinicola enucleator carlottae voucher UAM 9266 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075449.1	1143	Pinicola enucleator carlottae voucher UAM 9265 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075448.1	1143	Pinicola enucleator carlottae voucher UAM 9264 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075447.1	1143	Pinicola enucleator carlottae voucher UAM 8532 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075446.1	1143	Pinicola enucleator carlottae voucher UAM 8504 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075445.1	1143	Pinicola enucleator carlottae voucher UAM 8503 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075444.1	1143	Pinicola enucleator carlottae voucher UAM 8502 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075443.1	1143	Pinicola enucleator carlottae voucher UAM 8501 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075442.1	1143	Pinicola enucleator voucher UWBM 60608 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075441.1	1143	Pinicola enucleator voucher UWBM 60576 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	EU075440.1	1143	Pinicola enucleator voucher UWBM D. R. Froehlich 176 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HQ284687.1	886	Pinicola enucleator enucleator isolate Pine6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HQ284686.1	884	Pinicola enucleator enucleator isolate Pine5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HQ284685.1	891	Pinicola enucleator enucleator isolate Pine4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HQ284684.1	898	Pinicola enucleator enucleator isolate Pine3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HQ284683.1	902	Pinicola enucleator enucleator isolate Pine2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	HQ284682.1	762	Pinicola enucleator enucleator isolate Pine1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KM078781.1	16818	Pinicola enucleator mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	NC_025609.1	16818	Pinicola enucleator mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF209057.1	1143	Pinicola enucleator voucher UWBM 56352 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF209056.1	1143	Pinicola enucleator voucher UWBM 56351 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF209055.1	1143	Pinicola enucleator voucher UAM 7362 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF209054.1	1143	Pinicola enucleator voucher UAM 8167 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF209053.1	1143	Pinicola enucleator voucher UAM 21235 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF209052.1	1143	Pinicola enucleator voucher UAM 22364 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF209051.1	1143	Pinicola enucleator voucher UAM 8794 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pinicola_enucleator	KF209050.1	1143	Pinicola enucleator voucher UAM 10945 cytochrome b (cytb) gene, complete cds; mitochondrial

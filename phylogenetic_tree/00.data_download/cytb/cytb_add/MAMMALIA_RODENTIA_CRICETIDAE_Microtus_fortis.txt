@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MK805519.1	16310	Microtus fortis pelliceus voucher MD2018144 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF429801.1	824	Microtus fortis cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099558.1	1100	Microtus fortis voucher ZMMU S-192188 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099557.1	1046	Microtus fortis voucher ZMMU S-192180 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099556.1	1047	Microtus fortis voucher ZMMU S-192179 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099555.1	1100	Microtus fortis voucher ZMMU S-187540 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099554.1	1140	Microtus fortis voucher ZMMU S-180437 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099553.1	1097	Microtus fortis isolate C-43-3889 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099526.1	1100	Microtus fortis voucher ZMMU S-186340 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099525.1	1128	Microtus fortis voucher ZMMU S-180436 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	MF099524.1	1100	Microtus fortis voucher ZMMU S-192178 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	EU126809.1	1143	Microtus fortis isolate 682 cytochrome b (cytB) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	EU126807.1	1128	Microtus fortis isolate 597 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	AF163894.1	1143	Microtus fortis cytochrome B (cytB) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	JF261174.1	16310	Microtus fortis fortis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	FJ986308.1	1140	Microtus fortis voucher S-182280 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	FJ986307.1	1140	Microtus fortis voucher S-178587 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	FJ986306.1	1139	Microtus fortis voucher S-179172 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KP190248.1	1140	Microtus fortis isolate NMHLE043 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KP190247.1	1140	Microtus fortis isolate NMHLE032 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ857282.1	1140	Microtus fortis isolate Fuyuan-Mf-275 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ857281.1	1140	Microtus fortis isolate Fuyuan-Mf-270 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081954.1	1143	Microtus fortis isolate JL_2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081953.1	1143	Microtus fortis isolate JL_1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081952.1	1143	Microtus fortis isolate HLJ_3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081951.1	1143	Microtus fortis isolate HLJ_2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081950.1	1143	Microtus fortis isolate HLJ_1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081949.1	1143	Microtus fortis isolate FJ_20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081948.1	1143	Microtus fortis isolate FJ_19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081947.1	1143	Microtus fortis isolate FJ_18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081946.1	1143	Microtus fortis isolate FJ_17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081945.1	1143	Microtus fortis isolate FJ_16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081944.1	1143	Microtus fortis isolate FJ_15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081943.1	1143	Microtus fortis isolate FJ_14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081942.1	1143	Microtus fortis isolate FJ_13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081941.1	1143	Microtus fortis isolate FJ_12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081940.1	1143	Microtus fortis isolate FJ_11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081939.1	1143	Microtus fortis isolate FJ_10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081938.1	1143	Microtus fortis isolate FJ_9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081937.1	1143	Microtus fortis isolate FJ_8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081936.1	1143	Microtus fortis isolate FJ_7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081935.1	1143	Microtus fortis isolate FJ_6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081934.1	1143	Microtus fortis isolate FJ_5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081933.1	1143	Microtus fortis isolate FJ_4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081932.1	1143	Microtus fortis isolate FJ_3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081931.1	1143	Microtus fortis isolate FJ_2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081930.1	1143	Microtus fortis isolate FJ_1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081929.1	1143	Microtus fortis isolate GX_20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081928.1	1143	Microtus fortis isolate GX_19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081927.1	1143	Microtus fortis isolate GX_18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081926.1	1143	Microtus fortis isolate GX_17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081925.1	1143	Microtus fortis isolate GX_16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081924.1	1143	Microtus fortis isolate GX_15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081923.1	1143	Microtus fortis isolate GX_14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081922.1	1143	Microtus fortis isolate GX_13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081921.1	1143	Microtus fortis isolate GX_12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081920.1	1143	Microtus fortis isolate GX_11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081919.1	1143	Microtus fortis isolate GX_10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081918.1	1143	Microtus fortis isolate GX_9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081917.1	1143	Microtus fortis isolate GX_8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081916.1	1143	Microtus fortis isolate GX_7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081915.1	1143	Microtus fortis isolate GX_6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081914.1	1143	Microtus fortis isolate GX_5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081913.1	1143	Microtus fortis isolate GX_4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081912.1	1143	Microtus fortis isolate GX_3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081911.1	1143	Microtus fortis isolate GX_2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081910.1	1143	Microtus fortis isolate GX_1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081909.1	1143	Microtus fortis isolate HN_19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081908.1	1143	Microtus fortis isolate HN_18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081907.1	1143	Microtus fortis isolate HN_17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081906.1	1143	Microtus fortis isolate HN_16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081905.1	1143	Microtus fortis isolate HN_15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081904.1	1143	Microtus fortis isolate HN_14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081903.1	1143	Microtus fortis isolate HN_13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081902.1	1143	Microtus fortis isolate HN_12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081901.1	1143	Microtus fortis isolate HN_11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081900.1	1143	Microtus fortis isolate HN_10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081899.1	1143	Microtus fortis isolate HN_9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081898.1	1143	Microtus fortis isolate HN_8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081897.1	1143	Microtus fortis isolate HN_7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081896.1	1143	Microtus fortis isolate HN_6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081895.1	1143	Microtus fortis isolate HN_5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081894.1	1143	Microtus fortis isolate HN_4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081893.1	1143	Microtus fortis isolate HN_3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081892.1	1143	Microtus fortis isolate HN_2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081891.1	1143	Microtus fortis isolate HN_1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081890.1	1143	Microtus fortis isolate NX_20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081889.1	1143	Microtus fortis isolate NX_19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081888.1	1143	Microtus fortis isolate NX_18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081887.1	1143	Microtus fortis isolate NX_17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081886.1	1143	Microtus fortis isolate NX_16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081885.1	1143	Microtus fortis isolate NX_15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081884.1	1143	Microtus fortis isolate NX_14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081883.1	1143	Microtus fortis isolate NX_13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081882.1	1143	Microtus fortis isolate NX_12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081881.1	1143	Microtus fortis isolate NX_11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081880.1	1143	Microtus fortis isolate NX_10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081879.1	1143	Microtus fortis isolate NX_9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081878.1	1143	Microtus fortis isolate NX_8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_fortis	KJ081877.1	1143	Microtus fortis isolate NX_7 cytochrome b (cytb) gene, complete cds; mitochondrial

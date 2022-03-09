@@ -1,0 +1,33 @@
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MT921853.1	2213	Sylvirana guentheri 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MT560389.1	559	Sylvirana guentheri isolate D566 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MT560388.1	561	Sylvirana guentheri isolate D565 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MT560387.1	556	Sylvirana guentheri isolate D564 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MT560386.1	562	Sylvirana guentheri isolate D563 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MT560385.1	560	Sylvirana guentheri isolate D562 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MN248533.1	18711	Sylvirana guentheri mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KF185060.1	1049	Sylvirana guentheri voucher HNNU 060435 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	DQ283267.1	1061	Sylvirana guentheri voucher AMNH A163942 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	DQ283265.1	2406	Sylvirana guentheri voucher AMNH A161190 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KX269219.1	1945	Sylvirana guentheri isolate SCUMH002CJ 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KU840582.1	551	Sylvirana guentheri clone 16SJR6 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KU840581.1	551	Sylvirana guentheri clone 16SF13 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KU840580.1	551	Sylvirana guentheri clone 16SS15 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR264040.1	1426	Sylvirana guentheri voucher A163941 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR264039.1	1430	Sylvirana guentheri voucher A163940 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR827773.1	409	Sylvirana guentheri voucher 2007.6250 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR827772.1	409	Sylvirana guentheri voucher 2007.6264 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR827771.1	402	Sylvirana guentheri voucher 294D 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	NC_024748.1	19053	Hylarana guentheri mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KM035413.1	19053	Hylarana guentheri mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	AB859216.1	1601	Hylarana guentheri mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	AY322325.1	746	Rana guentheri 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	AY322287.1	551	Rana guentheri 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	EU754863.1	534	Rana guentheri isolate RH060198 16S ribosomal RNA gene, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	EU754862.1	534	Rana guentheri isolate RH060208 16S ribosomal RNA gene, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	EU754861.1	534	Rana guentheri isolate RH060057 16S ribosomal RNA gene, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	EU754860.1	534	Rana guentheri isolate RH060007 16S ribosomal RNA gene, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	DQ360001.1	542	Rana guentheri voucher SCUMH002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	AF315151.1	551	Rana guentheri 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	AF315126.1	386	Rana guentheri 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	AF206476.1	1360	Rana guentheri voucher ROM 12573 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	AF285215.1	563	Rana guentheri TZ829 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

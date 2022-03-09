@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	LC532223.1	16971	Acrocephalus orientalis mitochondrial DNA, nearly complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	NC_046418.1	17960	Acrocephalus orientalis mitochondrion, complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	MG681103.1	17960	Acrocephalus orientalis mitochondrion, complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	GQ481272.1	694	Acrocephalus orientalis voucher UWBM 59966 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	GQ481271.1	694	Acrocephalus orientalis voucher UWBM 59985 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	GQ481270.1	694	Acrocephalus orientalis voucher UWBM 71718 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	GQ481269.1	684	Acrocephalus orientalis voucher UWBM 75559 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	GQ481268.1	678	Acrocephalus orientalis voucher UWBM 74814 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	JF499074.1	694	Acrocephalus orientalis voucher USNM:641820 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	JF499073.1	668	Acrocephalus orientalis voucher USNM:641892 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	HQ608889.1	1176	Acrocephalus orientalis isolate Y32 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	HQ608853.1	1143	Acrocephalus orientalis isolate Y33 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB843334.1	688	Acrocephalus orientalis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO175-10
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB842514.1	716	Acrocephalus orientalis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM044-08
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	KJ453143.1	662	Acrocephalus orientalis isolate 6675 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

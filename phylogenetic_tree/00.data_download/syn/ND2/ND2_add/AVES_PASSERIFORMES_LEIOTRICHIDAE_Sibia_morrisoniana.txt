@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_morrisoniana	GU139521.1	967	Actinodura morrisoniana voucher NTNU T0197 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_morrisoniana	GU139520.1	967	Actinodura morrisoniana voucher NTNU T0166 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_morrisoniana	JN826461.1	1041	Actinodura morrisoniana voucher AMNH DOT5226 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_morrisoniana	JN826460.1	1041	Actinodura morrisoniana voucher AMNH DOT5203 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

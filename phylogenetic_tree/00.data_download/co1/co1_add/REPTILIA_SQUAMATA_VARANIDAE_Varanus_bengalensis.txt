@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MN239900.1	636	Varanus bengalensis isolate V1 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	EU621818.1	644	Varanus bengalensis isolate VB01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	JN714165.1	653	Varanus bengalensis isolate WF-RFDF-05-1 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	KF766939.1	685	Varanus bengalensis voucher S.L3/284 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

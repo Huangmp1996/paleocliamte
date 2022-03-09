@@ -1,0 +1,43 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	MN122865.1	17051	Zootoca vivipara mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825267.1	860	Zootoca vivipara isolate ZV10-PF387 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825266.1	860	Zootoca vivipara isolate ZV9-PF382 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825265.1	860	Zootoca vivipara isolate ZV8-PF361 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825264.1	860	Zootoca vivipara isolate ZV7-PF359 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825263.1	860	Zootoca vivipara isolate ZV6-PF357 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825262.1	860	Zootoca vivipara isolate ZV5-PF327 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825261.1	860	Zootoca vivipara isolate ZV4-PF324 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825260.1	860	Zootoca vivipara isolate ZV3-PF288 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825259.1	860	Zootoca vivipara isolate ZV2-PF284 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KR825258.1	860	Zootoca vivipara isolate ZV1-PF279 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	NC_026867.1	17046	Zootoca vivipara mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KM401599.1	17046	Zootoca vivipara mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593891.1	912	Zootoca vivipara isolate ND2hapQ NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593890.1	912	Zootoca vivipara isolate ND2hapY NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593889.1	912	Zootoca vivipara isolate ND2hapX NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593888.1	912	Zootoca vivipara isolate ND2hapR NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593887.1	912	Zootoca vivipara isolate ND2hapS1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593886.1	912	Zootoca vivipara isolate ND2hapS NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593885.1	912	Zootoca vivipara isolate ND2hapZ NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593884.1	912	Zootoca vivipara isolate ND2hapV1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593883.1	912	Zootoca vivipara isolate ND2hapV NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593882.1	912	Zootoca vivipara isolate ND2hapH NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593881.1	912	Zootoca vivipara isolate ND2hapT NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593880.1	912	Zootoca vivipara isolate ND2hapT1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593879.1	912	Zootoca vivipara isolate ND2hapI NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593878.1	912	Zootoca vivipara isolate ND2hapJ NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593877.1	912	Zootoca vivipara isolate ND2hapD NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593876.1	912	Zootoca vivipara isolate ND2hapG NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593875.1	912	Zootoca vivipara isolate ND2hapL NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593874.1	912	Zootoca vivipara isolate ND2hapA NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593873.1	912	Zootoca vivipara isolate ND2hapB NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593872.1	912	Zootoca vivipara isolate ND2hapL1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593871.1	912	Zootoca vivipara isolate ND2hapK NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593870.1	912	Zootoca vivipara isolate ND2hapC NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593869.1	912	Zootoca vivipara isolate ND2hapM NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593868.1	912	Zootoca vivipara isolate ND2hapN NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593867.1	912	Zootoca vivipara isolate ND2hapE NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593866.1	912	Zootoca vivipara isolate ND2hapF NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593865.1	912	Zootoca vivipara isolate ND2hapW NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593864.1	912	Zootoca vivipara isolate ND2hapX1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593863.1	912	Zootoca vivipara isolate ND2hapU NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Zootoca_vivipara	KF593862.1	912	Zootoca vivipara isolate ND2hapP NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

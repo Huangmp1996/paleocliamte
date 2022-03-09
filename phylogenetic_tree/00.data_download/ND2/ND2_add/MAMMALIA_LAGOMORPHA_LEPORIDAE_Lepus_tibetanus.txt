@@ -1,0 +1,4 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN548102.1	16691	Lepus tibetanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN539746.1	16753	Lepus tibetanus pamirensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	MN539747.1	16809	Lepus tibetanus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tibetanus	LC073697.1	17597	Lepus tibetanus pamirensis mitochondrial DNA, complete genome

@@ -1,0 +1,5 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_dasymallus	MN511421.1	1140	Pteropus dasymallus voucher PD_3543 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_dasymallus	MN511420.1	1140	Pteropus dasymallus voucher PD_3542 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_dasymallus	MN511419.1	1121	Pteropus dasymallus voucher PNM-6984 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_dasymallus	NC_002612.1	16705	Pteropus dasymallus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_dasymallus	AB042770.1	16705	Pteropus dasymallus mitochondrial DNA, complete genome

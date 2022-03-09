@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	NC_053059.1	16827	Sitta europaea mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	MN356255.1	16827	Sitta europaea mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	AB042386.1	463	Sitta europaea mitochondrial gene for 16S ribosomal RNA, partial sequence
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	AF135055.1	494	Sitta europaea 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_SITTIDAE_Sitta_europaea	AJ224503.1	375	Sitta europaea mitochondrion 16S rRNA gene, partial

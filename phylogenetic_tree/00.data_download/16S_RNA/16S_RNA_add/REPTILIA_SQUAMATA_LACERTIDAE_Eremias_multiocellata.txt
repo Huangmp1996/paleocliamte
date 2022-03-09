@@ -1,0 +1,34 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	MK261077.1	17333	Eremias multiocellata mitochondrion, partial genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	KJ664798.1	18996	Eremias multiocellata mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	NC_025304.1	19385	Eremias multiocellata mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	KM257724.1	19385	Eremias multiocellata mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615624.1	562	Eremias multiocellata isolate GE0708003 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615623.1	562	Eremias multiocellata isolate GE0708017 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615622.1	562	Eremias multiocellata isolate GE0708004 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615621.1	562	Eremias multiocellata isolate GE070822 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615620.1	562	Eremias multiocellata isolate GE0708021 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615619.1	562	Eremias multiocellata isolate GE0708026 16S ribosomal RNA gene, partial sequence
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615618.1	562	Eremias multiocellata isolate GE0708005 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615617.1	562	Eremias multiocellata isolate GE0708027 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615616.1	562	Eremias multiocellata isolate GE0708023 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	HQ615615.1	562	Eremias multiocellata isolate GE0708016 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ658839.1	519	Eremias multiocellata isolate M 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ658838.1	519	Eremias multiocellata isolate D 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ658837.1	518	Eremias multiocellata isolate K 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ658836.1	519	Eremias multiocellata isolate P 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ658835.1	520	Eremias multiocellata isolate A 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ658834.1	520	Eremias multiocellata isolate L 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494845.1	551	Eremias multiocellata isolate Mbt173 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494844.1	552	Eremias multiocellata isolate Mlz171 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494843.1	552	Eremias multiocellata isolate Mbt169 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494842.1	553	Eremias multiocellata isolate Mlz168 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494841.1	552	Eremias multiocellata isolate Mzy153 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494840.1	553	Eremias multiocellata isolate Myj54 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494839.1	553	Eremias multiocellata isolate Msck44 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494838.1	554	Eremias multiocellata isolate Msck43 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494837.1	554	Eremias multiocellata isolate Mqi34 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494836.1	553	Eremias multiocellata isolate Mqi33 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494835.1	555	Eremias multiocellata isolate Myc142 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494834.1	554	Eremias multiocellata isolate Myc141 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494833.1	554	Eremias multiocellata isolate Mde139 16S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_multiocellata	DQ494832.1	556	Eremias multiocellata isolate Mmz117 16S ribosomal RNA gene, complete sequence; mitochondrial

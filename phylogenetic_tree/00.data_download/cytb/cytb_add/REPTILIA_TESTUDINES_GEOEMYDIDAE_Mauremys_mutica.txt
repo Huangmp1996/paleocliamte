@@ -1,0 +1,15 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP100056.1	16775	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	EU787023.1	1070	Mauremys mutica voucher MVZ230487 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	DQ453753.1	16609	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AY434628.1	1140	Mauremys mutica cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AY434622.1	1140	Mauremys mutica kami cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	HQ442417.1	992	Mauremys mutica voucher ANUM26080101 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AB920785.1	959	Mauremys mutica kami mitochondrial cyt b gene for cytochrome b, partial cds, specimen_voucher: KUZ:R57227
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AB920784.1	959	Mauremys mutica mitochondrial cyt b gene for cytochrome b, partial cds, specimen_voucher: KUZ:R55693
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938959.1	16500	Mauremys mutica isolate taiwan mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938958.1	16494	Mauremys mutica isolate hainan mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938957.1	16759	Mauremys mutica isolate beigui mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	NC_009330.1	16609	Mauremys mutica mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	FJ770585.1	1070	Mauremys mutica voucher MVZ230476 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AJ564460.1	1036	Mauremys mutica mitochondrial partial cytb gene for cytochrome b
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	AJ564459.1	1036	Mauremys mutica mitochondrial partial cytb gene for cytochrome b

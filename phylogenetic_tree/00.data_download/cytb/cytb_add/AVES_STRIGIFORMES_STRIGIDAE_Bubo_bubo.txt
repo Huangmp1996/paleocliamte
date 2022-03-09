@@ -1,0 +1,61 @@
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MN206975.1	18956	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK470709.1	1034	Bubo bubo hispanus isolate 9120_IPMB cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MN122921.1	17691	Bubo bubo mitochondrion, partial genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656287.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656286.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656285.1	18954	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656284.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656283.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656282.1	18954	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656281.1	18954	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656280.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656279.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656278.1	18949	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656277.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656276.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656275.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656274.1	18951	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MK656273.1	18952	Bubo bubo mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	NC_038219.1	18952	Bubo bubo isolate D166 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	MG681083.1	18952	Bubo bubo isolate D166 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU436215.1	415	Bubo bubo isolate hubro10 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AY422977.1	959	Bubo bubo kiautschensis isolate 2 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AY422976.1	959	Bubo bubo kiautschensis isolate 1 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AF172386.1	300	Bubo bubo cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AB918148.1	16250	Bubo bubo mitochondrial DNA, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AB741543.1	1140	Bubo bubo mitochondrial cytb gene for cytochrome b, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348883.1	948	Bubo bubo yenisseensis voucher IPMB 9581 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348882.1	948	Bubo bubo turcomanus voucher IPMB 6115 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348881.1	948	Bubo bubo swinhoei voucher IPMB 9571 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348880.1	948	Bubo bubo sibiricus voucher IPMB 9580 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348879.1	948	Bubo bubo interpositus voucher IPMB 6077 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348878.1	948	Bubo bubo bubo voucher IPMB 6320 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348973.1	1041	Bubo bubo yenisseensis voucher IPMB 9581 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348972.1	1037	Bubo bubo turcomanus voucher IPMB 6115 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348971.1	1041	Bubo bubo swinhoei voucher IPMB 9571 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348970.1	1041	Bubo bubo sibiricus voucher IPMB 9580 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	EU348969.1	1041	Bubo bubo interpositus voucher IPMB 6077 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003969.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 26)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003968.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 25)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003967.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 21)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003966.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 20)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003965.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 18)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003964.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 17)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003963.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 15)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003962.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 14)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003961.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 7)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003960.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 5)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003959.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 4)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003958.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 3)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003957.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 2)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003956.1	1041	Bubo bubo mitochondrial cytb gene, partial (isolate 1)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003955.1	1041	Bubo bubo interpositus mitochondrial cytb gene, partial (isolate 1)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003857.1	300	Bubo bubo turcomanus mitochondrial cytb gene, partial (isolate 1)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003856.1	300	Bubo bubo interpositus mitochondrial cytb gene, partial (isolate 2)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003855.1	300	Bubo bubo mitochondrial cytb gene, partial (isolate 28)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003854.1	300	Bubo bubo mitochondrial cytb gene, partial (isolate 27)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003853.1	300	Bubo bubo mitochondrial cytb gene, partial (isolate 24)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003852.1	300	Bubo bubo mitochondrial cytb gene, partial (isolate 23)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003851.1	300	Bubo bubo mitochondrial cytb gene, partial (isolate 22)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003850.1	300	Bubo bubo mitochondrial cytb gene, partial (isolate 16)
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_bubo	AJ003849.1	300	Bubo bubo mitochondrial cytb gene, partial (isolate 9)

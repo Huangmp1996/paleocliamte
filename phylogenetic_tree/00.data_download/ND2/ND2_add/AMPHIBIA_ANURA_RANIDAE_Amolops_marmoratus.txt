@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_marmoratus	MW292241.1	990	Amolops marmoratus isolate CAS221675 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_marmoratus	MN958831.1	890	Amolops marmoratus voucher YPX18232 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_marmoratus	MN958830.1	890	Amolops marmoratus voucher CAS240879 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_marmoratus	MN958767.1	836	Amolops marmoratus voucher FMNH271696 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_marmoratus	MN958766.1	890	Amolops marmoratus voucher KIZ013411 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_marmoratus	MN958713.1	890	Amolops marmoratus voucher KIZ048431 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_marmoratus	FJ417205.1	1061	Amolops marmoratus voucher CAS 230228 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_marmoratus	EU861567.1	1061	Amolops marmoratus voucher CAS 230228 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial

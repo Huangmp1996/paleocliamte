@@ -1,0 +1,48 @@
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	MT140463.1	1113	Zosterops palpebrosus voucher AMNH_DOT5746 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	MT140462.1	1113	Zosterops palpebrosus siamensis voucher AMNH_DOT6512 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	MT140461.1	1113	Zosterops palpebrosus siamensis voucher AMNH_DOT2659 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627657.1	307	Zosterops palpebrosus williamsoni voucher 1A15155 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627656.1	307	Zosterops palpebrosus williamsoni voucher 1A15154 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627655.1	307	Zosterops palpebrosus siamensis voucher 1A01746 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627654.1	307	Zosterops palpebrosus siamensis voucher 1A01744 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627653.1	307	Zosterops palpebrosus siamensis voucher 1A01741 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627652.1	307	Zosterops palpebrosus siamensis voucher 1A04218 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627651.1	307	Zosterops palpebrosus siamensis voucher 1A08214 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627650.1	307	Zosterops palpebrosus siamensis voucher 1A08209 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627649.1	307	Zosterops palpebrosus williamsoni voucher A33811 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627648.1	307	Zosterops palpebrosus williamsoni voucher A33810 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627647.1	307	Zosterops palpebrosus williamsoni voucher A33809 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627646.1	307	Zosterops palpebrosus williamsoni voucher A33808 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627645.1	307	Zosterops palpebrosus palpebrosus voucher NA0089 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627644.1	307	Zosterops palpebrosus williamsoni voucher 1A01814 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627643.1	307	Zosterops palpebrosus williamsoni voucher 1A03729 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627642.1	307	Zosterops palpebrosus williamsoni voucher 1A01821 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627641.1	307	Zosterops palpebrosus williamsoni voucher 1A01819 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627640.1	307	Zosterops palpebrosus williamsoni voucher 1A01818 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627639.1	307	Zosterops palpebrosus siamensis voucher 1A03899 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627638.1	307	Zosterops palpebrosus erwini voucher 1A04422 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627637.1	307	Zosterops palpebrosus erwini voucher 1A04416 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627636.1	307	Zosterops palpebrosus erwini voucher 1A04421 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627635.1	307	Zosterops palpebrosus erwini voucher 1A04429 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627634.1	307	Zosterops palpebrosus erwini voucher 1A04426 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627633.1	307	Zosterops palpebrosus williamsoni voucher 1A12410 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KY627630.1	307	Zosterops palpebrosus siamensis voucher 1A04708 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	EU447105.1	846	Zosterops palpebrosus palpebrosus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	DQ837522.1	1143	Zosterops palpebrosus voucher GLGS1816 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702869.1	1143	Zosterops palpebrosus voucher 51123 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702868.1	1143	Zosterops palpebrosus voucher 51104 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702867.1	1143	Zosterops palpebrosus voucher 51037 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702866.1	1143	Zosterops palpebrosus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702865.1	1143	Zosterops palpebrosus voucher 51201 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702864.1	1143	Zosterops palpebrosus voucher 51241 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702863.1	1143	Zosterops palpebrosus voucher 51269 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702862.1	1143	Zosterops palpebrosus voucher 51074 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702861.1	1143	Zosterops palpebrosus voucher 51227 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702860.1	1143	Zosterops palpebrosus voucher 51105 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702859.1	1143	Zosterops palpebrosus voucher 51255 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ702858.1	1143	Zosterops palpebrosus voucher 51041 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	KJ456519.1	1143	Zosterops palpebrosus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	DQ328350.1	311	Zosterops palpebrosus egregius isolate BMNH 1964.26.1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	DQ328349.1	311	Zosterops palpebrosus palpebrosus isolate RF1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	DQ328348.1	311	Zosterops palpebrosus palpebrosus isolate RF2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_palpebrosus	AB248719.1	1125	Zosterops palpebrosus melanura mitochondrial cytb gene for cytochrome b, partial cds, sample ID Joyhon-1

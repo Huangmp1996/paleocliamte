@@ -1,0 +1,7 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	NC_056273.1	16799	Tringa stagnatilis mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	MT572847.1	16799	Tringa stagnatilis mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	MF580187.1	658	Tringa stagnatilis voucher USNM:Birds:653400 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	GQ482794.1	694	Tringa stagnatilis voucher UWBM 59950 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	GQ482793.1	694	Tringa stagnatilis voucher UWBM 66737 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	GQ482792.1	694	Tringa stagnatilis voucher UWBM 59721 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_stagnatilis	KF147204.1	892	Tringa stagnatilis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,8 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	MF037878.1	16465	Cynops cyanurus cyanurus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	KY418068.1	16465	Cynops cyanurus chuxiongensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	AY233135.1	307	Cynops cyanurus isolate SN02042 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	AY233134.1	307	Cynops cyanurus isolate SN02041 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	AF295682.1	691	Cynops cyanurus isolate Ccya2 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	AB754754.1	1407	Cynops cyanurus mitochondrial genes for NADH dehydrogenase subunit 6, tRNA-glu and cytochrome b, partial and complete cds, complete sequence, haplotype: Ccya
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	EU880309.1	16468	Cynops cyanurus mitochondrion, partial genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	AB530701.1	1141	Cynops cyanurus mitochondrial cytb gene for cytochrome b, complete cds, isolate: g 17

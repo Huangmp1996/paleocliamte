@@ -1,0 +1,3 @@
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_longimembris	KP893332.1	18466	Tyto longimembris mitochondrion, partial genome
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_longimembris	EU348955.1	948	Tyto longimembris voucher IPMB 9579 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_TYTONIDAE_Tyto_longimembris	EU349008.1	961	Tyto longimembris voucher IPMB 9579 cytochrome b (cytb) gene, partial cds; mitochondrial

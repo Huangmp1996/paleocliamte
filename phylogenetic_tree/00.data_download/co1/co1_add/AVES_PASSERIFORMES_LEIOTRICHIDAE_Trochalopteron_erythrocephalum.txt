@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_erythrocephalum	MH265810.1	633	Trochalopteron erythrocephalum woodi voucher MNHN 7-20 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_erythrocephalum	MH265809.1	633	Trochalopteron erythrocephalum nigrimentum voucher ZMUC 93.643 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_erythrocephalum	EU447032.1	615	Garrulax erythrocephalus woodi cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_erythrocephalum	JQ174915.1	652	Garrulax erythrocephalus voucher USNM:Birds:631856 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_erythrocephalum	JQ174914.1	652	Garrulax erythrocephalus voucher USNM:Birds:631855 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_erythrocephalum	JQ174913.1	652	Garrulax erythrocephalus voucher USNM:Birds:620605 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

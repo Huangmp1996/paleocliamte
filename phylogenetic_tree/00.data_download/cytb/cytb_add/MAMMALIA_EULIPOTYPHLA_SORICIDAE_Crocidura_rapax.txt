@@ -1,0 +1,13 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	MN690998.1	1128	Crocidura rapax rapax isolate SQ94 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	MN690997.1	1128	Crocidura rapax rapax isolate SQ21 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	MN690996.1	1128	Crocidura rapax rapax isolate SQ19 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	MN690995.1	1128	Crocidura rapax rapax isolate SQ08 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	AB175086.1	1140	Crocidura rapax kurodai mitochondrial cytb gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	AB062686.1	1140	Crocidura rapax kurodai mitochondrial cytb gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	AB057420.1	1140	Crocidura rapax kurodai mitochondrial cytb gene for cytochrome b, complete cds
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	GU358535.1	1140	Crocidura kurodai voucher NTU985 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	GU358534.1	1140	Crocidura kurodai voucher NTU981 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	GU358533.1	1140	Crocidura kurodai voucher NTU980 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	AB115559.1	402	Crocidura rapax kurodai cytb gene for cytochrome b, partial cds, isolate:KUZ M3407
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	AB115558.1	402	Crocidura rapax kurodai cytb gene for cytochrome b, partial cds, isolate:KUZ M3319
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_rapax	AB115557.1	1140	Crocidura rapax kurodai cytb gene for cytochrome b, complete cds, isolate:KUZ M1650

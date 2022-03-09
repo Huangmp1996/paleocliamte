@@ -1,0 +1,26 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MZ579648.1	16689	Ia io voucher GZNU-NF-001 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF038584.1	705	Ia io isolate VN11x0688 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615203.1	657	Ia io voucher YN-11-335 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615202.1	657	Ia io voucher YN-07-463 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615201.1	657	Ia io voucher YN-07-460 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615200.1	657	Ia io voucher YN-07-458 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615199.1	657	Ia io voucher YN-07-457 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615198.1	657	Ia io voucher YN-07-455 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615197.1	657	Ia io voucher Sxi-10-120 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615196.1	657	Ia io voucher JX-06-93 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615195.1	657	Ia io voucher HuN-10-022 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615194.1	657	Ia io voucher HuN-10-010 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615193.1	657	Ia io voucher HuN-10-008 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615192.1	657	Ia io voucher GZ-11-043 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615191.1	657	Ia io voucher GX-11-023 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615190.1	657	Ia io voucher GX-07-31 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615189.1	657	Ia io voucher GX-07-22 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615188.1	657	Ia io voucher PS160314.5 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615187.1	657	Ia io voucher PNP01 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615186.1	657	Ia io voucher PS170304.1 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	MF615185.1	657	Ia io voucher PSUZC-MM2012.207 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	JF443950.1	657	Ia io voucher ROM 118083 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	HM540662.1	652	Ia io voucher ROM MAM 117763 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	HM540661.1	657	Ia io voucher ROM MAM 117764 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	JF443951.1	657	Ia io voucher ROM 118110 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Ia_io	JF443949.1	656	Ia io voucher ROM 118648 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

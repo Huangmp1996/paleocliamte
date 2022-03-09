@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_concolor	NC_027579.1	16492	Sicista concolor mitochondrion, complete genome
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_concolor	KJ648496.1	16492	Sicista concolor mitochondrion, complete genome
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_concolor	JQ043546.1	651	Sicista concolor isolate QH194 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_concolor	JQ043545.1	651	Sicista concolor isolate QH186 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MK461357.1	651	Phrynocephalus frontalis isolate ABLRP346_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MK461356.1	651	Phrynocephalus frontalis isolate ABLRP345_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MK461407.1	651	Phrynocephalus frontalis isolate ABLRP346_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MK461406.1	651	Phrynocephalus frontalis isolate ABLRP345_07 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MF288966.1	627	Phrynocephalus frontalis voucher ZMMU R-13220 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MF288965.1	623	Phrynocephalus frontalis voucher ZMMU R-13218 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MF288947.1	651	Phrynocephalus frontalis voucher ZMMU R-12309-3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MF288946.1	651	Phrynocephalus frontalis voucher ZMMU R-12309-2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	MF039064.1	17041	Phrynocephalus frontalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_frontalis	KF691733.1	651	Phrynocephalus frontalis voucher ZMMU R-12309 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

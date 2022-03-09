@@ -1,0 +1,17 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	MG897536.1	1091	Myotis macrodactylus voucher Mmac73RU cytochrome b (cyb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KX467603.1	1140	Myotis macrodactylus voucher JL-003 cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	EF555238.1	1140	Myotis macrodactylus cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KT862815.1	854	Myotis macrodactylus haplotype Hap01 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AY665163.1	1140	Myotis macrodactylus isolate ma cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	NC_022694.1	17562	Myotis macrodactylus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KF440685.1	17562	Myotis macrodactylus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB621581.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, haplotype: H9
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB621580.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, haplotype: H8
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB621579.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, haplotype: H7
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB621578.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, haplotype: H6
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB621577.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, haplotype: H5
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB621576.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, haplotype: H4
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB621575.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, haplotype: H3
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB621574.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, haplotype: H2
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB085736.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB106604.1	1140	Myotis macrodactylus mitochondrial cytb gene for cytochrome b, complete cds, specimen_voucher: OCUMS7243 (Osaka City University)

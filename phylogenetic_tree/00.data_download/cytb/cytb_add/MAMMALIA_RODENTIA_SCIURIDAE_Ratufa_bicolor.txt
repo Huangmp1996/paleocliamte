@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Ratufa_bicolor	KP174717.1	377	Ratufa bicolor voucher 21234 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Ratufa_bicolor	KP174716.1	367	Ratufa bicolor voucher 15163 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Ratufa_bicolor	NC_023780.1	16563	Ratufa bicolor mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Ratufa_bicolor	KF575124.1	16563	Ratufa bicolor mitochondrion, complete genome

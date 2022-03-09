@@ -1,0 +1,100 @@
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893497.1	774	Alectoris chukar haplotype Hap_13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893496.1	774	Alectoris chukar haplotype Hap_12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893495.1	774	Alectoris chukar haplotype Hap_11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893494.1	774	Alectoris chukar haplotype Hap_10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893493.1	774	Alectoris chukar haplotype Hap_9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893492.1	774	Alectoris chukar haplotype Hap_8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893491.1	774	Alectoris chukar haplotype Hap_7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893490.1	774	Alectoris chukar haplotype Hap_6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893489.1	774	Alectoris chukar haplotype Hap_5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893488.1	774	Alectoris chukar haplotype Hap_4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893487.1	774	Alectoris chukar haplotype Hap_3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893486.1	774	Alectoris chukar haplotype Hap_2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	MN893485.1	774	Alectoris chukar haplotype Hap_1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	HQ122605.1	517	Alectoris chukar cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KY829450.1	16688	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432715.1	950	Alectoris chukar isolate Ghochan 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432714.1	950	Alectoris chukar isolate Ghochan 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432713.1	950	Alectoris chukar isolate Torbat-e-Jam 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432712.1	950	Alectoris chukar isolate Torbat-e-Jam 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432711.1	950	Alectoris chukar isolate Torbat-e-Jam 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432710.1	950	Alectoris chukar isolate Mashhad 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432709.1	950	Alectoris chukar isolate Mashhad 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432708.1	950	Alectoris chukar isolate Mashhad 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432707.1	950	Alectoris chukar isolate Mashhad 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432706.1	950	Alectoris chukar isolate Kalat-e-Nader 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ432705.1	950	Alectoris chukar isolate Kalat-e-Nader 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU826434.1	441	Alectoris chukar cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526106.1	515	Alectoris chukar isolate Ach8Gi cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526105.1	515	Alectoris chukar isolate Ach2Va cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526104.1	515	Alectoris chukar isolate Oly6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526103.1	515	Alectoris chukar isolate Oly3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526102.1	515	Alectoris chukar isolate Kos4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526101.1	515	Alectoris chukar isolate Ika7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526100.1	515	Alectoris chukar isolate Ika2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526099.1	515	Alectoris chukar isolate Man20 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526098.1	515	Alectoris chukar isolate Man14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU526097.1	515	Alectoris chukar isolate Man1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU839475.1	1143	Alectoris chukar voucher 302 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	EU839474.1	1143	Alectoris chukar voucher 309 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	AY870279.1	828	Alectoris chukar isolate V9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	L08378.1	1143	Alectoris chukar mitochondrion cytochrome b gene, complete cds
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214294.1	1143	Alectoris chukar falki isolate 328 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214293.1	1143	Alectoris chukar falki isolate 330 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214292.1	1143	Alectoris chukar pubescens isolate 301 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	GU214291.1	1143	Alectoris chukar potanini isolate 304 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FJ752426.1	16686	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	KT806484.1	16685	Alectoris chukar isolate HLSSJ1508 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	NC_020585.1	16686	Alectoris chukar mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FN547909.1	229	Alectoris chukar mitochondrial partial cytb gene for cytochrome b, haplotype Ch2
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FN547908.1	229	Alectoris chukar mitochondrial partial cytb gene for cytochrome b, haplotype Ch1
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203236.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H112
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203235.1	2344	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H111
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203234.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H110
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203233.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H109
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203232.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H108
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203231.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H107
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203230.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H106
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203229.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H105
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203228.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H104
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203227.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H103
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203226.1	2344	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H102
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203225.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H101
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203224.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H100
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203223.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H99
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203222.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H98
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203221.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H97
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203220.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H96
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203219.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H95
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203218.1	2344	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H94
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203217.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H93
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203216.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H92
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203215.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H91
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203214.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H90
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203213.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H89
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203212.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H88
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203211.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H87
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203210.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H86
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203209.1	2345	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H85
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203208.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H84
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203207.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H83
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203206.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H82
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203205.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H81
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203204.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H80
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203203.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H79
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203202.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H78
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203201.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H77
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203200.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H76
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203199.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H75
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203198.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H74
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203197.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H73
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203196.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H72
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203195.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H71
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203194.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H70
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203193.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H69
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203192.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H68
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203191.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H67
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203190.1	2344	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H66
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203189.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H65
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203188.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H64
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_chukar	FM203187.1	2346	Alectoris chukar mitochondrial partial Cyt-b gene and control region, haplotype H63

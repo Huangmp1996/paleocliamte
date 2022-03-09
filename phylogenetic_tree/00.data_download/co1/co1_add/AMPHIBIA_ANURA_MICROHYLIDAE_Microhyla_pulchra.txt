@@ -1,0 +1,10 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	EF396056.1	575	Microhyla pulchra voucher MVZ 223797 cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	KR087826.1	582	Microhyla pulchra voucher K3100 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	KR087825.1	705	Microhyla pulchra voucher 1997.8380 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	KR087824.1	705	Microhyla pulchra voucher 1999.6057 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	KR087823.1	705	Microhyla pulchra voucher 2006.2395 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	KR087822.1	705	Microhyla pulchra voucher 2006.2392 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	KR087821.1	705	Microhyla pulchra voucher K760 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	NC_024547.1	16744	Microhyla pulchra mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	KF798195.1	16744	Microhyla pulchra mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Microhyla_pulchra	JN700839.1	602	Microhyla pulchra voucher KIZ01610 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

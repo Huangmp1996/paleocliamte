@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	GQ482608.1	694	Eremopsaltria mongolica voucher UWBM 57968 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	GQ482607.1	694	Eremopsaltria mongolica voucher UWBM 57955 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	GQ482606.1	694	Eremopsaltria mongolica voucher UWBM 75871 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	GQ482605.1	671	Eremopsaltria mongolica voucher UWBM 46248 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	GQ482604.1	671	Eremopsaltria mongolica voucher UWBM 46256 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	KM078792.1	16811	Eremopsaltria mongolica mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	NC_025616.1	16811	Eremopsaltria mongolica mitochondrion, complete genome

@@ -1,0 +1,11 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	LC379250.1	762	Macaca thibetana EM50 mitochondrial CYTB gene for cytochrome b, partial cds
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	LC379249.1	768	Macaca thibetana EM3 mitochondrial CYTB gene for cytochrome b, partial cds
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	LC379248.1	753	Macaca thibetana HS24 mitochondrial CYTB gene for cytochrome b, partial cds
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY685868.1	424	Macaca thibetana isolate Sichuan5 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY685867.1	424	Macaca thibetana isolate Sichuan4 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY685866.1	424	Macaca thibetana isolate Sichuan3 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY685865.1	424	Macaca thibetana isolate Sichuan2 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY685864.1	424	Macaca thibetana isolate Sichuan1 tRNA-Glu gene, partial sequence; and cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY563620.2	1162	Macaca thibetana cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	AY151089.1	567	Macaca thibetana cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_thibetana	KJ567056.1	16539	Macaca thibetana mitochondrion, complete genome

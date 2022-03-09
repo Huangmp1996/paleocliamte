@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	NC_032725.1	16954	Terpsiphone atrocaudata mitochondrion, complete genome
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	KT901458.1	16954	Terpsiphone atrocaudata mitochondrion, complete genome
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	KP036808.1	1031	Terpsiphone atrocaudata voucher KUNHM 17892 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	KP036771.1	1031	Terpsiphone atrocaudata voucher KUNHM 17913 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	JQ885697.1	605	Terpsiphone atrocaudata illex voucher NRM 68545 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MONARCHIDAE_Terpsiphone_atrocaudata	JQ885696.1	605	Terpsiphone atrocaudata atrocaudata voucher NRM 68533 cytochrome b (cytb) gene, partial cds; mitochondrial

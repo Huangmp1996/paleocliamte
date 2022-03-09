@@ -1,0 +1,7 @@
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KJ442621.1	512	Amaurornis phoenicurus isolate AV18 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KC613982.1	776	Amaurornis phoenicurus 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	NC_024593.1	17213	Amaurornis phoenicurus mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KJ874440.1	17213	Amaurornis phoenicurus mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KF289821.1	396	Amaurornis phoenicurus phoenicurus isolate AV18 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KF289835.1	421	Amaurornis phoenicurus phoenicurus isolate AV18 cytochrome b (CytB) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KF289829.1	563	Amaurornis phoenicurus phoenicurus isolate AV18 16S ribosomal RNA gene, partial sequence; mitochondrial

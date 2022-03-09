@@ -1,0 +1,12 @@
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	MW880933.1	16679	Chrysolophus amherstiae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	JF834896.1	661	Chrysolophus amherstiae cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	GQ922610.1	699	Chrysolophus amherstiae bio-material A118 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	GQ922609.1	699	Chrysolophus amherstiae bio-material A117 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	GQ922608.1	699	Chrysolophus amherstiae bio-material A116 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	GQ922607.1	699	Chrysolophus amherstiae bio-material A115 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	GQ922606.1	699	Chrysolophus amherstiae bio-material A114 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	GQ922605.1	699	Chrysolophus amherstiae bio-material A113 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	GQ922604.1	699	Chrysolophus amherstiae bio-material A084 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	GQ922603.1	699	Chrysolophus amherstiae bio-material A031 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	FJ752434.1	16677	Chrysolophus amherstiae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_amherstiae	NC_020590.1	16677	Chrysolophus amherstiae mitochondrion, complete genome

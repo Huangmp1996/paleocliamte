@@ -1,0 +1,7 @@
+AVES_GRUIFORMES_RALLIDAE_Coturnicops_exquisitus	MG708237.1	517	Coturnicops exquisitus voucher IPMB 89002 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Coturnicops_exquisitus	MG708236.1	1018	Coturnicops exquisitus voucher IPMB 88987 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Coturnicops_exquisitus	MG708235.1	1018	Coturnicops exquisitus voucher IPMB 88986 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Coturnicops_exquisitus	MG708234.1	1018	Coturnicops exquisitus voucher IPMB 88985 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Coturnicops_exquisitus	MG708233.1	1018	Coturnicops exquisitus voucher IPMB 88958 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Coturnicops_exquisitus	NC_012143.1	17136	Coturnicops exquisitus mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Coturnicops_exquisitus	AP010823.1	17136	Coturnicops exquisitus mitochondrial DNA, complete genome, isolate: CNE01

@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	MH885015.1	802	Micryletta inornata voucher K1956 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	KC822494.1	2382	Micryletta inornata voucher FMNH:255121 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	KC822493.1	1935	Micryletta inornata voucher FMNH:255123 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	AB634637.1	840	Micryletta inornata mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUHE:23858
+AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	AB598317.1	872	Micryletta inornata mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUHE:20497

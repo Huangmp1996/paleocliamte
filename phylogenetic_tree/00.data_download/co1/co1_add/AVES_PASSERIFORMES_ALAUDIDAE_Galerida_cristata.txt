@@ -1,0 +1,19 @@
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	MF580201.1	658	Galerida cristata voucher USNM:Birds:653130 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	KT803673.1	648	Galerida cristata isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	JF498777.1	583	Galerida cristata voucher USNM 641309 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	JF498776.1	533	Galerida cristata voucher USNM 641310 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	JF498775.1	605	Galerida cristata voucher USNM 641335 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	JF498774.1	583	Galerida cristata voucher USNM 641359 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	GQ481942.1	694	Galerida cristata voucher UWBM 56595 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	GQ481941.1	694	Galerida cristata voucher UWBM 61329 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	GQ481940.1	694	Galerida cristata voucher UWBM 46385 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	GQ481939.1	602	Galerida cristata voucher UWBM 61358 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	FJ465332.1	612	Galerida cristata voucher MFUM 200442 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	KX283123.1	525	Galerida cristata voucher AI-B146 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	KP252189.1	652	Galerida cristata voucher USNM 645880 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	KP252188.1	652	Galerida cristata voucher USNM 645881 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	KP252187.1	652	Galerida cristata voucher USNM 645815 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	KP252186.1	652	Galerida cristata voucher USNM 645818 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	KP252185.1	652	Galerida cristata voucher USNM 645882 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	HQ168061.1	694	Galerida cristata voucher PSRCEW-BB-CL02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Galerida_cristata	HQ168060.1	694	Galerida cristata voucher PSRCEW-BB-CL01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

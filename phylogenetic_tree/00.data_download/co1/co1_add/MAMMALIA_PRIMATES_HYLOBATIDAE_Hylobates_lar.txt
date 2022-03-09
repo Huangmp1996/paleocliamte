@@ -1,0 +1,27 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	MT876718.1	515	Hylobates lar voucher ZM006 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	MT876717.1	515	Hylobates lar voucher PRP0027 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	MT876716.1	515	Hylobates lar voucher ZM009 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	MT876715.1	515	Hylobates lar voucher ZM011 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	MT876714.1	515	Hylobates lar voucher PRP0247 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	MT876713.1	515	Hylobates lar voucher PRP0248 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	MT876712.1	515	Hylobates lar voucher PRP0250 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	MT876711.1	515	Hylobates lar voucher PRP0249 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	AY972705.1	642	Hylobates lar isolate PR00715 cytochrome c oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	AY544150.1	603	Hylobates lar PR00495 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622777.1	16473	Hylobates lar isolate T13 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622776.1	16473	Hylobates lar isolate T12 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622775.1	16474	Hylobates lar isolate T11 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622774.1	16475	Hylobates lar isolate T10 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622773.1	16473	Hylobates lar isolate T04 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622772.1	16474	Hylobates lar isolate P01 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622771.1	16471	Hylobates lar isolate J29 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622770.1	16474	Hylobates lar isolate J28 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622769.1	16431	Hylobates lar isolate J27 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622768.1	16472	Hylobates lar isolate J26 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622767.1	16415	Hylobates lar isolate J10 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622766.1	16472	Hylobates lar isolate J09 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622765.1	16472	Hylobates lar isolate 502 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622764.1	16473	Hylobates lar isolate 501 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622763.1	16473	Hylobates lar isolate 26 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	NC_002082.1	16472	Hylobates lar mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	X99256.1	16472	Hylobates lar complete mitochondrial DNA sequence

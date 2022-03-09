@@ -1,0 +1,5 @@
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	NC_056091.1	16832	Jynx torquilla mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	MT106619.1	16832	Jynx torquilla mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	MF766647.1	1041	Jynx torquilla voucher MNHN CG 2014-181 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	DQ479151.1	1041	Jynx torquilla NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	DQ188172.1	1036	Jynx torquilla isolate M43 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

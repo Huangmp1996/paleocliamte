@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	MK064837.1	657	Hypsiscopus plumbea voucher CHS722 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	MK064787.1	657	Hypsiscopus plumbea voucher CHS634 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	KU529430.1	658	Hypsiscopus plumbea isolate RN1608 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	KU529429.1	658	Hypsiscopus plumbea isolate RN1555 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	KU529428.1	658	Hypsiscopus plumbea isolate RK0564 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	DQ343650.1	17397	Enhydris plumbea mitochondrion, complete genome
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	JN833612.1	658	Enhydris plumbea isolate EP4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	JN833611.1	658	Enhydris plumbea isolate EP3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	JN833610.1	658	Enhydris plumbea isolate EP2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	JN833609.1	658	Enhydris plumbea isolate EP1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	NC_010200.1	17397	Enhydris plumbea mitochondrion, complete genome

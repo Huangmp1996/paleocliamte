@@ -1,0 +1,17 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	EF987756.1	1140	Melogale personata cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986748.1	553	Melogale personata voucher IPEE RAS:QB17-32 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986747.1	553	Melogale personata voucher IPEE RAS:QB17-31 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986746.1	553	Melogale personata voucher ZMMU:S-77190 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986745.1	553	Melogale personata voucher ZMMU:S-72616 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986744.1	553	Melogale personata voucher ZMMU:S-161135 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986743.1	553	Melogale personata voucher ZMMU:S-137607 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986742.1	553	Melogale personata voucher IPEE RAS:N3 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986741.1	553	Melogale personata voucher IPEE RAS:M-01 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986740.1	553	Melogale personata voucher IPEE RAS:LD4 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986739.1	553	Melogale personata voucher IPEE RAS:LC-12 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986738.1	553	Melogale personata voucher IPEE RAS:LD10 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986737.1	553	Melogale personata voucher IPEE RAS:M-12 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986736.1	553	Melogale personata voucher IPEE RAS:HL-48 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986735.1	553	Melogale personata voucher IPEE RAS:AVA14-005 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	MH986734.1	553	Melogale personata voucher IPEE RAS:AVA14-033 cytochrome b (CYB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_personata	JX310331.1	326	Melogale personata voucher Mel010312 cytochrome b (cytb) gene, partial cds; mitochondrial

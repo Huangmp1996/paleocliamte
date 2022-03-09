@@ -1,0 +1,7 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_maritimus	KY410970.1	16131	Tamiops maritimus voucher AMNH 31622 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_maritimus	KY410969.1	16136	Tamiops maritimus voucher USNM 238242 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_maritimus	KY410968.1	16146	Tamiops maritimus voucher USNM 355462 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_maritimus	KY410967.1	16138	Tamiops maritimus voucher USNM 320988 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_maritimus	KY410966.1	16143	Tamiops maritimus voucher AMNH 58048 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_maritimus	NC_029325.1	16523	Tamiops maritimus mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_maritimus	KP708710.1	16523	Tamiops maritimus mitochondrion, complete genome

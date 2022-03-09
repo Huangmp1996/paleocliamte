@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_stoliczkanus	MF040961.1	1136	Alticola stoliczkanus isolate GB0828002 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_stoliczkanus	KY968272.1	1016	Alticola stoliczkanus isolate XZ16N126 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_stoliczkanus	KY968271.1	1130	Alticola stoliczkanus isolate XZ16N121 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_stoliczkanus	KY968270.1	1117	Alticola stoliczkanus isolate XZ16N120 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_stoliczkanus	KY968268.1	1016	Alticola stoliczkanus isolate XZ16N078 cytochrome b (cytb) gene, partial cds; mitochondrial

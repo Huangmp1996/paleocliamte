@@ -1,0 +1,6 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	JF921876.1	16707	Tetraophasis obscurus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	EU845758.1	1023	Tetraophasis obscurus voucher z03 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	EU845757.1	1023	Tetraophasis obscurus voucher T4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	EU845756.1	1023	Tetraophasis obscurus voucher z04 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	EU049327.1	1041	Tetraophasis obscurus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	NC_018034.1	16707	Tetraophasis obscurus mitochondrion, complete genome

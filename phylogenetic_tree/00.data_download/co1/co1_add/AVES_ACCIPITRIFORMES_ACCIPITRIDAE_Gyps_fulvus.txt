@@ -1,0 +1,4 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	NC_036050.1	18094	Gyps fulvus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	KX893247.1	18094	Gyps fulvus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	U83772.1	518	Gyps fulvus cytochrome oxidase I (mtCOI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gyps_fulvus	KJ506784.1	662	Gyps fulvus voucher 5GFAZ04 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

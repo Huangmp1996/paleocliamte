@@ -1,0 +1,11 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MZ066777.1	103	Nyctalus noctula isolate 132624 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN122907.1	16760	Nyctalus noctula isolate DM12 mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN122876.1	15987	Nyctalus noctula isolate DM35 mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	DQ120874.1	797	Nyctalus noctula haplotype Nno885 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	DQ120873.1	797	Nyctalus noctula haplotype Nno856 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	DQ120872.1	797	Nyctalus noctula haplotype Nno857 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	NC_027237.1	17478	Nyctalus noctula mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	KP273590.1	17478	Nyctalus noctula mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	JX570902.1	1140	Nyctalus noctula voucher MHNG 1807.050 M797 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	JF318988.1	627	Nyctalus noctula cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	AJ841967.1	1117	Nyctalus noctula mitochondrial partial cyt b gene for cytochrome b

@@ -1,0 +1,31 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	LC576803.1	1140	Nomascus leucogenys mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jnleu02
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	LC576802.1	1140	Nomascus leucogenys mitochondrial Cytb gene for cytochrome b, partial cds, haplotype: Jnleu01
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	LC548051.1	1919	Nomascus leucogenys G117 mitochondrial genes for cytochrome b, tRNA-Thr, tRNA-Pro and D-loop region, complete and partial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	MH188414.1	1140	Nomascus leucogenys voucher Bei-Li cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	MH188411.1	1140	Nomascus leucogenys voucher Gou-Dan cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU595003.1	1140	Nomascus leucogenys isolate leu12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU595002.1	1140	Nomascus leucogenys isolate leu9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU595001.1	1140	Nomascus leucogenys isolate leu8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU595000.1	1140	Nomascus leucogenys isolate leu5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU594999.1	1140	Nomascus leucogenys isolate leu4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU321266.1	1140	Nomascus leucogenys haplotype NLE8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU321265.1	1140	Nomascus leucogenys haplotype NLE7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU321264.1	1140	Nomascus leucogenys haplotype NLE6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU321263.1	1140	Nomascus leucogenys haplotype NLE5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU321262.1	1140	Nomascus leucogenys haplotype NLE4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU321261.1	1140	Nomascus leucogenys haplotype NLE3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU321260.1	1140	Nomascus leucogenys haplotype NLE2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	GU321259.1	1140	Nomascus leucogenys haplotype NLE1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	NC_021957.1	16478	Nomascus leucogenys mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	KC757404.1	16478	Nomascus leucogenys mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	HQ622803.1	16472	Nomascus leucogenys isolate J04 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	HQ622802.1	16490	Nomascus leucogenys isolate 1006 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	HQ622801.1	16470	Nomascus leucogenys isolate 1005 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	HQ622800.1	16476	Nomascus leucogenys isolate 378 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	L02761.1	252	Hylobates concolor leucogenys mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	L02760.1	252	Hylobates concolor leucogenys mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	L02759.1	252	Hylobates concolor leucogenys mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	L02758.1	252	Hylobates concolor leucogenys mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	L02757.1	252	Hylobates concolor leucogenys mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	L02756.1	252	Hylobates concolor leucogenys mitochondrial cytochrome b gene, partial cds
+MAMMALIA_PRIMATES_HYLOBATIDAE_Nomascus_leucogenys	Y13306.1	1141	Hylobates leucogenys mitochondrial DNA for cytb gene

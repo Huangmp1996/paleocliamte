@@ -1,0 +1,11 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	MT409004.1	1031	Rana coreana voucher SYNU 08090641 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	KX269202.1	1951	Rana coreana isolate MMS-223 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	KM590550.1	15765	Rana coreana mitochondrion, partial genome
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	KF020594.1	528	Rana coreana voucher mms4407 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	KF020593.1	528	Rana coreana voucher mms3976 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ815311.1	555	Rana coreana voucher GRKOAM0000100702 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ815310.1	555	Rana coreana voucher GRKOAM0000100690 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ815309.1	555	Rana coreana voucher GRKOAM0000100650 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ837969.1	556	Rana coreana voucher NIBRAM0000100327 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ837968.1	556	Rana coreana voucher NIBRAM0000000712 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_coreana	JQ837967.1	556	Rana coreana voucher NIBRAM0000000737 16S ribosomal RNA gene, partial sequence; mitochondrial

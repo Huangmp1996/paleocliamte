@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MW451667.1	536	Gekko swinhonis voucher SYSr001815 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MW451666.1	536	Gekko swinhonis voucher SYSr001814 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MH047778.1	548	Gekko swinhonis voucher DW002WP03004 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MH047777.1	548	Gekko swinhonis voucher DW002WP03003 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	MH047776.1	548	Gekko swinhonis voucher DW002WP03002 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HQ896028.1	15840	Gekko swinhonis mitochondrion, partial genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	NC_018050.1	16818	Gekko swinhonis mitochondrion, complete genome
+REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	JQ906550.1	16818	Gekko swinhonis mitochondrion, complete genome

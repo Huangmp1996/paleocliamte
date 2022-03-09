@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MK198852.1	1026	Laticauda colubrina voucher CHS025 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	NC_036054.1	17450	Laticauda colubrina mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	KY496324.1	17450	Laticauda colubrina mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	AY058993.1	1032	Laticauda colubrina voucher CAS:HERP:220643 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial

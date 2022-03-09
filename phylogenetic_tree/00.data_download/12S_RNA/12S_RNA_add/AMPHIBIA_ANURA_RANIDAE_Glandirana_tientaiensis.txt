@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_RANIDAE_Glandirana_tientaiensis	KF185027.1	750	Rugosa tientaiensis voucher HNNU 98606 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Glandirana_tientaiensis	KX269222.1	1945	Rugosa tientaiensis isolate SCUM0405192CJ 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Glandirana_tientaiensis	KF771342.1	17347	Glandirana tientaiensis mitochondrion, partial genome
+AMPHIBIA_ANURA_RANIDAE_Glandirana_tientaiensis	NC_025226.1	17681	Glandirana tientaiensis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Glandirana_tientaiensis	KJ941041.1	17681	Glandirana tientaiensis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Glandirana_tientaiensis	DQ359954.1	718	Rana tientaiensis voucher SCUM0405192CJ 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Glandirana_tientaiensis	AF315154.1	553	Rana tientaiensis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Glandirana_tientaiensis	AF205560.1	386	Rana tientaiensis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,7 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_alboniger	NC_031847.1	16584	Hylopetes alboniger mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_alboniger	KX710106.1	16584	Hylopetes alboniger mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_alboniger	DQ093187.1	1140	Hylopetes alboniger cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_alboniger	AY371101.1	375	Hylopetes alboniger isolate 4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_alboniger	AY371100.1	372	Hylopetes alboniger isolate 3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_alboniger	AY371099.1	273	Hylopetes alboniger isolate 2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_alboniger	AY371098.1	387	Hylopetes alboniger isolate 1 cytochrome b gene, partial cds; mitochondrial

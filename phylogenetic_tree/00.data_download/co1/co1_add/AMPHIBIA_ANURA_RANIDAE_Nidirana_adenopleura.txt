@@ -1,0 +1,40 @@
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MN945206.1	639	Babina adenopleura voucher SYS a007091 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MN945205.1	639	Babina adenopleura voucher SYS a007090 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MN945204.1	639	Babina adenopleura voucher SYS a007089 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MN945203.1	639	Babina adenopleura voucher SYS a007360 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MN945202.1	639	Babina adenopleura voucher SYS a007359 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MN945201.1	639	Babina adenopleura voucher SYS a007358 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MH034161.1	588	Babina adenopleura voucher 17859 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MH034160.1	588	Babina adenopleura voucher 10641 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MH034159.1	588	Babina adenopleura voucher 17535 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MH034158.1	588	Babina adenopleura voucher 17663 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MH034157.1	588	Babina adenopleura voucher 18229 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MH938686.1	617	Babina adenopleura cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807893.1	562	Babina adenopleura voucher SYS a005943 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807892.1	562	Babina adenopleura voucher SYS a005942 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807891.1	562	Babina adenopleura voucher SYS a005941 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807890.1	562	Babina adenopleura voucher SYS a005940 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807889.1	562	Babina adenopleura voucher SYS a005939 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807888.1	562	Babina adenopleura voucher SYS a005916 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807887.1	562	Babina adenopleura voucher SYS a005915 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807886.1	562	Babina adenopleura voucher SYS a005914 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807885.1	562	Babina adenopleura voucher SYS a005913 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807884.1	562	Babina adenopleura voucher SYS a005912 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807883.1	562	Babina adenopleura voucher SYS a005911 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807882.1	562	Babina adenopleura voucher SYS a005902 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807881.1	562	Babina adenopleura voucher SYS a005901 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807880.1	562	Babina adenopleura voucher SYS a005891 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807873.1	562	Babina adenopleura voucher SYS a004132 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807872.1	562	Babina adenopleura voucher SYS a004112 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807871.1	562	Babina adenopleura voucher SYS a004027 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807870.1	562	Babina adenopleura voucher SYS a004026 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807869.1	562	Babina adenopleura voucher SYS a004025 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MF807866.1	562	Babina adenopleura voucher SYS a002725 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MN945213.1	597	Babina adenopleura voucher SYS a004451 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MN945212.1	597	Babina adenopleura voucher SYS a004450 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MK293824.1	562	Babina adenopleura isolate CIB20180827002 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	MK293823.1	562	Babina adenopleura isolate CIB20180827001 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	KR087624.1	705	Babina adenopleura voucher 0257Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	KF771324.1	976	Babina adenopleura tRNA-Trp (trnW) gene, partial sequence; tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	NC_018771.1	18982	Babina adenopleura mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Nidirana_adenopleura	JX033120.1	18982	Rana adenopleura isolate A-A-WZ001 mitochondrion, complete genome

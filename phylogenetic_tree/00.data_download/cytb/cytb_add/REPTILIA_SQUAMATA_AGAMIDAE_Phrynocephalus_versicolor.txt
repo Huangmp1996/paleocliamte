@@ -1,0 +1,13 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	KF691644.1	288	Phrynocephalus versicolor hispidus voucher ZMMU R-12837 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	KF691641.1	288	Phrynocephalus versicolor kulagini voucher Pkul-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	NC_024654.1	16429	Phrynocephalus versicolor mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	KJ749841.1	16429	Phrynocephalus versicolor mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053976.1	307	Phrynocephalus versicolor isolate 01068 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053975.1	307	Phrynocephalus versicolor isolate 01044 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053974.1	307	Phrynocephalus versicolor isolate 01043 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053973.1	307	Phrynocephalus versicolor isolate 0983 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053972.1	307	Phrynocephalus versicolor isolate 0981 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053971.1	307	Phrynocephalus versicolor isolate 0787 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053970.1	307	Phrynocephalus versicolor isolate 0760 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053969.1	307	Phrynocephalus versicolor isolate 0706 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_versicolor	AY053968.1	307	Phrynocephalus versicolor isolate 01072 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

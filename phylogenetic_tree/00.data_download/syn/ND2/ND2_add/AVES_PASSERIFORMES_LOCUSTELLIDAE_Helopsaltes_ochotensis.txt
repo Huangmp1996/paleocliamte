@@ -1,0 +1,20 @@
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	MN356242.1	16152	Locustella ochotensis mitochondrion, partial genome
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	AY382391.1	1041	Locustella ochotensis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	AY382390.1	1041	Locustella ochotensis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	AY382389.1	1041	Locustella ochotensis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	AY382388.1	1041	Locustella ochotensis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	AF407055.1	1088	Locustella ochotensis tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791489.1	1041	Locustella ochotensis haplotype SVD4456a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791476.1	1041	Locustella ochotensis haplotype RYA3074a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791474.1	1041	Locustella ochotensis haplotype RYA3068a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791469.1	1041	Locustella ochotensis haplotype RYA1661a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791468.1	1041	Locustella ochotensis haplotype RYA1660a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791467.1	1041	Locustella ochotensis haplotype RYA1611a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791466.1	1041	Locustella ochotensis haplotype RYA1547a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791465.1	1041	Locustella ochotensis haplotype RYA1539a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791460.1	1041	Locustella ochotensis haplotype IVF0954a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791459.1	1041	Locustella ochotensis haplotype IVF0945a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791452.1	1041	Locustella ochotensis haplotype EVN0952a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791451.1	1041	Locustella ochotensis haplotype EVN0947a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791440.1	1041	Locustella ochotensis haplotype CBH2363a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_ochotensis	KP791439.1	1041	Locustella ochotensis haplotype CBH2305a NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

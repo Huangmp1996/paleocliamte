@@ -1,0 +1,7 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_fuliginosa	NC_042762.1	16967	Crocidura fuliginosa mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_fuliginosa	MK032069.1	16967	Crocidura fuliginosa mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_fuliginosa	FJ814490.1	1127	Crocidura fuliginosa voucher IZEA3753 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_fuliginosa	FJ814489.1	599	Crocidura fuliginosa voucher IZEA3553 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_fuliginosa	GU981317.1	1044	Crocidura fuliginosa isolate Crofuli1 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_fuliginosa	GU358548.1	1044	Crocidura fuliginosa voucher FMNH168656 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_fuliginosa	GU358545.1	494	Crocidura fuliginosa voucher AMCC101526 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

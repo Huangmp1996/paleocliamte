@@ -1,0 +1,32 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169210.1	736	Mogera robusta isolate 8243 voucher CGRB 8243 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169209.1	736	Mogera robusta isolate 7740 voucher CGRB 7740 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169208.1	736	Mogera robusta isolate 6345 voucher CGRB 6345 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169207.1	736	Mogera robusta isolate 6342 voucher CGRB 6342 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169206.1	736	Mogera robusta isolate 8563 voucher CGRB 8563 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169205.1	736	Mogera robusta isolate 1176 voucher CGRB 1176 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169204.1	736	Mogera robusta isolate 10068 voucher CGRB 10068 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169203.1	736	Mogera robusta isolate 2227 voucher CGRB 2227 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169202.1	736	Mogera robusta isolate 6344 voucher CGRB 6344 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169201.1	736	Mogera robusta isolate 771 voucher CGRB 771 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169200.1	736	Mogera robusta isolate 2294 voucher CGRB 2294 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169199.1	736	Mogera robusta isolate 9/1990 voucher ZMMU S-176638 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169198.1	736	Mogera robusta isolate 604 voucher FSCEATB 604 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169197.1	736	Mogera robusta isolate 1/2011 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169196.1	736	Mogera robusta isolate 606 voucher FSCEATB 606 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169195.1	736	Mogera robusta isolate 707 voucher FSCEATB 707 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169194.1	736	Mogera robusta isolate 727 voucher FSCEATB 727 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169193.1	736	Mogera robusta isolate 2117 voucher FSCEATB 2117 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169192.1	736	Mogera robusta isolate 270 voucher ZIN 99913 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK169191.1	736	Mogera robusta isolate 605 voucher FSCEATB 605 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	MK431828.1	16890	Mogera robusta mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992996.1	516	Mogera robusta isolate MR9 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992995.1	516	Mogera robusta isolate MR8 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992994.1	516	Mogera robusta isolate MR7 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992993.1	516	Mogera robusta isolate MR6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992992.1	516	Mogera robusta isolate MR5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992991.1	516	Mogera robusta isolate MR4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992990.1	516	Mogera robusta isolate MR3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992989.1	516	Mogera robusta isolate MR2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KP992988.1	516	Mogera robusta isolate MR1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	NC_029836.1	16816	Mogera robusta mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_robusta	KT934322.1	16816	Mogera robusta mitochondrion, complete genome

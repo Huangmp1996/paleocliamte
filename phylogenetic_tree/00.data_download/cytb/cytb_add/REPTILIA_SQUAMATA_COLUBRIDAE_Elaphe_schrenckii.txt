@@ -1,0 +1,14 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	MK201288.1	585	Elaphe schrenckii voucher CHS136 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	MK201287.1	585	Elaphe schrenckii voucher CHS135 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830263.1	857	Elaphe schrenckii isolate MMS1087 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830262.1	857	Elaphe schrenckii isolate MMS1084 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830261.1	857	Elaphe schrenckii isolate MMS1082 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830260.1	857	Elaphe schrenckii isolate MMS1080 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830259.1	857	Elaphe schrenckii isolate MMS1077 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830258.1	857	Elaphe schrenckii isolate CGRB9794 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	AF036021.1	246	Elaphe schrenckii cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	DQ902124.1	1117	Elaphe schrenckii cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	NC_027605.1	17165	Elaphe schrenckii voucher HRB14061802 mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	KP888955.1	17165	Elaphe schrenckii voucher HRB14061802 mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	JQ798790.1	786	Elaphe schrenckii voucher NIBRRP0000100349 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	JQ798789.1	786	Elaphe schrenckii voucher NIBRRP0000000148 cytochrome b (cytb) gene, partial cds; mitochondrial

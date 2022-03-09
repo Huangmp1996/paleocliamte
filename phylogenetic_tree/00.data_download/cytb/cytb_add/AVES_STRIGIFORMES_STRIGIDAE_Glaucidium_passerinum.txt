@@ -1,0 +1,6 @@
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_passerinum	EU348902.1	948	Glaucidium passerinum voucher IPMB 6167 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_passerinum	AJ004004.1	1041	Glaucidium passerinum partial mitochondrial cytb gene, isolate 5
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_passerinum	AJ004003.1	1041	Glaucidium passerinum partial mitochondrial cytb gene, isolate 4
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_passerinum	AJ004002.1	1041	Glaucidium passerinum partial mitochondrial cytb gene, isolate 3
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_passerinum	AJ004001.1	1041	Glaucidium passerinum partial mitochondrial cytb gene, isolate 2
+AVES_STRIGIFORMES_STRIGIDAE_Glaucidium_passerinum	AJ004000.1	1041	Glaucidium passerinum partial mitochondrial cytb gene, isolate 1

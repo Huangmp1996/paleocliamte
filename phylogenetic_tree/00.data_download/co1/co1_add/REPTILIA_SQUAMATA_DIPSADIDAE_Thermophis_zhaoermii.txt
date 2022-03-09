@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	MK064710.1	657	Thermophis zhaoermii voucher CHS256 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	GQ166168.1	17322	Thermophis zhaoermii mitochondrion, complete genome
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	KP777537.1	579	Thermophis zhaoermii isolate SH0908T3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	KP777536.1	579	Thermophis zhaoermii isolate SH0908T1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	KP777535.1	579	Thermophis zhaoermii isolate SH1406T3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	NC_012816.1	17322	Thermophis zhaoermii mitochondrion, complete genome

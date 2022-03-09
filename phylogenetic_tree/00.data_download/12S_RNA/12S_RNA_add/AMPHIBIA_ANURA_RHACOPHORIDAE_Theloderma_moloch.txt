@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_moloch	MF948663.1	842	Theloderma moloch voucher PUCZM/IX/SL 328 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_moloch	KU243081.1	1631	Theloderma moloch isolate KIZYPX31941 12S ribosomal RNA gene, partial sequence; tRNA-Val gene gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_moloch	KU170015.1	758	Theloderma moloch voucher SDBDU 2011.345 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_moloch	GQ285679.1	1943	Theloderma moloch voucher 6255Rao 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

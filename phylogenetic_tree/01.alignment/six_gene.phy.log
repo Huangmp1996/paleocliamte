@@ -1,0 +1,6 @@
+trimmed/12S_rna_mafft.aln_trimmed = 1-2760
+trimmed/16S_rna_mafft.aln_trimmed = 2761-6731
+trimmed/co1_mafft.aln_trimmed = 6732-8476
+trimmed/cytb_mafft.aln_trimmed = 8477-9775
+trimmed/ND1_mafft.aln_trimmed = 9776-10839
+trimmed/ND2_mafft.aln_trimmed = 10840-11991

@@ -1,0 +1,12 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	MF966595.1	16473	Przewalskium albirostris mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	HM049636.1	16478	Cervus albirostris mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	JN632690.1	16512	Przewalskium albirostris isolate H04054 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	KJ862177.1	648	Przewalskium albirostris voucher A29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	KF509955.1	659	Przewalskium albirostris voucher cdM200 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	NC_016707.1	16478	Przewalskium albirostris mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	HM204526.1	611	Cervus albirostris isolate BR cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	GQ329006.1	658	Cervus albirostris ZJU:CLS438 CEAL-H-SC31 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	GQ329005.1	658	Cervus albirostris ZJU:CLS438 CEAL-H-SC3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	GQ329004.1	658	Cervus albirostris ZJU:CLS438 CEAL-H-SC2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	GQ329003.1	658	Cervus albirostris ZJU:CLS438 CEAL-S-QH7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	GQ329002.1	658	Cervus albirostris ZJU:CLS438 CEAL-S-QH6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MN248533.1	18711	Sylvirana guentheri mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KX269363.1	834	Sylvirana guentheri isolate SCUMH002CJ cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR264131.1	567	Sylvirana guentheri voucher A163941 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR264130.1	567	Sylvirana guentheri voucher A163940 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	NC_024748.1	19053	Hylarana guentheri mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KM035413.1	19053	Hylarana guentheri mitochondrion, complete genome

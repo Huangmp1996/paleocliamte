@@ -1,0 +1,10 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	MH406163.1	632	Megophrys huangshanensis isolate 2748 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	MH406161.1	632	Megophrys huangshanensis isolate 2703 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	MH406160.1	632	Megophrys huangshanensis isolate 2702 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	MH406159.1	632	Megophrys huangshanensis isolate 2684 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	MF667921.1	621	Xenophrys huangshanensis voucher 2704 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	MF667920.1	621	Xenophrys huangshanensis voucher 2703 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	MF667919.1	621	Xenophrys huangshanensis voucher 2702 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	KX812107.1	561	Xenophrys huangshanensis isolate KIZ022004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	KX812106.1	561	Xenophrys huangshanensis isolate KIZ025854 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_huangshanensis	KX812105.1	561	Xenophrys huangshanensis isolate YPX12664 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

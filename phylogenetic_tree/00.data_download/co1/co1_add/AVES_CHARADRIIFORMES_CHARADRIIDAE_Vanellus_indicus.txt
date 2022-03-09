@@ -1,0 +1,13 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	JF498817.1	633	Vanellus indicus voucher USNM 641325 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	JF498816.1	601	Vanellus indicus voucher USNM 641331 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP252257.1	652	Vanellus indicus voucher USNM 645821 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP252256.1	652	Vanellus indicus voucher USNM 645820 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP252255.1	652	Vanellus indicus voucher USNM 645798 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KT240054.1	587	Vanellus indicus cytochrome C oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP975230.1	636	Vanellus indicus isolate NBS_RAJ_2011_06 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP975229.1	636	Vanellus indicus isolate NBS_GAR_2011_02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP975228.1	636	Vanellus indicus isolate NBS_DO_244A cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP975227.1	636	Vanellus indicus isolate NBS_DO_CG_755 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP975226.1	636	Vanellus indicus isolate NBS_DO_246 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KP975214.1	597	Vanellus indicus isolate NBS_RAJ2011_06A cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Vanellus_indicus	KC439343.1	625	Vanellus indicus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

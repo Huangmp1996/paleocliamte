@@ -1,0 +1,55 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	MN122895.1	16928	Corvus corax mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GQ481624.1	694	Corvus corax voucher UWBM 64779 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GQ481623.1	691	Corvus corax voucher UWBM 61493 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GQ481621.1	674	Corvus corax voucher UWBM 57899 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GQ481620.1	674	Corvus corax voucher UWBM 56544 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245148.1	16770	Corvus corax isolate 83717 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245146.1	16791	Corvus corax isolate 70151 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245145.1	16764	Corvus corax isolate 30935 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245142.1	16715	Corvus corax isolate 70160 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245141.1	16928	Corvus corax isolate 35585 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245140.1	16703	Corvus corax isolate 70190 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245138.1	16925	Corvus corax isolate 70171 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245137.1	16927	Corvus corax isolate 83713 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245136.1	16720	Corvus corax isolate 70155 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245135.1	16928	Corvus corax isolate 70164 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245134.1	16930	Corvus corax mitochondrion, partial genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KX245133.1	16928	Corvus corax isolate 70173 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	NC_034838.1	16928	Corvus corax isolate 70173 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY667446.1	963	Corvus corax voucher UWBM 61493 beta-fibrinogen gene, exons 7, 8 and partial cds
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY667445.1	963	Corvus corax voucher UWBM 53955 beta-fibrinogen gene, exons 7, 8 and partial cds
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY667444.1	963	Corvus corax voucher MBM 9018 beta-fibrinogen gene, exons 7, 8 and partial cds
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY667443.1	963	Corvus corax voucher UCSB 26340 beta-fibrinogen gene, exons 7, 8 and partial cds
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY667442.1	963	Corvus corax voucher UCSB 26360 beta-fibrinogen gene, exons 7, 8 and partial cds
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527270.1	925	Corvus corax voucher UWBM#61493 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527269.1	925	Corvus corax voucher UWBM#53955 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527268.1	925	Corvus corax voucher MBM#9018 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527267.1	925	Corvus corax voucher UCSB#26346 cytochrome b (CYTB) and NADH dehydrogenase subunit 4 (CYTB) genes, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527266.1	925	Corvus corax voucher UCSB#26360 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527250.1	825	Corvus corax voucher UWBM#61493 NADH dehydrogenase subunit 4 (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete sequence; and tRNA-Leu gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527249.1	825	Corvus corax voucher UWBM#53955 NADH dehydrogenase subunit 4 (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete sequence; and tRNA-Leu gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527248.1	825	Corvus corax voucher MBM#9018 ND4 gene, partial sequence; genes, complete sequence; and gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527247.1	825	Corvus corax voucher UCSB#26346 ND4 gene, partial sequence; CYTB genes, complete sequence; and CYTB gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527246.1	825	Corvus corax voucher UCSB#26360 ND4 gene, partial sequence; genes, complete sequence; and gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527240.1	658	Corvus corax voucher UWBM#61493 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527239.1	658	Corvus corax voucher UWBM#53955 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527238.1	658	Corvus corax voucher MBM#9018 NADH dehydrogenase subunit 4 and cytochrome c oxidase subunit I (COI) genes, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527237.1	658	Corvus corax voucher UCSB#26346 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527236.1	658	Corvus corax voucher UCSB#26360 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GU571837.1	648	Corvus corax voucher BISE-Aves19 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GU571836.1	648	Corvus corax voucher BISE-Aves449 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GU571349.1	723	Corvus corax voucher NHMO-BC169 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GU571348.1	740	Corvus corax voucher NHMO-BC170 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	GQ481622.1	686	Corvus corax voucher UWBM 46861 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	FJ465317.1	612	Corvus corax corax voucher NRM 2004 6571 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	DQ433552.1	628	Corvus corax voucher CWS17190 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	DQ432870.1	576	Corvus corax voucher MVZ:Bird:179997 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	DQ432869.1	576	Corvus corax voucher MVZ:Bird:180203 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	DQ432868.1	643	Corvus corax voucher USNM 622698 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	KF946642.1	693	Corvus corax corax voucher ZMA57144 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	DQ433551.1	672	Corvus corax voucher BIOUG<CAN>:AXBS004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527260.1	314	Corvus corax voucher UWBM#61493 control region, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527259.1	314	Corvus corax voucher UWBM#53955 control region, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527258.1	314	Corvus corax voucher MBM#9018 control region, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527257.1	314	Corvus corax voucher UCSB#26346 control region, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_corax	AY527256.1	314	Corvus corax voucher UCSB#26360 NADH dehydrogenase subunit 4 gene, partial cds; and control region, partial sequence; mitochondrial

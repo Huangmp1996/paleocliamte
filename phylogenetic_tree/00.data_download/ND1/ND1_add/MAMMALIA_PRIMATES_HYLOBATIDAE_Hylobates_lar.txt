@@ -1,0 +1,17 @@
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622777.1	16473	Hylobates lar isolate T13 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622776.1	16473	Hylobates lar isolate T12 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622775.1	16474	Hylobates lar isolate T11 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622774.1	16475	Hylobates lar isolate T10 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622773.1	16473	Hylobates lar isolate T04 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622772.1	16474	Hylobates lar isolate P01 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622771.1	16471	Hylobates lar isolate J29 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622770.1	16474	Hylobates lar isolate J28 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622769.1	16431	Hylobates lar isolate J27 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622768.1	16472	Hylobates lar isolate J26 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622767.1	16415	Hylobates lar isolate J10 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622766.1	16472	Hylobates lar isolate J09 mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622765.1	16472	Hylobates lar isolate 502 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622764.1	16473	Hylobates lar isolate 501 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	HQ622763.1	16473	Hylobates lar isolate 26 mitochondrial sequence
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	NC_002082.1	16472	Hylobates lar mitochondrion, complete genome
+MAMMALIA_PRIMATES_HYLOBATIDAE_Hylobates_lar	X99256.1	16472	Hylobates lar complete mitochondrial DNA sequence

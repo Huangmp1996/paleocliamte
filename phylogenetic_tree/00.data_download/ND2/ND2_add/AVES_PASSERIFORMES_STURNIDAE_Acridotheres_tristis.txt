@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	EU551950.1	1041	Acridotheres tristis voucher NRM 20046686 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	EU551949.1	1041	Acridotheres tristis voucher MNHN 2005.1755 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	DQ466850.1	1041	Acridotheres tristis voucher AMNH PRS701 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	HQ915864.1	16822	Sturnus tristis mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	EF468170.1	1041	Acridotheres tristis isolate Atris42794 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	KJ455301.1	1041	Acridotheres tristis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	NC_015195.1	16822	Sturnus tristis mitochondrion, complete genome

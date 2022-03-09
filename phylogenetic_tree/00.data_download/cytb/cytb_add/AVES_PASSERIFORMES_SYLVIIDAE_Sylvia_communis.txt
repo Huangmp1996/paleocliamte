@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	MN642454.1	1090	Sylvia communis voucher MNHN 1995.231 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JF502288.1	999	Sylvia communis voucher BMNH 44368 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JF502287.1	998	Sylvia communis voucher USNM 640581 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JF502286.1	998	Sylvia communis voucher YPM 101274 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	JF502285.1	998	Sylvia communis voucher B0116 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	HQ608881.1	1176	Sylvia communis isolate Y24 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	HQ608840.1	1143	Sylvia communis isolate Y20 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_communis	AJ534538.1	1143	Sylvia communis mitochondrial cytb gene for cytochrome b

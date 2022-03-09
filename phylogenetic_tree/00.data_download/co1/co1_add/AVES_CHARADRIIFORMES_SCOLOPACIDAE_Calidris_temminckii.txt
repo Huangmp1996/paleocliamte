@@ -1,0 +1,4 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_temminckii	GQ481441.1	694	Calidris temminckii voucher UWBM 49687 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_temminckii	GU571784.1	648	Calidris temminckii voucher BISE-Aves162 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_temminckii	GU571306.1	723	Calidris temminckii voucher NHMO-BC215 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_temminckii	KF009529.1	785	Calidris temminckii voucher TEST 22 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

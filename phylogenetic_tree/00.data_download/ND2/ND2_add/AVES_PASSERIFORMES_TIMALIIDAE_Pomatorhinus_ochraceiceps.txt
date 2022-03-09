@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	MK567178.1	896	Pomatorhinus ochraceiceps voucher SR2016-742 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	HQ529078.1	519	Pomatorhinus ochraceiceps voucher MNHN:5.13 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	HQ529077.1	519	Pomatorhinus ochraceiceps voucher USNM:459788 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	HQ529076.1	519	Pomatorhinus ochraceiceps voucher USNM:459786 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	GU724465.1	1041	Pomatorhinus ochraceiceps ochraceiceps voucher KIZ:WS023 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	GU724464.1	1041	Pomatorhinus ochraceiceps ochraceiceps voucher KIZ:WS026 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_ochraceiceps	GU724463.1	1041	Pomatorhinus ochraceiceps ochraceiceps voucher KIZ:WS024 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

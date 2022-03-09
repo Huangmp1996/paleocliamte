@@ -1,0 +1,7 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_argentatus	DQ845186.1	1119	Alticola argentatus cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_argentatus	KC962253.1	835	Alticola argentatus isolate Abar2561 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_argentatus	KC962252.1	835	Alticola argentatus isolate Aarg479 cytochrome b (Cytochrome b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_argentatus	KC962251.1	835	Alticola argentatus isolate Aarg477 cytochrome b (Cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_argentatus	KJ556727.1	1143	Alticola argentatus voucher UVM:VT431 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_argentatus	KJ556628.1	1143	Alticola argentatus voucher MSB:Mamm:158760 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Alticola_argentatus	KJ556627.1	1143	Alticola argentatus voucher MSB:Mamm:158797 cytochrome b (cytb) gene, complete cds; mitochondrial

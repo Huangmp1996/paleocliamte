@@ -1,0 +1,18 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	JQ086345.1	18521	Eremias argus voucher LEGO-F415 mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733939.1	707	Eremias argus voucher CIB<CHN>:GE0708039 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733938.1	707	Eremias argus voucher UOG:ROM37510 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733937.1	707	Eremias argus voucher UOG:IOZ2260 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733936.1	707	Eremias argus voucher UOG:IOZ2034 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733935.1	660	Eremias argus voucher UOG:IOZ2033 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733934.1	662	Eremias argus voucher UOG:IOZ2030 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733933.1	707	Eremias argus voucher UOG:ROM37548 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733932.1	707	Eremias argus voucher UOG:ROM37547 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733931.1	707	Eremias argus voucher UOG:IOZ2029 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733930.1	707	Eremias argus voucher UOG:ROM37512 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733929.1	707	Eremias argus voucher UOG:ROM37590 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733928.1	707	Eremias argus voucher UOG:ROM37589 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733927.1	707	Eremias argus voucher UOG:ROM37546 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733926.1	707	Eremias argus voucher UOG:ROM37438 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733925.1	707	Eremias argus voucher UOG:ROM37439 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733924.1	660	Eremias argus isolate GE0708043 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	HQ733923.1	707	Eremias argus voucher UOG:ROM37588 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

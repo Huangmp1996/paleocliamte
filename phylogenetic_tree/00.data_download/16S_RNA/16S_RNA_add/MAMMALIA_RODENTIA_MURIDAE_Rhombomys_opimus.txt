@@ -1,0 +1,9 @@
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	MK359635.1	16352	Rhombomys opimus voucher ALS1719 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU182942.1	683	Rhombomys opimus clone 108 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU182934.1	639	Rhombomys opimus clone 29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156720.1	1140	Rhombomys opimus voucher Y154 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156719.1	1140	Rhombomys opimus voucher Y146 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156718.1	1140	Rhombomys opimus voucher Y112 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156717.1	1140	Rhombomys opimus voucher 108 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KU156716.1	1140	Rhombomys opimus voucher 29 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rhombomys_opimus	KT763069.1	541	Rhombomys opimus voucher Y120 16S ribosomal RNA gene, partial sequence; mitochondrial

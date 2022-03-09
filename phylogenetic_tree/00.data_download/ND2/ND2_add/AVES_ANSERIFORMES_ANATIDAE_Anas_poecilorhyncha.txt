@@ -1,0 +1,19 @@
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	AF059143.1	1093	Anas poecilorhyncha tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	AF059083.1	1074	Anas poecilorhyncha cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KC466567.1	16603	Anas poecilorhyncha mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KF751616.1	16606	Anas poecilorhyncha mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	NC_022418.1	16608	Anas poecilorhyncha mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968903.1	950	Anas poecilorhyncha voucher CGRB8404 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968902.1	950	Anas poecilorhyncha voucher CGRB9921 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968901.1	950	Anas poecilorhyncha voucher CGRB9942 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968899.1	950	Anas poecilorhyncha voucher CGRB9786 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968898.1	950	Anas poecilorhyncha voucher CGRB9784 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968895.1	950	Anas poecilorhyncha voucher CGRB7653 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968888.1	950	Anas poecilorhyncha voucher CGRB6240 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968885.1	950	Anas poecilorhyncha voucher CGRB7029 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968884.1	950	Anas poecilorhyncha voucher CGRB7027 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968880.1	950	Anas poecilorhyncha voucher CGRB7028 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968878.1	950	Anas poecilorhyncha voucher CGRB9935 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968876.1	950	Anas poecilorhyncha voucher CGRB6643 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	JX968871.1	950	Anas poecilorhyncha voucher CGRB8498 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KF156760.1	16608	Anas poecilorhyncha mitochondrion, complete genome

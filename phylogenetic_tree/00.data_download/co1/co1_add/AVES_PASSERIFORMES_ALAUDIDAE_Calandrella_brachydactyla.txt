@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_ALAUDIDAE_Calandrella_brachydactyla	GU571293.1	717	Calandrella brachydactyla voucher NHMO-BC528 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Calandrella_brachydactyla	GQ481413.1	694	Calandrella brachydactyla voucher UWBM 64797 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Calandrella_brachydactyla	KP975234.1	633	Calandrella brachydactyla isolate NBS_HAN_2012_07 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

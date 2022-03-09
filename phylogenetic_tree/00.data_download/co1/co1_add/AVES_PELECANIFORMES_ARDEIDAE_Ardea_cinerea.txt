@@ -1,0 +1,38 @@
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	LC619125.1	658	Ardea cinerea FA_46 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	MN122856.1	16537	Ardea cinerea mitochondrion, partial genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KY754484.1	697	Ardea cinerea voucher G 817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KY040003.1	710	Ardea cinerea isolate GHAVC cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KT803610.1	648	Ardea cinerea isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	JN788898.1	503	Ardea cinerea isolate K582 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	JF499096.1	674	Ardea cinerea voucher USNM:641796 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	JF499095.1	677	Ardea cinerea voucher USNM:641806 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	JF499094.1	694	Ardea cinerea voucher USNM:641816 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	JF499093.1	694	Ardea cinerea voucher USNM:641835 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AY567886.1	1536	Ardea cinerea cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	HM804908.1	652	Ardea cinerea isolate Ardcin10 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	HM804907.1	685	Ardea cinerea isolate Ardcin9 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	HM804906.1	696	Ardea cinerea isolate Ardcin8 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	HM804905.1	601	Ardea cinerea isolate Ardcin5 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	GU571740.1	648	Ardea cinerea voucher BISE-Aves68 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	GU571266.1	696	Ardea cinerea voucher NHMO-BC378 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	GQ481372.1	694	Ardea cinerea voucher UWBM 47173 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	FJ808628.1	677	Ardea cinerea voucher KU08010 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	EF515755.1	686	Ardea cinerea voucher KRIBB1692 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB843365.1	687	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO522-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842573.1	644	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM221-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842572.1	701	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM836-11
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842571.1	625	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM340-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842570.1	717	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM339-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842569.1	643	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM356-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842568.1	668	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM222-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842567.1	619	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM835-11
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842566.1	642	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM426-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	AB842565.1	665	Ardea cinerea mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM425-10
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	NC_025900.1	18703	Ardea cinerea mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KJ941185.1	611	Ardea cinerea voucher MTD C63478 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KJ941184.1	611	Ardea cinerea voucher MTD C63971 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KJ941183.1	611	Ardea cinerea voucher MTD C62715 cytochrome oxidase (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KJ190947.1	18703	Ardea cinerea mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KF946597.1	693	Ardea cinerea cinerea voucher Tissue435 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	KF946596.1	693	Ardea cinerea cinerea voucher Tissue434 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ardea_cinerea	JN801267.1	593	Ardea cinerea voucher USNM 571186 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

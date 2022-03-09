@@ -1,0 +1,14 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KY410972.1	16214	Tamiops swinhoei voucher AMNH 114932 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KY410971.1	16126	Tamiops swinhoei voucher MSWC 218 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	EF539334.1	1140	Tamiops swinhoei cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698409.1	1140	Tamiops swinhoei voucher USNM-MSWC218 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698408.1	1140	Tamiops swinhoei voucher KIZ-97522 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698407.1	1140	Tamiops swinhoei voucher KIZ-97521 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698406.1	1140	Tamiops swinhoei voucher IEBR-JP137 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698405.1	1140	Tamiops swinhoei voucher IEBR-JP136 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698404.1	1140	Tamiops swinhoei voucher IEBR-JP134 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698403.1	1140	Tamiops swinhoei voucher IEBR-JP132 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698402.1	1140	Tamiops swinhoei voucher IEBR-JP131 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	HQ698401.1	1140	Tamiops swinhoei voucher IEBR-JP130 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	NC_026875.1	16513	Tamiops swinhoei mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KP027416.1	16513	Tamiops swinhoei mitochondrion, complete genome

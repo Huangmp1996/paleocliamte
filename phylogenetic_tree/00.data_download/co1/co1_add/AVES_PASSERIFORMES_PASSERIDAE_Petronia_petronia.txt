@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	GQ482355.1	679	Petronia petronia voucher UWBM 66486 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	GQ482354.1	694	Petronia petronia voucher UWBM 78961 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	MF071218.1	17426	Petronia petronia mitochondrion, complete genome

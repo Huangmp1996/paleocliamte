@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	KJ456440.1	1053	Pycnonotus cafer cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	KJ442617.1	364	Pycnonotus cafer cafer isolate AV21 cytochrome b (CytB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	KF289822.1	396	Pycnonotus cafer cafer isolate AV21 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	KF289834.1	421	Pycnonotus cafer cafer isolate AV21 cytochrome b (CytB) gene, partial cds; mitochondrial

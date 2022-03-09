@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	AY128562.1	667	Alcippe poioicephala alearis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	AF376890.2	814	Alcippe poioicephala cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	DQ861991.1	666	Alcippe poioicephala alearis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702759.1	1143	Alcippe poioicephala voucher 264504 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702758.1	1143	Alcippe poioicephala voucher 264566 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702757.1	1143	Alcippe poioicephala voucher 1449 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702756.1	1143	Alcippe poioicephala voucher 1483 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702755.1	1143	Alcippe poioicephala voucher 264565 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702754.1	1143	Alcippe poioicephala voucher 1448 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702753.1	1143	Alcippe poioicephala voucher 1451 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702752.1	1143	Alcippe poioicephala voucher 264564 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	KJ702751.1	1143	Alcippe poioicephala voucher 264642 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	JN827009.1	967	Alcippe poioicephala voucher USNM 6060 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Alcippe_poioicephala	JN827008.1	967	Alcippe poioicephala voucher USNM 5606 cytochrome b (CYTB) gene, partial cds; mitochondrial

@@ -1,0 +1,10 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	MH645652.1	718	Streptopelia chinensis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	MG604793.1	882	Streptopelia chinensis isolate OUT1 cytochrome b (cytb) gene, partial cds
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	AF483341.1	1044	Streptopelia chinensis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	AF182695.1	1042	Streptopelia chinensis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	KP636801.1	16964	Streptopelia chinensis voucher zjbj1 mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	NC_026459.1	16966	Streptopelia chinensis mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	KP273832.1	16966	Streptopelia chinensis mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	KC439291.1	419	Streptopelia chinensis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	FJ498998.1	519	Streptopelia chinensis isolate B cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Spilopelia_chinensis	FJ498967.1	519	Streptopelia chinensis isolate A cytochrome b (cytb) gene, partial cds; mitochondrial

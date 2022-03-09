@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	NC_048470.1	17855	Eremophila alpestris isolate J3 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	MH061203.1	17702	Eremophila alpestris isolate J4 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	MH061202.1	17855	Eremophila alpestris isolate J3 mitochondrion, complete genome
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	KF060359.1	886	Eremophila alpestris praticola 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_ALAUDIDAE_Eremophila_alpestris	FJ465221.1	485	Eremophila alpestris albigula voucher MFUM 20042 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,7 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_crepusculus	MF872229.1	16552	Trachypithecus phayrei crepuscula, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_crepusculus	KY425609.1	16552	Trachypithecus phayrei crepuscula isolate YNTC2016001 mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_crepusculus	AY519461.1	573	Trachypithecus phayrei crepusculus cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_crepusculus	KC285866.1	1135	Trachypithecus phayrei crepuscula isolate WL cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_crepusculus	KC285865.1	1135	Trachypithecus phayrei crepuscula isolate BN2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_crepusculus	KC285864.1	1135	Trachypithecus phayrei crepuscula isolate BN1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_crepusculus	KC285863.1	1135	Trachypithecus phayrei crepuscula isolate NM cytochrome b (cytb) gene, complete cds; mitochondrial

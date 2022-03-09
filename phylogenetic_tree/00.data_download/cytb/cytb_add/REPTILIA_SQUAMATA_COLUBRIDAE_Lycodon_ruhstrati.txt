@@ -1,0 +1,17 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MT625854.1	1066	Lycodon ruhstrati voucher SYS r001631 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MT625852.1	1066	Lycodon ruhstrati voucher SYS r001362 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MT625849.1	1066	Lycodon ruhstrati voucher SYS r001309 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MT625848.1	1066	Lycodon ruhstrati voucher SYS r001275 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	NC_046046.1	17168	Lycodon ruhstrati mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MK867843.1	17168	Lycodon ruhstrati mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MK201538.1	585	Lycodon ruhstrati voucher CHS803 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MK201521.1	585	Lycodon ruhstrati voucher CHS776 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MK201473.1	585	Lycodon ruhstrati voucher CHS689 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MK201467.1	585	Lycodon ruhstrati voucher CHS676 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	MK201310.1	585	Lycodon ruhstrati voucher CHS172 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	KJ179951.1	17153	Lycodon ruhstrati mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	KC733208.1	1103	Lycodon ruhstrati voucher GP2243 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	KC733200.1	1096	Lycodon ruhstrati voucher GP2049 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	KC733197.1	1096	Lycodon ruhstrati voucher GP991 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	KC733195.1	1096	Lycodon ruhstrati voucher GP285 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_ruhstrati	KF732925.1	1085	Lycodon ruhstrati isolate CIB102 cytochrome b (cytb) gene, partial cds; mitochondrial

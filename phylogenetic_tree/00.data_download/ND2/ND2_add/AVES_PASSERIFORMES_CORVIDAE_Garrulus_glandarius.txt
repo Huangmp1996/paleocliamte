@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KY495260.1	1009	Garrulus glandarius NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	JN018413.1	16930	Garrulus glandarius mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859263.1	1041	Garrulus glandarius voucher YPM 101910 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859262.1	1041	Garrulus glandarius voucher YPM 101794 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859261.1	1041	Garrulus glandarius isolate VM338 voucher UWBM 59680 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859260.1	1041	Garrulus glandarius isolate VM323 voucher UWBM 59676 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859259.1	1041	Garrulus glandarius isolate VM317 voucher UWBM 57236 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859258.1	1041	Garrulus glandarius isolate SVD1943 voucher UWBM 64645 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859257.1	1041	Garrulus glandarius isolate SVD1669 voucher UWBM 61417 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859256.1	1041	Garrulus glandarius isolate MVK271 voucher UWBM 74429 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	KU859255.1	1041	Garrulus glandarius isolate DAB377 voucher UWBM 57225 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	NC_015810.1	16930	Garrulus glandarius mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	JQ864461.1	1041	Garrulus glandarius voucher UWBM 75172 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Garrulus_glandarius	JQ023994.1	1017	Garrulus glandarius voucher ZMUC 136378 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

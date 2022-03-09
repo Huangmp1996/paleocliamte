@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	AF222564.1	1041	Tetrao tetrix NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	AF230120.1	202	Tetrao tetrix NADH subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	NC_024554.1	16677	Lyrurus tetrix mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	KF955638.1	16677	Lyrurus tetrix mitochondrion, complete genome

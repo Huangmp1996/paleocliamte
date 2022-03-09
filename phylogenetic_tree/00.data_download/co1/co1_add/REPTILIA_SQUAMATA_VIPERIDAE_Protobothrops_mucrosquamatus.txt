@@ -1,0 +1,30 @@
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MZ031550.1	202	Protobothrops mucrosquamatus voucher BSM48 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MZ031502.1	202	Protobothrops mucrosquamatus voucher GSM48 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MZ031477.1	658	Protobothrops mucrosquamatus voucher BSF48 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MZ031429.1	658	Protobothrops mucrosquamatus voucher GSF48 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MF099745.1	658	Protobothrops mucrosquamatus voucher YMTF02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MF099744.1	658	Protobothrops mucrosquamatus voucher YMTF01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MK064881.1	657	Protobothrops mucrosquamatus voucher CHS793 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MK064859.1	657	Protobothrops mucrosquamatus voucher CHS759 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MK064833.1	657	Protobothrops mucrosquamatus voucher CHS716 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MK064743.1	657	Protobothrops mucrosquamatus voucher CHS364 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403672.1	651	Protobothrops mucrosquamatus voucher GP2472 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403671.1	640	Protobothrops mucrosquamatus voucher GP1043 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403670.1	657	Protobothrops mucrosquamatus voucher GP997 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403669.1	646	Protobothrops mucrosquamatus voucher GP402 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403668.1	650	Protobothrops mucrosquamatus voucher GP136 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403667.1	642	Protobothrops mucrosquamatus voucher GP134 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403666.1	637	Protobothrops mucrosquamatus voucher GP32 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403665.1	657	Protobothrops mucrosquamatus voucher GP31 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP403664.1	646	Protobothrops mucrosquamatus voucher GP29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MH220715.1	658	Protobothrops mucrosquamatus voucher CGS129 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MH153694.1	658	Protobothrops mucrosquamatus voucher H-70 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP772304.1	658	Protobothrops mucrosquamatus isolate RN0888 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP772302.1	658	Protobothrops mucrosquamatus isolate RN0871 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP772301.1	658	Protobothrops mucrosquamatus isolate RN0854 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP772292.1	658	Protobothrops mucrosquamatus isolate RN0295 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KP772291.1	658	Protobothrops mucrosquamatus isolate RN0293 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KT447436.1	17223	Protobothrops mucrosquamatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	NC_021412.1	17234	Protobothrops mucrosquamatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KC438281.1	17234	Protobothrops mucrosquamatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	JX233625.1	658	Protobothrops mucrosquamatus isolate PM1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

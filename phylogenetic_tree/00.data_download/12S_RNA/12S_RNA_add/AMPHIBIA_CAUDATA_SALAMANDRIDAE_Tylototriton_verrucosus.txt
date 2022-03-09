@@ -1,0 +1,8 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_verrucosus	MF461428.1	16660	Tylototriton verrucosus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_verrucosus	KC733361.1	1728	Tylototriton verrucosus voucher GZNU2012051101 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_verrucosus	JQ824161.1	656	Tylototriton verrucosus isolate YN0705200 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_verrucosus	JQ824160.1	656	Tylototriton verrucosus isolate YN0705203 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_verrucosus	JQ824159.1	656	Tylototriton verrucosus isolate ROM35473 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_verrucosus	JQ824158.1	656	Tylototriton verrucosus isolate ROM35479 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_verrucosus	NC_017871.1	17100	Tylototriton verrucosus mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_verrucosus	AB689009.1	17100	Tylototriton verrucosus mitochondrial DNA, complete genome, isolate: TK-2009-pet_trade-Tv01

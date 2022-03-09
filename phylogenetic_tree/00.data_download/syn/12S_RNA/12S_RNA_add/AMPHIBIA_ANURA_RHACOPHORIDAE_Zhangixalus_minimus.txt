@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_minimus	LC386569.1	1899	Rhacophorus minimus KUHE:70049 mitochondrial DNA, contains 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_minimus	EU215539.1	1952	Rhacophorus minimus voucher KIZ 061214YP 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_minimus	EF564489.1	423	Rhacophorus minimus isolate KIZ060821020 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_minimus	EF564488.1	423	Rhacophorus minimus isolate KIZ060821019 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406320.1	632	Megophrys jinggangensis isolate 4825 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406319.1	632	Megophrys jinggangensis isolate 4824 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406240.1	632	Megophrys jinggangensis isolate 4029 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406239.1	632	Megophrys jinggangensis isolate 4028 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406152.1	632	Megophrys jinggangensis isolate 2609 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406151.1	632	Megophrys jinggangensis isolate 2607 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406150.1	632	Megophrys jinggangensis isolate 2544 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MH406149.1	632	Megophrys jinggangensis isolate 2543 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MF667912.1	621	Megophrys jinggangensis voucher 2607 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MF667911.1	621	Megophrys jinggangensis voucher 2543 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	MF667910.1	621	Megophrys jinggangensis voucher 2132 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KX812109.1	561	Megophrys jinggangensis isolate YPX8506 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_jinggangensis	KX812108.1	561	Megophrys jinggangensis isolate KIZ07132 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	MN356316.1	17709	Upupa epops mitochondrion, complete genome
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	MK060147.1	15515	Upupa epops mitochondrion, partial genome
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	NC_028178.1	16562	Upupa epops mitochondrion, complete genome
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KT356220.1	16562	Upupa epops mitochondrion, complete genome
+AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	AF173597.1	2646	Upupa epops 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; 16S ribosomal RNA gene, complete sequence; and tRNA-Leu gene, partial sequence; mitochondrial genes for mitochondrial products

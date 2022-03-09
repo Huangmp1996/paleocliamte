@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	MK598890.1	696	Alophoixus flaveolus voucher USNM631811 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	MK598889.1	696	Alophoixus flaveolus voucher USNM620489 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	MK598888.1	696	Alophoixus flaveolus voucher USNM620490 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	MK598887.1	670	Alophoixus flaveolus voucher SR2006-3307 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	MK598886.1	652	Alophoixus flaveolus voucher SR2016-23 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	MK598885.1	652	Alophoixus flaveolus voucher SR2016-21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	JQ173975.2	651	Criniger flaveolus voucher USNM:Birds:620489 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	JQ173973.2	651	Criniger flaveolus voucher USNM:Birds:620490 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Alophoixus_flaveolus	JQ173974.1	652	Criniger flaveolus voucher USNM:Birds:631811 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

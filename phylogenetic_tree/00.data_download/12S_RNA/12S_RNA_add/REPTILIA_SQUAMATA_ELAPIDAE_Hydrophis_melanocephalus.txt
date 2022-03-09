@@ -1,0 +1,3 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	MK775532.1	17182	Hydrophis melanocephalus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	LC104765.1	169	Hydrophis melanocephalus mitochondrial gene for 12S rRNA, partial sequence, bio_material: CBM(Chiba Museum) DNA No. 2015-490
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_melanocephalus	D31609.1	344	Hydrophis melanocephalus mitochondrial gene for 12S rRNA, partial sequence

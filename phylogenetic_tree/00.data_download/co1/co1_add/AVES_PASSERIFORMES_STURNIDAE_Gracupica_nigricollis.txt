@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	EF484204.1	1551	Sturnus nigricollis isolate Gracupicanig105473 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	EF484203.1	1551	Sturnus nigricollis isolate GracupicanigB5709 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	NC_020423.1	16839	Sturnus nigricollis mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	JQ003192.1	16841	Sturnus nigricollis voucher AHNU:A0036 mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	JQ003191.1	16839	Sturnus nigricollis voucher AHNU:A0200 mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Gracupica_nigricollis	JQ174953.1	652	Sturnus nigricollis voucher USNM:Birds:620448 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

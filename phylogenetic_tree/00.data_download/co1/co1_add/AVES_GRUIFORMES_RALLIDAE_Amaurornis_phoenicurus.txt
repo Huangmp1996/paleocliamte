@@ -1,0 +1,16 @@
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KY040010.1	708	Amaurornis phoenicurus isolate WBWHAVC cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	JF957002.1	695	Amaurornis phoenicurus voucher UPD040 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	AB843348.1	663	Amaurornis phoenicurus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO156-10
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	AB843347.1	692	Amaurornis phoenicurus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO158-10
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	AB843346.1	683	Amaurornis phoenicurus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO157-10
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	AB842539.1	668	Amaurornis phoenicurus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM420-10
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	AB842538.1	651	Amaurornis phoenicurus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM343-10
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	AB842537.1	652	Amaurornis phoenicurus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM267-10
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	AB842536.1	666	Amaurornis phoenicurus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM144-10
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	AB842535.1	708	Amaurornis phoenicurus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM074-08
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KJ442626.1	646	Amaurornis phoenicurus isolate AV18 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	NC_024593.1	17213	Amaurornis phoenicurus mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KJ874440.1	17213	Amaurornis phoenicurus mitochondrion, complete genome
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	KC439301.1	575	Amaurornis phoenicurus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	JQ342118.1	914	Amaurornis phoenicurus isolate BXKE2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GRUIFORMES_RALLIDAE_Amaurornis_phoenicurus	JQ342117.1	914	Amaurornis phoenicurus isolate BXKE1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

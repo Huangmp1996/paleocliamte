@@ -1,0 +1,29 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MN356415.1	16732	Limosa lapponica mitochondrion, partial genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	NC_046765.1	16773	Limosa lapponica mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK341549.1	16773	Limosa lapponica mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	GQ482061.1	694	Limosa lapponica voucher UWBM 49664 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	GQ482060.1	694	Limosa lapponica voucher UWBM 49665 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK262676.1	648	Limosa lapponica voucher SP165 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK262597.1	648	Limosa lapponica voucher SP163 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK262594.1	648	Limosa lapponica voucher SP162 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK262466.1	648	Limosa lapponica voucher SP166 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK262439.1	648	Limosa lapponica voucher SP167 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MK262315.1	648	Limosa lapponica voucher SP164 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MF580211.1	658	Limosa lapponica voucher USNM:Birds:653387 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	MF580210.1	658	Limosa lapponica voucher USNM:Birds:653108 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KX371106.1	16732	Limosa lapponica baueri mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	AY666291.1	694	Limosa lapponica voucher MKP 1529 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	AY666279.1	678	Limosa lapponica voucher MKP 1528 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	GU571457.1	750	Limosa lapponica voucher NHMO-BC437 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	GQ482059.1	694	Limosa lapponica voucher UWBM 49752 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	GQ482058.1	694	Limosa lapponica voucher UWBM 49751 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946735.1	693	Limosa lapponica taymyrensis voucher ZMA58783 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946734.1	693	Limosa lapponica taymyrensis voucher ZMA58782 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946733.1	693	Limosa lapponica taymyrensis voucher ZMA58208 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946732.1	654	Limosa lapponica taymyrensis voucher ZMA58207 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946731.1	693	Limosa lapponica taymyrensis voucher ZMA58206 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946730.1	693	Limosa lapponica taymyrensis voucher ZMA58205 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946729.1	693	Limosa lapponica lapponica voucher ZMA58203 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946728.1	652	Limosa lapponica taymyrensis voucher ZMA58204 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF946727.1	693	Limosa lapponica lapponica voucher ZMA58202 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_lapponica	KF009542.1	648	Limosa lapponica voucher MKP 802 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

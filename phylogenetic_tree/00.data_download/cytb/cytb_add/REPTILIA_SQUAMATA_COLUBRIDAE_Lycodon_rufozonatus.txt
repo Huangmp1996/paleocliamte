@@ -1,0 +1,24 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MT625860.1	1066	Lycodon rufozonatus voucher SYS r002061 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MT625858.1	1066	Lycodon rufozonatus voucher SYS r001770 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK201482.1	585	Lycodon rufozonatus voucher CHS710 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK201427.1	585	Lycodon rufozonatus voucher CHS601 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK201307.1	585	Lycodon rufozonatus voucher CHS164 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK201306.1	585	Lycodon rufozonatus voucher CHS163 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	AF471063.1	1117	Lycodon rufozonatus cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	AF036028.1	246	Dinodon rufozonatum cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	AF036027.1	246	Dinodon rufozonatum cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KC733196.1	1081	Dinodon rufozonatum voucher GP625 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KC733194.1	1104	Dinodon rufozonatum voucher GP133 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF148622.1	17189	Dinodon rufozonatum mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF913309.1	307	Dinodon rufozonatum voucher S-90 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF913308.1	307	Dinodon rufozonatum voucher S-105 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF913307.1	307	Dinodon rufozonatum voucher S-104 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF913306.1	307	Dinodon rufozonatum voucher S-88 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF913305.1	307	Dinodon rufozonatum voucher S-87 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	NC_024559.1	17188	Lycodon rufozonatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KJ179950.1	17188	Dinodon rufozonatum mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF732924.1	1085	Dinodon rufozonatum isolate CIB101 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JQ798788.1	786	Dinodon rufozonatum voucher NIBRRP0000000117 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JQ798787.1	786	Dinodon rufozonatum voucher NIBRRP0000100254 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JQ798786.1	786	Dinodon rufozonatum voucher NIBRRP0000100358 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JF827672.1	1080	Dinodon rufozonatum isolate china cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	NC_038218.1	18708	Strix uralensis isolate C5 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	MG681082.1	18709	Strix uralensis isolate C7 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	MG681081.1	18708	Strix uralensis isolate C5 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	LC104789.1	179	Strix uralensis japonica mitochondrial gene for 12S rRNA, partial sequence, bio_material: NSMT(National Science Museum, Tokyo)-DNA-50409
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AF231328.1	443	Strix uralensis 12S small subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

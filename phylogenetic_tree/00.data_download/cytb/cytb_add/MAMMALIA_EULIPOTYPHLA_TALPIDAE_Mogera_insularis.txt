@@ -1,0 +1,29 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB037606.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: HS1036
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	KP717378.1	1140	Mogera insularis latouchei voucher AVA 13-122 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	KP717377.1	1140	Mogera insularis latouchei voucher AVA 13-114 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823095.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1071/SIK0825
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823094.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1070/SIK0824
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823093.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: SAS150
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823092.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: SAS149
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823091.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: SAS148
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823090.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1069/SIK0823
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823102.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1861/SIK0887
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823101.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1860/SIK0886
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823100.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1476/SIK0874
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823099.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1475/SIK0873
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823098.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1474/SIK0872
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823097.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1473/SIK0871
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB823096.1	1140	Mogera insularis latouchei mitochondrial cytb gene for cytochrome b, complete cds, isolate: IEBR-M-1472/SIK0870
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	KC481325.1	1140	Mogera insularis latouchei voucher ZIN91213 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	KC481324.1	1140	Mogera insularis latouchei voucher ZIN91212 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181619.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: THU40
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181618.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: THU39
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181617.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: THU38
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181616.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: SIK0587
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181615.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: SIK0586
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181614.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: SIK0585
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181613.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: SIK0532
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181612.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: SIK0531
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181611.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: SIK0530
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181610.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: SIK0529
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Mogera_insularis	AB181609.1	1140	Mogera insularis mitochondrial cytb gene for cytochrome b, complete cds, isolate: SIK0528

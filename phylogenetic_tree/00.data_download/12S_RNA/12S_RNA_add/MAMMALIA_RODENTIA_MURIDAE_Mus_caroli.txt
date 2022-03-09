@@ -1,0 +1,10 @@
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	MK166027.1	16301	Mus caroli mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	NC_034580.1	117747451	Mus caroli chromosome 11, CAROLI_EIJ_v1.1, whole genome shotgun sequence
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	NC_025268.1	16313	Mus caroli isolate R5231 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	KJ530558.1	16313	Mus caroli isolate R5231 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	KJ530557.1	16310	Mus caroli isolate C0423 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	JQ287760.1	372	Mus caroli isolate ID1.6 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	JQ287759.1	372	Mus caroli isolate ID1.4 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AY057798.1	961	Mus caroli 12S ribosomal RNA, complete sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AB125785.1	821	Mus caroli mitochondrial gene for 12S ribosomal RNA, partial sequence, isolate:HS598
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	AJ279437.1	961	Mus caroli mitochondrial 12S rRNA gene

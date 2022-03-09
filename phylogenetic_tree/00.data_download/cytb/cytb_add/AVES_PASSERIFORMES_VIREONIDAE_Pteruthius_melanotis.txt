@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	NC_053108.1	16862	Pteruthius melanotis mitochondrion, complete genome
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	MN356376.1	16862	Pteruthius melanotis mitochondrion, complete genome
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	EF453350.1	1143	Pteruthius melanotis voucher AMNH 306966 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	EF453349.1	1143	Pteruthius melanotis voucher AMNH 306963 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	EF453337.1	1143	Pteruthius melanotis tahanensis voucher AMNH 591778 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	EF453336.1	1143	Pteruthius melanotis voucher AMNH DOT 2615 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	EF453335.1	1143	Pteruthius melanotis voucher AMNH DOT 10930 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	EF453334.1	1143	Pteruthius melanotis tahanensis voucher AMNH 591781 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_melanotis	JQ864520.1	1143	Pteruthius melanotis voucher CAS 95898 cytochrome b (cytb) gene, complete cds; mitochondrial

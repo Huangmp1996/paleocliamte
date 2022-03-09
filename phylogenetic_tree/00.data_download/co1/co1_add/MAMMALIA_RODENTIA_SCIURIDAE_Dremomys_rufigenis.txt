@@ -1,0 +1,9 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	KY410872.1	16189	Dremomys rufigenis voucher ROM 111385 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	KX171264.1	615	Dremomys rufigenis isolate LC-16 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	KX171263.1	615	Dremomys rufigenis fuscus isolate Na-65 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	KX171262.1	615	Dremomys rufigenis fuscus isolate 15-062_2 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	KX171261.1	615	Dremomys rufigenis fuscus isolate BL-18 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	NC_026442.1	16545	Dremomys rufigenis mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	KC447304.1	16545	Dremomys rufigenis mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	JQ601436.1	657	Dremomys rufigenis voucher ROM:111386 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	JF444298.1	653	Dremomys rufigenis voucher ROM:111385 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

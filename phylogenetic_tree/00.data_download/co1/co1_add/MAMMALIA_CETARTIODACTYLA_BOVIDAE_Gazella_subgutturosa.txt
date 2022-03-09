@@ -1,0 +1,18 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	MW285638.1	16435	Gazella subgutturosa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	MH261362.1	668	Gazella subgutturosa voucher PBRC-GG M4f cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KX882052.1	466	Gazella subgutturosa voucher MGL-90 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KX859293.1	664	Gazella subgutturosa voucher MGL-164 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KX859267.1	655	Gazella subgutturosa voucher MGL-91 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KU527897.1	605	Gazella subgutturosa haplotype MGL-06 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN632644.1	16433	Gazella subgutturosa isolate PhC1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN632643.1	16436	Gazella subgutturosa isolate AWWP mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679027.1	644	Gazella subgutturosa isolate Ka9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679026.1	644	Gazella subgutturosa isolate Ka8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679025.1	644	Gazella subgutturosa isolate Ka7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679024.1	644	Gazella subgutturosa isolate Ka6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679023.1	644	Gazella subgutturosa isolate Ka5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679022.1	644	Gazella subgutturosa isolate Ka4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679021.1	644	Gazella subgutturosa isolate Ka3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679020.1	644	Gazella subgutturosa isolate Ka2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	KC679019.1	644	Gazella subgutturosa isolate Ka1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	NC_020710.1	16433	Gazella subgutturosa isolate PhC1 mitochondrion, complete genome

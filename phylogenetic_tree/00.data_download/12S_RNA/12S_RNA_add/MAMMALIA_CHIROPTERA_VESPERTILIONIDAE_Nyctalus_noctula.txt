@@ -1,0 +1,12 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN122907.1	16760	Nyctalus noctula isolate DM12 mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN122876.1	15987	Nyctalus noctula isolate DM35 mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN046116.1	954	Nyctalus noctula isolate D5 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN046117.1	948	Nyctalus noctula isolate B12 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN046112.1	1081	Nyctalus noctula isolate D9 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN046113.1	909	Nyctalus noctula isolate D10 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN046111.1	974	Nyctalus noctula isolate B11 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN046012.1	532	Nyctalus noctula isolate D13 small subunit ribosomal RNA gene, partial sequence
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	NC_027237.1	17478	Nyctalus noctula mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	KP273590.1	17478	Nyctalus noctula mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	AY495518.1	2595	Nyctalus noctula 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA genes, complete sequence; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	AY027817.1	374	Nyctalus noctula isolate 519 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	MH079386.1	1031	Seicercus tephrocephalus voucher IOZ 17386 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	MH079385.1	1041	Seicercus tephrocephalus voucher IOZ 16318 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	AY635085.1	1038	Seicercus tephrocephalus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	AY635084.1	1038	Seicercus tephrocephalus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	HQ706182.1	1038	Seicercus tephrocephalus voucher U1960 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	AY606171.1	668	Seicercus tephrocephalus isolate t825 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	AY606170.1	668	Seicercus tephrocephalus isolate t819 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	AY606144.1	668	Seicercus tephrocephalus isolate t2029 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tephrocephalus	AY606140.1	658	Seicercus tephrocephalus isolate t2004 cytochrome b (cytb) gene, partial cds; mitochondrial

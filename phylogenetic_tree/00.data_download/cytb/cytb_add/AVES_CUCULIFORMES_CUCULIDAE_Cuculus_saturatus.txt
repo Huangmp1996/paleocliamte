@@ -1,0 +1,4 @@
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	AF204979.1	432	Cuculus saturatus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	KJ456243.1	1143	Cuculus saturatus voucher UWBM:71703 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	D38330.1	646	Cuculus saturatus mitochondrial gene for cytochrome b, partial cds
+AVES_CUCULIFORMES_CUCULIDAE_Cuculus_saturatus	D38358.1	293	Cuculus saturatus gene for 18S rRNA, partial sequence

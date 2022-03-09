@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	NC_053057.1	16875	Bombycilla garrulus mitochondrion, complete genome
+AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	MN356253.1	16875	Bombycilla garrulus mitochondrion, complete genome
+AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	AB042397.1	463	Bombycilla garrulus mitochondrial gene for 16S ribosomal RNA, partial sequence

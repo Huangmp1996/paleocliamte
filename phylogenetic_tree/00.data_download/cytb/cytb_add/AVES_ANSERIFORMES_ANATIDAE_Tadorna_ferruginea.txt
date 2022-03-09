@@ -1,0 +1,5 @@
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	EU585664.1	1045	Tadorna ferruginea voucher IPMB 7111 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	NC_024640.1	16639	Tadorna ferruginea mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	KF684946.1	16639	Tadorna ferruginea mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	KC439294.1	419	Tadorna ferruginea cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Tadorna_ferruginea	U46475.1	307	Tadorna ferruginea cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds

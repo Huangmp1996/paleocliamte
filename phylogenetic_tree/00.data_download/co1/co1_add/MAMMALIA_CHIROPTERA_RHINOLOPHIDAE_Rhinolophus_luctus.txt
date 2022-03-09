@@ -1,0 +1,15 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM914951.1	658	Rhinolophus luctus voucher ZMMU SVK 169-09 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541591.1	657	Rhinolophus luctus voucher ROM MAM 114936 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541590.1	657	Rhinolophus luctus voucher ROM MAM 111387 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541589.1	282	Rhinolophus luctus voucher ROM MAM 114948 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541588.1	627	Rhinolophus luctus voucher ROM MAM 118019 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541587.1	421	Rhinolophus luctus voucher AGS980430-30 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541586.1	606	Rhinolophus luctus voucher EBD 25678 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541585.1	380	Rhinolophus luctus voucher CMF970516-42 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541584.1	421	Rhinolophus luctus voucher AGS970412-02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541583.1	657	Rhinolophus luctus voucher HZM 6.36475 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	HM541582.1	421	Rhinolophus luctus voucher ZMMU S-175170 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	NC_018539.1	16775	Rhinolophus luctus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	JN986580.1	16775	Rhinolophus luctus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	JF444049.1	657	Rhinolophus luctus voucher ROM 116397 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_luctus	JF444048.1	657	Rhinolophus luctus voucher ROM 118548 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

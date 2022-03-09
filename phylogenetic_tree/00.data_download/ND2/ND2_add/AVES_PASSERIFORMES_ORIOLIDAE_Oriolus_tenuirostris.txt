@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_tenuirostris	MK706377.1	945	Oriolus tenuirostris tenuirostris voucher BMNH:1921 7 15 732 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_tenuirostris	MK706376.1	918	Oriolus tenuirostris tenuirostris voucher BMNH:1954 42 124 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_tenuirostris	MK706375.1	945	Oriolus tenuirostris invisus voucher BMNH:1927.6.5.1614 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_tenuirostris	MK706374.1	945	Oriolus tenuirostris invisus voucher BMNH:1919.12.20.465 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_tenuirostris	JQ864469.1	1041	Oriolus tenuirostris voucher YPM 68434 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

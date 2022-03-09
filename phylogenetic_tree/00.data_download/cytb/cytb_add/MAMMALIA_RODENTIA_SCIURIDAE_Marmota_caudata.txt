@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_caudata	AF100716.1	1140	Marmota caudata cytochrome b (cyt b) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_caudata	AF143925.1	1140	Marmota caudata clone IDB_23708 cytochrome b (cyt-b) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_caudata	AF143924.1	1140	Marmota caudata clone IDB_23767 cytochrome b (cyt-b) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SCIURIDAE_Marmota_caudata	AF143923.1	1140	Marmota caudata sub-species caudata cytochrome b (cyt-b) gene, complete cds; mitochondrial gene for mitochondrial product

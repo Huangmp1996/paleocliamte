@@ -1,0 +1,11 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT251415.1	660	Naemorhedus goral voucher NGB-BRC3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MT251414.1	666	Naemorhedus goral voucher NGB-BRC2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MG865962.1	16557	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MG742694.1	666	Naemorhedus goral bedfordi voucher PBRC-GG M4f66 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	MG591488.1	16559	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	HQ269427.1	671	Naemorhedus goral voucher banlcd3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	HQ269426.1	671	Naemorhedus goral voucher banlcd2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	HQ269425.1	671	Naemorhedus goral voucher m291 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	KT878720.1	16533	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	NC_021381.1	16555	Naemorhedus goral mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_goral	JX188255.1	16555	Naemorhedus goral mitochondrion, complete genome

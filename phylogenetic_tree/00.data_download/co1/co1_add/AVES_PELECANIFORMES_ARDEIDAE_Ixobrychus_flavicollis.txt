@@ -1,0 +1,4 @@
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_flavicollis	FJ661092.1	684	Dupetor flavicollis voucher AHNU:Y06030 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_flavicollis	KJ190957.1	19340	Dupetor flavicollis mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_flavicollis	NC_024575.1	17016	Dupetor flavicollis mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_flavicollis	KJ643141.1	17016	Dupetor flavicollis mitochondrion, complete genome

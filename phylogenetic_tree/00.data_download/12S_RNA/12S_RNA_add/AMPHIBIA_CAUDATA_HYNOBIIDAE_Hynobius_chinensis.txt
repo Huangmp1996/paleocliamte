@@ -1,0 +1,7 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	DQ333819.1	16408	Hynobius chinensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	HM036353.1	16404	Hynobius chinensis voucher CIB-XM2853 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	NC_008088.1	16408	Hynobius chinensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	JQ710885.1	16495	Hynobius chinensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	AY915982.1	1077	Hynobius chinensis voucher TP24994 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	AY915981.1	1077	Hynobius chinensis voucher RM9870 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_chinensis	AY593118.1	938	Hynobius chinensis 12S ribosomal RNA gene, partial sequence; mitochondrial

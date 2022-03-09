@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	KX838507.1	16697	Perdix hodgsoniae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	NC_023940.1	16699	Perdix hodgsoniae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	KF027440.1	16699	Perdix hodgsoniae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	KC778973.1	953	Perdix hodgsoniae 12S ribosomal RNA gene, partial sequence; mitochondrial

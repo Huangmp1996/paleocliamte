@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_PARIDAE_Parus_major	MN356395.1	16775	Parus major mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482300.1	694	Parus major voucher UWBM 46513 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482299.1	694	Parus major voucher UWBM 80561 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482298.1	691	Parus major voucher UWBM 46626 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482297.1	684	Parus major voucher UWBM 56462 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482296.1	681	Parus major voucher UWBM 49480 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482295.1	681	Parus major voucher UWBM 51795 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482294.1	678	Parus major voucher UWBM 74796 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	NC_040875.1	16777	Parus major mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	MH638304.1	16777	Parus major mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KT803659.1	648	Parus major isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KT803658.1	648	Parus major isolate 2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KX388480.1	16773	Parus major isolate 5236 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KX388473.1	16773	Parus major isolate 1231 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GU572002.1	648	Parus major voucher BISE-Aves48 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GU572001.1	648	Parus major voucher BISE-Aves305 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GU571523.1	732	Parus major voucher NHMO-BC489 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GU571522.1	726	Parus major voucher NHMO-BC490 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482306.1	694	Parus major voucher ZMMU 29a cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482305.1	694	Parus major voucher ZMMU ASF 15 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482304.1	694	Parus major voucher ZMMU RYA 1596 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482303.1	694	Parus major voucher ZMMU RYA 1238 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482302.1	694	Parus major voucher ZMMU RYA 1064 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	GQ482301.1	681	Parus major voucher ZMMU RYA 1188 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	FJ465351.1	612	Parus major voucher ZMUC 136952 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	FJ465350.1	612	Parus major voucher ZMUC 135484 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	FJ465349.1	612	Parus major major voucher ZMUC 134036 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	FJ465348.1	611	Parus major major voucher ZMUC 134022 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	FJ465347.1	564	Parus major voucher ZMUC 133916 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	EF515798.1	686	Parus major voucher KRIBB1396 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KX283135.1	497	Parus major voucher AI-B259 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KX283134.1	648	Parus major voucher AI-B258 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KP137624.1	16776	Parus major mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843655.1	682	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO308-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843654.1	630	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO307-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843653.1	668	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO021-08
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843652.1	675	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO190-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843651.1	680	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO340-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843650.1	665	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO273-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843013.1	665	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM656-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843012.1	631	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM791-11
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843011.1	673	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM215-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843010.1	591	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM777-11
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843009.1	696	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM555-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843008.1	624	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM335-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843007.1	614	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM679-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843006.1	639	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM010-08
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843005.1	663	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM103-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843004.1	674	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM325-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843003.1	673	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM750-11
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843002.1	677	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM428-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843001.1	655	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM288-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB843000.1	663	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM270-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB842999.1	642	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM282-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB842998.1	682	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM699-11
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AB842997.1	665	Parus major mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM602-10
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KF946795.1	628	Parus major major voucher ZMA58797 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KF946794.1	693	Parus major major voucher ZMA58796 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833105.1	1247	Parus major isolate ioz15293 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833104.1	1247	Parus major isolate ioz15235 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833103.1	1247	Parus major isolate ioz15210 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833102.1	1247	Parus major isolate ioz15201 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833101.1	1247	Parus major isolate ioz15196 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833100.1	1247	Parus major isolate ioz15079 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833099.1	1247	Parus major isolate ioz11560 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833098.1	1247	Parus major isolate ioz11555 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833097.1	1247	Parus major isolate ioz14598 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833096.1	1247	Parus major isolate ioz5135 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833095.1	1247	Parus major isolate ioz13273 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833094.1	1247	Parus major isolate ioz11413 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833093.1	1247	Parus major isolate ioz5332 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833092.1	1247	Parus major isolate ioz5269 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833091.1	1247	Parus major isolate ioz5242 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833090.1	1247	Parus major isolate ioz5236 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833089.1	1247	Parus major isolate ioz5226 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833088.1	1247	Parus major isolate ioz13938 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833087.1	1247	Parus major isolate ioz13937 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833086.1	1247	Parus major isolate ioz13924 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833085.1	1247	Parus major isolate ioz13272 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833084.1	1247	Parus major isolate ioz13267 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833083.1	1247	Parus major isolate ioz13266 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833082.1	1247	Parus major isolate ioz12921 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833081.1	1247	Parus major isolate ioz4000 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833080.1	1247	Parus major isolate ioz3979 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833079.1	1247	Parus major isolate ioz12923 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833078.1	1247	Parus major isolate ioz12922 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833077.1	1247	Parus major isolate ioz11398 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833076.1	1247	Parus major isolate ioz12731 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833075.1	1247	Parus major isolate ioz12722 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833074.1	1247	Parus major isolate ioz13057 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833073.1	1247	Parus major isolate ioz3052 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833072.1	1247	Parus major isolate ioz9715 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833071.1	1247	Parus major isolate ioz9703 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833070.1	1247	Parus major isolate ioz2835 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833069.1	1247	Parus major isolate ioz10077 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833068.1	1247	Parus major isolate ioz10076 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833067.1	1247	Parus major isolate ioz10050 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833066.1	1247	Parus major isolate ioz4565 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833065.1	1247	Parus major isolate ioz3601 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ833064.1	1247	Parus major isolate ioz3573 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial

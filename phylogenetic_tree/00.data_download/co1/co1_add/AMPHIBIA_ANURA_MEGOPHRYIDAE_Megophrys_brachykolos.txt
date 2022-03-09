@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_brachykolos	MH406121.1	632	Megophrys brachykolos isolate 2259 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_brachykolos	MH406120.1	632	Megophrys brachykolos isolate 2258 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_brachykolos	MF667918.1	621	Xenophrys brachykolos voucher 2259 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_brachykolos	MF667917.1	621	Xenophrys brachykolos voucher 2258 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_brachykolos	KX812150.1	561	Xenophrys brachykolos isolate ROM16634 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

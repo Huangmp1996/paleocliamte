@@ -1,0 +1,5 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	MF673864.1	16346	Elaphurus davidianus voucher NHM:7021029 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	JN399997.1	16355	Elaphurus davidianus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	JN632632.1	16355	Elaphurus davidianus isolate CYTO mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	KJ870155.1	551	Elaphurus davidianus 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphurus_davidianus	NC_018358.1	16355	Elaphurus davidianus mitochondrion, complete genome

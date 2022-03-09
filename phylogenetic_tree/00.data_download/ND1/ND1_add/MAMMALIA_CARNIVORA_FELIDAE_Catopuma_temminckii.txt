@@ -1,0 +1,45 @@
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224524.1	15582	Catopuma temminckii isolate H35-TH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224529.1	15582	Catopuma temminckii isolate H40-VI mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224528.1	15582	Catopuma temminckii isolate H39-ZOO mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224527.1	15582	Catopuma temminckii isolate H38-TH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224526.1	15582	Catopuma temminckii isolate H37-TH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224525.1	15582	Catopuma temminckii isolate H36-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224523.1	15582	Catopuma temminckii isolate H34-TH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224522.1	15582	Catopuma temminckii isolate H33-FU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224521.1	15582	Catopuma temminckii isolate H32-FU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224520.1	15582	Catopuma temminckii isolate H31-FU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224519.1	15582	Catopuma temminckii isolate H30-FU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224518.1	15582	Catopuma temminckii isolate H29-FU_Amoy mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224517.1	15582	Catopuma temminckii isolate H28-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224516.1	15582	Catopuma temminckii isolate H27-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224515.1	15582	Catopuma temminckii isolate H26-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224514.1	15582	Catopuma temminckii isolate H25-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224513.1	15582	Catopuma temminckii isolate H24-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224512.1	15582	Catopuma temminckii isolate H23-TIB mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224511.1	15582	Catopuma temminckii isolate H22-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224510.1	15582	Catopuma temminckii isolate H21-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224509.1	15582	Catopuma temminckii isolate H20-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224508.1	15582	Catopuma temminckii isolate H19-SIC mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224507.1	15582	Catopuma temminckii isolate H18-CH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224506.1	15582	Catopuma temminckii isolate H17-YUN mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224505.1	15582	Catopuma temminckii isolate H16-YUN mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224504.1	15582	Catopuma temminckii isolate H15-MA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224503.1	15582	Catopuma temminckii isolate H14-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224502.1	15582	Catopuma temminckii isolate H13-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224501.1	15582	Catopuma temminckii isolate H12-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224500.1	15582	Catopuma temminckii isolate H11-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224499.1	15582	Catopuma temminckii isolate H10-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224498.1	15582	Catopuma temminckii isolate H9-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224497.1	15582	Catopuma temminckii isolate H8-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224496.1	15582	Catopuma temminckii isolate H7-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224495.1	15582	Catopuma temminckii isolate H6-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224494.1	15582	Catopuma temminckii isolate H5-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224493.1	15582	Catopuma temminckii isolate H4-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224492.1	15582	Catopuma temminckii isolate H3-SU mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224491.1	15582	Catopuma temminckii isolate H2-SIK mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KX224490.1	15582	Catopuma temminckii isolate H1-SIK mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR135745.1	17070	Catopuma temminckii mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KP202267.1	16909	Catopuma temminckii isolate PTE mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	NC_027115.1	16985	Catopuma temminckii mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KR132594.1	16981	Catopuma temminckii mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Catopuma_temminckii	KP271500.1	16985	Catopuma temminckii mitochondrion, complete genome

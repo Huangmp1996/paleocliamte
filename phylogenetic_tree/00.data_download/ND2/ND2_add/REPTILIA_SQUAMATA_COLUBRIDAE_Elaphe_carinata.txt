@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK199101.1	1026	Elaphe carinata voucher CHS809 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK198957.1	1026	Elaphe carinata voucher CHS296 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK198956.1	1026	Elaphe carinata voucher CHS295 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK198883.1	1026	Elaphe carinata voucher CHS134 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK198882.1	1026	Elaphe carinata voucher CHS133 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK198881.1	1026	Elaphe carinata voucher CHS132 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	DQ902211.1	1032	Elaphe carinata voucher LSUMZ 37012 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KU180459.1	17154	Elaphe carinata mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	JN799418.1	1032	Elaphe carinata voucher YBU10005 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	JN799417.1	1032	Elaphe carinata voucher YBU10004 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

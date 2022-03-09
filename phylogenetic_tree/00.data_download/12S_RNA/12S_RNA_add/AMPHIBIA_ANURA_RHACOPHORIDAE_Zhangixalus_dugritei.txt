@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	MZ712011.1	19412	Zhangixalus dugritei mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	KU840491.1	745	Rhacophorus dugritei clone 12S10 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	LC010584.1	2421	Rhacophorus dugritei mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: KUHE:27701
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	JN688875.1	1912	Rhacophorus dugritei voucher LJT 060559 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA, partial sequence
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	JN688874.1	1908	Rhacophorus dugritei voucher LJT 060558 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA, partial sequence
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	JN688873.1	1877	Rhacophorus dugritei voucher LJT 051008 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA, partial sequence
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	JN688872.1	1908	Rhacophorus dugritei voucher LJT 051002 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA, partial sequence
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	EU215541.1	1945	Rhacophorus dugritei voucher SCUM 051001L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	EF564473.1	421	Rhacophorus dugritei isolate KIZ2005029 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	EF564472.1	421	Rhacophorus dugritei isolate KIZ060821181 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	EF564471.1	430	Rhacophorus dugritei isolate KIZ060821176 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	EF564470.1	430	Rhacophorus dugritei isolate KIZ060821141 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_dugritei	EF564469.1	421	Rhacophorus dugritei isolate KIZ060821003 12S ribosomal RNA gene, partial sequence; mitochondrial

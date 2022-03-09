@@ -1,0 +1,7 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MT360653.1	16345	Bos gaurus isolate GR04 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MT360652.1	16345	Bos gaurus isolate GR03 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MT345893.1	16345	Bos gaurus isolate GR02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MT345892.1	16345	Bos gaurus isolate GR01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	MK770201.1	16367	Bos gaurus isolate S0029 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	NC_024818.1	16345	Bos gaurus isolate Mondulkiri mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Bos_gaurus	JN632604.1	16345	Bos gaurus isolate Mondulkiri mitochondrion, complete genome

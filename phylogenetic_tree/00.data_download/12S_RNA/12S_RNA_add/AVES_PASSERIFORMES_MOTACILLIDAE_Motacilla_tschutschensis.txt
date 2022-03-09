@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MN217252.1	16829	Motacilla tschutschensis mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	AY259438.1	1266	Motacilla flava tschutschensis isolate N358595 mitochondrial control region, partial sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	AY259437.1	1266	Motacilla flava tschutschensis isolate N358585 mitochondrial control region, partial sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	AY259436.1	1267	Motacilla flava tschutschensis isolate N358553 mitochondrial control region, partial sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence

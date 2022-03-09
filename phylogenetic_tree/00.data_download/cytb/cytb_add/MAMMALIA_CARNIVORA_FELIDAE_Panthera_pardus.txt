@@ -1,0 +1,100 @@
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	NC_010641.1	16964	Panthera pardus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MW924871.1	283	Panthera pardus voucher AIWC 209 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MK043027.1	16964	Panthera pardus voucher cgrb15208 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MK028953.1	959	Panthera pardus saxicolor isolate LeoIRAN5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MK028952.1	959	Panthera pardus saxicolor isolate LeoIRAN4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MG932393.1	16962	Panthera pardus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588632.1	15450	Panthera pardus voucher ZMUCSC007 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588631.1	15450	Panthera pardus voucher ZMUC5719 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588630.1	15450	Panthera pardus voucher ZMUC4446 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588629.1	15451	Panthera pardus voucher ZMUC3739 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588628.1	15450	Panthera pardus voucher ZMUC34 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588627.1	15450	Panthera pardus voucher ZMUC31 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588626.1	15452	Panthera pardus voucher ZMUC3980 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588625.1	15450	Panthera pardus voucher ZMUC3490 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588624.1	15450	Panthera pardus voucher ZMUC2115 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588623.1	15449	Panthera pardus voucher ZMUC1967 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588622.1	15449	Panthera pardus voucher ZMUC775 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588621.1	15450	Panthera pardus voucher ZMUC29 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588620.1	15449	Panthera pardus voucher ZMUC27/14 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588619.1	15449	Panthera pardus voucher ZMUC25/26/206 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588618.1	15450	Panthera pardus voucher ZMUC24 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588617.1	15450	Panthera pardus voucher N43974-cap2_3x_90p mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588616.1	15450	Panthera pardus voucher N43981 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588615.1	15450	Panthera pardus voucher N43974 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588614.1	15449	Panthera pardus voucher N43962 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588613.1	15450	Panthera pardus voucher N43951 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588612.1	15450	Panthera pardus voucher N43947 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	MH588611.1	15450	Panthera pardus voucher BAR001 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KX655614.1	16976	Panthera pardus orientalis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	AF508044.1	310	Panthera pardus isolate 2 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JN709941.1	342	Panthera pardus isolate Baohoamai cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JN709871.1	238	Panthera pardus isolate BHM cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EU362124.1	127	Panthera pardus isolate WII/WFC/F-540/A cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EU223366.1	386	Panthera pardus isolate F-782 WII cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	AY773080.1	355	Panthera pardus cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	AY452093.1	610	Panthera pardus specimen-voucher Jinqianbao cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	AF508043.1	310	Panthera pardus isolate 1 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	AY005809.1	604	Panthera pardus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KP001507.1	17091	Panthera pardus isolate 179_Leopard mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF056507.1	796	Panthera pardus isolate 3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF056506.1	803	Panthera pardus isolate 2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF056505.1	796	Panthera pardus isolate 1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF437590.1	219	Panthera pardus cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF199743.1	527	Panthera pardus fusca NADH dehydrogenase subunit 5 gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF199742.1	803	Panthera pardus fusca cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF056501.1	575	Panthera pardus NADH dehydrogenase subunit 5 (ND5) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	EF063721.1	288	Panthera pardus isolate blood specimen 9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KP202265.1	16670	Panthera pardus isolate PPA mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KJ850246.1	368	Panthera pardus voucher 03030 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KR132591.1	16963	Panthera pardus mitochondrion, partial genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	KJ866876.1	16966	Panthera pardus japonensis mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720186.1	639	Panthera pardus isolate leo168 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720185.1	1126	Panthera pardus isolate leo167 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720184.1	1126	Panthera pardus isolate leo165 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720183.1	1126	Panthera pardus isolate leo161 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720182.1	1111	Panthera pardus isolate leo160 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720181.1	1126	Panthera pardus isolate leo159 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720180.1	1126	Panthera pardus isolate leo158 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720179.1	1126	Panthera pardus isolate leo157 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720178.1	1126	Panthera pardus isolate leo156 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720177.1	1126	Panthera pardus isolate leo155 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720176.1	1126	Panthera pardus isolate leo154 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720175.1	1126	Panthera pardus isolate leo153 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720174.1	1126	Panthera pardus isolate leo152 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720173.1	1126	Panthera pardus isolate leo151 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720172.1	1126	Panthera pardus isolate leo150 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720171.1	1126	Panthera pardus isolate leo149 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720170.1	1126	Panthera pardus isolate leo148 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720169.1	1117	Panthera pardus isolate leo147 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720168.1	1126	Panthera pardus isolate leo146 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720167.1	1126	Panthera pardus isolate leo145 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720166.1	1126	Panthera pardus isolate leo144 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720165.1	1126	Panthera pardus isolate leo143 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720164.1	1072	Panthera pardus isolate leo142 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720163.1	1126	Panthera pardus isolate leo141 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720162.1	1126	Panthera pardus isolate leo140 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720161.1	1126	Panthera pardus isolate leo139 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720160.1	1125	Panthera pardus isolate leo138 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720159.1	1126	Panthera pardus isolate leo137 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720158.1	531	Panthera pardus isolate leo136 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720157.1	1121	Panthera pardus isolate leo135 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720156.1	1126	Panthera pardus isolate leo134 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720155.1	1126	Panthera pardus isolate leo133 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720154.1	1126	Panthera pardus isolate leo132 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720153.1	1126	Panthera pardus isolate leo131 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720152.1	1053	Panthera pardus isolate leo130 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720151.1	1126	Panthera pardus isolate leo129 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720150.1	1126	Panthera pardus isolate leo128 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720149.1	1126	Panthera pardus isolate leo126 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720148.1	1126	Panthera pardus isolate leo125 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720147.1	1126	Panthera pardus isolate leo124 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720146.1	1126	Panthera pardus isolate leo123 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720145.1	1126	Panthera pardus isolate leo122 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720144.1	1126	Panthera pardus isolate leo121 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720143.1	1113	Panthera pardus isolate leo110 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720142.1	1126	Panthera pardus isolate leo106 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720141.1	1126	Panthera pardus isolate leo105 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720140.1	1126	Panthera pardus isolate leo104 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720139.1	1126	Panthera pardus isolate leo102 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Panthera_pardus	JF720138.1	556	Panthera pardus isolate leo101 cytochrome b (Cytb) gene, partial cds; mitochondrial

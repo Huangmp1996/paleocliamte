@@ -1,0 +1,22 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	LC532223.1	16971	Acrocephalus orientalis mitochondrial DNA, nearly complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	NC_046418.1	17960	Acrocephalus orientalis mitochondrion, complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	MG681103.1	17960	Acrocephalus orientalis mitochondrion, complete genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AF129464.1	307	Acrocephalus orientalis isolate 3 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	HQ608889.1	1176	Acrocephalus orientalis isolate Y32 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	HQ608853.1	1143	Acrocephalus orientalis isolate Y33 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	FJ883034.1	372	Acrocephalus orientalis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	JN574441.1	879	Acrocephalus orientalis voucher GNM<SWE>:U2587 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB159187.1	1143	Acrocephalus orientalis mitochondrial gene for cytochrome b, complete cds, isolate: AOK31
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB159186.1	1143	Acrocephalus orientalis mitochondrial gene for cytochrome b, complete cds, isolate: AOK32
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB159185.1	1143	Acrocephalus orientalis mitochondrial gene for cytochrome b, complete cds, isolate: AOK15
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB159184.1	1143	Acrocephalus orientalis mitochondrial gene for cytochrome b, complete cds, isolate: AOK7
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB159183.1	1143	Acrocephalus orientalis mitochondrial gene for cytochrome b, complete cds, isolate: AOG513
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB159182.1	1143	Acrocephalus orientalis mitochondrial gene for cytochrome b, complete cds, isolate: AOG373
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB159181.1	1143	Acrocephalus orientalis mitochondrial gene for cytochrome b, complete cds, isolate: AOG232
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AB159180.1	1143	Acrocephalus orientalis mitochondrial gene for cytochrome b, complete cds, isolate: AOG17
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AJ004289.1	1041	Acrocephalus orientalis partial mitochondrial cytb gene, isolate 5
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AJ004288.1	1041	Acrocephalus orientalis partial mitochondrial cytb gene, isolate 4
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AJ004287.1	1041	Acrocephalus orientalis partial mitochondrial cytb gene, isolate 3
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AJ004286.1	1041	Acrocephalus orientalis partial mitochondrial cytb gene, isolate 2
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AJ004285.1	1041	Acrocephalus orientalis partial mitochondrial cytb gene, isolate 1
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_orientalis	AJ004785.1	1041	Acrocephalus orientalis mitochondrial cytb gene

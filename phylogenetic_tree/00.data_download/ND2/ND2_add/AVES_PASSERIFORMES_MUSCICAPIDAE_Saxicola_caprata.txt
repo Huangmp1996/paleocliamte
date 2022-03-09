@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_caprata	EU190944.1	1041	Saxicola caprata voucher IPMB 10463 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_caprata	EU190943.1	1041	Saxicola caprata voucher IPMB 10462 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_caprata	KJ455631.1	1041	Saxicola caprata NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

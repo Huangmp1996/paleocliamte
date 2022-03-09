@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	MZ435950.1	17224	Takydromus kuehnei voucher LSU20210413QLG001 mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	OK085711.1	1037	Takydromus kuehnei voucher WZUTK20210417 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	MN239965.1	1074	Takydromus kuehnei voucher SYS:r001338 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	MN239964.1	1074	Takydromus kuehnei voucher SYS:r001268 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	MN239963.1	1074	Takydromus kuehnei voucher SYS:r001798 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	MN239962.1	1074	Takydromus kuehnei voucher SYS:r001797 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	AY248464.1	684	Takydromus kuehnei isolate KUE0201 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	AY248463.1	684	Takydromus kuehnei isolate KUE0102 cytochrome b (CYTB) gene, partial cds; mitochondrial gene for mitochondrial product

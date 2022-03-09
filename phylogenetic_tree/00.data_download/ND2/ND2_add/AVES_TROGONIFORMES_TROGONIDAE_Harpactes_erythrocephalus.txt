@@ -1,0 +1,4 @@
+AVES_TROGONIFORMES_TROGONIDAE_Harpactes_erythrocephalus	AY625213.1	1041	Harpactes erythrocephalus voucher AMNH PRS2170 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_TROGONIFORMES_TROGONIDAE_Harpactes_erythrocephalus	HQ380007.1	1041	Harpactes erythrocephalus voucher 9970 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_TROGONIFORMES_TROGONIDAE_Harpactes_erythrocephalus	HQ380006.1	1041	Harpactes erythrocephalus voucher 10200 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_TROGONIFORMES_TROGONIDAE_Harpactes_erythrocephalus	KJ455452.1	1041	Harpactes erythrocephalus voucher CAS:96031 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

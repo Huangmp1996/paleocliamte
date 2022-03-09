@@ -1,0 +1,18 @@
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK201583.1	585	Sibynophis chinensis voucher CHS879 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK201506.1	585	Sibynophis chinensis voucher CHS753 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK201364.1	585	Sibynophis chinensis voucher CHS246 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	MK201363.1	585	Sibynophis chinensis voucher CHS245 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571580.1	1113	Sibynophis chinensis isolate 11JejuNU cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571579.1	1113	Sibynophis chinensis isolate 10JejuNU cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571578.1	1113	Sibynophis chinensis isolate 9JejuNU cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571577.1	1113	Sibynophis chinensis isolate 8Sunheul cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571576.1	1113	Sibynophis chinensis isolate 7Geumak cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571575.1	1113	Sibynophis chinensis isolate 5JejuNU cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571574.1	1113	Sibynophis chinensis isolate 4JejuNU cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571573.1	1113	Sibynophis chinensis isolate 3Aewol cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571572.1	1113	Sibynophis chinensis isolate 2Ora cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571571.1	1113	Sibynophis chinensis isolate 1Susan cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	JN571570.1	1113	Sibynophis chinensis isolate odj cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	NC_022430.1	17163	Sibynophis chinensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	KC000124.1	1084	Sibynophis chinensis isolate FTB2495 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_chinensis	KF360246.1	17163	Sibynophis chinensis isolate BBRB090907-1 mitochondrion, complete genome

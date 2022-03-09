@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_cheni	MH406251.1	632	Megophrys cheni isolate 4207 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_cheni	MH406241.1	632	Megophrys cheni isolate 4050 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_cheni	MH406098.1	632	Megophrys cheni isolate 2142 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_cheni	MH406097.1	632	Megophrys cheni isolate 2140 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_cheni	MH406096.1	632	Megophrys cheni isolate 2126 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_cheni	MF667906.1	621	Xenophrys cheni voucher 4050 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_cheni	MF667905.1	621	Xenophrys cheni voucher 2140 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_cheni	MF667904.1	621	Xenophrys cheni voucher 2123 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial

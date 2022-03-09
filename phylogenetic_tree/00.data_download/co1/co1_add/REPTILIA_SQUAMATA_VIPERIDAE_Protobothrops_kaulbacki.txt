@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	KP403658.1	649	Protobothrops kaulbacki voucher GP550 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	KP403657.1	653	Protobothrops kaulbacki voucher GP112 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	KY695463.1	17237	Protobothrops kaulbacki mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	NC_029166.1	17237	Protobothrops kaulbacki mitochondrion, complete genome
+REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_kaulbacki	KJ689382.1	17237	Protobothrops kaulbacki mitochondrion, complete genome

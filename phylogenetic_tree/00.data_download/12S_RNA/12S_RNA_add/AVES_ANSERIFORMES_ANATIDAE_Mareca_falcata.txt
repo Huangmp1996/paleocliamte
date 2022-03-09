@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	MW020580.1	16597	Mareca falcata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	NC_023352.1	16601	Anas falcata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	KC759527.1	16601	Anas falcata mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	AY164527.1	984	Anas falcata 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,4 @@
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	MT920661.1	747	Buceros bicornis isolate BB1RG cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	NC_038201.1	17117	Buceros bicornis mitochondrion, complete genome
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	MF325011.1	17117	Buceros bicornis mitochondrion, complete genome
+AVES_BUCEROTIFORMES_BUCEROTIDAE_Buceros_bicornis	FJ808629.1	536	Buceros bicornis voucher KU08011 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

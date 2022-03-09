@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MW727545.1	400	Goniurosaurus zhelongi voucher SYSr TZ2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MW727544.1	400	Goniurosaurus zhelongi voucher SYSr TZ1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MW727543.1	400	Goniurosaurus zhelongi voucher SYSr MDA2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MW727542.1	400	Goniurosaurus zhelongi voucher SYSr MDA1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MW727541.1	400	Goniurosaurus zhelongi voucher SYSr HW02 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MW727540.1	400	Goniurosaurus zhelongi voucher SYSr HW01 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MT995781.1	396	Goniurosaurus zhelongi isolate SYS r002108 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MT995780.1	396	Goniurosaurus zhelongi isolate SYS r001492 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MT995779.1	396	Goniurosaurus zhelongi isolate SYS r001491 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_zhelongi	MT995778.1	396	Goniurosaurus zhelongi isolate SYS r000816 cytochrome b gene, partial cds; mitochondrial

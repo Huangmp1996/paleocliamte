@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK065707.1	387	Achalinus rufescens voucher CHS868 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK065706.1	382	Achalinus rufescens voucher CHS867 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK065705.1	387	Achalinus rufescens voucher CHS864 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK065632.1	497	Achalinus rufescens voucher CHS765 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK065577.1	498	Achalinus rufescens voucher CHS688 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	NC_032085.1	17339	Achalinus rufescens voucher HS14023 mitochondrion, complete genome
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	KT897595.1	17339	Achalinus rufescens voucher HS14023 mitochondrion, complete genome
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	KX694570.1	460	Achalinus rufescens voucher MVZ 224137 12S ribosomal RNA gene, partial sequence; mitochondrial

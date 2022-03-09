@@ -1,0 +1,16 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	MG983792.1	17007	Sorex isodon mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499368.1	657	Sorex isodon voucher ZMMU AAL-310 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499367.1	657	Sorex isodon voucher ZMMU AAL-311 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499366.1	647	Sorex isodon voucher ZMMU AAL-473 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499365.1	657	Sorex isodon voucher ZMMU AAL-502 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499364.1	653	Sorex isodon voucher ZMMU AALS-524 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499363.1	651	Sorex isodon voucher ZMMU AALS-528 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499362.1	657	Sorex isodon voucher ZMMU AALS-529 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499361.1	657	Sorex isodon voucher ZMMU AALS-533 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499360.1	657	Sorex isodon voucher ZMMU AALS-557 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499359.1	653	Sorex isodon voucher ZMMU AALS-571 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499358.1	657	Sorex isodon voucher ZMMU AALS-585 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499357.1	657	Sorex isodon voucher ZMMU AALS-594 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF499356.1	657	Sorex isodon voucher ZMMU AALS-496 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF444468.1	625	Sorex isodon voucher ROM:112897 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_isodon	JF444467.1	625	Sorex isodon voucher ROM:112882 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

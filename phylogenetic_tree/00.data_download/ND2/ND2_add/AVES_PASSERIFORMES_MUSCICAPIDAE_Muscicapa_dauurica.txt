@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_dauurica	MN991467.1	1041	Muscicapa dauurica voucher LSUMNS B-57469 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_dauurica	KU192867.1	1035	Muscicapa dauurica voucher UWBM58429 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_dauurica	KJ455512.1	1041	Muscicapa latirostris NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_dauurica	KJ187050.1	1038	Muscicapa latirostris voucher IOZ18746 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

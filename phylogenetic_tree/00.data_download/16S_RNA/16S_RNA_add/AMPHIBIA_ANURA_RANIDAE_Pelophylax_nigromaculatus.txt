@@ -1,0 +1,27 @@
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC390045.1	292	Pelophylax nigromaculatus Pn8 DNA, possibly related to rhod gene
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC390044.1	349	Pelophylax nigromaculatus Pn4 DNA, possibly related to rhod gene
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389586.1	529	Pelophylax nigromaculatus Pn8 rhod gene, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389585.1	529	Pelophylax nigromaculatus Pn4 rhod gene, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389208.1	563	Pelophylax nigromaculatus Pn8 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389207.1	564	Pelophylax nigromaculatus Pn7 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389206.1	563	Pelophylax nigromaculatus Pn6 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389205.1	562	Pelophylax nigromaculatus Pn5 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389204.1	562	Pelophylax nigromaculatus Pn4 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389203.1	563	Pelophylax nigromaculatus Pn3 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389202.1	542	Pelophylax nigromaculatus Pn2 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	LC389201.1	505	Pelophylax nigromaculatus Pn1 mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	KF185062.1	1051	Pelophylax nigromaculatus voucher HNNU F97062 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	DQ283137.1	2413	Pelophylax nigromaculatus voucher FMNH 232879 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	KX269216.1	1965	Pelophylax nigromaculatus isolate SCUM045199CJ 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	KT878718.1	17567	Pelophylax nigromaculatus mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ815321.1	558	Pelophylax nigromaculatus voucher GRKOAM0000100718 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ815320.1	558	Pelophylax nigromaculatus voucher GRKOAM0000100715 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ815319.1	558	Pelophylax nigromaculatus voucher NIBRAM0000000610 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	NC_002805.1	17804	Rana nigromaculata mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	AB043889.1	17804	Pelophylax nigromaculatus mitochondrial DNA, complete genome
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	JQ621942.1	554	Rana nigromaculata 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	AY322305.1	750	Rana nigromaculata 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	AY322278.1	553	Rana nigromaculata 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	AY043070.1	209	Rana nigromaculata 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	DQ359991.1	534	Rana nigromaculata voucher SCUM045199CJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Pelophylax_nigromaculatus	AF315138.1	554	Rana nigromaculata 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

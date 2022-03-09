@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_tenaster	MF642552.1	676	Niviventer tenaster isolate ZIN97693 cytochrome oxidase subunit 1 (coi) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_tenaster	MF642550.1	676	Niviventer tenaster isolate ZIN97688 cytochrome oxidase subunit 1 (coi) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_tenaster	MF642549.1	676	Niviventer tenaster isolate ZIN97687 cytochrome oxidase subunit 1 (coi) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_tenaster	MF642548.1	676	Niviventer tenaster isolate ZIN97686 cytochrome oxidase subunit 1 (coi) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_tenaster	JF445225.1	657	Niviventer tenaster voucher ROM:111312 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

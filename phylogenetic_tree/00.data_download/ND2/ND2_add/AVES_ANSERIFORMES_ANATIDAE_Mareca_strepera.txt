@@ -1,0 +1,5 @@
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	NC_045373.1	16600	Mareca strepera mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	MN186586.1	16600	Mareca strepera mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	MH383307.1	824	Mareca strepera strepera voucher FMNH492427 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	AF059169.1	1093	Anas strepera tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	AF059109.1	1074	Anas strepera cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products

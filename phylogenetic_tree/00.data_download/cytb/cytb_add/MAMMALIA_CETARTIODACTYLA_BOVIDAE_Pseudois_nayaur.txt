@@ -1,0 +1,100 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	MW929096.1	165	Pseudois nayaur isolate Hap2_MT-2412 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	MW929095.1	189	Pseudois nayaur isolate Hap-1_ZS-171 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	MT136056.1	291	Pseudois nayaur isolate MT-2409 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	MT136055.1	291	Pseudois nayaur isolate MT-2198 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	MT136054.1	291	Pseudois nayaur isolate MT-2192 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	MT136053.1	291	Pseudois nayaur isolate MT-1637 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	MT136052.1	291	Pseudois nayaur isolate MT-1636 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	MT136051.1	291	Pseudois nayaur isolate MT-1634 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467209.1	1140	Pseudois nayaur isolate Shangri-la County sample cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467208.1	1140	Pseudois nayaur isolate Kangding County sample 3 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467207.1	1140	Pseudois nayaur isolate Changdu County sample 3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467206.1	1140	Pseudois nayaur isolate Changdu County sample 2 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467205.1	1140	Pseudois nayaur isolate Zhanye sample 2 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467204.1	1140	Pseudois nayaur isolate Helan Mountain sample 10 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467203.1	1140	Pseudois nayaur isolate Helan Mountain sample 9 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467202.1	1140	Pseudois nayaur isolate Helan Mountain sample 8 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ467201.1	1140	Pseudois nayaur isolate Naidong County sample 2 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	FJ207537.1	16737	Pseudois nayaur mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	EU571713.1	1140	Pseudois nayaur isolate Helan Mountain sample 2 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	EU571712.1	1140	Pseudois nayaur isolate Helan Mountain sample 1 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	EU571711.1	1140	Pseudois nayaur isolate Miyaluo cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	EU571710.1	1140	Pseudois nayaur isolate Yajiang cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF500197.1	1140	Pseudois nayaur isolate Si12 cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF500196.1	1140	Pseudois nayaur isolate Si11 cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF493580.1	1140	Pseudois nayaur isolate Nx7 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF493579.1	1140	Pseudois nayaur isolate Nx5 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF493578.1	1140	Pseudois nayaur isolate Nx4 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF493577.1	1140	Pseudois nayaur isolate Nx3 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF493576.1	1140	Pseudois nayaur isolate Nx2 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF493575.1	1140	Pseudois nayaur isolate Nx1 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF473608.1	1140	Pseudois nayaur clone Qh cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF473607.1	1140	Pseudois nayaur clone Si5 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF473606.1	1140	Pseudois nayaur clone Si3 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	EU404091.1	418	Pseudois nayaur cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AY382880.1	402	Pseudois nayaur cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF034732.1	1143	Pseudois nayaur cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	EF420235.1	1140	Pseudois nayaur isolate Batang sample 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	EF420234.1	1140	Pseudois nayaur isolate Batang sample 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398368.1	1140	Pseudois nayaur isolate ML cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398367.1	1140	Pseudois nayaur isolate SQ cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398366.1	1140	Pseudois nayaur isolate SM cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398365.1	1140	Pseudois nayaur isolate JC cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398364.1	802	Pseudois nayaur isolate KD cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398363.1	1140	Pseudois nayaur isolate WL cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398362.1	1140	Pseudois nayaur isolate SD cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398361.1	1140	Pseudois nayaur isolate REG cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398360.1	1140	Pseudois nayaur isolate PW cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398359.1	1140	Pseudois nayaur isolate SP4 cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398358.1	1140	Pseudois nayaur isolate SP3 cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398357.1	1140	Pseudois nayaur isolate SP2 cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	AF398356.1	1140	Pseudois nayaur isolate SP1 cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KP998469.1	16741	Pseudois nayaur szechuanensis voucher YANYANG20150321 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KJ784494.1	16738	Pseudois nayaur szechuanensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX263024.1	342	Pseudois nayaur isolate T-India3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX263023.1	342	Pseudois nayaur isolate T-India2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX263022.1	342	Pseudois nayaur isolate T-India1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX263021.1	342	Pseudois nayaur isolate BS-HLS28 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX263020.1	342	Pseudois nayaur isolate BS-HLS27 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX263019.1	342	Pseudois nayaur isolate BS-HLS26 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX263018.1	342	Pseudois nayaur isolate BS-KD24 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX263017.1	342	Pseudois nayaur isolate T-11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX101653.1	16795	Pseudois nayaur mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JX101652.1	16700	Pseudois nayaur nayaur mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KC309401.1	1140	Pseudois nayaur isolate Quzonggong2 cytochrome b (cyt b) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KC309400.1	1140	Pseudois nayaur isolate Quzonggong1 cytochrome b (cyt b) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	KC309399.1	1140	Pseudois nayaur isolate Cuopogou cytochrome b (cyt b) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	NC_020632.1	16737	Pseudois nayaur mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839985.1	1140	Pseudois nayaur isolate MK cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839984.1	1140	Pseudois nayaur isolate CD cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839983.1	1140	Pseudois nayaur isolate ND cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839982.1	1140	Pseudois nayaur isolate GZ cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839981.1	1140	Pseudois nayaur isolate DB cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839980.1	1140	Pseudois nayaur isolate HN cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839979.1	1140	Pseudois nayaur isolate HB cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839978.1	1140	Pseudois nayaur isolate XN cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839977.1	1140	Pseudois nayaur isolate KD6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839976.1	1140	Pseudois nayaur isolate KD5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839975.1	1140	Pseudois nayaur isolate BY3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839974.1	1140	Pseudois nayaur isolate UN3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839973.1	1140	Pseudois nayaur isolate DL11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839972.1	1140	Pseudois nayaur isolate DL10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839971.1	1140	Pseudois nayaur isolate LX5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839970.1	1140	Pseudois nayaur isolate LX4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839969.1	1140	Pseudois nayaur isolate CQ4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839968.1	1140	Pseudois nayaur isolate CQ3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839967.1	1140	Pseudois nayaur isolate CQ2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839966.1	1140	Pseudois nayaur isolate CQ1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839965.1	1140	Pseudois nayaur isolate BT14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839964.1	1140	Pseudois nayaur isolate BT13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839963.1	1140	Pseudois nayaur isolate BT12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839962.1	1140	Pseudois nayaur isolate BT11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JN839961.1	1140	Pseudois nayaur isolate BT10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JQ406574.1	1140	Pseudois nayaur voucher NX 120124 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JQ406573.1	1140	Pseudois nayaur voucher NX 120123 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JQ406572.1	1140	Pseudois nayaur voucher NX 120122 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JQ406571.1	1140	Pseudois nayaur voucher NX 120121 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JQ406570.1	1140	Pseudois nayaur voucher NX 120120 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JQ406569.1	1140	Pseudois nayaur voucher NX 120119 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JQ406568.1	1140	Pseudois nayaur voucher NX 120118 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pseudois_nayaur	JQ406567.1	1140	Pseudois nayaur voucher NX 120117 cytochrome b (cytb) gene, complete cds; mitochondrial

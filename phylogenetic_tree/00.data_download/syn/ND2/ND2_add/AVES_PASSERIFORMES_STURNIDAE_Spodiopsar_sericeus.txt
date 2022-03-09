@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	EU551968.1	1041	Sturnus sericeus voucher NRM 20036878 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	EF468182.1	1041	Sturnus sericeus isolate SturnussericeusBTK1 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	NC_014455.1	16823	Sturnus sericeus mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	HM859900.1	16823	Sturnus sericeus mitochondrion, complete genome

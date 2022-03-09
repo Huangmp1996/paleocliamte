@@ -1,0 +1,4 @@
+AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	MW364567.1	16951	Otus lettia voucher PB2019-211-1 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	MK932897.1	695	Otus lettia voucher KU475 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	GQ482285.1	694	Otus lettia voucher UWBM 57799 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	GQ482284.1	676	Otus lettia voucher UWBM 51123 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

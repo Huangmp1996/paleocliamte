@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529171.1	1040	Pomatorhinus hypoleucos tickelli voucher AMNH:586285 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529170.1	1040	Pomatorhinus hypoleucos tickelli voucher AMNH:203458 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529169.1	1040	Pomatorhinus hypoleucos brevirostris voucher BMNH:2000.5.23 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529168.1	1040	Pomatorhinus hypoleucos brevirostris voucher BMNH:2000.5.22 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529167.1	1040	Pomatorhinus hypoleucos brevirostris voucher AMNH:291154 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529166.1	1040	Pomatorhinus hypoleucos hainanus voucher AMNH:586297 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529165.1	1040	Pomatorhinus hypoleucos hainanus voucher AMNH:586291 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529164.1	1040	Pomatorhinus hypoleucos voucher AMNH:586267 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529163.1	1040	Pomatorhinus hypoleucos voucher AMNH:409540 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529162.1	1040	Pomatorhinus hypoleucos brevirostris voucher BMNH:1932.5.14.226 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	HQ529161.1	1040	Pomatorhinus hypoleucos brevirostris voucher BMNH:1927.6.5.884 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	GU724396.1	1143	Pomatorhinus hypoleucos tickelli voucher KIZ:BML004 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_hypoleucos	GU724395.1	1143	Pomatorhinus hypoleucos tickelli voucher KIZ:BML005 cytochrome b (cytb) gene, complete cds; mitochondrial

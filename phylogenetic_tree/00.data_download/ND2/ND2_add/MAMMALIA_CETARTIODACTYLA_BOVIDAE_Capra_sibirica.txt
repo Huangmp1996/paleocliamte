@@ -1,0 +1,3 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	AB743815.1	1042	Capra sibirica mitochondrial ND2 gene for NADH dehydrogenase subunit 2, complete cds, isolate: G1253
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	FJ207529.1	16583	Capra sibirica mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	NC_020626.1	16583	Capra sibirica mitochondrion, complete genome

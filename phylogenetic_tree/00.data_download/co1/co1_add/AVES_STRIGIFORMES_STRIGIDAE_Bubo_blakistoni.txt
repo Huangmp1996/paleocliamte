@@ -1,0 +1,12 @@
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	LC099107.1	13523	Bubo blakistoni mitochondrial DNA, partial sequence, isolate: B_b_d03
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	LC099106.1	19379	Bubo blakistoni mitochondrial DNA, partial sequence, isolate: B_b_d02
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	LC099105.1	19377	Bubo blakistoni mitochondrial DNA, partial sequence, isolate: B_b_d01
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	LC099104.1	19484	Bubo blakistoni mitochondrial DNA, partial sequence, isolate: B_b_b04
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	LC099103.1	19488	Bubo blakistoni mitochondrial DNA, partial sequence, isolate: B_b_b03
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	LC099102.1	14876	Bubo blakistoni mitochondrial DNA, partial sequence, isolate: B_b_b02
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	LC099101.1	19483	Bubo blakistoni mitochondrial DNA, partial sequence, isolate: B_bla01
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	AB842889.1	700	Bubo blakistoni mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM813-11
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	AB842888.1	678	Bubo blakistoni mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM584-10
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	AB842887.1	675	Bubo blakistoni mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM580-10
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	AB842886.1	663	Bubo blakistoni mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM812-11
+AVES_STRIGIFORMES_STRIGIDAE_Bubo_blakistoni	AB842885.1	693	Bubo blakistoni mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM617-10

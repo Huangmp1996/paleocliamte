@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Allocricetulus_eversmanni	KP231506.1	16282	Allocricetulus eversmanni mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Allocricetulus_eversmanni	AY997833.1	905	Allocricetulus eversmanni 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Allocricetulus_eversmanni	AM000037.1	789	Allocricetulus eversmanni partial vwf gene for von Willebrand factor
+MAMMALIA_RODENTIA_CRICETIDAE_Allocricetulus_eversmanni	AJ973378.1	925	Allocricetulus eversmanni mitochondrial partial mRNA for cytochrome b (cytb gene)

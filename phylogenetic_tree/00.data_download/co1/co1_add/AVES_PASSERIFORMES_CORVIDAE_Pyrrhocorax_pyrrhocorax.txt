@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	GQ482576.1	694	Pyrrhocorax pyrrhocorax voucher UWBM 46418 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	GQ482575.1	694	Pyrrhocorax pyrrhocorax voucher UWBM 58057 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	GQ482574.1	694	Pyrrhocorax pyrrhocorax voucher UWBM 75747 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	GQ482573.1	673	Pyrrhocorax pyrrhocorax voucher UWBM 59742 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	NC_025926.1	16889	Pyrrhocorax pyrrhocorax mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KJ598622.1	16889	Pyrrhocorax pyrrhocorax mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JN801372.1	628	Pyrrhocorax pyrrhocorax voucher USNM 586707 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

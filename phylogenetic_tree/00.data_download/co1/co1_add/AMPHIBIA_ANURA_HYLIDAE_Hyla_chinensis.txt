@@ -1,0 +1,10 @@
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MH938680.1	668	Hyla chinensis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MH034215.1	588	Hyla chinensis voucher 17916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MH034214.1	588	Hyla chinensis voucher 17800 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MH034213.1	588	Hyla chinensis voucher 17686 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MH034212.1	588	Hyla chinensis voucher JL-13-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MH034211.1	588	Hyla chinensis voucher 18060 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	AY458593.1	18180	Hyla chinensis mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	HQ650552.1	658	Hyla chinensis cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	NC_006403.1	18180	Hyla chinensis mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	JN700884.1	576	Hyla chinensis voucher YPX12778 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_gularis	GQ482167.1	694	Monticola gularis voucher UWBM 71689 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_gularis	GQ482166.1	694	Monticola gularis voucher UWBM 72203 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_gularis	GQ482165.1	694	Monticola gularis voucher UWBM 72202 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_gularis	NC_033536.1	16801	Monticola gularis mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_gularis	KX506858.1	16801	Monticola gularis mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_gularis	GQ482169.1	681	Monticola gularis voucher UWBM 47213 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_gularis	GQ482168.1	694	Monticola gularis voucher UWBM 59864 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Monticola_gularis	JX255954.1	648	Monticola gularis voucher MNHN JF031 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial

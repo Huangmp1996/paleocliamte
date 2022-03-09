@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_minullum	MN991424.1	1041	Dicaeum minullum voucher LSUMNS B-78678 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_minullum	MH908371.1	1032	Dicaeum minullum borneanum voucher USNM:Birds:656342 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_minullum	MH908252.1	1032	Dicaeum minullum borneanum voucher USNM:Birds:656211 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_minullum	KJ455410.1	1041	Dicaeum minullum voucher CAS:89588 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

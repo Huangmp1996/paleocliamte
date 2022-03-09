@@ -1,0 +1,3 @@
+AVES_CUCULIFORMES_CUCULIDAE_Clamator_jacobinus	AF072625.1	304	Clamator jacobinus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_CUCULIFORMES_CUCULIDAE_Clamator_jacobinus	AF072610.1	249	Clamator jacobinus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_CUCULIFORMES_CUCULIDAE_Clamator_jacobinus	KJ456235.1	763	Clamator jacobinus voucher USNM:519174 cytochrome b (cytb) gene, partial cds; mitochondrial

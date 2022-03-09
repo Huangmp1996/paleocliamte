@@ -1,0 +1,28 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MT407329.1	658	Rhinolophus hipposideros voucher MB59 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MT407328.1	658	Rhinolophus hipposideros voucher MB58 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031870.1	660	Rhinolophus hipposideros isolate Rh20 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031869.1	651	Rhinolophus hipposideros isolate Rh19 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031868.1	651	Rhinolophus hipposideros isolate Rh18 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031867.1	651	Rhinolophus hipposideros isolate Rh16 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031866.1	660	Rhinolophus hipposideros isolate Rh15 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031865.1	651	Rhinolophus hipposideros isolate Rh14 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031864.1	630	Rhinolophus hipposideros isolate Rh13 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031863.1	651	Rhinolophus hipposideros isolate Rh12 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031862.1	651	Rhinolophus hipposideros isolate Rh11 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031861.1	651	Rhinolophus hipposideros isolate Rh10 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031860.1	648	Rhinolophus hipposideros isolate Rh09 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031859.1	651	Rhinolophus hipposideros isolate Rh08 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031858.1	651	Rhinolophus hipposideros isolate Rh07 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031857.1	651	Rhinolophus hipposideros isolate Rh06 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031856.1	651	Rhinolophus hipposideros isolate Rh05 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031855.1	651	Rhinolophus hipposideros isolate Rh03 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031854.1	651	Rhinolophus hipposideros isolate Rh02 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	MN031853.1	651	Rhinolophus hipposideros isolate Rh01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	FR856837.2	556	Rhinolophus hipposideros mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00359
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KX756028.1	195	Rhinolophus hipposideros isolate UNH_RHHI_Gd29835 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	KX756027.1	195	Rhinolophus hipposideros isolate UNH_RHHI_Gd29798 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	JF443133.1	657	Rhinolophus hipposideros voucher ZMMU S-183045 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	JF443132.1	657	Rhinolophus hipposideros voucher ZMMU S-175202 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	JF443131.1	657	Rhinolophus hipposideros voucher ZMMU S-174644 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	JF443130.1	657	Rhinolophus hipposideros voucher ZMMU S-174645 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_hipposideros	FR856838.1	556	Rhinolophus hipposideros mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00387

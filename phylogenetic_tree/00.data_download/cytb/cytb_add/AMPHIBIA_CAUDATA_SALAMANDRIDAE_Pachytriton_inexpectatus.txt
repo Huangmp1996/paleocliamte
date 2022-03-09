@@ -1,0 +1,57 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	KU375002.1	1129	Pachytriton inexpectatus voucher KIZ08711 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	KU375001.1	1129	Pachytriton inexpectatus voucher KIZ05204 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	KU375000.1	1129	Pachytriton inexpectatus voucher KIZ05203 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	KT152419.1	1173	Pachytriton inexpectatus isolate YPX15855 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	KT152417.1	1173	Pachytriton inexpectatus isolate YPX8343 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638708.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20071102
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638707.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20071101
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638706.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200807051
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638705.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200807050
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638704.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200807002
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638703.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200807001
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638702.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:200805122
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638701.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070070
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638700.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070069
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638699.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070036
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638698.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070010
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638696.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070008
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638695.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070007
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638694.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070006
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638693.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070005
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638692.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070004
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638691.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX20070003
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638690.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905032
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638689.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905031
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638688.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905030
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638687.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905023
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638686.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905022
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638685.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905020
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638684.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905019
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638683.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905018
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638682.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905016
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638681.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905015
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638680.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905014
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638679.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905013
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638678.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905012
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638677.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905010
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638676.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905009
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638675.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905008
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638673.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905006
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638672.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905005
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638671.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905004
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638670.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905002
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638669.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX200905001
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638668.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX2007012009
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638666.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX2007012007
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638663.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:GX2007012004
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638661.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:Wg20080718006
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638660.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:Wg20080718005
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	AB638659.1	1141	Pachytriton inexpectatus mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:Wg20080718004
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	JX907933.1	1170	Pachytriton inexpectatus voucher CIB 95941 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	JX907932.1	1170	Pachytriton inexpectatus voucher CIB 95938 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	JX907931.1	1170	Pachytriton inexpectatus voucher CIB 95940 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	JX907930.1	1170	Pachytriton inexpectatus voucher CIB 95933 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	JX907929.1	1170	Pachytriton inexpectatus voucher CIB 95935 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	JX907928.1	1170	Pachytriton inexpectatus voucher CIB 95931 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	JX907927.1	1170	Pachytriton inexpectatus voucher CIB 95946 cytochrome b (cytb) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_inexpectatus	JX907926.1	1170	Pachytriton inexpectatus voucher CIB 95947 cytochrome b (cytb) gene, complete cds; mitochondrial

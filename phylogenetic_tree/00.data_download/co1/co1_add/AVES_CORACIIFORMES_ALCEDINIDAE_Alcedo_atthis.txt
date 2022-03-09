@@ -1,0 +1,35 @@
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	NC_035868.1	17383	Alcedo atthis mitochondrion, complete genome
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KY964271.1	17383	Alcedo atthis mitochondrion, complete genome
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KT803622.1	648	Alcedo atthis isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	JF957001.1	695	Alcedo atthis voucher UPD019 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	JF499081.1	694	Alcedo atthis voucher USNM:641920 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GU571710.1	644	Alcedo atthis voucher BISE-Aves87 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GU571709.1	648	Alcedo atthis voucher BISE-Aves251 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GU571232.1	732	Alcedo atthis voucher NHMO-BC124 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GQ481312.1	694	Alcedo atthis voucher UWBM 51169 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GQ481311.1	694	Alcedo atthis voucher UWBM 59855 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GQ481310.1	694	Alcedo atthis voucher UWBM 61142 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GQ481309.1	694	Alcedo atthis voucher UWBM 47192 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GQ481308.1	694	Alcedo atthis voucher UWBM 46394 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	GQ481307.1	694	Alcedo atthis voucher ZMMU 77a cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	FJ661101.1	679	Alcedo atthis voucher AHNU:Y06040 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	EF515759.1	686	Alcedo atthis voucher KRIBB2593 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KX283102.1	646	Alcedo atthis voucher AI-B94 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KX283101.1	642	Alcedo atthis voucher AI-B93 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KX283100.1	643	Alcedo atthis voucher AI-B91 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB843345.1	681	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO116-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB843344.1	688	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO111-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842534.1	683	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM084-08
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842533.1	663	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM410-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842532.1	676	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM160-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842531.1	628	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM004-08
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842530.1	714	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM520-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842529.1	687	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM262-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842528.1	663	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM256-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842527.1	668	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM307-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AB842526.1	665	Alcedo atthis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM156-10
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KF946586.1	693	Alcedo atthis ispida voucher ZMA58869 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KF946585.1	603	Alcedo atthis ispida voucher ZMA57343 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KF946584.1	693	Alcedo atthis ispida voucher ZMA57342 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KF946583.1	693	Alcedo atthis ispida voucher ZMA57341 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KF946582.1	693	Alcedo atthis ispida voucher ZMA56216 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

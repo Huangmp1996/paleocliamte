@@ -1,0 +1,6 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	NC_000878.1	18068	Falco peregrinus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	NW_004930280.1	5409120	Falco peregrinus unplaced genomic scaffold, F_peregrinus_v1.0 scaffold19_1, whole genome shotgun sequence
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	AF090338.1	18068	Falco peregrinus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	JX029991.1	17527	Falco peregrinus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	JQ282801.1	18115	Falco peregrinus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_peregrinus	AB219556.1	947	Falco peregrinus japonensis mitochondrial gene for 12S ribosomal RNA, partial sequence

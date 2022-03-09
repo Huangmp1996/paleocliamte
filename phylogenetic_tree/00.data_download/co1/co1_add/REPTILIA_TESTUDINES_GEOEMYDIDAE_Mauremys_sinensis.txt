@@ -1,0 +1,6 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	MG679424.1	630	Mauremys sinensis isolate 20090136B10 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	AY337353.1	696	Mauremys sinensis voucher MVZ 230479 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	FJ871126.1	16461	Mauremys sinensis mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	NC_016685.1	16461	Mauremys sinensis mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	KC333650.1	16458	Mauremys sinensis mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_sinensis	HQ329687.1	650	Mauremys sinensis isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

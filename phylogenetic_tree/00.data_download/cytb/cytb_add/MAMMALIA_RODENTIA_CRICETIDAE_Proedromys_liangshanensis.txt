@@ -1,0 +1,7 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Proedromys_liangshanensis	FJ463038.1	16296	Proedromys liangshanensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Proedromys_liangshanensis	KP190251.1	1140	Proedromys liangshanensis isolate JYBCP0211 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Proedromys_liangshanensis	KP190250.1	1140	Proedromys liangshanensis isolate JYBCP01003 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Proedromys_liangshanensis	KP190249.1	1140	Proedromys liangshanensis isolate MGLL105 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Proedromys_liangshanensis	NC_013563.1	16296	Proedromys liangshanensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Proedromys_liangshanensis	JF906119.1	1143	Proedromys liangshanensis voucher MGLL2-12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Proedromys_liangshanensis	JF906117.1	1143	Proedromys liangshanensis voucher MGLL2-11 cytochrome b (cytb) gene, complete cds; mitochondrial

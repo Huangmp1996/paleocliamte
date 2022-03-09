@@ -1,0 +1,15 @@
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MW133408.1	1076	Pareas carinatus voucher KIZ09127 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MW133406.1	1084	Pareas carinatus voucher KIZ03524 cytochrome b (CYTB) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MT968778.1	1104	Pareas carinatus voucher CAS 247982 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MK135116.1	1095	Pareas carinatus voucher GP3377 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MK135115.1	1095	Pareas carinatus voucher GP3376 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MK135114.1	1095	Pareas carinatus voucher GP3356 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MK135113.1	1095	Pareas carinatus voucher GP1292 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MK135112.1	1095	Pareas carinatus voucher GP5129 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MK135111.1	1095	Pareas carinatus voucher GP5131 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	MK135110.1	1095	Pareas carinatus voucher GP1079 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	KJ642129.1	1018	Pareas carinatus haplotype C02 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	KJ642128.1	1018	Pareas carinatus haplotype C01 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	JQ598940.1	820	Pareas carinatus cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	JF827677.1	1083	Pareas carinatus isolate malaysia cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PAREIDAE_Pareas_carinatus	JF827676.1	1086	Pareas carinatus isolate mengla cytochrome b (cytb) gene, partial cds; mitochondrial

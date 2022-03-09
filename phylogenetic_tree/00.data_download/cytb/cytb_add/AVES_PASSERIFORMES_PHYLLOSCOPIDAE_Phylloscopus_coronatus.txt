@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	MK533705.1	16905	Phylloscopus coronatus mitochondrion, partial genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	MH079265.1	1041	Phylloscopus coronatus voucher IOZ 16323 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	MH079264.1	1076	Phylloscopus coronatus voucher UWBM 74909 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	MH079263.1	1071	Phylloscopus coronatus voucher DZUG U3013 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AY635053.1	1038	Phylloscopus coronatus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	L77139.1	910	Phylloscopus coronatus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	HQ608874.1	1176	Phylloscopus coronatus isolate Y17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	HQ608834.1	1143	Phylloscopus coronatus isolate Y14 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	KP267723.1	852	Phylloscopus coronatus isolate MAR1373 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	KP267722.1	852	Phylloscopus coronatus isolate MAR763 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_coronatus	AB362460.1	1012	Phylloscopus coronatus mitochondrial cytb gene for cytochrome b, partial cds, isolate: 1D-36293

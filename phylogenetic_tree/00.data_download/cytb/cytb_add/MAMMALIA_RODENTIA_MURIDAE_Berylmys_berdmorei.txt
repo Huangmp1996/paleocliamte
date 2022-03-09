@@ -1,0 +1,10 @@
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	KY464178.1	16292	Berylmys berdmorei voucher CBGP_L0006 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	NC_036730.1	16292	Berylmys berdmorei voucher CBGP_L0006 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217473.1	1104	Berylmys berdmorei voucher L0006 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217468.1	1104	Berylmys berdmorei voucher R5310 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217448.1	862	Berylmys berdmorei voucher R4266 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217432.1	1129	Berylmys berdmorei voucher R3618 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217431.1	1124	Berylmys berdmorei voucher R3603 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217418.1	1058	Berylmys berdmorei voucher R3441 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217401.1	1126	Berylmys berdmorei voucher R3050 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	JN675477.1	945	Berylmys berdmorei isolate 42Bbr_26 cytochrome b (cytb) gene, partial cds; mitochondrial

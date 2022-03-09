@@ -1,0 +1,43 @@
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	AY390776.1	317	Lepidochelys olivacea isolate IN003 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	AY390775.1	316	Lepidochelys olivacea isolate IN002 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	AY275427.1	307	Lepidochelys olivaceae cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	AF385670.1	875	Lepidochelys olivacea Lo1 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	AF385669.1	875	Lepidochelys olivacea Lo2 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795403.1	1144	Lepidochelys olivacea isolate Lo621 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795402.1	1144	Lepidochelys olivacea isolate Lo620 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795401.1	1144	Lepidochelys olivacea isolate Lo619 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795400.1	1144	Lepidochelys olivacea isolate Lo618 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795399.1	1144	Lepidochelys olivacea isolate Lo617 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795398.1	1144	Lepidochelys olivacea isolate Lo616 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795397.1	1144	Lepidochelys olivacea isolate Lo615 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795396.1	1144	Lepidochelys olivacea isolate Lo614 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795395.1	1144	Lepidochelys olivacea isolate Lo613 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795394.1	1144	Lepidochelys olivacea isolate Lo612 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795393.1	1144	Lepidochelys olivacea isolate Lo611 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795392.1	1144	Lepidochelys olivacea isolate Lo365 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795391.1	1144	Lepidochelys olivacea isolate Lo343 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795390.1	1144	Lepidochelys olivacea isolate Lo341 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795389.1	1144	Lepidochelys olivacea isolate Lo276 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795388.1	1144	Lepidochelys olivacea isolate Lo275 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795387.1	1144	Lepidochelys olivacea isolate Lo274 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795386.1	1144	Lepidochelys olivacea isolate Lo273 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795385.1	1144	Lepidochelys olivacea isolate Lo125 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795384.1	1144	Lepidochelys olivacea isolate Lo124 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795383.1	1144	Lepidochelys olivacea isolate Lo123 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795382.1	1144	Lepidochelys olivacea isolate Lo121 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795381.1	1144	Lepidochelys olivacea isolate Lo028 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795380.1	1144	Lepidochelys olivacea isolate Lo029 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795379.1	1144	Lepidochelys olivacea isolate Lo027 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795378.1	1144	Lepidochelys olivacea isolate Lo026 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795377.1	1144	Lepidochelys olivacea isolate Lo025 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795376.1	1144	Lepidochelys olivacea isolate Lo016 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795375.1	1144	Lepidochelys olivacea isolate Lo015 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	FJ795374.1	1139	Lepidochelys olivacea isolate Lo014 cytochrome b (CytB) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	NC_028634.1	16718	Lepidochelys olivacea isolate CGG-01Lol mitochondrion, complete genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	DQ486893.1	16808	Lepidochelys olivacea mitochondrion sequence
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	JX454991.1	16718	Lepidochelys olivacea isolate CGG-01Lol mitochondrion, complete genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	JX454987.1	16387	Lepidochelys olivacea isolate 78920 mitochondrion, partial genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	JX454979.1	16379	Lepidochelys olivacea isolate 55352 mitochondrion, partial genome
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	L13389.1	503	Lepidochelys olivacea (LO-6) mitochondrial cytochrome b gene, partial cds
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	L12764.1	503	Lepidochelys olivacea (LO-6) mitochondrial cytochrome b gene, partial cds
+REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	AM258984.1	16808	Lepidochelys olivacea complete mitochondrial genome

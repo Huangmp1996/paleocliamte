@@ -1,0 +1,17 @@
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	MH923364.1	579	Hyla chinensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	DQ055817.1	1166	Hyla chinensis 16S ribosomal RNA gene, partial sequence; tRNA-Leu (trnL2) gene, complete sequence; and ND1 gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	AY458593.1	18180	Hyla chinensis mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742710.1	1166	Hyla chinensis isolate Nanling_Guangdong2 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742709.1	1166	Hyla chinensis isolate Nanling_Guangdong1 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742708.1	1167	Hyla chinensis isolate Chebaling_Guangdong6 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742707.1	1167	Hyla chinensis isolate Chebaling_Guangdong5 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742706.1	1167	Hyla chinensis isolate Chebaling_Guangdong4 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742705.1	1167	Hyla chinensis isolate Chebaling_Guangdong3 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742704.1	1167	Hyla chinensis isolate Chebaling_Guangdong2 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742703.1	1167	Hyla chinensis isolate Chebaling_Guangdong1 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742702.1	1167	Hyla chinensis isolate Wuyihshan_Fujian 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742701.1	1167	Hyla chinensis isolate Longmen_Guangdong 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	KP742700.1	1167	Hyla chinensis isolate Zhaowu_Fujian 16S ribosomal RNA gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	JN098480.1	225	Hyla chinensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	AF315161.1	568	Hyla chinensis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_HYLIDAE_Hyla_chinensis	AF315129.1	389	Hyla chinensis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

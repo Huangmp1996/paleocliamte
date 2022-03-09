@@ -1,0 +1,31 @@
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	LC619131.1	658	Strix uralensis FA_52 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	GQ482681.1	694	Strix uralensis voucher UWBM 51708 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	MG677110.1	687	Strix uralensis voucher cgrb8236 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	NC_038218.1	18708	Strix uralensis isolate C5 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	MG681082.1	18709	Strix uralensis isolate C7 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	MG681081.1	18708	Strix uralensis isolate C5 mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	GU572110.1	648	Strix uralensis voucher BISE-Aves463 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	GU572109.1	648	Strix uralensis voucher BISE-Aves501 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	GU571637.1	727	Strix uralensis voucher NHMO-BC388 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	GQ482682.1	694	Strix uralensis voucher UWBM 57798 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843783.1	680	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO420-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843782.1	679	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO424-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843781.1	694	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO425-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843780.1	686	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO426-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843779.1	591	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO428-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843778.1	687	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO430-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843196.1	662	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM826-11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843195.1	644	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM824-11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843194.1	644	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM809-11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843193.1	684	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM795-11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843192.1	683	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM794-11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843191.1	655	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM793-11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843190.1	700	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM737-11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843189.1	678	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM707-11
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843188.1	663	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM034-08
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843187.1	670	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM035-08
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843186.1	707	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM570-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843185.1	711	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM007-08
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843184.1	659	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM385-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843183.1	636	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM631-10
+AVES_STRIGIFORMES_STRIGIDAE_Strix_uralensis	AB843182.1	683	Strix uralensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM796-11

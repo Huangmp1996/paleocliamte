@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MW430026.1	18805	Xenopeltis hainanensis voucher HS12109 mitochondrion, complete genome
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MK201533.1	585	Xenopeltis hainanensis voucher CHS796 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MK201518.1	585	Xenopeltis hainanensis voucher CHS771 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MK201375.1	585	Xenopeltis hainanensis voucher CHS271 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_hainanensis	MK201237.1	585	Xenopeltis hainanensis voucher CHS013 cytochrome b (cytb) gene, partial cds; mitochondrial

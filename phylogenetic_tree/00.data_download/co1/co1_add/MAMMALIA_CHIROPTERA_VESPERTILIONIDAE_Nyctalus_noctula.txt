@@ -1,0 +1,14 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MT407312.1	658	Nyctalus noctula voucher MB41 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MT407311.1	658	Nyctalus noctula voucher MB40 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN122907.1	16760	Nyctalus noctula isolate DM12 mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	MN122876.1	15987	Nyctalus noctula isolate DM35 mitochondrion, partial genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	KY754524.1	697	Nyctalus noctula voucher OLML 2005_100 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	KY754523.1	697	Nyctalus noctula voucher NMW 68359 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	JF443049.1	657	Nyctalus noctula voucher ZMMU S-181385 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	JF443048.1	657	Nyctalus noctula voucher ZMMU S-177905 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	JF443047.1	657	Nyctalus noctula voucher ZMMU S-175573 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	JF443046.1	657	Nyctalus noctula voucher ZMMU S-173170 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	JF443045.1	657	Nyctalus noctula voucher ZMMU S-167253 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	NC_027237.1	17478	Nyctalus noctula mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	KP273590.1	17478	Nyctalus noctula mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_noctula	FR856759.1	556	Nyctalus noctula mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL01476

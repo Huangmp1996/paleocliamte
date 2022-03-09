@@ -1,0 +1,11 @@
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105108.1	693	Berylmys bowersi isolate MB10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105107.1	693	Berylmys bowersi isolate MB9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105106.1	693	Berylmys bowersi isolate MB8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105105.1	703	Berylmys bowersi isolate MB3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105104.1	703	Berylmys bowersi isolate MB2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JF343505.1	476	Berylmys bowersi isolate FH036 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217580.1	653	Berylmys bowersi voucher R4400 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217544.1	655	Berylmys bowersi voucher R3425 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217542.1	655	Berylmys bowersi voucher R3415 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217491.1	405	Berylmys bowersi voucher L0151 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	KC010296.1	708	Berylmys bowersi haplotype HCOBBO01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

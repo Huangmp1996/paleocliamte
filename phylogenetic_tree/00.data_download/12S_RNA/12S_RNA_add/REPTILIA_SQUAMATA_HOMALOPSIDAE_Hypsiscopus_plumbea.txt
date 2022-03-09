@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	MK065599.1	493	Hypsiscopus plumbea voucher CHS722 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	MK065538.1	493	Hypsiscopus plumbea voucher CHS634 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	DQ343650.1	17397	Enhydris plumbea mitochondrion, complete genome
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	NC_010200.1	17397	Enhydris plumbea mitochondrion, complete genome
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	EF395885.1	947	Enhydris plumbea voucher FMNH 250123 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	EF395884.1	947	Enhydris plumbea voucher HKV 31858 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_HOMALOPSIDAE_Hypsiscopus_plumbea	AF499282.1	917	Enhydris plumbea 12S ribosomal RNA, partial sequence; mitochondrial gene for mitochondrial product

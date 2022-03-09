@@ -1,0 +1,6 @@
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	NC_008132.1	16732	Nipponia nippon mitochondrion, complete genome
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	MN047457.1	16813	Nipponia nippon mitochondrion, complete genome
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	NW_009000620.1	780931	Nipponia nippon isolate BGI_Y956 unplaced genomic scaffold, ASM70822v1 Scaffold75, whole genome shotgun sequence
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	AY447961.1	316	Nipponia nippon 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	AB104902.1	16732	Nipponia nippon mitochondrial DNA, complete genome, isolate:Midori
+AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	AY465752.1	978	Nipponia nippon 12S ribosomal RNA gene, complete sequence; mitochondrial

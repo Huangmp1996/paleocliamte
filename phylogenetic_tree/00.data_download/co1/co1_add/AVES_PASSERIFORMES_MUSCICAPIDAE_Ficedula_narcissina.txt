@@ -1,0 +1,29 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	GQ481910.1	648	Ficedula narcissina voucher UWBM 47253 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	GQ481909.1	694	Ficedula narcissina voucher UWBM 46988 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	GQ481908.1	694	Ficedula narcissina voucher UWBM 47583 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952116.1	576	Ficedula narcissina voucher FNN4 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952115.1	576	Ficedula narcissina voucher FNN3 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952114.1	576	Ficedula narcissina voucher FNN2 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952113.1	576	Ficedula narcissina voucher FNN1 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952112.1	576	Ficedula narcissina voucher U1376 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952111.1	576	Ficedula narcissina voucher U0332 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952110.1	576	Ficedula narcissina voucher N3 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952109.1	576	Ficedula narcissina voucher 6579 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ952108.1	576	Ficedula narcissina voucher BKS1509 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB843513.1	681	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO321-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB843512.1	684	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO293-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB843511.1	673	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO210-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842785.1	667	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM029-08
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842784.1	674	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM110-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842783.1	663	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM166-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842782.1	694	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM479-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842781.1	713	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM743-11
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842780.1	698	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM553-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842779.1	655	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM286-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842778.1	655	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM790-11
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842777.1	710	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM744-11
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842776.1	672	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM413-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842775.1	672	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM605-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842774.1	669	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM418-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842773.1	671	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM412-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	AB842772.1	659	Ficedula narcissina mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM632-10

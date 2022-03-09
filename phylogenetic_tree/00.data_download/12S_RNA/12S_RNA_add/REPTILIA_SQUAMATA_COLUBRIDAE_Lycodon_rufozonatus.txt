@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK065590.1	499	Lycodon rufozonatus voucher CHS710 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK065517.1	499	Lycodon rufozonatus voucher CHS601 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK065390.1	499	Lycodon rufozonatus voucher CHS164 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	MK065389.1	498	Lycodon rufozonatus voucher CHS163 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KF148622.1	17189	Dinodon rufozonatum mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	NC_024559.1	17188	Lycodon rufozonatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	KJ179950.1	17188	Dinodon rufozonatum mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JQ815336.1	615	Dinodon rufozonatum voucher NIBRRP0000000117 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JQ815335.1	615	Dinodon rufozonatum voucher NIBRRP0000100254 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	JQ815334.1	615	Dinodon rufozonatum voucher NIBRRP0000100358 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_rufozonatus	AF233939.2	809	Dinodon rufozonatum 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

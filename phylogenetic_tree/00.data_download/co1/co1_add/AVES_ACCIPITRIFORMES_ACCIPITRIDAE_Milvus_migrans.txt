@@ -1,0 +1,32 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	MT773184.1	656	Milvus migrans isolate 34Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	MK932893.1	695	Milvus migrans govinda voucher KU311 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	MH536179.1	616	Milvus migrans parasitus voucher 3LF-4002 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	MH536178.1	616	Milvus migrans parasitus voucher 3LF-2835 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	NC_038195.1	18016	Milvus migrans voucher IN1594 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	MG930481.1	18016	Milvus migrans voucher IN1594 mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640407.1	564	Milvus migrans haplotype CO1-12-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640406.1	564	Milvus migrans haplotype CO1-11-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640405.1	564	Milvus migrans haplotype CO1-10-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640404.1	564	Milvus migrans haplotype CO1-9-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640403.1	564	Milvus migrans haplotype CO1-8-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640402.1	564	Milvus migrans haplotype CO1-7-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640401.1	564	Milvus migrans haplotype CO1-6-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640400.1	564	Milvus migrans haplotype CO1-5-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640399.1	564	Milvus migrans haplotype CO1-4-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KU640398.1	564	Milvus migrans haplotype CO1-3-black cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	HM804930.1	445	Milvus migrans isolate Milmig1 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	U83769.1	518	Milvus migrans cytochrome oxidase I (mtCOI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	JX160002.1	650	Milvus migrans isolate BD03 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KP975253.1	606	Milvus migrans isolate NBS_DEG_2011_01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KP975252.1	627	Milvus migrans isolate NBS_HAN_2012_02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	KP975251.1	627	Milvus migrans isolate NBS_DORNIER_237 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AB843597.1	660	Milvus migrans mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO130-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AB842942.1	674	Milvus migrans mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM228-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AB842941.1	635	Milvus migrans mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM158-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AB842940.1	648	Milvus migrans mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM521-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AB842939.1	664	Milvus migrans mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM639-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AB842938.1	661	Milvus migrans mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM229-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	AB842937.1	672	Milvus migrans mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM641-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	JQ175385.1	651	Milvus migrans voucher USNM:Birds:601887 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	JQ175384.1	651	Milvus migrans voucher USNM:Birds:623327 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Milvus_migrans	JN801326.1	622	Milvus migrans voucher USNM 623327 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

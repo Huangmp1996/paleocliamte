@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	MN126569.1	16303	Rattus exulans voucher BOR577 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814721.1	16301	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814720.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814719.1	16080	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814718.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814717.1	16305	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814716.1	16150	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814715.1	16097	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814714.1	16147	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814713.1	15993	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814712.1	16303	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814711.1	16193	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814710.1	15853	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KY814709.1	16300	Rattus exulans mitochondrion, partial genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273711.1	16307	Rattus exulans isolate RNZAwa01 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273710.1	16307	Rattus exulans isolate RAU8480Thai mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EU273709.1	16307	Rattus exulans isolate RPNGYur 9Oct06 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF343499.1	476	Rattus exulans isolate TK156125 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF343498.1	476	Rattus exulans isolate TK156109 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF343496.1	476	Rattus exulans isolate TK156113 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF343489.1	476	Rattus exulans isolate TK156111 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217596.1	556	Rattus exulans voucher R5447 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217595.1	655	Rattus exulans voucher R5349 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217568.1	655	Rattus exulans voucher R4140 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217567.1	603	Rattus exulans voucher R4103 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217564.1	655	Rattus exulans voucher R4004 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217557.1	655	Rattus exulans voucher R3563 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217553.1	624	Rattus exulans voucher R3520 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217541.1	647	Rattus exulans voucher R3224 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217527.1	655	Rattus exulans voucher R2795 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217523.1	655	Rattus exulans voucher R1836 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217519.1	655	Rattus exulans voucher R1805 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217514.1	655	Rattus exulans voucher R1055 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217510.1	642	Rattus exulans voucher R0856 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	HM217508.1	655	Rattus exulans voucher R0284 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KJ530564.1	16308	Rattus exulans isolate R4824 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533885.1	620	Rattus exulans voucher R4960 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533884.1	616	Rattus exulans voucher R4909 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533883.1	655	Rattus exulans voucher R4795 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533882.1	655	Rattus exulans voucher R4792 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533881.1	655	Rattus exulans voucher R4789 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533880.1	655	Rattus exulans voucher R4784 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533879.1	655	Rattus exulans voucher R4565 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533878.1	655	Rattus exulans voucher R4457 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533877.1	655	Rattus exulans voucher R4169 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533876.1	655	Rattus exulans voucher R4063 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533875.1	655	Rattus exulans voucher L0271 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533874.1	655	Rattus exulans voucher L0243 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533873.1	612	Rattus exulans voucher L0241 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533872.1	628	Rattus exulans voucher L0225 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533871.1	627	Rattus exulans voucher L0220 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533870.1	655	Rattus exulans voucher L0217 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533869.1	655	Rattus exulans voucher C0472 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533868.1	655	Rattus exulans voucher C0471 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533867.1	655	Rattus exulans voucher C0429 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533866.1	612	Rattus exulans voucher C0360 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533865.1	627	Rattus exulans voucher C0353 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533864.1	576	Rattus exulans voucher C0278 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533863.1	609	Rattus exulans voucher C0207 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533862.1	615	Rattus exulans voucher C0184 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533861.1	635	Rattus exulans voucher C0151 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533860.1	628	Rattus exulans voucher C0134 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JX533859.1	655	Rattus exulans voucher C0049 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KC617852.1	219	Rattus exulans isolate 3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KC617851.1	658	Rattus exulans isolate 2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	KC617850.1	658	Rattus exulans cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	FR775843.1	663	Rattus exulans mitochondrial partial COI gene for cytochrom oxidase subunit I gene, isolate VL43
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	FR775842.1	663	Rattus exulans mitochondrial partial COI gene for cytochrom oxidase subunit I gene, isolate VL40
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	FR775841.1	663	Rattus exulans mitochondrial partial COI gene for cytochrom oxidase subunit I gene, isolate VL15
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	FR775840.1	663	Rattus exulans mitochondrial partial COI gene for cytochrom oxidase subunit I gene, isolate VL14
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	FR775839.1	663	Rattus exulans mitochondrial partial COI gene for cytochrom oxidase subunit I gene, isolate VL13
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	FR775838.1	663	Rattus exulans mitochondrial partial COI gene for cytochrom oxidase subunit I gene, isolate VL12
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	FR775837.1	663	Rattus exulans mitochondrial partial COI gene for cytochrom oxidase subunit I gene, isolate VL4
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	FR775836.1	663	Rattus exulans mitochondrial partial COI gene for cytochrom oxidase subunit I gene, isolate VL3
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186638.1	702	Rattus exulans isolate VePN122c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186599.1	702	Rattus exulans isolate StPN092c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186549.1	702	Rattus exulans isolate ExTh028c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186548.1	702	Rattus exulans isolate ExTh027c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186547.1	702	Rattus exulans isolate ExTh026c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186546.1	702	Rattus exulans isolate ExSa030c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186545.1	702	Rattus exulans isolate ExSa029c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186544.1	702	Rattus exulans isolate ExRa035c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186543.1	702	Rattus exulans isolate ExPN025c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186542.1	702	Rattus exulans isolate ExPN024c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186541.1	702	Rattus exulans isolate ExNZ042c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186540.1	702	Rattus exulans isolate ExNZ041c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186539.1	702	Rattus exulans isolate ExNZ040c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186538.1	702	Rattus exulans isolate ExMq039c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186537.1	702	Rattus exulans isolate ExMq038c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186536.1	702	Rattus exulans isolate ExIn023c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186535.1	702	Rattus exulans isolate ExHu034c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186534.1	702	Rattus exulans isolate ExHa037c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186533.1	702	Rattus exulans isolate ExHa036c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186532.1	702	Rattus exulans isolate ExFi043c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186531.1	702	Rattus exulans isolate ExCI033c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186530.1	702	Rattus exulans isolate ExCI032c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	EF186529.1	702	Rattus exulans isolate ExCI031c cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	NC_012389.1	16307	Rattus exulans mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF459863.1	657	Rattus exulans voucher ROM:113129 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_exulans	JF445254.1	657	Rattus exulans voucher ROM:107804 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

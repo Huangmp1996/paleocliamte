@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_chapaense	DQ283052.1	1989	Leptobrachium chapaense voucher AMNH A163791 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_chapaense	AB530444.1	1923	Leptobrachium chapaense mitochondrial genes for 16S rRNA, tRNA-Val, 12S rRNA, partial and complete sequence, isolate: KUHE 19122
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_chapaense	AB646428.1	448	Leptobrachium chapaense mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUHE:19122
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_chapaense	AB530448.1	1916	Leptobrachium chapaense mitochondrial genes for 16S rRNA, tRNA-Val, 12S rRNA, partial and complete sequence, isolate: MNHN 1997.5249
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_chapaense	AB530443.1	1924	Leptobrachium chapaense mitochondrial genes for 16S rRNA, tRNA-Val, 12S rRNA, partial and complete sequence, isolate: ROM 41243
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_chapaense	AB530442.1	1924	Leptobrachium chapaense mitochondrial genes for 16S rRNA, tRNA-Val, 12S rRNA, partial and complete sequence, isolate: KUHE UN tissue L57
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_chapaense	EF544239.1	1940	Leptobrachium chapaense voucher SCUM 060633L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_chapaense	EF544232.1	1924	Leptobrachium chapaense voucher ROM 32176 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

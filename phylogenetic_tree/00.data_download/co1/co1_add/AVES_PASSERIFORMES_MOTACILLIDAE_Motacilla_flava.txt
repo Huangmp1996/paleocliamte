@@ -1,0 +1,22 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	MW929090.1	16831	Motacilla flava mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KU722526.1	657	Motacilla flava voucher USNM:Birds:647976 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KU722496.1	657	Motacilla flava voucher USNM:Birds:647926 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KU722479.1	657	Motacilla flava voucher USNM:Birds:647849 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	GU571985.1	648	Motacilla flava voucher BISE-Aves30 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	GU571984.1	648	Motacilla flava voucher BISE-Aves386 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	GU571491.1	750	Motacilla flava voucher NHMO-BC271 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	GQ482206.1	673	Motacilla flava voucher UWBM 46881 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	GQ482205.1	694	Motacilla flava voucher UWBM 49434 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	GQ482204.1	694	Motacilla flava voucher UWBM 46975 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	EF515792.1	686	Motacilla flava macronyx voucher KRIBB375 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	EF515791.1	686	Motacilla flava voucher KRIBB1599 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KP252226.1	658	Motacilla flava voucher USNM 645814 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KP252225.1	652	Motacilla flava voucher USNM 645819 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KP252224.1	652	Motacilla flava voucher USNM 645877 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KP252223.1	658	Motacilla flava voucher USNM 645876 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KP252222.1	658	Motacilla flava voucher USNM 645816 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KP252221.1	658	Motacilla flava voucher USNM 645878 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	AB843608.1	669	Motacilla flava mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO304-10
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	AB843607.1	650	Motacilla flava mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO305-10
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	KC439327.1	560	Motacilla flava cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_flava	JN801327.1	669	Motacilla flava voucher USNM 608993 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

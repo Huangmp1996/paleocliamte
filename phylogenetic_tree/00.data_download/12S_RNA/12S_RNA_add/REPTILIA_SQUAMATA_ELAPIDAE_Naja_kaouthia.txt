@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MW020355.1	340	Naja kaouthia voucher KIZYPX18216 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK065602.1	496	Naja kaouthia voucher CHS726 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	MK065328.1	496	Naja kaouthia voucher CHS026 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	LC431744.1	17203	Naja kaouthia mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	JN687924.1	931	Naja kaouthia 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_kaouthia	EU624235.1	379	Naja kaouthia isolate 818 12S ribosomal RNA gene, partial sequence; mitochondrial

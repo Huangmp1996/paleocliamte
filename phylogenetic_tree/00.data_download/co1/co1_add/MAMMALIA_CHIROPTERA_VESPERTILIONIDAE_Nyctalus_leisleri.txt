@@ -1,0 +1,18 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	MT407310.1	658	Nyctalus leisleri voucher MB38 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	MT407309.1	658	Nyctalus leisleri voucher MB39 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	MT407308.1	658	Nyctalus leisleri voucher MB37 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	MN339189.1	610	Nyctalus leisleri voucher MUS-51 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	MK091914.1	642	Nyctalus leisleri voucher 12-hu-ih-124 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	MK091913.1	652	Nyctalus leisleri voucher 12-hu-ih-125 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	JF443044.1	657	Nyctalus leisleri voucher ZMMU SVK 58-08 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	JF443043.1	657	Nyctalus leisleri voucher ZMMU S-167374 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	JF443042.1	657	Nyctalus leisleri voucher ZMMU S-167372 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	JF443041.1	657	Nyctalus leisleri voucher ZMMU S-167251 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	GU270566.1	556	Nyctalus leisleri cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	FR856758.1	556	Nyctalus leisleri mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL02259
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	FR856757.1	556	Nyctalus leisleri mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL01323
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	FR856756.1	556	Nyctalus leisleri mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL01268
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	FR856755.1	556	Nyctalus leisleri mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL01207
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	FR856754.1	556	Nyctalus leisleri mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00536
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	FR856753.1	556	Nyctalus leisleri mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00535
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_leisleri	FR856752.1	556	Nyctalus leisleri mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MIBZPL00261

@@ -1,0 +1,23 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	GU930803.1	998	Phoenicurus ochruros voucher UWBM 64755 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952501.1	880	Phoenicurus ochruros haplotype 16 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952500.1	880	Phoenicurus ochruros haplotype 15 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952499.1	880	Phoenicurus ochruros haplotype 14 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952498.1	880	Phoenicurus ochruros haplotype 13 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952497.1	880	Phoenicurus ochruros haplotype 12 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952496.1	880	Phoenicurus ochruros haplotype 11 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952495.1	880	Phoenicurus ochruros haplotype 10 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952494.1	880	Phoenicurus ochruros haplotype 9 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952493.1	880	Phoenicurus ochruros haplotype 8 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952492.1	880	Phoenicurus ochruros haplotype 7 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952491.1	880	Phoenicurus ochruros haplotype 6 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952490.1	880	Phoenicurus ochruros haplotype 5 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952489.1	880	Phoenicurus ochruros haplotype 4 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952488.1	880	Phoenicurus ochruros haplotype 3 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952487.1	880	Phoenicurus ochruros haplotype 2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	FJ952486.1	880	Phoenicurus ochruros haplotype 1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KP184827.1	998	Phoenicurus ochruros voucher USNM640702 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KP184826.1	998	Phoenicurus ochruros voucher UWBM64739 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KP184825.1	998	Phoenicurus ochruros voucher UWBM66744 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	KP184824.1	998	Phoenicurus ochruros voucher UWBM66329 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	HM633365.1	1076	Phoenicurus ochruros voucher DZUG-U35 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_ochruros	DQ285431.1	983	Phoenicurus ochruros cytochrome b gene, partial cds; mitochondrial

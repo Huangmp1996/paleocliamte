@@ -1,0 +1,7 @@
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_japonica	MW574361.1	16701	Coturnix japonica voucher YPM 140056 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_japonica	NC_003408.1	16697	Coturnix japonica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_japonica	NC_029534.1	8760791	Coturnix japonica isolate 7356 chromosome 19, Coturnix japonica 2.1, whole genome shotgun sequence
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_japonica	KX712089.1	16698	Coturnix japonica mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_japonica	KP171704.1	411	Coturnix japonica 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_japonica	AJ490509.1	395	Coturnix japonica mitochondrial partial 12S rRNA gene
+AVES_GALLIFORMES_PHASIANIDAE_Coturnix_japonica	AP003195.2	16697	Coturnix japonica mitochondrial DNA, complete genome

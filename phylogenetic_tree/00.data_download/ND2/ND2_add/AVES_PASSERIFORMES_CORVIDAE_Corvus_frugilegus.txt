@@ -1,0 +1,21 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503240.1	518	Corvus frugilegus frugilegus haplotype Hap17 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503239.1	518	Corvus frugilegus frugilegus haplotype Hap16 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503238.1	518	Corvus frugilegus frugilegus haplotype Hap15 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503237.1	518	Corvus frugilegus frugilegus haplotype Hap14 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503236.1	518	Corvus frugilegus frugilegus haplotype Hap13 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503235.1	518	Corvus frugilegus frugilegus haplotype Hap12 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503234.1	518	Corvus frugilegus frugilegus haplotype Hap11 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503233.1	518	Corvus frugilegus frugilegus haplotype Hap10 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503232.1	518	Corvus frugilegus frugilegus haplotype Hap9 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503231.1	518	Corvus frugilegus frugilegus haplotype Hap8 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503230.1	518	Corvus frugilegus frugilegus haplotype Hap7 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503229.1	518	Corvus frugilegus frugilegus haplotype Hap6 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503228.1	518	Corvus frugilegus frugilegus haplotype Hap5 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503227.1	518	Corvus frugilegus frugilegus haplotype Hap4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503226.1	518	Corvus frugilegus frugilegus haplotype Hap3 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503225.1	518	Corvus frugilegus frugilegus haplotype Hap2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	MT503224.1	518	Corvus frugilegus frugilegus haplotype Hap1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	Y18522.2	16931	Corvus frugilegus complete mitochondrial genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	NC_002069.2	16931	Corvus frugilegus mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	JQ023999.1	1041	Corvus frugilegus pastinator voucher NRM 570731 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_frugilegus	JQ023937.1	1041	Corvus frugilegus frugilegus voucher ZMUC 143511 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

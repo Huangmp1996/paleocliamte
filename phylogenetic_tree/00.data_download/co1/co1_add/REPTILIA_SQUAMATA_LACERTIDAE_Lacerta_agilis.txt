@@ -1,0 +1,17 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MT410899.1	17069	Lacerta agilis mitochondrion, partial genome
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MN993138.1	657	Lacerta agilis voucher Herp 108 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MN993137.1	657	Lacerta agilis voucher Herp 106 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MN993136.1	656	Lacerta agilis voucher Herp 115 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MN993135.1	657	Lacerta agilis voucher Herp 94 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MN015108.1	1536	Lacerta agilis isolate MV.LAC-184 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	HQ954778.1	647	Lacerta agilis agilis voucher BC ZSM HERP 00119 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	HM901982.1	629	Squamata sp. BOLD:AAL6669 voucher BC ZSM HERP 00095 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	HM901981.1	624	Squamata sp. BOLD:AAL6669 voucher BC ZSM HERP 00094 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	HM901935.1	624	Squamata sp. BOLD:AAL6669 voucher BC ZSM HERP 00003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	HM901934.1	563	Squamata sp. BOLD:AAL6669 voucher BC ZSM HERP 00001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	MG815780.1	630	Lacerta agilis exigua isolate OZ27 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	JN871612.1	634	Lacerta agilis isolate La01 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	KP697866.1	657	Lacerta agilis voucher ZFMK-TIS-5072 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	KP697820.1	657	Lacerta agilis voucher ZFMK-TIS-5067 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	NC_021766.1	17090	Lacerta agilis mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Lacerta_agilis	KC990830.1	17090	Lacerta agilis mitochondrion, complete genome

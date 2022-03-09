@@ -1,0 +1,12 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	OL375164.1	602	Myotis laniger isolate Z000609 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	OL375163.1	602	Myotis laniger isolate Z000592 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	OL375162.1	602	Myotis laniger isolate Z000582 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	OL375161.1	602	Myotis laniger isolate Z000580 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	OL375160.1	602	Myotis laniger isolate Z000573 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	OL375159.1	602	Myotis laniger isolate Z000564 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	OL375158.1	602	Myotis laniger isolate Z000560 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	OL375157.1	602	Myotis laniger isolate Z000554 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	JN312059.1	652	Myotis laniger voucher ZMMU S-186526 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	JN312058.1	652	Myotis laniger voucher ZMMU S-186528 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	JF443986.1	531	Myotis laniger voucher ZMMU S-186527 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_laniger	JF443985.1	657	Myotis laniger voucher ROM 112494 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,6 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Kerivoula_picta	MH137305.1	705	Kerivoula picta isolate VN11-1577 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Kerivoula_picta	MH137304.1	705	Kerivoula picta isolate VN11-1576 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Kerivoula_picta	MH137303.1	705	Kerivoula picta isolate VN11-1565 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Kerivoula_picta	HM540757.1	421	Kerivoula picta voucher ROM MAM 117884 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Kerivoula_picta	HM540756.1	258	Kerivoula picta voucher HZM 1.35275 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Kerivoula_picta	HM540755.1	654	Kerivoula picta voucher ROM MAM 106371 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

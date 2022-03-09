@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Brachypteryx_cruralis	MH599059.1	994	Brachypteryx cruralis voucher IOZ_20893 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Brachypteryx_cruralis	MH599058.1	1034	Brachypteryx cruralis voucher IOZ_21894 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Brachypteryx_cruralis	MH599057.1	1031	Brachypteryx cruralis voucher IOZ_21886 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Brachypteryx_cruralis	MH599056.1	992	Brachypteryx cruralis voucher IOZ_19660 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Brachypteryx_cruralis	MH599055.1	1037	Brachypteryx cruralis voucher DZUG_U011 cytochrome b (cytb) gene, partial cds; mitochondrial

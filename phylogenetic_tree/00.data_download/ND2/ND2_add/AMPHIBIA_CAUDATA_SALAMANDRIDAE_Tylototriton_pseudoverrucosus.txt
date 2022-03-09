@@ -1,0 +1,4 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_pseudoverrucosus	KU255458.1	16265	Tylototriton pseudoverrucosus voucher 2012001 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_pseudoverrucosus	KY800862.1	1035	Tylototriton pseudoverrucosus voucher CIBWCG2012012 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_pseudoverrucosus	KY800861.1	1035	Tylototriton pseudoverrucosus voucher CIBWCG2012007 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_pseudoverrucosus	KY800860.1	1035	Tylototriton pseudoverrucosus voucher CIBWCG2012003 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

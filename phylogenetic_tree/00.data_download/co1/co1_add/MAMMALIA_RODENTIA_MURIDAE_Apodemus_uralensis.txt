@@ -1,0 +1,10 @@
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329625.1	678	Apodemus uralensis isolate JH098 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329624.1	678	Apodemus uralensis isolate JH097 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329623.1	678	Apodemus uralensis isolate JH050 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329622.1	678	Apodemus uralensis isolate JH004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329621.1	678	Apodemus uralensis isolate JH003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	MK329620.1	678	Apodemus uralensis isolate JH002 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	JF499305.1	657	Apodemus uralensis voucher ZMMU 07AAL-081 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	JF499304.1	657	Apodemus uralensis voucher ZMMU 07AAL-180 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF152984.1	645	Apodemus uralensis voucher JW25 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_uralensis	KF152983.1	645	Apodemus uralensis voucher JW293 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

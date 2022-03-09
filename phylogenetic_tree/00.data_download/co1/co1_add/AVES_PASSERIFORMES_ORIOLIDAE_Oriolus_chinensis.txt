@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	MW861756.1	16804	Oriolus chinensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	GQ482278.1	694	Oriolus chinensis voucher UWBM 72068 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	GQ482277.1	680	Oriolus chinensis voucher UWBM 71725 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818825.1	664	Oriolus chinensis isolate SB116 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818824.1	664	Oriolus chinensis isolate SB115 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818823.1	664	Oriolus chinensis isolate SB114 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818822.1	664	Oriolus chinensis isolate SB113 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KX818821.1	664	Oriolus chinensis isolate SB109 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	EF515795.1	686	Oriolus chinensis voucher KRIBB1079 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	KC354938.1	695	Oriolus chinensis voucher TR4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	NC_020424.1	16803	Oriolus chinensis mitochondrion, complete genome
+AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_chinensis	JQ083495.1	16803	Oriolus chinensis mitochondrion, complete genome

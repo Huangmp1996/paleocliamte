@@ -1,0 +1,16 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	KM078804.1	16831	Pyrrhula pyrrhula mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	NC_025625.1	16831	Pyrrhula pyrrhula mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284739.1	822	Pyrrhula pyrrhula griseiventris isolate Pgri3-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284738.1	822	Pyrrhula pyrrhula cineracea isolate Pcin5-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284737.1	822	Pyrrhula pyrrhula cineracea isolate Pcin3-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284735.1	822	Pyrrhula pyrrhula pileata isolate Ppyr55-korr 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284734.1	822	Pyrrhula pyrrhula europoea isolate Ppyr50-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284733.1	822	Pyrrhula pyrrhula europoea isolate Ppyr48-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284732.1	822	Pyrrhula pyrrhula pyrrhula isolate Ppyr41-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284731.1	822	Pyrrhula pyrrhula pyrrhula isolate Ppyr39-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284730.1	822	Pyrrhula pyrrhula pyrrhula isolate Ppyr37-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284729.1	822	Pyrrhula pyrrhula pyrrhula isolate Ppyr28-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284728.1	822	Pyrrhula pyrrhula europoea isolate Ppyr25-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284727.1	822	Pyrrhula pyrrhula europoea isolate Ppyr22-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284726.1	822	Pyrrhula pyrrhula europoea isolate Ppyr20-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Pyrrhula_pyrrhula	HQ284725.1	822	Pyrrhula pyrrhula pyrrhula isolate Ppyr17-korr2 16S ribosomal RNA gene, partial sequence; mitochondrial

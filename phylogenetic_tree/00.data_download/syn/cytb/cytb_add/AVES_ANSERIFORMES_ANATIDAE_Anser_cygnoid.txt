@@ -1,0 +1,42 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	MN356388.1	16742	Anser cygnoides mitochondrion, partial genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	MK102803.1	16738	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	MK133022.1	16741	Anser cygnoides breed Sichuan white goose mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY072601.1	307	Anser cygnoides cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KY767671.1	16740	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	EU863202.1	1143	Anser cygnoides domesticus isolate CW cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	EU863201.1	1143	Anser cygnoides domesticus isolate CB cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	EU585616.1	1045	Anser cygnoides voucher IPMB 21679 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY552165.1	1143	Anser cygnoides breed Rhine cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY552164.1	1143	Anser cygnoides breed Landish cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY552163.1	1143	Anser cygnoides breed Zi cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY552162.1	1143	Anser cygnoides breed Huoyan cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427816.1	1375	Anser cygnoides strain Zhedong NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427815.1	1375	Anser cygnoides strain Yunnan NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427813.1	1375	Anser cygnoides strain Yangjiang NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427812.1	1375	Anser cygnoides strain Yan NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427811.1	1375	Anser cygnoides strain Xupu NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427810.1	1375	Anser cygnoides strain Wuzong NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427809.1	1375	Anser cygnoides strain Wugang NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427808.1	1375	Anser cygnoides strain Wanxi NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427807.1	1375	Anser cygnoides strain Taihu NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427806.1	1375	Anser cygnoides strain Sichuan NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427805.1	1375	Anser cygnoides strain Shitou NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427803.1	1375	Anser cygnoides strain Magang NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427801.1	1375	Anser cygnoides strain Huoyan isolate 2 NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427800.1	1375	Anser cygnoides strain Huoyan isolate 1 NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY427799.1	1375	Anser cygnoides strain Gushi NADH dehydrogenase subunit 5 gene, partial cds; cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KT427463.1	16742	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KU211647.1	16741	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KP881611.1	16740	Anser cygnoides breed Youjiang mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KP943133.1	16742	Anser cygnoides breed Hepu mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KP026178.1	16741	Anser cygnoides breed Wugangtong mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KP238480.1	16740	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KJ794189.1	16740	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KJ794188.1	16742	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KJ778677.1	16742	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	NC_023832.1	16739	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	KJ124555.1	16739	Anser cygnoides mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY552169.1	1176	Anser cygnoides breed Rhine control region, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY552168.1	1175	Anser cygnoides breed Landish control region, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY552167.1	1176	Anser cygnoides breed Zi control region, complete sequence; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_cygnoid	AY552166.1	1175	Anser cygnoides breed Huoyan control region, complete sequence; mitochondrial

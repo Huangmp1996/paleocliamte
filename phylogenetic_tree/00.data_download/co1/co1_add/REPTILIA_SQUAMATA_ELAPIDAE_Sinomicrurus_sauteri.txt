@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_sauteri	KP749827.1	658	Sinomicrurus sauteri isolate RN1581 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_sauteri	KP749812.1	658	Sinomicrurus sauteri isolate RN0745 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_sauteri	KP749810.1	658	Sinomicrurus sauteri isolate RN0726 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Sinomicrurus_sauteri	KP749804.1	658	Sinomicrurus sauteri isolate RN0285 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial

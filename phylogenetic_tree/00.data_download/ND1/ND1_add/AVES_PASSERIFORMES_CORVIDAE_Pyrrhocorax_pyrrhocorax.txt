@@ -1,0 +1,12 @@
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	NC_025926.1	16889	Pyrrhocorax pyrrhocorax mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	KJ598622.1	16889	Pyrrhocorax pyrrhocorax mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924851.1	922	Pyrrhocorax pyrrhocorax haplotype H8 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924850.1	922	Pyrrhocorax pyrrhocorax haplotype H7 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924849.1	922	Pyrrhocorax pyrrhocorax haplotype H6 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924848.1	922	Pyrrhocorax pyrrhocorax haplotype H5 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924847.1	922	Pyrrhocorax pyrrhocorax haplotype H4 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924846.1	922	Pyrrhocorax pyrrhocorax haplotype H3 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924845.1	922	Pyrrhocorax pyrrhocorax haplotype H2.2 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924844.1	922	Pyrrhocorax pyrrhocorax haplotype H2.1 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924843.1	922	Pyrrhocorax pyrrhocorax haplotype H1.2 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_pyrrhocorax	JQ924842.1	922	Pyrrhocorax pyrrhocorax haplotype H1.1 NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial

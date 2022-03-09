@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	AB179619.1	17499	Cylindrophis ruffus mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	MK065683.1	501	Cylindrophis ruffus voucher CHS827 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	MK065317.1	501	Cylindrophis ruffus voucher CHS003 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	AF544744.1	345	Cylindrophis ruffus 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_CYLINDROPHIIDAE_Cylindrophis_ruffus	AF512738.1	1839	Cylindrophis ruffus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

@@ -1,0 +1,63 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190928.1	910	Saxicola torquata axillaris voucher IPMB 11608 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190927.1	913	Saxicola torquata axillaris voucher IPMB 11607 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190926.1	891	Saxicola torquata axillaris voucher IPMB 11606 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190925.1	915	Saxicola torquata axillaris voucher IPMB 11605 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190924.1	915	Saxicola torquata axillaris voucher IPMB 11699 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190923.1	915	Saxicola torquata axillaris voucher IPMB 11697 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190922.1	915	Saxicola torquata axillaris voucher IPMB 11696 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU190921.1	915	Saxicola torquata axillaris voucher IPMB 10461 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093636.1	958	Saxicola torquata axillaris isolate Sax1061 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093635.1	958	Saxicola torquata axillaris isolate OL17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093634.1	958	Saxicola torquata axillaris isolate OL16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093633.1	958	Saxicola torquata axillaris isolate Sax1026 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093632.1	958	Saxicola torquata axillaris isolate Sax1027 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093631.1	958	Saxicola torquata axillaris isolate OL3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093630.1	958	Saxicola torquata axillaris isolate Sax1055 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093629.1	958	Saxicola torquata axillaris isolate Sax1022 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093628.1	958	Saxicola torquata axillaris isolate Sax1020 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093627.1	958	Saxicola torquata axillaris isolate USA15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093626.1	958	Saxicola torquata axillaris isolate USA14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093625.1	958	Saxicola torquata axillaris isolate Sax1067 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093624.1	958	Saxicola torquata axillaris isolate Sax1057 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093623.1	958	Saxicola torquata axillaris isolate TAI14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093622.1	958	Saxicola torquata axillaris isolate TAI13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093621.1	958	Saxicola torquata axillaris isolate TAI11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093620.1	958	Saxicola torquata axillaris isolate Sax1041 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093619.1	958	Saxicola torquata axillaris isolate Sax1039 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093618.1	958	Saxicola torquata axillaris isolate NGO4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093617.1	958	Saxicola torquata axillaris isolate NGO3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093616.1	958	Saxicola torquata axillaris isolate NGO1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093615.1	958	Saxicola torquata axillaris isolate Sax958 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093614.1	958	Saxicola torquata axillaris isolate MON24 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093613.1	958	Saxicola torquata axillaris isolate Sax1071 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093612.1	958	Saxicola torquata axillaris isolate Sax1049 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093611.1	958	Saxicola torquata axillaris isolate MA5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093610.1	958	Saxicola torquata axillaris isolate KIN17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093609.1	958	Saxicola torquata axillaris isolate KIN15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093608.1	958	Saxicola torquata axillaris isolate Sax945 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093607.1	958	Saxicola torquata axillaris isolate KIN3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093606.1	958	Saxicola torquata axillaris isolate Sax1034 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093605.1	958	Saxicola torquata axillaris isolate Sax1033 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093604.1	958	Saxicola torquata axillaris isolate KE10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093603.1	958	Saxicola torquata axillaris isolate KE7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093602.1	958	Saxicola torquata axillaris isolate AR08 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093601.1	958	Saxicola torquata axillaris isolate AR04 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093600.1	958	Saxicola torquata axillaris isolate Sax1015 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	MH093599.1	958	Saxicola torquata axillaris isolate Sax1014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ657481.1	1143	Saxicola torquata axillaris isolate AV6 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	FJ657480.1	1143	Saxicola torquata axillaris isolate AV5 cytochrome b (Cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	KJ456456.1	1143	Saxicola torquata voucher AMNH:5721 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	HM633376.1	1076	Saxicola torquata voucher AMNH-JGG1270 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421114.1	958	Saxicola torquata stonei haplotype 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421113.1	958	Saxicola torquata stonei haplotype 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421112.1	958	Saxicola torquata stonei haplotype 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421110.1	958	Saxicola torquata voeltzkowi haplotype 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421109.1	958	Saxicola torquata salax cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421108.1	958	Saxicola torquata promiscua cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421100.1	958	Saxicola torquata axillaris haplotype 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421099.1	958	Saxicola torquata axillaris haplotype 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421095.1	958	Saxicola torquata axillaris haplotype 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421094.1	958	Saxicola torquata axillaris haplotype 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421093.1	958	Saxicola torquata axillaris haplotype 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	EU421088.1	958	Saxicola torquata indica cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_torquatus	DQ285437.1	983	Saxicola torquata cytochrome b gene, partial cds; mitochondrial

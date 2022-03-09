@@ -1,0 +1,36 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KX388146.1	574	Axis porcinus haplotype AP1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MT251377.1	654	Axis porcinus voucher HD-L5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MT251376.1	645	Axis porcinus voucher HD-L4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MT251375.1	654	Axis porcinus voucher HD-L3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MT251374.1	645	Axis porcinus voucher HD-L2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MN226860.1	567	Axis porcinus annamiticus isolate ApaCoHap1x1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MN226858.1	567	Axis porcinus isolate ApCoHap1x22 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443790.1	16145	Axis porcinus isolate K3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443789.1	16145	Axis porcinus isolate K2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443788.1	16145	Axis porcinus isolate K1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443787.1	16145	Axis porcinus isolate D1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MH443786.1	16145	Axis porcinus isolate C1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MG742696.1	659	Axis porcinus voucher PBRC-HD M4f26 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	MF435989.1	16351	Axis porcinus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KY117537.1	16400	Axis porcinus mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KT372095.1	1545	Axis porcinus cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	JN632600.1	16375	Axis porcinus isolate CYTO mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KF509980.1	684	Axis porcinus voucher jdzl5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KF509979.1	677	Axis porcinus voucher jdXX cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KF509978.1	691	Axis porcinus voucher jdtl1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KF509977.1	677	Axis porcinus voucher jdtlG cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	KF509976.1	691	Axis porcinus voucher jd8x cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	NC_020681.1	16375	Axis porcinus isolate CYTO mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ329001.1	658	Axis porcinus ZJU:CLS438 AXPO-F-SH2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ329000.1	658	Axis porcinus ZJU:CLS438 AXPO-F-HRB1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328999.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328998.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328997.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328996.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD7 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328995.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328994.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328993.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328992.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328991.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328990.1	658	Axis porcinus ZJU:CLS438 AXPO-B-CD1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Axis_porcinus	GQ328989.1	658	Axis porcinus ZJU:CLS438 AXPO-F-BJ1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

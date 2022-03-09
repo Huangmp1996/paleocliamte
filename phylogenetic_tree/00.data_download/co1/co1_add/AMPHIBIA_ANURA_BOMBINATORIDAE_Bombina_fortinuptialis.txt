@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531197.1	980	Bombina fortinuptialis voucher IZCAS:H30099 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531130.1	1037	Bombina fortinuptialis voucher IZCAS:H30052 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531129.1	1037	Bombina fortinuptialis voucher IZCAS:H30051 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531128.1	1037	Bombina fortinuptialis voucher IZCAS:H30050 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	NC_006402.1	17575	Bombina fortinuptialis mitochondrion, complete genome
+AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	AY458591.1	17575	Bombina fortinuptialis mitochondrion, complete genome

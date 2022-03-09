@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_Scincidae_Sphenomorphus_indicus	AY607283.1	1865	Sphenomorphus indicus NADH dehydrogenase subunit 1 (nad1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (nad2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Sphenomorphus_indicus	NC_045408.1	17027	Sphenomorphus indicus voucher HS17088 mitochondrion, complete genome
+REPTILIA_SQUAMATA_Scincidae_Sphenomorphus_indicus	MK450438.1	17027	Sphenomorphus indicus voucher HS17088 mitochondrion, complete genome
+REPTILIA_SQUAMATA_Scincidae_Sphenomorphus_indicus	JF498198.1	1029	Sphenomorphus indicus voucher CAS 214892 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

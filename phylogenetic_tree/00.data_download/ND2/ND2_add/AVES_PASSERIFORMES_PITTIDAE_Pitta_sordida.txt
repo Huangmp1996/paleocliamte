@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	NC_051463.1	17733	Pitta sordida mitochondrion, complete genome
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	MN356273.1	17733	Pitta sordida mitochondrion, complete genome
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	MN991477.1	1041	Pitta sordida voucher LSUMNS B-51072 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	GQ369692.1	1037	Pitta sordida isolate N19 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	KJ455579.1	1041	Pitta sordida voucher NRM:20076314 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	KF818957.1	998	Pitta sordida sordida voucher UAM29159 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	KF818956.1	998	Pitta sordida sordida voucher UAM29615 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	KF818955.1	998	Pitta sordida palawanensis voucher UAM26517 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	KF818954.1	998	Pitta sordida palawanensis voucher UAM25467 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PITTIDAE_Pitta_sordida	KF818953.1	998	Pitta sordida sordida voucher UAM21388 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

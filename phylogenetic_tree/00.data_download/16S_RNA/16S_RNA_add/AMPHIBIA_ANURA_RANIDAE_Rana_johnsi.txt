@@ -1,0 +1,22 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338022.1	532	Rana johnsi isolate Ra44 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338021.1	532	Rana johnsi isolate Ra43 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338020.1	532	Rana johnsi isolate Ra42 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338019.1	532	Rana johnsi isolate Ra41 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338018.1	532	Rana johnsi isolate Ra40 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338017.1	532	Rana johnsi isolate Ra39 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338016.1	532	Rana johnsi isolate Ra38 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338015.1	532	Rana johnsi isolate Ra37 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338014.1	532	Rana johnsi isolate Ra36 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338013.1	532	Rana johnsi isolate Ra35 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338012.1	532	Rana johnsi isolate Ra34 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338011.1	532	Rana johnsi isolate Ra33 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338010.1	532	Rana johnsi isolate Ra32 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338009.1	532	Rana johnsi isolate Ra31 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ338008.1	532	Rana johnsi isolate Ra30 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	NC_058599.1	17873	Rana johnsi mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	OK037567.1	580	Rana johnsi isolate seq large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ571365.1	17873	Rana johnsi mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	FJ417121.1	599	Rana johnsi voucher FMNH 261882 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	DQ283214.1	2399	Rana johnsi voucher AMNH A161191 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	KX269182.1	1909	Rana johnsi isolate ABV-00203 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	AF206477.1	1400	Rana johnsi voucher ROM 24230 16S ribosomal RNA gene, partial sequence; mitochondrial

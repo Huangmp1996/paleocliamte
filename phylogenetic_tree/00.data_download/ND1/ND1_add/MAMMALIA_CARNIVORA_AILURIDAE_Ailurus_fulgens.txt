@@ -1,0 +1,6 @@
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	MK886830.1	16517	Ailurus fulgens mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AH014074.2	10751	Ailurus fulgens ATP synthase F0 subunit 6 (ATP6), ATP synthase F0 subunit 8 (ATP8), cytochrome c oxidase subunit I (COX1), cytochrome c oxidase subunit II (COX2), cytochrome c oxidase subunit III (COX3), NADH dehydrogenase subunit 1 (ND1), NADH dehydrogenase subunit 2 (ND2), NADH dehydrogenase subunit 3 (ND3), NADH dehydrogenase subunit 4 (ND4), NADH dehydrogenase subunit 4L (ND4L), and NADH dehydrogenase subunit 5 (ND5) genes, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	NC_011124.1	16493	Ailurus fulgens mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	NC_009691.1	16374	Ailurus fulgens styani mitochondrion, complete genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AM711897.1	16493	Ailurus fulgens complete mitochondrial genome
+MAMMALIA_CARNIVORA_AILURIDAE_Ailurus_fulgens	AB291074.1	16374	Ailurus fulgens styani mitochondrial DNA, complete genome

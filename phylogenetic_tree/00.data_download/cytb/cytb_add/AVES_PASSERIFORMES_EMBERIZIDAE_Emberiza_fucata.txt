@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	MN356330.1	14885	Emberiza fucata mitochondrion, partial genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	NC_033338.1	16752	Emberiza fucata mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	KT737824.1	16752	Emberiza fucata mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	DQ119532.1	1143	Emberiza fucata isolate efu-2 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	DQ119531.1	1143	Emberiza fucata isolate efu-1 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	KP877777.1	626	Emberiza fucata isolate MAR5921 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	KP877748.1	701	Emberiza fucata arcuata isolate MAR4813 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	KP877739.1	626	Emberiza fucata isolate MAR4356 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	KP877716.1	845	Emberiza fucata isolate MAR1246 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_fucata	EU325747.1	1075	Emberiza fucata fucata cytochrome b gene, partial cds; mitochondrial

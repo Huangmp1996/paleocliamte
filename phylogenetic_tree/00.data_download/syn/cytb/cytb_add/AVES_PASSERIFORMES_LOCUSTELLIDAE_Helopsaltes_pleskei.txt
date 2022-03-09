@@ -1,0 +1,18 @@
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	LC541466.1	18081	Locustella pleskei 2006-5233 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	HQ706158.1	1034	Locustella pleskei voucher U1952 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261533.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD3680
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261532.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD2776
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261531.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD4628
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261530.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD3572
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261529.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD4608
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261527.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD4214
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261526.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD4614
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261525.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD4615
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB261524.1	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD4609
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB159191.2	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD4630
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB159193.2	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD2797
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB159192.2	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD2793
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB159190.2	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD2775
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB159189.2	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD2239
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AB159188.2	1955	Locustella pleskei mitochondrial ND5, cytb genes for NADH dehydrogenase subunit V, cytochrome b, partial and complete cds, isolate: NSMTAD2236
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_pleskei	AJ004320.1	1041	Locustella pleskei partial mitochondrial cytb gene, isolate 1

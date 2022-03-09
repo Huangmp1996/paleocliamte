@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	L77135.1	910	Phylloscopus inornatus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	Y10734.1	1041	P.inornatus mitochondrial cytb gene, partial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	MH079299.1	1076	Abrornis inornata voucher IOZ 12465 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	MH079298.1	1076	Abrornis inornata voucher IOZ 6363 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	MH079297.1	1041	Abrornis inornata voucher IOZ 11784 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	DQ119545.2	521	Phylloscopus inornatus isolate pri-2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	DQ119544.2	521	Phylloscopus inornatus isolate pri-1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	AY635054.1	1038	Phylloscopus inornatus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	DQ792800.1	1143	Phylloscopus inornatus isolate 95 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	DQ792799.1	1143	Phylloscopus inornatus isolate 48 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	KP267727.1	852	Abrornis inornata isolate MAR329 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	NC_024726.1	16875	Phylloscopus inornatus voucher AHU-bird20121022 mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_inornatus	KF742677.1	16875	Phylloscopus inornatus mitochondrion, complete genome

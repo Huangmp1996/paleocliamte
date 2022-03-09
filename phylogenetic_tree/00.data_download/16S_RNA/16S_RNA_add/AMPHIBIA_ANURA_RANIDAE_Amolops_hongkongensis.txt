@@ -1,0 +1,18 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MN953691.1	507	Amolops hongkongensis voucher ROM29014 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MN953690.1	527	Amolops hongkongensis voucher SCUM050522CHX large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MN953689.1	527	Amolops hongkongensis voucher KIZ06740 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MK263268.1	1028	Amolops hongkongensis voucher SYS a4579 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MK263267.1	1028	Amolops hongkongensis voucher SYS a4578 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MK263266.1	1028	Amolops hongkongensis voucher SYS a4577 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MG991892.1	601	Amolops hongkongensis voucher SYS a004579 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MG991891.1	601	Amolops hongkongensis voucher SYS a004578 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	MG991890.1	601	Amolops hongkongensis voucher SYS a004577 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	KX507319.1	539	Amolops hongkongensis voucher SYSa004579 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	KX507318.1	539	Amolops hongkongensis voucher SYSa004578 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	KX507317.1	539	Amolops hongkongensis voucher SYSa004577 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	AB211473.1	861	Amolops hongkongensis mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	AF206453.1	1363	Amolops hongkongensis voucher ROM 16300 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	AY851087.1	573	Amolops hongkongensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	AY851086.1	572	Amolops hongkongensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	AY851081.1	411	Amolops hongkongensis 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_hongkongensis	AY851080.1	412	Amolops hongkongensis 12S ribosomal RNA gene, partial sequence; mitochondrial

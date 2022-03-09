@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN991574.1	1143	Gracula religiosa voucher LSUMNS B-27008 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	JF937590.1	16818	Gracula religiosa mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	KJ456290.1	1143	Gracula religiosa voucher LSUMZ B-29835 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	NC_015898.1	16818	Gracula religiosa mitochondrion, complete genome

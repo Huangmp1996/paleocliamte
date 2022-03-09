@@ -1,0 +1,35 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997314.1	1539	Eothenomys melanogaster melanogaster isolate TQDRY0401 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997310.1	1516	Eothenomys melanogaster isolate jinkouhe09001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997288.1	1539	Eothenomys melanogaster isolate LDMOYZG04005 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997286.1	1534	Eothenomys melanogaster isolate SMLZP0204 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997278.1	1538	Eothenomys melanogaster isolate TJH080323 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997269.1	1539	Eothenomys melanogaster isolate JJSA305 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997239.1	1539	Eothenomys melanogaster isolate TJH14045 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997238.1	1539	Eothenomys melanogaster isolate TJH14024 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997230.1	1539	Eothenomys melanogaster isolate M11008 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997214.1	1539	Eothenomys melanogaster isolate ELSD0401 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997213.1	1539	Eothenomys melanogaster isolate ELSA0101 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997204.1	1539	Eothenomys melanogaster isolate CQ10N008 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997203.1	1539	Eothenomys melanogaster isolate CQ10020 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997195.1	1525	Eothenomys melanogaster isolate CQ16003 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KY997194.1	1524	Eothenomys melanogaster isolate CQ16002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	NC_027418.1	16331	Eothenomys melanogaster mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KP997311.1	16331	Eothenomys melanogaster mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KF999116.1	648	Eothenomys melanogaster voucher r6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KF999115.1	648	Eothenomys melanogaster voucher r1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	KF999114.1	648	Eothenomys melanogaster voucher f103 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165347.1	1539	Eothenomys melanogaster isolate SAF06147 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165346.1	1539	Eothenomys melanogaster isolate SAF06146 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165345.1	1539	Eothenomys melanogaster isolate SAF06143 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165344.1	1539	Eothenomys melanogaster isolate SAF06140 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165326.1	1539	Eothenomys melanogaster isolate SAF06129 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165325.1	1539	Eothenomys melanogaster isolate SAF06128 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165323.1	1539	Eothenomys melanogaster isolate SAF06126 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165321.1	1539	Eothenomys melanogaster isolate SAF06125 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165319.1	1539	Eothenomys melanogaster isolate SAF06127 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165310.1	1539	Eothenomys melanogaster isolate SAF04114 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165286.1	1539	Eothenomys melanogaster isolate SAF06141 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	HM165279.1	1539	Eothenomys melanogaster isolate SAF06123 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	JQ601437.1	656	Eothenomys melanogaster voucher ROM:112499 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	JF444251.1	628	Eothenomys melanogaster voucher ROM 117755 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_melanogaster	JF444250.1	619	Eothenomys melanogaster voucher ROM 117777 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

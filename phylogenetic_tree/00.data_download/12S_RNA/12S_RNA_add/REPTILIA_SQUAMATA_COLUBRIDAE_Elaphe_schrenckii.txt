@@ -1,0 +1,13 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	MK065371.1	495	Elaphe schrenckii voucher CHS136 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	MK065370.1	496	Elaphe schrenckii voucher CHS135 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	NC_027605.1	17165	Elaphe schrenckii voucher HRB14061802 mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	KP888955.1	17165	Elaphe schrenckii voucher HRB14061802 mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830248.1	832	Elaphe schrenckii isolate MMS1177 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830247.1	832	Elaphe schrenckii isolate MMS1079 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830246.1	832	Elaphe schrenckii isolate MMS1078 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	HQ830245.1	832	Elaphe schrenckii isolate CGRB9794 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	JQ712874.1	412	Elaphe schrenckii isolate E5 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	JQ815338.1	611	Elaphe schrenckii voucher NIBRRP0000100349 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	JQ815337.1	557	Elaphe schrenckii voucher NIBRRP0000000148 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	AY122804.1	590	Elaphe schrenckii SH857 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_schrenckii	AF236672.2	807	Elaphe schrenckii 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

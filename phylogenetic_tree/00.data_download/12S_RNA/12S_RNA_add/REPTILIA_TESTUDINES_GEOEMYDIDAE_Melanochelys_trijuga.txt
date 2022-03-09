@@ -1,0 +1,8 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Melanochelys_trijuga	JN860613.1	1151	Melanochelys trijuga voucher ANUM26080309 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Melanochelys_trijuga	AY434642.1	372	Melanochelys trijuga edeniana 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Melanochelys_trijuga	HM921184.1	195	Melanochelys trijuga 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Melanochelys_trijuga	HM040948.1	217	Melanochelys trijuga 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Melanochelys_trijuga	HM040902.1	188	Melanochelys trijuga 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Melanochelys_trijuga	EU930725.1	395	Melanochelys trijuga parkeri isolate 5 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Melanochelys_trijuga	EU930724.1	395	Melanochelys trijuga indopeninsularis isolate 4 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Melanochelys_trijuga	AF043405.1	392	Melanochelys trijuga 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

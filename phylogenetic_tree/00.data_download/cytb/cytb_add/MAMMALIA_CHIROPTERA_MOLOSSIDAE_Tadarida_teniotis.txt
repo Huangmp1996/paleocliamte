@@ -1,0 +1,32 @@
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817216.1	509	Tadarida teniotis isolate TtenCytb_1 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817215.1	509	Tadarida teniotis isolate _TtenCytb_2 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817214.1	509	Tadarida teniotis isolate TtenCytb_3 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817213.1	509	Tadarida teniotis isolate TtenCytb_4 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817212.1	509	Tadarida teniotis isolate TtenCytb_5 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817211.1	509	Tadarida teniotis isolate TtenCytb_6 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817210.1	509	Tadarida teniotis isolate TtenCytb_7 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817209.1	509	Tadarida teniotis isolate TtenCytb_8 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817208.1	509	Tadarida teniotis isolate TtenCytb_9 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817207.1	509	Tadarida teniotis isolate TtenCytb_10 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817206.1	509	Tadarida teniotis isolate TtenCytb_11 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817205.1	509	Tadarida teniotis isolate TtenCytb_12 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817204.1	509	Tadarida teniotis isolate TtenCytb_13 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817203.1	509	Tadarida teniotis isolate TtenCytb_14 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817202.1	509	Tadarida teniotis isolate TtenCytb_15 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817201.1	509	Tadarida teniotis isolate TtenCytb_16 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817200.1	509	Tadarida teniotis isolate TtenCytb_17 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817199.1	509	Tadarida teniotis isolate TtenCytb_18 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817198.1	509	Tadarida teniotis isolate TtenCytb_19 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817197.1	509	Tadarida teniotis isolate TtenCytb_20 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817196.1	509	Tadarida teniotis isolate TtenCytb_21 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817195.1	509	Tadarida teniotis isolate TtenCytb_22 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817194.1	509	Tadarida teniotis isolate TtenCytb_23 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	MK817193.1	509	Tadarida teniotis isolate TtenCytb_24 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	NC_036330.1	16869	Tadarida teniotis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	KY581661.1	16869	Tadarida teniotis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	DQ120910.1	762	Tadarida teniotis haplotype Tte955 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	DQ120909.1	762	Tadarida teniotis haplotype Tte954 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	DQ120908.1	762	Tadarida teniotis haplotype Tte1092 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	DQ120907.1	762	Tadarida teniotis haplotype Tte272 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	EU360721.1	762	Tadarida teniotis haplotype C2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	GQ424036.1	460	Tadarida teniotis voucher NMP48458 cytochrome b (cytb) gene, partial cds; mitochondrial

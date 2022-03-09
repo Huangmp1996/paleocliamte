@@ -1,0 +1,13 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	MK261078.1	17972	Eremias vermiculata mitochondrion, partial genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	KP981388.1	19796	Eremias vermiculata voucher CIB<CHN>:WGXG08403 mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	KP981389.1	19494	Eremias vermiculata voucher CIB<CHN>:GUO3027 mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	NC_025320.1	19914	Eremias vermiculata mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	KM104865.1	19914	Eremias vermiculata mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	HQ733869.1	707	Eremias vermiculata voucher CIB<CHN>:WGXG08403 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	HQ733868.1	707	Eremias vermiculata voucher UOG:IOZ2349 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	HQ733867.1	707	Eremias vermiculata voucher UOG:IOZ2348 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	HQ733866.1	707	Eremias vermiculata voucher UOG:IOZ2395 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	HQ733865.1	707	Eremias vermiculata voucher UOG:IOZ2396 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	HQ733864.1	670	Eremias vermiculata voucher UOG:IOZ2285 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	HQ733863.1	670	Eremias vermiculata voucher UOG:IOZ2284 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	HQ733862.1	707	Eremias vermiculata voucher UOG:IOZ2266 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

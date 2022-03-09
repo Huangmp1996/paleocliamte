@@ -1,0 +1,100 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514726.1	522	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: JT3
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514725.1	522	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: T7
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514724.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: J3
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514723.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: T6
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514722.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: T5
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514721.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: J2
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514720.1	522	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: T4
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514719.1	522	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: T3
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514718.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: J1
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514717.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: T2
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514716.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: T1
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514715.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: JT2
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	LC514714.1	523	Paguma larvata mitochondrial DNA, control region, partial sequence, haplotype: JT1
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	MW257220.1	16731	Paguma larvata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	JN709954.1	409	Paguma larvata isolate Choncho cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	JN709953.1	409	Paguma larvata isolate CCC cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	JN709952.1	409	Paguma larvata isolate Chonmuop cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	JN709951.1	409	Paguma larvata isolate CH2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	JN709893.1	560	Paguma larvata isolate Cay1b cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	JN709892.1	560	Paguma larvata isolate Cay1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	DQ286778.1	375	Paguma larvata voucher AHNU0509 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910452.1	145	Paguma larvata voucher MNHN V07-113 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910451.1	145	Paguma larvata voucher MNHN ML-375 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910450.1	145	Paguma larvata voucher MNHN ML-374 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910449.1	145	Paguma larvata voucher MNHN ML-373 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910448.1	145	Paguma larvata voucher MNHN ML-372 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910447.1	145	Paguma larvata voucher L-99 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910446.1	145	Paguma larvata voucher L-97 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910445.1	145	Paguma larvata voucher L-94 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910444.1	145	Paguma larvata voucher L-93 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910443.1	145	Paguma larvata voucher L-92 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910442.1	145	Paguma larvata voucher L-90 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910441.1	145	Paguma larvata voucher L-89 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910440.1	145	Paguma larvata voucher L-88 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910439.1	145	Paguma larvata voucher L-87 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910438.1	145	Paguma larvata voucher L-86 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910437.1	145	Paguma larvata voucher L-85 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910436.1	145	Paguma larvata voucher L-84 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910435.1	145	Paguma larvata voucher L-83 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910434.1	145	Paguma larvata voucher L-82 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910433.1	145	Paguma larvata voucher L-81 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910432.1	145	Paguma larvata voucher L-80 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910431.1	145	Paguma larvata voucher L-79 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910430.1	145	Paguma larvata voucher L-78 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910429.1	145	Paguma larvata voucher L-77 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910428.1	145	Paguma larvata voucher L-76 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910427.1	145	Paguma larvata voucher L-75 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910426.1	145	Paguma larvata voucher L-72 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910425.1	145	Paguma larvata voucher L-71 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910424.1	145	Paguma larvata voucher L-70 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910423.1	145	Paguma larvata voucher MNHN L-66 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910422.1	145	Paguma larvata voucher MNHN L-64 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910421.1	145	Paguma larvata voucher MNHN L-61 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910420.1	145	Paguma larvata voucher MNHN L-60 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910419.1	145	Paguma larvata voucher MNHN L-59 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910418.1	145	Paguma larvata voucher MNHN L-57 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910417.1	145	Paguma larvata voucher MNHN L-55 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910416.1	145	Paguma larvata voucher MNHN L-51 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910415.1	145	Paguma larvata voucher MNHN L-50 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910414.1	145	Paguma larvata voucher MNHN L-49 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910413.1	145	Paguma larvata voucher MNHN L-48 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910412.1	145	Paguma larvata voucher MNHN L-47 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910411.1	145	Paguma larvata voucher MNHN L-46 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910410.1	145	Paguma larvata voucher MNHN L-45 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910409.1	145	Paguma larvata voucher MNHN L-44 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910408.1	145	Paguma larvata voucher L-190 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910407.1	145	Paguma larvata voucher L-189 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910406.1	145	Paguma larvata voucher L-188 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910405.1	145	Paguma larvata voucher L-187 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910404.1	145	Paguma larvata voucher L-185 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910403.1	145	Paguma larvata voucher L-184 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910402.1	145	Paguma larvata voucher L-182 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910401.1	145	Paguma larvata voucher L-171 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910400.1	145	Paguma larvata voucher L-170 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910399.1	145	Paguma larvata voucher L-169 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910398.1	145	Paguma larvata voucher L-168 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910397.1	145	Paguma larvata voucher L-167 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910396.1	145	Paguma larvata voucher MNHN L-16 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910395.1	145	Paguma larvata voucher L-142 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910394.1	145	Paguma larvata voucher L-129 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910393.1	145	Paguma larvata voucher L-122 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910392.1	145	Paguma larvata voucher L-121 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910391.1	145	Paguma larvata voucher L-119 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910390.1	145	Paguma larvata voucher L-118 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910389.1	145	Paguma larvata voucher L-117 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910388.1	145	Paguma larvata voucher L-116 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910387.1	145	Paguma larvata voucher L-115 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910386.1	145	Paguma larvata voucher L-114 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910385.1	145	Paguma larvata voucher L-113 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910384.1	145	Paguma larvata voucher L-112 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910383.1	145	Paguma larvata voucher L-111 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910382.1	145	Paguma larvata voucher L-110 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910381.1	145	Paguma larvata voucher L-108 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910380.1	145	Paguma larvata voucher MNHN C-399 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910379.1	145	Paguma larvata voucher MNHN C-317 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910378.1	145	Paguma larvata voucher MNHN C-292 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	EU910377.1	145	Paguma larvata voucher MNHN C-137 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	NC_029403.1	16710	Paguma larvata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	KT191130.1	16710	Paguma larvata mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paguma_larvata	JX310333.1	441	Paguma larvata voucher Plar01 cytochrome b (cytb) gene, partial cds; mitochondrial

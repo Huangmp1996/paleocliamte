@@ -1,0 +1,8 @@
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_perdix	MT410881.1	16697	Perdix perdix isolate DM221 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_perdix	NC_039843.1	16699	Perdix perdix mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_perdix	KX838508.1	16699	Perdix perdix mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_perdix	KF781322.1	437	Perdix perdix strain OS141 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_perdix	KC749469.1	966	Perdix perdix 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_perdix	FN675565.1	717	Perdix perdix mitochondrial partial 12S rRNA gene, isolate 1
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_perdix	EF027318.1	145	Perdix perdix 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Perdix_perdix	AF222590.1	965	Perdix perdix 12S small subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

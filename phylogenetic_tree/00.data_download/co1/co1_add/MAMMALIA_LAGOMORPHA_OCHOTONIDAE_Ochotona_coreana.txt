@@ -1,0 +1,4 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	NC_052873.1	17283	Ochotona coreana mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	MT017929.1	17283	Ochotona coreana mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	MN547425.1	16471	Ochotona coreana voucher CHBSH009 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	MN547424.1	16487	Ochotona coreana voucher CHBSH010 mitochondrion, partial genome

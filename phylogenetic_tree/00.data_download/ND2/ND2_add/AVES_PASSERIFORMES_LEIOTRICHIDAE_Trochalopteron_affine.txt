@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	NC_029402.1	17856	Garrulax affinis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	KT182082.1	17856	Garrulax affinis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	KJ455680.1	1041	Garrulax affinis voucher CAS:95885 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	JN826499.1	1041	Garrulax affinis voucher KUNHM 15099 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_affine	JN826498.1	1041	Garrulax affinis voucher AMNH DOT5582 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

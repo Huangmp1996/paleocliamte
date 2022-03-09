@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_MURIDAE_Meriones_unguiculatus	MN122859.1	16355	Meriones unguiculatus isolate DM21 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_unguiculatus	KC762224.1	16360	Meriones unguiculatus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_unguiculatus	NC_023263.1	16351	Meriones unguiculatus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_unguiculatus	KF425526.1	16351	Meriones unguiculatus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_unguiculatus	EU078984.1	574	Meriones unguiculatus voucher UF066 16S ribosomal RNA gene, partial sequence; mitochondrial

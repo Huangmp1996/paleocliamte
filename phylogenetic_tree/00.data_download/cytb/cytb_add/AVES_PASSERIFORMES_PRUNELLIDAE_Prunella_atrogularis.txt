@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KY786991.1	1122	Prunella atrogularis huttoni voucher DZUG 1630 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KY786990.1	1027	Prunella atrogularis huttoni voucher DZUG 1629 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KY786989.1	963	Prunella atrogularis huttoni voucher ZMUK 141223 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KX109630.1	1041	Prunella atrogularis voucher MTD-C63037 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	AY329471.1	974	Prunella atrogularis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product

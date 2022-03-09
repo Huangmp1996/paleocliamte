@@ -1,0 +1,11 @@
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	KY471456.1	17317	Otus scops mitochondrion sequence
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	KT803674.1	648	Otus scops cyprius isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	EF515810.1	686	Otus scops voucher KRIBB2099 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	NC_028162.1	17413	Otus scops mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	KT340630.1	17413	Otus scops mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	AB843643.1	668	Otus scops mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO422-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	AB843642.1	679	Otus scops mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO465-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	AB843641.1	666	Otus scops mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO423-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	AB842988.1	716	Otus scops mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM715-11
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	AB842987.1	707	Otus scops mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM650-10
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	JQ175647.1	652	Otus scops voucher USNM:Birds:620359 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

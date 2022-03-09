@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	NC_058599.1	17873	Rana johnsi mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	MZ571365.1	17873	Rana johnsi mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	EU035175.1	585	Rana johnsi cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_johnsi	KX269328.1	834	Rana johnsi isolate ABV-00203 cytochrome b gene, partial cds; mitochondrial

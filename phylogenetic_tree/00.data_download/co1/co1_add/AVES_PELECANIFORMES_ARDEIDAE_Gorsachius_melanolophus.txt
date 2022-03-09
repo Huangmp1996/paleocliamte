@@ -1,0 +1,4 @@
+AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_melanolophus	AB843536.1	680	Gorsachius melanolophus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO078-10
+AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_melanolophus	AB843535.1	689	Gorsachius melanolophus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO077-10
+AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_melanolophus	AB843534.1	691	Gorsachius melanolophus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO456-10
+AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_melanolophus	AB842811.1	589	Gorsachius melanolophus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM789-11

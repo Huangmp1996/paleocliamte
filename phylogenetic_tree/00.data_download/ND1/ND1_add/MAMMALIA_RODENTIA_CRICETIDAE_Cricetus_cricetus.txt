@@ -1,0 +1,7 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	MF405145.2	16264	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	NC_037888.1	16263	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	MF034880.1	16263	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827164.1	530	Cricetus cricetus isolate MKK_ND1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827106.1	642	Cricetus cricetus isolate MKK_ND1 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827053.1	738	Cricetus cricetus isolate MKK_ND1 cytochrome b (cytB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827225.1	162	Cricetus cricetus isolate MKK_ND1 D-loop, partial sequence; mitochondrial

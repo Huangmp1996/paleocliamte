@@ -1,0 +1,54 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165146.1	933	Bungarus multicinctus wanghaotingi voucher JK20181101 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165145.1	1069	Bungarus multicinctus wanghaotingi voucher CIB ML20170801 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165144.1	1069	Bungarus multicinctus wanghaotingi voucher CIB MLMY20170801 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165139.1	1069	Bungarus multicinctus voucher CIB DL18090210 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165138.1	1069	Bungarus multicinctus voucher CIB DL18090209 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165137.1	1069	Bungarus multicinctus voucher CIB104228 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165136.1	1069	Bungarus multicinctus voucher CIB93923 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MN165135.1	1069	Bungarus multicinctus voucher SYNU R180305 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK201459.1	585	Bungarus multicinctus voucher CHS666 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK201452.1	585	Bungarus multicinctus voucher CHS648 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK201243.1	585	Bungarus multicinctus voucher CHS024 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MK201242.1	585	Bungarus multicinctus voucher CHS023 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657319.1	1004	Bungarus multicinctus isolate GP4914 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657318.1	1028	Bungarus multicinctus isolate GP3760 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657317.1	1020	Bungarus multicinctus isolate GP2209 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657316.1	1026	Bungarus multicinctus isolate KIZ07192 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657315.1	1045	Bungarus multicinctus isolate KIZ09930 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657314.1	1040	Bungarus multicinctus isolate KIZ011979 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657313.1	1040	Bungarus multicinctus isolate KIZ07174 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657312.1	1034	Bungarus multicinctus isolate KIZ06171 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657311.1	1015	Bungarus multicinctus isolate KIZ014732 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657310.1	1040	Bungarus multicinctus isolate KIZ047146 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657309.1	1003	Bungarus multicinctus isolate KIZ03651 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	MG657308.1	1020	Bungarus multicinctus isolate GP4584 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KY952779.1	1093	Bungarus multicinctus isolate GP4481 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KY952778.1	1027	Bungarus multicinctus isolate GP2432 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KY952777.1	1046	Bungarus multicinctus isolate GP1649 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KY952776.1	1048	Bungarus multicinctus isolate GP3775 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KY952775.1	1057	Bungarus multicinctus isolate GP3984 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KY952774.1	991	Bungarus multicinctus isolate GP2208 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KY952773.1	1057	Bungarus multicinctus isolate GP877 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	EU579522.1	17144	Bungarus multicinctus mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	DQ272478.1	307	Bungarus multicinctus cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AF036026.1	246	Bungarus multicinctus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AF036025.1	246	Bungarus multicinctus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KF913296.1	307	Bungarus multicinctus voucher S-72 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KF913295.1	307	Bungarus multicinctus voucher S-71 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KF913294.1	307	Bungarus multicinctus voucher S-21 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	KF913293.1	307	Bungarus multicinctus voucher S-20 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ749345.1	1131	Bungarus multicinctus mitochondrial cytb gene for cytochrome b, specimen voucher CAS 221526
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ749344.1	1131	Bungarus multicinctus mitochondrial cytb gene for cytochrome b, specimen voucher Bm1
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ749327.1	1131	Bungarus multicinctus mitochondrial cytb gene for cytochrome b, specimen voucher LSU 4243
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748669.1	307	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher UK Bm2
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748685.1	130	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher SMF 73341
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748683.1	130	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher MSNG 31995
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748682.1	130	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher MSNG 30880
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748681.1	130	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher BMNH 1935.7.7.2
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748680.1	130	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher BMNH 1925.12.22.3
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748679.1	130	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher BMNH 93.1.14.11
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748678.1	314	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher BMNH 93.1.14.11
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748677.1	101	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher MNHN 1893.413
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748676.1	130	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher NMW 27736.5
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ748675.1	378	Bungarus multicinctus mitochondrial partial cytb gene for cytochrome b, specimen voucher NMW 27736.5
+REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_multicinctus	AJ565002.1	1131	Bungarus multicinctus mitochondrial cytb gene for cytochrome b

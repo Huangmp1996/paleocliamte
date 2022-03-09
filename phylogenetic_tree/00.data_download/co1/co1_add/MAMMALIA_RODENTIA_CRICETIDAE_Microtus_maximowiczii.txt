@@ -1,0 +1,31 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526265.1	668	Microtus maximowiczii isolate DF439 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526264.1	667	Microtus maximowiczii isolate DF_416 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526258.1	668	Microtus maximowiczii isolate DF_254 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526257.1	668	Microtus maximowiczii isolate DF_252 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526256.1	668	Microtus maximowiczii isolate DF_247 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526255.1	668	Microtus maximowiczii isolate DF_243 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526254.1	668	Microtus maximowiczii isolate DF_236 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526253.1	668	Microtus maximowiczii isolate DF_233 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526252.1	668	Microtus maximowiczii isolate DF_231 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526251.1	668	Microtus maximowiczii isolate DF_228 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526249.1	668	Microtus maximowiczii isolate DF_220 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526247.1	668	Microtus maximowiczii isolate DF_217 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526246.1	668	Microtus maximowiczii isolate DF_216 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526245.1	667	Microtus maximowiczii isolate DF215 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526243.1	668	Microtus maximowiczii isolate DF211 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526242.1	667	Microtus maximowiczii isolate DF200 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526240.1	668	Microtus maximowiczii isolate DF198 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526239.1	668	Microtus maximowiczii isolate DF187 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526238.1	668	Microtus maximowiczii isolate DF178 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526236.1	668	Microtus maximowiczii isolate DF167 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526235.1	668	Microtus maximowiczii isolate DF157 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526232.1	668	Microtus maximowiczii isolate DF133 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526227.1	668	Microtus maximowiczii isolate DF74 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KJ526226.1	668	Microtus maximowiczii isolate DF63 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KP190317.1	1542	Microtus maximowiczii isolate NMG12005 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	KP190316.1	1542	Microtus maximowiczii isolate NMG12003 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	JF723550.1	657	Microtus maximowiczii voucher S-187546 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	JF723549.1	657	Microtus maximowiczii voucher S-187545 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	JF723548.1	657	Microtus maximowiczii voucher S-187569 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	JF723547.1	657	Microtus maximowiczii voucher S-187568 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_maximowiczii	HM137737.1	657	Microtus maximowiczii voucher ZMMU 07AAL-090 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

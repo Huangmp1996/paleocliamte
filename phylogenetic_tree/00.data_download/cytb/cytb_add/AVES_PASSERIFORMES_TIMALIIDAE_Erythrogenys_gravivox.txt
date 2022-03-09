@@ -1,0 +1,28 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	NC_050259.1	16996	Erythrogenys gravivox dedekensi mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854351.1	1143	Erythrogenys gravivox isolate BX8 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854350.1	1143	Erythrogenys gravivox isolate BX9 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854349.1	1143	Erythrogenys gravivox isolate BX10 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854348.1	1143	Erythrogenys gravivox isolate BX11 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854347.1	1143	Erythrogenys gravivox isolate BX12 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854346.1	1143	Erythrogenys gravivox isolate BX15 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854345.1	1143	Erythrogenys gravivox isolate BX13 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854344.1	1143	Erythrogenys gravivox isolate BX14 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854343.1	1143	Erythrogenys gravivox isolate BX28 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854342.1	1143	Erythrogenys gravivox isolate BX29 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854341.1	1143	Erythrogenys gravivox isolate BX16 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854340.1	1143	Erythrogenys gravivox isolate BX17 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854339.1	1143	Erythrogenys gravivox isolate BX18 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854338.1	1143	Erythrogenys gravivox isolate BX19 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854337.1	1143	Erythrogenys gravivox isolate BX20 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854336.1	1143	Erythrogenys gravivox isolate BX21 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854335.1	1143	Erythrogenys gravivox isolate BX22 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854334.1	1143	Erythrogenys gravivox isolate BX23 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854333.1	1143	Erythrogenys gravivox isolate BX24 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854332.1	1143	Erythrogenys gravivox isolate BX31 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN854331.1	1143	Erythrogenys gravivox isolate BX30 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MN918717.1	16996	Erythrogenys gravivox dedekensi mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	NC_040006.1	16963	Erythrogenys gravivox mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	MH737742.1	16963	Erythrogenys gravivox mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	EU447102.1	846	Pomatorhinus erythrogenys odicus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	GU724390.1	1143	Pomatorhinus erythrogenys odicus voucher NTNU:T4134 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_gravivox	GU724389.1	1143	Pomatorhinus erythrogenys odicus voucher KIZ:ALS023 cytochrome b (cytb) gene, complete cds; mitochondrial

@@ -1,0 +1,12 @@
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249904.1	382	Felis chaus voucher Felis_chaus_5 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249903.1	382	Felis chaus voucher Felis_chaus_4 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249902.1	382	Felis chaus voucher Felis_chaus_3 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249901.1	382	Felis chaus voucher Felis_chaus_2 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249900.1	382	Felis chaus voucher Felis_chaus_1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963205.1	468	Felis chaus isolate G 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963204.1	468	Felis chaus isolate A 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963203.1	475	Felis chaus isolate B2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963202.1	468	Felis chaus isolate R 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KU963201.1	468	Felis chaus isolate B1 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	NC_028307.1	16653	Felis chaus isolate FCH mitochondrion, complete genome
+MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KP202274.1	16653	Felis chaus isolate FCH mitochondrion, complete genome

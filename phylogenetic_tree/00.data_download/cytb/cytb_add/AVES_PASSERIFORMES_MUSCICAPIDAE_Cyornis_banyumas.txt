@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_banyumas	KP337021.1	974	Cyornis banyumas isolate 4953 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_banyumas	KP337020.1	974	Cyornis banyumas isolate 4186 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_banyumas	KP337019.1	974	Cyornis banyumas isolate 19 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_banyumas	AF151408.1	484	Cyornis banyumas cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_banyumas	HM633287.1	1076	Cyornis banyumas voucher DZUG-U137 cytochrome b (cytb) gene, partial cds; mitochondrial

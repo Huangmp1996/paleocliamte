@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_erythrogastrus	GU930800.1	998	Phoenicurus erythrogastrus voucher UWBM 66361 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_erythrogastrus	KJ456386.1	1143	Phoenicurus erythrogastrus voucher NRM:20026510 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_erythrogastrus	DQ285429.1	983	Phoenicurus erythrogaster cytochrome b gene, partial cds; mitochondrial

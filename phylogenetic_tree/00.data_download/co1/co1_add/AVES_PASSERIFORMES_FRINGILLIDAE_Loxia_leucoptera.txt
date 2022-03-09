@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	NC_051015.1	16811	Loxia leucoptera mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	MN356185.1	16811	Loxia leucoptera mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	GQ482109.1	694	Loxia leucoptera voucher UWBM 56799 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	GQ482108.1	694	Loxia leucoptera voucher UWBM 56800 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	GQ482107.1	694	Loxia leucoptera voucher UWBM 59497 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	AY666278.1	692	Loxia leucoptera voucher 1B-439 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	GU571960.1	648	Loxia leucoptera voucher BISE-Aves130 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	GU571468.1	749	Loxia leucoptera voucher NHMO-BC131 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	DQ433775.1	623	Loxia leucoptera voucher ROM 1B-4194 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

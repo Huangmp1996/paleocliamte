@@ -1,0 +1,5 @@
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	MF966595.1	16473	Przewalskium albirostris mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	HM049636.1	16478	Cervus albirostris mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	JN632690.1	16512	Przewalskium albirostris isolate H04054 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	KJ870160.1	566	Przewalskium albirostris 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_albirostris	NC_016707.1	16478	Przewalskium albirostris mitochondrion, complete genome

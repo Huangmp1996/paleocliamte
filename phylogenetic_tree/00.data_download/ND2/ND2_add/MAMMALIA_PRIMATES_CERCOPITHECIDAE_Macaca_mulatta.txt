@@ -1,0 +1,31 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	LC496787.1	16582	Macaca mulatta mitochondrial DNA, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	NC_005943.1	16564	Macaca mulatta mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DV769459.2	533	ILLUMIGEN_MCQ_68345 Katze_MMTE Macaca mulatta cDNA clone IBIUW:40653 5' similar to Bases 5 to 433 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO774054.1	678	ILLUMIGEN_MCQ_50948 Katze_MMIL Macaca mulatta cDNA clone IBIUW:29161 5' similar to Bases 515 to 578 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO726821.1	333	ILLUMIGEN_MCQ_49040 Katze_MMIL Macaca mulatta cDNA clone IBIUW:28223 5' similar to Bases 5 to 233 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO726183.1	510	ILLUMIGEN_MCQ_43808 Katze_MMJJ Macaca mulatta cDNA clone IBIUW:26985 5' similar to Bases 5 to 410 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO725806.1	277	ILLUMIGEN_MCQ_38662 Katze_MMJJ Macaca mulatta cDNA clone IBIUW:21931 5' similar to Bases 16 to 177 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO725596.1	716	ILLUMIGEN_MCQ_36654 Katze_MMBR Macaca mulatta cDNA clone IBIUW:26106 5' similar to Bases 3 to 368 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO725583.1	384	ILLUMIGEN_MCQ_36575 Katze_MMBR Macaca mulatta cDNA clone IBIUW:27973 5' similar to Bases 1 to 371 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO725264.1	346	ILLUMIGEN_MCQ_32205 Katze_MMBR Macaca mulatta cDNA clone IBIUW:27812 5' similar to Bases 1 to 246 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO724802.1	365	ILLUMIGEN_MCQ_9979 Katze_MMPL2 Macaca mulatta cDNA clone IBIUW:26944 5' similar to Bases 1 to 354 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO724632.1	384	ILLUMIGEN_MCQ_7771 Katze_MMBR Macaca mulatta cDNA clone IBIUW:3708 5' similar to Bases 1 to 371 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO724626.1	325	ILLUMIGEN_MCQ_7754 Katze_MMBR Macaca mulatta cDNA clone IBIUW:3696 5' similar to Bases 121 to 312 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	CO724478.1	618	ILLUMIGEN_MCQ_4886 Katze_MMBR Macaca mulatta cDNA clone IBIUW:5733 5' similar to Bases 1 to 361 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR773890.1	514	ILLUMIGEN_MCQ_57153 Katze_MMOV Macaca mulatta cDNA clone IBIUW:32575 5' similar to Bases 5 to 414 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR773161.1	541	ILLUMIGEN_MCQ_55556 Katze_MMTE Macaca mulatta cDNA clone IBIUW:31766 5' similar to Bases 100 to 441 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR771289.1	371	ILLUMIGEN_MCQ_66340 Katze_MMTE Macaca mulatta cDNA clone IBIUW:34083 5' similar to Bases 35 to 271 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR770948.1	498	ILLUMIGEN_MCQ_65860 Katze_MMTE Macaca mulatta cDNA clone IBIUW:36092 5' similar to Bases 5 to 398 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR770714.1	396	ILLUMIGEN_MCQ_65546 Katze_MMTE Macaca mulatta cDNA clone IBIUW:37904 5' similar to Bases 114 to 296 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR769519.1	844	ILLUMIGEN_MCQ_63210 Katze_MMTE Macaca mulatta cDNA clone IBIUW:34907 5' similar to Bases 220 to 744 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR769471.1	752	ILLUMIGEN_MCQ_63106 Katze_MMTE Macaca mulatta cDNA clone IBIUW:34907 5' similar to Bases 123 to 652 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR768937.1	372	ILLUMIGEN_MCQ_62117 Katze_MMTE Macaca mulatta cDNA clone IBIUW:38197 5' similar to Bases 5 to 272 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR767984.1	165	ILLUMIGEN_MCQ_60821 Katze_MMOV Macaca mulatta cDNA clone IBIUW:32326 5' similar to Bases 5 to 65 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	DR766957.1	297	ILLUMIGEN_MCQ_59209 Katze_MMTE Macaca mulatta cDNA clone IBIUW:30881 5' similar to Bases 5 to 197 highly similar to mitochondrial gene MTND2 (LocusID=0), mRNA sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	NC_037466.1	16565	Macaca mulatta vestita mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	KX686496.1	16565	Macaca mulatta vestita mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	AY612638.1	16564	Macaca mulatta mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	KJ567053.1	16564	Macaca mulatta mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	KJ567051.1	16555	Macaca mulatta mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	KF830702.1	16561	Macaca mulatta lasiotus mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_mulatta	JQ821843.1	16564	Macaca mulatta mitochondrion, complete genome

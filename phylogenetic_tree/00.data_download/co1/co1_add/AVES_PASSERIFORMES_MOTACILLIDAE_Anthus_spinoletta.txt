@@ -1,0 +1,11 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	GQ481365.1	694	Anthus spinoletta voucher UWBM 57991 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	LN650647.1	695	Anthus spinoletta coutellii mitochondrial partial COI gene for cytochrome oxidase subunit 1, clone AS03
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	LN650646.1	694	Anthus spinoletta coutellii mitochondrial partial COI gene for cytochrome oxidase subunit 1, clone AS02
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	LN650645.1	695	Anthus spinoletta coutellii mitochondrial partial COI gene for cytochrome oxidase subunit 1, clone AS01
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	GQ481366.1	694	Anthus spinoletta voucher UWBM 51827 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	GQ481364.1	694	Anthus spinoletta voucher UWBM 46523 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	GQ481363.1	694	Anthus spinoletta voucher UWBM 67639 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	FJ465306.1	612	Anthus spinoletta spinoletta voucher ZMUC 137278 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	FJ465305.1	533	Anthus spinoletta spinoletta voucher ZMUC 116890 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	KF946593.1	693	Anthus spinoletta spinoletta voucher ZMA64552 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Anthus_spinoletta	KF946592.1	693	Anthus spinoletta spinoletta voucher ZMA58279 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

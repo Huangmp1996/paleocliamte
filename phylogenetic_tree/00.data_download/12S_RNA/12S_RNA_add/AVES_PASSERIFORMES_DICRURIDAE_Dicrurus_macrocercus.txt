@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	NC_056389.1	17056	Dicrurus macrocercus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	MW307917.1	17056	Dicrurus macrocercus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	AY447963.1	316	Dicrurus macrocercus 12S ribosomal RNA gene, partial sequence; mitochondrial

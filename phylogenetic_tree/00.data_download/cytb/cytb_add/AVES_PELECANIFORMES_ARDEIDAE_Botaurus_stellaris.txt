@@ -1,0 +1,3 @@
+AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	AY465748.1	1041	Botaurus stellaris cytochrome b gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	NC_025923.1	20350	Botaurus stellaris mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	KJ190955.1	20350	Botaurus stellaris mitochondrion, complete genome

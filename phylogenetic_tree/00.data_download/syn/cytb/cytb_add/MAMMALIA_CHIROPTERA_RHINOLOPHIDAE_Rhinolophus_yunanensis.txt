@@ -1,0 +1,6 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	NC_036419.1	16864	Rhinolophus yunnanensis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	KY808508.1	16864	Rhinolophus yunnanensis mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	JX502555.1	1140	Rhinolophus yunnanensis voucher NBNX010 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	JX502554.1	1140	Rhinolophus yunnanensis voucher D007 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	JX502553.1	1140	Rhinolophus yunnanensis voucher D001 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_yunanensis	JX502552.1	1140	Rhinolophus yunnanensis voucher B101 cytochrome b (cytb) gene, complete cds; mitochondrial

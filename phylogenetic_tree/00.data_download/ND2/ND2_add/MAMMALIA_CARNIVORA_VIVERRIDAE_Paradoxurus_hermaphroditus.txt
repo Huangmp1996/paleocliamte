@@ -1,0 +1,4 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MW257219.1	16666	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	NC_039591.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MG200264.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	AY170056.1	1044	Paradoxurus hermaphroditus specimen-voucher LRH-3167 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product

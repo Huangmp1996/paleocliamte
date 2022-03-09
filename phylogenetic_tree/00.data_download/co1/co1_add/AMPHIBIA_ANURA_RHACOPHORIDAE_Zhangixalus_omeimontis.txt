@@ -1,0 +1,15 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	MN427892.1	19604	Rhacophorus omeimontis mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	NC_046387.1	19604	Rhacophorus omeimontis mitochondrion, complete genome
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	LC386536.1	1554	Rhacophorus omeimontis KUHE:20060104 mitochondrial COX1 gene for cytochrome c oxidase subunit 1, complete cds
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996827.1	561	Rhacophorus omeimontis haplotype C134 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996826.1	561	Rhacophorus omeimontis haplotype C132 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996825.1	561	Rhacophorus omeimontis haplotype C131 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996824.1	561	Rhacophorus omeimontis haplotype C130 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996821.1	561	Rhacophorus omeimontis haplotype C127 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996820.1	531	Rhacophorus omeimontis haplotype C126 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996764.1	561	Rhacophorus omeimontis haplotype C064 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996746.1	561	Rhacophorus omeimontis haplotype C043 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996744.1	561	Rhacophorus omeimontis haplotype C040 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996737.1	561	Rhacophorus omeimontis haplotype C030 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996736.1	561	Rhacophorus omeimontis haplotype C028 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_omeimontis	KP996732.1	561	Rhacophorus omeimontis haplotype C021 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

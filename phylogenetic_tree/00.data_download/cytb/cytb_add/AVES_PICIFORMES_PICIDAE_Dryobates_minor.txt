@@ -1,0 +1,5 @@
+AVES_PICIFORMES_PICIDAE_Dryobates_minor	AF394289.1	1551	Picoides minor strain 47226 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Dryobates_minor	AF394288.1	1551	Picoides minor strain 47225 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Dryobates_minor	AF389319.1	1029	Picoides minor strain 47226 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Dryobates_minor	AF389318.1	1029	Picoides minor strain 47225 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PICIFORMES_PICIDAE_Dryobates_minor	KF765992.1	973	Dryobates minor hortorum isolate Pminhor2 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_auritum	JF937589.1	16687	Crossoptilon auritum mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_auritum	GQ922640.1	699	Crossoptilon auritum bio-material A074 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_auritum	GQ922639.1	699	Crossoptilon auritum bio-material A026 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_auritum	NC_015897.1	16687	Crossoptilon auritum mitochondrion, complete genome

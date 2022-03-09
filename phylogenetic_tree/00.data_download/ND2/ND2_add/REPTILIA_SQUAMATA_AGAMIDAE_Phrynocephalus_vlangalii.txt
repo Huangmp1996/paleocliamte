@@ -1,0 +1,100 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	KJ195935.1	1715	Phrynocephalus vlangalii voucher KIZ:020262 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	KJ195934.1	1715	Phrynocephalus vlangalii voucher MVZ:Herp:TP30721 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	KJ195933.1	1714	Phrynocephalus vlangalii voucher MVZ:Herp:211536 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	KJ195932.1	1719	Phrynocephalus vlangalii hongyuanensis voucher MVZ:Herp:216686 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	MF039061.1	16251	Phrynocephalus vlangalii nanschanica mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	MF039060.1	16725	Phrynocephalus vlangalii pylzowi mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	MF039059.1	16442	Phrynocephalus vlangalii pylzowi mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	MF039058.1	16319	Phrynocephalus vlangalii vlangalii mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629333.1	717	Phrynocephalus vlangalii isolate WL37 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629332.1	717	Phrynocephalus vlangalii isolate WL36 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629326.1	886	Phrynocephalus vlangalii voucher CIB 06048 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629325.1	887	Phrynocephalus vlangalii voucher CIB 06049 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629324.1	886	Phrynocephalus vlangalii voucher CIB 06053 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629323.1	887	Phrynocephalus vlangalii voucher CIB 06060 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629322.1	887	Phrynocephalus vlangalii voucher CIB 06066 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629321.1	887	Phrynocephalus vlangalii voucher CIB 06065 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629320.1	887	Phrynocephalus vlangalii voucher CIB 06064 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629319.1	886	Phrynocephalus vlangalii voucher CIB 06071 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629318.1	887	Phrynocephalus vlangalii voucher CIB 06081 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629317.1	887	Phrynocephalus vlangalii voucher CIB 06080 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629315.1	889	Phrynocephalus vlangalii voucher CIB 06124 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629314.1	890	Phrynocephalus vlangalii voucher CIB 06082 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629313.1	890	Phrynocephalus vlangalii voucher CIB 06073 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629312.1	893	Phrynocephalus vlangalii voucher CIB 06165 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629311.1	893	Phrynocephalus vlangalii voucher CIB 06086 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629310.1	901	Phrynocephalus vlangalii voucher CIB 06138 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629309.1	901	Phrynocephalus vlangalii voucher CIB 06083 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629307.1	905	Phrynocephalus vlangalii voucher CIB 06062 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629306.1	900	Phrynocephalus vlangalii isolate WL39 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629304.1	901	Phrynocephalus vlangalii voucher CIB 06085 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629303.1	913	Phrynocephalus vlangalii voucher CIB 06164 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629302.1	912	Phrynocephalus vlangalii voucher CIB 06187 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629301.1	895	Phrynocephalus vlangalii voucher CIB 06059 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629300.1	910	Phrynocephalus vlangalii voucher CIB 06074 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629298.1	915	Phrynocephalus vlangalii voucher CIB 06171 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629297.1	897	Phrynocephalus vlangalii isolate WL40 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629296.1	897	Phrynocephalus vlangalii voucher CIB 06012 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629294.1	897	Phrynocephalus vlangalii voucher CIB 06169 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629293.1	897	Phrynocephalus vlangalii voucher CIB 06190 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629292.1	897	Phrynocephalus vlangalii voucher CIB 06067 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629287.1	926	Phrynocephalus vlangalii voucher CIB 06166 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629285.1	927	Phrynocephalus vlangalii voucher CIB 06116 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629284.1	927	Phrynocephalus vlangalii voucher CIB 06117 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629283.1	927	Phrynocephalus vlangalii voucher CIB 06119 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629282.1	927	Phrynocephalus vlangalii voucher CIB 06118 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629281.1	925	Phrynocephalus vlangalii voucher CIB 06029 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629280.1	925	Phrynocephalus vlangalii voucher CIB 06111 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629279.1	925	Phrynocephalus vlangalii voucher CIB 06030 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629276.1	925	Phrynocephalus vlangalii voucher CIB 06034 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629275.1	923	Phrynocephalus vlangalii voucher CIB 06170 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629274.1	923	Phrynocephalus vlangalii voucher CIB 06149 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629273.1	923	Phrynocephalus vlangalii voucher CIB 06191 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629272.1	922	Phrynocephalus vlangalii voucher CIB 06036 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629271.1	922	Phrynocephalus vlangalii voucher CIB 06040 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629270.1	922	Phrynocephalus vlangalii voucher CIB 06038 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629269.1	922	Phrynocephalus vlangalii voucher CIB 06037 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629268.1	922	Phrynocephalus vlangalii voucher CIB 06035 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629267.1	919	Phrynocephalus vlangalii voucher CIB 06068 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629266.1	919	Phrynocephalus vlangalii voucher CIB 06189 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629265.1	916	Phrynocephalus vlangalii voucher CIB 06021 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629264.1	916	Phrynocephalus vlangalii voucher CIB 06008 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629263.1	916	Phrynocephalus vlangalii voucher CIB 06022 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629262.1	916	Phrynocephalus vlangalii voucher CIB 06025 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629261.1	916	Phrynocephalus vlangalii voucher CIB 06027 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629260.1	916	Phrynocephalus vlangalii isolate HY25 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629259.1	916	Phrynocephalus vlangalii voucher CIB 06024 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629258.1	430	Phrynocephalus vlangalii voucher CIB 06075 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629257.1	931	Phrynocephalus vlangalii voucher CIB 06140 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629255.1	931	Phrynocephalus vlangalii voucher CIB 06139 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629254.1	931	Phrynocephalus vlangalii voucher CIB 06144 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629251.1	929	Phrynocephalus vlangalii voucher CIB 06154 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629250.1	929	Phrynocephalus vlangalii voucher CIB 06151 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629249.1	929	Phrynocephalus vlangalii voucher CIB 06153 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629248.1	929	Phrynocephalus vlangalii voucher CIB 06155 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629247.1	929	Phrynocephalus vlangalii voucher CIB 06156 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629246.1	929	Phrynocephalus vlangalii voucher CIB 06168 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629244.1	929	Phrynocephalus vlangalii voucher CIB 06152 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629242.1	928	Phrynocephalus vlangalii voucher CIB 06203 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629241.1	928	Phrynocephalus vlangalii voucher CIB 06206 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629240.1	928	Phrynocephalus vlangalii voucher CIB 06157 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629235.1	928	Phrynocephalus vlangalii voucher CIB 06158 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629234.1	925	Phrynocephalus vlangalii voucher CIB 06107 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629233.1	925	Phrynocephalus vlangalii voucher CIB 06056 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629232.1	925	Phrynocephalus vlangalii voucher CIB 06145 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629231.1	925	Phrynocephalus vlangalii voucher CIB 06043 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629230.1	925	Phrynocephalus vlangalii voucher CIB 06112 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629229.1	925	Phrynocephalus vlangalii voucher CIB 06105 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629228.1	925	Phrynocephalus vlangalii voucher CIB 06091 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629227.1	925	Phrynocephalus vlangalii voucher CIB 06041 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629226.1	925	Phrynocephalus vlangalii voucher CIB 06055 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629225.1	925	Phrynocephalus vlangalii voucher CIB 06084 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629220.1	925	Phrynocephalus vlangalii voucher CIB 06057 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629218.1	923	Phrynocephalus vlangalii voucher CIB 06095 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629217.1	923	Phrynocephalus vlangalii voucher CIB 06020 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629216.1	923	Phrynocephalus vlangalii voucher CIB 06016 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629215.1	923	Phrynocephalus vlangalii voucher CIB 06069 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629214.1	923	Phrynocephalus vlangalii voucher CIB 06018 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629213.1	923	Phrynocephalus vlangalii voucher CIB 06054 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629212.1	923	Phrynocephalus vlangalii voucher CIB 06017 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_vlangalii	HM629211.1	923	Phrynocephalus vlangalii voucher CIB 06087 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

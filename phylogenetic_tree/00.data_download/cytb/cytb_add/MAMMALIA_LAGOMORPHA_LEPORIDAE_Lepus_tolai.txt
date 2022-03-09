@@ -1,0 +1,27 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	MN539744.1	17047	Lepus tolai mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	MN098957.1	1138	Lepus tolai voucher S1578 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	MN098956.1	849	Lepus tolai voucher U5218 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	MN098955.1	1090	Lepus tolai voucher U5217 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	MN098954.1	1138	Lepus tolai voucher U5216 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649618.1	1140	Lepus tolai haplotype 21 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649617.1	1140	Lepus tolai haplotype 20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649616.1	1140	Lepus tolai haplotype 19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649615.1	1140	Lepus tolai haplotype 18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649614.1	1140	Lepus tolai haplotype 17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649613.1	1140	Lepus tolai haplotype 16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649612.1	1140	Lepus tolai haplotype 15 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649611.1	1140	Lepus tolai haplotype 14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649610.1	1140	Lepus tolai haplotype 13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649609.1	1140	Lepus tolai haplotype 12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649608.1	1140	Lepus tolai haplotype 11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649607.1	1140	Lepus tolai haplotype 10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649606.1	1140	Lepus tolai haplotype 9 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649605.1	1140	Lepus tolai haplotype 8 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649604.1	1140	Lepus tolai haplotype 7 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649603.1	1140	Lepus tolai haplotype 6 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649602.1	1140	Lepus tolai haplotype 5 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649601.1	1140	Lepus tolai haplotype 4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649599.1	1140	Lepus tolai haplotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	AY649598.1	1140	Lepus tolai haplotype 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	NC_025748.1	17472	Lepus tolai mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	KM609214.1	17472	Lepus tolai mitochondrion, complete genome

@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	MK261078.1	17972	Eremias vermiculata mitochondrion, partial genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	KP981388.1	19796	Eremias vermiculata voucher CIB<CHN>:WGXG08403 mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	KP981389.1	19494	Eremias vermiculata voucher CIB<CHN>:GUO3027 mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	NC_025320.1	19914	Eremias vermiculata mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_vermiculata	KM104865.1	19914	Eremias vermiculata mitochondrion, complete genome

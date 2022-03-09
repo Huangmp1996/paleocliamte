@@ -1,0 +1,29 @@
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	KY411592.1	16701	Ithaginis cruentus voucher FMNH 423572 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453744.1	784	Ithaginis cruentus haplotype 19 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453743.1	784	Ithaginis cruentus haplotype 18 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453742.1	784	Ithaginis cruentus haplotype 17 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453741.1	784	Ithaginis cruentus haplotype 16 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453740.1	784	Ithaginis cruentus haplotype 15 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453739.1	784	Ithaginis cruentus haplotype 14 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453738.1	784	Ithaginis cruentus haplotype 13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453737.1	784	Ithaginis cruentus haplotype 12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453736.1	784	Ithaginis cruentus haplotype 11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453735.1	784	Ithaginis cruentus haplotype 10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453734.1	784	Ithaginis cruentus haplotype 9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453733.1	784	Ithaginis cruentus haplotype 8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453732.1	784	Ithaginis cruentus haplotype 7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453731.1	784	Ithaginis cruentus haplotype 6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453730.1	784	Ithaginis cruentus haplotype 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453729.1	784	Ithaginis cruentus haplotype 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453728.1	784	Ithaginis cruentus haplotype 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453727.1	784	Ithaginis cruentus haplotype 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	HM453726.1	784	Ithaginis cruentus haplotype 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	EU839465.1	1143	Ithaginis cruentus voucher 913 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	EU839464.1	1143	Ithaginis cruentus voucher 911 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	EU839463.1	1143	Ithaginis cruentus voucher 907 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	EU839462.1	1143	Ithaginis cruentus voucher 906 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	AF068193.1	1143	Ithaginis cruentus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	GU214280.1	1143	Ithaginis cruentus berezowskii isolate 910 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	JQ713766.1	16645	Ithaginis cruentus mitochondrion, partial genome
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	NC_018033.1	16683	Ithaginis cruentus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Ithaginis_cruentus	JF921875.1	16683	Ithaginis cruentus mitochondrion, complete genome

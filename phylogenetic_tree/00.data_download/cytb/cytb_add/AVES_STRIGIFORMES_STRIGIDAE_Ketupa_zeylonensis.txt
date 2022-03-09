@@ -1,0 +1,4 @@
+AVES_STRIGIFORMES_STRIGIDAE_Ketupa_zeylonensis	MK049542.1	1103	Ketupa zeylonensis orientalis isolate 9577_IPMB cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Ketupa_zeylonensis	EU348888.1	948	Bubo zeylonensis voucher IPMB 3938 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Ketupa_zeylonensis	EU348975.1	1001	Bubo zeylonensis voucher IPMB 3938 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Ketupa_zeylonensis	AJ003870.1	300	Ketupa zeylonensis partial mitochondrial cytb gene, isolate 1

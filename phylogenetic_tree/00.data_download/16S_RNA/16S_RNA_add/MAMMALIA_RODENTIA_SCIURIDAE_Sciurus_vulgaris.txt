@@ -1,0 +1,18 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MT211956.1	16510	Sciurus vulgaris voucher MSB:Mamm:148785 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MN122875.1	16511	Sciurus vulgaris isolate DM15 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	MN122844.1	16510	Sciurus vulgaris isolate DM14 mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KU962990.1	16511	Sciurus vulgaris mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	DQ334841.1	1044	Sciurus vulgaris voucher UAM:Mamm:80601 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993007.1	16412	Sciurus vulgaris fuscoater isolate 5703_NorthJutland mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993006.1	16218	Sciurus vulgaris fuscoater isolate 4420_MidJutland mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993005.1	16176	Sciurus vulgaris fuscoater isolate 5100_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993004.1	16362	Sciurus vulgaris fuscoater isolate 3163_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993003.1	16398	Sciurus vulgaris fuscoater isolate 5206_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993002.1	16398	Sciurus vulgaris fuscoater isolate 3811_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993001.1	16355	Sciurus vulgaris fuscoater isolate 5099_Zealand mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC993000.1	16438	Sciurus vulgaris fuscoater isolate 5280_Funen mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	KC992999.1	16357	Sciurus vulgaris fuscoater isolate 3094_Funen mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	NC_002369.1	16507	Sciurus vulgaris mitochondrion, complete genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AY227501.1	545	Sciurus vulgaris isolate Svu 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	AJ238588.1	16507	Sciurus vulgaris complete mitochondrial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Sciurus_vulgaris	DQ922641.1	570	Sciurus vulgaris 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	MH079350.1	1076	Phylloscopus subaffinis voucher DZUG U5210 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	MH079349.1	1069	Phylloscopus subaffinis voucher DZUG U4656 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	MH079348.1	1056	Phylloscopus subaffinis voucher DZUG U4651 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	FJ155869.1	666	Phylloscopus subaffinis isolate 3247 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	FJ155868.1	666	Phylloscopus subaffinis isolate 5723 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	FJ155867.1	666	Phylloscopus subaffinis isolate 5718 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	FJ155866.1	666	Phylloscopus subaffinis isolate 4910 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	FJ155865.1	666	Phylloscopus subaffinis isolate 4906 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	FJ155864.1	666	Phylloscopus subaffinis isolate 920 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_subaffinis	EU851086.1	851	Phylloscopus subaffinis isolate MAR5746 cytochrome b (cytb) gene, partial cds; mitochondrial

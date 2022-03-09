@@ -1,0 +1,50 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	Y15694.1	480	Acrocephalus agricola agricola mitochondrial cytb gene, partial (isolate 5)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	FJ883021.1	359	Acrocephalus agricola agricola cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181885.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60032 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181884.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60031 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181883.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60030 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181882.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60028 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181881.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60027 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181880.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60256 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181879.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60255 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181878.1	978	Acrocephalus agricola capistrata voucher IPMB<DEU>:60254 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181877.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60253 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181876.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60252 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181875.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60251 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181874.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60250 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181873.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60249 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181872.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:60248 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181871.1	954	Acrocephalus agricola capistrata voucher IPMB<DEU>:60247 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181870.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60244 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181869.1	941	Acrocephalus agricola septimus voucher IPMB<DEU>:60243 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181868.1	941	Acrocephalus agricola septimus voucher IPMB<DEU>:60242 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181867.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60240 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181866.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60239 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181865.1	926	Acrocephalus agricola septimus voucher IPMB<DEU>:60238 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181864.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60237 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181863.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60236 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181862.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60235 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181861.1	941	Acrocephalus agricola septimus voucher IPMB<DEU>:60020 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181860.1	948	Acrocephalus agricola septimus voucher IPMB<DEU>:60019 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181859.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60017 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181858.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60016 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181857.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60015 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181856.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181855.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60013 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181854.1	952	Acrocephalus agricola septimus voucher IPMB<DEU>:60012 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181853.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60011 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181852.1	991	Acrocephalus agricola septimus voucher IPMB<DEU>:60010 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181851.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:6601 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181850.1	991	Acrocephalus agricola capistrata voucher IPMB<DEU>:6579 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181849.1	991	Acrocephalus agricola voucher IPMB<DEU>:65875 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181848.1	991	Acrocephalus agricola voucher IPMB<DEU>:65874 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	KR181847.1	991	Acrocephalus agricola voucher IPMB<DEU>:65873 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	JN574449.1	879	Acrocephalus agricola voucher GNM<SWE>:U2585 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	AJ004248.1	1041	Acrocephalus agricola septimus partial mitochondrial cytb gene, isolate 4
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	AJ004247.1	1041	Acrocephalus agricola septimus partial mitochondrial cytb gene, isolate 3
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	AJ004246.1	1041	Acrocephalus agricola agricola mitochondrial cytb gene, partial (isolate 2)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	AJ004245.1	1041	Acrocephalus agricola agricola mitochondrial cytb gene, partial (isolate 1)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	AJ004331.1	480	Acrocephalus agricola septimus mitochondrial cytb gene, partial (isolate 7)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	AJ004330.1	480	Acrocephalus agricola agricola mitochondrial cytb gene, partial (isolate 6)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	AJ004776.1	1041	Acrocephalus agricola ssp. septimus mitochondrial cytb gene
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_agricola	AJ004775.1	1041	Acrocephalus agricola ssp. agricola mitochondrial cytb gene

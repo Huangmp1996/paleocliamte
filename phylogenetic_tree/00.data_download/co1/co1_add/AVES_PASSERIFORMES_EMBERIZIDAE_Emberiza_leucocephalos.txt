@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ481772.1	694	Emberiza leucocephalos voucher UWBM 46456 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ481771.1	694	Emberiza leucocephalos voucher UWBM 59990 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ481770.1	693	Emberiza leucocephalos voucher UWBM 66576 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ481769.1	685	Emberiza leucocephalos voucher UWBM 47310 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	GQ481768.1	661	Emberiza leucocephalos voucher UWBM 73419 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	NC_037692.1	16754	Emberiza leucocephalos mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	KY349100.1	16754	Emberiza leucocephalos mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_leucocephalos	KP877677.1	650	Emberiza leucocephalos isolate MAR1627 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

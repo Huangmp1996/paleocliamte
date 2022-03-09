@@ -1,0 +1,4 @@
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	NC_051187.1	126922963	Falco rusticolus isolate bFalRus1 chromosome 1, bFalRus1.pri, whole genome shotgun sequence
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	NC_051196.1	38161925	Falco rusticolus isolate bFalRus1 chromosome 10, bFalRus1.pri, whole genome shotgun sequence
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	NC_029359.1	18218	Falco rusticolus mitochondrion, complete genome
+AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	KT989235.1	18218	Falco rusticolus mitochondrion, complete genome

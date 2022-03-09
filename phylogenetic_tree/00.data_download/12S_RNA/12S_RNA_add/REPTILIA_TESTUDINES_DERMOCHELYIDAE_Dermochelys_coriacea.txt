@@ -1,0 +1,11 @@
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	NC_050073.1	131128815	Dermochelys coriacea isolate rDerCor1 chromosome 6, rDerCor1.pri.v4, whole genome shotgun sequence
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	NC_050084.1	25428285	Dermochelys coriacea isolate rDerCor1 chromosome 17, rDerCor1.pri.v4, whole genome shotgun sequence
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	MF460363.1	16501	Dermochelys coriacea voucher CRI006922 mitochondrion, complete genome
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	KU883272.1	402	Dermochelys coriacea 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	JX454992.1	16680	Dermochelys coriacea isolate CGG-03 mitochondrion, partial genome
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	JX454989.1	16366	Dermochelys coriacea isolate 88903 mitochondrion, partial genome
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	JX454973.1	16380	Dermochelys coriacea isolate 9790 mitochondrion, partial genome
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	JX454969.1	16420	Dermochelys coriacea isolate 5718 mitochondrion, partial genome
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	FJ039913.1	395	Dermochelys coriacea isolate DC_Atlantic 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	FJ039906.1	394	Dermochelys coriacea isolate DC_Pacific 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_DERMOCHELYIDAE_Dermochelys_coriacea	U81340.1	317	Dermochelys coriacea 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene, partial sequence

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_waldeni	GU139519.1	967	Actinodura waldeni voucher KIZ 04501 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_waldeni	GU139518.1	967	Actinodura waldeni voucher KIZ 04500 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_waldeni	JN826467.1	1041	Actinodura waldeni voucher CAS 95906 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Sibia_waldeni	JN826466.1	1041	Actinodura waldeni voucher CAS 95491 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

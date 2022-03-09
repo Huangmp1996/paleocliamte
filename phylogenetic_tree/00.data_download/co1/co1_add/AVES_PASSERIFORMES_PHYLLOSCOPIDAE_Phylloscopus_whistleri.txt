@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_whistleri	KU343245.1	633	Seicercus whistleri voucher IOZ62963 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_whistleri	KU343243.1	633	Seicercus whistleri voucher IOZ62964 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_whistleri	KU343230.1	681	Seicercus whistleri voucher MTD-C61987 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_whistleri	KU343229.1	693	Seicercus whistleri voucher MTD-C61086 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_whistleri	KU343221.1	678	Seicercus whistleri bio-material MAR2132 cytochrome oxidase I (COI) gene, partial cds; mitochondrial

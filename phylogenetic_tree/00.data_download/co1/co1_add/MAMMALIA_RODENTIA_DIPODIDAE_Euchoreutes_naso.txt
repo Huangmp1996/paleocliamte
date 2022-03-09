@@ -1,0 +1,8 @@
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	NC_027500.1	16705	Euchoreutes naso mitochondrion, complete genome
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	KF153025.1	645	Euchoreutes naso voucher A4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	KF153024.1	645	Euchoreutes naso voucher JW212 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	KF153023.1	645	Euchoreutes naso voucher JW207 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	KF153022.1	645	Euchoreutes naso voucher JW211 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	KF153021.1	645	Euchoreutes naso voucher JW215 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	KP981634.1	16705	Euchoreutes naso mitochondrion, complete genome
+MAMMALIA_RODENTIA_DIPODIDAE_Euchoreutes_naso	JX962142.1	653	Euchoreutes naso isolate QHMD1_2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

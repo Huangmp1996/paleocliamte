@@ -1,0 +1,16 @@
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	NC_045373.1	16600	Mareca strepera mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	MN186586.1	16600	Mareca strepera mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	GQ481328.1	679	Mareca strepera voucher UWBM 56499 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	JN703210.1	695	Anas strepera isolate L25_1_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	GU571726.1	648	Anas strepera voucher BISE-Aves8 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	GU571725.1	648	Anas strepera voucher BISE-Aves314 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	GQ481327.1	694	Anas strepera voucher UWBM 56676 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	DQ432726.1	620	Anas strepera voucher USNM 622834 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	AB843355.1	686	Mareca strepera mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO032-10
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	AB843354.1	683	Mareca strepera mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO026-10
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	KF946591.1	693	Anas strepera strepera voucher ZMA58913 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	DQ434301.1	689	Anas strepera voucher 1350-10038 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	DQ434300.1	649	Anas strepera voucher 1350-10107 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	DQ434299.1	665	Anas strepera voucher 1350-10228 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	DQ434298.1	689	Anas strepera voucher 1350-10061 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mareca_strepera	DQ434297.1	687	Anas strepera voucher 1350-10189 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

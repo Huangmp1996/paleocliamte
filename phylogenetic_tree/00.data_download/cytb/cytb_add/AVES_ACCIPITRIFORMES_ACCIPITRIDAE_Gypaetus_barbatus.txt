@@ -1,0 +1,6 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gypaetus_barbatus	X86749.1	1026	G.barbatus mitochondrial cytb gene
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gypaetus_barbatus	EU496467.1	1026	Gypaetus barbatus haplotype GBB67 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gypaetus_barbatus	AY987237.1	1025	Gypaetus barbatus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gypaetus_barbatus	KM203403.1	811	Gypaetus barbatus cytochrome b gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gypaetus_barbatus	U08943.1	1009	Gypaetus barbatus mitochondrion cytochrome b gene, partial cds
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Gypaetus_barbatus	AJ604494.1	1143	Gypaetus barbatus partial mitochondrial cytb gene for cytochrome b

@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	MN356442.1	13946	Acrocephalus arundinaceus mitochondrion, partial genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	FJ883022.1	893	Acrocephalus arundinaceus arundinaceus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	JN574447.1	879	Acrocephalus arundinaceus voucher GNM<SWE>:U2586 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AJ004253.1	1041	Acrocephalus arundinaceus mitochondrial cytb gene, partial (isolate 2)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AJ004252.1	1041	Acrocephalus arundinaceus mitochondrial cytb gene, partial (isolate 1)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AJ004333.1	480	Acrocephalus arundinaceus mitochondrial cytb gene, partial (isolate 4)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AJ004332.1	480	Acrocephalus arundinaceus mitochondrial cytb gene, partial (isolate 3)
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AJ004784.1	1041	Acrocephalus arundinaceus mitochondrial cytb gene

@@ -1,0 +1,13 @@
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	MH822616.1	19093	Platysternon megacephalum peguense mitochondrion, complete genome
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	MG679390.1	633	Platysternon megacephalum isolate 20070317M10 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	MG679389.1	633	Platysternon megacephalum isolate 20040137M10 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	KX559014.1	722	Platysternon megacephalum voucher HBS16255 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	DQ256377.1	19043	Platysternon megacephalum mitochondrion, complete genome
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	DQ016387.1	19161	Platysternon megacephalum mitochondrion, complete genome
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	NC_007970.1	19043	Platysternon megacephalum mitochondrion, complete genome
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	GQ867679.1	660	Platysternon megacephalum voucher 2009-PM-018 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	GQ867678.1	660	Platysternon megacephalum voucher 2009-PM-010 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	GQ867677.1	660	Platysternon megacephalum voucher 2009-PM-009 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	GQ867676.1	660	Platysternon megacephalum voucher 2009-PM-008 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	GQ867675.1	660	Platysternon megacephalum voucher 2009-PM-005 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	GQ867674.1	660	Platysternon megacephalum voucher 2009-PM-004 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

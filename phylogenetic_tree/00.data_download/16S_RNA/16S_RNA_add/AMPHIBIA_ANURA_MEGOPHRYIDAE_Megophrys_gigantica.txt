@@ -1,0 +1,8 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MZ364157.1	18259	Megophrys gigantica mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MT413142.1	554	Megophrys gigantica voucher VNMN010900 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MT412122.1	554	Megophrys gigantica voucher VNMN010898 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MH406776.1	533	Megophrys gigantica isolate 3934 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MH406775.1	533	Megophrys gigantica isolate 3933 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MH406766.1	533	Megophrys gigantica isolate 3883 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	KX811899.1	527	Megophrys gigantica isolate KIZ04892 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	KX811898.1	527	Megophrys gigantica isolate YPX32083 16S ribosomal RNA gene, partial sequence; mitochondrial

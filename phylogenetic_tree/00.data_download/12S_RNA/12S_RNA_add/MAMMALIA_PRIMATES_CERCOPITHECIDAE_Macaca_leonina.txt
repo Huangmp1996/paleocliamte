@@ -1,0 +1,7 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_leonina	NC_027604.1	17050	Macaca leonina mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_leonina	KP330231.1	17050	Macaca leonina mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_leonina	AY206506.1	408	Macaca nemestrina leonina isolate 1A 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_leonina	AY685890.1	435	Macaca leonina isolate Myanmar 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_leonina	AY685889.1	435	Macaca leonina isolate Yunnan 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_leonina	AY685888.1	435	Macaca leonina isolate South of China2 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_leonina	AY685887.1	435	Macaca leonina isolate South of China1 12S ribosomal RNA gene, partial sequence; mitochondrial

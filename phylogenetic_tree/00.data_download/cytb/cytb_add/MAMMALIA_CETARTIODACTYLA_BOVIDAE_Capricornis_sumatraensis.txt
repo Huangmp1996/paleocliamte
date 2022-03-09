@@ -1,0 +1,18 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	MH155202.1	16469	Capricornis sumatraensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	KU324464.1	372	Capricornis sumatraensis isolate 1hao cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	KU324463.1	362	Capricornis sumatraensis isolate 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	KU324462.1	359	Capricornis sumatraensis isolate 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	FJ207534.1	16441	Capricornis sumatraensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	JN709903.1	650	Capricornis sumatraensis isolate QuangNam cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	JN709902.1	416	Capricornis sumatraensis isolate CucPhuong cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	JN709901.1	629	Capricornis sumatraensis isolate QuangNgai cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	JN709900.1	629	Capricornis sumatraensis isolate DongNai cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	DQ459335.1	1080	Capricornis sumatrensis cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	DQ459334.1	1140	Capricornis sumatrensis cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	AY669321.1	1140	Capricornis sumatrensis cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	EF202142.1	427	Capricornis sumatraensis cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	DQ919165.1	412	Capricornis sumatraensis cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	DQ919163.1	306	Capricornis sumatraensis cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	NC_020629.1	16441	Capricornis sumatraensis mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	D32176.2	789	Capricornis sumatrensis gene for kappa-casein precursor, complete cds
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	D32195.1	646	Capricornis sumatrensis mitochodrial gene for cytochrome b, partial cds

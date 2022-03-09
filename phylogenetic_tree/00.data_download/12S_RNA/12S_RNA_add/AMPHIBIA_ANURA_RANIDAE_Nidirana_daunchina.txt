@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MF807904.1	745	Nidirana daunchina voucher SYS a004932 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MF807903.1	745	Nidirana daunchina voucher SYS a004931 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MF807902.1	746	Nidirana daunchina voucher SYS a004930 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MF807901.1	745	Nidirana daunchina voucher SYS a004595 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MF807900.1	745	Nidirana daunchina voucher SYS a004594 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MK293804.1	364	Nidirana daunchina isolate CIB20110629001 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MK293803.1	364	Nidirana daunchina isolate CIB2011081603 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MK293802.1	364	Nidirana daunchina isolate CIB2011081602 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	MK293801.1	364	Nidirana daunchina isolate CIB2011081601 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	KF185029.1	747	Nidirana daunchina voucher HNNU 20060103 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	KU840524.1	742	Babina daunchina clone 12S36 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	KF204619.1	392	Babina daunchina voucher SYNU12050568 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_daunchina	KF204618.1	391	Babina daunchina voucher SYNU12050567 12S ribosomal RNA gene, partial sequence; mitochondrial

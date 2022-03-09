@@ -1,0 +1,6 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	NC_053969.1	16506	Arctictis binturong mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	MW257218.1	16506	Arctictis binturong mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	KX449332.1	16642	Arctictis binturong albifrons mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	NC_043895.1	16642	Arctictis binturong albifrons mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	KM819558.1	519	Arctictis binturong voucher MNHN:TC94 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	DQ683980.1	1044	Arctictis binturong voucher TC-94 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

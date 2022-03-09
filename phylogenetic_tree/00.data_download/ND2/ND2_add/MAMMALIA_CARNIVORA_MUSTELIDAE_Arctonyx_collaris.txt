@@ -1,0 +1,5 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Arctonyx_collaris	MW900259.1	16410	Arctonyx collaris mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Arctonyx_collaris	MN192430.1	16381	Arctonyx collaris mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Arctonyx_collaris	AY882064.1	1044	Arctonyx collaris NADH dehydrogenase 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Arctonyx_collaris	HM106329.1	16481	Arctonyx collaris voucher YP6001 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Arctonyx_collaris	NC_020645.1	16481	Arctonyx collaris voucher YP6001 mitochondrion, complete genome

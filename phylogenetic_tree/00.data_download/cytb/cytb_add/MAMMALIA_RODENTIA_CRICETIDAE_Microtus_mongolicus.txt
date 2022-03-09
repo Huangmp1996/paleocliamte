@@ -1,0 +1,27 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750927.1	1140	Alexandromys mongolicus voucher Vladimir Lebedev:Mmong_2013_63 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750926.1	1140	Alexandromys mongolicus voucher Vladimir Lebedev:Mmong_2013_61 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750925.1	1140	Alexandromys mongolicus voucher Vladimir Lebedev:Mmong_2013_47 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750924.1	1140	Alexandromys mongolicus voucher Vladimir Lebedev:Mmong_2013_22 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750923.1	1140	Alexandromys mongolicus voucher Vladimir Lebedev:Mmong_2013_19 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750922.1	1127	Alexandromys mongolicus voucher Vladimir Lebedev:Mmong_2013_17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750921.1	1140	Alexandromys mongolicus voucher ZMMU:S-191095 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750920.1	1140	Alexandromys mongolicus voucher ZMMU:S-191094 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750919.1	1140	Alexandromys mongolicus voucher ZMMU:S-191093 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750918.1	1100	Alexandromys mongolicus voucher ZMMU:S-191091 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MK750917.1	1102	Alexandromys mongolicus voucher ZMMU:S-191088 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF429800.1	824	Alexandromys mongolicus voucher ZISP 104144 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099587.1	748	Microtus mongolicus voucher ZIN 20229 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099586.1	748	Microtus mongolicus voucher ZIN 20227 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099567.1	1009	Microtus mongolicus voucher ZMMU S-121520 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099566.1	1009	Microtus mongolicus voucher ZMMU S-119904 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099565.1	1100	Microtus mongolicus voucher ZMMU S-191248 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099564.1	775	Microtus mongolicus voucher ZMMU S-191246 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099563.1	1100	Microtus mongolicus voucher ZMMU S-191251 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099562.1	1100	Microtus mongolicus voucher ZMMU S-191249 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099540.1	1100	Microtus mongolicus voucher ZMMU S-191250 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099539.1	1140	Microtus mongolicus voucher ZIN 104144 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	MF099538.1	1140	Microtus mongolicus isolate C-25-4366 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	FJ986310.1	1140	Microtus mongolicus voucher S-180449 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	FJ986309.1	1140	Microtus mongolicus voucher S-180448 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	FJ986305.1	1140	Microtus mongolicus voucher f.c.7 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_mongolicus	FJ986304.1	1140	Microtus mongolicus voucher S-182195 ZMM cytochrome b (cytb) gene, partial cds; mitochondrial

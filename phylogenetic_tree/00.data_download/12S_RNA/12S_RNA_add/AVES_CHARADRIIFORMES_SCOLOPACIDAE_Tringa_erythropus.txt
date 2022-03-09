@@ -1,0 +1,3 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_erythropus	NC_030585.1	16683	Tringa erythropus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_erythropus	KX230491.1	16683	Tringa erythropus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_erythropus	AY894141.1	558	Tringa erythropus 12S ribosomal RNA gene, partial sequence; mitochondrial

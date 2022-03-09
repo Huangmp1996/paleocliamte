@@ -1,0 +1,5 @@
+AVES_ANSERIFORMES_ANATIDAE_Mergus_merganser	MW849284.1	16627	Mergus merganser voucher CPD1230 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mergus_merganser	NC_040986.1	16630	Mergus merganser mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mergus_merganser	KU140667.1	16630	Mergus merganser mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Mergus_merganser	EU585654.1	1045	Mergus merganser merganser voucher IPMB 19873 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Mergus_merganser	KM501449.1	549	Mergus merganser voucher USGS:ASC:MEL CPD1423 cytochrome b gene, partial cds; mitochondrial

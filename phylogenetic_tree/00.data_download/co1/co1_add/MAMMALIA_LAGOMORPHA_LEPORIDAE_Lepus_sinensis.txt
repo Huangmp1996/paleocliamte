@@ -1,0 +1,8 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	HM233207.1	1450	Lepus sinensis isolate S2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	HM233200.1	1450	Lepus sinensis isolate S6 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	HM233199.1	1450	Lepus sinensis isolate S3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	HM233197.1	1450	Lepus sinensis isolate S1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	HM233196.1	1450	Lepus sinensis isolate S4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	HM233195.1	1450	Lepus sinensis isolate S5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	NC_025316.1	17438	Lepus sinensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_sinensis	KM362831.1	17438	Lepus sinensis mitochondrion, complete genome

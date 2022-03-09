@@ -1,0 +1,40 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	MW133457.1	939	Scutiger mammatus voucher KIZ017290 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	MW133456.1	939	Scutiger mammatus voucher KIZ017289 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	MW133455.1	929	Scutiger mammatus voucher KIZ017288 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	MW133454.1	939	Scutiger mammatus voucher KIZ016469 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	MW133451.1	939	Scutiger mammatus voucher KIZ017456 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	MW133450.1	939	Scutiger mammatus voucher KIZ017455 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	MW133449.1	939	Scutiger mammatus voucher KIZ017454 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	MW133425.1	939	Scutiger mammatus voucher KIZ014035 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	KY310964.1	985	Scutiger mammatus isolate LC045 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945524.1	1005	Scutiger mammatus bio-material IOZ972 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945523.1	976	Scutiger mammatus bio-material IOZ3638 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945522.1	1005	Scutiger mammatus bio-material IOZ3637 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945521.1	1005	Scutiger mammatus bio-material IOZ3633 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945520.1	1005	Scutiger mammatus bio-material IOZ3956 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945519.1	1005	Scutiger mammatus bio-material IOZ3636 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945518.1	1005	Scutiger mammatus bio-material IOZ3635 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945517.1	1005	Scutiger mammatus bio-material IOZ3634 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945516.1	1005	Scutiger mammatus bio-material IOZ3632 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945515.1	1005	Scutiger mammatus bio-material IOZ3629 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945514.1	1005	Scutiger mammatus bio-material IOZ3665 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945513.1	1005	Scutiger mammatus bio-material IOZ3664 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945512.1	1005	Scutiger mammatus bio-material IOZ3630 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945511.1	1005	Scutiger mammatus bio-material IOZ3628 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945510.1	1005	Scutiger mammatus bio-material IOZ3622 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945509.1	1005	Scutiger mammatus bio-material LC066 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945508.1	1005	Scutiger mammatus bio-material LC065 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945507.1	1005	Scutiger mammatus bio-material IOZ4009 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945506.1	970	Scutiger mammatus bio-material IOZ4008 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945505.1	1005	Scutiger mammatus bio-material IOZ3924 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945504.1	1005	Scutiger mammatus bio-material IOZ4007 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945503.1	1005	Scutiger mammatus bio-material IOZ3897 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945502.1	1005	Scutiger mammatus bio-material IOZ3955 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945501.1	1005	Scutiger mammatus bio-material IOZ3922 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945500.1	1005	Scutiger mammatus bio-material IOZ3954 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945499.1	993	Scutiger mammatus bio-material IOZ3950 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945498.1	1003	Scutiger mammatus bio-material IOZ3902 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945497.1	1005	Scutiger mammatus bio-material IOZ3953 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945496.1	1005	Scutiger mammatus bio-material IOZ3901 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ945495.1	1005	Scutiger mammatus bio-material IOZ3896 cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_mammatus	FJ463152.1	965	Scutiger mammatus isolate XM949 cytochrome b (cytb) gene, partial cds; mitochondrial

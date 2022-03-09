@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_GLAREOLIDAE_Glareola_pratincola	MN356161.1	15248	Glareola pratincola mitochondrion, partial genome
+AVES_CHARADRIIFORMES_GLAREOLIDAE_Glareola_pratincola	JF498778.1	587	Glareola pratincola voucher USNM 641347 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_GLAREOLIDAE_Glareola_pratincola	GQ481970.1	694	Glareola pratincola voucher UWBM 46259 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_GLAREOLIDAE_Glareola_pratincola	GQ481969.1	694	Glareola pratincola voucher UWBM 46260 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_GLAREOLIDAE_Glareola_pratincola	KP252191.1	652	Glareola pratincola voucher USNM 645953 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

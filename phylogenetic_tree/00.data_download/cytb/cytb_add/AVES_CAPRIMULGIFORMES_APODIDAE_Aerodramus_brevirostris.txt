@@ -1,0 +1,8 @@
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_brevirostris	MG653612.1	906	Aerodramus brevirostris voucher M2123 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_brevirostris	MG653611.1	906	Aerodramus brevirostris voucher M2049 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_brevirostris	AY294450.1	1058	Aerodramus brevirostris specimen-voucher DHC66 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_brevirostris	KM921805.1	842	Aerodramus brevirostris voucher MAR907 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_brevirostris	JQ353850.1	922	Aerodramus brevirostris voucher IPMB<DEU>:21105 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_brevirostris	JQ353849.1	922	Aerodramus brevirostris voucher IPMB<DEU>:21106 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_brevirostris	JQ353848.1	922	Aerodramus brevirostris voucher IPMB<DEU>:25581 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CAPRIMULGIFORMES_APODIDAE_Aerodramus_brevirostris	U50017.1	406	Aerodramus brevirostris cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

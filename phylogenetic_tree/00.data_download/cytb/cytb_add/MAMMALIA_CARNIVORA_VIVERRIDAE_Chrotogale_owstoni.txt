@@ -1,0 +1,30 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	NC_053971.1	16852	Chrotogale owstoni mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	MW257222.1	16852	Chrotogale owstoni mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	JN709948.1	411	Chrotogale owstoni isolate Cayvanbac cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	DQ286775.1	375	Chrotogale owstoni voucher AHNU0310 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AF125142.1	655	Chrotogale owstoni cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155258.2	1140	Chrotogale owstoni isolate C94 cytochrome b (Cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155271.1	893	Chrotogale owstoni isolate C276 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155270.1	893	Chrotogale owstoni isolate C269 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155269.1	853	Chrotogale owstoni isolate C101 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155268.1	893	Chrotogale owstoni isolate C268 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155267.1	893	Chrotogale owstoni isolate C266 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155266.1	893	Chrotogale owstoni isolate C56 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155265.1	893	Chrotogale owstoni isolate C261 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155264.1	872	Chrotogale owstoni isolate C96 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155263.1	881	Chrotogale owstoni isolate C100 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155262.1	863	Chrotogale owstoni isolate C138 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155261.1	893	Chrotogale owstoni isolate C265 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155260.1	893	Chrotogale owstoni isolate C270 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155259.1	893	Chrotogale owstoni isolate C104 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155257.1	893	Chrotogale owstoni isolate C262 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155256.1	893	Chrotogale owstoni isolate C272 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155255.1	893	Chrotogale owstoni isolate C259 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155254.1	887	Chrotogale owstoni isolate C260 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155253.1	848	Chrotogale owstoni isolate C103 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155252.1	883	Chrotogale owstoni isolate C102 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155251.1	857	Chrotogale owstoni isolate C55 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155250.1	893	Chrotogale owstoni isolate C267 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155249.1	853	Chrotogale owstoni isolate C98 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	AY155248.1	843	Chrotogale owstoni isolate C99 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Chrotogale_owstoni	DQ286780.1	375	Chrotogale owstoni voucher AHNU0310 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,30 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	MT773175.1	650	Buteo buteo isolate 24Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	MN122916.1	13998	Buteo buteo mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GQ481407.1	694	Buteo buteo voucher UWBM 57797 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KY754488.1	697	Buteo buteo voucher Bird4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KT803616.1	648	Buteo buteo isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AF380305.2	18674	Buteo buteo mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GU571770.1	648	Buteo buteo voucher BISE-Aves25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GU571769.1	648	Buteo buteo voucher BISE-Aves322 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GU571290.1	655	Buteo buteo voucher NHMO-BC430 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GU571289.1	750	Buteo buteo voucher NHMO-BC356 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GQ922641.1	699	Buteo buteo bio-material A043 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GQ481408.1	694	Buteo buteo voucher ZMMU 31a cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	GQ481406.1	694	Buteo buteo voucher UWBM 57802 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	U83767.1	518	Buteo buteo cytochrome oxidase I (mtCOI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	EF515764.1	686	Buteo buteo voucher KRIBB2022 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AB843385.1	683	Buteo buteo mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO140-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AB843384.1	692	Buteo buteo mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO463-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AB843383.1	677	Buteo buteo mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO128-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AB842601.1	656	Buteo buteo mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM131-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AB842600.1	662	Buteo buteo mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM369-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	AB842599.1	535	Buteo buteo mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM782-11
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KM364882.1	18231	Buteo buteo burmanicus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KF946613.1	681	Buteo buteo buteo voucher ZMA58920 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KF946612.1	693	Buteo buteo buteo voucher ZMA58828 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KF946611.1	693	Buteo buteo buteo voucher ZMA58781 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KF946610.1	693	Buteo buteo buteo voucher ZMA58239 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KF946609.1	693	Buteo buteo buteo voucher ZMA58238 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	KF946608.1	693	Buteo buteo buteo voucher Tissue461 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	NC_003128.3	18674	Buteo buteo mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_buteo	JN801278.1	652	Buteo buteo voucher USNM 572874 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

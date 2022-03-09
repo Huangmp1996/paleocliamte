@@ -1,0 +1,10 @@
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	NW_005842591.1	1025838	Alligator sinensis unplaced genomic scaffold, ASM45574v1 scaffold1244_1, whole genome shotgun sequence
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	DQ283319.1	2439	Alligator sinensis voucher WCS 850352 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AF511507.1	16746	Alligator sinensis mitochondrion, complete genome
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AY239130.1	246	Alligator sinensis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AY963813.1	1109	Alligator sinensis isolate XZ32-3 D-loop and 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AY963812.1	1046	Alligator sinensis isolate XZ32-2 D-loop and 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AY963811.1	938	Alligator sinensis isolate XZ32-1 D-loop and 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AY963810.1	1111	Alligator sinensis isolate XZ26-2 D-loop and 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AY963809.1	939	Alligator sinensis isolate XZ26-1 D-loop and 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AF237577.1	398	Alligator sinensis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

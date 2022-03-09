@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_leucophaeus	MN991558.1	1143	Dicrurus leucophaeus voucher LSUMNS B-79564 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_leucophaeus	EF449769.1	441	Dicrurus leucophaeus isolate W4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_leucophaeus	EF449755.1	441	Dicrurus leucophaeus isolate L04/33-8C cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_leucophaeus	EF449748.1	441	Dicrurus leucophaeus isolate L12/14-30 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_leucophaeus	JQ864500.1	1026	Dicrurus leucophaeus cytochrome b (cytb) gene, complete cds; mitochondrial

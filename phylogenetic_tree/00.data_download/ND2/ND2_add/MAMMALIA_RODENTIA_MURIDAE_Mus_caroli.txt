@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	MK166027.1	16301	Mus caroli mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	NC_025268.1	16313	Mus caroli isolate R5231 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	KJ530558.1	16313	Mus caroli isolate R5231 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_caroli	KJ530557.1	16310	Mus caroli isolate C0423 mitochondrion, complete genome

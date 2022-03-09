@@ -1,0 +1,26 @@
+AVES_PICIFORMES_PICIDAE_Picus_canus	NC_045372.1	17103	Picus canus mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Picus_canus	MK348064.1	17103	Picus canus mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Picus_canus	AY940808.1	1022	Picus canus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	AY940787.1	1512	Picus canus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	GU572044.1	648	Picus canus voucher BISE-Aves17 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	GU572043.1	648	Picus canus voucher BISE-Aves326 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	GU571574.1	725	Picus canus voucher NHMO-BC421 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	GQ482486.1	694	Picus canus voucher UWBM 51783 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	GQ482485.1	694	Picus canus voucher UWBM 72085 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	GQ482484.1	694	Picus canus voucher UWBM 47166 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	EF515803.1	686	Picus canus voucher KRIBB2212 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843702.1	693	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO501-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843701.1	683	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO386-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843700.1	686	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO387-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843090.1	695	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM502-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843089.1	698	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM492-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843088.1	674	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM819-11
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843087.1	646	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM454-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843086.1	666	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM468-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843085.1	638	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM820-11
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843084.1	669	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM571-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843083.1	663	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM099-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843082.1	695	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM493-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	AB843081.1	693	Picus canus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM491-10
+AVES_PICIFORMES_PICIDAE_Picus_canus	EU621643.1	532	Picus canus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Picus_canus	AY940762.1	973	Picus canus 12S ribosomal RNA gene, complete sequence; mitochondrial

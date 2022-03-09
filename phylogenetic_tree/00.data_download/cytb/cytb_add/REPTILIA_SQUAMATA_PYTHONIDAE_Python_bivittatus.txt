@@ -1,0 +1,45 @@
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	MK201372.1	585	Python bivittatus voucher CHS266 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	MH357843.1	799	Python bivittatus haplotype H04 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	MH357842.1	799	Python bivittatus haplotype H03 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	MH357841.1	799	Python bivittatus haplotype H02 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	MH357840.1	799	Python bivittatus haplotype H01 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	LC086062.1	802	Python bivittatus mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds, isolate: PB01
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	LC075329.1	750	Python bivittatus mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: PB04
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	FJ717484.1	289	Python molurus bivittatus voucher B20935 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	FJ717482.1	289	Python molurus bivittatus voucher H31049 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	KF293729.1	17529	Python bivittatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401163.1	1111	Python bivittatus isolate PM031 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401162.1	1111	Python bivittatus isolate PM030 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401161.1	1111	Python bivittatus isolate PM029 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401160.1	1111	Python bivittatus isolate PM028 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401159.1	1111	Python bivittatus isolate PM027 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401158.1	1111	Python bivittatus isolate PM026 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401157.1	1111	Python bivittatus isolate PM025 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401156.1	1111	Python bivittatus isolate PM024 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401155.1	1111	Python bivittatus isolate PM023 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401154.1	1111	Python bivittatus isolate PM022 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401153.1	1111	Python bivittatus isolate PM021 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401152.1	1111	Python bivittatus isolate PM020 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401151.1	1111	Python bivittatus isolate PM019 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401150.1	1111	Python bivittatus isolate PM018 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401149.1	1111	Python bivittatus isolate PM017 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401148.1	1111	Python bivittatus isolate PM016 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401147.1	1111	Python bivittatus isolate PM015 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401146.1	1111	Python bivittatus isolate PM014 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401145.1	1111	Python bivittatus isolate PM013 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401144.1	1111	Python bivittatus isolate PM012 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401143.1	1111	Python bivittatus isolate PM011 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401142.1	1111	Python bivittatus isolate PM010 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401141.1	1111	Python bivittatus isolate PM009 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401140.1	1111	Python bivittatus isolate PM008 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401139.1	1111	Python bivittatus isolate PM007 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401138.1	1111	Python bivittatus isolate PM006 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401137.1	1111	Python bivittatus isolate PM005 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401136.1	1111	Python bivittatus isolate PM004 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401135.1	1111	Python bivittatus isolate PM003 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401134.1	1111	Python bivittatus isolate PM002 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401133.1	1111	Python bivittatus isolate PM001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401132.1	1111	Python bivittatus isolate FZ004 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	JX401131.1	1111	Python bivittatus isolate FZ001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	NC_021479.1	17617	Python bivittatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	KF010492.1	17617	Python bivittatus mitochondrion, complete genome

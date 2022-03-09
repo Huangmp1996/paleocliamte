@@ -1,0 +1,31 @@
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MW023602.1	530	Amolops ricketti voucher KIZYPX6604 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MN953759.1	531	Amolops ricketti voucher KIZ07150 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MN953743.1	531	Amolops ricketti voucher HDSK0043 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	FJ417157.1	600	Amolops ricketti voucher AMNH 168687 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MK263261.1	1032	Amolops ricketti voucher SYS a4143 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MK263260.1	1032	Amolops ricketti voucher SYS a4142 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MK263259.1	1032	Amolops ricketti voucher SYS a4141 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MK263256.1	1032	Amolops ricketti voucher SYS a4106 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MK263246.1	1032	Amolops ricketti voucher SYS a3342 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MK263244.1	1032	Amolops ricketti voucher SYS a2492 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MG991900.1	602	Amolops ricketti voucher SYS a004143 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MG991899.1	602	Amolops ricketti voucher SYS a004142 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MG991898.1	602	Amolops ricketti voucher SYS a004141 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KX507311.1	543	Amolops ricketti voucher SYSa003342 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KX507309.1	543	Amolops ricketti voucher SYSa002492 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KX507303.1	543	Amolops ricketti voucher SYSa001605 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KU840608.1	553	Amolops ricketti clone 16S45 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KR827708.1	411	Amolops ricketti voucher 2000.2939 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KR827707.1	411	Amolops ricketti voucher 2000.2938 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	DQ019597.1	531	Amolops ricketti 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KF771290.1	1608	Amolops ricketti 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	NC_023949.1	17772	Amolops ricketti mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KF956111.1	17772	Amolops ricketti mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	AB211475.1	865	Amolops ricketti mitochondrial gene for 16S rRNA, partial sequence
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	DQ359987.1	553	Amolops ricketti voucher SCUM0405181CJ 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	DQ204486.1	1413	Amolops ricketti voucher ROM 26365 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	AF315149.1	550	Amolops ricketti 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	AF458117.1	1970	Amolops ricketti 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	AF206454.1	1362	Amolops ricketti voucher ROM 16818 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	AY851090.1	577	Amolops ricketti 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	AY851084.1	409	Amolops ricketti 12S ribosomal RNA gene, partial sequence; mitochondrial

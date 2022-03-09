@@ -1,0 +1,23 @@
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH034188.1	588	Duttaphrynus melanostictus voucher 15951 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH034187.1	588	Duttaphrynus melanostictus voucher 16046 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH034186.1	588	Duttaphrynus melanostictus voucher NMNSC3901 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH034185.1	588	Duttaphrynus melanostictus voucher 17066 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH034184.1	588	Duttaphrynus melanostictus voucher 17700 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH034183.1	588	Duttaphrynus melanostictus voucher 17676 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MH034182.1	588	Duttaphrynus melanostictus voucher 15999 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MG935467.1	655	Duttaphrynus melanostictus voucher USNM:Herp:523959 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	MG935466.1	651	Duttaphrynus melanostictus voucher USNM:Herp:520316 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KY000473.1	631	Duttaphrynus melanostictus isolate DM2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KY000472.1	631	Duttaphrynus melanostictus isolate DM4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KY000471.1	631	Duttaphrynus melanostictus isolate DM3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KY000470.1	631	Duttaphrynus melanostictus isolate DM5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KY000469.1	631	Duttaphrynus melanostictus isolate DM1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY458592.1	17374	Bufo melanostictus mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	HQ844993.1	698	Bufo melanostictus cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EF577515.1	549	Bufo melanostictus isolate COI-5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EF577513.1	551	Bufo melanostictus isolate COI-57 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU104679.1	564	Duttaphrynus melanostictus dev-stage tadpole cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	EU104678.1	580	Duttaphrynus melanostictus dev-stage adult cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	NC_005794.2	17374	Bufo melanostictus mitochondrion, complete genome
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	JN700876.1	602	Bufo melanostictus voucher KIZ-HN0806115 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AJ584640.1	16328	Bufo melanostictus partial mitochondrial genome

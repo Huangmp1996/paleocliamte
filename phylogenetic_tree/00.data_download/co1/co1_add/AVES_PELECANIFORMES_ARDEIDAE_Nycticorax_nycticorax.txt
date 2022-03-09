@@ -1,0 +1,28 @@
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	MT188110.1	791	Nycticorax nycticorax cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	KY040004.1	700	Nycticorax nycticorax isolate BCNHAVC cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	KY355014.1	552	Nycticorax nycticorax isolate 16_P5_5_RO cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JN018412.1	17829	Nycticorax nycticorax mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JF498801.1	649	Nycticorax nycticorax voucher USNM 641316 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JF498878.1	694	Nycticorax nycticorax voucher USNM:643534 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JF498877.1	669	Nycticorax nycticorax voucher USNM:643536 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	AY666336.1	612	Nycticorax nycticorax voucher 1B-154 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	HM804926.1	686	Nycticorax nycticorax isolate Nycnyc6 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	HM804925.1	689	Nycticorax nycticorax isolate Nycnyc4 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	HM804924.1	685	Nycticorax nycticorax isolate Nycnyc3 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	HM804923.1	684	Nycticorax nycticorax isolate Nycnyc1 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	EF515757.1	686	Nycticorax nycticorax voucher KRIBB1850 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	AB843624.1	681	Nycticorax nycticorax mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO089-10
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	AB843623.1	645	Nycticorax nycticorax mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO094-10
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	AB842972.1	671	Nycticorax nycticorax mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM347-10
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	AB842971.1	605	Nycticorax nycticorax mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM015-08
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	AB842970.1	658	Nycticorax nycticorax mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM427-10
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	AB842969.1	668	Nycticorax nycticorax mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM695-10
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	KJ442643.1	466	Nycticorax nycticorax isolate AV1 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	KJ190954.1	19853	Nycticorax nycticorax mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	NC_015807.1	17829	Nycticorax nycticorax mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JN850713.1	658	Nycticorax nycticorax isolate S05_1364 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JN850699.1	658	Nycticorax nycticorax isolate D07_775 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JN850698.1	657	Nycticorax nycticorax isolate D07_774 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	FJ027914.1	694	Nycticorax nycticorax voucher MACN-Or-ct 1719 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JN801869.1	743	Nycticorax nycticorax voucher S20201 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Nycticorax_nycticorax	JN801868.1	743	Nycticorax nycticorax voucher DOT 7368 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

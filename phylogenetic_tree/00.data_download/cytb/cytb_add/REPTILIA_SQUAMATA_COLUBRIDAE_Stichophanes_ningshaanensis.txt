@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Stichophanes_ningshaanensis	MH613781.1	1102	Stichophanes ningshaanensis voucher CIB2017070802 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Stichophanes_ningshaanensis	NC_026083.1	17292	Oligodon ningshaanensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Stichophanes_ningshaanensis	KJ719252.1	17292	Oligodon ningshaanensis mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Stichophanes_ningshaanensis	KJ638716.1	1117	Oligodon ningshaanensis isolate CIB100192 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Stichophanes_ningshaanensis	KJ638715.1	1117	Oligodon ningshaanensis isolate CIB100191 cytochrome b (cytb) gene, partial cds; mitochondrial

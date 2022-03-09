@@ -1,0 +1,96 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OL468685.1	647	Columba livia voucher ZMUVAS102 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086272.1	419	Columba livia isolate DOV186 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086271.1	419	Columba livia isolate DOV185 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086270.1	419	Columba livia isolate DOV184 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086269.1	419	Columba livia isolate DOV183 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086268.1	419	Columba livia isolate DOV182 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086267.1	419	Columba livia isolate DOV181 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086266.1	419	Columba livia isolate DOV180 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086265.1	419	Columba livia isolate DOV179 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086264.1	419	Columba livia isolate DOV178 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086263.1	419	Columba livia isolate DOV177 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086262.1	419	Columba livia isolate DOV176 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086261.1	419	Columba livia isolate DOV175 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086260.1	419	Columba livia isolate DOV174 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086259.1	419	Columba livia isolate DOV173 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086258.1	419	Columba livia isolate DOV172 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086257.1	419	Columba livia isolate DOV171 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086256.1	419	Columba livia isolate DOV170 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086255.1	419	Columba livia isolate DOV169 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086254.1	419	Columba livia isolate DOV168 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086253.1	419	Columba livia isolate DOV167 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086252.1	419	Columba livia isolate DOV166 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086251.1	419	Columba livia isolate DOV165 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086250.1	419	Columba livia isolate DOV164 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086249.1	419	Columba livia isolate DOV163 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086248.1	419	Columba livia isolate DOV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086247.1	419	Columba livia isolate DOV161 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086246.1	419	Columba livia isolate DOV160 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086245.1	419	Columba livia isolate DOV159 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086244.1	419	Columba livia isolate DOV158 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086243.1	419	Columba livia isolate DOV157 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086242.1	419	Columba livia isolate DOV156 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086241.1	419	Columba livia isolate DOV155 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	OK086236.1	419	Columba livia isolate DOV150 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	NC_013978.1	17229	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MT773179.1	688	Columba livia isolate 28Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MT773176.1	522	Columba livia isolate 25Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MK262652.1	648	Columba livia voucher SP351 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MK262351.1	648	Columba livia voucher SP352 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MG373562.1	595	Columba livia breed Egyptian Jabali cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MG271864.1	661	Columba livia breed Egyptian Baladi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MG271863.1	649	Columba livia breed Egyptian Romy cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KU722397.1	657	Columba livia voucher USNM:Birds:647893 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	AF279733.1	383	Columba livia cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	JN793567.1	637	Columba livia voucher AUP1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	JF498761.1	647	Columba livia voucher USNM 641344 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	JF498842.1	694	Columba livia voucher USNM:643557 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	AY666494.1	694	Columba livia voucher 1B-3334 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GU571831.1	648	Columba livia voucher BISE-Aves247 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GU571830.1	645	Columba livia voucher BISE-Aves261 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GU571343.1	724	Columba livia voucher NHMO-BC405 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GU908131.1	17229	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GQ481606.1	694	Columba livia voucher UWBM 46303 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GQ481605.1	694	Columba livia voucher UWBM 66460 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GQ240309.1	17205	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	FJ808631.1	671	Columba livia voucher KU08013 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	EF373367.1	645	Columba livia voucher 1B-3866 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	DQ432860.1	650	Columba livia voucher USNM 626313 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	JX160011.1	644	Columba livia isolate BD14 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP168712.1	17233	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP975238.1	600	Columba livia isolate NBS_SHI_2011_01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP975237.1	600	Columba livia isolate NBS_SHI_2013_01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP975216.1	549	Columba livia isolate NBS_SHI_2011_2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP319029.1	17245	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP258178.1	17221	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KJ722068.1	17235	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KF926376.1	17239	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576929.1	639	Columba livia breed Wroclaw Meat cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576928.1	639	Columba livia isolate Wild Type 2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576927.1	639	Columba livia isolate Wild Type 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576926.1	639	Columba livia breed Vienna Highflier cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576925.1	639	Columba livia breed King cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576924.1	639	Columba livia breed Kassel Tumbler cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576923.1	639	Columba livia breed Indian Fantail cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576922.1	639	Columba livia breed German Nun cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576921.1	639	Columba livia breed German Magpe cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576920.1	639	Columba livia breed German Beard cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576919.1	639	Columba livia isolate Urbana 2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576918.1	639	Columba livia isolate Urbana 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC576917.1	639	Columba livia breed English Fantail cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC439307.1	640	Columba livia cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	AB753751.1	553	Columba livia mitochondrial CO1 gene for cytochrome C oxidase subunit 1, partial cds, haplotype: individual 2
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	AB753750.1	860	Columba livia mitochondrial CO1 gene for cytochrome C oxidase subunit 1, partial cds, haplotype: individual 1
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182081.1	650	Columba livia isolate PKRP9 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182080.1	650	Columba livia isolate PKRP10 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182079.1	650	Columba livia isolate PKRP8 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182078.1	650	Columba livia isolate PKRP7 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182077.1	650	Columba livia isolate PKRP6 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182076.1	650	Columba livia isolate PKRP5 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182075.1	650	Columba livia isolate PKRP4 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182074.1	650	Columba livia isolate PKRP3 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182073.1	650	Columba livia isolate PKRP2 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC182072.1	650	Columba livia isolate PKRP1 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	JN850761.1	658	Columba livia isolate S06_326 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	JN850758.1	658	Columba livia isolate S06_281 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	JN850716.1	658	Columba livia isolate S05_1378 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

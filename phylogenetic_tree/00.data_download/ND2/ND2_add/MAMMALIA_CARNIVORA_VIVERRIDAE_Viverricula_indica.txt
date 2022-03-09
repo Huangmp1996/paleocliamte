@@ -1,0 +1,10 @@
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891751.1	16581	Viverricula indica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891750.1	16534	Viverricula indica voucher AMNH 54831 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891749.1	16583	Viverricula indica voucher AMNH 184967 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891748.1	16585	Viverricula indica voucher AMNH 87376 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891747.1	16584	Viverricula indica voucher AMNH 102146 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891746.1	16580	Viverricula indica voucher ZFMK 2000.002 mitochondrion, partial genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KX891745.1	16586	Viverricula indica voucher SMTD B602 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	DQ683991.1	1044	Viverricula indica voucher TC-256 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	NC_025296.1	16583	Viverricula indica mitochondrion, complete genome
+MAMMALIA_CARNIVORA_VIVERRIDAE_Viverricula_indica	KM276554.1	16583	Viverricula indica mitochondrion, complete genome

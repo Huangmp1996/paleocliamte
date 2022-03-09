@@ -1,0 +1,100 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MW046263.1	1140	Cynopterus sphinx voucher C.CHU.18.14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MT259587.1	16710	Cynopterus sphinx voucher MZF1967 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MT366086.1	435	Cynopterus sphinx isolate NPAB0105 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	NC_046902.1	16897	Cynopterus sphinx isolate CKM35 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MN816305.1	16897	Cynopterus sphinx isolate CKM35 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MK340894.1	425	Cynopterus sphinx voucher ZSI/BAT4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MK340893.1	425	Cynopterus sphinx voucher ZSI/BAT3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MK340892.1	425	Cynopterus sphinx voucher ZSI/BAT2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MK340891.1	425	Cynopterus sphinx voucher ZSI/BAT1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MK064110.1	1140	Cynopterus sphinx isolate VN1992B13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	MG570060.1	1140	Cynopterus sphinx cytchrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JN572098.1	373	Cynopterus sphinx isolate 1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	JN572093.1	392	Cynopterus sphinx isolate NIV 1056661 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	DQ445703.1	1140	Cynopterus sphinx isolate 1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	DQ097830.1	395	Cynopterus sphinx isolate WK72 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	DQ097818.1	395	Cynopterus sphinx isolate P29 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	DQ097816.1	395	Cynopterus sphinx isolate P10 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	DQ097812.1	395	Cynopterus sphinx isolate MS095 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	DQ097811.1	395	Cynopterus sphinx isolate MS070 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY629004.1	690	Cynopterus sphinx isolate Cs20e cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY629003.1	690	Cynopterus sphinx isolate Cs20d cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY629002.1	690	Cynopterus sphinx isolate Cs20f cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY629001.1	687	Cynopterus sphinx isolate Cs19b cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY629000.1	690	Cynopterus sphinx isolate Cs7a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628999.1	690	Cynopterus sphinx isolate Cs12a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628998.1	690	Cynopterus sphinx isolate Cs13a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628997.1	690	Cynopterus sphinx isolate Cs9a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628996.1	690	Cynopterus sphinx isolate Cs5a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628995.1	690	Cynopterus sphinx isolate Cs3a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628994.1	690	Cynopterus sphinx isolate Cs4a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628993.1	690	Cynopterus sphinx isolate Cs19a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628992.1	690	Cynopterus sphinx isolate Cs16a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628991.1	690	Cynopterus sphinx isolate Cs8c cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628990.1	690	Cynopterus sphinx isolate Cs8b cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628989.1	690	Cynopterus sphinx isolate Cs8a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628988.1	690	Cynopterus sphinx isolate Cs20b cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628987.1	690	Cynopterus sphinx isolate Cs20a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628986.1	690	Cynopterus sphinx isolate Cs16c cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628985.1	690	Cynopterus sphinx isolate Cs20c cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628984.1	690	Cynopterus sphinx isolate Cs14c cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628983.1	690	Cynopterus sphinx isolate Cs14b cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628982.1	690	Cynopterus sphinx isolate Cs14a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628981.1	690	Cynopterus sphinx isolate Cs16b cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628980.1	690	Cynopterus sphinx isolate Cs19c cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628979.1	690	Cynopterus sphinx isolate Cs15b cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY628978.1	690	Cynopterus sphinx isolate Cs15a cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489992.1	1075	Cynopterus sphinx isolate YD09 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489991.1	1075	Cynopterus sphinx isolate YD07 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489990.1	1075	Cynopterus sphinx isolate YD05 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489989.1	1075	Cynopterus sphinx isolate YD06 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489988.1	1075	Cynopterus sphinx isolate YD04 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489987.1	1075	Cynopterus sphinx isolate YD03 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489986.1	1075	Cynopterus sphinx isolate YD02 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489985.1	1075	Cynopterus sphinx isolate YU07 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489984.1	1075	Cynopterus sphinx isolate YU06 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489983.1	1075	Cynopterus sphinx isolate YU05 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489982.1	1075	Cynopterus sphinx isolate YU03 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489981.1	1075	Cynopterus sphinx isolate YU01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489980.1	1075	Cynopterus sphinx isolate YN88 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489979.1	1075	Cynopterus sphinx isolate YN87 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489978.1	1075	Cynopterus sphinx isolate YN83 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489977.1	1075	Cynopterus sphinx isolate YN85 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489976.1	1075	Cynopterus sphinx isolate YN84 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489975.1	1075	Cynopterus sphinx isolate YN82 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489974.1	1075	Cynopterus sphinx isolate HN78 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489973.1	1075	Cynopterus sphinx isolate HN71 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489972.1	1075	Cynopterus sphinx isolate HN79 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489971.1	1075	Cynopterus sphinx isolate BH06 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489970.1	1075	Cynopterus sphinx isolate BH05 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489969.1	1075	Cynopterus sphinx isolate BH01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489968.1	1075	Cynopterus sphinx isolate BH08 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489967.1	1075	Cynopterus sphinx isolate BH07 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489966.1	1075	Cynopterus sphinx isolate JM07 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489965.1	1075	Cynopterus sphinx isolate JM05 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489964.1	1075	Cynopterus sphinx isolate JM01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489963.1	1075	Cynopterus sphinx isolate ZS09 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489962.1	1075	Cynopterus sphinx isolate ZS02 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489961.1	1075	Cynopterus sphinx isolate GZ08 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489960.1	1075	Cynopterus sphinx isolate GZ03 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489959.1	1075	Cynopterus sphinx isolate GZ02 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	FJ489958.1	1075	Cynopterus sphinx isolate GZ01 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY009890.1	402	Cynopterus sphinx haplotype 2 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	AY009889.1	402	Cynopterus sphinx haplotype 1 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042249.1	1140	Cynopterus sphinx isolate 0101 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042248.1	1140	Cynopterus sphinx isolate 0106 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042246.1	1140	Cynopterus sphinx isolate 11CS cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042245.1	1140	Cynopterus sphinx isolate 12CS cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042244.1	1140	Cynopterus sphinx isolate 1CS cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042243.1	1140	Cynopterus sphinx isolate 2006 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042242.1	1140	Cynopterus sphinx isolate 2009 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042241.1	1140	Cynopterus sphinx isolate 2017 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042240.1	1140	Cynopterus sphinx isolate 2018 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042239.1	1140	Cynopterus sphinx isolate 3CS cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042238.1	1140	Cynopterus sphinx isolate 5CS cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042237.1	1140	Cynopterus sphinx isolate 8CS cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042236.1	1140	Cynopterus sphinx isolate CA002 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042235.1	1140	Cynopterus sphinx isolate CA005 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042234.1	1140	Cynopterus sphinx isolate CA008 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042220.1	1140	Cynopterus sphinx isolate CBKM47 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Cynopterus_sphinx	KF042216.1	1140	Cynopterus sphinx isolate CBSH02 cytochrome b (cytb) gene, complete cds; mitochondrial

@@ -1,0 +1,4 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_griselda	NC_057272.1	16947	Blarinella griselda mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_griselda	MN873563.1	16947	Blarinella griselda mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_griselda	GU981213.1	591	Blarinella griselda isolate Blagris2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_griselda	GU981212.1	591	Blarinella griselda isolate Blagris1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

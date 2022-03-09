@@ -1,0 +1,17 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MW862809.1	518	Columba livia isolate SS263Q large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MW862808.1	516	Columba livia isolate SS223Q large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MW862807.1	518	Columba livia isolate SS207Q large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MW862806.1	517	Columba livia isolate SS175Q large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	MW862805.1	518	Columba livia isolate SS169Q large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	NC_013978.1	17229	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	X87858.1	1189	C.livia mitochondrial gene for 16S ribosomal RNA
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GU908131.1	17229	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	GQ240309.1	17205	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP168712.1	17233	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP319029.1	17245	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KP258178.1	17221	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KJ722068.1	17235	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KC984243.1	213	Columba livia 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	KF926376.1	17239	Columba livia mitochondrion, complete genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	AF173585.1	2665	Columba livia 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; 16S ribosomal RNA gene, complete sequence; and tRNA-Leu gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_livia	U55846.1	142	Columba livia 16S ribosomal RNA gene, mitochondrial gene encoding mitochondrial rRNA, partial sequence

@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MZ442642.1	657	Achalinus rufescens voucher YBU 13013 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MT365524.1	615	Achalinus rufescens voucher YBU15125 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MT365523.1	615	Achalinus rufescens voucher YBU16063 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MT365522.1	615	Achalinus rufescens voucher YBU16094 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MN380339.1	624	Achalinus rufescens voucher SYS:r001866 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MN380338.1	624	Achalinus rufescens voucher SYS:r001796 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MN380337.1	624	Achalinus rufescens voucher SYS:r001795 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MN380336.1	624	Achalinus rufescens voucher SYS:r001689 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MN380335.1	624	Achalinus rufescens voucher SYS:r001527 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK064864.1	657	Achalinus rufescens voucher CHS765 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	KT897595.1	17339	Achalinus rufescens voucher HS14023 mitochondrion, complete genome

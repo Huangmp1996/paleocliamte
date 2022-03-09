@@ -1,0 +1,34 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	NC_044641.1	17448	Geoemyda spengleri mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	MH748151.1	17448	Geoemyda spengleri mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	MK097239.1	1071	Geoemyda spengleri cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	MK097238.1	1071	Geoemyda spengleri cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	AY434586.1	1140	Geoemyda spengleri cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	JN860666.1	992	Geoemyda spengleri voucher ANUM26080305 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203367.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5240
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203366.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5239
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203365.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5098
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203364.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5079
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203363.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5078
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203362.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5077
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203361.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5074
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203360.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5073
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203359.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 5072
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203358.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 4331
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203357.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 4330
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203356.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 4329
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203355.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 4328
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203354.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 4327
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203353.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 4175
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203352.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 4153
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203351.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 3707
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203350.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 3700
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203349.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 2255
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203348.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 2254
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203347.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 2245
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203346.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 2236
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203345.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 1198
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203344.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 980
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203343.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 710
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203342.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 636
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	FM203341.1	1133	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b, specimen voucher MTD T 634
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Geoemyda_spengleri	AJ564449.1	1036	Geoemyda spengleri mitochondrial partial cytb gene for cytochrome b

@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	AY070341.1	394	Eutropis longicaudata 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	DQ239220.1	851	Mabuya longicaudata voucher FMNH 255526 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	AY169570.1	871	Mabuya longicaudata 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	AB028776.1	386	Mabuya longicaudata mitochondrial gene for 12S rRNA, partial sequence

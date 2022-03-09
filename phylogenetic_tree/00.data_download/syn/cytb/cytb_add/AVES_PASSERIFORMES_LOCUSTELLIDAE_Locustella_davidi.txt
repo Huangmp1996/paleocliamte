@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_davidi	DQ367935.1	1073	Bradypterus davidi voucher NRM 20056597 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_davidi	DQ367934.1	1073	Bradypterus davidi voucher ZMUC 117768 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_davidi	DQ367933.1	1073	Bradypterus davidi voucher ZMUC 117767 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_davidi	DQ367932.1	1073	Bradypterus davidi voucher NRM 20056596 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_davidi	DQ367931.1	1073	Bradypterus davidi voucher NRM 20056595 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_davidi	HQ706142.1	1038	Bradypterus davidi suschkini voucher U398 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LOCUSTELLIDAE_Locustella_davidi	HQ706141.1	1038	Bradypterus davidi suschkini voucher U399 cytochrome b (cytb) gene, partial cds; mitochondrial

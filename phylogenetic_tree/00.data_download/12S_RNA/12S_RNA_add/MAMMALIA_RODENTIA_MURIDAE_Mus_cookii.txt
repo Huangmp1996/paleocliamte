@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_MURIDAE_Mus_cookii	NC_025270.1	16307	Mus cookii isolate R5155 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_cookii	KJ530562.1	16304	Mus cookii isolate R5482 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_cookii	KJ530561.1	16307	Mus cookii isolate R5155 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Mus_cookii	AB125787.1	820	Mus cookii mitochondrial gene for 12S ribosomal RNA, partial sequence, isolate:HS2921
+MAMMALIA_RODENTIA_MURIDAE_Mus_cookii	X85946.1	956	M.cookii mitochondrial 12S rRNA gene

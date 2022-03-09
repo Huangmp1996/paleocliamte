@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_armandii	HQ608871.1	1176	Phylloscopus armandii isolate Y14 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_armandii	HQ608831.1	1143	Phylloscopus armandii isolate Y11 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_armandii	JQ175806.1	652	Phylloscopus armandii voucher USNM:Birds:616428 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_armandii	JQ175805.1	652	Phylloscopus armandii voucher USNM:Birds:620426 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_armandii	JQ175804.1	603	Phylloscopus armandii voucher USNM:Birds:586585 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

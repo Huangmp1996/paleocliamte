@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	KJ455654.1	1041	Stachyris chrysaea voucher CAS:95902 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	GU724470.1	1041	Stachyris chrysaea voucher KIZ:GLGS6578 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	JN826665.1	1041	Stachyris chrysaea voucher KUNHM 15240 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	JN826664.1	1041	Stachyris chrysaea voucher KUNHM 15096 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	MK483118.1	20120	Rana omeimontis mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	MT408983.1	1031	Rana omeimontis voucher SYS a005305 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	MT408982.1	1031	Rana omeimontis voucher SYS a005304 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KU246050.1	19934	Rana omeimontis voucher YC-EMLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	NC_035805.1	19934	Rana omeimontis voucher YC-EMLW-01 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KX024893.1	528	Rana omeimontis voucher SYNU08060314 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KX269193.1	1958	Rana omeimontis isolate SCUM0405196CJ 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KF204637.1	527	Rana omeimontis voucher SYNU08060317 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KF204636.1	527	Rana omeimontis voucher SYNU08060315 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KF204635.1	527	Rana omeimontis voucher SYNU08060314 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	DQ289108.1	537	Rana omeimontis voucher KizYP06110 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	DQ289083.1	408	Rana omeimontis voucher KizYP06110 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	AF315135.1	549	Rana omeimontis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

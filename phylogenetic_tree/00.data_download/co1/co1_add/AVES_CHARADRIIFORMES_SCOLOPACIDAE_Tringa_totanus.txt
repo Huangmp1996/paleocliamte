@@ -1,0 +1,24 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	MT410861.1	13636	Tringa totanus mitochondrion, partial genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	MT132173.1	188	Tringa totanus voucher Tritot1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	NC_044648.1	16818	Tringa totanus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	MK922124.1	16818	Tringa totanus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GQ482796.1	694	Tringa totanus voucher UWBM 59800 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GQ482795.1	694	Tringa totanus voucher UWBM 49714 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	EU525587.1	880	Tringa totanus voucher MKP 2775 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	EU525586.1	892	Tringa totanus voucher MKP 2774 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	EU525585.1	730	Tringa totanus voucher MKP 2240 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	EU525584.1	844	Tringa totanus voucher MKP 1570 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	EU525583.1	892	Tringa totanus voucher MKP 1568 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	EU525582.1	861	Tringa totanus voucher MKP 1567 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	EU525581.1	892	Tringa totanus voucher MKP 1572 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GU572141.1	648	Tringa totanus voucher BISE-Aves190 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GU572140.1	648	Tringa totanus voucher BISE-Aves318 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GU571664.1	749	Tringa totanus voucher NHMO-BC206 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GU571663.1	750	Tringa totanus voucher NHMO-BC84 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GQ482800.1	694	Tringa totanus voucher UWBM 61033 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GQ482799.1	694	Tringa totanus voucher UWBM 46266 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GQ482798.1	694	Tringa totanus voucher UWBM 66352 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	GQ482797.1	694	Tringa totanus voucher UWBM 59942 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	KP252251.1	652	Tringa totanus voucher USNM 645893 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	AB843814.1	687	Tringa totanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO542-12
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_totanus	KF946893.1	693	Tringa totanus totanus voucher ZMA58212 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

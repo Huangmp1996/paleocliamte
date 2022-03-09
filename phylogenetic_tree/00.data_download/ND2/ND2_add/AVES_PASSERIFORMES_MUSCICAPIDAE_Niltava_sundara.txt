@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_sundara	KP337132.1	991	Niltava sundara isolate 14360 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_sundara	KP337128.1	991	Niltava sundara isolate 3822 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_sundara	KP337127.1	991	Niltava sundara isolate 4163 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_sundara	KJ455526.1	1041	Niltava sundara NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_sundara	GU237120.1	1041	Niltava sundara voucher NRM947301 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

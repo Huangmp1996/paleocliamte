@@ -1,0 +1,33 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KY997311.1	1539	Eothenomys eva isolate MYLYF0401 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KY997261.1	1534	Eothenomys eva isolate QH15024 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KY997260.1	1534	Eothenomys eva isolate QH15006 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KY997251.1	1534	Eothenomys eva isolate QH15026 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KY997250.1	1534	Eothenomys eva isolate QH15005 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KY997249.1	1539	Eothenomys eva isolate QH15004 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KY997229.1	1539	Eothenomys eva isolate LPS049 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KF999139.1	648	Eothenomys eva voucher f287 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KF999138.1	648	Eothenomys eva voucher f296 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861423.1	567	Eothenomys eva voucher ARB0004958 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861422.1	569	Eothenomys eva voucher ARB0004944 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861421.1	586	Eothenomys eva voucher ARB0004945 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861420.1	633	Eothenomys eva voucher ARB0004938 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861419.1	619	Eothenomys eva voucher ARB0004935 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861418.1	594	Eothenomys eva voucher ARB0004953 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861417.1	610	Eothenomys eva voucher ARB0004954 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861416.1	566	Eothenomys eva voucher ARB0008947 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861415.1	557	Eothenomys eva voucher ARB0004978 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861414.1	566	Eothenomys eva voucher ARB0004979 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	KC861413.1	587	Eothenomys eva voucher ARB0004943 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	HM165358.1	1539	Eothenomys eva isolate SAF08041 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	HM165331.1	1539	Eothenomys eva isolate SAF07088 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	HM165330.1	1539	Eothenomys eva isolate SAF07086 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	HM165329.1	1539	Eothenomys eva isolate SAF07085 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	HM165328.1	1539	Eothenomys eva isolate SAF07082 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	HM165327.1	1539	Eothenomys eva isolate SAF07081 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	HM165281.1	1539	Eothenomys eva isolate SAF07084 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	HM165280.1	1539	Eothenomys eva isolate SAF07083 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	JQ043520.1	650	Eothenomys eva isolate QH352 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	JQ043519.1	650	Eothenomys eva isolate QH326 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	JQ043518.1	650	Eothenomys eva isolate QH350 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	JQ043517.1	650	Eothenomys eva isolate QH351 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_eva	JQ043516.1	650	Eothenomys eva isolate QH356 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KM078789.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	NC_025614.1	16823	Coccothraustes coccothraustes mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	KF781332.1	441	Coccothraustes coccothraustes strain 8905 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Coccothraustes_coccothraustes	EF027301.1	147	Coccothraustes coccothraustes 12S ribosomal RNA gene, partial sequence; mitochondrial

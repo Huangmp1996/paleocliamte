@@ -1,0 +1,100 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW600729.1	971	Scutiger boulengeri voucher ML202036 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW600728.1	971	Scutiger boulengeri voucher TD202018 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW600727.1	971	Scutiger boulengeri voucher YJ202003 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW600726.1	971	Scutiger boulengeri voucher YZ202003 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW600725.1	971	Scutiger boulengeri voucher KIZ012602 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW133438.1	939	Scutiger boulengeri voucher KIZYPX26003 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW133437.1	939	Scutiger boulengeri voucher KIZ020043 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW133436.1	939	Scutiger boulengeri voucher KIZ020039 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW133412.1	721	Scutiger boulengeri voucher KIZ012612 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW133411.1	847	Scutiger boulengeri voucher KIZ013891 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW133410.1	892	Scutiger boulengeri voucher KIZ012611 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MW133409.1	892	Scutiger boulengeri voucher KIZ013890 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970631.1	889	Scutiger boulengeri voucher JRK2018-03 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970630.1	889	Scutiger boulengeri voucher JRK2018-02 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	MK970629.1	889	Scutiger boulengeri voucher JRK2018-01 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310929.1	985	Scutiger boulengeri isolate XM1091 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310928.1	985	Scutiger boulengeri isolate JS1507_C2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310927.1	985	Scutiger boulengeri isolate JS1507_C1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310926.1	985	Scutiger boulengeri isolate A5-AL cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310925.1	985	Scutiger boulengeri isolate A4-AL cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310924.1	985	Scutiger boulengeri isolate A3-AL cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310923.1	985	Scutiger boulengeri isolate A2-AL cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310922.1	985	Scutiger boulengeri isolate A1-AL cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310921.1	985	Scutiger boulengeri isolate KQ16_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310920.1	985	Scutiger boulengeri isolate KQ14_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310919.1	985	Scutiger boulengeri isolate KQ12_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310918.1	985	Scutiger boulengeri isolate KQ8_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310917.1	985	Scutiger boulengeri isolate KQ7_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310916.1	985	Scutiger boulengeri isolate KQ6_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310915.1	985	Scutiger boulengeri isolate KQ5_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310914.1	985	Scutiger boulengeri isolate KQ4_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310913.1	985	Scutiger boulengeri isolate KQ3_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	KY310912.1	985	Scutiger boulengeri isolate KQ2_2014 cytochrome b (cytb) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	AY561322.1	300	Scutiger boulengeri cytochrome b gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463147.1	1038	Scutiger boulengeri isolate LC067 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463146.1	1038	Scutiger boulengeri isolate LC068 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463145.1	1038	Scutiger boulengeri isolate SCUM060624 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463144.1	1038	Scutiger boulengeri isolate SCUM060625 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463143.1	1038	Scutiger boulengeri isolate XM818 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463142.1	1038	Scutiger boulengeri isolate XM817 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463141.1	1038	Scutiger boulengeri isolate XM814 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463140.1	1038	Scutiger boulengeri isolate XM813 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463139.1	1038	Scutiger boulengeri isolate XM1206 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463138.1	1038	Scutiger boulengeri isolate XM1205 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463137.1	1038	Scutiger boulengeri isolate XM1204 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463136.1	1038	Scutiger boulengeri isolate XM1203 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463135.1	1038	Scutiger boulengeri isolate XM1202 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463134.1	1038	Scutiger boulengeri isolate XM1201 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463133.1	1038	Scutiger boulengeri isolate XM1200 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463132.1	1038	Scutiger boulengeri isolate XM1199 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463131.1	1038	Scutiger boulengeri isolate XM149 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463130.1	1038	Scutiger boulengeri isolate XM121 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463129.1	1038	Scutiger boulengeri isolate XM114 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463128.1	1038	Scutiger boulengeri isolate XM113 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463127.1	1038	Scutiger boulengeri isolate XM112 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463126.1	1038	Scutiger boulengeri isolate XM111 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463125.1	1038	Scutiger boulengeri isolate IOZ4150 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463124.1	1035	Scutiger boulengeri isolate IOZ4148 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463123.1	1038	Scutiger boulengeri isolate IOZ4146 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463122.1	1038	Scutiger boulengeri isolate IOZ4145 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463121.1	1038	Scutiger boulengeri isolate IOZ4143 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463120.1	1038	Scutiger boulengeri isolate IOZ3977 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463119.1	1038	Scutiger boulengeri isolate IOZ3976 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463118.1	1038	Scutiger boulengeri isolate IOZ4216 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463117.1	1034	Scutiger boulengeri isolate IOZ4214 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463116.1	1038	Scutiger boulengeri isolate IOZ4213 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463115.1	1038	Scutiger boulengeri isolate IOZ4212 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463114.1	1038	Scutiger boulengeri isolate IOZ4210 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463113.1	1038	Scutiger boulengeri isolate IOZ4191 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463112.1	1038	Scutiger boulengeri isolate IOZ4190 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463111.1	1038	Scutiger boulengeri isolate IOZ4189 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463110.1	1038	Scutiger boulengeri isolate IOZ4188 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463109.1	1038	Scutiger boulengeri isolate IOZ4182 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463108.1	1038	Scutiger boulengeri isolate IOZ4181 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463107.1	1038	Scutiger boulengeri isolate IOZ4180 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463106.1	1038	Scutiger boulengeri isolate IOZ3919 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463105.1	1038	Scutiger boulengeri isolate IOZ3918 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463104.1	1038	Scutiger boulengeri isolate IOZ3917 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463103.1	1038	Scutiger boulengeri isolate IOZ3916 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463102.1	1038	Scutiger boulengeri isolate IOZ3895 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463101.1	1038	Scutiger boulengeri isolate IOZ3894 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463100.1	1038	Scutiger boulengeri isolate IOZ3893 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463099.1	1038	Scutiger boulengeri isolate IOZ3892 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463098.1	1038	Scutiger boulengeri isolate IOZ3891 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463097.1	1038	Scutiger boulengeri isolate IOZ3889 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463096.1	1038	Scutiger boulengeri isolate JF617 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463095.1	1038	Scutiger boulengeri isolate JF616 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463094.1	1038	Scutiger boulengeri isolate JF615 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463093.1	1038	Scutiger boulengeri isolate JF614 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463092.1	1038	Scutiger boulengeri isolate JF613 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463091.1	1038	Scutiger boulengeri isolate JF612 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463090.1	1038	Scutiger boulengeri isolate JF611 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463089.1	1038	Scutiger boulengeri isolate JF610 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463088.1	1038	Scutiger boulengeri isolate JF609 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463087.1	1038	Scutiger boulengeri isolate JF608 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463086.1	1038	Scutiger boulengeri isolate JF607 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463085.1	1038	Scutiger boulengeri isolate JF577 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463084.1	1038	Scutiger boulengeri isolate JF576 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463083.1	1038	Scutiger boulengeri isolate JF575 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Scutiger_boulengeri	FJ463082.1	1038	Scutiger boulengeri isolate JF574 cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial

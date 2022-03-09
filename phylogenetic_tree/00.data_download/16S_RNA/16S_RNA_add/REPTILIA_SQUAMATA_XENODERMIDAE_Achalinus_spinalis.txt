@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_spinalis	MK194224.1	1302	Achalinus spinalis voucher CHS789 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_spinalis	MK194153.1	1315	Achalinus spinalis voucher CHS694 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_spinalis	MK193882.1	1282	Achalinus spinalis voucher CHS007 16S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_spinalis	NC_032084.1	17165	Achalinus spinalis voucher HS12093 mitochondrion, complete genome
+REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_spinalis	KT897594.1	17165	Achalinus spinalis voucher HS12093 mitochondrion, complete genome

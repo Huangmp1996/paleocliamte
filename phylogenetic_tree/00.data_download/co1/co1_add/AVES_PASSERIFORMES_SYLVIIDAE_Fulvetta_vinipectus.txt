@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	NC_050289.1	16961	Alcippe vinipectus mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MT263986.1	16961	Alcippe vinipectus mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	KJ013268.1	652	Alcippe vinipectus voucher USNM:Birds:631848 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	KP768406.1	724	Alcippe vinipectus isolate 045-BTTNVN cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	JQ173962.1	652	Alcippe vinipectus voucher USNM:Birds:631849 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

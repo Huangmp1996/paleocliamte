@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	NC_040975.1	16805	Carpodacus rubicilloides mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	MH363715.1	16805	Carpodacus rubicilloides mitochondrion, complete genome
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	JN715441.1	1041	Carpodacus rubicilloides NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	KF194145.1	461	Carpodacus rubicilloides voucher MAR 5931 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilloides	KF194127.1	1038	Carpodacus rubicilloides voucher FMNH 275871 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial

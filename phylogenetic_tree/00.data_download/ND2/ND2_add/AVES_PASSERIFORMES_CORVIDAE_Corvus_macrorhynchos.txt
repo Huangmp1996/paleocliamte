@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	MN069302.1	16927	Corvus macrorhynchos intermedius mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	KY492679.1	1024	Corvus macrorhynchos NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	NC_027173.1	16927	Corvus macrorhynchos isolate SRI37 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	KR072661.1	17066	Corvus macrorhynchos isolate SRI38 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	KR057957.1	16927	Corvus macrorhynchos isolate SRI37 mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	JQ864449.1	1041	Corvus macrorhynchos japonensis voucher USNM 473980 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	JQ024000.1	1041	Corvus macrorhynchos japonensis voucher NRM 570732 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	JQ023998.1	1041	Corvus macrorhynchos levaillantii voucher NRM 570733 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	JQ023984.1	1041	Corvus macrorhynchos philippinus voucher ZMUC 104586 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Corvus_macrorhynchos	JQ023964.1	1041	Corvus macrorhynchos mandshuricus voucher UWBM 47167 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	GQ257745.1	768	Hemiphyllodactylus typus isolate ABTC32736 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	GQ257744.1	768	Hemiphyllodactylus typus isolate ABTC49760 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	GQ257743.1	768	Hemiphyllodactylus typus isolate ABTC32735 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	KF219798.1	596	Hemiphyllodactylus typus voucher MVZ:226500 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	KF219797.1	1407	Hemiphyllodactylus typus voucher LSUHC:8751 NADH dehydrogenase subunit 2 gene, partial cds; and tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_Gecko_Hemiphyllodactylus_typus	KF219796.1	847	Hemiphyllodactylus typus voucher LSUHC:10340 NADH dehydrogenase subunit 2 gene, partial cds; and tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; mitochondrial

@@ -1,0 +1,6 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_cyclotis	MK747248.1	16463	Murina cyclotis voucher GZHU 16335 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_cyclotis	MG194466.1	1140	Murina cyclotis voucher FMNH:177471 cytochrome b (CYTB) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_cyclotis	MH137367.1	1140	Murina cyclotis isolate VN11-1199 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_cyclotis	GQ168917.1	1041	Murina cyclotis isolate B cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_cyclotis	GQ168916.1	1041	Murina cyclotis isolate A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_cyclotis	JQ044691.1	1140	Murina cyclotis voucher M1605 cytochrome b gene, complete cds; mitochondrial

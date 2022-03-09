@@ -1,0 +1,25 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561036.1	1573	Rhinolophus rex isolate YN15036 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561035.1	1573	Rhinolophus rex isolate GX07016 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561033.1	1573	Rhinolophus rex isolate YN15040 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561032.1	1573	Rhinolophus rex isolate YN15044 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561031.1	1573	Rhinolophus rex isolate YN15039 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561030.1	1573	Rhinolophus rex isolate GZ08030 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561029.1	1573	Rhinolophus rex isolate GX07017 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561028.1	1573	Rhinolophus rex isolate GZ08033 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561027.1	1573	Rhinolophus rex isolate GZ08039 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561026.1	1573	Rhinolophus rex isolate CQ08036 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561025.1	1573	Rhinolophus rex isolate GZ08037 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561024.1	1573	Rhinolophus rex isolate GZ07061 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561023.1	1573	Rhinolophus rex isolate GZ08045 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561022.1	1573	Rhinolophus rex isolate GX10010 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561021.1	1573	Rhinolophus rex isolate HuN15090 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561020.1	1573	Rhinolophus rex isolate HuN15069 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561019.1	1573	Rhinolophus rex isolate HuN10120 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561018.1	1573	Rhinolophus rex isolate GZ08043 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561017.1	1573	Rhinolophus rex isolate HuN10138 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561016.1	1573	Rhinolophus rex isolate GX07015 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG561015.1	1567	Rhinolophus rex isolate GX07005 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	MG560966.1	1570	Rhinolophus rex isolate GZ08031 tRNA-Val and large subunit ribosomal RNA genes, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	NC_028536.1	16845	Rhinolophus rex mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	KT599913.1	16845	Rhinolophus rex mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_rex	DQ989615.1	1413	Rhinolophus rex voucher GZNU200312 16S ribosomal RNA gene, partial sequence; mitochondrial

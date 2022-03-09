@@ -1,0 +1,6 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_giganteus	AY011170.1	804	Pteropus giganteus 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_giganteus	KT291772.1	628	Pteropus giganteus isolate PGAI-4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_giganteus	KT291771.1	522	Pteropus giganteus isolate PGAI-6 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_giganteus	KT291770.1	380	Pteropus giganteus isolate PGAI-6 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_giganteus	KF059974.1	598	Pteropus giganteus voucher NHM.OU.CHI.19.2012 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_giganteus	FJ816782.1	542	Pteropus giganteus 16S ribosomal RNA gene, partial sequence; mitochondrial

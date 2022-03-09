@@ -1,0 +1,50 @@
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	EF529927.1	1143	Calcarius lapponicus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AF284073.1	1234	Calcarius lapponicus NADH dehydrogenase subunit 5 (ND5) and cytochrome b (CYTB) genes, partial cds; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	EU571278.1	1076	Calcarius lapponicus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	DQ489370.1	1123	Calcarius lapponicus voucher UAM 18453 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	DQ489369.1	1123	Calcarius lapponicus voucher UAM 18860 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156222.1	1135	Calcarius lapponicus specimen-voucher UAM 7667 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156221.1	1135	Calcarius lapponicus specimen-voucher UAM 7320 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156220.1	1135	Calcarius lapponicus specimen-voucher UAM 7313 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156219.1	1135	Calcarius lapponicus specimen-voucher UAM 7312 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156218.1	1135	Calcarius lapponicus specimen-voucher UAM 7315 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156217.1	1135	Calcarius lapponicus specimen-voucher UAM 11835 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156216.1	1135	Calcarius lapponicus specimen-voucher UAM 11865 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156215.1	1135	Calcarius lapponicus specimen-voucher UAM 7314 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156214.1	1135	Calcarius lapponicus specimen-voucher UAM 8415 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156213.1	1135	Calcarius lapponicus specimen-voucher UAM 7548 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156212.1	1135	Calcarius lapponicus specimen-voucher UAM 7317 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156211.1	1135	Calcarius lapponicus specimen-voucher UAM 7316 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156210.1	1135	Calcarius lapponicus specimen-voucher UAM 11857 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156209.1	1135	Calcarius lapponicus specimen-voucher UAM 11844 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156208.1	1135	Calcarius lapponicus specimen-voucher UAM 11834 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156207.1	1135	Calcarius lapponicus specimen-voucher UAM 9903 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156206.1	1135	Calcarius lapponicus specimen-voucher UAM 8489 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156205.1	1135	Calcarius lapponicus specimen-voucher UAM 10092 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156204.1	1135	Calcarius lapponicus specimen-voucher UAM 10093 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156203.1	1135	Calcarius lapponicus specimen-voucher UAM 9855 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156202.1	1135	Calcarius lapponicus specimen-voucher UAM 8190 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156201.1	1135	Calcarius lapponicus specimen-voucher UAM 10079 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156200.1	1135	Calcarius lapponicus specimen-voucher UAM 10081 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156199.1	1135	Calcarius lapponicus specimen-voucher UAM 10080 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156198.1	1135	Calcarius lapponicus specimen-voucher UAM 10082 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156197.1	1135	Calcarius lapponicus specimen-voucher UAM 8858 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156196.1	1135	Calcarius lapponicus specimen-voucher UAM 9601 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156195.1	1135	Calcarius lapponicus specimen-voucher UAM 10083 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156194.1	1135	Calcarius lapponicus specimen-voucher UAM 8486 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156193.1	1135	Calcarius lapponicus specimen-voucher UAM 8485 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156192.1	1135	Calcarius lapponicus specimen-voucher UAM 9527 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156191.1	1135	Calcarius lapponicus specimen-voucher UAM 9526 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156190.1	1135	Calcarius lapponicus specimen-voucher UAM 9421 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156189.1	1135	Calcarius lapponicus specimen-voucher UAM 8414 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156188.1	1135	Calcarius lapponicus specimen-voucher UAM 8103 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156187.1	1135	Calcarius lapponicus specimen-voucher UAM 7262 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156186.1	1135	Calcarius lapponicus specimen-voucher UAM 7261 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156185.1	1135	Calcarius lapponicus specimen-voucher UAM 8104 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156184.1	1135	Calcarius lapponicus specimen-voucher UAM 8963 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY156183.1	1135	Calcarius lapponicus specimen-voucher UAM 8488 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AF290144.1	894	Calcarius lapponicus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	AY228050.1	879	Calcarius lapponicus NRM 976550 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	KP877751.1	1035	Calcarius lapponicus isolate MAR4859 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	KP877728.1	634	Calcarius lapponicus isolate MAR3966 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CALCARIIDAE_Calcarius_lapponicus	EU325769.1	1076	Calcarius lapponicus cytochrome b gene, partial cds; mitochondrial

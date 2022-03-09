@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Abroscopus_superciliaris	MN991499.1	1143	Abroscopus superciliaris voucher LSUMNS B-78711 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Abroscopus_superciliaris	MK599002.1	1140	Abroscopus superciliaris voucher USNM620314 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Abroscopus_superciliaris	MK599001.1	1124	Abroscopus superciliaris voucher SR2016-43 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Abroscopus_superciliaris	MK599000.1	1124	Abroscopus superciliaris voucher SR2016-722 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SCOTOCERCIDAE_Abroscopus_superciliaris	DQ008515.1	1038	Abroscopus superciliaris superciliaris cytochrome b gene, partial cds; mitochondrial

@@ -1,0 +1,7 @@
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	NC_056091.1	16832	Jynx torquilla mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	MT106619.1	16832	Jynx torquilla mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	AY940803.1	1022	Jynx torquilla cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	AY940782.1	1512	Jynx torquilla cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	KJ456314.1	1126	Jynx torquilla cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	KF765948.1	951	Jynx torquilla torquilla isolate Jtor5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Jynx_torquilla	AY940754.1	974	Jynx torquilla 12S ribosomal RNA gene, complete sequence; mitochondrial

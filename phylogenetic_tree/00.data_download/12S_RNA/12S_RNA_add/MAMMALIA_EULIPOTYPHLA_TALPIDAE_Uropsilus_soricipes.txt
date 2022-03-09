@@ -1,0 +1,9 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KX754515.1	811	Uropsilus soricipes isolate Uropso_5 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	NC_023244.1	16575	Uropsilus soricipes mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KF777826.1	841	Uropsilus soricipes voucher KIZ:028556 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KF777825.1	841	Uropsilus soricipes voucher KIZ:028555 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KF777824.1	841	Uropsilus soricipes voucher KIZ:028554 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KF777823.1	841	Uropsilus soricipes voucher KIZ:028553 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KF777822.1	839	Uropsilus soricipes voucher KIZ:028552 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ658979.1	16575	Uropsilus soricipes mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	AY249239.1	2610	Uropsilus soricipes MSWC099 12S ribosomal RNA gene, complete sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, complete sequence; mitochondrial genes for mitochondrial products

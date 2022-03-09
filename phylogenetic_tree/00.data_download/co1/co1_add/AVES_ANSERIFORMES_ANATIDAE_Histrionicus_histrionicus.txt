@@ -1,0 +1,6 @@
+AVES_ANSERIFORMES_ANATIDAE_Histrionicus_histrionicus	MW849288.1	16634	Histrionicus histrionicus voucher CPD1213 mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Histrionicus_histrionicus	GQ481988.1	694	Histrionicus histrionicus voucher UWBM 44446 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Histrionicus_histrionicus	GQ481987.1	694	Histrionicus histrionicus voucher UWBM 51871 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Histrionicus_histrionicus	DQ433685.1	697	Histrionicus histrionicus voucher CWS56063 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Histrionicus_histrionicus	DQ434605.1	697	Histrionicus histrionicus voucher BIOUG<CAN>:MCLR-HARD-2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Histrionicus_histrionicus	DQ434604.1	696	Histrionicus histrionicus voucher BIOUG<CAN>:MCLR-HARD-3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,7 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	JF834905.1	655	Tragopan temminckii haplotype H2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	JF834904.1	655	Tragopan temminckii haplotype H1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	GQ922635.1	699	Tragopan temminckii bio-material A120 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	GQ922634.1	699	Tragopan temminckii bio-material A127 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	GQ922633.1	699	Tragopan temminckii bio-material A073 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	FJ752427.1	16728	Tragopan temminckii mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	NC_020586.1	16728	Tragopan temminckii mitochondrion, complete genome

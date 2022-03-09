@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MH406206.1	632	Megophrys kuatunensis isolate 3449 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MT998299.1	552	Megophrys kuatunensis voucher CIBWY18082407 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MT998298.1	552	Megophrys kuatunensis voucher CIBWY18082408 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MN563781.1	557	Megophrys kuatunensis voucher CIBWY18082408 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MN563780.1	557	Megophrys kuatunensis voucher CIBWY18082407 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_kuatunensis	MF667916.1	621	Xenophrys kuatunensis voucher 3449 cytochrome c oxidase subunit 1 (CO1) gene, partial cds; mitochondrial

@@ -1,0 +1,18 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410981.1	16231	Tamiops mcclellandii mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410980.1	16129	Tamiops mcclellandii mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410979.1	16128	Tamiops mcclellandii voucher USNM 36044 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410978.1	16133	Tamiops mcclellandii voucher USNM 314922 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410977.1	16221	Tamiops mcclellandii voucher USNM 311354 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410976.1	16128	Tamiops mcclellandii voucher USNM 84401 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410975.1	16123	Tamiops mcclellandii voucher USNM 311354 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410974.1	16130	Tamiops mcclellandii voucher USNM 311357 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410973.1	16127	Tamiops mcclellandii voucher USNM 311356 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410965.1	16121	Tamiops mcclellandii voucher USNM 259765 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410964.1	16133	Tamiops mcclellandii voucher USNM 259767 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	KY410963.1	16130	Tamiops mcclellandii voucher USNM 259764 mitochondrion, partial genome
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	EF539333.1	1140	Tamiops mcclellandii cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	HQ698392.1	1140	Tamiops mcclellandii voucher JP081 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	HQ698391.1	1140	Tamiops mcclellandii voucher JP080 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	HQ698390.1	1140	Tamiops mcclellandii voucher JP024 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	HQ698389.1	1140	Tamiops mcclellandii voucher JP022 cytochrome b (cyt-b) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_mcclellandii	HQ698388.1	1140	Tamiops mcclellandii voucher JP001 cytochrome b (cyt-b) gene, complete cds; mitochondrial

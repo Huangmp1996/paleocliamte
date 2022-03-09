@@ -1,0 +1,4 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_spilonotus	LC541452.1	18738	Circus spilonotus spilonotus 2003-0007 mitochondrial DNA, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_spilonotus	AB843425.1	695	Circus spilonotus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO142-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_spilonotus	AB921979.1	648	Circus spilonotus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, haplotype: B
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_spilonotus	AB921978.1	648	Circus spilonotus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, haplotype: A

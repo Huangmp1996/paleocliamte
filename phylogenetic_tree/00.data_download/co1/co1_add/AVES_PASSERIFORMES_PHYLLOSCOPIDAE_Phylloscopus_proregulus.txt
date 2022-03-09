@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GQ482446.1	694	Abrornis proregulus voucher UWBM 47589 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GQ482445.1	694	Abrornis proregulus voucher UWBM 74870 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GQ482444.1	690	Abrornis proregulus voucher UWBM 52538 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GQ482443.1	681	Abrornis proregulus voucher UWBM 78363 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GQ482442.1	681	Abrornis proregulus voucher UWBM 59743 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GQ482441.1	675	Abrornis proregulus voucher UWBM 58444 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GQ482440.1	675	Abrornis proregulus voucher UWBM 59689 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	NC_037189.1	16880	Abrornis proregulus mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	MG189603.1	16880	Abrornis proregulus mitochondrion, complete genome
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	HQ608861.1	1176	Phylloscopus proregulus isolate Y4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	HQ608830.1	1143	Phylloscopus proregulus isolate Y10 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GU572033.1	648	Phylloscopus proregulus voucher BISE-Aves124 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GU572032.1	648	Phylloscopus proregulus voucher BISE-Aves350 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GU571561.1	723	Phylloscopus proregulus voucher NHMO-BC579 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_proregulus	GU571560.1	722	Phylloscopus proregulus voucher NHMO-BC443 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

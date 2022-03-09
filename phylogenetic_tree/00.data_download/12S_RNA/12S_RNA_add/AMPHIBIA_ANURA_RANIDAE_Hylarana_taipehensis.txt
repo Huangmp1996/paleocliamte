@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Hylarana_taipehensis	DQ283396.1	2405	Hylarana taipehensis voucher AMNH A163972 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_taipehensis	DQ359983.1	726	Rana taipehensis voucher SCUMH019 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_taipehensis	AF206114.1	510	Rana taipehensis voucher ROM 7193 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Hylarana_taipehensis	AF161035.1	429	Rana taipehensis 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

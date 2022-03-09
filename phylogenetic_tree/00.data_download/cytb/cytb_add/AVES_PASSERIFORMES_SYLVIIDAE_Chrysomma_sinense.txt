@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Chrysomma_sinense	AF484843.1	477	Chrysomma sinense cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_SYLVIIDAE_Chrysomma_sinense	KJ456228.1	1065	Chrysomma sinense voucher NHMD 131842 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Chrysomma_sinense	JX236381.1	1103	Chrysomma sinense cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Chrysomma_sinense	JN827013.1	967	Chrysomma sinense voucher USNM 6172 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Chrysomma_sinense	JN827012.1	967	Chrysomma sinense voucher USNM 6101 cytochrome b (CYTB) gene, partial cds; mitochondrial

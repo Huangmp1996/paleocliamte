@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JQ837984.1	450	Takydromus wolteri voucher NIBRRP0000100351 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JQ815358.1	450	Takydromus wolteri voucher NIBRRP0000000012 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	NC_018777.1	18236	Takydromus wolteri mitochondrion, complete genome
+REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JX181764.1	18236	Takydromus wolteri mitochondrion, complete genome

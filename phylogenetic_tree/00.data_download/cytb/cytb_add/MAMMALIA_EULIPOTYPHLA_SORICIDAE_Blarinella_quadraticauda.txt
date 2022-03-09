@@ -1,0 +1,12 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	MN199120.1	1140	Blarinella quadraticauda voucher ZMMU G17-12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	NC_023950.1	17014	Blarinella quadraticauda mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	KJ131179.1	17014	Blarinella quadraticauda mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719721.1	1140	Blarinella quadraticauda haplotype C21 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719720.1	1140	Blarinella quadraticauda haplotype C20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719719.1	1140	Blarinella quadraticauda haplotype C19 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719718.1	1140	Blarinella quadraticauda haplotype C18 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719717.1	1140	Blarinella quadraticauda haplotype C17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719716.1	1140	Blarinella quadraticauda haplotype C16 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719713.1	1140	Blarinella quadraticauda haplotype C13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719712.1	1140	Blarinella quadraticauda haplotype C12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_quadraticauda	JF719711.1	1140	Blarinella quadraticauda haplotype C11 cytochrome b (cytb) gene, complete cds; mitochondrial

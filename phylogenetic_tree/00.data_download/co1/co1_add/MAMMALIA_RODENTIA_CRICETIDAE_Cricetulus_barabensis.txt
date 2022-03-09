@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	NC_053822.1	16282	Cricetulus barabensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	MN056361.1	16282	Cricetulus barabensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	KX882054.1	639	Cricetulus barabensis voucher MGL-105 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	KJ466858.1	657	Cricetulus barabensis voucher NMCDC:1346 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	KJ466762.1	657	Cricetulus barabensis voucher NMCDC:1345 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

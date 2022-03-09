@@ -1,0 +1,41 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	DQ333810.1	16376	Liua shihi mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	NC_008078.1	16376	Liua shihi mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165972.1	465	Liua shihi voucher XM1228 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165971.1	465	Liua shihi voucher XM1226 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165970.1	465	Liua shihi voucher XM1153 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165969.1	465	Liua shihi voucher XM1152 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165968.1	465	Liua shihi voucher XM2044 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165967.1	465	Liua shihi voucher XM2043 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165966.1	465	Liua shihi voucher XM1224 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165965.1	465	Liua shihi voucher XM1221 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165964.1	465	Liua shihi voucher XM1156 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165963.1	465	Liua shihi voucher XM1155 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165962.1	465	Liua shihi voucher XM1162 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165961.1	465	Liua shihi voucher ZYC1033 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165960.1	466	Liua shihi voucher ZYC1031 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165959.1	465	Liua shihi voucher ZYC1011 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165958.1	465	Liua shihi voucher ZYC1008 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165957.1	465	Liua shihi voucher XM897 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165956.1	465	Liua shihi voucher XM868 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165955.1	465	Liua shihi voucher XM285 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165954.1	465	Liua shihi voucher XM284 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165854.1	582	Liua shihi voucher XM1228 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165853.1	582	Liua shihi voucher XM1226 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165852.1	582	Liua shihi voucher XM1153 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165851.1	582	Liua shihi voucher XM1152 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165850.1	582	Liua shihi voucher XM2044 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165849.1	582	Liua shihi voucher XM2043 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165848.1	582	Liua shihi voucher XM1224 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165847.1	582	Liua shihi voucher XM1156 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165846.1	582	Liua shihi voucher XM1155 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165845.1	582	Liua shihi voucher XM1162 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165844.1	582	Liua shihi voucher ZYC1033 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165843.1	582	Liua shihi voucher ZYC1031 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165842.1	582	Liua shihi voucher ZYC1011 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165841.1	582	Liua shihi voucher ZYC1008 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165840.1	582	Liua shihi voucher XM897 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165839.1	582	Liua shihi voucher XM868 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	JN165838.1	582	Liua shihi voucher XM285 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	AY916011.1	1075	Liua shihi voucher NL1 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	AY593122.1	1598	Liua shihi 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Liua_shihi	AY028746.1	469	Liua shihi strain MVZ231141 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

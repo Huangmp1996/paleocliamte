@@ -1,0 +1,42 @@
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	MG748258.1	1137	Rattus losea isolate HN13033 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	MG748257.1	1137	Rattus losea isolate HN13031 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN850553.1	291	Rattus losea cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294411.1	1140	Rattus losea isolate Longquan-79 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294410.1	1140	Rattus losea isolate Longquan-71 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294409.1	1140	Rattus losea isolate Longquan-65 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294408.1	1140	Rattus losea isolate Longquan-615 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294407.1	1140	Rattus losea isolate Longquan-384 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294406.1	1140	Rattus losea isolate Longquan-375 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294405.1	1140	Rattus losea isolate Longquan-370 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294404.1	1140	Rattus losea isolate Longquan-369 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294403.1	1140	Rattus losea isolate Longquan-367 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294402.1	1140	Rattus losea isolate Longquan-161 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294401.1	1140	Rattus losea isolate Longquan-156 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294400.1	1140	Rattus losea isolate Longquan-152 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294399.1	1140	Rattus losea isolate Longquan-109 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	KF294398.1	1140	Rattus losea isolate Longquan-100 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JQ814264.1	776	Rattus losea voucher MVZ:Mamm:186526 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031721.1	1142	Rattus losea strain HN137 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031720.1	1139	Rattus losea strain HN105 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031719.1	1139	Rattus losea strain HN106 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031718.1	1142	Rattus losea strain HN148 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031717.1	1142	Rattus losea strain HN141 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031716.1	1139	Rattus losea strain HN107 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031715.1	1142	Rattus losea strain HN142 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031714.1	1142	Rattus losea strain HN149 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031713.1	1131	Rattus losea strain BWS63 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031712.1	1139	Rattus losea strain HN139 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031711.1	1141	Rattus losea strain HN140 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031710.1	1142	Rattus losea strain HN144 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031709.1	1142	Rattus losea strain HN102 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	HM031708.1	1138	Rattus tanezumi strain HN99 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675508.1	945	Rattus losea isolate 136Rlo_66 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675507.1	945	Rattus losea isolate 94Rlo_45 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675506.1	945	Rattus losea isolate 93Rlo_45 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675505.1	945	Rattus losea isolate 92Rlo_45 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675504.1	945	Rattus losea isolate 89Rlo_45 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675503.1	945	Rattus losea isolate 84Rlo_42 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675502.1	945	Rattus losea isolate 81Rlo_42 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675501.1	945	Rattus losea isolate 78Rlo_41 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675500.1	945	Rattus losea isolate 77Rlo_40 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Rattus_losea	JN675499.1	945	Rattus losea isolate 72Rlo_38 cytochrome b (cytb) gene, partial cds; mitochondrial

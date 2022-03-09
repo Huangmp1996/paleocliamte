@@ -1,0 +1,10 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	MT985383.1	17035	Myotis bombinus isolate JBMt mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	MT985382.1	17036	Myotis bombinus isolate JJMt mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	HQ580336.1	657	Myotis bombinus voucher KAT J-01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	JF442877.1	546	Myotis bombinus voucher ZMMU S-176151 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	JF442876.1	657	Myotis bombinus voucher ZMMU S-176150 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	JF442875.1	576	Myotis bombinus voucher ZMMU S-176149 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	JF442874.1	656	Myotis bombinus voucher ZMMU S-176148 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	NC_029342.1	17128	Myotis bombinus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	KT818621.1	17128	Myotis bombinus mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_bombinus	JF442873.1	572	Myotis bombinus voucher ROM 112858 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

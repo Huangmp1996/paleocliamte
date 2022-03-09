@@ -1,0 +1,58 @@
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845115.1	1140	Sacalia quadriocellata isolate SAC 28 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845114.1	1140	Sacalia quadriocellata isolate SAC 27 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845113.1	1140	Sacalia quadriocellata isolate SAC 26 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845112.1	1140	Sacalia quadriocellata isolate SAC 25 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845111.1	1140	Sacalia quadriocellata isolate SAC 24 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845110.1	1140	Sacalia quadriocellata isolate SAC 23 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845109.1	1140	Sacalia quadriocellata isolate SAC 22 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845108.1	1140	Sacalia quadriocellata isolate SAC 21 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845107.1	1140	Sacalia quadriocellata isolate SAC 20 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845106.1	1140	Sacalia quadriocellata isolate SAC 19 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845105.1	1140	Sacalia quadriocellata isolate SAC 18 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845104.1	1140	Sacalia quadriocellata isolate SAC 17 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845103.1	1140	Sacalia quadriocellata isolate SAC 16 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845102.1	1140	Sacalia quadriocellata isolate SAC 15 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845101.1	1140	Sacalia quadriocellata isolate SAC 13 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845100.1	1140	Sacalia quadriocellata isolate SAC 12 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845099.1	1140	Sacalia quadriocellata isolate SAC 11 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845098.1	1140	Sacalia quadriocellata isolate SAC 10 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845097.1	1140	Sacalia quadriocellata isolate SAC 9 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT845096.1	1140	Sacalia quadriocellata isolate SAC 7 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT372821.1	16433	Sacalia quadriocellata isolate Hainan mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	MT372820.1	16555	Sacalia quadriocellata isolate Mainland mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	FJ026840.1	340	Sacalia quadriocellata isolate TA13 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	AY434618.1	1140	Sacalia quadriocellata cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GU320209.1	16551	Sacalia quadriocellata mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	FJ211060.1	893	Sacalia quadriocellata voucher ZFMK 81535 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	FJ211059.1	893	Sacalia quadriocellata voucher ZFMK 81536 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	FJ211058.1	893	Sacalia quadriocellata voucher MVZ258203 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU911001.1	1140	Sacalia quadriocellata voucher MVZ230485 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU911000.1	1140	Sacalia quadriocellata voucher MVZ230484 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910995.1	1131	Sacalia quadriocellata voucher FMNH256542 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910994.1	1140	Sacalia quadriocellata voucher FMNH256543 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910993.1	1015	Sacalia quadriocellata voucher ROM28458 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910991.1	1113	Sacalia quadriocellata voucher MVZ257747 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910990.1	1140	Sacalia quadriocellata voucher HEK cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910989.1	1140	Sacalia quadriocellata voucher HNUTSQ61 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910988.1	1140	Sacalia quadriocellata voucher HNUTSQ4 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910987.1	1140	Sacalia quadriocellata voucher HNUTSQ3 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910986.1	1140	Sacalia quadriocellata voucher HNUTR0520 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910985.1	1140	Sacalia quadriocellata voucher HNUTSQ281 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910980.1	1140	Sacalia quadriocellata voucher HNUTSQ273 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910979.1	1140	Sacalia quadriocellata voucher HNUTSQ284 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910978.1	1140	Sacalia quadriocellata voucher HNUTSQ264 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910977.1	1140	Sacalia quadriocellata voucher HNUTSQ239 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910976.1	1140	Sacalia quadriocellata voucher HNUTSQ231 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910975.1	1140	Sacalia quadriocellata voucher HNUTSQ224 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910974.1	1140	Sacalia quadriocellata voucher HNUTSQ11 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EU910973.1	1140	Sacalia quadriocellata voucher HNUTSQ8 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	EF088646.1	16816	Sacalia quadriocellata mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	JN860664.1	992	Sacalia quadriocellata voucher ANUM26080080 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	NC_011819.1	16816	Sacalia quadriocellata mitochondrion, complete genome
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867701.1	423	Sacalia quadriocellata voucher 2009-SQ-019 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867700.1	423	Sacalia quadriocellata voucher 2009-SQ-017 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867699.1	423	Sacalia quadriocellata voucher 2009-SQ-008 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867698.1	423	Sacalia quadriocellata voucher 2009-SQ-007 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867697.1	423	Sacalia quadriocellata voucher 2009-SQ-006 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	GQ867696.1	423	Sacalia quadriocellata voucher 2009-SQ-003 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_TESTUDINES_GEOEMYDIDAE_Sacalia_quadriocellata	AJ564465.1	1036	Sacalia quadriocellata mitochondrial partial cytb gene for cytochrome b

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	AF447303.1	1400	Prunella montanella NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	AF407039.1	1088	Prunella montanella tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	NC_027284.1	16832	Prunella montanella mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	KR422695.1	16832	Prunella montanella mitochondrion, complete genome
+AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_montanella	KC759311.1	1041	Prunella montanella voucher SVD0267 (UWBM 47361) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	NC_039536.1	17109	Paradoxornis gularis mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	MK069067.1	651	Psittiparus gularis cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	KX397391.1	17109	Paradoxornis gularis mitochondrion, complete genome
+AVES_PASSERIFORMES_SYLVIIDAE_Psittiparus_gularis	HM140298.1	594	Paradoxornis gularis isolate 3070 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

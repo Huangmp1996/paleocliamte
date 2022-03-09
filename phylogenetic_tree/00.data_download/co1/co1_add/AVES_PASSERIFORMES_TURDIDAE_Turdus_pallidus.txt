@@ -1,0 +1,15 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	GQ482855.1	694	Turdus pallidus voucher UWBM 47478 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	GQ482854.1	694	Turdus pallidus voucher UWBM 71759 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	KX818833.1	664	Turdus pallidus isolate SB134 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	GQ482853.1	694	Turdus pallidus voucher UWBM 74609 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	GQ482852.1	694	Turdus pallidus voucher UWBM 47446 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	FJ465373.1	612	Turdus pallidus voucher NRM 19991106 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AB843829.1	678	Turdus pallidus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO018-08
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AB843828.1	691	Turdus pallidus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO477-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AB843827.1	691	Turdus pallidus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO488-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AB843260.1	672	Turdus pallidus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM088-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AB843259.1	643	Turdus pallidus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM019-08
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AB843258.1	678	Turdus pallidus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM716-11
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AB843257.1	662	Turdus pallidus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM255-10
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	AB843256.1	681	Turdus pallidus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM714-11
+AVES_PASSERIFORMES_TURDIDAE_Turdus_pallidus	JN801389.1	589	Turdus pallidus voucher LSU16993 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

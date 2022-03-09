@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KU860004.1	1144	Apodemus agrarius isolate PG6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KU860003.1	1144	Apodemus agrarius isolate PG5B7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KU860002.1	1144	Apodemus agrarius isolate PG4B5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KU860001.1	1144	Apodemus agrarius isolate PG3A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KU860000.1	1144	Apodemus agrarius isolate PG2B3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KU859999.1	1144	Apodemus agrarius isolate PG1B1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KR338986.1	1144	Apodemus agrarius isolate MA5 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KR338985.1	1144	Apodemus agrarius isolate MA4 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KR338984.1	1144	Apodemus agrarius isolate MA3 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KR338983.1	1144	Apodemus agrarius isolate MA2 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	KR338982.1	1144	Apodemus agrarius isolate MA1 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796193.1	1018	Apodemus agrarius strain Aa19-278 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796192.1	1063	Apodemus agrarius strain Aa19-236 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796191.1	1035	Apodemus agrarius strain Aa19-233 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796190.1	996	Apodemus agrarius strain Aa19-167 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796189.1	1026	Apodemus agrarius strain Aa19-153 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796188.1	1054	Apodemus agrarius strain Aa19-152 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796187.1	1082	Apodemus agrarius strain Aa19-144 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796186.1	1020	Apodemus agrarius strain Aa19-89 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796185.1	1103	Apodemus agrarius strain Aa19-57 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796184.1	1056	Apodemus agrarius strain Aa19-39 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796183.1	1118	Apodemus agrarius strain Aa19-38 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW796182.1	1099	Apodemus agrarius strain Aa19-36 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MW023762.1	1140	Apodemus agrarius isolate Longquan-723 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113569.1	1140	Apodemus agrarius isolate Agr167_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113568.1	1140	Apodemus agrarius isolate Agr166_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113567.1	1140	Apodemus agrarius isolate Agr165_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113566.1	1140	Apodemus agrarius isolate Agr164_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113565.1	1140	Apodemus agrarius isolate Agr163_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113564.1	1140	Apodemus agrarius isolate Agr162_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113563.1	1140	Apodemus agrarius isolate Agr161_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113562.1	1140	Apodemus agrarius isolate Agr160_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113561.1	1140	Apodemus agrarius isolate Agr159_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113560.1	1140	Apodemus agrarius isolate Agr158_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113559.1	1140	Apodemus agrarius isolate Agr157_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113558.1	1140	Apodemus agrarius isolate Agr156_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113557.1	1140	Apodemus agrarius isolate Agr155_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113556.1	1140	Apodemus agrarius isolate Agr154_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113555.1	1140	Apodemus agrarius isolate Agr153_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113554.1	1140	Apodemus agrarius isolate Agr152_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113553.1	1140	Apodemus agrarius isolate Agr151_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113552.1	1140	Apodemus agrarius isolate Agr150_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113551.1	1140	Apodemus agrarius isolate Agr149_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113550.1	1140	Apodemus agrarius isolate Agr148_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113549.1	1140	Apodemus agrarius isolate Agr147_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113548.1	1140	Apodemus agrarius isolate Agr146_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113547.1	1140	Apodemus agrarius isolate Agr145_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113546.1	1140	Apodemus agrarius isolate Agr144_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113545.1	1140	Apodemus agrarius isolate Agr143_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113544.1	1140	Apodemus agrarius isolate Agr142_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113543.1	1140	Apodemus agrarius isolate Agr141_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113542.1	1140	Apodemus agrarius isolate Agr140_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113541.1	1140	Apodemus agrarius isolate Agr049_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113540.1	1140	Apodemus agrarius isolate Agr037_PL cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113539.1	1140	Apodemus agrarius isolate Agr198_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113538.1	1140	Apodemus agrarius isolate Agr197_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113537.1	1140	Apodemus agrarius isolate Agr196_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113536.1	1140	Apodemus agrarius isolate Agr195_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113535.1	1140	Apodemus agrarius isolate Agr194_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113534.1	1140	Apodemus agrarius isolate Agr193_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113533.1	1140	Apodemus agrarius isolate Agr192_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113532.1	1140	Apodemus agrarius isolate Agr191_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113531.1	1140	Apodemus agrarius isolate Agr190_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113530.1	1140	Apodemus agrarius isolate Agr189_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113529.1	1140	Apodemus agrarius isolate Agr188_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113528.1	1140	Apodemus agrarius isolate Agr187_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113527.1	1140	Apodemus agrarius isolate Agr186_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113526.1	1140	Apodemus agrarius isolate Agr185_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113525.1	1140	Apodemus agrarius isolate Agr154_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113524.1	1140	Apodemus agrarius isolate Agr049_SVK cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113523.1	1140	Apodemus agrarius isolate Agr139_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113522.1	1140	Apodemus agrarius isolate Agr138_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113521.1	1140	Apodemus agrarius isolate Agr137_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113520.1	1140	Apodemus agrarius isolate Agr136_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113519.1	1140	Apodemus agrarius isolate Agr135_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113518.1	1140	Apodemus agrarius isolate Agr134_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113517.1	1140	Apodemus agrarius isolate Agr133_MHG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113516.1	1140	Apodemus agrarius isolate Agr132_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113515.1	1140	Apodemus agrarius isolate Agr131_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113514.1	1140	Apodemus agrarius isolate Agr130_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113513.1	1140	Apodemus agrarius isolate Agr129_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113512.1	1140	Apodemus agrarius isolate Agr128_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113511.1	1140	Apodemus agrarius isolate Agr127_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113510.1	1140	Apodemus agrarius isolate Agr126_MHG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113509.1	1140	Apodemus agrarius isolate Agr125_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113508.1	1140	Apodemus agrarius isolate Agr124_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113507.1	1140	Apodemus agrarius isolate Agr123_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113506.1	1140	Apodemus agrarius isolate Agr122_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113505.1	1140	Apodemus agrarius isolate Agr121_MNG cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113504.1	1140	Apodemus agrarius isolate Agr160_CZ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113503.1	1140	Apodemus agrarius isolate Agr048_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113502.1	1140	Apodemus agrarius isolate Agr047_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113501.1	1140	Apodemus agrarius isolate Agr046_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113500.1	1140	Apodemus agrarius isolate Agr045_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113499.1	1140	Apodemus agrarius isolate Agr044_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113498.1	1140	Apodemus agrarius isolate Agr043_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113497.1	1140	Apodemus agrarius isolate Agr042_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113496.1	1140	Apodemus agrarius isolate Agr041_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113495.1	1140	Apodemus agrarius isolate Agr039_GER cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Apodemus_agrarius	MT113494.1	1140	Apodemus agrarius isolate Agr038_GER cytochrome b (cytb) gene, partial cds; mitochondrial

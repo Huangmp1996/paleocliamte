@@ -1,0 +1,12 @@
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	LT992431.1	397	Palea steindachneri partial 12S rRNA gene, specimen voucher MTD T 5309
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KX882746.1	16875	Palea steindachneri mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	FJ541030.1	17243	Palea steindachneri mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KT372666.1	393	Palea steindachneri isolate TNE4039 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KT372665.1	393	Palea steindachneri isolate TNE4036 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KT372664.1	393	Palea steindachneri isolate TNE4065 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KT372663.1	393	Palea steindachneri isolate TNE4060 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KT372662.1	393	Palea steindachneri isolate TNE2805 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KT372661.1	393	Palea steindachneri isolate TNE2806 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	NC_013841.1	17243	Palea steindachneri mitochondrion, complete genome
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	AY743419.2	972	Palea steindachneri 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	AF043414.1	393	Pelea steindachneri 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

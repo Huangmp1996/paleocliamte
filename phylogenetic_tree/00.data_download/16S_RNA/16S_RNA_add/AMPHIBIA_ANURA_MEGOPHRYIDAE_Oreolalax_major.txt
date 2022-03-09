@@ -1,0 +1,13 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN688657.1	538	Oreolalax major voucher CIBEM1826 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN688656.1	538	Oreolalax major voucher CIBEM1825 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN688655.1	538	Oreolalax major voucher CIBEM1824 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN688654.1	538	Oreolalax major voucher CIB2019bx05 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN688653.1	538	Oreolalax major voucher CIB2019bx04 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN688652.1	538	Oreolalax major voucher CIB2019bx03 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN688651.1	538	Oreolalax major voucher CIB2019bx02 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN688650.1	538	Oreolalax major voucher CIB2019bx01 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	MN803320.1	17786	Oreolalax major mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	KU310894.1	15469	Oreolalax major mitochondrion, partial genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	NC_030605.1	17431	Oreolalax major mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	KU127230.1	17431	Oreolalax major mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_major	EF397252.1	1941	Oreolalax major voucher ROM40452 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

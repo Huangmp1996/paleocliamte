@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_PARIDAE_Parus_major	MN356395.1	16775	Parus major mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	NC_040875.1	16777	Parus major mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	MH638304.1	16777	Parus major mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KX388480.1	16773	Parus major isolate 5236 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KX388473.1	16773	Parus major isolate 1231 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	KP137624.1	16776	Parus major mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Parus_major	HQ417139.1	558	Parus major isolate MAR00112 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	FJ465247.1	487	Parus major voucher ZMUC 136952 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	DQ983944.1	557	Parus major major 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Parus_major	AJ224494.1	377	Parus major mitochondrion 16S rRNA gene, partial

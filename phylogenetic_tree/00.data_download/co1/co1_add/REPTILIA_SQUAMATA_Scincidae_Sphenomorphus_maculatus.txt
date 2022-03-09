@@ -1,0 +1,3 @@
+REPTILIA_SQUAMATA_Scincidae_Sphenomorphus_maculatus	MG935701.1	655	Sphenomorphus maculatus voucher USNM:Herp:587038 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Sphenomorphus_maculatus	MG935700.1	655	Sphenomorphus maculatus voucher USNM:Herp:587039 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_Scincidae_Sphenomorphus_maculatus	MH119629.1	654	Sphenomorphus maculatus isolate ZMMU_R-13680-00094 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

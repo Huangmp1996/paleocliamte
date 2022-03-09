@@ -1,0 +1,4 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	DQ333815.1	16390	Batrachuperus pinchonii mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	AY593156.1	972	Batrachuperus pinchonii NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	KP122337.1	16375	Batrachuperus pinchonii voucher BTIBET201411 mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	NC_008083.1	16390	Batrachuperus pinchonii mitochondrion, complete genome

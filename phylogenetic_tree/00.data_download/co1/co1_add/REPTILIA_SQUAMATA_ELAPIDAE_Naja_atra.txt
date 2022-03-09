@@ -1,0 +1,46 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ066925.1	202	Naja atra voucher CBSM48 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ066924.1	202	Naja atra voucher CBSM36 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ066923.1	202	Naja atra voucher CBSM31 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ045937.1	658	Naja atra voucher CBSF48 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ045935.1	658	Naja atra voucher CBSF31 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031546.1	202	Naja atra voucher BSM44 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031545.1	202	Naja atra voucher BSM43 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031544.1	202	Naja atra voucher BSM42 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031515.1	202	Naja atra voucher BSM13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031501.1	202	Naja atra voucher GSM43 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031473.1	658	Naja atra voucher BSF44 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031472.1	658	Naja atra voucher BSF43 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031471.1	658	Naja atra voucher BSF42 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031442.1	658	Naja atra voucher BSF13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MZ031428.1	658	Naja atra voucher GSF43 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MF099704.1	658	Naja atra voucher YJS13# cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MF099703.1	658	Naja atra voucher YJS01 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR046051.1	658	Naja naja voucher SR218 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR046050.1	658	Naja naja voucher SR217 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR046049.1	658	Naja naja voucher SR216 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR046048.1	658	Naja naja voucher SR215 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR046047.1	658	Naja naja voucher SR214 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK064771.1	657	Naja atra voucher CHS607 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MH220633.1	658	Naja atra voucher CGS47 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MH220632.1	658	Naja atra voucher CGS46 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MH220594.1	658	Naja atra voucher CGS08 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR046046.1	658	Naja atra voucher SR213 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR045945.1	658	Naja atra voucher SR84 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR045944.1	658	Naja atra voucher SR83 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR045943.1	658	Naja atra voucher SR82 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR045942.1	658	Naja atra voucher SR81 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KR045941.1	658	Naja atra voucher SR80 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KP749826.1	658	Naja atra isolate RN1570 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KP749825.1	658	Naja atra isolate RN1298 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KP749824.1	658	Naja atra isolate RN1294 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KP749823.1	658	Naja atra isolate RN1293 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KP749819.1	658	Naja atra isolate RN1167 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EU921898.1	17214	Naja atra voucher CIB093931 mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EU913475.1	17216	Naja atra voucher CIB093930 mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN833604.1	658	Naja atra isolate NA3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN833603.1	658	Naja atra isolate NA2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	JN833602.1	658	Naja atra isolate NA1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KF698948.1	658	Naja atra voucher S-102 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KF698947.1	658	Naja atra voucher S-101 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KF698946.1	658	Naja atra voucher S-31 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	NC_011389.1	17216	Naja atra mitochondrion, complete genome

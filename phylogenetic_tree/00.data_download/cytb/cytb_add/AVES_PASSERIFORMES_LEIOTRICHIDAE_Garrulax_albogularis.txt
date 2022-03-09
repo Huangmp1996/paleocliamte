@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	NC_037464.1	17870	Garrulax albogularis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	KX082660.1	17870	Garrulax albogularis mitochondrion, complete genome
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	EU447066.1	846	Garrulax albogularis ruficeps cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	EU447065.1	846	Garrulax albogularis eous cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	AF484846.1	477	Garrulax albogularis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	KJ456284.1	1143	Garrulax albogularis voucher AMNH:5626 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	JN827022.1	967	Garrulax albogularis voucher AMNH DOT5626 cytochrome b (CYTB) gene, partial cds; mitochondrial

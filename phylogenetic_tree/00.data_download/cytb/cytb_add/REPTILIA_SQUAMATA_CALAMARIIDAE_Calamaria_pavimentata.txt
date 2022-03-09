@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	MN788502.1	458	Calamaria pavimentata voucher ZSI_SHT3/MZMU 1269 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	MH445957.1	1016	Calamaria pavimentata voucher KFBG:14507 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	KX694890.1	656	Calamaria pavimentata voucher ROM_35597 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_CALAMARIIDAE_Calamaria_pavimentata	AF471081.1	1114	Calamaria pavimentata cytochrome b (cytb) gene, complete cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	JN108020.1	16893	Cyanopica cyanus mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	KT934323.1	16899	Cyanopica cyanus koreensis mitochondrion, complete genome
+AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	KF469295.1	442	Cyanopica cyanus isolate 15 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	NC_015824.1	16893	Cyanopica cyanus mitochondrion, complete genome

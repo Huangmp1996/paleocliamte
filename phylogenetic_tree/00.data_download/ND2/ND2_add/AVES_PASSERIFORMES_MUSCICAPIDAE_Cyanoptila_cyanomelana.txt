@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	KP337120.1	991	Cyanoptila cyanomelana isolate 16356 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	HQ896033.1	16802	Cyanoptila cyanomelana mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	NC_015232.1	16802	Cyanoptila cyanomelana mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Cyanoptila_cyanomelana	GU358791.1	1041	Cyanoptila cyanomelana voucher NRM 20056744 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

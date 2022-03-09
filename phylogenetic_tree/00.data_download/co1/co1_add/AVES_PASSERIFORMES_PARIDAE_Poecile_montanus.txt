@@ -1,0 +1,64 @@
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	MN122849.1	16782	Poecile montanus mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482542.1	694	Poecile montanus voucher UWBM 58013 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482541.1	694	Poecile montanus voucher UWBM 56718 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482540.1	694	Poecile montanus voucher UWBM 58424 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482539.1	694	Poecile montanus voucher UWBM 82298 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482537.1	694	Poecile montanus voucher UWBM 46568 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482536.1	694	Poecile montanus voucher UWBM 80557 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482535.1	694	Poecile montanus voucher UWBM 78280 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482534.1	690	Poecile montanus voucher UWBM 52561 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482533.1	682	Poecile montanus voucher UWBM 73494 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482532.1	681	Poecile montanus voucher UWBM 49619 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482531.1	681	Poecile montanus voucher UWBM 49720 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482530.1	681	Poecile montanus voucher UWBM 74183 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482529.1	681	Poecile montanus voucher UWBM 44148 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482528.1	675	Poecile montanus voucher UWBM 59749 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482527.1	660	Poecile montanus voucher UWBM 49453 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998548.1	644	Poecile montanus restrictus voucher MAR90362 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998545.1	651	Poecile montanus salicarius voucher MTD-C56819 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998539.1	669	Poecile montanus montanus voucher MTD-C59779 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998538.1	687	Poecile montanus montanus voucher MTD-C59780 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998537.1	694	Poecile montanus baicalensis voucher MAR685 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998531.1	651	Poecile montanus rhenanus voucher MAR5080 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998530.1	651	Poecile montanus rhenanus voucher MAR5056 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998529.1	657	Poecile montanus kamtschatkensis voucher MAR4844 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998527.1	644	Poecile montanus affinis voucher MAR403 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998522.1	651	Poecile montanus salicarius voucher MTD-C59781 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998521.1	651	Poecile montanus affinis voucher MTD-C59776 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998520.1	651	Poecile montanus affinis voucher MTD-C59775 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998517.1	651	Poecile montanus rhenanus voucher MTD-C60290 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998515.1	651	Poecile montanus sachalinensis voucher MAR1404 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998511.1	651	Poecile montanus salicarius voucher MTD-C56818 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998510.1	651	Poecile montanus salicarius voucher MTD-C56815 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX998508.1	651	Poecile montanus salicarius voucher MTD-C56817 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX687340.1	642	Poecile montanus isolate VK80026 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX687339.1	642	Poecile montanus isolate VN89519 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX687338.1	622	Poecile montanus isolate XZ21440 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX388479.1	16783	Poecile montanus baicalensis isolate 6712 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	KX388478.1	16783	Poecile montanus isolate 12025 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185342.1	1201	Poecile montanus voucher IOZ2178 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GU572061.1	648	Poecile montanus voucher BISE-Aves43 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GU572060.1	648	Poecile montanus voucher BISE-Aves277 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GU572059.1	648	Poecile montanus voucher BISE-Aves372 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GU571589.1	681	Poecile montanus voucher NHMO-BC427 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GU571588.1	724	Poecile montanus voucher NHMO-BC426 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482546.1	694	Poecile montanus voucher ZMMU RYA 429 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482545.1	694	Poecile montanus voucher ZMMU RYA 1212 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482544.1	694	Poecile montanus voucher ZMMU RYA 1042 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482543.1	694	Poecile montanus voucher ZMMU RYA 511 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	GQ482538.1	694	Poecile montanus voucher UWBM 82991 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AB843708.1	673	Poecile montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO228-10
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AB843707.1	677	Poecile montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO363-10
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AB843706.1	683	Poecile montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO277-10
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AB843097.1	688	Poecile montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM749-11
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AB843096.1	640	Poecile montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM464-10
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AB843095.1	610	Poecile montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM434-10
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AB843094.1	621	Poecile montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM810-11
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	AB843093.1	584	Poecile montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM061-08
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185366.1	948	Poecile montanus voucher IOZ2178 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185365.1	948	Poecile montanus voucher IOZ2237 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185364.1	948	Poecile montanus voucher IOZ5945 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185363.1	948	Poecile montanus voucher IOZ5944 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185317.1	1201	Poecile montanus voucher IOZ5944 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185316.1	1201	Poecile montanus voucher IOZ5945 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Poecile_montanus	HM185315.1	1201	Poecile montanus voucher IOZ2237 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

@@ -1,0 +1,18 @@
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	OK091674.1	948	Varanus bengalensis isolate D17 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MZ919360.1	434	Varanus bengalensis voucher AIWC 338 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MH157845.1	364	Varanus bengalensis isolate VB-7 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MH157844.1	364	Varanus bengalensis isolate VB-6 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MH157843.1	364	Varanus bengalensis isolate VB-5 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MH157842.1	364	Varanus bengalensis isolate VB-4 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MH157841.1	364	Varanus bengalensis isolate VB-3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MH157840.1	364	Varanus bengalensis isolate VB-2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	MH157839.1	364	Varanus bengalensis isolate VB-1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	KU746365.1	388	Varanus bengalensis isolate VB4 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	KU746364.1	387	Varanus bengalensis isolate VB3 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	KU746363.1	390	Varanus bengalensis isolate VB2 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	KU746362.1	391	Varanus bengalensis isolate VB1 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	AH005468.2	745	Varanus bengalensis 12S ribosomal RNA genes, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	JQ991603.1	413	Varanus bengalensis voucher Vbe01 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	HM921154.1	200	Varanus bengalensis 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	EU621803.1	389	Varanus bengalensis isolate VB01 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_bengalensis	GU219858.1	445	Varanus bengalensis bio-material Dusit zoo VB 12S ribosomal RNA gene, partial sequence; mitochondrial

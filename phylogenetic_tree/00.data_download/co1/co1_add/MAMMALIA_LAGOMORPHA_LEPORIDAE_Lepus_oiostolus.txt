@@ -1,0 +1,8 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	NC_050983.1	17370	Lepus oiostolus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	MT376741.1	17370	Lepus oiostolus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233108.1	1450	Lepus oiostolus isolate 02 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233107.1	1450	Lepus oiostolus isolate 01 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233106.1	1450	Lepus oiostolus isolate 03 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233105.1	1450	Lepus oiostolus isolate 04 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233104.1	1450	Lepus oiostolus isolate 05 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_oiostolus	HM233103.1	1450	Lepus oiostolus isolate 06 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial

@@ -1,0 +1,81 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	MF405145.2	16264	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	NC_037888.1	16263	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	MF034880.1	16263	Cricetus cricetus mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827175.1	530	Cricetus cricetus isolate MAM_H21 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827174.1	437	Cricetus cricetus isolate MAM_H20 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827173.1	530	Cricetus cricetus isolate MAM_H18 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827172.1	530	Cricetus cricetus isolate MAM_H2 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827171.1	530	Cricetus cricetus isolate MAM_H14 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827170.1	530	Cricetus cricetus isolate MAM_H4 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827169.1	530	Cricetus cricetus isolate MAM_H17 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827168.1	530	Cricetus cricetus isolate MAM_H16 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827167.1	482	Cricetus cricetus isolate MAM_H3 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827166.1	530	Cricetus cricetus isolate MAM_H8 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827165.1	507	Cricetus cricetus isolate MKK_MS1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827164.1	530	Cricetus cricetus isolate MKK_ND1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827163.1	513	Cricetus cricetus isolate FLO_501 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827162.1	530	Cricetus cricetus isolate KIL_MH2 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827161.1	530	Cricetus cricetus isolate KIL_MH1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827160.1	530	Cricetus cricetus isolate Sz13 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827159.1	530	Cricetus cricetus isolate Sz9 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827158.1	530	Cricetus cricetus isolate Ra33 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827157.1	514	Cricetus cricetus isolate Ra30 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827156.1	514	Cricetus cricetus isolate Ra29 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827155.1	514	Cricetus cricetus isolate Ra25 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827154.1	530	Cricetus cricetus isolate Ra22 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827153.1	530	Cricetus cricetus isolate QUI_KM25 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827152.1	530	Cricetus cricetus isolate BOR_H150233 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827151.1	530	Cricetus cricetus isolate BOR_H150232 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827150.1	514	Cricetus cricetus isolate OP_O38 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827149.1	530	Cricetus cricetus isolate OP_O35 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827148.1	530	Cricetus cricetus isolate OP_O31 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827147.1	530	Cricetus cricetus isolate OP_O29 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827146.1	530	Cricetus cricetus isolate OP_O27 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827145.1	530	Cricetus cricetus isolate JW_7 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827144.1	530	Cricetus cricetus isolate JW_6 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827143.1	530	Cricetus cricetus isolate JW_5 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827142.1	530	Cricetus cricetus isolate JW_3 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827141.1	530	Cricetus cricetus isolate JW_20 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827140.1	530	Cricetus cricetus isolate JW_8 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827139.1	530	Cricetus cricetus isolate JW_7A 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827138.1	530	Cricetus cricetus isolate JW_19 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827137.1	530	Cricetus cricetus isolate JW_15 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827136.1	530	Cricetus cricetus isolate JW_12 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827135.1	530	Cricetus cricetus isolate JW_M2 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827134.1	530	Cricetus cricetus isolate JW_1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827133.1	530	Cricetus cricetus isolate JW_M1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827132.1	530	Cricetus cricetus isolate JW_16 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827131.1	530	Cricetus cricetus isolate JW_5A 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827130.1	530	Cricetus cricetus isolate JW_4 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827129.1	530	Cricetus cricetus isolate JW_2 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827128.1	530	Cricetus cricetus isolate JW_9 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827127.1	530	Cricetus cricetus isolate JW_3A 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827126.1	530	Cricetus cricetus isolate JW_3ZZ 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827125.1	530	Cricetus cricetus isolate JW_1A 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827124.1	530	Cricetus cricetus isolate JW_14 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827123.1	530	Cricetus cricetus isolate JRZ_63 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827122.1	530	Cricetus cricetus isolate JRZ_59 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827121.1	530	Cricetus cricetus isolate JRZ_50 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827120.1	530	Cricetus cricetus isolate JRZ_40 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827119.1	530	Cricetus cricetus isolate JRZ_34 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KX827118.1	530	Cricetus cricetus isolate JRZ_13 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	KR010650.1	468	Cricetus cricetus voucher Su1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	EU107522.1	468	Cricetus cricetus haplotype P1 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	DQ983929.1	563	Cricetus cricetus 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633755.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S17
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633754.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S16
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633753.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S15
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633752.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S14
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633751.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S13
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633750.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S12
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633749.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S11
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633748.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S10
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633747.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S09
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633746.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S08
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633745.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S07
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633744.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S06
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633743.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S05
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633742.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S04
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633741.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S03
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633740.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S02
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetus_cricetus	AJ633739.1	468	Cricetus cricetus mitochondrial partial 16S rRNA gene, allele 16S01

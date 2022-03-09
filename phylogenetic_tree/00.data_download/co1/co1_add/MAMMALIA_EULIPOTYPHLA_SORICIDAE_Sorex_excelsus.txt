@@ -1,0 +1,4 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_excelsus	KJ547146.1	654	Sorex excelsus isolate BT1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_excelsus	KJ547145.1	654	Sorex excelsus isolate YJDC1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_excelsus	KJ547144.1	654	Sorex excelsus isolate YJGx1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_excelsus	KJ547143.1	654	Sorex excelsus isolate YJGX2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

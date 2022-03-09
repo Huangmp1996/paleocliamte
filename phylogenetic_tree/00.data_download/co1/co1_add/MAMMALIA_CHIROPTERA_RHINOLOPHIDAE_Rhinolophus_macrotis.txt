@@ -1,0 +1,48 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	OL375156.1	602	Rhinolophus macrotis isolate Z000545 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	OL375155.1	602	Rhinolophus macrotis isolate Z000542 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MH014031.1	616	Rhinolophus macrotis voucher PAA2340 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MH014018.1	616	Rhinolophus macrotis voucher PAA2349 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MH013997.1	612	Rhinolophus macrotis voucher PAA2350 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765751.1	657	Rhinolophus macrotis isolate SXi10118 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765750.1	657	Rhinolophus macrotis isolate SXi10121 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765749.1	627	Rhinolophus macrotis isolate CQ08038 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765748.1	609	Rhinolophus macrotis isolate JX08029 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765747.1	615	Rhinolophus macrotis isolate JX08011 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765722.1	657	Rhinolophus macrotis isolate GD08076 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765721.1	657	Rhinolophus macrotis isolate GD08069 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765720.1	657	Rhinolophus macrotis isolate HuN10131 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765719.1	657	Rhinolophus macrotis isolate SC10179 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765718.1	657	Rhinolophus macrotis isolate GZ07058 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765717.1	657	Rhinolophus macrotis isolate SXi10110 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765716.1	657	Rhinolophus macrotis isolate SXi10102 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765715.1	657	Rhinolophus macrotis isolate HeN08037 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765714.1	630	Rhinolophus macrotis isolate CQ08021 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765709.1	657	Rhinolophus macrotis isolate VN09036 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765699.1	633	Rhinolophus macrotis isolate VN09041 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765685.1	594	Rhinolophus macrotis isolate JX09058 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765684.1	594	Rhinolophus macrotis isolate JX06025 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765683.1	594	Rhinolophus macrotis isolate HuN10056 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765682.1	594	Rhinolophus macrotis isolate HuN10053 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765680.1	594	Rhinolophus macrotis isolate CQ08040 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765679.1	582	Rhinolophus macrotis isolate SC10134 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765678.1	594	Rhinolophus macrotis isolate SC10034 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765677.1	582	Rhinolophus macrotis isolate SC10180 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	MG765676.1	594	Rhinolophus macrotis isolate SC10052 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541602.1	650	Rhinolophus macrotis voucher ROM MAM 116115 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541601.1	625	Rhinolophus macrotis voucher ROM MAM 112482 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541600.1	656	Rhinolophus macrotis voucher ROM MAM 107674 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541599.1	656	Rhinolophus macrotis voucher ROM MAM 107690 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541598.1	657	Rhinolophus macrotis voucher ROM MAM 107699 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541597.1	657	Rhinolophus macrotis voucher ROM MAM 107611 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541596.1	657	Rhinolophus macrotis voucher EBD 24976 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541595.1	421	Rhinolophus macrotis voucher SMF 86200 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541594.1	384	Rhinolophus macrotis voucher ZMMU S-175171 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541593.1	535	Rhinolophus macrotis voucher YU IJM KL1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	HM541592.1	657	Rhinolophus macrotis voucher HZM 8.35818 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	FJ840483.1	514	Rhinolophus macrotis haplotype GZNU20061018001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	NC_026460.1	16848	Rhinolophus macrotis voucher Gz-07-64 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	KP162343.1	16848	Rhinolophus macrotis voucher Gz-07-64 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	JQ600012.1	657	Rhinolophus macrotis voucher ROM:118480 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	JF444052.1	654	Rhinolophus macrotis voucher ROM 118481 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	JF444051.1	527	Rhinolophus macrotis voucher ROM 118562 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_macrotis	JF444050.1	657	Rhinolophus macrotis voucher ROM 107635 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	JF921876.1	16707	Tetraophasis obscurus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	EU839483.1	1143	Tetraophasis obscurus voucher T5 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	EU839482.1	1143	Tetraophasis obscurus voucher z03 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	EU049324.1	1143	Tetraophasis obscurus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_obscurus	NC_018034.1	16707	Tetraophasis obscurus mitochondrion, complete genome

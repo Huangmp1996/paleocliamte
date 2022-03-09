@@ -1,0 +1,8 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	DQ119536.1	1143	Emberiza tristrami isolate etr-2 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	DQ119535.1	1143	Emberiza tristrami isolate etr-1 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	KP877790.1	625	Emberiza tristrami isolate MAR6637 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	KP877776.1	625	Emberiza tristrami isolate MAR5914 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	KP877775.1	1035	Emberiza tristrami isolate MAR5912 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	NC_015234.1	16789	Emberiza tristrami mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	HQ896035.1	16789	Emberiza tristrami mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	EU325732.1	1076	Emberiza tristrami cytochrome b gene, partial cds; mitochondrial

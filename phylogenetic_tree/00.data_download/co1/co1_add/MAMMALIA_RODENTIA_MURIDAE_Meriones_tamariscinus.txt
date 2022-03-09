@@ -1,0 +1,6 @@
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	KX859280.1	661	Meriones tamariscinus voucher MGL-123 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	NC_034314.1	16389	Meriones tamariscinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	KX688104.1	16389	Meriones tamariscinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	KT834971.1	16393	Meriones tamariscinus mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	KF152969.1	645	Meriones tamariscinus voucher JW77 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Meriones_tamariscinus	KF152968.1	645	Meriones tamariscinus voucher JW205 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

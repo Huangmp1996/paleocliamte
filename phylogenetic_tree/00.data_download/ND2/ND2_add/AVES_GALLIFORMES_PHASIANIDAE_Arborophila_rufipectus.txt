@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	NC_012453.1	16728	Arborophila rufipectus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	FJ194942.1	16728	Arborophila rufipectus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KP119006.1	1008	Arborophila rufipectus voucher SC01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Arborophila_rufipectus	KC778824.1	1026	Arborophila rufipectus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

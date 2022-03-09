@@ -1,0 +1,61 @@
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	NC_009684.1	16604	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MN011574.1	16603	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MW354666.1	16605	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MK770342.1	16604	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MH383306.1	1011	Anas platyrhynchos voucher OCGR8821/OMNH22601 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JK310909.1	94	duck61_LP-SSHFS3.181 H5N2 A/mallard/BC/500/05-infected duck intestine suppressive subtractive hybridization (SSH) cDNA library Anas platyrhynchos cDNA clone duck61_LP-SSHFS3.181 similar to similar to (AF059155) NADH dehydrogenase subunit 2 (ND2), mRNA sequence
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MH744426.1	16604	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF069251.1	16601	Anas platyrhynchos breed Shan partridge duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF069250.1	16606	Anas platyrhynchos breed Putian Black duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF069249.1	16602	Anas platyrhynchos breed Liancheng White duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	MF069248.1	16603	Anas platyrhynchos breed Jinding duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KX534726.1	1037	Anas platyrhynchos voucher UMMZ-T258 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KX592536.1	16604	Anas platyrhynchos breed Sichuan mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	FJ167857.1	16606	Anas platyrhynchos breed Jianchang mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	EU585672.1	1041	Anas platyrhynchos platyrhynchos voucher IPMB 42076 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	AF059081.2	1074	Anas platyrhynchos isolate 1 cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	HM010684.1	16604	Anas platyrhynchos breed Shaoxing mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	AF059142.1	1093	Anas platyrhynchos isolate 2 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	AF059141.1	1093	Anas platyrhynchos isolate 1 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	AF059082.1	1074	Anas platyrhynchos isolate 2 cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	DQ831202.1	72	Anas platyrhynchos isolate GCH3 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	DQ831201.1	72	Anas platyrhynchos isolate GCH2 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	DQ831200.1	72	Anas platyrhynchos isolate GCH1 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ833586.1	16604	Anas platyrhynchos breed Xilin duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ833587.1	16605	Anas platyrhynchos breed Rongshui duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ883269.1	16605	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ778676.1	16606	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ739616.1	16603	Anas platyrhynchos breed Longsheng duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ689447.1	16603	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	KJ637997.1	16605	Anas platyrhynchos mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968897.1	950	Anas platyrhynchos voucher CGRB10195 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968896.1	950	Anas platyrhynchos voucher CGRB8348 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968894.1	950	Anas platyrhynchos voucher CGRB9488 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968893.1	950	Anas platyrhynchos voucher CGRB8341 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968892.1	950	Anas platyrhynchos voucher CGRB8343 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968891.1	950	Anas platyrhynchos voucher CGRB7039 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968890.1	950	Anas platyrhynchos voucher CGRB9498 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968889.1	950	Anas platyrhynchos voucher CGRB8347 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968887.1	950	Anas platyrhynchos voucher CGRB8342 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968886.1	950	Anas platyrhynchos voucher CGRB8355 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968883.1	950	Anas platyrhynchos voucher CGRB8345 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968882.1	950	Anas platyrhynchos voucher CGRB7031 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968881.1	950	Anas platyrhynchos voucher CGRB7037 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968879.1	950	Anas platyrhynchos voucher CGRB10187 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968877.1	950	Anas platyrhynchos voucher CGRB7032 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968875.1	950	Anas platyrhynchos voucher CGRB10164 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968874.1	950	Anas platyrhynchos voucher CGRB8351 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968873.1	950	Anas platyrhynchos voucher CGRB8350 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968872.1	950	Anas platyrhynchos voucher CGRB9731 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968870.1	950	Anas platyrhynchos voucher CGRB8389 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968869.1	950	Anas platyrhynchos voucher CGRB8388 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968868.1	950	Anas platyrhynchos voucher CGRB8344 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968867.1	950	Anas platyrhynchos voucher CGRB7033 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968866.1	950	Anas platyrhynchos voucher CGRB10172 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968865.1	950	Anas platyrhynchos voucher CGRB8354 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968864.1	950	Anas platyrhynchos voucher CGRB8356 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	JX968863.1	950	Anas platyrhynchos voucher CGRB10194 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	EU755253.1	16606	Anas platyrhynchos breed mallard mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	L22480.1	775	Anas platyrhynchos mitochondrial ND2 gene, 3' end, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys and tRNA-Tyr genes, cytochrome oxidase subunit I gene 5' end
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	EU755252.1	16604	Anas platyrhynchos breed Beijing duck mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_platyrhynchos	EU009397.1	16604	Anas platyrhynchos mitochondrion, complete genome

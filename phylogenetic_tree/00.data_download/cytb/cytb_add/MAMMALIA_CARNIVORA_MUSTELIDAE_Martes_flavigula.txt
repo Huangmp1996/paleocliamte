@@ -1,0 +1,41 @@
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	EF987749.1	1140	Martes flavigula cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MW625810.1	16555	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB082964.1	1188	Martes flavigula irbp gene for interphotoreceptor retinoid binding protein, partial cds
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205261.1	993	Martes flavigula isolate 15154_Russia cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205260.1	993	Martes flavigula isolate MARTEN6_N4_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205259.1	993	Martes flavigula isolate MARTEN5_N3_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205258.1	993	Martes flavigula isolate MARTEN4_S12_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205257.1	993	Martes flavigula isolate MARTEN3_S13_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205256.1	993	Martes flavigula isolate MARTEN2_S6_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205255.1	993	Martes flavigula isolate MARTEN1_C4_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205254.1	993	Martes flavigula isolate 9539_C1_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205253.1	993	Martes flavigula isolate 4078_N1_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205252.1	993	Martes flavigula isolate 15253_C2_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205251.1	993	Martes flavigula isolate 4096_S1_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205250.1	993	Martes flavigula isolate 15252_S2_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205249.1	993	Martes flavigula isolate 15220_S4_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205248.1	993	Martes flavigula isolate 15219_S11_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205247.1	993	Martes flavigula isolate 15218_S9_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205246.1	993	Martes flavigula isolate 15216_S7_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205245.1	993	Martes flavigula isolate 15215_N6_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205244.1	993	Martes flavigula isolate 15213_S8_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205243.1	993	Martes flavigula isolate 15212_N5_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205242.1	993	Martes flavigula isolate 15210_C5_Korea cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205241.1	993	Martes flavigula isolate 5_Korea_C3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205240.1	993	Martes flavigula isolate 4_Korea_S5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205239.1	993	Martes flavigula isolate 3_Korea_S10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205238.1	993	Martes flavigula isolate 2_Korea_N2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	MK205237.1	993	Martes flavigula isolate 1_Korea_S3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	HM106326.1	16467	Martes flavigula voucher YP6016 mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	FJ719367.1	16549	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	KM347744.1	16533	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB725417.1	954	Martes flavigula Mc1r gene for melanocortin 1 receptor, complete cds, specimen_voucher: personal collection:Hitoshi Suzuki:HS1224
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	NC_012141.1	16549	Martes flavigula mitochondrion, complete genome
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB564116.1	1140	Martes flavigula mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: personal:Tetsuji Hosoda:TH444
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB564115.1	1140	Martes flavigula mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: NMNS:707
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB564114.1	1140	Martes flavigula mitochondrial CYB gene for cytochrome b, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS858
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB564113.1	402	Martes flavigula mitochondrial CYB gene for cytochrome b, partial cds, specimen_voucher: personal:Hitoshi Suzuki:HS844
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB012363.1	1140	Martes flavigula mitochondrial gene for cytochrome b, complete cds, isolate: MFL-CHI1
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB012362.1	1140	Martes flavigula mitochondrial gene for cytochrome b, complete cds, isolate: MFL-DUZ1
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB051246.1	402	Martes flavigula mitochondrial cytb gene for cytochrome b, partial cds, isolate: HS844
+MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_flavigula	AB051235.1	1140	Martes flavigula mitochondrial cytb gene for cytochrome b, complete cds, isolate: HS1224

@@ -1,0 +1,4 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_sodalis	GU981076.1	1578	Chodsigoa sodalis isolate Chsodal2 16S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_sodalis	GU981075.1	1578	Chodsigoa sodalis isolate Chsodal1 16S ribosomal RNA gene, complete sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_sodalis	DQ630358.1	972	Soriculus sodalis isolate 2 16S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_sodalis	DQ630356.1	971	Soriculus sodalis isolate 1 16S ribosomal RNA gene, partial sequence; mitochondrial

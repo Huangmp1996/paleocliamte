@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	KX133722.1	1088	Acrocephalus aedon voucher MNHN:04-8D tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	DQ125987.1	1036	Acrocephalus aedon NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	KJ453248.1	1077	Acrocephalus aedon isolate 62313 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Arundinax_aedon	KJ453247.1	1077	Acrocephalus aedon isolate 61111 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

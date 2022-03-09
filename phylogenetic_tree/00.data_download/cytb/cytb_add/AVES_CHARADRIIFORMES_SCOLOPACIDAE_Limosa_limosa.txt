@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	KX818814.1	280	Limosa limosa isolate SB132 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	AF285813.1	1019	Limosa limosa isolate UAM8400 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	AF285812.1	1019	Limosa limosa isolate UAM8216 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ963051.1	410	Limosa limosa melanuroides cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Limosa_limosa	JQ963050.1	1044	Limosa limosa islandica cytochrome b (cytb) gene, partial cds; mitochondrial

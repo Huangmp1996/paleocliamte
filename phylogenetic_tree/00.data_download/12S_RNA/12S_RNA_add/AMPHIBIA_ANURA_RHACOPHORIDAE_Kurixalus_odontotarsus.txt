@@ -1,0 +1,63 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KX554445.1	396	Kurixalus odontotarsus voucher Rao 14111401 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KX554444.1	396	Kurixalus odontotarsus voucher YGH 090178 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KX554443.1	396	Kurixalus odontotarsus voucher Rao 14111307 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KX554442.1	396	Kurixalus odontotarsus voucher Rao 14102907 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KX554441.1	396	Kurixalus odontotarsus voucher Rao 14001643 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	AB933303.1	1565	Kurixalus odontotarsus mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: CIB<CHN>:201307071
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	AB933302.1	1567	Kurixalus odontotarsus mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: CIB<CHN>:201307012
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KC465818.1	1953	Kurixalus odontotarsus voucher ROM 38955 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KC465817.1	1951	Kurixalus odontotarsus voucher ROM 38436 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KC465816.1	1951	Kurixalus odontotarsus voucher 2008004 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KC465815.1	1950	Kurixalus odontotarsus voucher FMNH:271334 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	KC465814.1	1949	Kurixalus odontotarsus voucher 172 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	EU215549.1	1952	Aquixalus odontotarsus voucher SCUM 060688L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	EF564460.1	444	Aquixalus odontotarsus isolate KIZ3317 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	EF564459.1	426	Aquixalus odontotarsus isolate KIZ3315 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	EF564458.1	424	Aquixalus odontotarsus isolate KIZ0602003 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	EF564457.1	424	Aquixalus odontotarsus isolate KIZ060821124 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	EF564456.1	422	Aquixalus odontotarsus isolate KIZ060821122 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	EF564455.1	424	Aquixalus odontotarsus isolate KIZ060821030 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	EF564454.1	424	Aquixalus odontotarsus isolate KIZ060821015 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	AY880593.1	347	Aquixalus odontotarsus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	AY880553.1	389	Aquixalus odontotarsus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227272.1	395	Kurixalus odontotarsus isolate YGH090358 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227271.1	397	Kurixalus odontotarsus isolate YGH090207 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227270.1	397	Kurixalus odontotarsus isolate YGH090206 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227269.1	397	Kurixalus odontotarsus isolate YGH090205 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227268.1	397	Kurixalus odontotarsus isolate YGH090204 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227267.1	397	Kurixalus odontotarsus isolate YGH090203 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227266.1	397	Kurixalus odontotarsus isolate YGH090202 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227265.1	397	Kurixalus odontotarsus isolate YGH090201 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227264.1	397	Kurixalus odontotarsus isolate YGH090286 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227263.1	397	Kurixalus odontotarsus isolate YGH090284 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227262.1	397	Kurixalus odontotarsus isolate YGH090283 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227261.1	397	Kurixalus odontotarsus isolate YGH090282 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227260.1	397	Kurixalus odontotarsus isolate YGH090281 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227259.1	397	Kurixalus odontotarsus isolate YGH090280 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227258.1	397	Kurixalus odontotarsus isolate YGH090270 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227257.1	397	Kurixalus odontotarsus isolate YGH090269 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227256.1	397	Kurixalus odontotarsus isolate YGH090268 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227255.1	397	Kurixalus odontotarsus isolate YGH090267 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227254.1	397	Kurixalus odontotarsus isolate YGH090266 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227253.1	397	Kurixalus odontotarsus isolate YGH090081 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227252.1	397	Kurixalus odontotarsus isolate YGH71154 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227251.1	397	Kurixalus odontotarsus isolate YGH71153 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227250.1	397	Kurixalus odontotarsus isolate YGH71152 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227249.1	397	Kurixalus odontotarsus isolate YGH090046 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227248.1	397	Kurixalus odontotarsus isolate YGH090044 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227247.1	397	Kurixalus odontotarsus isolate YGH080170 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227246.1	397	Kurixalus odontotarsus isolate YGH080169 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227245.1	397	Kurixalus odontotarsus isolate YGH080168 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227244.1	397	Kurixalus odontotarsus isolate YGH080166 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227243.1	396	Kurixalus odontotarsus isolate YGH090134 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227242.1	396	Kurixalus odontotarsus isolate YGH090133 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227241.1	396	Kurixalus odontotarsus isolate YGH090132 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227240.1	396	Kurixalus odontotarsus isolate YGH090131 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227239.1	396	Kurixalus odontotarsus isolate YGH090130 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227238.1	396	Kurixalus odontotarsus isolate YGH71171 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227237.1	396	Kurixalus odontotarsus isolate YGH71170 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227236.1	396	Kurixalus odontotarsus isolate YGH090179 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227235.1	396	Kurixalus odontotarsus isolate YGH090177 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227234.1	396	Kurixalus odontotarsus isolate YGH090176 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227233.1	396	Kurixalus odontotarsus isolate YGH090175 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Kurixalus_odontotarsus	GU227232.1	396	Kurixalus odontotarsus isolate YGH090174 12S ribosomal RNA gene, partial sequence; mitochondrial

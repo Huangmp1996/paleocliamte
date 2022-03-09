@@ -1,0 +1,26 @@
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	DQ333809.1	16379	Batrachuperus londongensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	NC_008077.1	16379	Batrachuperus londongensis mitochondrion, complete genome
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304117.1	848	Batrachuperus londongensis isolate Hap72 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304116.1	848	Batrachuperus londongensis isolate Hap71 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304115.1	848	Batrachuperus londongensis isolate Hap70 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304114.1	848	Batrachuperus londongensis isolate Hap69 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304113.1	848	Batrachuperus londongensis isolate Hap68 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304112.1	848	Batrachuperus londongensis isolate Hap67 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304111.1	848	Batrachuperus londongensis isolate Hap66 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304110.1	848	Batrachuperus londongensis isolate Hap65 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304109.1	848	Batrachuperus londongensis isolate Hap64 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304108.1	848	Batrachuperus londongensis isolate Hap63 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304107.1	848	Batrachuperus londongensis isolate Hap62 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304106.1	848	Batrachuperus londongensis isolate Hap61 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304105.1	848	Batrachuperus londongensis isolate Hap60 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304104.1	848	Batrachuperus londongensis isolate Hap59 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304103.1	848	Batrachuperus londongensis isolate Hap58 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304102.1	848	Batrachuperus londongensis isolate Hap57 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304101.1	848	Batrachuperus londongensis isolate Hap56 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JQ304100.1	848	Batrachuperus londongensis isolate Hap55 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165905.1	467	Batrachuperus londongensis voucher XM1372 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165904.1	467	Batrachuperus londongensis voucher XM122 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165903.1	467	Batrachuperus londongensis voucher XM120 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165789.1	582	Batrachuperus londongensis voucher XM1372 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165788.1	582	Batrachuperus londongensis voucher XM122 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_londongensis	JN165787.1	582	Batrachuperus londongensis voucher XM120 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

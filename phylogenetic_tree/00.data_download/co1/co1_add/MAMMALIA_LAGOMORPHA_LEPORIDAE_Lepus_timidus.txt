@@ -1,0 +1,29 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	MN539745.2	16905	Lepus timidus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	KX859258.1	662	Lepus timidus voucher MGL-65 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233192.1	1450	Lepus timidus isolate T10 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233191.1	1450	Lepus timidus isolate T11 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233146.1	1450	Lepus timidus isolate T12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233143.1	1450	Lepus timidus isolate T19 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233141.1	1450	Lepus timidus isolate T9 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233138.1	1450	Lepus timidus isolate T14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233137.1	1450	Lepus timidus isolate T18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233136.1	1450	Lepus timidus isolate T16 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233135.1	1450	Lepus timidus isolate T8 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233134.1	1450	Lepus timidus isolate T5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233133.1	1450	Lepus timidus isolate T4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233132.1	1450	Lepus timidus isolate T6 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233131.1	1450	Lepus timidus isolate T3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233130.1	1450	Lepus timidus isolate T2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233129.1	1450	Lepus timidus isolate T13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233127.1	1450	Lepus timidus isolate T15 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233125.1	1450	Lepus timidus isolate T21 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233124.1	1450	Lepus timidus isolate T20 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	HM233122.1	1450	Lepus timidus isolate T7 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	KR019013.1	17762	Lepus timidus mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	KR030072.1	17749	Lepus timidus isolate LT20COM mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	KR030071.1	17746	Lepus timidus isolate 12XIU mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	KR030070.1	17748	Lepus timidus isolate LT004COM mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	KR030069.1	17744	Lepus timidus isolate LT228COM mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	KR013248.1	17759	Lepus timidus isolate LT3COM mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	NC_024040.1	17755	Lepus timidus haplotype tim mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_timidus	KJ397605.1	17755	Lepus timidus haplotype tim mitochondrion, complete genome

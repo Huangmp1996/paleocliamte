@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897763.1	1040	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897762.1	1134	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897761.1	1139	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897760.1	748	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897759.1	736	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897758.1	736	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897757.1	508	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897756.1	734	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897755.1	736	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897754.1	746	Tamias sibiricus partial Cytochrome b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897753.1	733	Tamias sibiricus partial Cytochrome b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LR897752.1	654	Tamias sibiricus partial Cytochrome-b gene intron
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109533.1	1140	Tamias sibiricus isolate HBSJ01_78-1217 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109532.1	1140	Tamias sibiricus isolate HBSJ02_76-1215 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109531.1	1140	Tamias sibiricus isolate HBSJ03_75-1214 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109530.1	1140	Tamias sibiricus isolate HBSJ04_76-1215 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109529.1	1140	Tamias sibiricus isolate HBSJ05_86-1225 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109528.1	1140	Tamias sibiricus isolate HBSJ06_97-1236 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109527.1	1140	Tamias sibiricus isolate HLLS02_83-1222 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109526.1	1140	Tamias sibiricus isolate HLLS03_82-1221 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109525.1	1140	Tamias sibiricus isolate HLLS04_101-1240 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109524.1	1140	Tamias sibiricus isolate HLLS05_87-1226 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109523.1	1140	Tamias sibiricus isolate JLCB01_99-1238 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109522.1	1140	Tamias sibiricus isolate JLCB02_84-1223 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109521.1	1140	Tamias sibiricus isolate JLCB03_89-1228 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109520.1	1140	Tamias sibiricus isolate JLCB04_88-1227 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109519.1	1140	Tamias sibiricus isolate NMAE01_97-1236 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109518.1	1140	Tamias sibiricus isolate NMAE02_82-1221 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109517.1	1140	Tamias sibiricus isolate NMAE03_85-1224 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109516.1	1140	Tamias sibiricus isolate NMAE04_87-1226 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109515.1	1140	Tamias sibiricus isolate NMHM01_89-1228 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109514.1	1140	Tamias sibiricus isolate NMHM02_87-1226 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109513.1	1140	Tamias sibiricus isolate NMHM03_82-1221 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109512.1	1140	Tamias sibiricus isolate NMHM04_98-1237 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109511.1	1140	Tamias sibiricus isolate NMHM05_87-1226 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MT109510.1	1140	Tamias sibiricus isolate NMHM06_87-1226 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	LC500171.1	1137	Tamias sibiricus mitochondrial cytb gene for cytochrome b, partial cds, note: sample name: OI9
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MH813286.1	1119	Tamias sibiricus isolate VPAM cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MH813285.1	1131	Tamias sibiricus isolate VADA2 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MH813284.1	1050	Tamias sibiricus isolate VADA1 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MH813283.1	738	Tamias sibiricus isolate SGT2 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MH813282.1	1071	Tamias sibiricus isolate SGT1 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MH813281.1	519	Tamias sibiricus isolate BL3 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MH813280.1	708	Tamias sibiricus isolate BL2 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	MH813279.1	708	Tamias sibiricus isolate BL1 cytochrome b (cyt b) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	KX989535.1	1131	Tamias sibiricus isolate MN10021 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	KX989534.1	1140	Tamias sibiricus isolate B107 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU051004.1	1140	Tamias sibiricus haplotype CH70 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU051003.1	1140	Tamias sibiricus haplotype CH40 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU051002.1	1140	Tamias sibiricus haplotype CH20 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU051001.1	1140	Tamias sibiricus haplotype CH17 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU051000.1	1140	Tamias sibiricus haplotype CH14 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU050999.1	1140	Tamias sibiricus haplotype CH13 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU050998.1	1140	Tamias sibiricus haplotype CH12 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU050997.1	1140	Tamias sibiricus haplotype CH11 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU050996.1	1140	Tamias sibiricus haplotype CH10 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU050995.1	1140	Tamias sibiricus haplotype CH07 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU050994.1	1140	Tamias sibiricus haplotype CH04 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU050993.1	1140	Tamias sibiricus haplotype CH02 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU050992.1	1140	Tamias sibiricus haplotype CH01 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	KX756227.1	399	Tamias sibiricus clone Pben2_30 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	KX756226.1	399	Tamias sibiricus clone Pben2_8 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	AF147667.1	1139	Tamias sibiricus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	AF147666.1	1139	Tamias sibiricus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754822.1	1140	Tamias sibiricus isolate cgrb2389 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754821.1	1140	Tamias sibiricus isolate cgrb3894 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754820.1	1140	Tamias sibiricus isolate cgrb3481 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754819.1	1140	Tamias sibiricus isolate cgrb3494 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754818.1	1140	Tamias sibiricus isolate cgrb3480 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754817.1	1140	Tamias sibiricus isolate cgrb3479 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754816.1	1140	Tamias sibiricus isolate cgrb3478 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754815.1	1140	Tamias sibiricus isolate cgrb3103 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754814.1	1140	Tamias sibiricus isolate cgrb4099 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754813.1	1140	Tamias sibiricus isolate cgrb4100 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754812.1	1140	Tamias sibiricus isolate cgrb4098 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754811.1	1140	Tamias sibiricus isolate cgrb2605 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754810.1	1140	Tamias sibiricus isolate cgrb4102 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754809.1	1140	Tamias sibiricus isolate cgrb290 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754808.1	1140	Tamias sibiricus isolate cgrb289 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754807.1	1140	Tamias sibiricus isolate cgrb288 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754806.1	1140	Tamias sibiricus isolate cgrb2125 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754805.1	1140	Tamias sibiricus isolate cgrb3407 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754804.1	1140	Tamias sibiricus isolate cgrb1975 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754803.1	1140	Tamias sibiricus isolate cgrb4103 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754802.1	1140	Tamias sibiricus isolate cgrb3750 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754801.1	1140	Tamias sibiricus isolate cgrb1567 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754800.1	1140	Tamias sibiricus isolate cgrb1276 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754799.1	1140	Tamias sibiricus isolate cgrb2096 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754798.1	1140	Tamias sibiricus isolate cgrb3510 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754797.1	1140	Tamias sibiricus isolate cgrb3814 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754796.1	1140	Tamias sibiricus isolate cgrb1151 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754795.1	1140	Tamias sibiricus isolate cgrb1129 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754794.1	1140	Tamias sibiricus isolate cgrb3346 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754793.1	1140	Tamias sibiricus isolate cgrb2134 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754792.1	1140	Tamias sibiricus isolate cgrb1145 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754791.1	1140	Tamias sibiricus isolate cgrb3815 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754790.1	1140	Tamias sibiricus isolate cgrb3714 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754789.1	1140	Tamias sibiricus isolate cgrb1267 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754788.1	1140	Tamias sibiricus isolate cgrb3653 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_SCIURIDAE_Eutamias_sibiricus	EU754787.1	1140	Tamias sibiricus isolate cgrb3345 cytochrome b (cytb) gene, complete cds; mitochondrial

@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MK461380.1	651	Phrynocephalus theobaldi isolate ABLRP027_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MK461379.1	418	Phrynocephalus theobaldi isolate ABLRP026_05 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MG257709.1	655	Phrynocephalus theobaldi voucher DW011XZ01002 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MG257708.1	655	Phrynocephalus theobaldi voucher DW011XZ01001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	KJ195936.1	1718	Phrynocephalus theobaldi voucher CAS:HERP:171730 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MF039063.1	16365	Phrynocephalus theobaldi theobaldi mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	MF039062.1	17129	Phrynocephalus theobaldi orientalis mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	KF691721.1	651	Phrynocephalus theobaldi voucher ZMMU R-10816 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_theobaldi	KJ551842.1	16608	Phrynocephalus theobaldi orientalis mitochondrion, complete genome

@@ -1,0 +1,10 @@
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580790.1	307	Atherurus macrourus isolate AM10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580789.1	307	Atherurus macrourus isolate AM09 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580788.1	307	Atherurus macrourus isolate AM08 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580787.1	307	Atherurus macrourus isolate AM07 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580786.1	307	Atherurus macrourus isolate AM06 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580785.1	307	Atherurus macrourus isolate AM05 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580784.1	307	Atherurus macrourus isolate AM04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580783.1	307	Atherurus macrourus isolate AM03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	KX580782.1	307	Atherurus macrourus isolate AM01 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_HYSTRICIDAE_Atherurus_macrourus	FJ931121.1	1140	Atherurus macrourus cytochrome b gene, complete cds; mitochondrial

@@ -1,0 +1,100 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	EU447106.1	846	Stachyris ruficeps bhamoensis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	NC_030771.1	16885	Stachyris ruficeps mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	KU362930.1	16885	Stachyris ruficeps mitochondrion, complete genome
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	DQ092876.1	1143	Stachyris ruficeps voucher GLGS494 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	AF376886.1	477	Stachyris ruficeps cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ529230.1	1040	Stachyris ruficeps voucher AMNH:DOT 5146 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	GU724400.1	1143	Stachyris ruficeps voucher KIZ:GLGS1396 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191346.1	938	Stachyris ruficeps isolate H76 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191345.1	938	Stachyris ruficeps isolate H75 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191344.1	938	Stachyris ruficeps isolate H74 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191343.1	938	Stachyris ruficeps isolate H73 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191342.1	938	Stachyris ruficeps isolate H72 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191341.1	938	Stachyris ruficeps isolate H71 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191340.1	938	Stachyris ruficeps isolate H70 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191339.1	938	Stachyris ruficeps isolate H69 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191338.1	938	Stachyris ruficeps isolate H68 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191337.1	938	Stachyris ruficeps isolate H67 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191336.1	938	Stachyris ruficeps isolate H66 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191335.1	938	Stachyris ruficeps isolate H65 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191334.1	938	Stachyris ruficeps isolate H64 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191333.1	938	Stachyris ruficeps isolate H63 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191332.1	938	Stachyris ruficeps isolate H62 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191331.1	938	Stachyris ruficeps isolate H61 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191330.1	938	Stachyris ruficeps isolate H60 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191329.1	938	Stachyris ruficeps isolate H59 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191328.1	938	Stachyris ruficeps isolate H58 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191327.1	938	Stachyris ruficeps isolate H57 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191326.1	938	Stachyris ruficeps isolate H56 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191325.1	938	Stachyris ruficeps isolate H55 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191324.1	938	Stachyris ruficeps isolate H54 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191323.1	938	Stachyris ruficeps isolate H53 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191322.1	938	Stachyris ruficeps isolate H52 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191321.1	938	Stachyris ruficeps isolate H51 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191320.1	938	Stachyris ruficeps isolate H50 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191319.1	938	Stachyris ruficeps isolate H49 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191318.1	938	Stachyris ruficeps isolate H48 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191317.1	938	Stachyris ruficeps isolate H47 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191316.1	938	Stachyris ruficeps isolate H46 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191315.1	938	Stachyris ruficeps isolate H45 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191314.1	938	Stachyris ruficeps isolate H44 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191313.1	938	Stachyris ruficeps isolate H43 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191312.1	938	Stachyris ruficeps isolate H42 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191311.1	938	Stachyris ruficeps isolate H41 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191310.1	938	Stachyris ruficeps isolate H40 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191309.1	938	Stachyris ruficeps isolate H39 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191308.1	938	Stachyris ruficeps isolate H38 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191307.1	938	Stachyris ruficeps isolate H37 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191306.1	938	Stachyris ruficeps isolate H36 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191305.1	938	Stachyris ruficeps isolate H35 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191304.1	938	Stachyris ruficeps isolate H34 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191303.1	938	Stachyris ruficeps isolate H33 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191302.1	938	Stachyris ruficeps isolate H32 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191301.1	938	Stachyris ruficeps isolate H31 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191300.1	938	Stachyris ruficeps isolate H30 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191299.1	938	Stachyris ruficeps isolate H29 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191298.1	938	Stachyris ruficeps isolate H28 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191297.1	938	Stachyris ruficeps isolate H27 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191296.1	938	Stachyris ruficeps isolate H26 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191295.1	938	Stachyris ruficeps isolate H25 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191294.1	938	Stachyris ruficeps isolate H24 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191293.1	938	Stachyris ruficeps isolate H23 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191292.1	938	Stachyris ruficeps isolate H22 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191291.1	938	Stachyris ruficeps isolate H21 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191290.1	938	Stachyris ruficeps isolate H20 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191289.1	938	Stachyris ruficeps isolate H19 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191288.1	938	Stachyris ruficeps isolate H18 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191287.1	938	Stachyris ruficeps isolate H17 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191286.1	938	Stachyris ruficeps isolate H16 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191285.1	938	Stachyris ruficeps isolate H15 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191284.1	938	Stachyris ruficeps isolate H14 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191283.1	938	Stachyris ruficeps isolate H13 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191282.1	938	Stachyris ruficeps isolate H12 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191281.1	938	Stachyris ruficeps isolate H11 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191280.1	938	Stachyris ruficeps isolate H10 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191279.1	938	Stachyris ruficeps isolate H9 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191278.1	938	Stachyris ruficeps isolate H8 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191277.1	938	Stachyris ruficeps isolate H7 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191276.1	938	Stachyris ruficeps isolate H6 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191275.1	938	Stachyris ruficeps isolate H5 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191274.1	938	Stachyris ruficeps isolate H4 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191273.1	938	Stachyris ruficeps isolate H3 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191272.1	938	Stachyris ruficeps isolate H2 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HM191271.1	938	Stachyris ruficeps isolate H1 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	DQ837526.1	1143	Stachyris ruficeps voucher GLGS494 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	KJ456476.1	1143	Stachyris ruficeps voucher CAS:95878 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917501.1	938	Stachyris ruficeps haplotype H104 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917500.1	938	Stachyris ruficeps haplotype H103 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917499.1	938	Stachyris ruficeps haplotype H102 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917498.1	938	Stachyris ruficeps haplotype H101 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917497.1	938	Stachyris ruficeps haplotype H100 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917496.1	938	Stachyris ruficeps haplotype H99 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917495.1	938	Stachyris ruficeps haplotype H98 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917494.1	938	Stachyris ruficeps haplotype H97 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917493.1	938	Stachyris ruficeps haplotype H96 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917492.1	938	Stachyris ruficeps haplotype H95 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917491.1	938	Stachyris ruficeps haplotype H94 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917490.1	938	Stachyris ruficeps haplotype H93 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917489.1	938	Stachyris ruficeps haplotype H92 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917488.1	938	Stachyris ruficeps haplotype H91 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ917487.1	938	Stachyris ruficeps haplotype H90 cytochrome b (cytb) gene, partial cds; mitochondrial

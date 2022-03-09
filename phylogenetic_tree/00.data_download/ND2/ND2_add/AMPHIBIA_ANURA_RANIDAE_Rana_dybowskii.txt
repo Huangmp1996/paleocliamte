@@ -1,0 +1,3 @@
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KX269404.1	984	Rana dybowskii isolate MSUZP-IVM-1d NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	NC_023528.1	18864	Rana dybowskii mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Rana_dybowskii	KF898355.1	18864	Rana dybowskii mitochondrion, complete genome

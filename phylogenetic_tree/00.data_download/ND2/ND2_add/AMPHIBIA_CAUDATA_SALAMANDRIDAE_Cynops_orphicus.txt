@@ -1,0 +1,2 @@
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orphicus	DQ517772.1	2701	Cynops orphicus voucher TP26273 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orphicus	EU880312.1	16296	Cynops orphicus mitochondrion, partial genome

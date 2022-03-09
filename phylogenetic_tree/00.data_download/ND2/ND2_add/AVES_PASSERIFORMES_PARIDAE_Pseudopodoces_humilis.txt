@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	NC_014341.1	16809	Pseudopodoces humilis mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	KJ455607.1	1041	Pseudopodoces humilis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	KP001174.1	16758	Pseudopodoces humilis voucher IOZ4783 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	KF183833.1	1041	Pseudopodoces humilis voucher IOZ N2004 NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Pseudopodoces_humilis	HM535648.1	16809	Pseudopodoces humilis mitochondrion, complete genome

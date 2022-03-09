@@ -1,0 +1,19 @@
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	MG279351.1	17047	Lepus yarkandensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	NC_050569.1	17011	Lepus yarkandensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	MN450151.1	17011	Lepus yarkandensis mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233190.1	1450	Lepus yarkandensis isolate Y15 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233189.1	1450	Lepus yarkandensis isolate Y7 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233188.1	1450	Lepus yarkandensis isolate Y6 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233187.1	1450	Lepus yarkandensis isolate Y9 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233186.1	1450	Lepus yarkandensis isolate Y2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233185.1	1450	Lepus yarkandensis isolate Y5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233184.1	1450	Lepus yarkandensis isolate Y4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233183.1	1450	Lepus yarkandensis isolate Y13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233182.1	1450	Lepus yarkandensis isolate Y8 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233181.1	1450	Lepus yarkandensis isolate Y11 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233180.1	1450	Lepus yarkandensis isolate Y14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233179.1	1450	Lepus yarkandensis isolate Y10 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233178.1	1450	Lepus yarkandensis isolate Y12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233177.1	1450	Lepus yarkandensis isolate Y1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	HM233176.1	1450	Lepus yarkandensis isolate Y3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_yarkandensis	KF153031.1	645	Lepus yarkandensis voucher JW87 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	NC_043948.1	16963	Dicrurus hottentottus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MK814795.1	16963	Dicrurus hottentottus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	EF422250.1	1176	Dicrurus hottentottus cytohrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	JQ174692.1	652	Dicrurus hottentottus voucher USNM:Birds:620318 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	JQ174691.1	652	Dicrurus hottentottus voucher USNM:Birds:620316 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

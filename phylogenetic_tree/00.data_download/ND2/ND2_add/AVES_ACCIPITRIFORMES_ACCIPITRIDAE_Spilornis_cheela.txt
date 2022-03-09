@@ -1,0 +1,4 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Spilornis_cheela	JN191388.1	18291	Spilornis cheela mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Spilornis_cheela	AY987069.1	1041	Spilornis cheela burmanicus voucher UMMZ 140566 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Spilornis_cheela	DQ660379.1	1041	Spilornis cheela hoya NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Spilornis_cheela	NC_015887.1	18291	Spilornis cheela mitochondrion, complete genome

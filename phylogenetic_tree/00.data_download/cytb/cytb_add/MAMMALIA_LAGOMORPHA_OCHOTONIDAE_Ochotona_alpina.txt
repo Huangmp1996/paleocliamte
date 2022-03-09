@@ -1,0 +1,20 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	KY024886.1	1116	Ochotona alpina isolate P6 cytochrome b (CYTB) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	AY056605.1	402	Ochotona alpina cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	EF567055.1	1140	Ochotona alpina voucher S-171510 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335517.1	719	Ochotona alpina isolate ABPS039-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335516.1	719	Ochotona alpina isolate ABPS038-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335515.1	719	Ochotona alpina isolate ABPS037-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335514.1	719	Ochotona alpina isolate ABPS036-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335513.1	719	Ochotona alpina isolate ABPS035-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335512.1	719	Ochotona alpina isolate ABPS034-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335511.1	719	Ochotona alpina isolate ABPS033-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335510.1	719	Ochotona alpina isolate ABPS032-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335509.1	719	Ochotona alpina isolate ABPS031-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335508.1	674	Ochotona alpina isolate ABPS030-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335487.1	719	Ochotona alpina isolate ABPS006-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	DQ335482.1	719	Ochotona alpina isolate ABPS001-04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	AF273009.1	1140	Ochotona alpina cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	HM346529.1	1140	Ochotona alpina scorodumovi isolate FGS408 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	HM346528.1	1140	Ochotona alpina isolate FGS32 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	HM346527.1	1140	Ochotona alpina isolate FGS187 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_alpina	HM594688.1	506	Ochotona alpina cytochrome b (cytb) gene, partial cds; mitochondrial

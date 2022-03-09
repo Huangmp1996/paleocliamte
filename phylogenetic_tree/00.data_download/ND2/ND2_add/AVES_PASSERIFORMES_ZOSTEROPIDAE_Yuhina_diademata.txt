@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	FJ460781.1	1041	Yuhina diademata voucher KUNHM 11118 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	NC_029462.1	17834	Yuhina diademata mitochondrion, complete genome
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	KT783535.1	17834	Yuhina diademata mitochondrion, complete genome
+AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	GU724480.1	1041	Yuhina diademata voucher KIZ:GLGS2247 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

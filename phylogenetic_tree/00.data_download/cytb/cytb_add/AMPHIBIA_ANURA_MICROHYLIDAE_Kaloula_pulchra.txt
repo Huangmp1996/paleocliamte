@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	KY132258.1	1215	Kaloula pulchra voucher KU328278 mitochondrion, partial genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	AY458595.1	16818	Kaloula pulchra mitochondrion, complete genome
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	AB819033.1	564	Kaloula pulchra mitochondrial Cytb gene for cytochrome b, partial cds, specimen_voucher: IABHU<JPN>:3781
+AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_pulchra	NC_006405.1	16818	Kaloula pulchra mitochondrion, complete genome

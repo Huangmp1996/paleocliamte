@@ -1,0 +1,77 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	NC_053063.1	16928	Pycnonotus jocosus mitochondrion, complete genome
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	MN356264.1	16928	Pycnonotus jocosus mitochondrion, complete genome
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	MG762113.1	1041	Pycnonotus jocosus voucher MNHN ZO 2013-199 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530027.1	564	Pycnonotus jocosus voucher VM:B926 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530026.1	564	Pycnonotus jocosus voucher VM:B924 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530025.1	564	Pycnonotus jocosus voucher UMMZ:209114 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530024.1	564	Pycnonotus jocosus voucher UMMZ:185261 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530023.1	564	Pycnonotus jocosus voucher UMMZ:185260 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530022.1	564	Pycnonotus jocosus voucher UMMZ:185227 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530021.1	564	Pycnonotus jocosus voucher UMMZ:185226 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530020.1	564	Pycnonotus jocosus voucher UMMZ:98282 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530019.1	564	Pycnonotus jocosus voucher Reunion 167 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530018.1	564	Pycnonotus jocosus voucher Reunion 159 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530017.1	564	Pycnonotus jocosus voucher Reunion 155 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530016.1	564	Pycnonotus jocosus voucher Reunion 21 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530015.1	564	Pycnonotus jocosus voucher Reunion 20 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530014.1	564	Pycnonotus jocosus voucher Reunion 19 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530013.1	564	Pycnonotus jocosus voucher Reunion 18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530012.1	564	Pycnonotus jocosus voucher Reunion 17 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530011.1	564	Pycnonotus jocosus voucher MNHN:2001.1466 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530010.1	564	Pycnonotus jocosus voucher MNHN:31.74 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530009.1	564	Pycnonotus jocosus voucher MNHN:4.4C NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530008.1	564	Pycnonotus jocosus voucher MNHN:4.4B NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530007.1	564	Pycnonotus jocosus voucher Maurice IA02 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530006.1	564	Pycnonotus jocosus voucher Maurice IA01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530005.1	564	Pycnonotus jocosus voucher Maurice C07 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530004.1	564	Pycnonotus jocosus voucher Maurice C06 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530003.1	564	Pycnonotus jocosus voucher Maurice C05 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530002.1	564	Pycnonotus jocosus voucher Maurice B09 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530001.1	564	Pycnonotus jocosus voucher Maurice B08 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX530000.1	564	Pycnonotus jocosus voucher Maurice B07 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529999.1	564	Pycnonotus jocosus voucher Hawaii PC10 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529998.1	564	Pycnonotus jocosus voucher Hawaii PC09 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529997.1	564	Pycnonotus jocosus voucher Hawaii PC08 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529996.1	564	Pycnonotus jocosus voucher Hawaii PC07 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529995.1	564	Pycnonotus jocosus voucher Hawaii PC04 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529994.1	564	Pycnonotus jocosus voucher Hawaii PC03 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529993.1	564	Pycnonotus jocosus voucher Hawaii PC02 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529992.1	564	Pycnonotus jocosus voucher Hawaii PC01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529991.1	564	Pycnonotus jocosus voucher Hawaii Ka01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529990.1	564	Pycnonotus jocosus voucher Hawaii K09 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529989.1	564	Pycnonotus jocosus voucher Hawaii K08 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529988.1	564	Pycnonotus jocosus voucher Hawaii K07 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529987.1	564	Pycnonotus jocosus voucher Hawaii K06 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529986.1	564	Pycnonotus jocosus voucher Hawaii K05 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529985.1	564	Pycnonotus jocosus voucher Hawaii K04 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529984.1	564	Pycnonotus jocosus voucher Hawaii K03 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529983.1	564	Pycnonotus jocosus voucher Hawaii K02 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529982.1	564	Pycnonotus jocosus voucher Hawaii K01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529981.1	564	Pycnonotus jocosus voucher FMNH:279282 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529980.1	564	Pycnonotus jocosus voucher FMNH:237201 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529979.1	564	Pycnonotus jocosus voucher FMNH:237196 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529978.1	564	Pycnonotus jocosus voucher FMNH:237194 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529977.1	564	Pycnonotus jocosus voucher CAS 89527 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529976.1	564	Pycnonotus jocosus voucher BMNH:1949.1.14371 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529975.1	564	Pycnonotus jocosus voucher BMNH:1949.1.14358 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529974.1	564	Pycnonotus jocosus voucher BMNH:1948.80.1252 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529973.1	564	Pycnonotus jocosus voucher BMNH:1948.80.1239 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529972.1	564	Pycnonotus jocosus voucher BMNH:1938.7.15.971 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529971.1	564	Pycnonotus jocosus voucher BMNH:1937.12.21.290 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529970.1	564	Pycnonotus jocosus voucher BMNH:1932.5.14.204 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529969.1	564	Pycnonotus jocosus voucher BMNH:1932.5.14.203 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529968.1	564	Pycnonotus jocosus voucher BMNH:1914.5.6.662 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529967.1	564	Pycnonotus jocosus voucher BMNH:1905.2.1.384 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529966.1	564	Pycnonotus jocosus voucher BMNH:1898.10.2.168 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529965.1	564	Pycnonotus jocosus voucher BMNH:1886.9.1.2505 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529964.1	564	Pycnonotus jocosus voucher AM O.72754 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529963.1	564	Pycnonotus jocosus voucher AM O.71663 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529962.1	564	Pycnonotus jocosus voucher AM O.62732 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529961.1	564	Pycnonotus jocosus voucher AM O.59906 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KX529960.1	564	Pycnonotus jocosus voucher AM O.43790 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	GU170352.1	1041	Pycnonotus jocosus voucher S00101 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	GQ242077.1	1041	Pycnonotus jocosus voucher NRM 20046820 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	GU112670.1	1041	Pycnonotus jocosus voucher KU10347 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KP943378.1	900	Pycnonotus jocosus voucher MTD C61742 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KP943374.1	315	Pycnonotus jocosus emeria voucher USNM585418 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_jocosus	KJ455617.1	1030	Pycnonotus jocosus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

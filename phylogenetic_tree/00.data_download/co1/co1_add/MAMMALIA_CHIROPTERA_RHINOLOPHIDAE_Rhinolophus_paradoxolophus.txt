@@ -1,0 +1,56 @@
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	MG765745.1	657	Rhinolophus paradoxolophus isolate GX08009 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	MG765740.1	657	Rhinolophus paradoxolophus isolate VN09033 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	MG765739.1	657	Rhinolophus paradoxolophus isolate 25003 cytochrome oxidase c subunit 1 (CO1) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541672.1	657	Rhinolophus paradoxolophus voucher CMF980214-18 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541671.1	657	Rhinolophus paradoxolophus voucher ROM MAM 118086 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541670.1	643	Rhinolophus paradoxolophus voucher ROM MAM 118039 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541669.1	645	Rhinolophus paradoxolophus voucher ROM MAM 118081 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541668.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106199 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541667.1	657	Rhinolophus paradoxolophus voucher ROM MAM 112379 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541666.1	644	Rhinolophus paradoxolophus voucher ROM MAM 116116 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541665.1	657	Rhinolophus paradoxolophus voucher ROM MAM F42600 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541664.1	657	Rhinolophus paradoxolophus voucher ROM MAM F42602 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541663.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107669 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541662.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107716 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541661.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107717 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541660.1	657	Rhinolophus paradoxolophus voucher ROM MAM 117770 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541659.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107591 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541658.1	639	Rhinolophus paradoxolophus voucher ROM MAM 107592 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541657.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107620 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541656.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107621 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541655.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107622 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541654.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107623 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541653.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107624 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541652.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107626 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541651.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107627 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541650.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107628 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541649.1	653	Rhinolophus paradoxolophus voucher ROM MAM 107629 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541648.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107630 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541647.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107631 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541646.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107646 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541645.1	657	Rhinolophus paradoxolophus voucher ROM MAM 107647 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541644.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106176 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541643.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106177 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541642.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106184 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541641.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106187 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541640.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106188 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541639.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106192 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541638.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106194 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541637.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106195 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541636.1	640	Rhinolophus paradoxolophus voucher ROM MAM 106197 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541635.1	657	Rhinolophus paradoxolophus voucher ROM MAM 106198 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	HM541634.1	654	Rhinolophus paradoxolophus voucher EBD 24973 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	FJ840484.1	514	Rhinolophus paradoxolophus haplotype GZNU20060919002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JQ600022.1	657	Rhinolophus paradoxolophus voucher ROM:118516 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JQ600020.1	657	Rhinolophus paradoxolophus voucher ROM:118509 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JQ600016.1	657	Rhinolophus paradoxolophus voucher ROM:118487 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JQ600015.1	657	Rhinolophus paradoxolophus voucher ROM:118486 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JQ600014.1	657	Rhinolophus paradoxolophus voucher ROM:118485 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JF444060.1	657	Rhinolophus paradoxolophus voucher ROM 118088 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JF444059.1	657	Rhinolophus paradoxolophus voucher ROM 118587 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JF444058.1	657	Rhinolophus paradoxolophus voucher ROM 118479 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JF444057.1	657	Rhinolophus paradoxolophus voucher ROM 118488 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JF444056.1	656	Rhinolophus paradoxolophus voucher ROM 118522 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JF444055.1	657	Rhinolophus paradoxolophus voucher ROM 118523 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JF444054.1	657	Rhinolophus paradoxolophus voucher ROM 118541 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_paradoxolophus	JF444053.1	657	Rhinolophus paradoxolophus voucher ROM 107625 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

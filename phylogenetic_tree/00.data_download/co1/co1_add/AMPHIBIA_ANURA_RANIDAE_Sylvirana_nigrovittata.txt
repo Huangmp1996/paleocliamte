@@ -1,0 +1,22 @@
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	MG935707.1	655	Sylvirana nigrovittata voucher USNM:Herp:583176 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	MG935706.1	655	Sylvirana nigrovittata voucher USNM:Herp:583174 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	MG935705.1	655	Sylvirana nigrovittata voucher USNM:Herp:583178 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	MG386468.1	629	Sylvirana nigrovittata voucher FRIM:HZF00345 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	MG386467.1	632	Sylvirana nigrovittata voucher FRIM:HZF00339 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	MG386466.1	616	Sylvirana nigrovittata voucher FRIM:HZF00349 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087731.1	705	Sylvirana nigrovittata voucher TAD_P908 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087727.1	705	Sylvirana menglaensis voucher 2004.0393 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087726.1	705	Sylvirana menglaensis voucher 2004.0398 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087725.1	705	Sylvirana menglaensis voucher 2006.2444 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087724.1	705	Sylvirana menglaensis voucher K3018 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087723.1	705	Sylvirana menglaensis voucher K3124 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087722.1	705	Sylvirana menglaensis voucher 0075Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087721.1	705	Sylvirana menglaensis voucher 0019Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087720.1	705	Sylvirana menglaensis voucher 0229Y cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087719.1	705	Sylvirana menglaensis voucher 2006.2569 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087718.1	705	Sylvirana menglaensis voucher 2005.0214 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087717.1	705	Sylvirana menglaensis voucher 2005.0218 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087716.1	705	Sylvirana menglaensis voucher 2004.0387 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KR087715.1	705	Sylvirana menglaensis voucher 2004.0391 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KF771340.1	976	Hylarana nigrovittata tRNA-Trp (trnW) gene, partial sequence; tRNA-Ala (trnA), tRNA-Asn (trnN), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	JN700813.1	602	Rana nigrovittata voucher KIZ01523 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

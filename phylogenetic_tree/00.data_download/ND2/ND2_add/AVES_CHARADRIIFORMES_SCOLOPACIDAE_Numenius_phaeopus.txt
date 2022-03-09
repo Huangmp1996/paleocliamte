@@ -1,0 +1,13 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM776969.1	1037	Numenius phaeopus variegatus voucher UAM:14625 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM776968.1	1037	Numenius phaeopus variegatus voucher UAM:14231 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM776967.1	1037	Numenius phaeopus variegatus voucher UAM:11351 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM640842.1	640	Numenius phaeopus variegatus isolate UAM14227 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM640841.1	714	Numenius phaeopus variegatus isolate UAM14223 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM640840.1	1037	Numenius phaeopus variegatus isolate UAM14229 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM640839.1	1037	Numenius phaeopus variegatus isolate UAM14230 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM640838.1	1037	Numenius phaeopus variegatus isolate UAM14225 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM640837.1	1037	Numenius phaeopus variegatus isolate UAM10049 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	HM640836.1	1037	Numenius phaeopus variegatus isolate UAM9426 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	NC_030507.1	17091	Numenius phaeopus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	KP308149.1	17091	Numenius phaeopus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	KC969112.1	984	Numenius phaeopus variegatus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

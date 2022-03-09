@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_exiliversabilis	NC_053712.1	17122	Odorrana exiliversabilis voucher LSU20200716WY02 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_exiliversabilis	MT934403.1	17122	Odorrana exiliversabilis voucher LSU20200716WY02 mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_exiliversabilis	MH923369.1	561	Odorrana exiliversabilis 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_exiliversabilis	MT998493.1	947	Odorrana exiliversabilis isolate OE01 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_exiliversabilis	KF185056.1	1054	Odorrana exiliversabilis voucher HNNU 0607032 16S ribosomal RNA gene, partial sequence; mitochondrial

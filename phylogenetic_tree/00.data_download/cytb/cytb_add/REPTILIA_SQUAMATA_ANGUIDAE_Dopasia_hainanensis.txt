@@ -1,0 +1,4 @@
+REPTILIA_SQUAMATA_ANGUIDAE_Dopasia_hainanensis	NC_057268.1	17000	Dopasia hainanensis voucher CB2018037 mitochondrion, complete genome
+REPTILIA_SQUAMATA_ANGUIDAE_Dopasia_hainanensis	MN640999.1	17000	Dopasia hainanensis voucher CB2018037 mitochondrion, complete genome
+REPTILIA_SQUAMATA_ANGUIDAE_Dopasia_hainanensis	MK107688.1	805	Dopasia hainanensis voucher MVZ 230055 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ANGUIDAE_Dopasia_hainanensis	MK107687.1	805	Dopasia hainanensis voucher MVZ 224111 cytochrome b gene, partial cds; mitochondrial

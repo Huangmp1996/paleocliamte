@@ -1,0 +1,6 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Scincella_modesta	MN702771.1	17466	Scincella modesta mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Scincella_modesta	NC_048521.1	17511	Scincella modesta mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Scincella_modesta	MN786972.1	17511	Scincella modesta mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Scincella_modesta	AB818839.1	1041	Scincella modesta mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher: KUZ: R38609
+REPTILIA_SQUAMATA_SCINCIDAE_Scincella_modesta	AB818838.1	1041	Scincella modesta mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher: KUZ: R38608
+REPTILIA_SQUAMATA_SCINCIDAE_Scincella_modesta	AB818837.1	1041	Scincella modesta mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher: KUZ: R38607

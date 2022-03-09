@@ -1,0 +1,15 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	HM380214.1	657	Microtus arvalis voucher NOMAM-057 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	HM380213.1	657	Microtus arvalis voucher NOMAM-056 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	NC_038176.1	16285	Microtus arvalis voucher 15-006 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	MG948434.1	16285	Microtus arvalis voucher 15-006 mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	JF499317.1	657	Microtus arvalis voucher ZMMU 07AAL-087 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	JF499316.1	657	Microtus arvalis voucher ZMMU 07AAL-105 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	JF499315.1	657	Microtus arvalis voucher ZMMU 07AAL-106 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	JF499314.1	657	Microtus arvalis voucher ZMMU AALS-655 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	KP190312.1	1542	Microtus arvalis isolate XJ291 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	KP190311.1	1542	Microtus arvalis isolate XJ234 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	KP190310.1	1542	Microtus arvalis isolate XJ201 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	KP190309.1	1542	Microtus arvalis isolate XJ194 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	KP190308.1	1542	Microtus arvalis isolate XJ153 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	AY332683.1	439	Microtus arvalis specimen-voucher P11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_RODENTIA_CRICETIDAE_Microtus_arvalis	AY332682.1	439	Microtus arvalis specimen-voucher P06 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product

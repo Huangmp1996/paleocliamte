@@ -1,0 +1,10 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	HQ529235.1	1040	Xiphirhynchus superciliaris voucher MNHN:7.07 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	HQ529234.1	1040	Xiphirhynchus superciliaris voucher USNM:585863 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	HQ529233.1	1040	Xiphirhynchus superciliaris voucher USNM:585853 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	GU724381.1	1143	Xiphirhynchus superciliaris forresti voucher KIZ:ALS149 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	GU724380.1	1143	Xiphirhynchus superciliaris forresti voucher KIZ:GLGS5003 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	GU724379.1	1143	Xiphirhynchus superciliaris forresti voucher KIZ:04126 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	AF484883.1	681	Xiphirhynchus superciliaris cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	KJ456509.1	1053	Xiphirhynchus superciliaris voucher CAS:95887 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	JN827229.1	967	Xiphirhynchus superciliaris voucher CAS 95887 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	JN827228.1	1143	Xiphirhynchus superciliaris voucher KUNHM 15092 cytochrome b (CYTB) gene, complete cds; mitochondrial

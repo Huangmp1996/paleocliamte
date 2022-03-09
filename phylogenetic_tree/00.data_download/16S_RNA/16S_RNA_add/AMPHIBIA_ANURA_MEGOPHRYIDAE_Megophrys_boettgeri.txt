@@ -1,0 +1,27 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MW001161.1	527	Megophrys boettgeri voucher CIBQY20200718006 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MW001160.1	527	Megophrys boettgeri voucher CIBQY20200718004 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MH923366.1	540	Megophrys boettgeri 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MH406786.1	536	Megophrys boettgeri isolate 4127 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MH406785.1	536	Megophrys boettgeri isolate 4126 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MH406695.1	536	Megophrys boettgeri isolate 2481 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MN563763.1	527	Megophrys boettgeri voucher CIBWY18082603 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MN563762.1	527	Megophrys boettgeri voucher CIBWY18082307 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856390.1	537	Megophrys boettgeri isolate KRM9 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856389.1	536	Megophrys boettgeri isolate KRM8 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856388.1	537	Megophrys boettgeri isolate KRM5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856387.1	537	Megophrys boettgeri isolate KRM4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856386.1	537	Megophrys boettgeri isolate KRM3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856385.1	537	Megophrys boettgeri isolate KRM12 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856384.1	537	Megophrys boettgeri isolate KRM11 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856383.1	537	Megophrys boettgeri isolate KRM10 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX856382.1	496	Megophrys boettgeri isolate HAD35 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MF667880.1	536	Xenophrys boettgeri voucher SYS a4151 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MF667879.1	536	Xenophrys boettgeri voucher SYS a004150 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	MF667878.1	536	Xenophrys boettgeri voucher SYS a004149 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX811815.1	527	Xenophrys boettgeri isolate KIZFJ08080223 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KX811814.1	527	Xenophrys boettgeri isolate YPXJK033 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KJ560382.1	563	Xenophrys boettgeri voucher SYS a001700 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KJ560381.1	562	Xenophrys boettgeri voucher SYS a001683 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KJ560380.1	561	Xenophrys boettgeri voucher SYS a001673 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	KJ560379.1	406	Xenophrys boettgeri voucher SYS a000378 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_boettgeri	JX867340.1	406	Xenophrys boettgeri isolate SYSA0000378 16S ribosomal RNA gene, partial sequence; mitochondrial

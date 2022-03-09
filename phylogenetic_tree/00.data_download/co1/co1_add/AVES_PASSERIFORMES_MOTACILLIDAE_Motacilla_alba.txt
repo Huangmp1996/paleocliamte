@@ -1,0 +1,39 @@
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	MW929091.1	16835	Motacilla alba mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	MN356232.1	16828	Motacilla alba mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	KY754516.1	697	Motacilla alba voucher Bird11 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	MF580192.1	658	Motacilla alba voucher USNM:Birds:653293 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	KU722396.1	657	Motacilla alba voucher USNM:Birds:647892 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	KT803656.1	648	Motacilla alba isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	FJ465345.1	612	Motacilla alba voucher NRM 20016303 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	NC_029229.1	16826	Motacilla alba mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	KT736087.1	16826	Motacilla alba mitochondrion, complete genome
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	KP252220.1	666	Motacilla alba voucher USNM645855 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	KP252219.1	658	Motacilla alba voucher USNM 645855 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AB843603.1	676	Motacilla alba mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO254-10
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AB843602.1	676	Motacilla alba mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO219-10
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AB843601.1	688	Motacilla alba mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO445-10
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	AB842949.1	667	Motacilla alba mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM476-10
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	JF499144.1	689	Motacilla alba voucher USNM:641879 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	JF498799.1	532	Motacilla alba voucher USNM 641348 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	JF498798.1	667	Motacilla alba voucher USNM 641349 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GU571983.1	648	Motacilla alba voucher BISE-Aves23 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GU571982.1	648	Motacilla alba voucher BISE-Aves453 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GU571487.1	750	Motacilla alba voucher NHMO-BC264 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GU571486.1	740	Motacilla alba voucher NHMO-BC248 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482191.1	538	Motacilla alba voucher UWBM 43837 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482190.1	694	Motacilla alba voucher ZMMU RYA 1653 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482189.1	694	Motacilla alba voucher ZMMU RYA 1636 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482188.1	694	Motacilla alba voucher ZMMU RYA 1635 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482187.1	694	Motacilla alba voucher UWBM 49417 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482186.1	694	Motacilla alba voucher UWBM 46419 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482185.1	694	Motacilla alba voucher UWBM 49718 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482184.1	694	Motacilla alba voucher UWBM 49525 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482183.1	694	Motacilla alba voucher UWBM 46991 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482182.1	694	Motacilla alba voucher UWBM 47243 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482181.1	694	Motacilla alba voucher UWBM 44605 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482180.1	688	Motacilla alba voucher UWBM 46962 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	GQ482179.1	694	Motacilla alba voucher ZMMU RYA 1632 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	DQ433816.1	681	Motacilla alba voucher UWBM 46304 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	DQ433815.1	657	Motacilla alba voucher USNM 627657 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	DQ433814.1	672	Motacilla alba voucher UWBM 51070 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	DQ433813.1	617	Motacilla alba voucher UWBM 43820 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

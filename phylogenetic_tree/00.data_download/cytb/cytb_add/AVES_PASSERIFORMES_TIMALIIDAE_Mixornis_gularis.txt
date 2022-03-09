@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_TIMALIIDAE_Mixornis_gularis	AF376892.1	477	Macronous gularis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_TIMALIIDAE_Mixornis_gularis	HQ529139.1	1040	Macronous gularis voucher LSU:B46955 cytochrome b (CYTB) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Mixornis_gularis	GU724398.1	1143	Macronous gularis voucher KIZ:PE087 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Mixornis_gularis	KJ456330.1	1143	Macronous gularis cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Mixornis_gularis	JN827096.1	1143	Macronous gularis voucher AMNH DOT10805 cytochrome b (CYTB) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_TIMALIIDAE_Mixornis_gularis	JN827095.1	1143	Macronous gularis voucher KUNHM 17726 cytochrome b (CYTB) gene, complete cds; mitochondrial

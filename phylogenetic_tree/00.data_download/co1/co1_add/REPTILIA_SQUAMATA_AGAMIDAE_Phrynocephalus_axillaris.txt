@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	MK461349.1	578	Phrynocephalus axillaris isolate d4 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	MK461348.1	578	Phrynocephalus axillaris isolate d5 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	MK461347.1	565	Phrynocephalus axillaris isolate d3 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	MK461346.1	578	Phrynocephalus axillaris isolate d2 cytochrome c oxidase I subunit (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	MK284224.1	15883	Phrynocephalus axillaris mitochondrion, partial genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	MG257705.1	611	Phrynocephalus axillaris voucher DW009YC01001 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	KC119493.1	17937	Phrynocephalus axillaris mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	KJ195924.1	1709	Phrynocephalus axillaris voucher MVZ:Herp:208887 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	NC_020340.1	17937	Phrynocephalus axillaris mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_axillaris	KF691724.1	651	Phrynocephalus axillaris voucher ZMMU R-12302 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,44 @@
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	Z48776.1	1143	A.magna mitochondrial gene for cytochrome b
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EU839473.1	1143	Alectoris magna voucher 406 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727950.1	807	Alectoris magna haplotype CYTB-H13 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727949.1	807	Alectoris magna haplotype CYTB-H12 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727948.1	807	Alectoris magna haplotype CYTB-H11 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727947.1	807	Alectoris magna haplotype CYTB-H10 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727946.1	807	Alectoris magna haplotype CYTB-H9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727945.1	807	Alectoris magna haplotype CYTB-H8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727944.1	807	Alectoris magna haplotype CYTB-H7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727943.1	807	Alectoris magna haplotype CYTB-H6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727942.1	807	Alectoris magna haplotype CYTB-H5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727941.1	807	Alectoris magna haplotype CYTB-H4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727940.1	807	Alectoris magna haplotype CYTB-H3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727939.1	807	Alectoris magna haplotype CYTB-H2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	HQ727938.1	807	Alectoris magna haplotype CYTB-H1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469579.1	828	Alectoris magna haplotype CYTB-h9 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469578.1	828	Alectoris magna haplotype CYTB-h8 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469577.1	828	Alectoris magna haplotype CYTB-h7 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469576.1	828	Alectoris magna haplotype CYTB-h6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469575.1	828	Alectoris magna haplotype CYTB-h5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469574.1	828	Alectoris magna haplotype CYTB-h4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469573.1	828	Alectoris magna haplotype CYTB-h3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469572.1	828	Alectoris magna haplotype CYTB-h2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469571.1	828	Alectoris magna haplotype CYTB-h1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469599.1	457	Alectoris magna haplotype CR-h41 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469598.1	458	Alectoris magna haplotype CR-h40 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469597.1	457	Alectoris magna haplotype CR-h39 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469596.1	457	Alectoris magna haplotype CR-h38 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469595.1	457	Alectoris magna haplotype CR-h32 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469594.1	458	Alectoris magna haplotype CR-h23 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469593.1	458	Alectoris magna haplotype CR-h22 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469592.1	457	Alectoris magna haplotype CR-h21 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469591.1	458	Alectoris magna haplotype CR-h20 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469590.1	457	Alectoris magna haplotype CR-h19 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469589.1	458	Alectoris magna haplotype CR-h18 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469588.1	458	Alectoris magna haplotype CR-h17 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469587.1	457	Alectoris magna haplotype CR-h16 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469586.1	458	Alectoris magna haplotype CR-h15 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469585.1	458	Alectoris magna haplotype CR-h14 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469584.1	458	Alectoris magna haplotype CR-h12 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469583.1	458	Alectoris magna haplotype CR-h11 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469582.1	457	Alectoris magna haplotype CR-h9 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469581.1	458	Alectoris magna haplotype CR-h8 control region, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Alectoris_magna	EF469580.1	458	Alectoris magna haplotype CR-h7 control region, partial sequence; mitochondrial

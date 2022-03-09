@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN548137.1	819	Gracula religiosa isolate TiongBahru NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN548136.1	819	Gracula religiosa isolate Jurong_6 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN548135.1	819	Gracula religiosa isolate Jurong_5 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN548134.1	819	Gracula religiosa isolate Jurong_4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN548133.1	819	Gracula religiosa isolate Jurong_3 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN548132.1	819	Gracula religiosa isolate Jurong_2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN548131.1	819	Gracula religiosa isolate Jurong_1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	MN991440.1	1041	Gracula religiosa voucher LSUMNS B-27008 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	JF937590.1	16818	Gracula religiosa mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	DQ466862.1	1041	Gracula religiosa voucher AMNH PRSL344 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	EF468159.1	1041	Gracula religiosa isolate GrelB27008 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	EF468158.1	1041	Gracula religiosa isolate GindiAKD06 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	KJ455447.1	1041	Gracula religiosa voucher LSUMZ B-29835 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Gracula_religiosa	NC_015898.1	16818	Gracula religiosa mitochondrion, complete genome

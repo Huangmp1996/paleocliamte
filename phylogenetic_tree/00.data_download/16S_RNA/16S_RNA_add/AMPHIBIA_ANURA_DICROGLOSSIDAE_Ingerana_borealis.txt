@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Ingerana_borealis	MT799709.1	585	Ingerana borealis voucher MZMU1644 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Ingerana_borealis	DQ283236.1	607	Ingerana borealis voucher CAS 205065 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Ingerana_borealis	DQ283235.1	549	Ingerana borealis voucher CAS 205064 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Ingerana_borealis	KU243091.1	693	Ingerana borealis isolate KIZ020455 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

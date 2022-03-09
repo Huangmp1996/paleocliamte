@@ -1,0 +1,4 @@
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	KY471456.1	17317	Otus scops mitochondrion sequence
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	NC_028162.1	17413	Otus scops mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	KT340630.1	17413	Otus scops mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_scops	EU601039.1	1041	Otus scops isolate O29 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

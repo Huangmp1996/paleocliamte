@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Enicurus_scouleri	AY329459.1	998	Enicurus scouleri cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_MUSCICAPIDAE_Enicurus_scouleri	KJ456270.1	1026	Enicurus scouleri cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Enicurus_scouleri	HM633294.1	1076	Enicurus scouleri voucher AMNH-CJV49 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Enicurus_scouleri	DQ285441.1	983	Enicurus scouleri cytochrome b gene, partial cds; mitochondrial

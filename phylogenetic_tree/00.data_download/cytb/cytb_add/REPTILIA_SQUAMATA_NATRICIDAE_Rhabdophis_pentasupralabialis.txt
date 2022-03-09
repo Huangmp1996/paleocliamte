@@ -1,0 +1,20 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615910.1	1035	Rhabdophis pentasupralabialis isolate ZGX46 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615909.1	1035	Rhabdophis pentasupralabialis isolate ZGX45 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615908.1	1035	Rhabdophis pentasupralabialis isolate ZGX44 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615907.1	1035	Rhabdophis pentasupralabialis isolate HS15143 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615906.1	1035	Rhabdophis pentasupralabialis isolate ZGX264 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615905.1	1035	Rhabdophis pentasupralabialis isolate ZGX233 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615904.1	1035	Rhabdophis pentasupralabialis isolate ZGX262 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615903.1	1035	Rhabdophis pentasupralabialis isolate ZGX258 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615902.1	1035	Rhabdophis pentasupralabialis isolate ZGX257 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615901.1	1035	Rhabdophis pentasupralabialis isolate ZGX256 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MZ615900.1	1035	Rhabdophis pentasupralabialis isolate ZGX239 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MK530644.1	1052	Rhabdophis pentasupralabialis isolate GP1172 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MK530542.1	1040	Rhabdophis pentasupralabialis isolate GP154 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MK530541.1	951	Rhabdophis pentasupralabialis isolate GP153 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MN656330.1	1074	Rhabdophis pentasupralabialis voucher CIB DL1809267 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	MN656329.1	1074	Rhabdophis pentasupralabialis voucher CIB DL1807061 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	LC325354.1	963	Rhabdophis pentasupralabialis HT808 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	LC325332.1	1041	Rhabdophis pentasupralabialis HT700 mitochondrial MT-CYB gene, partial sequence
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	LC325331.1	993	Rhabdophis pentasupralabialis HT699 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_pentasupralabialis	KF800934.1	1095	Rhabdophis nuchalis pentasupralabialis voucher GP1065 cytochrome b (cytb) gene, partial cds; mitochondrial

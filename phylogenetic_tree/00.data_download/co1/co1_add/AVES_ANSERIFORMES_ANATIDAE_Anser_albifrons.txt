@@ -1,0 +1,11 @@
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	NC_039888.1	16740	Anser albifrons frontalis mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	MH000287.1	16740	Anser albifrons frontalis mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	GQ481329.1	694	Anser albifrons voucher UWBM 43977 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	EF515736.1	686	Anser albifrons voucher KRIBB1766 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	DQ433314.1	697	Anser albifrons voucher CWS63557 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	DQ433313.1	697	Anser albifrons voucher CWS63369 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	DQ432730.1	602	Anser albifrons voucher LSU40817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	AB753745.1	756	Anser albifrons mitochondrial CO1 gene for cytochrome C oxidase subunit 1, partial cds, haplotype: individual 3
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	AB753744.1	866	Anser albifrons mitochondrial CO1 gene for cytochrome C oxidase subunit 1, partial cds, haplotype: individual 2
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	AB753743.1	755	Anser albifrons mitochondrial CO1 gene for cytochrome C oxidase subunit 1, partial cds, haplotype: individual 1
+AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	NC_004539.1	16737	Anser albifrons mitochondrion, complete genome

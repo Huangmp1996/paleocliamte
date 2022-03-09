@@ -1,0 +1,6 @@
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	NC_015526.1	16692	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	MT410882.1	16773	Phasianus colchicus mitochondrion, partial genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	FJ752430.1	16683	Phasianus colchicus mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KU049722.1	16688	Phasianus colchicus alaschanicus isolate HLSHJZ16688 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	JF739859.1	16692	Phasianus colchicus voucher AHNU:A0035 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Phasianus_colchicus	KT364526.1	16687	Phasianus colchicus mitochondrion, complete genome

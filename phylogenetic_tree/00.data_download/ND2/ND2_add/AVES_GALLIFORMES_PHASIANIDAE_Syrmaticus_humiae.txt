@@ -1,0 +1,4 @@
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	DQ768293.1	1040	Syrmaticus humiae NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	KC778826.1	1026	Syrmaticus humiae NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	NC_010774.1	16686	Syrmaticus humiae mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_humiae	AB164625.1	16686	Syrmaticus humiae mitochondrial DNA, complete genome

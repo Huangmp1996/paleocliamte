@@ -1,0 +1,5 @@
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	MN276053.1	17604	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	NC_041422.1	17835	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	MF346692.1	17835	Otus sunia mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	EU601041.1	1036	Otus sunia isolate O31 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_sunia	EU327645.1	1093	Otus sunia tRNA-Met gene, partial sequence; NADH dehydrogenase subunt 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial

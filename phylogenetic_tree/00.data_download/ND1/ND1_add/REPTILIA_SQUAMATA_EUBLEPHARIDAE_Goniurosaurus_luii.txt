@@ -1,0 +1,3 @@
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	NC_026105.1	16519	Goniurosaurus luii voucher GL511 mitochondrion, complete genome
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	KM455054.1	16519	Goniurosaurus luii voucher GL511 mitochondrion, complete genome
+REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	AB308471.1	1759	Goniurosaurus luii mitochondrial ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, COX1 genes, partial and complete cds and sequence

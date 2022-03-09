@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	NC_039538.1	16770	Niltava davidi mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KY024217.1	16770	Niltava davidi mitochondrion, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KP337126.1	991	Niltava davidi isolate 2583 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KP337125.1	991	Niltava davidi isolate 2582 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

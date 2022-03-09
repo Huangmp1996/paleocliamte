@@ -1,0 +1,35 @@
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418287.1	74	Sicista tianschanica isolate CTS_A3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418286.1	74	Sicista tianschanica isolate CTS_A2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418285.1	74	Sicista tianschanica isolate CTS_A1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418284.1	1140	Sicista tianschanica isolate CTS_K cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418283.1	210	Sicista tianschanica isolate Kng_A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418282.1	480	Sicista tianschanica isolate Ter_U2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418281.1	1140	Sicista tianschanica isolate Ter_U1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418280.1	476	Sicista tianschanica isolate Ter_S2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418279.1	480	Sicista tianschanica isolate Ter_S1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418278.1	1140	Sicista tianschanica isolate Ter_C cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418277.1	505	Sicista tianschanica isolate Ter_B2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418276.1	1140	Sicista tianschanica isolate Ter_B1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418275.1	1140	Sicista tianschanica isolate Ktm_S cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418274.1	302	Sicista tianschanica isolate TIA_B cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418273.1	212	Sicista tianschanica isolate TIA_A cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418272.1	1140	Sicista tianschanica isolate TIA_T4 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418271.1	1140	Sicista tianschanica isolate TIA_T3 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418270.1	505	Sicista tianschanica isolate TIA_T2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418269.1	1140	Sicista tianschanica isolate TIA_T1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418268.1	1140	Sicista tianschanica isolate DzA_Zh cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418267.1	504	Sicista tianschanica isolate DzA_P cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418266.1	505	Sicista tianschanica isolate DzA_A2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418265.1	1140	Sicista tianschanica isolate DzA_A1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418264.1	487	Sicista tianschanica isolate DzA_T2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418263.1	1140	Sicista tianschanica isolate DzA_T1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418262.1	204	Sicista tianschanica isolate DzA_L cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418261.1	505	Sicista tianschanica isolate Sau_Zh2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418260.1	1140	Sicista tianschanica isolate Sau_Zh1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418259.1	230	Sicista tianschanica isolate Trb_U cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418258.1	491	Sicista tianschanica isolate Trb_A2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	MT418257.1	1140	Sicista tianschanica isolate Trb_A1 cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	KY967410.1	1140	Sicista tianshanica cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	KY754150.1	1013	Sicista tianshanica cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	KM397205.1	1100	Sicista tianshanica voucher NT0609BR03 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_DIPODIDAE_Sicista_tianshanica	KM397204.1	1107	Sicista tianshanica voucher NT0609AQ10 cytochrome b (cytb) gene, partial cds; mitochondrial

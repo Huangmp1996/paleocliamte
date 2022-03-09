@@ -1,0 +1,5 @@
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	MN122869.1	15245	Columba palumbus mitochondrion, partial genome
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	FN675606.1	679	Columba palumbus mitochondrial partial 12S rRNA gene, isolate 1
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	FN675575.1	724	Columba palumbus mitochondrial partial 12S rRNA gene, isolate 2
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	AF483298.1	397	Columba palumbus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	AM902521.1	725	Columba palumbus partial 12S rRNA gene

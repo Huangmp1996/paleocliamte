@@ -1,0 +1,11 @@
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	KX818788.1	280	Eurystomus orientalis isolate SB140 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	KX818787.1	280	Eurystomus orientalis isolate SB139 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	KX818786.1	280	Eurystomus orientalis isolate SB138 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	KX818785.1	280	Eurystomus orientalis isolate SB137 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	KX818784.1	280	Eurystomus orientalis isolate SB104 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	KX818783.1	280	Eurystomus orientalis isolate SB103 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	KX818782.1	280	Eurystomus orientalis isolate SB102 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	KX818781.1	280	Eurystomus orientalis isolate SB101 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	AF407451.1	1045	Eurystomus orientalis FMNH 350940 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	NC_011716.2	17210	Eurystomus orientalis mitochondrion, complete genome
+AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	EU344978.2	17210	Eurystomus orientalis mitochondrion, complete genome

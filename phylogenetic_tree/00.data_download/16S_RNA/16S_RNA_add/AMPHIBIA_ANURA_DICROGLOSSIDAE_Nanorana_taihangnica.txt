@@ -1,0 +1,85 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	MT940566.1	534	Nanorana taihangnica voucher BG04 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	MT940565.1	534	Nanorana taihangnica voucher BG05 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	MT940564.1	534	Nanorana taihangnica voucher BG06 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	MT940563.1	534	Nanorana taihangnica voucher BG07 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	MT940562.1	534	Nanorana taihangnica voucher BG08 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	MT940561.1	534	Nanorana taihangnica voucher BG09 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	MT940560.1	534	Nanorana taihangnica voucher BG10 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865298.1	525	Nanorana taihangnica isolate HRP107-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865297.1	525	Nanorana taihangnica isolate HRP106-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865296.1	525	Nanorana taihangnica isolate HDG103-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865295.1	525	Nanorana taihangnica isolate HRP112-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865294.1	525	Nanorana taihangnica isolate HRP116-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865293.1	525	Nanorana taihangnica isolate HRP104-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865292.1	525	Nanorana taihangnica isolate HDT111-VV 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865291.1	525	Nanorana taihangnica isolate XYB121-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865290.1	525	Nanorana taihangnica isolate HRP103-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865289.1	525	Nanorana taihangnica isolate HRP115-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865288.1	525	Nanorana taihangnica isolate HRP119-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865287.1	525	Nanorana taihangnica isolate XYB101-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865286.1	525	Nanorana taihangnica isolate HRP105-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865285.1	525	Nanorana taihangnica isolate HRP102-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865284.1	525	Nanorana taihangnica isolate HRP125-VV 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865283.1	525	Nanorana taihangnica isolate HDT116-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865282.1	525	Nanorana taihangnica isolate XYB111-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865281.1	525	Nanorana taihangnica isolate HRP111-vw 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865280.1	525	Nanorana taihangnica isolate HRP108-vw 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865279.1	525	Nanorana taihangnica isolate HRP109-vw 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865278.1	525	Nanorana taihangnica isolate HRP110-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865277.1	524	Nanorana taihangnica isolate HDT124-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865276.1	525	Nanorana taihangnica isolate HRP114-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865275.1	525	Nanorana taihangnica isolate HDT120-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865274.1	525	Nanorana taihangnica isolate HDT114-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865273.1	525	Nanorana taihangnica isolate HRP118-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865272.1	525	Nanorana taihangnica isolate HDT103-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865271.1	525	Nanorana taihangnica isolate HDT113-VV 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865270.1	525	Nanorana taihangnica isolate HRP113-vw 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865269.1	525	Nanorana taihangnica isolate HDT101-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865268.1	525	Nanorana taihangnica isolate HRP120-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865267.1	525	Nanorana taihangnica isolate XYB105-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865266.1	525	Nanorana taihangnica isolate XYB109-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865265.1	525	Nanorana taihangnica isolate XYB124-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865264.1	525	Nanorana taihangnica isolate PHL101-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865263.1	525	Nanorana taihangnica isolate HDT117-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865262.1	525	Nanorana taihangnica isolate XYB126-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865261.1	525	Nanorana taihangnica isolate HDT110-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865260.1	525	Nanorana taihangnica isolate XYB125-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865259.1	525	Nanorana taihangnica isolate HRP123-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865258.1	525	Nanorana taihangnica isolate HDT121-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865257.1	525	Nanorana taihangnica isolate XYB119-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865256.1	525	Nanorana taihangnica isolate XYB113-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865255.1	525	Nanorana taihangnica isolate HDT118-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865254.1	525	Nanorana taihangnica isolate LXC101-vw 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865253.1	525	Nanorana taihangnica isolate XYB123-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865252.1	525	Nanorana taihangnica isolate XYB118-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865251.1	525	Nanorana taihangnica isolate HRP117-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865250.1	524	Nanorana taihangnica isolate XYB120-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865249.1	525	Nanorana taihangnica isolate PHL102-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865248.1	525	Nanorana taihangnica isolate PHL103-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865247.1	525	Nanorana taihangnica isolate XYB107-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865246.1	525	Nanorana taihangnica isolate XYB122-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865245.1	524	Nanorana taihangnica isolate HDG101-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865185.1	542	Nanorana taihangnica isolate HDT107-ww 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865184.1	542	Nanorana taihangnica isolate HDT105-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865183.1	542	Nanorana taihangnica isolate HDT106 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KU865182.1	542	Nanorana taihangnica isolate HDT104-wv 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KF199146.1	21322	Nanorana taihangnica mitochondrion, partial genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	NC_024272.1	17412	Nanorana taihangnica mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	KJ569109.1	17412	Nanorana taihangnica mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	EU979843.1	550	Paa taihangnicus voucher KIZ-HN0709002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	EU979842.1	550	Paa taihangnicus voucher KIZ-HN0709001 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225988.1	540	Paa taihangnicus voucher CIB<CHN>:20060349 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225987.1	540	Paa taihangnicus voucher HNNU:0408II012 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225986.1	540	Paa taihangnicus voucher CIB<CHN>:20070485 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225985.1	540	Paa taihangnicus voucher CIB<CHN>:20060346 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225984.1	540	Paa taihangnicus voucher CIB<CHN>:20060320 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225983.1	540	Paa taihangnicus voucher CIB<CHN>:20060325 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225982.1	540	Paa taihangnicus voucher CIB<CHN>:Huashan03 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225981.1	541	Paa taihangnicus voucher CIB<CHN>:2876K 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225980.1	540	Paa taihangnicus voucher CIB<CHN>:2874K 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225979.1	541	Paa taihangnicus voucher CIB<CHN>:20060316 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225978.1	541	Paa taihangnicus voucher CIB<CHN>:2871K 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225977.1	540	Paa taihangnicus voucher CIB<CHN>:Taibai03 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225976.1	540	Paa taihangnicus voucher CIB<CHN>:Laoxiancheng01 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225975.1	540	Paa taihangnicus voucher CIB<CHN>:Kangxian02 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Nanorana_taihangnica	GQ225974.1	540	Paa taihangnicus voucher CIB<CHN>:Kangxian01 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,0 +1,34 @@
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	OK156175.1	916	Dryophytes japonicus voucher NeA-00078 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	OK156174.1	917	Dryophytes japonicus voucher NeA-00059 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	OK156173.1	917	Dryophytes japonicus voucher NeA-00057 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	NC_010232.1	19519	Dryophytes japonicus voucher IABHU6123 mitochondrion, complete genome
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	LC104742.1	173	Hyla japonica mitochondrial gene for 12S rRNA, partial sequence, bio_material: CBM(Chiba Museum) DNA No. 2015-466
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	AF205095.1	447	Hyla japonica cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742620.1	905	Hyla japonica isolate TsusimaIsland_Janpan2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742619.1	905	Hyla japonica isolate TsusimaIsland_Janpan1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742618.1	904	Hyla japonica isolate Sakhalin_Russia2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742617.1	904	Hyla japonica isolate Sakhalin_Russia1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742616.1	905	Hyla japonica isolate Taksimo_Russia 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742615.1	904	Hyla japonica isolate YuzhnoKurilsk_Russia 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742614.1	905	Hyla japonica isolate Mudanjiang_Heilongjiang8 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742613.1	905	Hyla japonica isolate Mudanjiang_Heilongjiang7 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742612.1	905	Hyla japonica isolate Mudanjiang_Heilongjiang6 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742611.1	905	Hyla japonica isolate Mudanjiang_Heilongjiang5 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742610.1	905	Hyla japonica isolate Mudanjiang_Heilongjiang4 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742609.1	905	Hyla japonica isolate Mudanjiang_Heilongjiang3 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742608.1	870	Hyla japonica isolate Mudanjiang_Heilongjiang2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742607.1	904	Hyla japonica isolate Mudanjiang_Heilongjiang1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742605.1	905	Hyla japonica isolate Ussuriysky_Russia 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742604.1	905	Hyla japonica isolate Khasansky_Russia2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742603.1	905	Hyla japonica isolate Khasansky_Russia1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742602.1	905	Hyla japonica isolate Oktyabrsky_Russia2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742601.1	905	Hyla japonica isolate Oktyabrsky_Russia1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742600.1	905	Hyla japonica isolate Ussuriysk_Russia2 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742599.1	905	Hyla japonica isolate Ussuriysk_Russia1 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742598.1	905	Hyla japonica isolate Shenyang_Liaoning 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	KP742597.1	904	Hyla japonica isolate Hailin_Heilongjiang 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	AY843633.1	2420	Hyla japonica 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	EF566952.1	2438	Hyla japonica isolate Indiv. 2 tRNA-Phe gene, partial sequence; 12S ribosomal RNA and tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	DQ055840.1	811	Hyla japonica 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	AB303949.1	19519	Hyla japonica mitochondrial DNA, complete genome, specimen_voucher: IABHU6123
+AMPHIBIA_ANURA_HYLIDAE_Dryophytes_japonicus	AF218708.1	425	Hyla japonica 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	MT438446.1	614	Sitta himalayensis isolate MAR90087 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	NC_042730.1	16822	Sitta himalayensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	MK343426.1	16822	Sitta himalayensis mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Sitta_himalayensis	KJ467147.1	628	Sitta himalayensis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

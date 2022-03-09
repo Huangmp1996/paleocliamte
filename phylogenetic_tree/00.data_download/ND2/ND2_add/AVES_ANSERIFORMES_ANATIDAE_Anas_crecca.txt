@@ -1,0 +1,6 @@
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	EU585670.1	1012	Anas crecca crecca voucher IPMB 54 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	AF059124.1	1092	Anas crecca tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	AF059064.1	1074	Anas crecca cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	KC771255.1	16596	Anas crecca mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	NC_022452.1	16601	Anas crecca mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_crecca	KF203133.1	16601	Anas crecca mitochondrion, complete genome

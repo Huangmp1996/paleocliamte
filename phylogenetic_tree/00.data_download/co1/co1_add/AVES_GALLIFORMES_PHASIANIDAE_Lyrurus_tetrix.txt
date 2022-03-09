@@ -1,0 +1,13 @@
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	MT773157.1	666	Lyrurus tetrix isolate 6Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	GQ482770.1	694	Lyrurus tetrix voucher UWBM 57293 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	JF723295.1	736	Tetrao tetrix haplotype H2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	JF723294.1	722	Tetrao tetrix haplotype H1 COI gene, partial sequence; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	GU572127.1	648	Tetrao tetrix voucher BISE-Aves238 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	GU572126.1	648	Tetrao tetrix voucher BISE-Aves283 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	GU571652.1	749	Tetrao tetrix voucher NHMO-BC45 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	GQ482769.1	694	Tetrao tetrix voucher UWBM 64872 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	GQ482768.1	694	Tetrao tetrix voucher UWBM 61555 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	GQ482767.1	694	Tetrao tetrix voucher UWBM 63815 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	GQ482766.1	694	Tetrao tetrix voucher UWBM 61547 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	NC_024554.1	16677	Lyrurus tetrix mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Lyrurus_tetrix	KF955638.1	16677	Lyrurus tetrix mitochondrion, complete genome

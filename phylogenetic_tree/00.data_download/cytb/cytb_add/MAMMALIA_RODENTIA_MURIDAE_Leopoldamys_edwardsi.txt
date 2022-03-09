@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KY464179.1	16287	Leopoldamys edwardsi voucher CBGP_R4222 mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123090.1	1140	Leopoldamys edwardsi isolate S1822 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123089.1	1140	Leopoldamys edwardsi isolate S1814 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123088.1	1140	Leopoldamys edwardsi isolate S1812 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123087.1	1140	Leopoldamys edwardsi isolate S1810 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123086.1	1140	Leopoldamys edwardsi isolate S1809 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123085.1	1140	Leopoldamys edwardsi isolate S1808 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123084.1	1140	Leopoldamys edwardsi isolate S1807 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123083.1	1140	Leopoldamys edwardsi isolate S1806 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123082.1	1140	Leopoldamys edwardsi isolate S1803 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123081.1	1140	Leopoldamys edwardsi isolate S1802 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123080.1	1140	Leopoldamys edwardsi isolate S1390 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123079.1	1140	Leopoldamys edwardsi isolate S1382 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123078.1	1140	Leopoldamys edwardsi isolate S0958 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123077.1	1140	Leopoldamys edwardsi isolate S0891 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123076.1	1140	Leopoldamys edwardsi isolate S0553 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123075.1	1140	Leopoldamys edwardsi isolate S0552 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123074.1	1140	Leopoldamys edwardsi isolate S0551 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123073.1	1140	Leopoldamys edwardsi isolate S0549 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123072.1	1140	Leopoldamys edwardsi isolate S0548 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123071.1	1140	Leopoldamys edwardsi isolate S0547 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123070.1	1140	Leopoldamys edwardsi isolate S0546 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123069.1	1140	Leopoldamys edwardsi isolate S0545 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123068.1	1140	Leopoldamys edwardsi isolate S0544 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123067.1	1140	Leopoldamys edwardsi isolate S0542 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123066.1	1140	Leopoldamys edwardsi isolate S0541 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123065.1	1140	Leopoldamys edwardsi isolate S0539 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123064.1	1140	Leopoldamys edwardsi isolate S0529 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123063.1	1140	Leopoldamys edwardsi isolate S0441 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123062.1	1140	Leopoldamys edwardsi isolate S0432 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123061.1	1140	Leopoldamys edwardsi isolate G12097 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123060.1	1140	Leopoldamys edwardsi isolate G12096 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123059.1	1140	Leopoldamys edwardsi isolate M12066 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123058.1	1140	Leopoldamys edwardsi isolate G12056 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123057.1	1140	Leopoldamys edwardsi isolate G12045 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123056.1	1140	Leopoldamys edwardsi isolate G12033 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123055.1	1140	Leopoldamys edwardsi isolate G12031 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	MK123054.1	1140	Leopoldamys edwardsi isolate G12012 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KY754013.1	926	Leopoldamys edwardsi cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KJ607279.1	926	Leopoldamys edwardsi voucher MVZ:186501 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992511.1	1140	Leopoldamys edwardsi isolate H39JHZJ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992510.1	1140	Leopoldamys edwardsi isolate H38WYSFJ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992509.1	1140	Leopoldamys edwardsi isolate H37WYSFJ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992508.1	1140	Leopoldamys edwardsi isolate H36WYSFJ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992507.1	1140	Leopoldamys edwardsi isolate H35WYSFJ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992506.1	1140	Leopoldamys edwardsi isolate H34WYSFJ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992505.1	1140	Leopoldamys edwardsi isolate H32YSHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992504.1	1140	Leopoldamys edwardsi isolate H31YSHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992503.1	1140	Leopoldamys edwardsi isolate H30YSHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992502.1	1140	Leopoldamys edwardsi isolate H29YSHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992501.1	1140	Leopoldamys edwardsi isolate H28WYSFJ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992500.1	1140	Leopoldamys edwardsi isolate H27WYSFJ cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992499.1	1140	Leopoldamys edwardsi isolate H26JGSJX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992498.1	1140	Leopoldamys edwardsi isolate H25JGSJX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992497.1	1140	Leopoldamys edwardsi isolate H24JGSJX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992496.1	1140	Leopoldamys edwardsi isolate H23JGSJX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992495.1	1140	Leopoldamys edwardsi isolate H22JGSJX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992494.1	1140	Leopoldamys edwardsi isolate H21RYGD cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992493.1	1140	Leopoldamys edwardsi isolate H19LZGX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992492.1	1140	Leopoldamys edwardsi isolate H18LZGX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992491.1	1140	Leopoldamys edwardsi isolate H17LZGX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992490.1	1140	Leopoldamys edwardsi isolate H16LZGX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992489.1	1140	Leopoldamys edwardsi isolate H15LZGX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992488.1	1140	Leopoldamys edwardsi isolate H14LZGX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992487.1	1140	Leopoldamys edwardsi isolate H13WMGX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992486.1	1140	Leopoldamys edwardsi isolate H12BLGX cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992485.1	1140	Leopoldamys edwardsi isolate H11QZHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992484.1	1140	Leopoldamys edwardsi isolate H10BTHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992483.1	1140	Leopoldamys edwardsi isolate H9BTHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992482.1	1140	Leopoldamys edwardsi isolate H8BTHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992481.1	1140	Leopoldamys edwardsi isolate H7BTHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992480.1	1140	Leopoldamys edwardsi isolate H6BTHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992479.1	1140	Leopoldamys edwardsi isolate H5BTHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992478.1	1140	Leopoldamys edwardsi isolate H4LDHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992477.1	1140	Leopoldamys edwardsi isolate H3LDHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992476.1	1140	Leopoldamys edwardsi isolate H2LDHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KP992475.1	1140	Leopoldamys edwardsi isolate H1LDHN cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KY068766.1	1140	Leopoldamys edwardsi isolate HN0020 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KY068765.1	1140	Leopoldamys edwardsi isolate HN0018 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	JN105095.1	1011	Leopoldamys edwardsi isolate MB1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HQ877101.1	818	Leopoldamys edwardsi voucher ROM107692 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HQ877100.1	818	Leopoldamys edwardsi voucher MVZ186496 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM219614.1	899	Leopoldamys edwardsi isolate 77 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM219613.1	899	Leopoldamys edwardsi isolate 33 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217451.1	1022	Leopoldamys edwardsi voucher R4370 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217450.1	1054	Leopoldamys edwardsi voucher R4296 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217449.1	1084	Leopoldamys edwardsi voucher R4276 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217444.1	798	Leopoldamys edwardsi voucher R4222 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217439.1	785	Leopoldamys edwardsi voucher R4098 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	HM217414.1	1082	Leopoldamys edwardsi voucher R3419 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	NC_025670.1	16284	Leopoldamys edwardsi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KM434322.1	16284	Leopoldamys edwardsi mitochondrion, complete genome
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010043.1	898	Leopoldamys edwardsi haplotype HCBLE10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010042.1	898	Leopoldamys edwardsi haplotype HCBLE09 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010041.1	880	Leopoldamys edwardsi haplotype HCBLE08 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010040.1	898	Leopoldamys edwardsi haplotype HCBLE07 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010039.1	690	Leopoldamys edwardsi haplotype HCBLE06 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010038.1	898	Leopoldamys edwardsi haplotype HCBLE05 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010037.1	898	Leopoldamys edwardsi haplotype HCBLE04 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Leopoldamys_edwardsi	KC010036.1	898	Leopoldamys edwardsi haplotype HCBLE03 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,13 @@
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	MN122863.1	16820	Lanius collurio mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	EU166959.1	2664	Lanius collurio tRNA-Leu gene, partial sequence; NADH dehydrogenase subunit 1 gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	GU816830.1	1041	Lanius collurio NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859273.1	1041	Lanius collurio isolate SVD1980 voucher UWBM 64678 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859272.1	1041	Lanius collurio isolate SVD1937 voucher UWBM 64640 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859271.1	1041	Lanius collurio isolate IUK309 voucher UWBM 61166 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859270.1	1041	Lanius collurio isolate IUK284 voucher UWBM 61139 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859269.1	1041	Lanius collurio isolate IUK283 voucher UWBM 61138 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859268.1	1041	Lanius collurio isolate BKS1727 voucher UWBM 49330 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859267.1	1041	Lanius collurio isolate BKS1698 voucher UWBM 49302 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859266.1	1041	Lanius collurio isolate BKS1622 voucher UWBM 49228 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859265.1	1041	Lanius collurio isolate BKS1608 voucher UWBM 49214 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_collurio	KU859264.1	1041	Lanius collurio isolate BKS1596 voucher UWBM 49202 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_TURDIDAE_Turdus_chrysolaus	DQ910940.1	1000	Turdus chrysolaus cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_chrysolaus	EU154610.1	1038	Turdus chrysolaus voucher ZMUC-118 376 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Turdus_chrysolaus	D38321.1	646	Turdus chrysolaus mitochondrial gene for cytochrome b, partial cds
+AVES_PASSERIFORMES_TURDIDAE_Turdus_chrysolaus	D38349.1	293	Turdus chrysolaus gene for 18S rRNA, partial sequence

@@ -1,0 +1,35 @@
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	MT773162.1	735	Anas acuta isolate 11Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	GQ481317.1	694	Anas acuta voucher UWBM 59540 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703183.1	695	Anas acuta isolate 2_28_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703182.1	695	Anas acuta isolate 2_27_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703181.1	695	Anas acuta isolate 08_874_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703180.1	695	Anas acuta isolate 15_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703179.1	695	Anas acuta isolate 14_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703178.1	695	Anas acuta isolate 13_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703177.1	695	Anas acuta isolate 12_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703176.1	695	Anas acuta isolate 11_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703175.1	695	Anas acuta isolate 10_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703174.1	695	Anas acuta isolate 9_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703173.1	695	Anas acuta isolate 8_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703172.1	695	Anas acuta isolate 7_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703171.1	695	Anas acuta isolate 6_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703170.1	695	Anas acuta isolate 2-26_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN703169.1	695	Anas acuta isolate 2-25_R2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN788902.1	503	Anas acuta isolate J1616 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN788901.1	503	Anas acuta isolate J1581 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	JN788900.1	503	Anas acuta isolate J1542 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	GU571714.1	648	Anas acuta voucher BISE-Aves137 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	GU571713.1	648	Anas acuta voucher BISE-Aves342 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	GU571235.1	714	Anas acuta voucher NHMO-BC376 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	DQ432717.1	614	Anas acuta voucher LSU20714 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	DQ432716.1	643	Anas acuta voucher USNM 627752 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	EF515735.1	686	Anas acuta voucher KRIBB2937 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	NC_024631.1	16599	Anas acuta mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	KF312717.1	16599	Anas acuta mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	KF946590.1	693	Anas acuta voucher ZMA58228 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	KC439302.1	667	Anas acuta cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	DQ434264.1	689	Anas acuta voucher 1430-10097 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	DQ434263.1	640	Anas acuta voucher 1430-10206 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	DQ434262.1	654	Anas acuta voucher 1430-10067 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	DQ434261.1	665	Anas acuta voucher 1430-10521 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	DQ434260.1	669	Anas acuta voucher 1430-10346 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

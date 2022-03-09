@@ -1,0 +1,4 @@
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	MN122897.1	16855	Ciconia ciconia mitochondrion, partial genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	NC_002197.1	17347	Ciconia ciconia mitochondrion, complete genome
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	AY766388.1	263	Ciconia ciconia 12S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	AB026818.1	17347	Ciconia ciconia mitochondrial DNA, complete genome

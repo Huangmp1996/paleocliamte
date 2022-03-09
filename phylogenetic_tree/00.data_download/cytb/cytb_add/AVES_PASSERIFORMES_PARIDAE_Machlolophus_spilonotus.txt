@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	KX388476.1	16768	Machlolophus spilonotus isolate 3026 mitochondrion, complete genome
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	AY308726.1	1033	Parus spilonotus AMNH_PRS2463 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	JX221711.1	1108	Parus spilonotus isolate CA22 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	HM185351.1	948	Parus spilonotus voucher IOZ3026 cytochrome b (cyt b) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PARIDAE_Machlolophus_spilonotus	HM185328.1	1201	Parus spilonotus voucher IOZ3026 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

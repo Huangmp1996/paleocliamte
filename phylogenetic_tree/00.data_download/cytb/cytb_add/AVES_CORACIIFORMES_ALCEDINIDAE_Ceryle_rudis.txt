@@ -1,0 +1,3 @@
+AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	KJ456219.1	1143	Ceryle rudis voucher NHMD 132650 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	NC_024280.1	17355	Ceryle rudis mitochondrion, complete genome
+AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	KJ461938.1	17355	Ceryle rudis mitochondrion, complete genome

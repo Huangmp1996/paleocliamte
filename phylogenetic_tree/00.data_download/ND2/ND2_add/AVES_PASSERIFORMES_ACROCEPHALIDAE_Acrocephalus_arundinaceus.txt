@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	MN356442.1	13946	Acrocephalus arundinaceus mitochondrion, partial genome
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	GQ242092.1	1041	Acrocephalus arundinaceus voucher NRM 986607 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AB621334.1	2206	Acrocephalus arundinaceus mitochondrial nd1, nd2 genes for NADH dehydrogenase subunit 1, NADH dehydrogenase subunit 2, partial and complete cds

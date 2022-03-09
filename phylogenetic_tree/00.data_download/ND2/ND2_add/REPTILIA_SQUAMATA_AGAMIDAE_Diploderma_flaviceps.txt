@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	MW133372.1	1100	Diploderma flaviceps voucher KIZ05182 tRNA-Xle and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	MT577898.1	1022	Diploderma flaviceps voucher KIZ:019579 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	MT577897.1	1022	Diploderma flaviceps voucher KIZ:019576 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	MT577896.1	953	Diploderma flaviceps voucher KIZ:019575 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	MT577895.1	953	Diploderma flaviceps voucher KIZ:019577 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	MT577894.1	1019	Diploderma flaviceps voucher KIZ:019578 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	MK001417.1	1008	Diploderma flaviceps voucher KIZ01852 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	MK001416.1	954	Diploderma flaviceps voucher KIZ05181 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	AF128500.1	1713	Japalura flaviceps MVZ216622 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	NC_039541.1	17140	Japalura flaviceps voucher DB130601 mitochondrion, complete genome
+REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_flaviceps	KX881372.1	17140	Japalura flaviceps voucher DB130601 mitochondrion, complete genome

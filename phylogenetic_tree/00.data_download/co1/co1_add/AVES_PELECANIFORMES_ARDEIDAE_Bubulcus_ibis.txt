@@ -1,0 +1,33 @@
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KY040000.1	685	Bubulcus ibis isolate CEAVC2 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KY039999.1	698	Bubulcus ibis isolate CEAVC1 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KU722532.1	635	Bubulcus ibis voucher USNM:Birds:647983 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KU722471.1	657	Bubulcus ibis voucher USNM:Birds:647910 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KJ722534.1	17255	Bubulcus ibis mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	JF498836.1	694	Bubulcus ibis voucher USNM:643577 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	JF498835.1	694	Bubulcus ibis voucher USNM:643441 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	JF498834.1	694	Bubulcus ibis voucher USNM:643443 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	AY666463.1	508	Bubulcus ibis voucher 1B-1250 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	HM804917.1	652	Bubulcus ibis isolate Bubibi3 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	HM804916.1	653	Bubulcus ibis isolate Bubibi2 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	HM804915.1	635	Bubulcus ibis isolate Bubibi1 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	DQ433384.1	680	Bubulcus ibis voucher CWS33884 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	DQ433383.1	680	Bubulcus ibis voucher CWS33887 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	DQ432776.1	627	Bubulcus ibis voucher USNM B16849 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KP252171.1	658	Bubulcus ibis voucher USNM 645946 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KT240055.1	624	Bubulcus ibis cytochrome C oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	JX160006.1	658	Bubulcus ibis isolate BD09 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KP975217.1	660	Bubulcus ibis isolate NBS_GAR_2011_01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	AB843377.1	674	Bubulcus ibis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO080-10
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	AB843376.1	681	Bubulcus ibis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO091-10
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	AB842594.1	644	Bubulcus ibis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM342-10
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	AB842593.1	607	Bubulcus ibis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM263-10
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	AB842592.1	645	Bubulcus ibis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM345-10
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	NC_025917.1	18959	Bubulcus ibis mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KJ190945.1	18959	Bubulcus ibis mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KC708547.1	695	Bubulcus ibis isolate 6 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KC708546.1	695	Bubulcus ibis isolate 5 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	JN850714.1	658	Bubulcus ibis isolate S05_1365 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	HQ998116.1	100	Bubulcus ibis voucher RMCA:100596 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	FJ027234.1	694	Bubulcus ibis voucher MACN-Or-ct 1590 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	FJ027233.1	694	Bubulcus ibis voucher MACN-Or-ct 1539 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	FJ027232.1	694	Bubulcus ibis voucher MACN-Or-ct 1538 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

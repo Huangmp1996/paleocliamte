@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	MN991377.1	1041	Aethopyga siparaja voucher LSUMNS B-78648 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	MH908357.1	1014	Aethopyga siparaja siparaja voucher USNM:Birds:656324 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	GQ145294.1	1032	Aethopyga siparaja voucher FMNH 358592 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	KJ455312.1	1041	Aethopyga siparaja NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	KC122470.1	1041	Aethopyga siparaja voucher AMNH311 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	KC122469.1	1041	Aethopyga siparaja voucher KU24707 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	KC122468.1	1041	Aethopyga siparaja voucher AMNH23132 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	KC122467.1	1041	Aethopyga siparaja voucher KU15302 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_NECTARINIIDAE_Aethopyga_siparaja	KC122466.1	1041	Aethopyga siparaja voucher AMNH12310 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

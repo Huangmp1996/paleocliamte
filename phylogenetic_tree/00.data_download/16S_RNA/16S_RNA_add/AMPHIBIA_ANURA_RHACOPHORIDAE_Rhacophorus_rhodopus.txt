@@ -1,0 +1,68 @@
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	MW133350.1	1890	Rhacophorus rhodopus voucher KIZYPX20553 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC386573.1	1902	Rhacophorus rhodopus KUHE:47794 mitochondrial DNA, contains 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	MG935991.1	550	Rhacophorus rhodopus voucher USNM:Herp:587063 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828078.1	408	Rhacophorus rhodopus voucher 0906Y5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828077.1	408	Rhacophorus rhodopus voucher 0906Y3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828076.1	408	Rhacophorus rhodopus voucher 0906Y2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828075.1	408	Rhacophorus rhodopus voucher 0899Y2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828074.1	408	Rhacophorus rhodopus voucher 0898Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828073.1	408	Rhacophorus rhodopus voucher 0178Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828072.1	408	Rhacophorus rhodopus voucher 0058Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828071.1	408	Rhacophorus rhodopus voucher K3353 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828070.1	408	Rhacophorus rhodopus voucher K3351 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828069.1	408	Rhacophorus rhodopus voucher 2006.2519 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828068.1	408	Rhacophorus rhodopus voucher K3409 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828067.1	408	Rhacophorus rhodopus voucher K3085_1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828066.1	408	Rhacophorus rhodopus voucher K3046 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828065.1	408	Rhacophorus rhodopus voucher 1000Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828064.1	408	Rhacophorus rhodopus voucher 0957Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828063.1	408	Rhacophorus rhodopus voucher 0956Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828062.1	408	Rhacophorus rhodopus voucher 0955Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828061.1	408	Rhacophorus rhodopus voucher 0954Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828060.1	408	Rhacophorus rhodopus voucher 0953Y 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828059.1	409	Rhacophorus rhodopus voucher 0937Y5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828058.1	409	Rhacophorus rhodopus voucher 0937Y4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828057.1	409	Rhacophorus rhodopus voucher 0937Y2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828056.1	409	Rhacophorus rhodopus voucher 0937Y1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828055.1	409	Rhacophorus rhodopus voucher 0936Y3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828054.1	409	Rhacophorus rhodopus voucher 0936Y2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828053.1	409	Rhacophorus rhodopus voucher 0936Y1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828052.1	408	Rhacophorus rhodopus voucher 0909Y3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828051.1	408	Rhacophorus rhodopus voucher 0909Y2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828050.1	408	Rhacophorus rhodopus voucher 0909Y1 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828049.1	408	Rhacophorus rhodopus voucher 2004.0409 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	KR828048.1	408	Rhacophorus rhodopus voucher 2010.1124 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010612.1	462	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: CIB<CHN>:1306010
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010611.1	462	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: CIB<CHN>:1306006
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010610.1	462	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: CIB<CHN>:1306005
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010609.1	433	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4120
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010608.1	433	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4121
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010607.1	433	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4122
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010606.1	433	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4119
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010605.1	434	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4118
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	LC010604.1	433	Rhacophorus rhodopus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4117
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	JX219442.1	1947	Rhacophorus rhodopus voucher L062456 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	JX219441.1	1947	Rhacophorus rhodopus voucher L06245 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	JX219440.1	1947	Rhacophorus rhodopus voucher Lc0805109 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	JX219439.1	1947	Rhacophorus rhodopus voucher Loc08007018 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EU215531.1	1961	Rhacophorus rhodopus voucher SCUM 060692L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EU215529.1	1946	Rhacophorus rhodopus voucher SN 030035 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564580.1	566	Rhacophorus rhodopus isolate SN030036 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564579.1	564	Rhacophorus rhodopus isolate SN030035 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564578.1	570	Rhacophorus rhodopus isolate KIZ589 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564577.1	572	Rhacophorus rhodopus isolate KIZ587 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564576.1	573	Rhacophorus rhodopus isolate KIZ060328002 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564575.1	571	Rhacophorus rhodopus isolate KIZ060821248 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564574.1	569	Rhacophorus rhodopus isolate KIZ060821229 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564573.1	571	Rhacophorus rhodopus isolate KIZ060821175 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF564572.1	570	Rhacophorus rhodopus isolate KIZ060821037 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	AF458147.1	1924	Rhacophorus rhodopus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646370.1	534	Rhacophorus rhodopus clone 9 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646369.1	534	Rhacophorus rhodopus clone 8 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646368.1	537	Rhacophorus rhodopus clone 7 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646367.1	537	Rhacophorus rhodopus clone 6 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646366.1	536	Rhacophorus rhodopus clone 5 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646365.1	537	Rhacophorus rhodopus clone 4 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646364.1	536	Rhacophorus rhodopus clone 3 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646363.1	537	Rhacophorus rhodopus clone 2 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RHACOPHORIDAE_Rhacophorus_rhodopus	EF646362.1	536	Rhacophorus rhodopus clone 1 16S ribosomal RNA gene, partial sequence; mitochondrial

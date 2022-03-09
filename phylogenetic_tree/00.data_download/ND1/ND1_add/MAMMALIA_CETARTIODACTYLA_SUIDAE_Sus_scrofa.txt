@@ -1,0 +1,100 @@
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	OK329967.1	16752	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT483613.1	16620	Sus scrofa isolate DM1122 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MZ647672.1	16690	Sus scrofa domesticus breed Ghungroo mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MZ846190.1	16692	Sus scrofa domesticus breed Doom mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MW342493.1	16710	Sus scrofa breed Dongkhe pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MW534270.1	16710	Sus scrofa domesticus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT501674.1	16690	Sus scrofa breed Ghungroo Pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	NC_000845.1	16613	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN025258.1	16508	Sus scrofa domesticus mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858179.1	16730	Sus scrofa isolate Queshan75 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858178.1	16700	Sus scrofa isolate Queshan65 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858177.1	16730	Sus scrofa isolate Queshan61 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858176.1	16740	Sus scrofa isolate Nanyang59 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858175.1	16710	Sus scrofa isolate Nanyang53 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858174.1	16730	Sus scrofa isolate Nanyang41 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858173.1	16719	Sus scrofa isolate Yuxi35 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858172.1	16759	Sus scrofa isolate Yuxi23 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858171.1	16749	Sus scrofa isolate Yuxi22 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858170.1	16749	Sus scrofa isolate Yuxi21 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK858169.1	16760	Sus scrofa isolate Huainan13 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746097.1	16750	Sus scrofa isolate Queshan66 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746096.1	16750	Sus scrofa isolate Queshan63 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746095.1	16720	Sus scrofa isolate Nanyang56 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746094.1	16710	Sus scrofa isolate Nanyang54 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746093.1	16729	Sus scrofa isolate Yuxi25 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746092.1	16739	Sus scrofa isolate Yuxi24 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746091.1	16730	Sus scrofa isolate Huainan6 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746090.1	16740	Sus scrofa isolate Huainan5 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746089.1	16750	Sus scrofa isolate Huainan4 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK746088.1	16730	Sus scrofa isolate Huainan1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT653633.1	16719	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN624263.1	16771	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT199606.1	16619	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MT199605.1	16609	Sus scrofa breed yimenghei pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MH603005.1	16720	Sus scrofa breed Fengjing mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN258706.1	16719	Sus scrofa isolate HEBAO 01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK248682.1	16613	Sus scrofa breed Andaman Desi pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK248681.1	16613	Sus scrofa breed Nicobari pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK251046.1	16730	Sus scrofa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN550011.1	15371	Sus scrofa breed Hezuo mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MN550010.1	15371	Sus scrofa breed Tibetan mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK344653.1	16581	Sus scrofa isolate Europe haplotype 4 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK344652.1	16581	Sus scrofa isolate Europe haplotype 3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK344651.1	16581	Sus scrofa isolate Europe haplotype 2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK344650.1	16581	Sus scrofa isolate Europe haplotype 1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MK290991.1	16581	Sus scrofa isolate Europe mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG725632.1	16380	Sus scrofa cristatus isolate ABT/SWFH/3 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG837550.1	16776	Sus scrofa isolate RC mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG837549.1	16709	Sus scrofa isolate TP mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	GR554109.1	301	Pi_Uf_67B10_GCGGCCG UFV_EMBRAPA_Brazilian_PIG MUSCLE cDNA_Library Sus scrofa cDNA clone Pi_Uf_67B10 3' similar to gi|33320726|gb|AAQ06019.1| NADH dehydrogenase subunit 1 [Sus. Score = 134 bits (338), Expect = 7e-31, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	GR552508.1	471	Lw_Uf_78B07_M13R UFV_EMBRAPA_Brazilian_PIG MUSCLE cDNA_Library Sus scrofa cDNA clone Lw_Uf_78B07 similar to gi|45826212|gb|AAS77730.1| NADH dehydrogenase subunit 1 [Sus. Score = 201 bits (510), Expect = 8e-51, mRNA sequence
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	NC_039090.1	16738	Sus scrofa cristatus isolate ABT/SWFH/1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG725631.1	16251	Sus scrofa cristatus isolate ABT/SWFH/2 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG725630.1	16738	Sus scrofa cristatus isolate ABT/SWFH/1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	KY964306.1	16753	Sus scrofa breed Huong pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MF143597.1	16828	Sus scrofa breed Kele mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	AF304200.1	15978	Sus scrofa breed Chinese Meishan mitochondrion, partial genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	KY800118.1	16722	Sus scrofa breed Ha Lang pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG009446.1	16610	Sus scrofa breed Dapulian pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG009445.1	16610	Sus scrofa breed Dapulian pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	KY432578.1	16679	Sus scrofa breed Muong Khuong Pig mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250567.1	16701	Sus scrofa isolate YDH32 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250566.1	16691	Sus scrofa isolate YDH17 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250565.1	16690	Sus scrofa isolate YDH14 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250564.1	16702	Sus scrofa isolate WZS973 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250563.1	16690	Sus scrofa isolate WZS955 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250562.1	16701	Sus scrofa isolate WZS947 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250561.1	16690	Sus scrofa isolate WZS889 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250560.1	16690	Sus scrofa isolate WZS809 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250559.1	16690	Sus scrofa isolate WZS149 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250558.1	16690	Sus scrofa isolate tunchang7082 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250557.1	16690	Sus scrofa isolate tunchang6062 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250556.1	16701	Sus scrofa isolate tunchang2007 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250555.1	16690	Sus scrofa isolate putian01 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250554.1	16690	Sus scrofa isolate PTHM16 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250553.1	16690	Sus scrofa isolate PTHF7 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250552.1	16690	Sus scrofa isolate MB3M mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250551.1	16690	Sus scrofa isolate MB18M mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250550.1	16690	Sus scrofa isolate MB16F mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250549.1	16690	Sus scrofa isolate LUC208 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250548.1	16690	Sus scrofa isolate LUC207 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250547.1	16690	Sus scrofa isolate LUC206 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250546.1	16690	Sus scrofa isolate LUC202 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250545.1	16690	Sus scrofa isolate LUC2016 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250544.1	16690	Sus scrofa isolate LUC201 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250543.1	16701	Sus scrofa isolate LL7839 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250542.1	16690	Sus scrofa isolate LL7105 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250541.1	16690	Sus scrofa isolate LL0012 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250540.1	16690	Sus scrofa isolate lantang26 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250539.1	16690	Sus scrofa isolate lantang25 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250538.1	16690	Sus scrofa isolate lantang24 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250537.1	16690	Sus scrofa isolate H31M mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250536.1	16690	Sus scrofa isolate H19M mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250535.1	16690	Sus scrofa isolate F15F mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250534.1	16691	Sus scrofa isolate GZHF10 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250533.1	16691	Sus scrofa isolate GZ08F mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250532.1	16701	Sus scrofa isolate GM12 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250531.1	16691	Sus scrofa isolate GGZM02 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250530.1	16690	Sus scrofa isolate GF99 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_SUIDAE_Sus_scrofa	MG250529.1	16701	Sus scrofa isolate GF38 mitochondrion, complete genome

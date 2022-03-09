@@ -1,0 +1,8 @@
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC534014.1	384	Plestiodon elegans Pele_uncatPenghu mitochondrial gene for 12S rRNA, partial sequence
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	KM017746.1	17058	Plestiodon elegans mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	NC_024576.1	17304	Plestiodon elegans mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	KJ643142.1	17304	Plestiodon elegans mitochondrion, complete genome
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	AY649112.1	842	Plestiodon elegans voucher MVZ 231239 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	JN117723.1	531	Plestiodon elegans 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	EU202953.1	384	Plestiodon elegans voucher KUZ R58273 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	AB543277.1	384	Plestiodon elegans mitochondrial gene for 12S rRNA, partial sequence, country: Taiwan:Taipei

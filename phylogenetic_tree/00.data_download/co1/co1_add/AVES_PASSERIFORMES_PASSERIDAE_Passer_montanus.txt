@@ -1,0 +1,55 @@
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MW536258.1	658	Passer montanus voucher 659900 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MW536257.1	658	Passer montanus voucher 659897 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MW495245.1	16904	Passer montanus saturatus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482324.1	694	Passer montanus voucher UWBM 67573 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482323.1	681	Passer montanus voucher UWBM 74636 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482322.1	681	Passer montanus voucher UWBM 46506 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482321.1	681	Passer montanus voucher UWBM 73694 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482320.1	694	Passer montanus voucher UWBM 58052 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482319.1	694	Passer montanus voucher UWBM 61304 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482318.1	694	Passer montanus voucher UWBM 60042 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482317.1	694	Passer montanus voucher UWBM 61403 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GQ482316.1	694	Passer montanus voucher UWBM 56580 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MH211399.1	16807	Passer montanus isolate XJWLMQ mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MH211398.1	16887	Passer montanus isolate QHXN mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MH211397.1	16888	Passer montanus isolate JXJA mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	MH211396.1	16886	Passer montanus isolate GZAS mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	JF957030.1	642	Passer montanus voucher UPD044 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	JF957029.1	685	Passer montanus voucher UPD058 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	JF957028.1	675	Passer montanus voucher UPD088 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	JF957027.1	683	Passer montanus voucher UPD098 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	JF957026.1	695	Passer montanus voucher UPD099 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	JF499148.1	685	Passer montanus voucher USNM:641805 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AY666250.1	687	Passer montanus voucher JCB 5293 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AY666248.1	694	Passer montanus voucher JCB 5288 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GU572006.1	647	Passer montanus voucher BISE-Aves61 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GU572005.1	648	Passer montanus voucher BISE-Aves278 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GU571527.1	750	Passer montanus voucher NHMO-BC273 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	GU571526.1	742	Passer montanus voucher NHMO-BC75 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AY030185.1	534	Passer montanus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	EF515797.1	686	Passer montanus voucher KRIBB2344 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KX283139.1	661	Passer montanus voucher AI-B262 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KX283138.1	618	Passer montanus voucher AI-B265 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843659.1	653	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO309-10
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843658.1	689	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO221-10
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843657.1	695	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO322-10
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843656.1	674	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO341-10
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843025.1	695	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM660-10
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843024.1	637	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM003-08
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843023.1	690	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM827-11
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843022.1	673	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM038-08
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843021.1	660	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM424-10
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843020.1	655	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM801-11
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843019.1	701	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM729-11
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843018.1	660	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM800-11
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843017.1	657	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM799-11
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843016.1	660	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM361-10
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843015.1	657	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM726-11
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	AB843014.1	687	Passer montanus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM565-10
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KM577704.1	16904	Passer montanus saturatus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	NC_024821.1	16887	Passer montanus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	JX486030.1	16887	Passer montanus mitochondrion, complete genome
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KF946803.1	693	Passer montanus montanus voucher ZMA58950 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KF946802.1	693	Passer montanus montanus voucher ZMA58853 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KF946801.1	693	Passer montanus montanus voucher ZMA58852 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PASSERIDAE_Passer_montanus	KF946800.1	693	Passer montanus montanus voucher ZMA58851 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

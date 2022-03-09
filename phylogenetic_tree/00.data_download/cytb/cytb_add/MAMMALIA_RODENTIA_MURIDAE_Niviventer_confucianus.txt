@@ -1,0 +1,100 @@
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218505.1	1122	Niviventer confucianus isolate MEH98 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218504.1	1122	Niviventer confucianus isolate MEH132 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218503.1	1122	Niviventer confucianus isolate MEH102 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218502.1	1122	Niviventer confucianus isolate MEH101 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218501.1	1122	Niviventer confucianus isolate MEH100 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218500.1	1122	Niviventer confucianus isolate HBHP05 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218499.1	1122	Niviventer confucianus isolate HBHP04 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218498.1	1101	Niviventer confucianus isolate HA10215 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218497.1	1122	Niviventer confucianus isolate 14JD006 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218496.1	1122	Niviventer confucianus isolate 14CY005 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218495.1	1122	Niviventer confucianus isolate 14CY004 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MW218494.1	1122	Niviventer confucianus isolate 14CY003 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334064.1	1140	Niviventer confucianus isolate S2399 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334061.1	1140	Niviventer confucianus isolate S2391 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334060.1	1140	Niviventer confucianus isolate S2388 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334058.1	1140	Niviventer confucianus isolate S2383 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334057.1	1140	Niviventer confucianus isolate S2378 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334056.1	1140	Niviventer confucianus isolate S2374 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334055.1	1140	Niviventer confucianus isolate S2372 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334053.1	1140	Niviventer confucianus isolate S2366 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334052.1	1140	Niviventer confucianus isolate S2363 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334047.1	1140	Niviventer confucianus isolate S2328 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334046.1	1140	Niviventer confucianus isolate S2305 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334045.1	1140	Niviventer confucianus isolate S2302 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334044.1	1140	Niviventer confucianus isolate S2299 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334043.1	1140	Niviventer confucianus isolate S2295 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334038.1	1140	Niviventer confucianus isolate S2268 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334037.1	1140	Niviventer confucianus isolate S2241 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334036.1	1140	Niviventer confucianus isolate S2228 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334035.1	1140	Niviventer confucianus isolate S2225 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334034.1	1140	Niviventer confucianus isolate S2218 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334033.1	1140	Niviventer confucianus isolate S2198 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334032.1	1140	Niviventer confucianus isolate S2195 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334031.1	1140	Niviventer confucianus isolate S2185 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334030.1	1140	Niviventer confucianus isolate S2171 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334029.1	1140	Niviventer confucianus isolate S2142 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334028.1	1140	Niviventer confucianus isolate S2140 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334027.1	1140	Niviventer confucianus isolate S2136 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334026.1	1140	Niviventer confucianus isolate S2132 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334025.1	1140	Niviventer confucianus isolate S2129 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334024.1	1140	Niviventer confucianus isolate S2125 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334023.1	1140	Niviventer confucianus isolate S2119 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334022.1	1140	Niviventer confucianus isolate S2112 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334021.1	1140	Niviventer confucianus isolate S2089 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334020.1	1140	Niviventer confucianus isolate S2079 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334019.1	1140	Niviventer confucianus isolate S2070 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334018.1	1140	Niviventer confucianus isolate S1723 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334017.1	1140	Niviventer confucianus isolate S1717 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334016.1	1140	Niviventer confucianus isolate S1709 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334015.1	1140	Niviventer confucianus isolate S1701 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334014.1	1140	Niviventer confucianus isolate S1665 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334013.1	1140	Niviventer confucianus isolate S1654 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334012.1	1140	Niviventer confucianus isolate S1613 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334011.1	1140	Niviventer confucianus isolate S1606 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334010.1	1140	Niviventer confucianus isolate S0832 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334009.1	1140	Niviventer confucianus isolate S1597 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334008.1	1140	Niviventer confucianus isolate S1593 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334007.1	1140	Niviventer confucianus isolate S1578 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334006.1	1140	Niviventer confucianus isolate S1577 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334005.1	1140	Niviventer confucianus isolate S1561 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334004.1	1140	Niviventer confucianus isolate S1555 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334003.1	1140	Niviventer confucianus isolate S1551 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334002.1	1140	Niviventer confucianus isolate S1545 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334001.1	1140	Niviventer confucianus isolate S1525 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT334000.1	1140	Niviventer confucianus isolate S1513 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333986.1	1140	Niviventer confucianus isolate S1466 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333964.1	1140	Niviventer confucianus isolate S1216 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333963.1	1140	Niviventer confucianus isolate S1306 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333962.1	1140	Niviventer confucianus isolate S1299 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333961.1	1140	Niviventer confucianus isolate S1087 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333945.1	1140	Niviventer confucianus isolate S0870 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333944.1	1140	Niviventer confucianus isolate S0869 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333943.1	1140	Niviventer confucianus isolate S0868 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333942.1	1140	Niviventer confucianus isolate S0866 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333941.1	1140	Niviventer confucianus isolate S0855 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333940.1	1140	Niviventer confucianus isolate S0850 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333939.1	1140	Niviventer confucianus isolate S0849 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333938.1	1140	Niviventer confucianus isolate S0844 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	MT333937.1	1140	Niviventer confucianus isolate S0834 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304472.1	1131	Niviventer confucianus isolate ZIN97701 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304471.1	1131	Niviventer confucianus isolate ZIN97698 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304468.1	1131	Niviventer confucianus isolate YNQB19 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304467.1	1131	Niviventer confucianus isolate YNJD094 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304466.1	1131	Niviventer confucianus isolate WL14339 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304465.1	1131	Niviventer confucianus isolate WL14335 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304464.1	1131	Niviventer confucianus isolate WL14325 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304463.1	1131	Niviventer confucianus isolate WL14321 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304462.1	1131	Niviventer confucianus isolate WL14318 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304461.1	1131	Niviventer confucianus isolate WL14316 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304460.1	1131	Niviventer confucianus isolate WL14294 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304459.1	1131	Niviventer confucianus isolate WL14290 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304458.1	1131	Niviventer confucianus isolate WL14243 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304457.1	1131	Niviventer confucianus isolate WL14240 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304456.1	1128	Niviventer confucianus isolate WL14195 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304455.1	1131	Niviventer confucianus isolate WL14151 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304454.1	1131	Niviventer confucianus isolate WL14129 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304453.1	1131	Niviventer confucianus isolate WL14125 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304452.1	1131	Niviventer confucianus isolate WL14120 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304451.1	1131	Niviventer confucianus isolate WL14115 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Niviventer_confucianus	KY304450.1	1131	Niviventer confucianus isolate WL14113 cytochrome b (cytb) gene, partial cds; mitochondrial

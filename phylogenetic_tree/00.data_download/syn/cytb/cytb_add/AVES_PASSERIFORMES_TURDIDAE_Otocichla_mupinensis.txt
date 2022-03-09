@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_TURDIDAE_Otocichla_mupinensis	MW338659.1	16735	Turdus mupinensis mitochondrion, complete genome
+AVES_PASSERIFORMES_TURDIDAE_Otocichla_mupinensis	DQ910930.1	374	Turdus mupinensis cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Otocichla_mupinensis	DQ263758.1	991	Turdus mupinensis cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_TURDIDAE_Otocichla_mupinensis	EU154640.1	1038	Turdus mupinensis voucher NRM 2007 6479 cytochrome b (cytb) gene, partial cds; mitochondrial

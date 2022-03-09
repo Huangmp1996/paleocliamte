@@ -1,0 +1,34 @@
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	MG719918.1	364	Hoplobatrachus tigerinus isolate IABHU 20006 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	NC_014581.1	20462	Hoplobatrachus tigerinus mitochondrion, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB636611.1	934	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, complete sequence, haplotype: Tig-Control-Live-12S
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB636610.1	934	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, complete sequence, haplotype: Tig-Control-3920-12S
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AP011543.1	20462	Hoplobatrachus tigerinus mitochondrial DNA, complete genome
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB488879.1	454	Hoplobatrachus tigerinus mitochondrial gene for 12S ribosomal RNA, partial sequence, country: India:Mangalore
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	GU191104.1	185	Hoplobatrachus tigerinus 12S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB290424.1	688	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-baji-II
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB290423.1	688	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-baji-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB290422.1	688	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-shir-II
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB290421.1	688	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-shir-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273157.1	690	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-baji-III
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273156.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-padi-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273155.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-pabn-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273154.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-borg-II
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273153.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-borg-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273152.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-jaga-III
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273151.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-jaga-II
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273150.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-jaga-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273149.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-sylh-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273148.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-rang-II
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273147.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-rang-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273146.1	688	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-khul-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273145.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-jama-II
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273144.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-jama-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273143.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-sham-II
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273142.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-sham-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273141.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-BAUC-V
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273140.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-BAUC-IV
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273139.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-BAUC-III
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273138.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-BAUC-II
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB273137.1	689	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, haplotype: tig-BAUC-I
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB167916.1	454	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, country:India: Western Ghats, Mangalore, Padil, Sample No. 31
+AMPHIBIA_ANURA_DICROGLOSSIDAE_Hoplobatrachus_tigerinus	AB167915.1	442	Hoplobatrachus tigerinus mitochondrial gene for 12S rRNA, partial sequence, country:India: Western Ghats, Mangalore, Padil, Sample No. 30

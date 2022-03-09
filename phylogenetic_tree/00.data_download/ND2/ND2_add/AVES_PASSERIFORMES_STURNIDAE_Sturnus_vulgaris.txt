@@ -1,0 +1,25 @@
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	EU551977.1	1041	Sturnus vulgaris voucher DZC 19980829-01 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	EU551976.1	1041	Sturnus vulgaris voucher DZC 19930523-01 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	EU551975.1	1041	Sturnus vulgaris voucher NRM 20046688 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	EU551974.1	1041	Sturnus vulgaris voucher MNHN 1960.1730 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	EU551973.1	1041	Sturnus vulgaris voucher MNHN 1987.652 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	DQ146346.1	1018	Sturnus vulgaris NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	AF407048.1	1088	Sturnus vulgaris tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial genes for mitochondrial products
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	HM159191.1	1041	Sturnus vulgaris voucher STVU NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896155.1	1016	Sturnus vulgaris isolate HapL NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896154.1	1016	Sturnus vulgaris isolate HapK NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896153.1	1016	Sturnus vulgaris isolate HapJ NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896152.1	1016	Sturnus vulgaris isolate HapI NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896151.1	1016	Sturnus vulgaris isolate HapH NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896150.1	1016	Sturnus vulgaris isolate HapG NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896149.1	1016	Sturnus vulgaris isolate HapF NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896148.1	1016	Sturnus vulgaris isolate HapE NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896147.1	1016	Sturnus vulgaris isolate HapD NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896146.1	1016	Sturnus vulgaris isolate HapC NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896145.1	1016	Sturnus vulgaris isolate HapB NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ896144.1	1016	Sturnus vulgaris isolate HapA NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	FJ177342.1	1041	Sturnus vulgaris voucher FMNH 389606 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	EF468186.1	1041	Sturnus vulgaris isolate SturnusvulgarisBT81 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	NC_029360.1	16793	Sturnus vulgaris isolate sv009 mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	KT946692.1	16793	Sturnus vulgaris isolate sv047 mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Sturnus_vulgaris	KT946691.1	16793	Sturnus vulgaris isolate sv009 mitochondrion, complete genome

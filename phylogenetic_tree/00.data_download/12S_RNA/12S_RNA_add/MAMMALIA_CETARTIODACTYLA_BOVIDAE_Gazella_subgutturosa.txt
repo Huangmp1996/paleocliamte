@@ -1,0 +1,9 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	MZ150871.1	219	Gazella subgutturosa subgutturosa breed UZB-150221 small subunit ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	MW285638.1	16435	Gazella subgutturosa mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN632644.1	16433	Gazella subgutturosa isolate PhC1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JN632643.1	16436	Gazella subgutturosa isolate AWWP mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JX647805.1	960	Gazella subgutturosa marica voucher AWWP 8961 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	JX647804.1	992	Gazella subgutturosa marica voucher AWWP 6681 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	NC_020710.1	16433	Gazella subgutturosa isolate PhC1 mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	AY141134.1	955	Gazella subgutturosa 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Gazella_subgutturosa	U87007.1	241	Gazella subgutturosa 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

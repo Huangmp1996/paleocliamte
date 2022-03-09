@@ -1,0 +1,9 @@
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	KY766922.1	16690	Tetraogallus himalayensis mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	KY411599.1	16690	Tetraogallus himalayensis voucher LSUMZ B-26339 mitochondrion, partial genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	EU845750.1	1023	Tetraogallus himalayensis voucher 205 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	EU845749.1	1023	Tetraogallus himalayensis voucher 203 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	EU845748.1	1023	Tetraogallus himalayensis voucher 202 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	GU214304.1	1023	Tetraogallus himalayensis grombczewskii isolate 81 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	NC_027279.1	16692	Tetraogallus himalayensis voucher THIM20150414 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	KR349185.1	16692	Tetraogallus himalayensis voucher THIM20150414 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_himalayensis	KC785696.1	1041	Tetraogallus himalayensis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

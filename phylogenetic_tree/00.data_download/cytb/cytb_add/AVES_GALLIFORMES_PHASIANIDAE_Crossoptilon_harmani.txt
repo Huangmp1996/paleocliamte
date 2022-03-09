@@ -1,0 +1,13 @@
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH674763.1	767	Crossoptilon harmani voucher PZ6 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH674762.1	767	Crossoptilon harmani voucher pz5 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH674761.1	767	Crossoptilon harmani voucher pz4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH674760.1	767	Crossoptilon harmani voucher pz3 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH674759.1	767	Crossoptilon harmani voucher pz1 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MF085583.1	768	Crossoptilon harmani voucher pz5 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MF085582.1	768	Crossoptilon harmani voucher pz4 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MF085581.1	768	Crossoptilon harmani voucher pz3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MF085580.1	768	Crossoptilon harmani voucher pz1 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	AY343524.1	1143	Crossoptilon harmani cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	GU214283.1	1143	Crossoptilon harmani isolate ZM01 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	NC_026547.1	16682	Crossoptilon harmani voucher M10 mitochondrion, complete genome
+AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	KP259806.1	16682	Crossoptilon harmani voucher M10 mitochondrion, complete genome

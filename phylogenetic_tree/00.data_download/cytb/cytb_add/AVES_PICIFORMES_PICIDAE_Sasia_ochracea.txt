@@ -1,0 +1,6 @@
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	NC_028019.1	16908	Sasia ochracea voucher MNHN CG 2005-2676 mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	KT443919.1	16908	Sasia ochracea voucher MNHN CG 2005-2676 mitochondrion, complete genome
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	KJ456453.1	1143	Sasia ochracea voucher NRM:20056705 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	KF765950.1	952	Sasia ochracea isolate Sochoch2 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	DQ479252.1	1065	Sasia ochracea cytochrome b gene, partial cds; mitochondrial
+AVES_PICIFORMES_PICIDAE_Sasia_ochracea	DQ479251.1	1065	Sasia ochracea cytochrome b gene, partial cds; mitochondrial

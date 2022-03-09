@@ -1,0 +1,16 @@
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	NC_015486.1	16551	Rhinopithecus bieti mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY998835.1	1137	Pygathrix bieti haplotype D10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY998834.1	1137	Pygathrix bieti haplotype D9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY998833.1	1137	Pygathrix bieti haplotype D7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY998832.1	1137	Pygathrix bieti haplotype D5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY998831.1	1137	Pygathrix bieti haplotype D3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY232664.1	402	Pygathrix bieti cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY232663.1	402	Pygathrix bieti cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY232662.1	402	Pygathrix bieti cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	HQ287798.1	12592	Rhinopithecus bieti mitochondrial sequence
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	HM125579.1	16551	Rhinopithecus bieti mitochondrion, complete genome
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AF020413.1	423	Pygathrix bieti cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AF020412.1	423	Pygathrix bieti cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY232668.1	387	Pygathrix bieti 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY232667.1	387	Pygathrix bieti 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+MAMMALIA_PRIMATES_CERCOPITHECIDAE_Rhinopithecus_bieti	AY232666.1	387	Pygathrix bieti 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

@@ -1,0 +1,14 @@
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105099.1	683	Berylmys bowersi isolate MB9 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105098.1	683	Berylmys bowersi isolate MB8 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105097.1	1025	Berylmys bowersi isolate MB3 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN105096.1	1025	Berylmys bowersi isolate MB2 cytochrome b (Cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217477.1	1105	Berylmys bowersi voucher L0151 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217471.1	1108	Berylmys bowersi voucher R5410 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217453.1	950	Berylmys bowersi voucher R4400 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217415.1	1118	Berylmys bowersi voucher R3425 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	HM217413.1	1105	Berylmys bowersi voucher R3415 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	KC878024.1	1047	Berylmys bowersi voucher MVZ186482 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JX573336.1	1140	Berylmys bowersi voucher KIZ:PM26 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JX573335.1	1140	Berylmys bowersi voucher KIZ:PM17 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	JN675478.1	945	Berylmys bowersi isolate 47Bbo_28 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_MURIDAE_Berylmys_bowersi	AM408337.1	1140	Berylmys bowersi mitochondrial partial cytb gene for cytochrome b

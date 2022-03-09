@@ -1,0 +1,3 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	MW551527.1	17864	Odorrana grahami mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	EU861581.1	1057	Odorrana grahami voucher CAS 207505 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_grahami	EU861580.1	1057	Odorrana grahami voucher CAS 207504 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial

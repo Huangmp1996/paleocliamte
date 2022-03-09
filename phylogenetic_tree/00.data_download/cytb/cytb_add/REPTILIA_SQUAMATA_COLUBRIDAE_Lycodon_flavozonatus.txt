@@ -1,0 +1,10 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	MT625851.1	1066	Lycodon flavozonatus voucher SYS r001358 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	MT625850.1	1066	Lycodon flavozonatus voucher SYS r001357 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	MK201413.1	585	Lycodon flavozonatus voucher CHS571 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	MK201312.1	585	Lycodon flavozonatus voucher CHS174 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	MK201311.1	585	Lycodon flavozonatus voucher CHS173 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	NC_028730.1	17172	Lycodon flavozonatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	KR911720.1	17172	Lycodon flavozonatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	KC733210.1	1099	Dinodon flavozonatum voucher GP2279 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	KC733199.1	1101	Dinodon flavozonatum voucher GP1939 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Lycodon_flavozonatus	KF732927.1	1085	Dinodon flavozonatum isolate CIB104 cytochrome b (cytb) gene, partial cds; mitochondrial

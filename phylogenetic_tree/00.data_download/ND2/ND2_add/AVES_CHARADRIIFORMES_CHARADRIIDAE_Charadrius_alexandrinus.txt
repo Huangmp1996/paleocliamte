@@ -1,0 +1,4 @@
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	MN356435.1	16692	Charadrius alexandrinus mitochondrion, partial genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	NC_041118.1	16905	Charadrius alexandrinus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	MF565382.1	16905	Charadrius alexandrinus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_alexandrinus	KX534738.1	1037	Charadrius alexandrinus voucher UMMZ-T567 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

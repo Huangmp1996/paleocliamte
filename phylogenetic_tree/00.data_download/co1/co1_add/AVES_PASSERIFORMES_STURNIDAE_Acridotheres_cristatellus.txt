@@ -1,0 +1,5 @@
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	JF810423.1	16820	Acridotheres cristatellus mitochondrion, complete genome
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	FJ661087.1	682	Acridotheres cristatellus voucher AHNU:Y06013 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	EF484195.1	1551	Acridotheres cristatellus isolate AcrisB3778 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	JQ173898.2	651	Acridotheres cristatellus voucher USNM:Birds:613090 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	NC_015613.1	16820	Acridotheres cristatellus mitochondrion, complete genome

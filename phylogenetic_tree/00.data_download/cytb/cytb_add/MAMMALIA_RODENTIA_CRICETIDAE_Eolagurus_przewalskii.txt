@@ -1,0 +1,5 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Eolagurus_przewalskii	MK750944.1	1140	Eolagurus przewalskii voucher ZMMU:S-192279 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eolagurus_przewalskii	MK750943.1	1140	Eolagurus przewalskii voucher ZMMU:S-192278 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eolagurus_przewalskii	MK750942.1	1114	Eolagurus przewalskii voucher ZMMU:S-189084 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eolagurus_przewalskii	MK750941.1	1100	Eolagurus przewalskii voucher ZMMU:S-189083 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Eolagurus_przewalskii	MK750940.1	1140	Eolagurus przewalskii voucher Vladimir Lebedev:M_11_50 cytochrome b (cytb) gene, partial cds; mitochondrial

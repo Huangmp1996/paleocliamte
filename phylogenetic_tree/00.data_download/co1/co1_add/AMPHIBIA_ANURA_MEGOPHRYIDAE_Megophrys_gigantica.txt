@@ -1,0 +1,6 @@
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MZ364157.1	18259	Megophrys gigantica mitochondrion, complete genome
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MH406235.1	632	Megophrys gigantica isolate 3934 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MH406234.1	632	Megophrys gigantica isolate 3933 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	MH406225.1	632	Megophrys gigantica isolate 3883 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	KX812059.1	561	Megophrys gigantica isolate KIZ04892 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_gigantica	KX812058.1	561	Megophrys gigantica isolate YPX32083 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

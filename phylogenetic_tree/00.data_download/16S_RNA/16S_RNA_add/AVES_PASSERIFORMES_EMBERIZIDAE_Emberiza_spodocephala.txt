@@ -1,0 +1,6 @@
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	KP877653.1	843	Schoeniclus spodocephala sordidus isolate MAR4962 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	KP877641.1	461	Schoeniclus spodocephala personatus isolate MAR4352 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	KP877637.1	843	Schoeniclus spodocephala spodocephala isolate MAR337 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	NC_021445.1	16796	Emberiza spodocephala mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	KC758647.1	16796	Emberiza spodocephala mitochondrion, complete genome
+AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	AB042392.1	463	Emberiza spodocephala mitochondrial gene for 16S ribosomal RNA, partial sequence

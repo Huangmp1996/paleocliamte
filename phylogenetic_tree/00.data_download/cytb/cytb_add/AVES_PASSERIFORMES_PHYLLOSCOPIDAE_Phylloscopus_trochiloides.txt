@@ -1,0 +1,16 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	Y10739.1	1041	P.trochiloides mitochondrial cytb gene, partial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	Z73493.1	1038	Phylloscopus trochiloides viridanus mitochondrial cytochrome b gene
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	MH079359.1	1034	Phylloscopus trochiloides obscuratus voucher IOZ 17367 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	MH079358.1	1034	Phylloscopus trochiloides obscuratus voucher IOZ 16265 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	MH079357.1	1031	Phylloscopus trochiloides obscuratus voucher IOZ 17356 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	L77126.1	910	Phylloscopus trochiloides cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	MF458380.1	1026	Phylloscopus trochiloides cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	L77130.1	910	Phylloscopus trochiloides cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	AY903608.1	1038	Phylloscopus trochiloides trochiloides cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	HQ608862.1	1176	Phylloscopus trochiloides isolate Y5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	HQ608824.1	1143	Phylloscopus trochiloides isolate Y4 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	EF502040.1	1029	Phylloscopus trochiloides viridanus cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	KP267729.1	777	Phylloscopus trochiloides isolate MAR322 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	KP267728.1	852	Phylloscopus trochiloides isolate MAR2910 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	JF828083.1	666	Phylloscopus trochiloides obscuratus isolate mas66 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_trochiloides	JF828082.1	686	Phylloscopus trochiloides obscuratus isolate mas65 cytochrome b gene, partial cds; mitochondrial

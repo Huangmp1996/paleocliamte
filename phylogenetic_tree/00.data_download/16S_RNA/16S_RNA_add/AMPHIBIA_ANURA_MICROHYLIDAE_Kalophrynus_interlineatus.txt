@@ -1,0 +1,12 @@
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	LC208821.1	1767	Kalophrynus interlineatus mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, partial and complete sequence, specimen_voucher: KUHE:20386
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	KM509148.1	1049	Kalophrynus interlineatus isolate PT-168 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	KJ418722.1	979	Kalophrynus interlineatus voucher ZMMU:NAP-03810 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	KJ418721.1	969	Kalophrynus interlineatus voucher ZMMU:NAP-03755 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	KJ418720.1	976	Kalophrynus interlineatus voucher ZMMU:NAP-03403 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	KJ418719.1	976	Kalophrynus interlineatus voucher ZMMU:NAP-02829 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	KJ418718.1	988	Kalophrynus interlineatus voucher ZMMU:NAP-03071 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	KJ418717.1	988	Kalophrynus interlineatus voucher ZMMU:NAP-2434 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	KC180004.1	575	Kalophrynus interlineatus voucher USFS 34285 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	JX678906.1	1175	Kalophrynus interlineatus voucher KIZHERP0169 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	AB634698.1	818	Kalophrynus interlineatus mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:33787
+AMPHIBIA_ANURA_MICROHYLIDAE_Kalophrynus_interlineatus	AB611916.1	866	Kalophrynus interlineatus mitochondrial gene for 16S ribosomal RNA, partial sequence, note: No. M17

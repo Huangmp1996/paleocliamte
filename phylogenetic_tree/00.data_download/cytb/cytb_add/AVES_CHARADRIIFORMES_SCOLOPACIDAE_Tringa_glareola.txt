@@ -1,0 +1,4 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_glareola	NC_039096.1	16804	Tringa glareola mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_glareola	KY128485.1	16804	Tringa glareola mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_glareola	AY894228.1	870	Tringa glareola cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_glareola	AF417923.1	1143	Tringa glareola cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product

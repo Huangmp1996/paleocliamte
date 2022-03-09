@@ -1,0 +1,7 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	MK065327.1	496	Laticauda colubrina voucher CHS025 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	NC_036054.1	17450	Laticauda colubrina mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	KY496324.1	17450	Laticauda colubrina mitochondrion, complete genome
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	KX239654.1	932	Laticauda colubrina 12S ribosomal RNA gene, complete sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	EU547089.1	943	Laticauda colubrina 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	D31607.1	346	Laticauda colubrina mitochondrial gene for 12S rRNA, partial sequence
+REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_colubrina	U96799.1	628	Laticauda colubrina 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

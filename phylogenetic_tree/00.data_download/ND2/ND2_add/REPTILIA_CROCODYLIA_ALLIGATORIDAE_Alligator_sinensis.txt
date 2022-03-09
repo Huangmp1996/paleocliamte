@@ -1,0 +1,4 @@
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	JF315677.1	1121	Alligator sinensis isolate LSUMZ_H-7868 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	JF315637.1	1118	Alligator sinensis isolate LSUMZ_H-21699 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	JF315623.1	1128	Alligator sinensis isolate LSUMZ_H-21700 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
+REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AF511507.1	16746	Alligator sinensis mitochondrion, complete genome

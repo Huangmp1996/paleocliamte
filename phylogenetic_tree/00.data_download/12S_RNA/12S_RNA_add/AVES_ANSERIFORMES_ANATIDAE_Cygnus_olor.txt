@@ -1,0 +1,6 @@
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	NC_049173.1	66082187	Cygnus olor isolate bCygOlo1 chromosome 5, bCygOlo1.pri.v2, whole genome shotgun sequence
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	NC_049188.1	12179482	Cygnus olor isolate bCygOlo1 chromosome 20, bCygOlo1.pri.v2, whole genome shotgun sequence
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	NC_027096.1	16739	Cygnus olor mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	KR867679.1	16735	Cygnus olor mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	KP981364.1	16739	Cygnus olor mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_olor	HM063558.1	1035	Cygnus olor isolate MDS tRNA-Phe gene, partial sequence; 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, partial sequence; mitochondrial

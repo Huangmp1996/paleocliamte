@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_castaneceps	AY128548.1	879	Alcippe castaneceps exul cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_castaneceps	AY128547.1	651	Alcippe castaneceps castaneceps cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_castaneceps	KJ456457.1	1053	Alcippe castaneceps cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_castaneceps	JN827170.1	723	Alcippe castaneceps voucher KUNHM 15156 cytochrome b (CYTB) gene, partial cds; mitochondrial

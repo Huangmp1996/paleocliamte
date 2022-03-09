@@ -1,0 +1,90 @@
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KU605241.1	15192	Eremias arguta mitochondrion, partial genome
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745431.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6429 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745430.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6428 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745429.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6427 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745428.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6426 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745427.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6425 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745426.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6424 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745425.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6423 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745424.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6422 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745423.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6421 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745422.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo6420 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745421.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4163 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745420.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4162 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745419.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4161 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745418.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4160 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745417.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4159 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745416.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4158 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745415.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4738 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745414.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4737 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745413.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4734 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745412.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4733 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745411.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4732 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745410.1	1143	Eremias arguta voucher CIB<CHN>:HERP Guo4731 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745409.1	1143	Eremias arguta potanini voucher CIB<CHN>:HERP Guo2276 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745408.1	1143	Eremias arguta potanini voucher CIB<CHN>:HERP Guo2275 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745407.1	1143	Eremias arguta potanini voucher CIB<CHN>:HERP Guo2274 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745406.1	1143	Eremias arguta potanini voucher CIB<CHN>:HERP Guo2273 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745405.1	1143	Eremias arguta potanini voucher CIB<CHN>:HERP Guo2272 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	MG745404.1	1143	Eremias arguta potanini voucher CIB<CHN>:HERP Guo2271 cytochrome b gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	GQ142115.1	1143	Eremias arguta isolate ACA-18 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977970.1	780	Eremias arguta arguta voucher ZMMU:R-12416 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977969.1	780	Eremias arguta arguta voucher ZMMU:R-11981 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977965.1	780	Eremias arguta voucher ZMMU:R-12410-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977964.1	780	Eremias arguta voucher ZMMU:R-12410-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977963.1	780	Eremias arguta voucher ZMMU:R-12425 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977962.1	780	Eremias arguta voucher ZMMU:R-12489 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977961.1	780	Eremias arguta voucher ZMMU:R-12426-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977960.1	780	Eremias arguta voucher ZMMU:R-12426-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977959.1	780	Eremias arguta darevskii voucher ZMMU:R-12943-4 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977958.1	780	Eremias arguta darevskii voucher ZMMU:R-12943-3 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977957.1	780	Eremias arguta darevskii voucher ZMMU:R-12943-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977956.1	780	Eremias arguta darevskii voucher ZMMU:R-12943-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977955.1	780	Eremias arguta darevskii voucher ZMMU:R-12490-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977954.1	780	Eremias arguta darevskii voucher ZMMU:R-12490-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977953.1	780	Eremias arguta uzbekistanica voucher ZMMU:R-12249 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977952.1	780	Eremias arguta uzbekistanica voucher ZMMU:R-11698 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977951.1	780	Eremias arguta deserti voucher ZMMU:R-12256-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977950.1	780	Eremias arguta deserti voucher ZMMU:R-12256-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977949.1	780	Eremias arguta deserti isolate Ead9 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977948.1	780	Eremias arguta deserti isolate Ead8 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977947.1	780	Eremias arguta deserti isolate Ead7 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977946.1	780	Eremias arguta deserti isolate Ead12 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977945.1	780	Eremias arguta deserti isolate Ead11 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977944.1	780	Eremias arguta deserti isolate Ead10 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977943.1	780	Eremias arguta deserti voucher ZMMU:R-12224-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977942.1	780	Eremias arguta deserti voucher ZMMU:R-12224-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977941.1	780	Eremias arguta deserti voucher ZMMU:R-12433-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977940.1	780	Eremias arguta deserti voucher ZMMU:R-12433-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977939.1	780	Eremias arguta deserti isolate Ead4 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977938.1	780	Eremias arguta deserti isolate Ead3 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977937.1	780	Eremias arguta deserti isolate Ead2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977936.1	780	Eremias arguta deserti isolate Ead1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977935.1	780	Eremias arguta deserti isolate Ead6 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977934.1	780	Eremias arguta deserti isolate Ead5 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977933.1	780	Eremias arguta deserti voucher ZMMU:R-12072-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977932.1	780	Eremias arguta deserti voucher ZMMU:R-12072-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977931.1	780	Eremias arguta deserti voucher ZMMU:R-12455 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977930.1	780	Eremias arguta voucher ZMMU:R-12473 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977929.1	780	Eremias arguta transcaucasica voucher ZMMU:R-12237 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977928.1	780	Eremias arguta arguta voucher ZMMU:R-12409-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977927.1	780	Eremias arguta arguta voucher ZMMU:R-12409-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977926.1	780	Eremias arguta arguta voucher ZMMU:R-12424-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977925.1	780	Eremias arguta arguta voucher ZMMU:R-12424-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977924.1	780	Eremias arguta arguta isolate Eaa2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977923.1	780	Eremias arguta arguta isolate Eaa1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977922.1	780	Eremias arguta arguta voucher ZMMU:R-12412 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977921.1	780	Eremias arguta arguta voucher ZMMU:R-12419 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977920.1	780	Eremias arguta voucher ZMMU:R-12414 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977919.1	780	Eremias arguta cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977918.1	780	Eremias arguta voucher ZMMU:R-12488-3 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977917.1	780	Eremias arguta voucher ZMMU:R-12488-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977916.1	780	Eremias arguta voucher ZMMU:R-12488-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977915.1	780	Eremias arguta voucher ZMMU:R-12415 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977914.1	780	Eremias arguta voucher ZMMU:R-12420-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977913.1	780	Eremias arguta voucher ZMMU:R-12420-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977912.1	780	Eremias arguta voucher ZMMU:R-12417-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977911.1	780	Eremias arguta voucher ZMMU:R-12417-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977910.1	780	Eremias arguta potanini voucher ZMMU:R-12459-1 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977909.1	780	Eremias arguta potanini voucher ZMMU:R-12604-2 cytochrome b (cytb) gene, partial cds
+REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KM977908.1	780	Eremias arguta potanini voucher ZMMU:R-12604-1 cytochrome b (cytb) gene, partial cds

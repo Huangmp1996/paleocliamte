@@ -1,0 +1,24 @@
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	MN216344.1	596	Riparia riparia cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GQ482616.1	694	Riparia riparia voucher UWBM 46945 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GQ482613.1	655	Riparia riparia voucher UWBM 59972 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	KU722506.1	657	Riparia riparia voucher USNM:Birds:647941 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	KU722484.1	657	Riparia riparia voucher USNM:Birds:647854 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	KU722430.1	657	Riparia riparia voucher USNM:Birds:647793 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GU572083.1	648	Riparia riparia voucher BISE-Aves196 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GU572082.1	648	Riparia riparia voucher BISE-Aves434 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GU571610.1	731	Riparia riparia voucher NHMO-BC509 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GU571609.1	732	Riparia riparia voucher NHMO-BC508 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GU571206.1	732	Riparia riparia voucher NHMO-BC329 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GU571205.1	722	Riparia riparia voucher NHMO-BC330 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GQ482617.1	694	Riparia riparia voucher UWBM 59627 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GQ482615.1	694	Riparia riparia voucher UWBM 49641 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GQ482614.1	508	Riparia riparia voucher ZMMU RYA 1052 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GQ482612.1	508	Riparia riparia voucher ZMMU RYA 1053 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GQ482611.1	508	Riparia riparia voucher ZMMU RYA 1055 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	GQ482610.1	508	Riparia riparia voucher ZMMU RYA 1056 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	FJ582635.1	855	Riparia riparia voucher 1B-139 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	FJ582634.1	729	Riparia riparia voucher 1B-2706 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	AB843739.1	664	Riparia riparia mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO236-10
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	KF946848.1	572	Riparia riparia riparia voucher ZMA58871 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	JN801374.1	694	Riparia riparia voucher 3063 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_HIRUNDINIDAE_Riparia_riparia	JN801373.1	608	Riparia riparia voucher USNM 586151 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

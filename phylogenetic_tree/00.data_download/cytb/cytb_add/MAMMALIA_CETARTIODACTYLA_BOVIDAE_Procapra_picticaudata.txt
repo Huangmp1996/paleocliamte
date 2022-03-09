@@ -1,0 +1,21 @@
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	MH345727.1	16620	Procapra picticaudata mitochondrion, complete genome
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423528.1	410	Procapra picticaudata haplotype 16 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423527.1	409	Procapra picticaudata haplotype 15 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423524.1	410	Procapra picticaudata haplotype 12 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423523.1	410	Procapra picticaudata haplotype 11 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423522.1	410	Procapra picticaudata haplotype 10 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423521.1	410	Procapra picticaudata haplotype 9 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423520.1	410	Procapra picticaudata haplotype 8 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423519.1	410	Procapra picticaudata haplotype 7 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423518.1	410	Procapra picticaudata haplotype 6 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423517.1	410	Procapra picticaudata haplotype 5 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423516.1	410	Procapra picticaudata haplotype 4 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423515.1	410	Procapra picticaudata haplotype 3 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423514.1	410	Procapra picticaudata haplotype 2 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ423513.1	410	Procapra picticaudata haplotype 1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ269162.1	375	Procapra picticaudata isolate Ppic1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ001166.1	401	Procapra picticaudata isolate TGzz02 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ001165.1	401	Procapra picticaudata isolate TGzz01 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ001164.1	401	Procapra picticaudata isolate BJzooM cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	DQ001163.1	401	Procapra picticaudata isolate BJzooF cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_CETARTIODACTYLA_BOVIDAE_Procapra_picticaudata	EF554685.1	385	Procapra picticaudata cytochrome b gene, partial cds; mitochondrial

@@ -1,0 +1,20 @@
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984943.1	525	Egretta sacra voucher MHNG Po4.091 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984942.1	525	Egretta sacra voucher MHNG AC12-22 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984941.1	525	Egretta sacra voucher MHNG AC12-21 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984940.1	525	Egretta sacra voucher MHNG AC12-20 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984939.1	525	Egretta sacra voucher MHNG AC12-19 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984938.1	525	Egretta sacra voucher MHNG AC12-18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984937.1	525	Egretta sacra voucher MHNG AC12-17 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984936.1	525	Egretta sacra voucher MHNG AC12-16 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984935.1	525	Egretta sacra voucher MHNG Po8.009 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984934.1	525	Egretta sacra voucher MHNG Po8.082 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984933.1	525	Egretta sacra voucher AMNH 249222 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984932.1	525	Egretta sacra voucher AMNH 207700 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984931.1	525	Egretta sacra voucher AMNH 189991 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984930.1	525	Egretta sacra voucher AMNH 189994 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984929.1	525	Egretta sacra voucher MHNG HH7.082 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984928.1	525	Egretta sacra voucher MHNG HH7.083 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984927.1	525	Egretta sacra voucher AMNH 194962 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KU984926.1	525	Egretta sacra voucher AMNH 194958 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	NC_025920.1	19656	Egretta sacra mitochondrion, complete genome
+AVES_PELECANIFORMES_ARDEIDAE_Egretta_sacra	KJ190951.1	19656	Egretta sacra mitochondrion, complete genome

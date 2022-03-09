@@ -1,0 +1,68 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208954.1	591	Accipiter nisus isolate MW19753 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208953.1	591	Accipiter nisus isolate MW19750 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208952.1	591	Accipiter nisus isolate MW21692 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208951.1	591	Accipiter nisus isolate MW9901 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208950.1	591	Accipiter nisus isolate MW9900 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208949.1	591	Accipiter nisus isolate MW59 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208948.1	591	Accipiter nisus isolate MW2826 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208947.1	591	Accipiter nisus isolate MW2821 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208946.1	591	Accipiter nisus isolate MW9893 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208945.1	591	Accipiter nisus isolate MW2620 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208944.1	591	Accipiter nisus isolate MW2594 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208943.1	591	Accipiter nisus isolate MW66074 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208942.1	591	Accipiter nisus isolate MW66073 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208941.1	591	Accipiter nisus isolate MW66072 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208940.1	591	Accipiter nisus isolate MW7484 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208939.1	591	Accipiter nisus isolate MW7483 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208938.1	591	Accipiter nisus isolate MW7482 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208937.1	591	Accipiter nisus isolate MW9899 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208936.1	591	Accipiter nisus isolate MW9898 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208935.1	591	Accipiter nisus isolate MW9897 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208934.1	591	Accipiter nisus isolate MW9891 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208933.1	591	Accipiter nisus isolate MW7991 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208932.1	591	Accipiter nisus isolate MW62443 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208931.1	591	Accipiter nisus isolate MW62434 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208930.1	591	Accipiter nisus isolate MW43081 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MZ208929.1	591	Accipiter nisus isolate MW43070 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MN929010.1	18352	Accipiter nisus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MN122826.1	16426	Accipiter nisus mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GQ481251.1	694	Accipiter nisus voucher UWBM 46858 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GQ481249.1	694	Accipiter nisus voucher UWBM 64662 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GQ481248.1	694	Accipiter nisus voucher UWBM 66742 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GU571690.1	648	Accipiter nisus voucher BISE-Aves41 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GU571689.1	648	Accipiter nisus voucher BISE-Aves450 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GU571210.1	749	Accipiter nisus voucher NHMO-BC37 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GU571209.1	740	Accipiter nisus voucher NHMO-BC6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GQ922642.1	699	Accipiter nisus bio-material A055 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GQ481250.1	694	Accipiter nisus voucher UWBM 59777 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	GQ481247.1	694	Accipiter nisus voucher UWBM 51182 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	EF515769.1	686	Accipiter nisus voucher KRIBB1307 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AB843330.1	632	Accipiter nisus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO462-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AB843329.1	595	Accipiter nisus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO439-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AB843328.1	686	Accipiter nisus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO123-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AB842509.1	678	Accipiter nisus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM815-11
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AB842508.1	645	Accipiter nisus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM275-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AB842507.1	615	Accipiter nisus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM107-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AB842506.1	637	Accipiter nisus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM515-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	AB842505.1	673	Accipiter nisus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM317-10
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KJ680300.1	19417	Accipiter nisus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	NC_025580.1	18647	Accipiter nisus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KM360148.1	18647	Accipiter nisus mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946563.1	693	Accipiter nisus nisus voucher ZMA58746 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946562.1	693	Accipiter nisus nisus voucher ZMA58745 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946561.1	693	Accipiter nisus nisus voucher ZMA58744 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946560.1	693	Accipiter nisus nisus voucher ZMA58743 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946559.1	693	Accipiter nisus nisus voucher ZMA58742 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946558.1	693	Accipiter nisus nisus voucher ZMA58741 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946557.1	693	Accipiter nisus nisus voucher ZMA58248 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946556.1	693	Accipiter nisus nisus voucher ZMA58247 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946555.1	693	Accipiter nisus nisus voucher ZMA58246 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946554.1	693	Accipiter nisus nisus voucher ZMA58245 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KF946553.1	693	Accipiter nisus nisus voucher ZMA58243 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	JF312194.1	694	Accipiter nisus voucher RMCA JEMU042004 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	JF312191.1	694	Accipiter nisus voucher RMCA Acc233 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	JF312190.1	694	Accipiter nisus voucher RMCA Acc232 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	JF312161.1	608	Accipiter nisus wolterstorffi voucher RMCA A20090104 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	JF312087.1	100	Accipiter nisus punicus voucher RBINS 4846 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	JF312085.1	298	Accipiter nisus wolterstorffi voucher RBINS 11136 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	JN801254.1	611	Accipiter nisus voucher USNM 522813 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

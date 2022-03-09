@@ -1,0 +1,5 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_versabilis	KF185055.1	1052	Odorrana versabilis voucher HNNU 003 LS 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_versabilis	KX269223.1	1942	Odorrana versabilis isolate HNNU-A0019L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_versabilis	KF771298.1	1609	Odorrana versabilis 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_versabilis	EF453752.1	860	Rana versabilis voucher HNNU-A0019L 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_versabilis	DQ359992.1	534	Odorrana versabilis voucher HNNU-A0019L 16S ribosomal RNA gene, partial sequence; mitochondrial

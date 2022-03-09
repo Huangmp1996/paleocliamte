@@ -1,0 +1,9 @@
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	MN454863.1	330	Hydrophis viperinus isolate 23 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KT966132.1	1080	Hydrophis viperinus voucher MZBOphi4246 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KT966131.1	842	Hydrophis viperinus voucher KLS0139 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KT966130.1	459	Hydrophis viperinus voucher KLS0120 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KT966129.1	540	Hydrophis viperinus voucher KLS0118 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KC014458.1	735	Praescutata viperina voucher ZMUCR661334 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KC014457.1	929	Praescutata viperina voucher ZMUCR661333 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KC014456.1	1084	Praescutata viperina voucher MW04731 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	JX002980.1	1020	Praescutata viperina voucher MZBOphi4065 cytochrome b (cytb) gene, partial cds; mitochondrial

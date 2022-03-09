@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_SITTIDAE_Tichodroma_muraria	NC_053081.1	16801	Tichodroma muraria mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Tichodroma_muraria	MN356321.1	16801	Tichodroma muraria mitochondrion, complete genome
+AVES_PASSERIFORMES_SITTIDAE_Tichodroma_muraria	MN927063.1	693	Tichodroma muraria isolate MAR.6240 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_SITTIDAE_Tichodroma_muraria	GQ482777.1	690	Tichodroma muraria voucher UWBM 61504 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MT259592.1	16511	Rousettus amplexicaudatus voucher MZF1072 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN816353.1	16720	Rousettus amplexicaudatus isolate VN1368 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN816352.1	16573	Rousettus amplexicaudatus isolate CKM76 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	NC_045044.1	16509	Rousettus amplexicaudatus voucher MRMD 2101 mitochondrion, complete genome
+MAMMALIA_CHIROPTERA_PTEROPODIDAE_Rousettus_amplexicaudatus	MN125184.1	16509	Rousettus amplexicaudatus voucher MRMD 2101 mitochondrion, complete genome

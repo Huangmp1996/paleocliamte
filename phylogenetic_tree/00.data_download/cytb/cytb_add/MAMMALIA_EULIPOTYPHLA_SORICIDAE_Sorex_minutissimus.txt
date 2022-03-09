@@ -1,0 +1,100 @@
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MK641805.1	16700	Sorex minutissimus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	NC_042196.1	17038	Sorex minutissimus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MH823669.1	17038	Sorex minutissimus mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MK410341.1	1140	Sorex minutissimus isolate JA5186TA cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MH332360.1	1140	Sorex minutissimus voucher ZMMU:S-186506 Cytochrome b (Cyt b) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MH332359.1	1140	Sorex minutissimus voucher VZMU Smintiss M11-2 Cytochrome b (Cyt b) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MH332358.1	1140	Sorex minutissimus voucher VZMU Smintiss Mirn Cytochrome b (Cyt b) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MH332357.1	1140	Sorex minutissimus voucher VZMU Smintiss Altai 3 Cytochrome b (Cyt b) gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	KU568471.1	1118	Sorex minutissimus voucher MSB:Mamm:277743 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002705.1	1140	Sorex minutissimus voucher MSB:Mamm:148416 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002704.1	1140	Sorex minutissimus voucher MSB:Mamm:144877 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002703.1	1140	Sorex minutissimus voucher UAM:Mamm:73463 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002702.1	1140	Sorex minutissimus voucher UAM:Mamm:37987 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002701.1	1061	Sorex minutissimus voucher SZMN:32783 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002700.1	1140	Sorex minutissimus voucher SZMN:26895 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002699.1	1140	Sorex minutissimus voucher SZMN:11669 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002698.1	1140	Sorex minutissimus voucher FN_PJ20809 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002697.1	1140	Sorex minutissimus voucher FN_PJ11009 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002696.1	1140	Sorex minutissimus voucher FN_PJ10809 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002695.1	970	Sorex minutissimus voucher UAM:Mamm:53332 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002694.1	1077	Sorex minutissimus voucher MSB:Mamm:148567 Mitochondrial cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002693.1	970	Sorex minutissimus voucher UAM:Mamm:24767 Mitochondrial cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002692.1	960	Sorex minutissimus voucher ZMMU:Mamm:S95659 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002691.1	960	Sorex minutissimus voucher ZMMU:Mamm:S95658 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002690.1	946	Sorex minutissimus voucher ZMMU:Mamm:S95657 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002689.1	960	Sorex minutissimus voucher ZMMU:Mamm:S85347 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002688.1	961	Sorex minutissimus voucher ZMMU:Mamm:S177601 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002687.1	970	Sorex minutissimus voucher ZMMU:Mamm:S102719 Mitochondrial cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002686.1	984	Sorex minutissimus voucher SZMN:8327 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002685.1	964	Sorex minutissimus voucher SZMN:80119 Mitochondrial cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002684.1	960	Sorex minutissimus voucher SZMN:6748 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002683.1	989	Sorex minutissimus voucher SZMN:50322 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002682.1	989	Sorex minutissimus voucher SZMN:32776 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002681.1	969	Sorex minutissimus voucher SZMN:2838 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002680.1	960	Sorex minutissimus voucher SZMN:2830 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002679.1	960	Sorex minutissimus voucher SZMN:12841 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002678.1	960	Sorex minutissimus voucher SZMN:11770 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002677.1	962	Sorex minutissimus voucher FN_XX Mitochondrial cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002676.1	962	Sorex minutissimus voucher FN_EN13 Mitochondrial cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002675.1	962	Sorex minutissimus voucher FN_9834 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002674.1	962	Sorex minutissimus voucher FN_46979 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002673.1	962	Sorex minutissimus voucher FN_39932 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002672.1	962	Sorex minutissimus voucher FN_39931 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002671.1	962	Sorex minutissimus voucher FN_39930 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002670.1	972	Sorex minutissimus voucher FN_32194 Mitochondrial cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002669.1	962	Sorex minutissimus voucher FN_28217 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002668.1	972	Sorex minutissimus voucher FN_21013 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002667.1	962	Sorex minutissimus voucher FN_17905 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002666.1	962	Sorex minutissimus voucher FN_16180 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002665.1	962	Sorex minutissimus voucher FN_16151 Mitochondrial cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002664.1	962	Sorex minutissimus voucher FN_14167 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	HM002663.1	962	Sorex minutissimus voucher FN_100 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223638.1	1140	Sorex minutissimus voucher SZMN:32801 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223637.1	1140	Sorex minutissimus voucher MSB:Mamm:148651 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223636.1	1140	Sorex minutissimus voucher MSB:Mamm:148650 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223635.1	1140	Sorex minutissimus voucher MSB:Mamm:148593 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223634.1	1140	Sorex minutissimus voucher MSB:Mamm:148592 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223633.1	1140	Sorex minutissimus voucher MSB:Mamm:148073 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223632.1	1140	Sorex minutissimus voucher MSB:Mamm:148033 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223631.1	1140	Sorex minutissimus voucher MSB:Mamm:144903 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223630.1	1140	Sorex minutissimus voucher SZMN:M340 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223629.1	1140	Sorex minutissimus voucher MSB:Mamm:94040 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223628.1	1072	Sorex minutissimus voucher FN_PJ11 cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223627.1	1082	Sorex minutissimus voucher FN_MSS cytochrome b gene, partial cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223626.1	1140	Sorex minutissimus voucher FN_B50 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	GU223625.1	1140	Sorex minutissimus voucher UAM:Mamm:73463 cytochrome b gene, complete cds; mitochondrial
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668304.1	610	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-05misc12
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668303.1	602	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-04/5/22-1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668302.1	642	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mt5
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668301.1	611	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mt4
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668300.1	624	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mt3
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668299.1	614	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mt2
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668298.1	632	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mt1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668297.1	629	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss10
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668296.1	624	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss9
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668295.1	536	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss8
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668294.1	610	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss7
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668293.1	573	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss6
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668292.1	624	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss4
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668291.1	652	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss3
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668290.1	575	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss2
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668289.1	625	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: Mss1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668288.1	669	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: 07NED3
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668287.1	598	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: 07NED2
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668286.1	564	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: 07NED1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668285.1	690	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-08misc4
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668284.1	656	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-08misc3
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668283.1	585	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: ZISP:#293
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668282.1	585	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: ZISP:#22
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668281.1	691	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-08misc2
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668280.1	661	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-08misc1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668279.1	615	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: N142
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668278.1	599	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: IM364
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668277.1	587	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: IM300
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668276.1	562	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-06/9/4-1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668275.1	690	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-07/10/27-1
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668274.1	564	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-06/7/27-21
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668273.1	560	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-06/7/27-5
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668272.1	560	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-06/7/27-4
+MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	AB668271.1	562	Sorex minutissimus mitochondrial DNA, control region, reverse, partial sequence, specimen_voucher: SDO-06/7/27-3

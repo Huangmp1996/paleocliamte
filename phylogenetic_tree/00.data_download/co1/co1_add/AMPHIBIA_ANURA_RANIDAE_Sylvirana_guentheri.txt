@@ -1,0 +1,21 @@
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MN248533.1	18711	Sylvirana guentheri mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MH034224.1	588	Sylvirana guentheri voucher 17681 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MH034223.1	588	Sylvirana guentheri voucher 17685 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MH034222.1	588	Sylvirana guentheri voucher 18083 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MH034221.1	588	Sylvirana guentheri voucher 18237 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MH034220.1	588	Sylvirana guentheri voucher JL73-3-1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MH034219.1	588	Sylvirana guentheri voucher JL92 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MH034218.1	588	Sylvirana guentheri voucher 17491 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	MH034217.1	588	Sylvirana guentheri voucher 15486 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	HQ844996.1	696	Rana guentheri cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR087681.1	705	Sylvirana guentheri voucher 2007.6250 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR087680.1	705	Sylvirana guentheri voucher 2007.6264 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KR087679.1	705	Sylvirana guentheri voucher 294D cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KJ740644.1	642	Hylarana guentheri voucher LPSLB2013073002 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KJ740643.1	642	Hylarana guentheri voucher LPSLB2013073001 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KJ740642.1	642	Hylarana guentheri voucher LPS13008 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	NC_024748.1	19053	Hylarana guentheri mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	KM035413.1	19053	Hylarana guentheri mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	JN700821.1	585	Rana guentheri voucher KIZ01563 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	JN700820.1	596	Rana guentheri voucher KIZ08883 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Sylvirana_guentheri	JN700819.1	602	Rana guentheri voucher KIZ07714 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

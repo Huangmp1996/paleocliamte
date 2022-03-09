@@ -1,0 +1,3 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gularis	LC541470.1	17784	Accipiter gularis iwasakii 2008-0450 mitochondrial DNA, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gularis	EU583322.1	1016	Accipiter gularis voucher LSUMZ 16971 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gularis	AY423066.1	1029	Accipiter gularis cytochrome b gene, partial cds; mitochondrial

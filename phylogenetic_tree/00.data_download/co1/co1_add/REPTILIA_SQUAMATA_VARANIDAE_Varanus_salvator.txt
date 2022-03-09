@@ -1,0 +1,11 @@
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	MH274783.1	655	Varanus salvator voucher USNM:Herp:498916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	MH274782.1	655	Varanus salvator voucher USNM:Herp:498916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KY354305.1	687	Varanus salvator isolate HR006 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KY354302.1	685	Varanus salvator isolate HR037 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	KY354301.1	688	Varanus salvator isolate HR003 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU621817.1	644	Varanus salvator isolate VS01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	EU747731.1	17489	Varanus salvator mitochondrion, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AB980996.1	17715	Varanus salvator komaini mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AB980995.1	17536	Varanus salvator mitochondrial DNA, complete genome
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	AF407526.1	2785	Varanus salvator salvator UMFS 10374 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products
+REPTILIA_SQUAMATA_VARANIDAE_Varanus_salvator	NC_010974.1	17489	Varanus salvator mitochondrion, complete genome

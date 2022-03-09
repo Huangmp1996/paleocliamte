@@ -1,0 +1,36 @@
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MT921130.1	670	Phylloscopus claudiae isolate 1A03104 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MT921129.1	670	Phylloscopus claudiae isolate 1A03127 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MT921128.1	670	Phylloscopus claudiae isolate 1A03137 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MT921127.1	670	Phylloscopus claudiae isolate 1A03138 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MT921126.1	670	Phylloscopus claudiae isolate 1A03177 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MT921125.1	670	Phylloscopus claudiae isolate 1A03200 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MT921118.1	670	Phylloscopus claudiae isolate 1A01724 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MT921117.1	670	Phylloscopus claudiae isolate 1A01730 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MH079259.1	1041	Phylloscopus claudiae voucher IOZ 16350 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MH079258.1	1041	Phylloscopus claudiae voucher IOZ 16289 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	MH079257.1	1077	Phylloscopus claudiae voucher DZUG U3139 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	AY656213.1	1038	Phylloscopus claudiae isolate 4_292 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	AY656212.1	1038	Phylloscopus claudiae isolate 3_273 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	AY656211.1	1038	Phylloscopus claudiae isolate 2_293 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	AY656210.1	1038	Phylloscopus claudiae isolate 1_021 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	AY656209.1	1038	Phylloscopus claudiae isolate LL cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	KP267719.1	604	Phylloscopus claudiae isolate MAR8558 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU851083.1	851	Phylloscopus claudiae isolate MAR5755 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771044.1	655	Phylloscopus claudiae isolate MAR4802 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771043.1	655	Phylloscopus claudiae isolate MAR3295 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771042.1	655	Phylloscopus claudiae isolate MAR3259 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771041.1	655	Phylloscopus claudiae isolate MAR924 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771040.1	655	Phylloscopus claudiae isolate MAR708 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771039.1	655	Phylloscopus claudiae isolate MAR5756 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771038.1	655	Phylloscopus claudiae isolate MAR5755 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771037.1	655	Phylloscopus claudiae isolate MAR4947 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771036.1	655	Phylloscopus claudiae isolate MAR3287 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771035.1	655	Phylloscopus claudiae isolate MAR767 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771034.1	655	Phylloscopus claudiae isolate MAR5761 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771033.1	655	Phylloscopus claudiae isolate MAR5750 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771032.1	655	Phylloscopus claudiae isolate MAR4943 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771031.1	655	Phylloscopus claudiae isolate MAR4902 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771030.1	655	Phylloscopus claudiae isolate MAR3306 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771029.1	655	Phylloscopus claudiae isolate MAR3305 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771028.1	655	Phylloscopus claudiae isolate MAR2052 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_claudiae	EU771027.1	655	Phylloscopus claudiae isolate MAR2001 cytochrome b (cytb) gene, partial cds; mitochondrial

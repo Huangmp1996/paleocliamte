@@ -1,0 +1,9 @@
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	OL468766.1	694	Pycnonotus cafer voucher ZMUVAS107 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	JF498897.1	694	Pycnonotus cafer voucher USNM:643442 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	JF498896.1	683	Pycnonotus cafer voucher USNM:643446 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	KT240060.1	575	Pycnonotus cafer cytochrome C oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	KJ442634.1	645	Pycnonotus cafer cafer isolate AV10 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	KJ442624.1	560	Pycnonotus cafer cafer isolate AV21 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	JQ176063.1	652	Pycnonotus cafer voucher USNM:Birds:620327 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	JQ176062.1	652	Pycnonotus cafer voucher USNM:Birds:620456 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_cafer	JQ176061.1	652	Pycnonotus cafer voucher USNM:Birds:620351 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

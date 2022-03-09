@@ -1,0 +1,32 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615936.1	1035	Rhabdophis nuchalis isolate ZGX90 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615935.1	1035	Rhabdophis nuchalis isolate ZGX9 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615934.1	1035	Rhabdophis nuchalis isolate ZGX89 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615933.1	1035	Rhabdophis nuchalis isolate ZGX88 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615932.1	1035	Rhabdophis nuchalis isolate ZGX307 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615931.1	1035	Rhabdophis nuchalis isolate ZGX355 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615930.1	1035	Rhabdophis nuchalis isolate ZGX25 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615929.1	1035	Rhabdophis nuchalis isolate D8 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615928.1	1035	Rhabdophis nuchalis isolate D7 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615927.1	1035	Rhabdophis nuchalis isolate D5 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615926.1	1035	Rhabdophis nuchalis isolate D3 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615925.1	1035	Rhabdophis nuchalis isolate D2 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615924.1	1035	Rhabdophis nuchalis isolate D16 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615923.1	1035	Rhabdophis nuchalis isolate D13 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MZ615922.1	1035	Rhabdophis nuchalis isolate D11 cytochrome b gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MK530547.1	1036	Rhabdophis nuchalis isolate GP344 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MK530536.1	1057	Rhabdophis nuchalis isolate GP1169 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MN656335.1	1074	Rhabdophis nuchalis voucher CIB DL1807209 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MN656334.1	1074	Rhabdophis nuchalis voucher CIB DL1807208 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MN656333.1	1074	Rhabdophis nuchalis voucher CIB DL1807207 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MN656323.1	1074	Rhabdophis nuchalis voucher CIB DLHK1 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MK201565.1	585	Rhabdophis nuchalis voucher CHS845 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MK201359.1	585	Rhabdophis nuchalis voucher CHS240 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MK201358.1	585	Rhabdophis nuchalis voucher CHS239 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	MK201357.1	585	Rhabdophis nuchalis voucher CHS236 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	LC325353.1	990	Rhabdophis nuchalis HT807 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	LC325352.1	1047	Rhabdophis nuchalis HT803 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	LC325333.1	971	Rhabdophis nuchalis HT701 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	LC325301.1	952	Rhabdophis nuchalis HT854 mitochondrial MT-CYB gene for cytochrome b, partial cds
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	AF402907.1	1086	Rhabdophis nuchalis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	KF800935.1	1068	Rhabdophis nuchalis voucher SICAU090001 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_nuchalis	GQ281786.1	1078	Rhabdophis nuchalis isolate GP251 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,6 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	MN547429.1	16386	Ochotona curzoniae voucher SAF16767 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	MN547428.1	16441	Ochotona curzoniae voucher CSGM06001 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	MN547427.1	16395	Ochotona curzoniae voucher QH12131 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	MN547426.1	16382	Ochotona curzoniae voucher XZ16042 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	EF535828.1	17131	Ochotona curzoniae mitochondrion, complete genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_curzoniae	NC_011029.1	17131	Ochotona curzoniae mitochondrion, complete genome

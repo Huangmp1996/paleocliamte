@@ -1,0 +1,15 @@
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935683.1	1042	Nidirana pleuraden voucher SYS a007858 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935678.1	1042	Nidirana pleuraden voucher SYS a007742 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935677.1	1042	Nidirana pleuraden voucher SYS a007730 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935676.1	1042	Nidirana pleuraden voucher SYS a007722 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935675.1	1042	Nidirana pleuraden voucher SYS a007721 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935674.1	1042	Nidirana pleuraden voucher SYS a007720 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935673.1	1042	Nidirana pleuraden voucher SYS a007719 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935672.1	1042	Nidirana pleuraden voucher SYS a007718 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MT935671.1	1042	Nidirana pleuraden voucher SYS a007717 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MF807817.1	1029	Nidirana pleuraden voucher SYS a003776 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MF807816.1	1029	Nidirana pleuraden voucher SYS a003775 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	KR264059.1	1430	Babina pleuraden voucher CAS207510 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	KF771283.1	1602	Babina pleuraden 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	JQ621943.1	554	Rana pleuraden 16S ribosomal RNA gene, partial sequence; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	DQ359989.1	499	Rana pleuraden voucher SCUM0405185CJ 16S ribosomal RNA gene, partial sequence; mitochondrial

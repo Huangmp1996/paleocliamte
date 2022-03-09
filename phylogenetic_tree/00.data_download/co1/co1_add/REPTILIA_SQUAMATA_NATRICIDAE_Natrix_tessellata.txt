@@ -1,0 +1,14 @@
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	MN993171.1	658	Natrix tessellata voucher Herp176 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	MN993170.1	642	Natrix tessellata voucher Herp 54 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	MN993169.1	654	Natrix tessellata voucher Herp 55 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	HQ954789.1	652	Natrix tessellata tessellata voucher BC ZSM HERP 00151 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	HQ954784.1	531	Natrix tessellata tessellata voucher BC ZSM HERP 00136 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	JN871610.1	621	Natrix tessellata isolate Nt08 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	JN871609.1	621	Natrix tessellata isolate Nt07 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	JN871608.1	621	Natrix tessellata isolate Nt06 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	JN871607.1	621	Natrix tessellata isolate Nt05 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	JN871606.1	621	Natrix tessellata isolate Nt04 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	JN871605.1	657	Natrix tessellata isolate Nt03 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	JN871604.1	621	Natrix tessellata isolate Nt02 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	JN871603.1	656	Natrix tessellata isolate Nt01 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_NATRICIDAE_Natrix_tessellata	KP697894.1	651	Natrix tessellata voucher GBOL03510 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

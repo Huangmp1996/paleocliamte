@@ -1,0 +1,4 @@
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	NC_053710.1	16852	Certhia himalayana mitochondrion, complete genome
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	MN624167.1	16852	Certhia himalayana mitochondrion, complete genome
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	JF505375.1	660	Certhia himalayana yunnanensis isolate MAR03241 16S ribosomal RNA gene, partial sequence; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	JF505374.1	660	Certhia himalayana himalayana isolate MAR03318 16S ribosomal RNA gene, partial sequence; mitochondrial

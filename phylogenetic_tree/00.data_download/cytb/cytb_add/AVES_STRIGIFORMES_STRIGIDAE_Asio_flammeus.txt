@@ -1,0 +1,12 @@
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	MN122899.1	10466	Asio flammeus mitochondrion, partial genome
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	AF115870.1	286	Asio flammeus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	U89171.1	1143	Asio flammeus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	NC_027606.1	18966	Asio flammeus mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	KP889214.1	18966	Asio flammeus mitochondrion, complete genome
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	EU348868.1	948	Asio flammeus voucher IPMB 465 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	EU348962.1	992	Asio flammeus voucher IPMB 465 cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	AJ003828.1	300	Asio flammeus mitochondrial cytb gene, partial (isolate 5)
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	AJ003827.1	300	Asio flammeus mitochondrial cytb gene, partial (isolate 4)
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	AJ003826.1	300	Asio flammeus mitochondrial cytb gene, partial (isolate 3)
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	AJ003825.1	300	Asio flammeus mitochondrial cytb gene, partial (isolate 2)
+AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	AJ003824.1	300	Asio flammeus mitochondrial cytb gene, partial (isolate 1)

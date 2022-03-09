@@ -1,0 +1,5 @@
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	MK065453.1	494	Python bivittatus voucher CHS266 12S ribosomal RNA gene, partial sequence; mitochondrial
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	NW_006536579.1	108036	Python bivittatus unplaced genomic scaffold, Python_molurus_bivittatus-5.0.2 Scaffold4565, whole genome shotgun sequence
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	KF293729.1	17529	Python bivittatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	NC_021479.1	17617	Python bivittatus mitochondrion, complete genome
+REPTILIA_SQUAMATA_PYTHONIDAE_Python_bivittatus	KF010492.1	17617	Python bivittatus mitochondrion, complete genome

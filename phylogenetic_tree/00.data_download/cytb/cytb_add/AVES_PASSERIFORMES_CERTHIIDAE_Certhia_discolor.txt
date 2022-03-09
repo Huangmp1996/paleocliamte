@@ -1,0 +1,3 @@
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_discolor	DQ196380.1	512	Certhia discolor voucher MAR 90149 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_discolor	DQ196379.1	512	Certhia discolor voucher MAR 2657 cytochrome b gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_CERTHIIDAE_Certhia_discolor	KJ456216.1	1143	Certhia discolor voucher FMNH:235673 cytochrome b (cytb) gene, complete cds; mitochondrial

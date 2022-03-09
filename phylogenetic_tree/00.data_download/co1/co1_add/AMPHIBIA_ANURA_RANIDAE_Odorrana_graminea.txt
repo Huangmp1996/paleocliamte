@@ -1,0 +1,4 @@
+AMPHIBIA_ANURA_RANIDAE_Odorrana_graminea	NC_050884.1	18106	Odorrana graminea mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_graminea	MN417331.1	18106	Odorrana graminea mitochondrion, complete genome
+AMPHIBIA_ANURA_RANIDAE_Odorrana_graminea	KR087839.1	705	Odorrana graminea voucher 2005.0210 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AMPHIBIA_ANURA_RANIDAE_Odorrana_graminea	KR087838.1	705	Odorrana graminea voucher 2005.0211 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

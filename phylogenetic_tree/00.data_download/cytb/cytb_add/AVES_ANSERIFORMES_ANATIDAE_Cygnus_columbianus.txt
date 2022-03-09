@@ -1,0 +1,4 @@
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	FJ170041.1	502	Cygnus columbianus cytochrome b (CytB) gene, partial cds; mitochondrial
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	DQ083161.1	16728	Cygnus columbianus mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	KF800698.1	16723	Cygnus columbianus jankowskii mitochondrion, complete genome
+AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	NC_007691.1	16728	Cygnus columbianus mitochondrion, complete genome

@@ -1,0 +1,5 @@
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	AF285818.1	1019	Numenius phaeopus isolate UAM10237 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	AF285817.1	1019	Numenius phaeopus isolate UAM8212 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	AF417930.1	1143	Numenius phaeopus cytochrome b gene, complete cds; mitochondrial gene for mitochondrial product
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	NC_030507.1	17091	Numenius phaeopus mitochondrion, complete genome
+AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_phaeopus	KP308149.1	17091	Numenius phaeopus mitochondrion, complete genome

@@ -1,0 +1,6 @@
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_gloveri	MN547441.1	16467	Ochotona gloveri voucher QH12013 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_gloveri	MN547440.1	16501	Ochotona gloveri voucher DBB301 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_gloveri	MN547439.1	16497	Ochotona gloveri voucher JJSB219 mitochondrion, partial genome
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_gloveri	KY024824.1	1528	Ochotona gloveri isolate QH06 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_gloveri	KY024823.1	1538	Ochotona gloveri isolate QH01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_gloveri	KY024822.1	1525	Ochotona gloveri isolate CHN01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial

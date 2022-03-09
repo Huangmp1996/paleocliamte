@@ -1,0 +1,7 @@
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MN991557.1	1143	Dicrurus hottentottus voucher LSUMNS B-38627 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	NC_043948.1	16963	Dicrurus hottentottus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	MK814795.1	16963	Dicrurus hottentottus mitochondrion, complete genome
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	EF449758.1	441	Dicrurus hottentottus isolate N51/35-1B cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	EF449750.1	441	Dicrurus hottentottus isolate L17 cytochrome b (Cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	EF113121.1	1143	Dicrurus hottentottus cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_hottentottus	KP036646.1	1031	Dicrurus hottentottus voucher KUNHM 10036 cytochrome b (cytb) gene, partial cds; mitochondrial

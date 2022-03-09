@@ -1,0 +1,18 @@
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621617.1	1176	Lanius schach isolate N22 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621616.1	1176	Lanius schach isolate N21 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621615.1	1176	Lanius schach isolate N20 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621609.1	1176	Lanius schach isolate N14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621608.1	1176	Lanius schach isolate N13 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621605.1	1176	Lanius schach isolate N10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621600.1	1176	Lanius schach isolate N5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621593.1	1143	Lanius schach isolate M22 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621592.1	1143	Lanius schach isolate M21 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621591.1	1143	Lanius schach isolate M20 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621585.1	1143	Lanius schach isolate M14 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621584.1	1143	Lanius schach isolate M13 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621581.1	1143	Lanius schach isolate M10 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	EF621576.1	1143	Lanius schach isolate M5 cytochrome b gene, complete cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	GU253561.1	1076	Lanius schach bentet cytochrome b (cytb) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	NC_030604.1	16820	Lanius schach voucher HS15003 mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	KU058639.1	16820	Lanius schach voucher HS15003 mitochondrion, complete genome
+AVES_PASSERIFORMES_LANIIDAE_Lanius_schach	JQ864507.1	1143	Lanius schach voucher NRM 20046858 cytochrome b (cytb) gene, complete cds; mitochondrial

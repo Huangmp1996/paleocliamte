@@ -1,0 +1,4 @@
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MN333911.1	954	Cricetulus kamensis 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	MH159227.1	951	Cricetulus kamensis voucher LS1505 12S ribosomal RNA gene, partial sequence; mitochondrial
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	NC_024592.1	16270	Cricetulus kamensis mitochondrion, complete genome
+MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_tibetanus	KJ680375.1	16270	Cricetulus kamensis mitochondrion, complete genome

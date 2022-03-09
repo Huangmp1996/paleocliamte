@@ -1,0 +1,4 @@
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	EU583260.1	1041	Accipiter gentilis atricapillus voucher UMMZ 233684 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	MN122867.1	16197	Accipiter gentilis mitochondrion, partial genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	NC_011818.1	18266	Accipiter gentilis mitochondrion, complete genome
+AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	AP010797.1	18266	Accipiter gentilis mitochondrial DNA, complete genome

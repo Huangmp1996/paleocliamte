@@ -1,0 +1,14 @@
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	LC541457.1	16824	Larvivora akahige akahige 1998-0063 mitochondrial DNA, complete genome
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	AB843501.1	695	Larvivora akahige mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO333-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	AB843500.1	681	Larvivora akahige mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO209-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	AB843499.1	693	Larvivora akahige mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO482-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	AB842759.1	663	Larvivora akahige mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM182-10
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	AB842758.1	638	Larvivora akahige mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM027-08
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	GQ481862.1	694	Erithacus akahige voucher UWBM 47490 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	GQ481861.1	694	Erithacus akahige voucher UWBM 47487 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	GQ481860.1	694	Erithacus akahige voucher UWBM 47481 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	GQ481859.1	694	Erithacus akahige voucher ZMMU RYA 1723 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	GQ481858.1	694	Erithacus akahige voucher ZMMU RYA 1746 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	GQ481857.1	694	Erithacus akahige voucher ZMMU RYA 1713 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	GQ481856.1	694	Erithacus akahige voucher ZMMU RYA 1585 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+AVES_PASSERIFORMES_MUSCICAPIDAE_Larvivora_akahige	GQ481855.1	694	Erithacus akahige voucher ZMMU RYA 1840 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

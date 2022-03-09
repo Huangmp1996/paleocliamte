@@ -1,0 +1,5 @@
+AVES_STRIGIFORMES_STRIGIDAE_Otus_spilocephalus	AY141979.1	500	Otus spilocephalus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
+AVES_STRIGIFORMES_STRIGIDAE_Otus_spilocephalus	KJ456367.1	1143	Otus spilocephalus voucher AMNH:10766 cytochrome b (cytb) gene, complete cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_spilocephalus	EU601116.1	901	Otus spilocephalus isolate O30 cytochrome b gene, partial cds; mitochondrial
+AVES_STRIGIFORMES_STRIGIDAE_Otus_spilocephalus	EU348926.1	948	Otus spilocephalus latouchi voucher IPMB 9574 recombination activating protein 1 (RAG-1) gene, partial cds
+AVES_STRIGIFORMES_STRIGIDAE_Otus_spilocephalus	EU348989.1	793	Otus spilocephalus latouchi voucher IPMB 9574 cytochrome b (cytb) gene, partial cds; mitochondrial

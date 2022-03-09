@@ -1,0 +1,16 @@
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK201543.1	585	Elaphe carinata voucher CHS809 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK201382.1	585	Elaphe carinata voucher CHS296 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK201381.1	585	Elaphe carinata voucher CHS295 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK201286.1	585	Elaphe carinata voucher CHS134 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK201285.1	585	Elaphe carinata voucher CHS133 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	MK201284.1	585	Elaphe carinata voucher CHS132 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	LC327647.1	1117	Elaphe carinata yonaguniensis JMEcy150319 mitochondrial cytb gene for cytochrome b, complete cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	AF036018.1	246	Elaphe carinata cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	AF036017.1	246	Elaphe carinata cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	DQ902133.1	1117	Elaphe carinata voucher LSUMZ 37012 cytochrome b (cytb) gene, complete cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KU180459.1	17154	Elaphe carinata mitochondrion, complete genome
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KF913311.1	307	Elaphe carinata voucher S-95 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KF913310.1	307	Elaphe carinata voucher S-55 cytochrome b (Cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KF669252.1	1102	Elaphe carinata cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KF669244.1	1082	Elaphe carinata voucher HS11136-2 cytochrome b (cytb) gene, partial cds; mitochondrial
+REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_carinata	KF669243.1	1091	Elaphe carinata voucher YPX11025 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,0 +1,5 @@
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	KC516809.1	912	Uropsilus andersoni voucher ELSlcB02007 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	KC516808.1	912	Uropsilus andersoni voucher ELStnpA01001 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	JX945573.1	16524	Uropsilus andersoni mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	NC_041144.1	16528	Uropsilus andersoni mitochondrion, complete genome
+MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_andersoni	MF280389.1	16528	Uropsilus andersoni mitochondrion, complete genome

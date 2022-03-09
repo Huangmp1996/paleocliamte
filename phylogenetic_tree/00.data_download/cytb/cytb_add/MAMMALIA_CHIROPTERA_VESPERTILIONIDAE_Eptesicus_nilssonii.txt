@@ -1,0 +1,16 @@
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	LC122512.1	711	Eptesicus nilssonii mitochondrial cytb gene for cytochrome b, partial cds
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272592.1	620	Eptesicus nilssoni haplotype E.n._M4_07_Yenisey cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272591.1	611	Eptesicus nilssoni haplotype E.s._180235_Kaliningrad cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272588.1	1069	Eptesicus nilssoni haplotype E.n._180233_Kaliningrad cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272584.1	558	Eptesicus nilssoni haplotype E.n._175949_Chita cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272582.1	1140	Eptesicus nilssoni haplotype E.n._M6_07_Yenisey cytochrome b (cytb) gene, complete cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272572.1	588	Eptesicus nilssoni haplotype E.n._86836_Arkhangelsk cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272570.1	1040	Eptesicus nilssoni haplotype E.n._181985_Yenisey cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272569.1	1091	Eptesicus nilssoni haplotype E.n._175950_Chita cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272568.1	1130	Eptesicus nilssoni haplotype E.n._175350_Chita cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272567.1	1119	Eptesicus nilssoni haplotype E.n._181986_Yenisey cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	GQ272565.1	1130	Eptesicus nilssoni haplotype E.n._180219_Bryansk cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	JX902463.1	1098	Eptesicus nilssoni voucher ZMMU S-171265 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	JX902451.1	1098	Eptesicus nilssoni voucher TS CK14 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	JX902450.1	1098	Eptesicus nilssoni voucher TS 6CK1 cytochrome b (cytb) gene, partial cds; mitochondrial
+MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Eptesicus_nilssonii	AF376836.1	1140	Eptesicus nilssoni cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
