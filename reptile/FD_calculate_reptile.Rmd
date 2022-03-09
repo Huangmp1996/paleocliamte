@@ -46,58 +46,299 @@ Chinese_species_distribution_grid$Binomial %>% unique() %>% length()
 options(repr.plot.width=12, repr.plot.height=10)
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("richness")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+ggsave('lizard_species_richness.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
 # 数据整合
 
 ```{r}
-chinese_lizards <- read.csv('data_reptile/Spatial_patterns_in_the_size_of_Chinese_lizards/Appendix_data.csv') %>% select(-c(Max.based.on,References))
-china_reptile <- read.csv("china_reptile.csv")
+chinese_lizards <- read.csv('data_reptile/Spatial_patterns_in_the_size_of_Chinese_lizards/Appendix_data.csv') %>% select(-c(Max_based_on,References))
 
-invasion <- read.csv("data_reptile/Allen_et_al_Amphibian_reptile_invasion_life_history/Allen et al17EL_reptile_invasion_and_life_history.csv")
-invasion$Species <- gsub('_',' ',invasion$Species)
-invasion <- filter(invasion,Species %in% chinese_lizards$Species)
+Sexual_dimorphism <- read.csv('data_reptile/Sexual_size_dimorphism_and_its_allometry_in_Chinese_lizards/Sexual_size_dimorphism_and_its_allometry_in_Chinese_lizards.csv') %>% 
+                        select(-c('Family','Species_origin','Sample_Male_Famle','References'))
+Biological_lizards <- read.csv('data_reptile/Biological_and_extrinsic_correlates_of_extinction_risk_in_Chinese_lizards_supplementary_data/Supplementary_material.csv') %>% 
+                                select(-c('Species_origin')) %>% na.omit()
 Traits_of_lizards_of_the_world <- read.csv("data_reptile/The_global_biogeography_of_lizard_functional_groups/Traits_of_lizards_of_the_world/Appendix_S1_Lizard_data_version_1.0.csv") %>% 
                                         filter(Binomial %in% chinese_lizards$Species) %>% 
-                                        select(Binomial,maximum_SVL,female_SVL,hatchling.neonate_SVL,Activity_time,diet,foraging_mode,
-                                               reproductive_mode, clutch_size,smallest_clutch,largest_clutch,
-                                              breeding_age_months,mean_body_temperature_of_active_animals_in_the_wild)
+                                        select(Binomial,maximum_SVL,female_SVL,hatchling.neonate_SVL,Activity_time,diet,foraging_mode,Leg_development,
+                                               reproductive_mode, clutch_size, breeding_age_months,mean_body_temperature_of_active_animals_in_the_wild)
 # amniota <- read.csv("data_reptile/amniote_database/Data_Files/Amniote_Sparse_Table_Aug_2015.csv") %>% filter(class == 'Reptilia')
 # amniota[amniota == -999] <- NA
 # amniota$Binomial <- paste(amniota$genus,amniota$species,sep = ' ')
-# amniota <- filter(amniota,Binomial %in% chinese_lizards$Species) %>% select(-c(subspecies,weaning_weight_g,fledging_age_d,inter_litter_or_interbirth_interval_y,
-#                                                                               fledging_mass_g,female_body_mass_at_maturity_g,dataset))
-
-Chinese_species_distribution_grid <- read.csv("../chinese_terrestral//species_distribution_grid_filtered.csv",
-                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
-                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+# amniota <- filter(amniota,Binomial %in% chinese_lizards$Species) %>% select(Binomial,litter_or_clutch_size_n,male_svl_cm,female_svl_cm,
+#                                                                            male_body_mass_g,female_body_mass_g)
 ```
 
 ```{r}
-chinese_traits <- full_join(invasion,Traits_of_lizards_of_the_world,by = c('Species' = 'Binomial')) %>% 
-                        full_join(chinese_lizards,by = 'Species')
+chinese_traits <- full_join(chinese_lizards,Sexual_dimorphism,by = 'Species') %>% 
+                        full_join(Biological_lizards,by = 'Species') %>% 
+                            left_join(Traits_of_lizards_of_the_world,by = c('Species'='Binomial'))
 ```
 
 ```{r}
-chinese_traits <- mutate(chinese_traits,clutch_size_mean = (smallest_clutch + largest_clutch)/2)
-chinese_traits$clutch_size_mean <- ifelse(is.na(chinese_traits$clutch_size_mean),chinese_traits$Clutch_size,chinese_traits$clutch_size_mean)
-```
-
-```{r}
-summary(chinese_traits)
-```
-
-```{r}
+chinese_traits <- within(chinese_traits,{
+    Activity_time <- dplyr::recode(Activity_time,'Nocturnal'=1,'Diurnal'=2,'Cathemeral'=3)
+    activity_time <- ifelse(is.na(activity_time),Activity_time,activity_time)
+    reproductive_mode.y <- dplyr::recode(reproductive_mode.y,'Oviparous'=1,'Viviparous'=2,'Mixed'=3)
+    reproductive_mode.x <- ifelse(is.na(reproductive_mode.x),reproductive_mode.y,reproductive_mode.x)
+    Leg_development <- dplyr::recode(Leg_development,'four_legged'=1,'Limbless'=2)
+    leg_development <- ifelse(is.na(leg_development),Leg_development,leg_development)
+    Clutch_size <- as.character(Clutch_size)
+    clutch_size.x <- as.character(clutch_size.x)
+    Clutch_size <- ifelse(is.na(Clutch_size),clutch_size.x,Clutch_size)
+    Clutch_size <- ifelse(is.na(Clutch_size),clutch_size.y,Clutch_size)
+    Female_size_mm <- ifelse(is.na(Female_size_mm),female_SVL,Female_size_mm)
+}) %>% select(-c(Activity_time,reproductive_mode.y,Leg_development,clutch_size.x,clutch_size.y,female_SVL,
+                maximum_SVL,hatchling.neonate_SVL,diet,foraging_mode,breeding_age_months,mean_body_temperature_of_active_animals_in_the_wild))
 
 ```
 
 ```{r}
 # write.csv(chinese_traits,'chinese_traits_lizards.csv',row.names = F)
+chinese_traits_corrected <- read.csv('chinese_traits_lizards_corrected.csv') %>% 
+                                filter(Species %in% Chinese_species_distribution_grid$Binomial)
+summary(chinese_traits_corrected)
+```
+
+# 缺失值填充
+
+```{r}
+row.names(chinese_traits_corrected) <- chinese_traits_corrected$Species
+chinese_traits_corrected <- within(chinese_traits_corrected,{
+                                        habitat_use <- as.factor(habitat_use)
+                                        leg_development <- as.factor(leg_development)
+                                        reproductive_mode.x <- as.factor(reproductive_mode.x)
+                                        activity_time <- as.factor(activity_time)
+                                    }) %>% select(Max_SVL,Log10_BM,Male_size_mm,Female_size_mm,Male_mass_g,Female_mass_g,
+                                                  Clutch_size,
+                                                  leg_development,
+                                                  reproductive_mode.x,
+                                                  habitat_use,
+                                                  habitat_specialization,
+                                                  activity_time)
+```
+
+```{r}
+chinese_traits_missmfa <- missMDA::imputeMFA(chinese_traits_corrected,
+                                             group=c(6,1,1,1,1,1,1),
+                                             type=c(rep('s',2),rep('n',3),'s','n'))
+```
+
+# 降维
+
+```{r}
+mfa <- FactoMineR::MFA(chinese_traits_missmfa$completeObs,
+                       group=c(6,1,1,1,1,1,1),
+                       type=c(rep('s',2),rep('n',3),'s','n'),
+                       name.group = c('bodymass','reproduction','leg_development','reproductive_mode','habitat_use','habitat_specialization','activity_time'),
+                       num.group.sup = c(1,7),
+                       ncp = 7)
+```
+
+```{r}
+library(factoextra)
+options(repr.plot.width=9,repr.plot.height=6)
+eig.val <- get_eigenvalue(mfa)
+fviz_screeplot(mfa,addlabels = TRUE,ncp=7)
+```
+
+```{r}
+fviz_mfa_var(mfa, "quanti.var", palette = "jco", 
+             col.var.sup = "violet", repel = TRUE, 
+            geom = c("point", "text"), legend = "bottom") # Correlation between quantitative variables and dimensions
+# Contributions to dimension 1
+fviz_contrib(mfa, choice = "quanti.var", axes = 1, top = 20,
+             palette = "jco")
+# Contributions to dimension 2
+fviz_contrib(mfa, choice = "quanti.var", axes = 2, top = 20,
+             palette = "jco")
+```
+
+```{r}
+# functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+options(repr.plot.width=14,repr.plot.height=12)
+fviz_mfa_ind(mfa, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE)
+```
+
+```{r}
+ind_mfa <- get_mfa_ind(mfa)$coord
+head(ind_mfa)
+```
+
+# 功能多样性计算
+
+
+## total
+
+```{r}
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid,id,Binomial)
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,Binomial,occurrence) 
+Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
+
+# to matrix
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, 'id', row.names(ind_mfa)) %>% 
+                                                        as.matrix()
+row.names(Chinese_species_distribution_grid_selected) <- Chinese_species_distribution_grid_selected[,1]
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+nrow(Chinese_species_distribution_grid_selected) # sites that has species
+```
+
+```{r}
+# row.names(ind_mfa) <- gsub(' ','_',row.names(ind_mfa))
+# colnames(Chinese_species_distribution_grid_selected) <- gsub(' ','_',colnames(Chinese_species_distribution_grid_selected))
+# write.csv(ind_mfa,'ind_mfa.csv',)
+# write.csv(Chinese_species_distribution_grid_selected,"china_reptile.csv")
+```
+
+```{r}
+# csv from 182
+# result <- read.csv("reptile_result.csv",header = T) %>% .[seq(1,nrow(.),2),]
+# colnames(result) <- gsub('tmp','FD',colnames(result))
+# write.csv(result,"result_reptile.csv",row.names=F)
+
+result <- read.csv("result_reptile.csv",header = T)
+result$i <- as.numeric(result$i)
+result$FD.FRic <- as.numeric(result$FD.FRic)
+result$FD.FEve <- as.numeric(result$FD.FEve)
+result$FD.FDiv <- as.numeric(result$FD.FDiv)
+result$FD.FDis <- as.numeric(result$FD.FDis)
+
+grid <- st_read("../chinese_terrestral//input//grid.shp")
+map <- left_join(result,grid,by = c('i'='id'))
+
+options(repr.plot.width=12, repr.plot.height=10)
+china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = FD.FRic,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FRic")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('lizard_FRic.tiff',height = 7,width = 7,units = 'in',dpi = 300)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = FD.FDiv,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FD.FDiv")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('lizard_FD.FDiv.tiff',height = 7,width = 7,units = 'in',dpi = 300)
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = FD.FEve,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FD.FEve")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggsave('lizard_FD.FEve.tiff',height = 7,width = 7,units = 'in',dpi = 300)
+```
+
+## body_size
+
+```{r}
+intrinstic_features <- dplyr::select(chinese_traits_missmfa$completeObs,c(Male_size_mm,Female_size_mm,Male_mass_g,Female_mass_g)) %>% na.omit()
+# PCA
+options(repr.plot.width=15,repr.plot.height=5)
+# paran::paran(mass,iterations = 5000) # Horn's method for massermining the number of retaining principal components
+princomp <- princomp(intrinstic_features,cor = T)
+pca_var <- get_pca_var(princomp)
+p1 <- fviz_screeplot(princomp)
+# Contributions to dimension 1
+p2 <- fviz_contrib(princomp, choice = "var", axes = 1, top = 20,
+             palette = "jco")
+# Contributions to dimension 2
+p3 <- fviz_contrib(princomp, choice = "var", axes = 2, top = 20,
+             palette = "jco")
+# Plot together
+ggpubr::ggarrange(p1, p2, p3, nrow = 1, ncol = 3, labels = c('A', 'B', 'C'), font.label = list(color = 'black'))
+
+# functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+options(repr.plot.width=16,repr.plot.height=13)
+fviz_pca_ind(princomp, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE)
+
+ind_pca <- get_pca_ind(princomp)$coord[,1:2]
+
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid,id,Binomial)
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,Binomial,occurrence) 
+
+# to matrix
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, 'id', row.names(ind_pca)) %>% 
+                                                        as.matrix()
+row.names(Chinese_species_distribution_grid_selected) <- Chinese_species_distribution_grid_selected[,1]
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+nrow(Chinese_species_distribution_grid_selected) # sites that has species
+```
+
+```{r}
+FD_body_size <- FD::dbFD(ind_pca,Chinese_species_distribution_grid_selected)
+```
+
+```{r}
+result_body_size <- data.frame(FD_body_size$FRic,FD_body_size$FEve,FD_body_size$FDiv,FD_body_size$FDis,FD_body_size$RaoQ)
+result_body_size <- mutate(result_body_size,grid_id = as.numeric(row.names(result_body_size)))
+write.csv(result_body_size,"result_body_size_lizards.csv",row.names=F)
+result_body_size <- left_join(result_body_size, grid, by = c('grid_id'='id'))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result_body_size,aes(fill = FD_body_size.FRic,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("FRic")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+## clutch_size
+
+```{r}
+clutch_size <- dplyr::select(chinese_traits_corrected, 'Clutch_size') %>% 
+                    filter(!is.na(Clutch_size))
+clutch_size$species <- row.names(clutch_size)
+result <- left_join(clutch_size,Chinese_species_distribution_grid,by = c('species'='Binomial'))
+result_clutch_size <- group_by(result,id) %>% summarise(clutch_size_mean = mean(Clutch_size),clutch_size_sd = sd(Clutch_size))
+write.csv(result_clutch_size,"result_clutch_size_lizards.csv",row.names=F)
+result_clutch_size <- left_join(result_clutch_size, grid, by = 'id')
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result_clutch_size,aes(fill = clutch_size_mean,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("clutch_size_mean")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = result_clutch_size,aes(fill = clutch_size_sd,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("clutch_size_sd")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
 ```
