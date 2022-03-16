@@ -162,8 +162,11 @@ mammal_phylog <- read.csv("./mammal_phylogenetic_diversity.csv") %>%
 
 ```{r}
 china_map <- st_read("./chinese_terrestral//SHP//China_map.shp")
+# boundary <- st_read('./chinese_terrestral//SHP//boundary_of_realms.shp')
+# gubei <- st_read('./chinese_terrestral//SHP/gubei_dongyang.shp')
 grid <- st_read("./chinese_terrestral//input//grid.shp")
 south_ocean <- st_read("./chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
+phyloregions_line <- st_read('./chinese_terrestral//SHP//phyloregions_divider.shp') %>% within({divider=as.factor(divider)})
 ```
 
 ```{r}
@@ -180,49 +183,80 @@ mammal_map <- left_join(mammal_phylog,grid,by = c('grid_id'='id'))
 ```{r}
 options(repr.plot.width=12, repr.plot.height=10)
 
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = amphibian_map,aes(fill = amphibian_pd.obs,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("amphibian_faith_pd")+
     labs(fill = "Faith's pd")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('amphibian/amphibian_faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = amphibian_map,aes(fill = amphibian_pd.obs.z,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("amphibian_ses.faith_pd")+
-    labs(fill = "Faith's pd")+
+    labs(fill = "ses Faith's pd")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('amphibian/amphibian_ses.faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = amphibian_map,aes(fill =amphibian_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
+    geom_sf(data = amphibian_map,aes(fill = amphibian_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("amphibian_nri")+
-    labs(fill = 'Nearest Relative Index (NRI)')+
+    labs(fill = "Nearest Relative Index(NRI)")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.22,0.23),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('amphibian/amphibian_NRI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = amphibian_map,aes(fill = amphibian_NTI,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
-    labs(fill = 'Nearest Taxon Index (NTI)')+
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("amphibian_nti")+
+    labs(fill = "Nearest Taxon Index(NTI)")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.2,0.23),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('amphibian/amphibian_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
@@ -273,148 +307,234 @@ lizard_phylog$grid_id <- gsub('grid_','',lizard_phylog$grid_id) %>% as.numeric()
 ```
 
 ```{r}
+lizard_phylog <- read.csv('lizard_phylogenetic_diversity.csv')
 lizard_map <- left_join(lizard_phylog,grid,by = c('grid_id'='id'))
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = lizard_map,aes(fill = lizard_pd.obs,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("lizard_faith_pd")+
     labs(fill = "Faith's pd")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('reptile/lizard_faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = lizard_map,aes(fill = lizard_pd.obs.z,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("lizard_ses.faith_pd")+
-    labs(fill = "ses.Faith's pd")+
+    labs(fill = "ses Faith's pd")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('reptile/lizard_ses.faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = lizard_map,aes(fill = lizard_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("lizard_nri")+
-    labs(fill = 'Nearest Relative Index (NRI)')+
+    labs(fill = "Nearest Relative Index(NRI)")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.22,0.23),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('reptile/lizard_NRI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = lizard_map,aes(fill = lizard_NTI,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
-    labs(fill = 'Nearest Taxon Index (NTI)')+
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("lizard_nti")+
+    labs(fill = "Nearest Taxon Index(NTI)")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.2,0.23),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('reptile/lizard_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
 ## 鸟类
 
 ```{r}
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = ave_map,aes(fill = ave_pd.obs,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("ave_faith_pd")+
     labs(fill = "Faith's pd")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('Ave/bird_faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = ave_map,aes(fill = ave_pd.obs.z,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("ave_ses.faith_pd")+
-    labs(fill = "ses.Faith's pd")+
+    labs(fill = "ses Faith's pd")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('Ave/bird_ses.faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = ave_map,aes(fill = ave_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("ave_nri")+
-    labs(fill = 'Nearest Relative Index (NRI)')+
+    labs(fill = "Nearest Relative Index(NRI)")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.22,0.23),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('Ave/bird_NRI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = ave_map,aes(fill = ave_NTI,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
-    labs(fill = 'Nearest Taxon Index (NTI)')+
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("ave_nti")+
+    labs(fill = "Nearest Taxon Index(NTI)")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.2,0.23),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('Ave/bird_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
 ## 哺乳类
 
 ```{r}
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = mammal_map,aes(fill = mammal_pd.obs,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("mammal_faith_pd")+
     labs(fill = "Faith's pd")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('mammal/mammal_faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = mammal_map,aes(fill = mammal_pd.obs.z,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("mammal_ses.faith_pd")+
-    labs(fill = "ses.Faith's pd")+
+    labs(fill = "ses Faith's pd")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('mammal/mammal_ses.faith_pd.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = mammal_map,aes(fill = mammal_NRI,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("mammal_nri")+
-    labs(fill = 'Nearest Relative Index (NRI)')+
+    labs(fill = "Nearest Relative Index(NRI)")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.22,0.23),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('mammal/mammal_NRI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
     geom_sf(data = mammal_map,aes(fill = mammal_NTI,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
-    labs(fill = 'Nearest Taxon Index (NTI)')+
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("mammal_nti")+
+    labs(fill = "Nearest Taxon Index(NTI)")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.2,0.23),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('mammal/mammal_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
@@ -479,15 +599,18 @@ str(phylore)
 ```
 
 ```{r}
-head(phylore$membership)
-phylore$membership$cluster <- as.factor(phylore$membership$cluster)
+region_df <- phylore$region.df %>% select(grids,cluster,COLOURS) %>% within({cluster <- as.factor(cluster)})
+```
+
+```{r}
 grid$id <- as.character(grid$id)
-cluster_cut_map <- left_join(phylore$membership,grid,by = c('grids'='id'))
+cluster_cut_map <- left_join(region_df,grid,by = c('grids'='id'))
 options(repr.plot.width=14, repr.plot.height=12)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = cluster_cut_map,aes(fill = cluster,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_manual(values =c("#C1D84D", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#990000","#9900cc","#66FF66","#663300","#354DD2","#CC0033","#660066"))+ # fill 
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = cluster_cut_map,aes(fill = cluster,geometry = geometry),colour='white',alpha=0.9,size=0)+
+    scale_fill_manual(values =c("#0072B2", "#AC84A8","#CD9CC8",  "#8034FB","#F69EFF", "#FFCAA0","#BC1BFD" , "#A354FF",
+                                "#B3CAD6","#E4914F","#FE6544","#419BBC","#D55E00","#CC0033","#690000"))+ # fill 
     ggtitle("phyloregions")+
     labs(fill = "phylo realms")+
     theme_bw()+
@@ -495,6 +618,20 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
 ggsave('phyloregions.tiff',width = 7,height = 7,units = 'in',dpi = 300)
+```
+
+```{r}
+realm <- cluster_cut_map %>% group_by(cluster) %>% summarise(geometry=st_union(geometry))
+plot(realm$geometry)
+st_write(realm,'phyloregions.shp')
+```
+
+```{r}
+region_phylo <- as.phylo(hclust(phylore$region.dist))
+gpinfo <- data.frame(region=c(1:15),color = c("#0072B2", "#AC84A8","#CD9CC8",  "#8034FB","#F69EFF", "#FFCAA0","#BC1BFD" , "#A354FF",
+                                "#B3CAD6","#E4914F","#FE6544","#419BBC","#D55E00","#CC0033","#690000"))
+ggtree(region_phylo) %<+% gpinfo+ geom_tiplab(size=10,aes(col = color))+ theme_tree2()
+ggsave('phyloregion_cluster.pdf',width = 297,height = 210,units = 'mm')
 ```
 
 ## nestedness
@@ -530,20 +667,28 @@ stopCluster(cl)
 
 ```{r}
 beta_ratio$i <- as.character(beta_ratio$i)
+grid$id <- as.character(grid$id)
 beta_ratio_map <- left_join(beta_ratio,grid,by = c('i'='id'))
 options(repr.plot.width=14, repr.plot.height=12)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = beta_ratio_map,aes(fill = ratio,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = beta_ratio_map,aes(fill = ratio,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("beta_nestedness_ratio")+
     labs(fill = "nestedness")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('beta_nestedness_ratio.tiff',width = 7,height = 7,units = 'in',dpi = 300)
-write.csv(beta_ratio,'beta_ratio.csv',row.names = F)
+# write.csv(beta_ratio,'beta_ratio.csv',row.names = F)
 ```
 
 ```{r}
@@ -555,6 +700,7 @@ df <- df[,4:8]%>% scale() %>% as.data.frame() %>% cbind(df[,1:3])
 fml <- as.formula('ratio ~ prec + tavg + LGM_tavg_velocity + dem_value')
 print(fml)
 m_non <- lm(fml, df)
+print(summary(m_non))
 # # plot residuals
 # df$resid <- resid(m_non)
 # ggplot(df, aes(x = x, y = y, size = resid)) +

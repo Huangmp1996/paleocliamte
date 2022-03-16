@@ -19,7 +19,7 @@ library(sf)
 
 ```{r}
 # lizard_map <- st_read('data_reptile/Chinese213lizards_9_27/Chinese_lizards_214_version20200927.shp')
-grid <- st_read('../chinese_terrestral/input/grid.shp')
+# grid <- st_read('../chinese_terrestral/input/grid.shp')
 ```
 
 ```{r}
@@ -36,23 +36,36 @@ Chinese_species_distribution_grid  <- read.csv('lizard_species_distribution_grid
 # 物种丰富度
 
 ```{r}
-# calculate species richness
-lizards <- group_by(Chinese_species_distribution_grid,id) %>% summarize(richness = length(unique(Binomial)))
 china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
 grid <- st_read("../chinese_terrestral//input//grid.shp")
 south_ocean <- st_read("../chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
+# boundary <- st_read('../chinese_terrestral//SHP//boundary_of_realms.shp')
+# gubei <- st_read('../chinese_terrestral//SHP/gubei_dongyang.shp')
+phyloregions_line <- st_read('../chinese_terrestral//SHP//phyloregions_divider.shp') %>% within({divider=as.factor(divider)})
+```
+
+```{r}
+# calculate species richness
+lizards <- group_by(Chinese_species_distribution_grid,id) %>% summarize(richness = length(unique(Binomial)))
 map <- left_join(lizards,grid,by = 'id')
 Chinese_species_distribution_grid$Binomial %>% unique() %>% length()
 options(repr.plot.width=12, repr.plot.height=10)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("richness")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('lizard_species_richness.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 
@@ -220,35 +233,56 @@ map <- left_join(result,grid,by = c('i'='id'))
 
 options(repr.plot.width=12, repr.plot.height=10)
 china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = map,aes(fill = FD.FRic,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("FRic")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('lizard_FRic.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = map,aes(fill = FD.FDiv,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("FD.FDiv")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('lizard_FD.FDiv.tiff',height = 7,width = 7,units = 'in',dpi = 300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = map,aes(fill = FD.FEve,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_fill_distiller(palette = "Spectral",na.value="grey90")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("FD.FEve")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('lizard_FD.FEve.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 ```
 

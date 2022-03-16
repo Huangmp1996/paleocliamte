@@ -23,6 +23,15 @@ options(repr.matrix.max.cols=100, repr.matrix.max.rows=100)
 # 物种丰富度
 
 ```{r}
+china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
+grid <- st_read("../chinese_terrestral//input//grid.shp")
+south_ocean <- st_read("../chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
+# boundary <- st_read('../chinese_terrestral//SHP//boundary_of_realms.shp')
+# gubei <- st_read('../chinese_terrestral//SHP/gubei_dongyang.shp')
+phyloregions_line <- st_read('../chinese_terrestral//SHP//phyloregions_divider.shp') %>% within({divider=as.factor(divider)})
+```
+
+```{r}
 # calculate species richness
 chinese_wild_life_list <- read.csv('../chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
                         select('scientificName','kingdomName','phylumName','className','orderName','familyName')
@@ -37,21 +46,25 @@ Chinese_species_distribution_grid <- read.csv("../chinese_terrestral//species_di
 
 Chinese_species_distribution_grid$species %>% unique() %>% length()
 aves <- group_by(Chinese_species_distribution_grid,grid_id) %>% summarize(richness = length(unique(species)))
-china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
-grid <- st_read("../chinese_terrestral//input//grid.shp")
-south_ocean <- st_read("../chinese_terrestral//input//China-9-1.shp") %>% st_transform(crs = st_crs(grid))
 map <- left_join(aves,grid,by = c('grid_id'='id'))
 
 options(repr.plot.width=12, repr.plot.height=10)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("richness")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('bird_species_richness.tiff',height = 7,width = 7,units = 'in',dpi=300)
 ```
 
@@ -336,36 +349,56 @@ grid <- st_read("../chinese_terrestral//input//grid.shp")
 FD_total_map <- left_join(FD_total,grid,by = c('grid_id'='id'))
 
 options(repr.plot.width=12, repr.plot.height=10)
-china_map <- st_read("../chinese_terrestral//SHP//China_map.shp")
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = FD_total_map,aes(fill = FD.FRic,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("FRic")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('bird_FRic.tiff',height = 7,width = 7,units = 'in' ,dpi=300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = filter(FD_total_map,!is.na(FD.FDiv)),aes(fill = FD.FDiv,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("FD.FDiv")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('bird_FDiv.tiff',height = 7,width = 7,units = 'in' ,dpi=300)
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = filter(FD_total_map,!is.na(FD.FEve)),aes(fill = FD.FEve,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+ # delete legends of divider
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
     ggtitle("FD.FEve")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
-          plot.title = element_text(hjust = 0.5))
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
 ggsave('bird_FEve.tiff',height = 7,width = 7,units = 'in' ,dpi=300)
 ```
 
