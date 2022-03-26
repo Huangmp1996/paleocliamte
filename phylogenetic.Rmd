@@ -617,13 +617,13 @@ ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fil
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
-ggsave('phyloregions.tiff',width = 7,height = 7,units = 'in',dpi = 300)
+# ggsave('phyloregions.tiff',width = 7,height = 7,units = 'in',dpi = 300)
 ```
 
 ```{r}
 realm <- cluster_cut_map %>% group_by(cluster) %>% summarise(geometry=st_union(geometry))
 plot(realm$geometry)
-st_write(realm,'phyloregions.shp')
+# st_write(realm,'phyloregions.shp')
 ```
 
 ```{r}
@@ -631,20 +631,14 @@ region_phylo <- as.phylo(hclust(phylore$region.dist))
 gpinfo <- data.frame(region=c(1:15),color = c("#0072B2", "#AC84A8","#CD9CC8",  "#8034FB","#F69EFF", "#FFCAA0","#BC1BFD" , "#A354FF",
                                 "#B3CAD6","#E4914F","#FE6544","#419BBC","#D55E00","#CC0033","#690000"))
 ggtree(region_phylo) %<+% gpinfo+ geom_tiplab(size=10,aes(col = color))+ theme_tree2()
-ggsave('phyloregion_cluster.pdf',width = 297,height = 210,units = 'mm')
+# ggsave('phyloregion_cluster.pdf',width = 297,height = 210,units = 'mm')
 ```
 
 ## nestedness
 
 ```{r}
-beta_ratio_cal <- function(i, phylo.beta.sor.long, phylo.beta.sne.long){
-    no. <-  c((i-103):(i-101),i-1,i+1,(i+101):(i+103))
-    sor_mean <- filter(phylo.beta.sor.long,row == i, col %in% no.) %>% pull(value) %>% mean()
-    sne_mean <- filter(phylo.beta.sne.long,row == i, col %in% no.) %>% pull(value) %>% mean()
-    ratio <- sne_mean/sor_mean
-    result <- data.frame(i,ratio)
-    return(result)
-}
+library(BAT)
+beta_mat_jaccard <- BAT::beta(submat,subphy,func = "jaccard")
 ```
 
 ```{r}

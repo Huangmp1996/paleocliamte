@@ -191,9 +191,13 @@ model_result$diversity_index <- gsub('mass','body_size',model_result$diversity_i
 model_result$diversity_index <- gsub('FD\\.','',model_result$diversity_index)
 model_result$diversity_index <- gsub('FD_','',model_result$diversity_index)
 head(model_result)
-# -
 
-model_result <- read.csv('model_result.csv')
+# +
+# set p value threshold
+model_result <- read.csv('model_result.csv') %>% within({sig = cut(t_value,
+                                                   breaks = c(-Inf,-1.96,1.96,Inf),
+                                                   labels = c('significant','not_significant','significant'))})
+
 options(repr.plot.width=18, repr.plot.height=8)
 model_result$diversity_index <- factor(model_result$diversity_index,
                                        levels = c('NRI','NTI','FRic','FEve','FDiv','body_size.FRic','body_size.FEve','body_size.FDiv',
@@ -211,6 +215,7 @@ ggplot(model_result,aes(x = item, y = Estimate, fill = sig)) + geom_point(shape=
          axis.text.x = element_text(size = 11,angle = 45),axis.text.y = element_text(size = 10))
 # ggsave('model_result.pdf',height = 300,width = 780,units = 'mm')
 # write.csv(model_result,'model_result.csv',row.names=F)
+# -
 
 options(repr.plot.width=14, repr.plot.height=8)
 model_result_total <- filter(model_result,diversity_index %in% c('NRI','NTI','FRic','FEve','FDiv'))
@@ -223,7 +228,7 @@ ggplot(model_result_total,aes(x = item, y = Estimate, fill = sig)) + geom_point(
     theme(strip.text = element_text(size = rel(2)), # 分面标签字号
          axis.title.x = element_text(size = 14),axis.title.y = element_text(size = 14),
          axis.text.x = element_text(size = 14,angle = 45),axis.text.y = element_text(size = 13))
-ggsave('model_result_total.pdf',height = 300,width = 550,units = 'mm')
+# ggsave('model_result_total.pdf',height = 300,width = 550,units = 'mm')
 
 
 options(repr.plot.width=18, repr.plot.height=8)

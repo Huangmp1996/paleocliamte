@@ -71,7 +71,7 @@ chinese_traits <- filter(Ecological_chinese, iucn2020_binomial %in% Chinese_spec
 AmphiBIO <- read.csv('AmphiBIO_v1/AmphiBIO_v1.csv') %>% select('Species',starts_with('Litter_size'))
 Fei <- read.csv('chinese_amphibian_2020.csv') # Fei et. al 2012
 parental_care_in_frogs <- read.csv(
-                'Vagi_et_al_Climate_and_mating_systems_as_drivers_of global_diversity_of_parental_care_in_frogs/Vagi_et_al_S3_Amphibian_Supplementary_data.csv') %>% 
+                'Vagi_et_al_Climate_and_mating_systems_as_drivers_of_global_diversity_of_parental_care_in_frogs/Vagi_et_al_S3_Amphibian_Supplementary_data.csv') %>% 
                     select('Species','Clutch_size')
 Hallman <- read.csv('Hallmann_Griebeler_Amphibian_Dataset.csv') %>% select('Species','Clutch_size')
 amphibianweb <- read.csv('amphibianbiodiversity_supplementary_material_1.csv') %>% select( 'Order','Species','SVL','Brood_Size')
@@ -123,31 +123,36 @@ ind_mfa <- get_mfa_ind(mfa)$coord
 ```
 
 ```{r}
+library(factoextra)
 options(repr.plot.width=9,repr.plot.height=6)
 eig.val <- get_eigenvalue(mfa)
 fviz_screeplot(mfa,addlabels = TRUE,ncp=8)
+ggsave('PCA/screeplot.tiff',height = 5,width = 7,units = 'in',dpi=300)
 ```
 
 ```{r}
-options(repr.plot.width=20,repr.plot.height=8)
-p1 <- fviz_mfa_var(mfa, "quanti.var", palette = "jco", 
+options(repr.plot.width=16,repr.plot.height=14)
+p1 <- fviz_mfa_var(mfa, "group", labelsize=3, xlim = c(-0.1,0.95)) # the correlation between groups and dimensions. red color = active groups of variables; green color = supplementary groups of variables
+p2 <- fviz_mfa_var(mfa, "quanti.var", palette = "jco", 
              col.var.sup = "violet", repel = TRUE, 
-            geom = c("point", "text"), legend = "bottom") # Correlation between quantitative variables and dimensions
+            geom = c("point", "text"), legend = "none",labelsize=3) # Correlation between quantitative variables and dimensions
 # Contributions to dimension 1
-p2 <- fviz_contrib(mfa, choice = "quanti.var", axes = 1, top = 20,
-             palette = "jco")
+p3 <- fviz_contrib(mfa, choice = "quanti.var", axes = 1, top = 10,
+             palette = "jco", labelsize=3, legend = c(0.85,0.8))
 # Contributions to dimension 2
-p3 <- fviz_contrib(mfa, choice = "quanti.var", axes = 2, top = 20,
-             palette = "jco")
-ggpubr::ggarrange(p1,p2,p3,ncol = 3)
+p4 <- fviz_contrib(mfa, choice = "quanti.var", axes = 2, top = 10,
+             palette = "jco", labelsize=3, legend = c(0.85,0.8))
+ggpubr::ggarrange(p1,p2,p3,p4,ncol = 2,nrow = 2)
+ggsave('PCA/pca_dimensions.tiff',height = 9,width = 10,units = 'in',dpi=300)
 ```
 
 ```{r}
 # functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
-options(repr.plot.width=16,repr.plot.height=14)
+options(repr.plot.width=14,repr.plot.height=12)
 fviz_mfa_ind(mfa, col.ind = "cos2", 
              gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
-             repel = TRUE)
+             repel = TRUE,legend = c(0.1,0.85))
+ggsave('PCA/species_space.tiff',height = 10,width = 10,units = 'in',dpi=300)
 ```
 
 # 功能多样性计算
