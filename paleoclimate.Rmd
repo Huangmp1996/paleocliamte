@@ -108,7 +108,7 @@ dem_value <- raster::extract(dem_projected,xy)
 dem_projected <- projectRaster(dem,grid_raster,crs(grid))
 intersection_grid <- crop(intersection_grid,dem_projected)
 Rdls <- zonal(dem_projected,intersection_grid,fun = 'range') %>% as.data.frame() %>% 
-        dplyr::select(zone,value_1) %>% filter(is.finite(Rdls$value_1))
+        dplyr::select(zone,value_1) %>% filter(is.finite(value_1))
 ```
 
 ```{r}
@@ -148,11 +148,15 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
 ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = map,aes(fill = LGM_tavg_velocity,geometry = geometry),colour='white',alpha=0.8,size=0)+
-    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_fill_distiller(name="LGM temperature change(K)",palette = "Spectral")+ # fill 
     ggtitle("LGM_tavg_velocity")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
+          legend.position = c(0.2,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10),
           plot.title = element_text(hjust = 0.5))
 ggsave('LGM_tavg_velocity.tiff',width = 7,height = 7,units = 'in',dpi = 300)
 ```
