@@ -46,17 +46,13 @@ ggsave('tree2.treefile.dated.tree_with_outgroup.pdf',height = 250,width = 250,un
 ## 计算
 
 ```{r}
-phylogenetic_calculate <- function(taxon){
-    library(dplyr)
-    library(picante)
-    library(tidyr)
-    phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
-    # select taxon distribution
+get_species_distribution_of_taxon <- function(taxon){
     chinese_wild_life_list <- read.csv('chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
-                            select('scientificName','kingdomName','phylumName','className','orderName','familyName')
+                            select('scientificName','kingdomName','phylumName','className','orderName','familyName','genusName')
     Chinese_species_distribution_grid <- read.csv("./chinese_terrestral//species_distribution_grid_filtered.csv",
                                                   header = F, col.names = c("class","species","grid_id","area")) %>% 
                                         group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+    # select taxon distribution
     Chinese_species_distribution_grid <- left_join(Chinese_species_distribution_grid,chinese_wild_life_list,by = c('species' = 'scientificName'))
     Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid,class %in% taxon,
                                                      !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
@@ -72,6 +68,18 @@ phylogenetic_calculate <- function(taxon){
     Chinese_species_distribution_grid_selected <- tidyr::unite(Chinese_species_distribution_grid_selected,taxa,
                                                                 c(className,orderName,familyName,species),sep = '_',remove = F) %>% 
                                                         select(grid_id,taxa)
+    
+    return(Chinese_species_distribution_grid_selected)
+}
+```
+
+```{r}
+phylogenetic_calculate <- function(taxon){
+    library(dplyr)
+    library(picante)
+    library(tidyr)
+    Chinese_species_distribution_grid_selected <- get_species_distribution_of_taxon(taxon)
+    phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
     tips <- intersect(phy$tip.label,Chinese_species_distribution_grid_selected$taxa) # species belong to taxon  has phylogeny data
 #     print(paste0(taxon,'_has_phylogeny_data:',length(unique(tips))))
     # transform to distribution matrix
@@ -104,29 +112,14 @@ phylogenetic_calculate <- function(taxon){
 
 ```{r}
 # species with phylogeny
+all_taxon <- c('amphibian','reptile','ave','mammal')
+Chinese_species_distribution_grid_selected <- get_species_distribution_of_taxon(all_taxon)
+Chinese_species_distribution_grid_selected$className <- str_extract(Chinese_species_distribution_grid_selected$taxa,
+                                                                    '^[A-Z]+(?=_)')
 phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
-# select taxon distribution
-chinese_wild_life_list <- read.csv('chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
-                        select('scientificName','kingdomName','phylumName','className','orderName','familyName','genusName')
-Chinese_species_distribution_grid <- read.csv("./chinese_terrestral//species_distribution_grid_filtered.csv",
-                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
-                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
-Chinese_species_distribution_grid <- left_join(Chinese_species_distribution_grid,chinese_wild_life_list,by = c('species' = 'scientificName'))
-Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid,
-                                                     !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
-                                                                       'Phaethontidae','Diomedeidae','Stercorariidae','Sulidae',
-                                                                       'Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae', # marine bird
-                                                                       'Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
-                                                                       'Kogiidae','Dugongidae','Iniidae','Phocoenidae','Physeteridae',
-                                                                       'Phocidae','Otariidae','Sirenia',# marine mammal
-                                                                        'Dermochelyidae','Cheloniidae'))), # sea turtle
-                                                    !(genusName %in% c('Emydocephalus','Hydrophis','Laticauda'))) %>%  # sea snake
-                                                dplyr::select(grid_id,className,orderName,familyName,species) %>% as.data.frame() 
-Chinese_species_distribution_grid_selected$species <- gsub(" ","_",Chinese_species_distribution_grid_selected$species)
-Chinese_species_distribution_grid_selected <- tidyr::unite(Chinese_species_distribution_grid_selected,taxa,
-                                                            c(className,orderName,familyName,species),sep = '_',remove = F) %>% 
-                                                    select(className,taxa)  %>% distinct()
-Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid_selected,taxa %in% phy$tip.label)
+
+Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid_selected,taxa %in% phy$tip.label) %>% 
+                                                    select(className,taxa) %>% distinct()
 table(Chinese_species_distribution_grid_selected$className)
 ```
 
@@ -304,6 +297,10 @@ colnames(lizard_phylog) <- ifelse(colnames(lizard_phylog)!='grid_id',paste0('liz
 grid$id <- as.numeric(grid$id)
 lizard_phylog$grid_id <- gsub('grid_','',lizard_phylog$grid_id) %>% as.numeric()
 # write.csv(lizard_phylog,'lizard_phylogenetic_diversity.csv',row.names = F)
+```
+
+```{r}
+
 ```
 
 ```{r}
@@ -541,28 +538,9 @@ ggsave('mammal/mammal_NTI.tiff',height = 7,width = 7,units = 'in',dpi = 300)
 # β diversity
 
 ```{r}
-phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
-# select taxon distribution
-chinese_wild_life_list <- read.csv('chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
-                        select('scientificName','kingdomName','phylumName','className','orderName','familyName','genusName')
-Chinese_species_distribution_grid <- read.csv("./chinese_terrestral//species_distribution_grid_filtered.csv",
-                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
-                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
-Chinese_species_distribution_grid <- left_join(Chinese_species_distribution_grid,chinese_wild_life_list,by = c('species' = 'scientificName'))
-Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid,
-                                                     !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
-                                                                       'Phaethontidae','Diomedeidae','Stercorariidae','Sulidae',
-                                                                       'Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae', # marine bird
-                                                                       'Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
-                                                                       'Kogiidae','Dugongidae','Iniidae','Phocoenidae','Physeteridae',
-                                                                       'Phocidae','Otariidae','Sirenia',# marine mammal
-                                                                        'Dermochelyidae','Cheloniidae'))), # sea turtle
-                                                    !(genusName %in% c('Emydocephalus','Hydrophis','Laticauda'))) %>%  # sea snake
-                                                dplyr::select(grid_id,className,orderName,familyName,species) %>% as.data.frame() 
-Chinese_species_distribution_grid_selected$species <- gsub(" ","_",Chinese_species_distribution_grid_selected$species)
-Chinese_species_distribution_grid_selected <- tidyr::unite(Chinese_species_distribution_grid_selected,taxa,
-                                                            c(className,orderName,familyName,species),sep = '_',remove = F) %>% 
-                                                    select(grid_id,taxa)
+all_taxon <- c('amphibian','reptile','ave','mammal')
+Chinese_species_distribution_grid_selected <- get_species_distribution_of_taxon(all_taxon)
+head(Chinese_species_distribution_grid_selected)
 ```
 
 ## phyloregion
@@ -572,6 +550,7 @@ library(phyloregion)
 ```
 
 ```{r}
+phy <- read.tree("./phylogenetic_tree/02.tree/tree2/tree2.treefile.dated.tree_with_outgroup")
 phy$tip.label <- str_extract(phy$tip.label,'[A-Z](?=[a-z])(.+)')
 Chinese_species_distribution_grid_selected$taxa <- str_extract(Chinese_species_distribution_grid_selected$taxa,'[A-Z](?=[a-z])(.+)')
 Chinese_species_distribution_grid_selected_sparse <- phyloregion::long2sparse(Chinese_species_distribution_grid_selected,
@@ -751,6 +730,29 @@ ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fil
          legend.title=element_text(size=13),
          legend.text=element_text(size=10))
 ggsave('beta_nestedness_ratio_Carvalho.tiff',width = 7,height = 7,units = 'in',dpi = 300)
+```
+
+#### taxonomic groups
+
+```{r}
+get_species_of taxon <- function(){}
+```
+
+```{r}
+# beta_ratio_cal_taxon <- function(i,submat,subphy,taxon){
+#     filter()
+#     submat <- as.matrix(submat)
+#     no. <-  c((i-103):(i-101),i %>% -1,i,i+1,(i+101):(i+103)) %>% as.character()
+#     subcomm <- subset(submat,row.names(submat) %in% no.)
+#     subcomm <- subcomm[,colSums(subcomm) != 0]
+#     phy_tmp <- ape::keep.tip(subphy,colnames(subcomm))
+#     beta <- BAT::beta(subcomm,phy_tmp,abund = F, raref = 0,runs = 0)
+#     sor_mean <- (beta$Btotal %>% as.matrix() %>% as.data.frame() %>% pull(as.character(i)) %>% sum())/8
+#     sne_mean <- (beta$Brich %>% as.matrix() %>% as.data.frame() %>% pull(as.character(i)) %>% sum())/8
+#     ratio <- sne_mean/sor_mean
+#     result <- data.frame(i,ratio)
+#     return(result)
+# }
 ```
 
 ### linear regression
