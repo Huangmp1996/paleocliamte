@@ -636,9 +636,18 @@ ggtree(region_phylo) %<+% gpinfo+ geom_tiplab(size=10,aes(col = color))+ theme_t
 
 ## nestedness
 
+
+### Baselga et al.
+
 ```{r}
-library(BAT)
-beta_mat_jaccard <- BAT::beta(submat,subphy,func = "jaccard")
+beta_ratio_cal <- function(i, phylo.beta.sor.long, phylo.beta.sne.long){
+    no. <-  c((i-103):(i-101),i-1,i+1,(i+101):(i+103))
+    sor_mean <- filter(phylo.beta.sor.long,row == i, col %in% no.) %>% pull(value) %>% mean()
+    sne_mean <- filter(phylo.beta.sne.long,row == i, col %in% no.) %>% pull(value) %>% mean()
+    ratio <- sne_mean/sor_mean
+    result <- data.frame(i,ratio)
+    return(result)
+}
 ```
 
 ```{r}
@@ -649,24 +658,24 @@ library("doParallel")      #加载doParallel包用于之后注册进程
 library("foreach")         #导入foreach包
 cl <- makeCluster(40)      
 registerDoParallel(cl)       #进行进程注册
-beta_ratio <- foreach(
+beta_ratio_Baselga <- foreach(
     i = unique(phylo.beta.sor.long$row),          #输入等待请求的参数
     .export = c('phylo.beta.sor.long', 'phylo.beta.sne.long'),
     .combine = rbind,  #返回结果的整合
     .packages = c("dplyr","magrittr") #多个进程共享的系统环境
 ) %dopar% beta_ratio_cal(i, phylo.beta.sor.long, phylo.beta.sne.long)
 stopCluster(cl)
-
+saveRDS(beta_ratio_Baselga,'beta_ratio_Baselga.rds')
 ```
 
 ```{r}
-beta_ratio$i <- as.character(beta_ratio$i)
+beta_ratio_Baselga$i <- as.character(beta_ratio_Baselga$i)
 grid$id <- as.character(grid$id)
-beta_ratio_map <- left_join(beta_ratio,grid,by = c('i'='id'))
+beta_ratio_Baselga_map <- left_join(beta_ratio_Baselga,grid,by = c('i'='id'))
 options(repr.plot.width=14, repr.plot.height=12)
 ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
     geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = beta_ratio_map,aes(fill = ratio,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    geom_sf(data = beta_ratio_Baselga_map,aes(fill = ratio,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
     scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+
@@ -681,16 +690,77 @@ ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fil
          legend.key.size = unit(18, "pt"),
          legend.title=element_text(size=13),
          legend.text=element_text(size=10))
-ggsave('beta_nestedness_ratio.tiff',width = 7,height = 7,units = 'in',dpi = 300)
-# write.csv(beta_ratio,'beta_ratio.csv',row.names = F)
+# ggsave('beta_nestedness_ratio.tiff',width = 7,height = 7,units = 'in',dpi = 300)
 ```
+
+### Carvalho et al.
+
+```{r}
+library(BAT)
+beta_ratio_cal <- function(i,submat, subphy){
+    submat <- as.matrix(submat)
+    no. <-  c((i-103):(i-101),i %>% -1,i,i+1,(i+101):(i+103)) %>% as.character()
+    subcomm <- subset(submat,row.names(submat) %in% no.)
+    subcomm <- subcomm[,colSums(subcomm) != 0]
+    phy_tmp <- ape::keep.tip(subphy,colnames(subcomm))
+    beta <- BAT::beta(subcomm,phy_tmp,abund = F, raref = 0,runs = 0)
+    sor_mean <- (beta$Btotal %>% as.matrix() %>% as.data.frame() %>% pull(as.character(i)) %>% sum())/8
+    sne_mean <- (beta$Brich %>% as.matrix() %>% as.data.frame() %>% pull(as.character(i)) %>% sum())/8
+    ratio <- sne_mean/sor_mean
+    result <- data.frame(i,ratio)
+    return(result)
+}
+```
+
+```{r}
+library("doParallel")      #加载doParallel包用于之后注册进程
+library("foreach")         #导入foreach包
+cl <- makeCluster(30)      
+registerDoParallel(cl)       #进行进程注册
+beta_ratio_Carvalho <- foreach(
+    i = as.numeric(unique(row.names(submat))),          #输入等待请求的参数
+    .export = c('submat', 'subphy'),
+    .combine = rbind,  #返回结果的整合
+    .packages = c("dplyr","magrittr","BAT","ape") #多个进程共享的系统环境
+) %dopar% beta_ratio_cal(i,submat,subphy)
+stopCluster(cl)
+saveRDS(beta_ratio_Carvalho,'beta_ratio_Carvalho.rds')
+```
+
+```{r}
+# beta_ratio_Carvalho <- readRDS('beta_ratio_Carvalho.rds')
+beta_ratio_Carvalho$i <- as.character(beta_ratio_Carvalho$i)
+grid$id <- as.character(grid$id)
+beta_ratio_Carvalho_map <- left_join(beta_ratio_Carvalho,grid,by = c('i'='id'))
+options(repr.plot.width=14, repr.plot.height=12)
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = beta_ratio_Carvalho_map,aes(fill = ratio,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    geom_sf(data = phyloregions_line,aes(geometry = geometry,col=divider,size = divider))+
+    scale_color_manual(values = c('grey60','red','#F75404'),guide = "none")+
+    scale_size_manual(values = c(0.5,0.8,0.6),guide = "none")+
+    ggtitle("beta_nestedness_ratio")+
+    labs(fill = "nestedness")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
+ggsave('beta_nestedness_ratio_Carvalho.tiff',width = 7,height = 7,units = 'in',dpi = 300)
+```
+
+### linear regression
 
 ```{r}
 library(DHARMa)
 env <- read.csv("./environment_variables.csv")
 env$id <- as.character(env$id)
-df <- left_join(beta_ratio,env,by = c('i'='id')) %>% select(i, x, y, prec, tavg, LGM_tavg_velocity,dem_value,ratio) %>% na.omit() 
-df <- df[,4:8]%>% scale() %>% as.data.frame() %>% cbind(df[,1:3])
+df <- left_join(beta_ratio_Carvalho,env,by = c('i'='id')) %>% select(i, x, y, prec, tavg, LGM_tavg_velocity,dem_value,ratio) %>% na.omit() 
+# df <- df[,4:8]%>% scale() %>% as.data.frame() %>% cbind(df[,1:3])
 fml <- as.formula('ratio ~ prec + tavg + LGM_tavg_velocity + dem_value')
 print(fml)
 m_non <- lm(fml, df)
@@ -713,6 +783,11 @@ if (moran$p.value < 0.05){
     print(summary_table)
 }
 
+```
+
+```{r}
+ggplot(data = df,aes(x=LGM_tavg_velocity,y=ratio))+
+geom_point()
 ```
 
 ```{r}
