@@ -275,6 +275,7 @@ ggsave('PCA/species_space.tiff',height = 10,width = 10,units = 'in',dpi=300)
 ```{r}
 ind_mfa <- get_mfa_ind(mfa)$coord # 提取主成分
 head(ind_mfa)
+write.csv(ind_mfa,'ind_mfa.csv')
 ```
 
 ```{r}
@@ -329,25 +330,48 @@ nrow(ind_mfa)==ncol(Chinese_species_distribution_grid_selected)
 ```
 
 ```{r}
-grid_id <- row.names(Chinese_species_distribution_grid_selected)
+# grid_id <- row.names(Chinese_species_distribution_grid_selected)
 
-library(foreach)
-library(doParallel)
-print(paste0('CPUs_used:',40))
-cl <- makeCluster(40)
-registerDoParallel(cl)
-FD_total <- foreach(
-    i = grid_id,
-    .combine = rbind,
-    .packages = c("FD","dplyr"),
-    .export = c('ind_mfa','Chinese_species_distribution_grid_selected')
-) %dopar% FD_calculate(i,ind_mfa,Chinese_species_distribution_grid_selected)
-stopCluster(cl)
-write.csv(FD_total,"FD_bird_total.csv",row.names=F)
+# library(foreach)
+# library(doParallel)
+# print(paste0('CPUs_used:',40))
+# cl <- makeCluster(40)
+# registerDoParallel(cl)
+# FD_total <- foreach(
+#     i = grid_id,
+#     .combine = rbind,
+#     .packages = c("FD","dplyr"),
+#     .export = c('ind_mfa','Chinese_species_distribution_grid_selected')
+# ) %dopar% FD_calculate(i,ind_mfa,Chinese_species_distribution_grid_selected)
+# stopCluster(cl)
+# write.csv(FD_total,"FD_bird_total.csv",row.names=F)
 ```
 
 ```{r}
 FD_total <- read.csv('FD_bird_total.csv')
+```
+
+```{r}
+phyloregion_multicompare <- function(df,var){
+    region_df <- read.csv('../phyloregion_df.csv') %>%mutate_at('grids',as.character)
+    realm_tmp <- df %>% mutate_at('grid_id',as.character) %>% left_join(region_df,by = c('grid_id'='grids')) %>% 
+        mutate(realms=case_when(cluster %in% c(1,9,12) ~ 'North',
+                               cluster %in% c(2,3,4,5,7,8) ~ 'West',
+                               cluster %in% c(6,10,11,13,14,15) ~ 'South')) %>% mutate_at('realms',as.factor)
+    realm_tmp <- realm_tmp[which(!is.na(realm_tmp[var])),]
+    fml <- as.formula("realm_tmp[[var]]~realm_tmp[['realms']]")
+    fit <- aov(fml)
+    return(TukeyHSD(fit))
+}
+```
+
+```{r}
+phyloregion_multicompare(FD_total,'FD.FRic')
+phyloregion_multicompare(FD_total,'FD.FDiv')
+phyloregion_multicompare(FD_total,'FD.FEve')
+```
+
+```{r}
 grid <- st_read("../chinese_terrestral//input//grid.shp")
 FD_total_map <- left_join(FD_total,grid,by = c('grid_id'='id'))
 
@@ -696,6 +720,48 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
+```
+
+# cwm
+
+```{r}
+cwm <- FD::functcomp(ind_mfa,Chinese_species_distribution_grid_selected) %>% dplyr::select(Dim.1,Dim.2) %>% 
+            tibble::rownames_to_column('id')
+```
+
+```{r}
+cwm_table <- read.csv("../environment_variables.csv") %>% 
+                dplyr::select(id, prec, tavg, LGM_tavg_velocity,dem_value) %>% as.data.frame() %>% 
+                        dplyr::mutate_at(vars(contains('id')),as.character) %>% left_join(cwm,by = 'id')
+```
+
+```{r}
+lm_eqn <- function(m){
+  eq <- substitute(italic(y) == a + b %.% italic(x)*","~~italic(r)^2~"="~r2~", p ="~p, 
+                   list(a = format(unname(coef(m)[1]), digits = 2),
+                        b = format(unname(coef(m)[2]), digits = 2),
+                        r2 = format(summary(m)$r.squared, digits = 3),
+                        p = format(summary(m)$coef[2,4], digits = 2)))
+  as.character(as.expression(eq));
+}
+```
+
+```{r}
+options(repr.plot.width=10,repr.plot.height=10)
+m1 <- lm(Dim.1~LGM_tavg_velocity,cwm_table)
+f1 <- ggplot(data = cwm_table,aes(x = LGM_tavg_velocity,y = Dim.1))+geom_point()+
+            geom_smooth(method = "lm")+theme_bw()+ 
+                  geom_text(x = 30, y = -0.2, label = lm_eqn(m1), parse = TRUE)
+cwm_p1 <- ggpubr::annotate_figure(f1,fig.lab = "A",fig.lab.size = 18)
+
+m2 <- lm(Dim.2~LGM_tavg_velocity,cwm_table)
+f2 <- ggplot(data = cwm_table,aes(x = LGM_tavg_velocity,y = Dim.2))+geom_point()+
+            geom_smooth(method = "lm")+theme_bw()+ 
+                  geom_text(x = 30, y = 0.58, label = lm_eqn(m2), parse = TRUE)
+cwm_p2 <- ggpubr::annotate_figure(f2,fig.lab = "B",fig.lab.size = 18)
+
+ggpubr::ggarrange(cwm_p1,cwm_p2,ncol = 1,nrow = 2)
+ggsave('PCA/cwm_lm.tiff',height = 10,width = 10,units = 'in',dpi=300)
 ```
 
 ```{r}
