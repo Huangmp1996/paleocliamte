@@ -1,6 +1,7 @@
 ---
 jupyter:
   jupytext:
+    formats: ipynb,Rmd
     text_representation:
       extension: .Rmd
       format_name: rmarkdown
@@ -27,64 +28,201 @@ grid_raster <- raster(crs = crs(grid), vals = 0, resolution = c(50000, 50000), e
 intersection_grid <- raster("./chinese_terrestral/SHP/intersection_grid.tif")
 x <- (grid$left+grid$right)/2
 y <- (grid$top+grid$bottom)/2
-xy <- cbind(x,y)
+xy <- cbind(x,y)  # midpoint of grid
 ```
 
 # Climate
 
 
-## extract
+## paleo climate
 
 ```{r}
-# open nc file, and display variable names
-LGM_PRECC_file <- 'guangping/trace.01.22000-20001BP.cam2.h0.PRECC.0000101-0200012.nc'
-LGM_PRECC <- ncdf4::nc_open(LGM_PRECC_file)
-names(LGM_PRECC$var)
-# print(LGM_PRECC)# view metadata of PRECC
-LGM_PRECC_raster = raster::raster(LGM_PRECC_file,varname = 'PRECC',band = 1)
+TREFHTnc2rastermean <- function(ncfile){
+    # # open nc file, and display variable names
+    LGM_TREFHT <- ncdf4::nc_open(ncfile)
+    names(LGM_TREFHT$var)
+    TREFHT <- ncvar_get(LGM_TREFHT,varid = 'TREFHT')
+    # replace netCDF fill values with NA's
+    fillvalue <- ncatt_get(LGM_TREFHT,'TREFHT',"_FillValue")
+    TREFHT[TREFHT==fillvalue$value] <- NA
 
-LGM_TREFHT_file <- 'guangping/trace.01.22000-20001BP.cam2.h0.TREFHT.0000101-0200012.nc'
-LGM_TREFHT <- ncdf4::nc_open(LGM_TREFHT_file)
-names(LGM_TREFHT$var)
-# print(TREFHT)
-LGM_TREFHT_raster = raster::raster(LGM_TREFHT_file,varname = 'TREFHT',band = 1)
+    LGM_TREFHT_raster <- raster::stack(LGM_TREFHT_file,varname = 'TREFHT')
+    LGM_TREFHT_raster_mean <- raster::calc(LGM_TREFHT_raster,mean)
 
-LGM_PRECC_raster_projected <- projectRaster(LGM_PRECC_raster,grid_raster)
-LGM_TREFHT_raster_projected <- projectRaster(LGM_TREFHT_raster,grid_raster)
+    newfile <- gsub('.nc','_mean.rds',ncfile)
+    saveRDS(LGM_TREFHT_raster_mean,file = newfile)
+}
 
-LGM_PRECC_value <- raster::extract(LGM_PRECC_raster_projected,xy)/1000*365*24*60*60
-LGM_TREFHT_value <- raster::extract(LGM_TREFHT_raster_projected,xy)-273
+PRECCnc2rastersum <- function(ncfile){
+    # # open nc file, and display variable names
+    LGM_PRECC <- ncdf4::nc_open(ncfile)
+    names(LGM_PRECC$var)
+    PRECC <- ncvar_get(LGM_PRECC,varid = 'PRECC')
+    # replace netCDF fill values with NA's
+    fillvalue <- ncatt_get(LGM_PRECC,'PRECC',"_FillValue")
+    PRECC[PRECC==fillvalue$value] <- NA
+
+    LGM_PRECC_raster <- raster::stack(LGM_PRECC_file,varname = 'PRECC')
+    LGM_PRECC_raster_mean <- raster::calc(LGM_PRECC_raster,sum)
+
+    newfile <- gsub('.nc','_mean.rds',ncfile)
+    saveRDS(LGM_PRECC_raster_mean,file = newfile)
+}
+```
+
+```{r}
+# LGM_PRECC_file <- 'guangping/trace.01.22000-20001BP.cam2.h0.PRECC.0000101-0200012.nc'
+# PRECCnc2rastersum(LGM_PRECC_file,'PRECC')
+LGM_PRECC_raster_mean <- readRDS('guangping/trace.01.22000-20001BP.cam2.h0.PRECC.0000101-0200012_mean.rds')
+```
+
+```{r}
+options(repr.plot.width=12, repr.plot.height=8)
+plot(LGM_PRECC_raster_mean)
+crs(LGM_PRECC_raster_mean) <- "+init=epsg:4326"
+LGM_PRECC_raster_projected <- projectRaster(LGM_PRECC_raster_mean,grid_raster)
+plot(LGM_PRECC_raster_projected )
+LGM_PRECC_value <- raster::extract(LGM_PRECC_raster_projected,xy)*1000*365*24*60*60   # mm/year
+```
+
+```{r}
+# LGM_TREFHT_file <- 'guangping/trace.01.22000-20001BP.cam2.h0.TREFHT.0000101-0200012.nc'
+# TREFHTnc2rastermean(LGM_TREFHT_file,'TREFHT')
+LGM_TREFHT_raster_mean <- readRDS('guangping/trace.01.22000-20001BP.cam2.h0.TREFHT.0000101-0200012_mean.rds')
+```
+
+```{r}
+options(repr.plot.width=12, repr.plot.height=8)
+plot(LGM_TREFHT_raster_mean)
+projection(LGM_TREFHT_raster_mean) <- "+init=epsg:4326"
+LGM_TREFHT_raster_projected <- projectRaster(LGM_TREFHT_raster_mean,grid_raster,method = 'bilinear')
+plot(LGM_TREFHT_raster_projected )
+LGM_TREFHT_value <- raster::extract(LGM_TREFHT_raster_projected,xy)-273.15
 ```
 
 ```{r}
 # open nc file, and display variable names
 mid_Holocene_PRECC_file <- 'guangping/trace.29.06200-05701BP.cam2.h0.PRECL.1580101-1630012.nc'
-mid_Holocene_PRECC <- ncdf4::nc_open(mid_Holocene_PRECC_file)
-names(mid_Holocene_PRECC$var)
-# print(mid_Holocene_PRECC)# view metadata of PRECC
-mid_Holocene_PRECC_raster = raster::raster(mid_Holocene_PRECC_file,varname = 'PRECL',band = 1)
 
 mid_Holocene_TREFHT_file <- 'guangping/trace.29.06200-05701BP.cam2.h0.TREFHT.1580101-1630012.nc'
-mid_Holocene_TREFHT <- ncdf4::nc_open(mid_Holocene_TREFHT_file)
-names(mid_Holocene_TREFHT$var)
-# print(mid_Holocene_TREFHT)
-mid_Holocene_TREFHT_raster = raster::raster(mid_Holocene_TREFHT_file,varname = 'TREFHT',band = 1)
 
 mid_Holocene_PRECC_raster_projected <- projectRaster(mid_Holocene_PRECC_raster,grid_raster)
 mid_Holocene_TREFHT_raster_projected <- projectRaster(mid_Holocene_TREFHT_raster,grid_raster)
 
-mid_Holocene_PRECC_value <- raster::extract(mid_Holocene_PRECC_raster_projected,xy)/1000*365*24*60*60
+mid_Holocene_PRECC_value <- raster::extract(mid_Holocene_PRECC_raster_projected,xy)*1000*365*24*60*60
 mid_Holocene_TREFHT_value <- raster::extract(mid_Holocene_TREFHT_raster_projected,xy)-273
 ```
 
 ```{r}
+modern_TREFHT_file <- 'guangping/trace.36.400BP-1990CE.cam2.h0.TREFHT.2160101-2204012.nc'
+modern_PRECC_file <- 'guangping/trace.36.400BP-1990CE.cam2.h0.PRECC.2160101-2204012.nc'
+TREFHTnc2rastermean(modern_TREFHT_file)
+PRECCnc2rastersum(modern_PRECC_file)
+```
+
+```{r}
+PRECCnc2rastersum(modern_PRECC_file)
+```
+
+```{r}
+modern_TREFHT_raster_mean <- readRDS('guangping/')
+options(repr.plot.width=12, repr.plot.height=8)
+plot(modern_TREFHT_raster_mean)
+projection(modern_TREFHT_raster_mean) <- "+init=epsg:4326"
+modern_TREFHT_raster_projected <- projectRaster(modern_TREFHT_raster_mean,grid_raster,method = 'bilinear')
+plot(modern_TREFHT_raster_projected )
+modern_TREFHT_value <- raster::extract(modern_TREFHT_raster_projected,xy)-273.15
+```
+
+```{r}
+modern_PRECC_raster_mean <- readRDS('guangping/trace.01.22000-20001BP.cam2.h0.TREFHT.0000101-0200012_mean.rds')
+options(repr.plot.width=12, repr.plot.height=8)
+plot(modern_PRECC_raster_mean)
+crs(modern_PRECC_raster_mean) <- "+init=epsg:4326"
+modern_PRECC_raster_projected <- projectRaster(modern_PRECC_raster_mean,grid_raster)
+plot(modern_PRECC_raster_projected )
+modern_PRECC_value <- raster::extract(modern_PRECC_raster_projected,xy)*1000*365*24*60*60   # mm/year
+```
+
+## Nature 
+
+```{r}
+satncfile <- 'LGM_data/LGMR_SAT_climo.nc'
+satnc <- ncdf4::nc_open(satncfile)
+names(satnc$var)
+sat <- ncvar_get(satnc,varid = 'sat')
+ncatt_get(satnc,'sat',"_FillValue")
+```
+
+```{r}
+dim(sat)
+```
+
+```{r}
+sat_raster <- raster::stack(satncfile,varname = 'sat')
+LGM_sat_raster_mean <- raster::calc(sat_raster[[90:110]],mean)
+
+plot(LGM_sat_raster_mean)
+```
+
+```{r}
+crs(LGM_sat_raster_mean) <- "+init=epsg:4326"
+plot(LGM_sat_raster_mean)
+LGM_sat_raster_projected <- projectRaster(LGM_sat_raster_mean,grid_raster)
+plot(LGM_sat_raster_projected )
+LGM_sat_value <- raster::extract(LGM_sat_raster_projected,xy)
+```
+
+```{r}
+sat_raster <- raster::stack(satncfile,varname = 'sat')
+modern_sat_raster_mean <- raster::calc(sat_raster[[1]],mean)
+
+plot(modern_sat_raster_mean)
+crs(modern_sat_raster_mean) <- "+init=epsg:4326"
+plot(modern_sat_raster_mean)
+modern_sat_raster_projected <- projectRaster(modern_sat_raster_mean,grid_raster)
+plot(modern_sat_raster_projected )
+modern_sat_value <- raster::extract(modern_sat_raster_projected,xy)
+```
+
+```{r}
+dOncfile <- 'LGM_data/LGMR_d18Op_climo.nc'
+dOnc <- ncdf4::nc_open(dOncfile)
+names(dOnc$var)
+dO <- ncvar_get(dOnc,varid = 'd18Op')
+ncatt_get(dOnc,'d18Op',"_FillValue")
+dO_raster <- raster::stack(dOncfile,varname = 'd18Op')
+modern_dO_raster_mean <- raster::calc(dO_raster[[1]],mean)
+
+plot(modern_dO_raster_mean)
+crs(modern_dO_raster_mean) <- "+init=epsg:4326"
+plot(modern_dO_raster_mean)
+modern_dO_raster_projected <- projectRaster(modern_dO_raster_mean,grid_raster)
+plot(modern_dO_raster_projected )
+modern_dO_value <- raster::extract(modern_dO_raster_projected,xy)
+```
+
+```{r}
+LGM_dO_raster_mean <- raster::calc(dO_raster[[90:110]],mean)
+
+plot(LGM_dO_raster_mean)
+crs(LGM_dO_raster_mean) <- "+init=epsg:4326"
+plot(LGM_dO_raster_mean)
+LGM_dO_raster_projected <- projectRaster(LGM_dO_raster_mean,grid_raster)
+plot(LGM_dO_raster_projected )
+LGM_dO_value <- raster::extract(LGM_dO_raster_projected,xy)
+```
+
+## modern factors
+
+```{r}
 # modern climate
 files <- list.files("./worldclim/",full.names = TRUE,recursive = TRUE)
-prec <- files[grep('wc2.0_10m_prec_',files)] %>% lapply(raster) %>% stack() %>% mean()
+prec <- files[grep('wc2.0_10m_prec_',files)] %>% lapply(raster) %>% stack() %>% calc(sum)
 prec_projected <- projectRaster(prec,grid_raster)
 
 files <- list.files("./worldclim/",full.names = TRUE,recursive = TRUE)
-tavg <- files[grep('wc2.0_10m_tavg_',files)] %>% lapply(raster) %>% stack() %>% mean()
+tavg <- files[grep('wc2.0_10m_tavg_',files)] %>% lapply(raster) %>% stack() %>% calc(mean)
 tavg_projected <- projectRaster(tavg,grid_raster)
 
 prec <- raster::extract(prec_projected,xy)
@@ -118,10 +256,16 @@ pop_10000BC_projected <- projectRaster(pop_10000BC,grid_raster)
 pop_10000BC_value <- raster::extract(pop_10000BC_projected,xy)
 ```
 
+## merge
+
 ```{r}
-paleovalue <- cbind(grid$id,xy,LGM_PRECC_value,LGM_TREFHT_value,mid_Holocene_PRECC_value,mid_Holocene_TREFHT_value,prec,tavg,pop_value,dem_value,pop_10000BC_value) %>%
-    as.data.frame() %>% mutate(LGM_prec_velocity = abs(LGM_PRECC_value - prec),
-                               LGM_tavg_velocity = abs(LGM_TREFHT_value - tavg),
+paleovalue <- cbind(grid$id,xy,LGM_PRECC_value,LGM_TREFHT_value,mid_Holocene_PRECC_value,mid_Holocene_TREFHT_value,
+                    prec,tavg,pop_value,dem_value,pop_10000BC_value,LGM_sat_value,modern_sat_value,
+                    LGM_dO_value,modern_dO_value) %>%
+    as.data.frame() %>% mutate(LGM_prec_velocity = LGM_PRECC_value - modern_PRECC_value,
+                               LGM_tavg_velocity = LGM_TREFHT_value - modern_TREFHT_value,
+                               LGM_sat_velocity = LGM_sat_value - modern_sat_value,
+                               LGM_dO_velocity = LGM_dO_value - modern_dO_value,
                                mid_Holocene_prec_velocity = abs(mid_Holocene_PRECC_value - prec), 
                                mid_Holocene_tavg_velocity = abs(mid_Holocene_TREFHT_value - tavg)) %>% 
     right_join(Rdls,by = c('V1'='zone'))
@@ -137,12 +281,68 @@ options(repr.plot.width=10, repr.plot.height=8)
 map <- left_join(paleovalue,grid,by = 'id')
 china_map <- st_read("./chinese_terrestral//SHP//China_map.shp")
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = map,aes(fill = LGM_prec_velocity,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = map,aes(fill = prec,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("prec")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = LGM_PRECC_value,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("LGM_PRECC_value")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = LGM_prec_velocity,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("LGM_prec_velocity")+
     theme_bw()+
     theme(panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+
+
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = LGM_dO_velocity,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("LGM_dO_velocity")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = tavg,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(name="modern temperature",palette = "Spectral")+ # fill 
+    ggtitle("modern temperature")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          legend.position = c(0.2,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = LGM_TREFHT_value,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(name="LGM temperature",palette = "Spectral")+ # fill 
+    ggtitle("LGM_tavg")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          legend.position = c(0.2,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10),
           plot.title = element_text(hjust = 0.5))
 
 ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
@@ -158,12 +358,26 @@ ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fil
          legend.title=element_text(size=13),
          legend.text=element_text(size=10),
           plot.title = element_text(hjust = 0.5))
-ggsave('LGM_tavg_velocity.tiff',width = 7,height = 7,units = 'in',dpi = 300)
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = LGM_sat_velocity,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(name="LGM sat change",palette = "Spectral")+ # fill 
+    ggtitle("LGM_sat_velocity")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          legend.position = c(0.2,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10),
+          plot.title = element_text(hjust = 0.5))
+
+# ggsave('LGM_tavg_velocity.tiff',width = 7,height = 7,units = 'in',dpi = 300)
 ```
 
 ```{r}
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = map,aes(fill = mid_Holocene_prec_velocity,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = map,aes(fill = mid_Holocene_prec_velocity,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("mid_Holocene_prec_velocity")+
     theme_bw()+
@@ -171,8 +385,8 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
 
-ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = map,aes(fill = mid_Holocene_tavg_velocity,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0)+
+    geom_sf(data = map,aes(fill = mid_Holocene_tavg_velocity,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("mid_Holocene_tavg_velocity")+
     theme_bw()+
@@ -183,7 +397,7 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
 
 ```{r}
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = map,aes(fill = pop_value,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = map,aes(fill = pop_value,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("Population")+
     theme_bw()+
@@ -191,7 +405,7 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
           panel.grid.minor=element_blank(),
           plot.title = element_text(hjust = 0.5))
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = map,aes(fill = pop_10000BC_value,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = map,aes(fill = pop_10000BC_value,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("pop_10000BC_value")+
     theme_bw()+
@@ -202,7 +416,7 @@ ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill=
 
 ```{r}
 ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
-    geom_sf(data = map,aes(fill = Rdls,geometry = geometry),colour='white',alpha=0.8,size=0.05)+
+    geom_sf(data = map,aes(fill = Rdls,geometry = geometry),colour='white',alpha=0.8,size=0)+
     scale_fill_distiller(palette = "Spectral")+ # fill 
     ggtitle("Rdls")+
     theme_bw()+
