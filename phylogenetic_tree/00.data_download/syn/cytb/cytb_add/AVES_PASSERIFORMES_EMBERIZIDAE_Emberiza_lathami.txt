@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	EF529941.1	999	Melophus lathami cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	NC_031845.1	16799	Melophus lathami mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	KX702277.1	16799	Melophus lathami mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	KJ456338.1	1143	Melophus lathami voucher AMNH:5536 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	FJ547288.1	999	Melophus lathami isolate AMNH JGG1191 cytochrome b (cytb) gene, partial cds; mitochondrial

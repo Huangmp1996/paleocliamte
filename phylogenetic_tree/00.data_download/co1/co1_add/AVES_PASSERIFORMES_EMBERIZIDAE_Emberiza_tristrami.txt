@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	GQ481843.1	694	Emberiza tristrami voucher UWBM 72224 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	GQ481842.1	694	Emberiza tristrami voucher UWBM 74745 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	GQ481841.1	681	Emberiza tristrami voucher UWBM 47438 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	GQ481840.1	680	Emberiza tristrami voucher UWBM 71711 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	GQ481839.1	680	Emberiza tristrami voucher UWBM 74607 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	NC_015234.1	16789	Emberiza tristrami mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_tristrami	HQ896035.1	16789	Emberiza tristrami mitochondrion, complete genome

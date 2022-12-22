@@ -1,8 +1,0 @@
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	MN122869.1	15245	Columba palumbus mitochondrion, partial genome
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	EU482013.1	889	Columba palumbus voucher IPMB 44544 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	EU482012.1	889	Columba palumbus voucher IPMB 44543 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	EU482011.1	926	Columba palumbus voucher IPMB 44542 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	EU482010.1	952	Columba palumbus voucher IPMB 44541 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	EU482009.1	916	Columba palumbus voucher IPMB 44540 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	EU482008.1	916	Columba palumbus voucher IPMB 44539 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_palumbus	AF353436.1	1057	Columba palumbus NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial gene for mitochondrial product

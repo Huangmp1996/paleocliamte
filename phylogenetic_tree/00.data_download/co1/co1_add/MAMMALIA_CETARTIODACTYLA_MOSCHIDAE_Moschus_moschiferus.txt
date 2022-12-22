@@ -1,8 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	KT337321.1	16356	Moschus moschiferus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	FJ469675.1	16351	Moschus moschiferus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	EU835718.1	677	Moschus moschiferus isolate 2002-02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	EU835717.1	677	Moschus moschiferus isolate mm1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	KP993100.1	516	Moschus moschiferus isolate MoM2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	KP993099.1	516	Moschus moschiferus isolate MoM1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	JN632662.1	16356	Moschus moschiferus isolate MA1177 mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_moschiferus	NC_013753.1	16351	Moschus moschiferus mitochondrion, complete genome

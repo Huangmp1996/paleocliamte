@@ -1,9 +1,0 @@
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	KY114891.1	962	Laticauda laticaudata voucher KNU G535LL cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	NC_036053.1	17209	Laticauda laticaudata mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	KY496323.1	17209	Laticauda laticaudata mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	FJ587153.1	714	Laticauda laticaudata voucher EBU13932 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	AB701328.1	962	Laticauda laticaudata mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher: KUZ<JPN>:R67783
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	AB701327.1	962	Laticauda laticaudata mitochondrial cytb gene for cytochrome b, partial cds, haplotype 3
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	AB701326.1	962	Laticauda laticaudata mitochondrial ctyb gene for cytochrome b, partial cds, specimen_voucher: KUZ<JPN>:R62589
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	AB701325.1	962	Laticauda laticaudata mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher: KUZ<JPN>:R67784
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	D31618.1	286	Laticauda laticaudata mitochondrial gene for cytochrome b, partial cds

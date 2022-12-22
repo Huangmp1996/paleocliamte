@@ -1,6 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MN929010.1	18352	Accipiter nisus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	MN122826.1	16426	Accipiter nisus mitochondrion, partial genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KJ680300.1	19417	Accipiter nisus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KP857901.1	1215	Accipiter nisus isolate MNHN_CG2014171 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; and tRNA-Ile and tRNA-Gln genes, complete sequence; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	NC_025580.1	18647	Accipiter nisus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_nisus	KM360148.1	18647	Accipiter nisus mitochondrion, complete genome

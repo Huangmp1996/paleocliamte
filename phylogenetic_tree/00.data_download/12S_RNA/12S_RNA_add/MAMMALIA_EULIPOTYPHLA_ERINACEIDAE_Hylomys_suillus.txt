@@ -1,8 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AF434828.1	1050	Hylomys suillus NADH dehydrogenase subunit 2 (NADH2) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	NC_010298.1	15353	Hylomys suillus mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	HQ857486.1	964	Hylomys suillus clone 2 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	HQ857485.1	964	Hylomys suillus clone 1 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AY121770.1	2605	Hylomys suillus 12S ribosomal RNA gene, complete sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, complete sequence; mitochondrial genes for mitochondrial products
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AM905042.1	15353	Hylomys suillus mitochondrial genome, isolate T-0675
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AM905041.1	17290	Hylomys suillus complete mitochondrial genome, isolate T-1773
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Hylomys_suillus	AF434822.1	962	Hylomys suillus 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

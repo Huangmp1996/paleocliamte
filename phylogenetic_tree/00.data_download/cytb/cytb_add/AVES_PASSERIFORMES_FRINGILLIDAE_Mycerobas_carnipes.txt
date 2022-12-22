@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Mycerobas_carnipes	NC_057247.1	16806	Mycerobas carnipes mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Mycerobas_carnipes	MW304000.1	16806	Mycerobas carnipes mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Mycerobas_carnipes	AF342880.1	924	Mycerobas carnipes cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_FRINGILLIDAE_Mycerobas_carnipes	KJ456355.1	1143	Mycerobas carnipes voucher NHMD 132122 cytochrome b (cytb) gene, complete cds; mitochondrial

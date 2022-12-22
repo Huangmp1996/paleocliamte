@@ -1,7 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Microtus_kikuchii	MF099529.1	1113	Microtus kikuchii voucher MVZ 180889 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Microtus_kikuchii	KY754038.1	1106	Microtus kikuchii cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Microtus_kikuchii	AF163896.1	1143	Microtus kikuchii cytochrome B (cytB) gene, complete cds; mitochondrial gene for mitochondrial product
-MAMMALIA_RODENTIA_CRICETIDAE_Microtus_kikuchii	GU954329.1	930	Microtus kikuchii isolate 02 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Microtus_kikuchii	GU954309.1	930	Microtus kikuchii isolate 01 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Microtus_kikuchii	AF348082.1	16312	Microtus kikuchii mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Microtus_kikuchii	NC_003041.1	16312	Microtus kikuchii mitochondrion, complete genome

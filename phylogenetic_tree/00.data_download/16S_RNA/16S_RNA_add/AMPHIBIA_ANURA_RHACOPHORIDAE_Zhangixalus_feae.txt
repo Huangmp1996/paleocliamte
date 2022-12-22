@@ -1,9 +1,0 @@
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	LC545591.1	723	Zhangixalus feae YTY201810 mitochondrial gene for 16S rRNA, partial sequence
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	LC545590.1	723	Zhangixalus feae YTY201819 mitochondrial gene for 16S rRNA, partial sequence
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	LC386567.1	1903	Rhacophorus feae KUHE:34511 mitochondrial DNA, contains 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	KJ802927.1	1751	Rhacophorus feae voucher VNMN J2754 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	LC010588.1	430	Rhacophorus feae mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:3462
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	LC010587.1	431	Rhacophorus feae mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: VNMN:4109
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	EU215544.1	1960	Rhacophorus feae voucher SCUM 050642W 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	EF564547.1	566	Rhacophorus feae isolate KIZ060821198 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Zhangixalus_feae	EF564546.1	568	Rhacophorus feae isolate KIZ060821197 16S ribosomal RNA gene, partial sequence; mitochondrial

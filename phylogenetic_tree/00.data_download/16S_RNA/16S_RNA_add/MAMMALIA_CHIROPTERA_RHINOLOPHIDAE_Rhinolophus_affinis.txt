@@ -1,5 +1,0 @@
-MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	NC_053269.1	16886	Rhinolophus affinis mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	MT845219.1	16886	Rhinolophus affinis mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	GU461870.1	530	Rhinolophus affinis 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	EF095765.1	1300	Rhinolophus affinis isolate MTA96140 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence, and 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_RHINOLOPHIDAE_Rhinolophus_affinis	DQ989612.1	1558	Rhinolophus affinis voucher GZNU200310 16S ribosomal RNA gene, partial sequence; mitochondrial

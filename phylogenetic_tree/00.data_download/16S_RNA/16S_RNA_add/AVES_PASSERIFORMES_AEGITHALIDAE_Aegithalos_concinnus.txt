@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KF951092.1	17940	Aegithalos concinnus talifuensis mitochondrion, complete genome
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	KF951091.1	17940	Aegithalos concinnus concinnus mitochondrion, complete genome
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU433981.1	1403	Aegithalos concinnus iredalei isolate MAR2702 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU433980.1	1403	Aegithalos concinnus talifuensis isolate MAR3292 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU433979.1	1403	Aegithalos concinnus talifuensis isolate MAR2068 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU433978.1	1403	Aegithalos concinnus manipurensis isolate MAR4722 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_concinnus	GU433977.1	1403	Aegithalos concinnus iredalei isolate MAR4128 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial

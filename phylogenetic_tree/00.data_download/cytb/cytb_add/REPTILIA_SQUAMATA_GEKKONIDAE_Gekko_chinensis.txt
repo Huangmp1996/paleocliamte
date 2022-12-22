@@ -1,9 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MZ190380.1	209	Gekko chinensis isolate OUT cytochrome b (Cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW448287.1	1087	Gekko chinensis voucher SYS r001575 cytochrome b (CYTB) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW448274.1	1087	Gekko chinensis voucher SYS r001211 cytochrome b (CYTB) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW448265.1	1087	Gekko chinensis voucher SYS r001162 cytochrome b (CYTB) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW448264.1	1087	Gekko chinensis voucher SYS r001157 cytochrome b (CYTB) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MW448262.1	1087	Gekko chinensis voucher SYS r001085 cytochrome b (CYTB) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	EU417676.1	731	Gekko chinensis isolate GX cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	NC_027191.1	17906	Gekko chinensis mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	KP666135.1	17906	Gekko chinensis mitochondrion, complete genome

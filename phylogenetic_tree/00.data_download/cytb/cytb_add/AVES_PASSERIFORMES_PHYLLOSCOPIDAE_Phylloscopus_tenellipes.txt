@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tenellipes	NC_045525.1	16904	Seicercus tenellipes mitochondrion, complete genome
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tenellipes	MK390475.1	16904	Seicercus tenellipes mitochondrion, complete genome
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tenellipes	L77140.1	910	Phylloscopus tenellipes cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tenellipes	Y10738.1	1041	P.tenellipes mitochondrial cytb gene, partial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tenellipes	MH079353.1	1076	Seicercus tenellipes voucher DZUG U3016 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tenellipes	MH079352.1	1076	Seicercus tenellipes voucher DZUG U4437 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tenellipes	MH079351.1	1069	Seicercus tenellipes voucher UWBM 58455 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_tenellipes	AY903607.1	1038	Phylloscopus tenellipes cytochrome b (cytb) gene, partial cds; mitochondrial

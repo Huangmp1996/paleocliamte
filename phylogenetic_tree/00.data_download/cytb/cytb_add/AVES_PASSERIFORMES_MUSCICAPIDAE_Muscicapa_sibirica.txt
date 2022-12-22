@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	NC_045374.1	17879	Muscicapa sibirica mitochondrion, complete genome
-AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	MK770601.1	17879	Muscicapa sibirica mitochondrion, complete genome
-AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	KU192810.1	998	Muscicapa sibirica voucher UWBM44143 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	KJ456352.1	1143	Muscicapa sibirica cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	HM633340.1	1076	Muscicapa sibirica voucher DZUG-U336 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Muscicapa_sibirica	EF081350.1	1143	Muscicapa sibirica cytochrome b (cytb) gene, complete cds; mitochondrial

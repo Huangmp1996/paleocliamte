@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	JN018411.1	16794	Ficedula zanthopygia mitochondrion, complete genome
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	DQ365018.1	1143	Ficedula zanthopygia cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	DQ674492.1	998	Ficedula zanthopygia voucher UW_Burke_59913 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	KJ930560.1	1143	Ficedula zanthopygia voucher KU10282 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	EF081342.1	1143	Ficedula zanthopygia cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_zanthopygia	NC_015802.1	16794	Ficedula zanthopygia mitochondrion, complete genome

@@ -1,9 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	JQ086345.1	18521	Eremias argus voucher LEGO-F415 mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	DQ658831.1	516	Eremias argus isolate R 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	DQ658830.1	516	Eremias argus isolate G 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	DQ658829.1	517	Eremias argus isolate B 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	DQ658828.1	517	Eremias argus isolate J 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	DQ658827.1	516	Eremias argus isolate AE 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	DQ658826.1	515	Eremias argus isolate E 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	DQ658825.1	517	Eremias argus isolate I 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_argus	DQ494829.1	549	Eremias argus isolate Llz127 16S ribosomal RNA gene, complete sequence; mitochondrial

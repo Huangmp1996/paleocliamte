@@ -1,6 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	NC_056333.1	16838	Episoriculus leucops mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	MW114663.1	16838	Episoriculus leucops mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981089.1	1578	Episoriculus leucops isolate Epileu08 16S ribosomal RNA gene, complete sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981088.1	1577	Episoriculus leucops isolate Epileu07 16S ribosomal RNA gene, complete sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981087.1	1578	Episoriculus leucops isolate Epileu02 16S ribosomal RNA gene, complete sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_leucops	GU981086.1	1578	Episoriculus leucops isolate Epileu01 16S ribosomal RNA gene, complete sequence; mitochondrial

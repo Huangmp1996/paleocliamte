@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	HQ608882.1	1176	Orthotomus sutorius isolate Y25 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	HQ608841.1	1143	Orthotomus sutorius isolate Y21 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	KT240051.1	602	Orthotomus sutorius cytochrome C oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	KC439328.1	577	Orthotomus sutorius cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	JQ175640.1	652	Orthotomus sutorius voucher USNM:Birds:620419 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	JQ175639.1	652	Orthotomus sutorius voucher USNM:Birds:586584 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CISTICOLIDAE_Orthotomus_sutorius	JQ175638.1	652	Orthotomus sutorius voucher USNM:Birds:616429 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

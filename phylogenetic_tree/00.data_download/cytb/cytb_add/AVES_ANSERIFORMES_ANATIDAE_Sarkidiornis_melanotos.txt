@@ -1,4 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Sarkidiornis_melanotos	EU585660.1	1045	Sarkidiornis melanotos voucher IPMB 46894 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Sarkidiornis_melanotos	AF059171.1	1093	Sarkidiornis melanotos tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Sarkidiornis_melanotos	AF059111.1	1074	Sarkidiornis melanotos cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Sarkidiornis_melanotos	KP965490.1	993	Sarkidiornis melanotos voucher MACN:Or-ct 1721 cytochrome b (cytb) gene, partial cds; mitochondrial

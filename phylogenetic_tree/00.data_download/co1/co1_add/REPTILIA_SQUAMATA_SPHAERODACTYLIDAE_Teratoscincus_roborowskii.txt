@@ -1,9 +1,0 @@
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	NC_053655.1	16693	Teratoscincus roborowskii mitochondrion, complete genome
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	MT107158.1	16693	Teratoscincus roborowskii mitochondrion, complete genome
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	MT977136.1	651	Teratoscincus roborowskii voucher TG00070 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	MT977135.1	651	Teratoscincus roborowskii voucher CAS171203 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	MF573804.1	657	Teratoscincus roborowskii isolate ZMMURAN702 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	MF573803.1	657	Teratoscincus roborowskii isolate ZMMURAN1993 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	MF573802.1	657	Teratoscincus roborowskii isolate ZMMURAN1297a cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	KP115216.1	16635	Teratoscincus roborowskii voucher XF001 mitochondrion, complete genome
-REPTILIA_SQUAMATA_SPHAERODACTYLIDAE_Teratoscincus_roborowskii	AF114252.1	1768	Teratoscincus roborowskii voucher CAS:HERP:171203 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

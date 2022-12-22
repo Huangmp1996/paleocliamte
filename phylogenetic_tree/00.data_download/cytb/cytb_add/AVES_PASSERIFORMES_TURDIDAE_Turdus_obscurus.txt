@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	MZ424446.1	16740	Turdus obscurus mitochondrion, complete genome
-AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	MZ337397.1	16739	Turdus obscurus mitochondrion, complete genome
-AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	AY049484.1	1060	Turdus obscurus UAM9090 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	DQ910968.1	1000	Turdus obscurus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	DQ263754.1	991	Turdus obscurus cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	EU154646.1	1038	Turdus obscurus voucher NRM 2007 6480 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	D38323.1	646	Turdus obscurus mitochondrial gene for cytochrome b, partial cds
-AVES_PASSERIFORMES_TURDIDAE_Turdus_obscurus	D38352.1	293	Turdus obscurus gene for 18S rRNA, partial sequence

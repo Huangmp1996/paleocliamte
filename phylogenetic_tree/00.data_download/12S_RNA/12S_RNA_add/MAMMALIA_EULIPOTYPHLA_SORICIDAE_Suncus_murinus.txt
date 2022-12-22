@@ -1,6 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Suncus_murinus	AF434833.1	1044	Suncus murinus NADH dehydrogenase subunit 2 (NADH2) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Suncus_murinus	NC_024604.1	17240	Suncus murinus mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Suncus_murinus	KJ920198.1	17240	Suncus murinus mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Suncus_murinus	AY691824.1	972	Suncus murinus voucher FMNH 156339 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Suncus_murinus	AB032845.1	972	Suncus murinus mitochondrial gene for 12S ribosomal RNA, complete sequence
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Suncus_murinus	AF434824.1	972	Suncus murinus 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

@@ -1,8 +1,0 @@
-AVES_PICIFORMES_PICIDAE_Picus_canus	NC_045372.1	17103	Picus canus mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Picus_canus	MK348064.1	17103	Picus canus mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Picus_canus	MF766704.1	1036	Picus canus voucher NRM 976051 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Picus_canus	DQ479145.1	1041	Picus canus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Picus_canus	DQ188182.1	1036	Picus canus isolate E11 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Picus_canus	KJ455572.1	1041	Picus canus voucher UWBM:75033 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Picus_canus	JN022020.1	1041	Picus canus canus isolate PRS3085 mitochondrial NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Picus_canus	EU327647.1	1091	Picus canus tRNA-Met gene, partial sequence; NADH dehydrogenase subunt 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial

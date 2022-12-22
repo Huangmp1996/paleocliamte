@@ -1,4 +1,0 @@
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_orientalis	AY523770.1	1919	Bombina orientalis 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase 1 (ND1) gene, complete cds; and tRNA-Ile and tRNA-Gln genes, complete sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_orientalis	AY957562.1	17173	Bombina orientalis mitochondrion, complete genome
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_orientalis	AY585338.1	17847	Bombina orientalis mitochondrion, complete genome
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_orientalis	NC_006689.1	17847	Bombina orientalis mitochondrion, complete genome

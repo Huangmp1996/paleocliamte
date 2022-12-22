@@ -1,4 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	MG583885.1	16683	Tetrao urogallus aquitanicus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	AF230122.1	132	Tetrao urogallus NADH subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	AF222565.1	1041	Tetrao urogallus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GALLIFORMES_PHASIANIDAE_Tetrao_urogallus	AF222594.1	962	Tetrao urogallus 12S small subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

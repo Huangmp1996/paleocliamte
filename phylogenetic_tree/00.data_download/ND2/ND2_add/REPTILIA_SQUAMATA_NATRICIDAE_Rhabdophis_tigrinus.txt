@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_tigrinus	MK199002.1	1023	Rhabdophis tigrinus voucher CHS640 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_tigrinus	MK198935.1	1023	Rhabdophis tigrinus voucher CHS235 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_tigrinus	MK198934.1	1023	Rhabdophis tigrinus voucher CHS234 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_tigrinus	NC_030210.1	17415	Rhabdophis tigrinus voucher HRB150458 mitochondrion, complete genome
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_tigrinus	KU641019.1	17415	Rhabdophis tigrinus voucher HRB150458 mitochondrion, complete genome
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_tigrinus	JQ687460.1	1004	Rhabdophis tigrinus isolate gp613 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,5 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	NC_034603.1	88915856	Mus pahari chromosome 14, PAHARI_EIJ_v1.1, whole genome shotgun sequence
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	NC_036680.1	16286	Mus pahari mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	KY038052.1	16286	Mus pahari mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	AB125793.1	826	Mus pahari mitochondrial gene for 12S ribosomal RNA, partial sequence, isolate:HS511
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	X84383.1	961	M.pahari mitochondrial 12S ribosomal RNA

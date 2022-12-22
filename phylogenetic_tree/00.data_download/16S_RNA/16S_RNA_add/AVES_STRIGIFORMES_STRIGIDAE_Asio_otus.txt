@@ -1,4 +1,0 @@
-AVES_STRIGIFORMES_STRIGIDAE_Asio_otus	MN122894.1	15437	Asio otus mitochondrion, partial genome
-AVES_STRIGIFORMES_STRIGIDAE_Asio_otus	NC_039736.1	17555	Asio otus voucher IN830 mitochondrion, complete genome
-AVES_STRIGIFORMES_STRIGIDAE_Asio_otus	MG916810.1	17555	Asio otus voucher IN830 mitochondrion, complete genome
-AVES_STRIGIFORMES_STRIGIDAE_Asio_otus	AY274069.1	2829	Asio otus 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products

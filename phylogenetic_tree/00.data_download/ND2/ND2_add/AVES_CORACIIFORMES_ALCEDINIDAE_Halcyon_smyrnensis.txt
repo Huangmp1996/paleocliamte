@@ -1,5 +1,0 @@
-AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_smyrnensis	MG008133.1	1041	Halcyon smyrnensis voucher KUNHM 23257 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_smyrnensis	MG008132.1	1023	Halcyon smyrnensis voucher AMNH DOT-17275 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
-AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_smyrnensis	NC_035746.1	17892	Halcyon smyrnensis mitochondrion, complete genome
-AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_smyrnensis	KY940559.1	17892	Halcyon smyrnensis mitochondrion, complete genome
-AVES_CORACIIFORMES_ALCEDINIDAE_Halcyon_smyrnensis	KJ455451.1	1041	Halcyon smyrnensis voucher NHMD 114334 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

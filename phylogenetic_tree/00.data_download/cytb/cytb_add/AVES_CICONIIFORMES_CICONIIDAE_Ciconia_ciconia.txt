@@ -1,8 +1,0 @@
-AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	MN122897.1	16855	Ciconia ciconia mitochondrion, partial genome
-AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	X86744.1	1026	C.ciconia mitochondrial cytb gene
-AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	Z35645.1	332	C.ciconia (cbs43) cytochrome b DNA
-AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	AY567909.1	921	Ciconia ciconia cytochrome b (CYTB) gene, partial cds; mitochondrial
-AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	KJ456229.1	1143	Ciconia ciconia voucher UWBM:82129 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	NC_002197.1	17347	Ciconia ciconia mitochondrion, complete genome
-AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	U70822.1	1077	Ciconia ciconia cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, partial cds
-AVES_CICONIIFORMES_CICONIIDAE_Ciconia_ciconia	AB026818.1	17347	Ciconia ciconia mitochondrial DNA, complete genome

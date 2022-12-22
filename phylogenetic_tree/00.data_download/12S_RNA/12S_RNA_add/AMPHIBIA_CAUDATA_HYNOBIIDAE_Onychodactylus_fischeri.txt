@@ -1,7 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	DQ333820.1	16456	Onychodactylus fischeri mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	NC_008089.1	16456	Onychodactylus fischeri mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	AY915969.1	1061	Onychodactylus fischeri voucher MVZ163731 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	AY593119.1	929	Onychodactylus fischeri 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	DQ417191.1	362	Onychodactylus fischeri isolate NK12-10 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	DQ417189.1	437	Onychodactylus fischeri isolate NK12-9 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Onychodactylus_fischeri	AF218706.1	430	Onychodactylus fischeri 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

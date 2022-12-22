@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	KP877788.1	1035	Emberiza bruniceps isolate MAR6634 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	KP877782.1	1035	Emberiza bruniceps isolate MAR6625 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	KC439267.1	416	Emberiza bruniceps cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_bruniceps	EU325749.1	1076	Emberiza bruniceps cytochrome b gene, partial cds; mitochondrial

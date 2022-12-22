@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	NC_041141.1	17871	Trochalopteron milnei mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	MH238447.1	17871	Trochalopteron milnei mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	MH265829.1	388	Trochalopteron milnei vitryi voucher MNHN 1933-91 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	MH265828.1	629	Trochalopteron milnei sharpei voucher NRM 20047117 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	EU447031.1	615	Garrulax milnei sharpei cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

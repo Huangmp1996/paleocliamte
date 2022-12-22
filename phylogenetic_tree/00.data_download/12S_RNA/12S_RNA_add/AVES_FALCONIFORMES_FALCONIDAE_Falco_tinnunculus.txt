@@ -1,7 +1,0 @@
-AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	MN122821.1	15276	Falco tinnunculus mitochondrion, partial genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	LC104774.1	183	Falco tinnunculus mitochondrial gene for 12S rRNA, partial sequence, bio_material: NSMT(National Science Museum, Tokyo)-DNA-9522
-AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	EU196361.1	17663	Falco tinnunculus mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	NC_011307.1	17663	Falco tinnunculus mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	AY447960.1	314	Falco tinnunculus 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	EF027305.1	148	Falco tinnunculus 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_tinnunculus	AB219557.1	947	Falco tinnunculus interstinctus mitochondrial gene for 12S ribosomal RNA, partial sequence

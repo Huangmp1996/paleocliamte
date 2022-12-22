@@ -1,7 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	KU140668.1	16622	Tadorna tadorna mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	MF067458.1	437	Tadorna tadorna voucher Tad1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	NC_024750.1	16604	Tadorna tadorna mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	KJ794187.1	16604	Tadorna tadorna breed Lin Wu mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	AF173707.1	395	Tadorna tadorna 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	HM063544.1	1035	Tadorna tadorna isolate MDS tRNA-Phe gene, partial sequence; 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, partial sequence; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	AY164521.1	991	Tadorna tadorna 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

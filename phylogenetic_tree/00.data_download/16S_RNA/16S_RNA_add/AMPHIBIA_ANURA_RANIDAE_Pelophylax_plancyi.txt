@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Pelophylax_plancyi	EF196679.1	17822	Rana plancyi mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Pelophylax_plancyi	JQ815308.1	558	Pelophylax plancyi voucher NIBRAM0000100371 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Pelophylax_plancyi	JQ815307.1	558	Pelophylax plancyi voucher NIBRAM0000000038 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Pelophylax_plancyi	NC_009264.1	17822	Rana plancyi mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Pelophylax_plancyi	EU386960.1	1588	Rana plancyi isolate MMS301 16S ribosomal RNA gene, complete sequence; mitochondrial

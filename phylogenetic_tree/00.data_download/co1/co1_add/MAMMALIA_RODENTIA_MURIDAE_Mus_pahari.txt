@@ -1,8 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	NC_036680.1	16286	Mus pahari mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	KY605338.1	690	Mus pahari isolate LC174 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	KY605337.1	690	Mus pahari isolate LC163 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	KY038052.1	16286	Mus pahari mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	KU958018.1	609	Mus pahari isolate 14-003 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	KU958017.1	654	Mus pahari isolate 14-096 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	JF445031.1	657	Mus pahari voucher ROM:111331 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Mus_pahari	JF445030.1	657	Mus pahari voucher ROM:112389 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

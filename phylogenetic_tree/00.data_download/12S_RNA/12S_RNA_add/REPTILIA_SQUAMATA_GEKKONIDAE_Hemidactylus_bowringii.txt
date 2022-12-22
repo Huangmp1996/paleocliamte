@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	NC_025938.1	17097	Hemidactylus bowringii voucher HB201409 mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	KM508815.1	17097	Hemidactylus bowringii voucher HB201409 mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	DQ120458.1	365	Hemidactylus bowringii isolate E1708.8 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	DQ120457.1	367	Hemidactylus bowringii isolate E170810 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	DQ120456.1	367	Hemidactylus bowringii isolate E1109.6 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	AF323515.1	391	Hemidactylus bowringii 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

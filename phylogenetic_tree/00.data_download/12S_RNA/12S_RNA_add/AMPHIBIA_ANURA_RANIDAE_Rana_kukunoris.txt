@@ -1,6 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	MN733918.1	16644	Rana kukunoris mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KU246049.1	18863	Rana kukunoris voucher RG-GYLW-01 mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	NC_035804.1	18863	Rana kukunoris voucher RG-GYLW-01 mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KU310893.1	15182	Rana kukunoris mitochondrion, partial genome
-AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KX269185.1	1949	Rana kukunoris isolate KIZCJ06102001 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_kukunoris	KC465786.1	1944	Rana kukunoris voucher KIZ 0152 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

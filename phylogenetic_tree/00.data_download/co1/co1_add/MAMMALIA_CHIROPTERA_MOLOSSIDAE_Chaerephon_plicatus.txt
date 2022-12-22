@@ -1,6 +1,0 @@
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Chaerephon_plicatus	MK817188.1	613	Chaerephon plicatus isolate _CpliCOI_2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Chaerephon_plicatus	MK817187.1	613	Chaerephon plicatus isolate CpliCOI_1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Chaerephon_plicatus	KY581660.1	16216	Chaerephon plicatus voucher ROM MAM 118373 mitochondrion, partial genome
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Chaerephon_plicatus	HM540190.1	657	Chaerephon plicatus voucher ROM MAM 118373 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Chaerephon_plicatus	KP975249.1	627	Chaerephon plicatus isolate NBS_MIG_MB_673 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Chaerephon_plicatus	KP975244.1	618	Chaerephon plicatus isolate NBS_KAMOV_582 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

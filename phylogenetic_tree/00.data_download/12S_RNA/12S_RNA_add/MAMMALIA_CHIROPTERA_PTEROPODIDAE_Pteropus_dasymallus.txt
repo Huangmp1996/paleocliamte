@@ -1,3 +1,0 @@
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_dasymallus	LC104813.1	173	Pteropus dasymallus mitochondrial gene for 12S rRNA, partial sequence, bio_material: CBM(Chiba Museum) DNA No. 2015-175
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_dasymallus	NC_002612.1	16705	Pteropus dasymallus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_dasymallus	AB042770.1	16705	Pteropus dasymallus mitochondrial DNA, complete genome

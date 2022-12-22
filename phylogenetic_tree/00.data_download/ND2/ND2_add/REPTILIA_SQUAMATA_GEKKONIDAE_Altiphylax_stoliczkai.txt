@@ -1,4 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Altiphylax_stoliczkai	KC151972.1	1282	Altiphylax stoliczkai voucher PMNH 2326 ND2 (ND2) gene, partial cds; tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; and tRNA-Cys gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Altiphylax_stoliczkai	KC151971.1	1282	Altiphylax stoliczkai voucher PMNH 2323 ND2 (ND2) gene, partial cds; tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; and tRNA-Cys gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Altiphylax_stoliczkai	KJ794405.1	1041	Altiphylax stoliczkai voucher CES10/1241 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Altiphylax_stoliczkai	KJ794404.1	1041	Altiphylax stoliczkai voucher CES10/1237 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

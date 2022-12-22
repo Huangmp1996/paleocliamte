@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	GQ481780.1	694	Emberiza pallasi voucher UWBM 75802 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	GQ481779.1	694	Emberiza pallasi voucher UWBM 59816 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	GQ481778.1	686	Emberiza pallasi voucher UWBM 44263 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	GQ481777.1	681	Emberiza pallasi voucher UWBM 47188 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	GQ481776.1	681	Emberiza pallasi voucher UWBM 57996 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	GQ481775.1	680	Emberiza pallasi voucher UWBM 57830 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pallasi	KP877689.1	695	Emberiza pallasi polaris isolate MAR4884 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

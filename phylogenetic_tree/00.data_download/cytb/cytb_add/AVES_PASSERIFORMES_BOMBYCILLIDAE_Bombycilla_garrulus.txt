@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	NC_053057.1	16875	Bombycilla garrulus mitochondrion, complete genome
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	MN356253.1	16875	Bombycilla garrulus mitochondrion, complete genome
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	AY329449.1	974	Bombycilla garrulus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	AF285796.1	1050	Bombycilla garrulus UMMZ234982 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	AF285795.1	1050	Bombycilla garrulus UMMZ234981 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	AF285794.1	1050	Bombycilla garrulus UAM8481 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	AF285793.1	1050	Bombycilla garrulus UAM9901 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	AY228049.1	879	Bombycilla garrulus NRM 986044 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_BOMBYCILLIDAE_Bombycilla_garrulus	FJ177316.1	974	Bombycilla garrulus voucher AMNH (PRS1417) cytochrome b (CYTB) gene, partial cds; mitochondrial

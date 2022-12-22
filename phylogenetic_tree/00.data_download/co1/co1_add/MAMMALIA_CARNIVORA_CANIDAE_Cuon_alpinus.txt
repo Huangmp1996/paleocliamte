@@ -1,5 +1,0 @@
-MAMMALIA_CARNIVORA_CANIDAE_Cuon_alpinus	GU063864.1	16672	Cuon alpinus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_CANIDAE_Cuon_alpinus	AF028185.1	588	Cuon alpinus cytochrome c oxidase subunit I (COI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
-MAMMALIA_CARNIVORA_CANIDAE_Cuon_alpinus	KT448282.1	16070	Cuon alpinus mitochondrion, partial genome
-MAMMALIA_CARNIVORA_CANIDAE_Cuon_alpinus	KF646248.1	16767	Cuon alpinus lepturus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_CANIDAE_Cuon_alpinus	NC_013445.1	16672	Cuon alpinus mitochondrion, complete genome

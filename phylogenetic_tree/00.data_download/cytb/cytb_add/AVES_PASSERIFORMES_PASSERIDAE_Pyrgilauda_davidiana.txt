@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	MZ005606.1	1143	Pyrgilauda davidiana isolate MAR998 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	MZ005605.1	1143	Pyrgilauda davidiana isolate MAR997 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	MZ005604.1	1143	Pyrgilauda davidiana isolate MAR994 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	MN337351.1	862	Pyrgilauda davidiana isolate MAR2093 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	EF530034.1	1143	Montifringilla davidiana cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	DQ244064.1	879	Montifringilla davidiana voucher QPD cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	NC_025915.1	16912	Pyrgilauda davidiana mitochondrion, complete genome
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	KJ148632.1	16912	Pyrgilauda davidiana mitochondrion, complete genome

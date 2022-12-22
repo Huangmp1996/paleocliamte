@@ -1,4 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	DQ333816.1	16394	Hynobius formosanus mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	AY523782.1	1946	Hynobius formosanus 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase 1 (ND1) gene, complete cds; tRNA-Ile and tRNA-Gln genes, complete sequence; and tRNA-Met gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	AY593157.1	972	Hynobius formosanus NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	NC_008084.1	16394	Hynobius formosanus mitochondrion, complete genome

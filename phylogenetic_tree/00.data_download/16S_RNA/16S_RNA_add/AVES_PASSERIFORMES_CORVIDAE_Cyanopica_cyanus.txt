@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	JN108020.1	16893	Cyanopica cyanus mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	AY129274.1	811	Cyanopica cyanus 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial genes for mitochondrial products
-AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	KT934323.1	16899	Cyanopica cyanus koreensis mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	KM042927.1	466	Cyanopica cyanus 16S ribosomal RNA gene, partial sequence
-AVES_PASSERIFORMES_CORVIDAE_Cyanopica_cyanus	NC_015824.1	16893	Cyanopica cyanus mitochondrion, complete genome

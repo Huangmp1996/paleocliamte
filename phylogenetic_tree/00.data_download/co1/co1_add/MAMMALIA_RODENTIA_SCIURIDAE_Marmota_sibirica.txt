@@ -1,5 +1,0 @@
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_sibirica	KX859268.1	687	Marmota sibirica voucher MGL-94 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_sibirica	KX859254.1	667	Marmota sibirica voucher MGL-61 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_sibirica	KU527909.1	631	Marmota sibirica haplotype MGL-21 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_sibirica	KJ466738.1	657	Marmota sibirica voucher NMCDC:han3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_sibirica	KJ466737.1	657	Marmota sibirica voucher NMCDC:han2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

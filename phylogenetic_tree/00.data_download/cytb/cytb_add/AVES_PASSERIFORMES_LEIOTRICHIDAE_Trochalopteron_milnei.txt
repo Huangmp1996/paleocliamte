@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	NC_041141.1	17871	Trochalopteron milnei mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	MH238447.1	17871	Trochalopteron milnei mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	EU447076.1	846	Garrulax milnei sharpei cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	JF804094.1	619	Garrulax milnei isolate 1756 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	JF804093.1	619	Garrulax milnei isolate 1755 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	JF804091.1	619	Garrulax milnei isolate 1757 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	JN827039.1	1143	Garrulax milnei voucher KUNHM 15101 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Trochalopteron_milnei	JN827038.1	1143	Garrulax milnei voucher KUNHM 11104 cytochrome b (CYTB) gene, complete cds; mitochondrial

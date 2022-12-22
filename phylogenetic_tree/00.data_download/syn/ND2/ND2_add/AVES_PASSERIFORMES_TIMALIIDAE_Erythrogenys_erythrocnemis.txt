@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrocnemis	HQ529044.1	519	Pomatorhinus erythrogenys voucher AMNH:DOT 5531 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrocnemis	HQ529043.1	519	Pomatorhinus erythrogenys voucher AMNH:DOT 5179 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrocnemis	KJ455587.1	1041	Erythrogenys erythrogenys NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrocnemis	GU724469.1	1041	Pomatorhinus erythrocnemis voucher NTNU:T3754 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

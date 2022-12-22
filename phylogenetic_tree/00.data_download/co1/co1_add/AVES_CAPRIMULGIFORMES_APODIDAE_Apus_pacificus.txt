@@ -1,6 +1,0 @@
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_pacificus	MT773168.1	675	Apus pacificus isolate 17Bird cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_pacificus	GQ481371.1	694	Apus pacificus voucher UWBM 46961 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_pacificus	AB843362.1	642	Apus pacificus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO036-10
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_pacificus	AB843361.1	690	Apus pacificus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO035-10
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_pacificus	AB842561.1	584	Apus pacificus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM838-12
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_pacificus	AB842560.1	639	Apus pacificus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM542-10

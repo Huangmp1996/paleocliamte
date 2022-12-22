@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK201577.1	585	Achalinus rufescens voucher CHS867 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK201515.1	585	Achalinus rufescens voucher CHS765 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK201472.1	585	Achalinus rufescens voucher CHS688 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	NC_032085.1	17339	Achalinus rufescens voucher HS14023 mitochondrion, complete genome
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	KT897595.1	17339	Achalinus rufescens voucher HS14023 mitochondrion, complete genome
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	KX694895.1	639	Achalinus rufescens voucher MVZ 224137 cytochrome b (cytb) gene, partial cds; mitochondrial

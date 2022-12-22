@@ -1,7 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_plancyi	NC_041160.1	17494	Nyctalus plancyi mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_plancyi	MG603757.1	17494	Nyctalus plancyi mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_plancyi	KX467596.1	1140	Nyctalus plancyi voucher AH-112 cytchrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_plancyi	DQ435073.1	1140	Nyctalus plancyi cytochrome b (Cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_plancyi	JX570905.1	1140	Nyctalus plancyi voucher FMNH 188236 LRH7426 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_plancyi	JX570904.1	1140	Nyctalus plancyi voucher FMNH 193512 EAR6228 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Nyctalus_plancyi	JX570903.1	1140	Nyctalus plancyi voucher FMNH 193511 EAR6227 cytochrome b (cytb) gene, complete cds; mitochondrial

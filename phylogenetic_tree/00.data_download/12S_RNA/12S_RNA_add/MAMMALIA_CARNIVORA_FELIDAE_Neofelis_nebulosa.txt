@@ -1,5 +1,0 @@
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	KU133958.1	16859	Neofelis nebulosa mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	DQ257669.1	16844	Neofelis nebulosa mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	KP202291.1	16657	Neofelis nebulosa isolate NNE mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	NC_008450.1	16844	Neofelis nebulosa mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	AY499283.1	382	Neofelis nebulosa voucher Nne80 12S ribosomal RNA gene, partial sequence; mitochondrial

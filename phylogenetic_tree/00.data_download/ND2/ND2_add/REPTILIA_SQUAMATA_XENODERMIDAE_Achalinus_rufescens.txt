@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK199129.1	1023	Achalinus rufescens voucher CHS868 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK199128.1	1023	Achalinus rufescens voucher CHS864 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	MK199073.1	1020	Achalinus rufescens voucher CHS765 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	NC_032085.1	17339	Achalinus rufescens voucher HS14023 mitochondrion, complete genome
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_rufescens	KT897595.1	17339	Achalinus rufescens voucher HS14023 mitochondrion, complete genome

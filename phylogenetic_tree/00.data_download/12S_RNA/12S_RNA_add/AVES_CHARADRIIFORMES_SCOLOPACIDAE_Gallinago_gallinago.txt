@@ -1,7 +1,0 @@
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_gallinago	MZ157405.1	16919	Gallinago gallinago mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_gallinago	MW865755.1	16814	Gallinago gallinago isolate SWSZ mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_gallinago	FJ603666.1	554	Gallinago gallinago gallinago voucher UMMZ:234734 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_gallinago	FJ603665.1	675	Gallinago gallinago faeroeensis voucher MKP 1621 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_gallinago	FJ603664.1	675	Gallinago gallinago gallinago voucher MKP 2646 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_gallinago	EF373082.2	554	Gallinago gallinago voucher MKP-1590 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Gallinago_gallinago	DQ674576.1	1044	Gallinago gallinago 12S ribosomal RNA and tRNA-Val genes, complete sequence; mitochondrial

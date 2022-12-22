@@ -1,7 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_goisagi	LC541454.1	18542	Gorsachius goisagi 2001-0192 mitochondrial DNA, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_goisagi	AB843533.1	683	Gorsachius goisagi mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO086-10
-AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_goisagi	AB843532.1	681	Gorsachius goisagi mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO085-10
-AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_goisagi	AB843531.1	675	Gorsachius goisagi mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO092-10
-AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_goisagi	AB843530.1	695	Gorsachius goisagi mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO084-10
-AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_goisagi	AB842810.1	604	Gorsachius goisagi mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM653-10
-AVES_PELECANIFORMES_ARDEIDAE_Gorsachius_goisagi	AB842809.1	669	Gorsachius goisagi mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM393-10

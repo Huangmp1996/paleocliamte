@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	MK583037.1	995	Eutropis longicaudata voucher ZMKU00704 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	KX231465.1	1019	Eutropis longicaudata voucher ZMKU R-00704 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	KJ574700.1	1015	Eutropis longicaudata voucher LSUHC:9242 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	KJ574699.1	1015	Eutropis longicaudata voucher LSUHC:3787 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	KJ574698.1	1015	Eutropis longicaudata voucher FMNH:255518 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	KJ574697.1	1015	Eutropis longicaudata voucher KU:328457 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	KJ574696.1	1010	Eutropis longicaudata voucher CAS:230469 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Eutropis_longicaudata	KJ574695.1	1015	Eutropis longicaudata voucher CAS:216129 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

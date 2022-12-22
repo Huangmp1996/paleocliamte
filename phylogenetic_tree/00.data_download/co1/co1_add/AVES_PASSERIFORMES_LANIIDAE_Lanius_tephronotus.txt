@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_LANIIDAE_Lanius_tephronotus	EF621598.1	1176	Lanius tephronotus isolate N3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_tephronotus	EF621597.1	1176	Lanius tephronotus isolate N2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_tephronotus	EF621573.1	1143	Lanius tephronotus isolate M2 cytochrome b gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_tephronotus	NC_021105.1	16820	Lanius tephronotus mitochondrion, complete genome
-AVES_PASSERIFORMES_LANIIDAE_Lanius_tephronotus	JX486029.1	16820	Lanius tephronotus mitochondrion, complete genome

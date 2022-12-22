@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	NC_056389.1	17056	Dicrurus macrocercus mitochondrion, complete genome
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	MW307917.1	17056	Dicrurus macrocercus mitochondrion, complete genome
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	KJ442635.1	658	Dicrurus macrocercus isolate AV9 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	JQ174696.2	652	Dicrurus macrocercus voucher USNM:Birds:620387 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

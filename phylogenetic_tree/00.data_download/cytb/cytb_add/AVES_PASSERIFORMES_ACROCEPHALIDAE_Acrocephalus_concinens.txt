@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_concinens	FJ883027.1	1131	Acrocephalus concinens cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_concinens	KF547906.1	829	Acrocephalus concinens isolate 211 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_concinens	KJ453183.1	1032	Acrocephalus concinens isolate 213 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_concinens	AJ004262.1	1047	Acrocephalus concinens mitochondrial cytb gene, partial (isolate 3)
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_concinens	AJ004261.1	1047	Acrocephalus concinens mitochondrial cytb gene, partial (isolate 2)
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_concinens	AJ004260.1	1047	Acrocephalus concinens mitochondrial cytb gene, partial (isolate 1)

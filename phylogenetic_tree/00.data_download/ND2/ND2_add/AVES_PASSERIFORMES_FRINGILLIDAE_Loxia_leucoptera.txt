@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	NC_051015.1	16811	Loxia leucoptera mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	MN356185.1	16811	Loxia leucoptera mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	FJ547503.1	1041	Loxia leucoptera voucher UAAAC svd3384 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_leucoptera	JN715463.1	1041	Loxia leucoptera NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial

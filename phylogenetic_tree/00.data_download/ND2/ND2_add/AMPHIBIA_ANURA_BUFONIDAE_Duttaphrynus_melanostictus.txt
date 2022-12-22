@@ -1,6 +1,0 @@
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KT031590.1	956	Duttaphrynus melanostictus voucher MVZ:Herp:239140 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KT031589.1	941	Duttaphrynus melanostictus voucher MVZ:Herp:226298 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	FJ882791.1	3864	Duttaphrynus melanostictus voucher VUB 0052; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KY555677.1	1029	Duttaphrynus melanostictus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY458592.1	17374	Bufo melanostictus mitochondrion, complete genome
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	NC_005794.2	17374	Bufo melanostictus mitochondrion, complete genome

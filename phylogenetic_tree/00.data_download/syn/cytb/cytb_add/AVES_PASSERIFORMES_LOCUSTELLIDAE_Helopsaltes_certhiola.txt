@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_certhiola	DQ008476.1	1038	Locustella certhiola cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_certhiola	HQ608859.1	1176	Locustella certhiola isolate Y2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_certhiola	HQ608848.1	1143	Locustella certhiola isolate Y28 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_certhiola	HQ706155.1	1038	Locustella certhiola voucher U1284 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_certhiola	HQ706154.1	1038	Locustella certhiola voucher U1388 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LOCUSTELLIDAE_Helopsaltes_certhiola	AJ004318.1	1047	Locustella certhiola partial mitochondrial cytb gene, isolate 1

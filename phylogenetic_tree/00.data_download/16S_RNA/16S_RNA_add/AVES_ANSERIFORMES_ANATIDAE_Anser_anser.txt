@@ -1,5 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Anser_anser	MN122908.1	16742	Anser anser mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anser_anser	EU932689.1	16738	Anser anser breed White Roman mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anser_anser	KC984218.1	217	Anser anser 16S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Anser_anser	NC_011196.1	16738	Anser anser mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anser_anser	EU136705.1	557	Anser anser voucher UF87 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000138.1	1010	Sibynophis collaris isolate FTB2661 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000137.1	1010	Sibynophis collaris isolate FTB2660 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000136.1	539	Sibynophis collaris isolate FTB2659 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000135.1	1010	Sibynophis collaris isolate FTB2658 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000134.1	1010	Sibynophis collaris isolate FTB2657 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000133.1	1010	Sibynophis collaris isolate FTB2656 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	NC_016424.1	17163	Sibynophis collaris mitochondrion, complete genome
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	JN211315.1	17163	Sibynophis collaris mitochondrion, complete genome

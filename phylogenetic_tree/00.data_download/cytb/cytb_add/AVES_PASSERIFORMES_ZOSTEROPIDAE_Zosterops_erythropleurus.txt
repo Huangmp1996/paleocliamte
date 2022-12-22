@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_erythropleurus	DQ837524.1	1143	Zosterops erythropleurus voucher GLGS1443 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_erythropleurus	NC_027942.1	17811	Zosterops erythropleurus mitochondrion, complete genome
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_erythropleurus	KT194322.1	17811	Zosterops erythropleurus mitochondrion, complete genome
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_erythropleurus	DQ328392.1	311	Zosterops erythropleurus isolate ZMUC O2653 cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_erythropleurus	DQ328391.1	311	Zosterops erythropleurus isolate ZMUC O2776 cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_erythropleurus	AB248714.1	1125	Zosterops erythropleurus mitochondrial cytb gene for cytochrome b, partial cds, sample ID Beijing-20
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_erythropleurus	AB248713.1	1125	Zosterops erythropleurus mitochondrial cytb gene for cytochrome b, partial cds, sample ID Beijing-18
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Zosterops_erythropleurus	AB248712.1	1125	Zosterops erythropleurus mitochondrial cytb gene for cytochrome b, partial cds, sample ID Beijing-6

@@ -1,7 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_blythii	MT588108.1	16752	Myotis blythii mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_blythii	AF401457.1	800	Myotis blythii clone Mbly3233 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial gene for mitochondrial product
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_blythii	AY033966.1	800	Myotis blythii blythii NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial gene for mitochondrial product
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_blythii	KF218471.1	637	Myotis blythii isolate TR6 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_blythii	KF218469.1	637	Myotis blythii isolate TR5 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_blythii	KF218468.1	637	Myotis blythii isolate TR7 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_blythii	KF218467.1	637	Myotis blythii isolate SY1 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial

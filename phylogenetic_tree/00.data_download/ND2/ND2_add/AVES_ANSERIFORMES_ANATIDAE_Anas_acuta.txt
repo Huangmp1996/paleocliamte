@@ -1,4 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	AF059116.1	1093	Anas acuta tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	AF059055.1	1074	Anas acuta cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	NC_024631.1	16599	Anas acuta mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anas_acuta	KF312717.1	16599	Anas acuta mitochondrion, complete genome

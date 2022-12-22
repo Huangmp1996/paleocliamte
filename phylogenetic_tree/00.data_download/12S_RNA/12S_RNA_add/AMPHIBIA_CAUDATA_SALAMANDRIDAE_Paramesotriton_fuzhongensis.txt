@@ -1,7 +1,0 @@
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_fuzhongensis	HQ711552.1	1713	Paramesotriton fuzhongensis voucher GZNU2006****003 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_fuzhongensis	HQ711551.1	1712	Paramesotriton fuzhongensis voucher GZNU2007052002 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_fuzhongensis	FJ938044.1	1763	Paramesotriton fuzhongensis haplotype GZNU2007052001 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_fuzhongensis	AY079466.1	353	Paramesotriton fuzhongensis isolate FZ09 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_fuzhongensis	AY079465.1	353	Paramesotriton fuzhongensis isolate FZ08 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_fuzhongensis	AY079464.1	353	Paramesotriton fuzhongensis isolate FZ07 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_fuzhongensis	AY079463.1	353	Paramesotriton fuzhongensis isolate FZ06 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

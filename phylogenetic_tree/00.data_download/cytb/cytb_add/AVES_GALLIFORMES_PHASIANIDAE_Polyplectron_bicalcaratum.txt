@@ -1,6 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	KX988022.1	1116	Polyplectron bicalcaratum isolate P2_VNMN cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	EU036227.1	1143	Polyplectron bicalcaratum cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	EU417812.1	16702	Polyplectron bicalcaratum mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	AF028799.1	1143	Polyplectron bicalcaratum cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	AF534564.1	1143	Polyplectron bicalcaratum cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GALLIFORMES_PHASIANIDAE_Polyplectron_bicalcaratum	NC_012900.1	16702	Polyplectron bicalcaratum mitochondrion, complete genome

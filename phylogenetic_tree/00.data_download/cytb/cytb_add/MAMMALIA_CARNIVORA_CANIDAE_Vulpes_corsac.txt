@@ -1,8 +1,0 @@
-MAMMALIA_CARNIVORA_CANIDAE_Vulpes_corsac	MT795179.1	1140	Vulpes corsac isolate SH21 cytochrome b (CYTB) gene, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_CANIDAE_Vulpes_corsac	MT795178.1	1140	Vulpes corsac isolate SH15 cytochrome b (CYTB) gene, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_CANIDAE_Vulpes_corsac	KU378490.1	1098	Vulpes corsac isolate CO.F.G4 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_CANIDAE_Vulpes_corsac	KU378489.1	1098	Vulpes corsac isolate CO.F.G3 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_CANIDAE_Vulpes_corsac	KU378488.1	1098	Vulpes corsac isolate CO.F.G2 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_CANIDAE_Vulpes_corsac	KU378487.1	1098	Vulpes corsac isolate CO.F.G1 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_CANIDAE_Vulpes_corsac	NC_023958.1	16721	Vulpes corsac mitochondrion, complete genome
-MAMMALIA_CARNIVORA_CANIDAE_Vulpes_corsac	KJ140137.1	16721	Vulpes corsac mitochondrion, complete genome

@@ -1,3 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Pelophylax_plancyi	AY607308.1	2013	Rana plancyi voucher MVZ 211349 NADH dehydrogenase subunit 1 (nad1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (nad2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Pelophylax_plancyi	EF196679.1	17822	Rana plancyi mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Pelophylax_plancyi	NC_009264.1	17822	Rana plancyi mitochondrion, complete genome

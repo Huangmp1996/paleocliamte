@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_varcoae	MW133368.1	1106	Diploderma varcoae voucher KIZ020412 tRNA-Xle and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_varcoae	MW111459.1	1071	Diploderma varcoae voucher KIZ04289 tRNA-Glx gene, partial sequence; tRNA-Met gene, complete sequence; and NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_varcoae	MT577903.1	1007	Diploderma varcoae voucher WK-JK 011 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_varcoae	MT577902.1	1016	Diploderma varcoae voucher KIZ:029711 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_varcoae	MK001421.1	1008	Diploderma varcoae voucher KIZ026132 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,5 +1,0 @@
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KY434065.1	16709	Eurynorhynchus pygmeus mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	EF373239.1	996	Eurynorhynchus pygmeus voucher EP-001 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	NC_027496.1	16707	Eurynorhynchus pygmeus voucher NJNU:SBS01 mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KP742478.1	16707	Eurynorhynchus pygmeus voucher NJNU:SBS01 mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pygmaea	KC969109.1	981	Eurynorhynchus pygmeus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

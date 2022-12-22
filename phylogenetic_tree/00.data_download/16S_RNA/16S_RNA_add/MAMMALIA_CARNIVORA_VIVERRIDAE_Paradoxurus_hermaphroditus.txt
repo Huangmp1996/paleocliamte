@@ -1,6 +1,0 @@
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MW257219.1	16666	Paradoxurus hermaphroditus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MN640909.1	556	Paradoxurus hermaphroditus isolate PH1 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	NC_039591.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MG200264.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MG996894.1	136	Paradoxurus hermaphroditus voucher ROM_F35791 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KJ698653.1	427	Paradoxurus hermaphroditus isolate SG(EHI)CC135/14 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_Agamidae_Diploderma_chapaense	MW133367.1	1055	Diploderma chapaense voucher ROM 37961 tRNA-Xle gene, partial sequence; tRNA-Met gene, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Diploderma_chapaense	MG214264.1	443	Diploderma chapaense voucher KIZ:034921 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Diploderma_chapaense	MG214263.1	443	Diploderma chapaense voucher KIZ:034923 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Diploderma_chapaense	MG214262.1	443	Diploderma chapaense NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Diploderma_chapaense	MK578667.1	1022	Diploderma chapaense voucher KIZ040145 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Diploderma_chapaense	MK578661.1	456	Diploderma chapaense voucher KIZ047085 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Diploderma_chapaense	MK578660.1	456	Diploderma chapaense voucher KIZ046954 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Diploderma_chapaense	MK578659.1	456	Diploderma chapaense voucher KIZ046970 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

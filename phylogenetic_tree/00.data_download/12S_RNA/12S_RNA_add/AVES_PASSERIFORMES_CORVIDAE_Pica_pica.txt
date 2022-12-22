@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	MT792356.1	16945	Pica pica melanotos mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	MT792355.1	16941	Pica pica leucoptera mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	MT792354.1	16938	Pica pica jankowskii mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	MT792353.1	16936	Pica pica fennorum mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	MT792352.1	16942	Pica pica camtschatica mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	HQ915867.1	16939	Pica pica mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	KF469296.1	443	Pica pica isolate 16 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	NC_015200.1	16939	Pica pica mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pica_pica	EF027324.1	147	Pica pica 12S ribosomal RNA gene, partial sequence; mitochondrial

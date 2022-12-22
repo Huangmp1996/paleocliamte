@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_ALAUDIDAE_Melanocorypha_mongolica	GQ482155.1	694	Melanocorypha mongolica voucher UWBM 59786 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ALAUDIDAE_Melanocorypha_mongolica	GQ482154.1	694	Melanocorypha mongolica voucher UWBM 60020 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ALAUDIDAE_Melanocorypha_mongolica	GQ482153.1	694	Melanocorypha mongolica voucher UWBM 66599 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ALAUDIDAE_Melanocorypha_mongolica	NC_036760.1	17358	Melanocorypha mongolica mitochondrion, complete genome
-AVES_PASSERIFORMES_ALAUDIDAE_Melanocorypha_mongolica	KY887027.1	17358	Melanocorypha mongolica mitochondrion, complete genome
-AVES_PASSERIFORMES_ALAUDIDAE_Melanocorypha_mongolica	GQ482157.1	694	Melanocorypha mongolica voucher UWBM 57847 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ALAUDIDAE_Melanocorypha_mongolica	GQ482156.1	694	Melanocorypha mongolica voucher UWBM 67599 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

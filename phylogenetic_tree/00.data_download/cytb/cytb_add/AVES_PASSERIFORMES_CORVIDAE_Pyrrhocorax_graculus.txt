@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	NC_025927.1	16905	Pyrrhocorax graculus mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	KJ598623.1	16905	Pyrrhocorax graculus mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	JQ864522.1	1095	Pyrrhocorax graculus voucher UWBM 61472 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	JQ963895.1	1228	Pyrrhocorax graculus isolate AlpChCors NADH dehydrogenase subunit 5 (NADH5) and cytochrome B (CYTB) genes, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	JQ963892.1	1228	Pyrrhocorax graculus isolate AlpChAlps NADH dehydrogenase subunit 5 (NADH5) and cytochrome B (CYTB) genes, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	U86043.1	925	Pyrrhocorax graculus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

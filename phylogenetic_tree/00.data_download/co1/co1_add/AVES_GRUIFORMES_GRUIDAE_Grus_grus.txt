@@ -1,7 +1,0 @@
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	GU571917.1	648	Grus grus voucher BISE-Aves229 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	GU571916.1	648	Grus grus voucher BISE-Aves439 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	GU571425.1	956	Grus grus voucher NHMO-BC445 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	GU571424.1	723	Grus grus voucher NHMO-BC393 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	FJ808636.1	640	Grus grus voucher KU08018 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	NC_020577.1	16649	Grus grus mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	FJ769849.1	16649	Grus grus mitochondrion, complete genome

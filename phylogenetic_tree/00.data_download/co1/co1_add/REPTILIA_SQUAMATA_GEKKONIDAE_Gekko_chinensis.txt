@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	MZ190343.1	740	Gekko chinensis isolate OUT cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	HM802954.1	825	Gekko chinensis isolate GXNN01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	HM802953.1	825	Gekko chinensis isolate FJFQ07 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	HM802952.1	825	Gekko chinensis isolate FJFQ06 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	HM802951.1	825	Gekko chinensis isolate FJFQ05 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	NC_027191.1	17906	Gekko chinensis mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_chinensis	KP666135.1	17906	Gekko chinensis mitochondrion, complete genome

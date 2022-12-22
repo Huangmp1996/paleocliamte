@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_forresti	MH079275.1	1049	Abrornis forresti voucher IOZ 20169 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_forresti	MH079274.1	1041	Abrornis forresti voucher IOZ 17478 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_forresti	MH079273.1	1050	Abrornis forresti voucher IOZ 67711 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_forresti	AY583253.1	442	Phylloscopus forresti isolate 00958CHL1 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_forresti	AY583252.1	442	Phylloscopus forresti isolate 00945CHL1 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_forresti	AY583251.1	442	Phylloscopus forresti isolate 00941CHL1 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_forresti	AY583250.1	442	Phylloscopus forresti isolate 00771CHL2 cytochrome b (cytb) gene, partial cds; mitochondrial

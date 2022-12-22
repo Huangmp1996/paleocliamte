@@ -1,7 +1,0 @@
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	NC_018782.1	16381	Equus hemionus kulan isolate Ehemionus mitochondrion, complete genome
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	JX312728.1	16381	Equus hemionus kulan isolate Ehemionus mitochondrion, complete genome
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	JX312730.1	16379	Equus hemionus onager isolate O91 mitochondrion, complete genome
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	HF571289.1	142	Equus hemionus mitochondrial partial 16S rRNA gene, isolate F5
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	HF571288.1	143	Equus hemionus mitochondrial partial 16S rRNA gene, isolate M17
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	NC_016061.1	16634	Equus hemionus mitochondrion, complete genome
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	S65410.1	89	16S rRNA [Equus hemionus=horses, Pleistocene bones, rRNA Mitochondrial Partial, 89 nt]

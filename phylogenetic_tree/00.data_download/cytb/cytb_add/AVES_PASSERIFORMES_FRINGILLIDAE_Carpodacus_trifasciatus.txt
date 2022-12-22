@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_trifasciatus	AF342870.1	924	Carpodacus trifasciatus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_trifasciatus	KF194115.1	1143	Carpodacus trifasciatus voucher MTD C63834 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_trifasciatus	KF194114.1	705	Carpodacus trifasciatus voucher MTD C64237 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_trifasciatus	KF194113.1	705	Carpodacus trifasciatus voucher MAR 5822 cytochrome b (cytb) gene, partial cds; mitochondrial

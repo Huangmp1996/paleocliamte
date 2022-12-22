@@ -1,6 +1,0 @@
-AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	MG008080.1	1041	Ceryle rudis voucher USNM B28977 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	DQ111840.1	1041	Ceryle rudis voucher B39362 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	AY998915.1	362	Ceryle rudis voucher LSUMNS 168427 tRNA-Met gene, partial sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	KJ455360.1	1041	Ceryle rudis voucher NHMD 132650 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	NC_024280.1	17355	Ceryle rudis mitochondrion, complete genome
-AVES_CORACIIFORMES_ALCEDINIDAE_Ceryle_rudis	KJ461938.1	17355	Ceryle rudis mitochondrion, complete genome

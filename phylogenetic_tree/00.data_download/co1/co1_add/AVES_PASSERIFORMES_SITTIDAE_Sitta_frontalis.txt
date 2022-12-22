@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_SITTIDAE_Sitta_frontalis	KJ467146.1	628	Sitta frontalis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_frontalis	KC354957.1	671	Sitta frontalis voucher MRMD1129 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_frontalis	JQ176230.1	651	Sitta frontalis voucher USNM:Birds:607539 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_frontalis	JQ176229.1	652	Sitta frontalis voucher USNM:Birds:620518 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	HQ529136.1	519	Xiphirhynchus superciliaris voucher MNHN:7.07 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	HQ529135.1	519	Xiphirhynchus superciliaris voucher USNM:585863 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	HQ529134.1	519	Xiphirhynchus superciliaris voucher USNM:585853 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	KJ455695.1	1041	Xiphirhynchus superciliaris voucher CAS:95887 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	GU724459.1	1041	Xiphirhynchus superciliaris forresti voucher KIZ:ALS149 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	GU724458.1	1041	Xiphirhynchus superciliaris forresti voucher KIZ:GLGS5003 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	GU724457.1	1041	Xiphirhynchus superciliaris forresti voucher KIZ:04126 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	JN826704.1	1041	Xiphirhynchus superciliaris voucher CAS 95887 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Pomatorhinus_superciliaris	JN826703.1	1041	Xiphirhynchus superciliaris voucher KUNHM 15092 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

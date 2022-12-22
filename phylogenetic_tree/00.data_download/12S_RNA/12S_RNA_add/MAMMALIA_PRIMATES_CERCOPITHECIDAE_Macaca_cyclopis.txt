@@ -1,5 +1,0 @@
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_cyclopis	NC_027449.1	16563	Macaca cyclopis isolate Mc-mitogm12060805 mitochondrion, complete genome
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_cyclopis	KM023192.1	16563	Macaca cyclopis isolate Mc-mitogm12060805 mitochondrion, complete genome
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_cyclopis	AY685877.1	435	Macaca cyclopis isolate Taiwan 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_cyclopis	AF424945.1	1494	Macaca cyclopis isolate 2682 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Macaca_cyclopis	AF424944.1	1494	Macaca cyclopis isolate 1 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

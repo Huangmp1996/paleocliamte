@@ -1,6 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Pavo_muticus	EU826432.1	441	Pavo muticus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Pavo_muticus	EU417811.1	16698	Pavo muticus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Pavo_muticus	DQ010650.1	1143	Pavo muticus imperator cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Pavo_muticus	AY870282.1	828	Pavo muticus isolate V20 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Pavo_muticus	AF013763.1	1143	Pavo muticus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_GALLIFORMES_PHASIANIDAE_Pavo_muticus	NC_012897.1	16698	Pavo muticus mitochondrion, complete genome

@@ -1,6 +1,0 @@
-AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	LT852756.1	325	Falco vespertinus mitochondrial partial cytb gene for cytochrome b
-AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	U83311.1	1143	Falco verpertinus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	EU233135.1	858	Falco vespertinus vespertinus voucher IPMB 9795 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	EU233134.1	858	Falco vespertinus vespertinus voucher IPMB 9793 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	EU233133.1	1045	Falco vespertinus vespertinus voucher IPMB 9783 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_vespertinus	EU233132.1	1045	Falco vespertinus vespertinus voucher IPMB 9782 cytochrome b (cytb) gene, partial cds; mitochondrial

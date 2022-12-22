@@ -1,7 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	EU839486.1	1143	Tragopan temminckii voucher 518 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	EU839485.1	1143	Tragopan temminckii voucher 520 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	EU036226.1	850	Tragopan temminckii cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	AF229838.1	1143	Tragopan temminckii cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	AF028802.1	1143	Tragopan temminckii cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	FJ752427.1	16728	Tragopan temminckii mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_temminckii	NC_020586.1	16728	Tragopan temminckii mitochondrion, complete genome

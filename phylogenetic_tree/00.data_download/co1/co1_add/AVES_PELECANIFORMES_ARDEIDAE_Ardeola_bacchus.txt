@@ -1,6 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	GQ481373.1	694	Ardeola bacchus voucher ZMMU EAK 117 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	KP975239.1	636	Ardeola bacchus isolate NBS_Helicopter cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	AB843366.1	677	Ardeola bacchus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO076-10
-AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	NC_025921.1	19341	Ardeola bacchus mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	KJ190952.1	19341	Ardeola bacchus mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Ardeola_bacchus	KC708543.1	695	Ardeola bacchus isolate 2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

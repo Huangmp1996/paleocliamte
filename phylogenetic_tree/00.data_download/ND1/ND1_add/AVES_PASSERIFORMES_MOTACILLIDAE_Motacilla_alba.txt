@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	MW929091.1	16835	Motacilla alba mitochondrion, complete genome
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	MN356232.1	16828	Motacilla alba mitochondrion, complete genome
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	EU166960.1	2669	Motacilla alba tRNA-Leu gene, partial sequence; NADH dehydrogenase subunit 1 gene, complete cds; tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	NC_029229.1	16826	Motacilla alba mitochondrion, complete genome
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_alba	KT736087.1	16826	Motacilla alba mitochondrion, complete genome

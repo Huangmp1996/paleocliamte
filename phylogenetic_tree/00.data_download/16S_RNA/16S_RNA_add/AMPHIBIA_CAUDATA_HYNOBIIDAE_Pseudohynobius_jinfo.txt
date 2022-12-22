@@ -1,8 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_jinfo	NC_026698.1	16393	Pseudohynobius jinfo voucher SWU-AMP-140715001 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_jinfo	KP281272.1	16393	Pseudohynobius jinfo voucher SWU-AMP-140715001 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_jinfo	JN165943.1	463	Pseudohynobius jinfo voucher ZYC828 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_jinfo	JN165942.1	463	Pseudohynobius jinfo voucher ZYC824 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_jinfo	JN165941.1	462	Pseudohynobius jinfo voucher BMS20010715020 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_jinfo	JN165827.1	582	Pseudohynobius jinfo voucher ZYC828 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_jinfo	JN165826.1	582	Pseudohynobius jinfo voucher ZYC824 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_jinfo	JN165825.1	582	Pseudohynobius jinfo voucher BMS2001071502 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	MN337359.1	876	Pyrgilauda davidiana isolate MAR2093 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	EF529926.1	1038	Montifringilla davidiana NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	NC_025915.1	16912	Pyrgilauda davidiana mitochondrion, complete genome
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_davidiana	KJ148632.1	16912	Pyrgilauda davidiana mitochondrion, complete genome

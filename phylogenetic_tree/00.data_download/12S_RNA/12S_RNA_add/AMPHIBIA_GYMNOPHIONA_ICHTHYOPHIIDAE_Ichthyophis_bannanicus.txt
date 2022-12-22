@@ -1,6 +1,0 @@
-AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	X86308.2	347	Ichthyophis bannanicus mitochondrial partial 16S rRNA gene
-AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	Y10949.1	2588	Ichthyophis bannanicus mitochondrial 12S rRNA, tRNA-Val, 16S rRNA and partial tRNA-Leu genes
-AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	X86274.1	423	Ichthyophis bannanicus mitochondrial partial 16S rRNA gene
-AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	X86240.1	348	Ichthyophis bannanicus mitochondrial partial 12S rRNA gene
-AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	AY458594.1	15983	Ichthyophis bannanicus mitochondrion, complete genome
-AMPHIBIA_GYMNOPHIONA_ICHTHYOPHIIDAE_Ichthyophis_bannanicus	AY101215.1	384	Ichthyophis bannanicus 12S ribosomal RNA gene, partial sequence; mitochondrial

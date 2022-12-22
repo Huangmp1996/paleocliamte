@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JF756810.1	1041	Paradoxornis fulvifrons cyanophrys voucher NTNU T3152 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JF756809.1	1041	Paradoxornis fulvifrons cyanophrys voucher NTNU T3151 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JF756808.1	1041	Paradoxornis fulvifrons albifacies voucher NTNU T2666 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JF756807.1	1041	Paradoxornis fulvifrons albifacies voucher NTNU T0968 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	NC_028436.1	17059	Paradoxornis fulvifrons voucher PFUL20150817V2 mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	KT598466.1	17059	Paradoxornis fulvifrons voucher PFUL20150817V2 mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	KJ455533.1	1031	Paradoxornis fulvifrons voucher CAS:95884 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JN826605.1	1041	Paradoxornis fulvifrons voucher CAS 95908 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JN826604.1	1041	Paradoxornis fulvifrons voucher CAS 95884 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

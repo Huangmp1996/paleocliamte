@@ -1,5 +1,0 @@
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	EU348936.1	948	Strix nebulosa lapponica voucher IPMB 28328 recombination activating protein 1 (RAG-1) gene, partial cds
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	AJ004059.1	1041	Strix nebulosa partial mitochondrial cytb gene, isolate 4
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	AJ004058.1	1041	Strix nebulosa partial mitochondrial cytb gene, isolate 3
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	AJ003916.1	300	Strix nebulosa partial mitochondrial cytb gene, isolate 2
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	AJ003915.1	300	Strix nebulosa partial mitochondrial cytb gene, isolate 1

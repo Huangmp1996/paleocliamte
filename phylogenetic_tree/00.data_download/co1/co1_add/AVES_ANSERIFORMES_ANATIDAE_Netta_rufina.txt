@@ -1,4 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Netta_rufina	GU571988.1	648	Netta rufina voucher BISE-Aves420 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Netta_rufina	GQ482234.1	694	Netta rufina voucher UWBM 56423 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Netta_rufina	NC_024922.1	16625	Netta rufina mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Netta_rufina	KC466568.1	16625	Netta rufina mitochondrion, complete genome

@@ -1,8 +1,0 @@
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP100056.1	16775	Mauremys mutica mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	DQ453753.1	16609	Mauremys mutica mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938959.1	16500	Mauremys mutica isolate taiwan mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938958.1	16494	Mauremys mutica isolate hainan mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	KP938957.1	16759	Mauremys mutica isolate beigui mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	NC_009330.1	16609	Mauremys mutica mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	EF011317.1	816	Mauremys mutica clone Mm2_MVZ230487 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Mauremys_mutica	EF011316.1	816	Mauremys mutica clone Mm1_MVZ230476 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial

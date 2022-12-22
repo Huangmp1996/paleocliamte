@@ -1,8 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	MN535080.1	1140	Nectogale elegans isolate Nec-Qh1 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	NC_023351.1	17460	Nectogale elegans mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	KC503902.1	17460	Nectogale elegans mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981294.1	1140	Nectogale elegans isolate Neceleg8 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981293.1	1140	Nectogale elegans isolate Neceleg7 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981292.1	1140	Nectogale elegans isolate Neceleg2 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981291.1	1140	Nectogale elegans isolate Neceleg1 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	AB175095.1	1140	Nectogale elegans mitochondrial gene for cytochrome b, complete cds

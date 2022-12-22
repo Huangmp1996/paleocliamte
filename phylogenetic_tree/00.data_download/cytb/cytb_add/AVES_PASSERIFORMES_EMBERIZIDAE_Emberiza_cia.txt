@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877800.1	657	Emberiza cia cia isolate MAR71 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877732.1	1035	Emberiza cia cia isolate MAR4003 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877725.1	1035	Emberiza cia flemingorum isolate MAR3346 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	KP877723.1	1035	Emberiza cia cia isolate MAR2586 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cia	EU325758.1	1076	Emberiza cia cia cytochrome b gene, partial cds; mitochondrial

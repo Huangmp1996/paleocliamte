@@ -1,4 +1,0 @@
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	NC_042683.1	16864	Dendrocopos darjellensis voucher AHNU:A0328 mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	MK335535.1	16864	Dendrocopos darjellensis voucher AHNU:A0328 mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	KJ456252.1	1143	Dendrocopos darjellensis voucher AMNH:5627 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	KF766007.1	952	Dendrocopos darjellensis isolate Ddardar4 cytochrome b (cytb) gene, partial cds; mitochondrial

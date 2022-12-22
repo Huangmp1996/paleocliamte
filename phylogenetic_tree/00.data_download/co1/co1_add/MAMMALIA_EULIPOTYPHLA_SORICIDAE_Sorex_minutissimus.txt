@@ -1,6 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MK641805.1	16700	Sorex minutissimus mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	NC_042196.1	17038	Sorex minutissimus mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MH823669.1	17038	Sorex minutissimus mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	MK410421.1	1545	Sorex minutissimus isolate JA5186TA cytochrome oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	JF499370.1	657	Sorex minutissimus voucher ZMMU AALS-601 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Sorex_minutissimus	JF499369.1	657	Sorex minutissimus voucher ZMMU AALS-558 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

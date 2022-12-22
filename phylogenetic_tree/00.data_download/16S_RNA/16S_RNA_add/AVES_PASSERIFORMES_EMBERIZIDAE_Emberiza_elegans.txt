@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KY349099.1	16780	Schoeniclus elegans mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	NC_030368.1	16779	Emberiza elegans mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KJ813903.1	16779	Emberiza elegans mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KP877671.1	843	Schoeniclus elegans elegantulus isolate MAR702 16S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KP877658.1	716	Schoeniclus elegans elegans isolate MAR5906 16S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KP877657.1	717	Schoeniclus elegans elegans isolate MAR5905 16S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KP877642.1	843	Schoeniclus elegans elegans isolate MAR4475 16S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KP877630.1	843	Schoeniclus elegans elegans isolate MAR1244 16S ribosomal RNA gene, partial sequence; mitochondrial

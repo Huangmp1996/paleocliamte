@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	KP167579.1	1151	Odorrana margaretae voucher LC-SNJ1 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, complete sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	EU861592.1	1057	Odorrana margaretae voucher FMNH 233029 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	EU861591.1	1057	Odorrana margaretae voucher FMNH 233025 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	NC_024603.1	17903	Odorrana margaretae mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Odorrana_margaretae	KJ815050.1	17903	Odorrana margaretae mitochondrion, complete genome

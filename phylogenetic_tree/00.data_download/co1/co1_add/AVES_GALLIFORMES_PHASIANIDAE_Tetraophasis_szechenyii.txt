@@ -1,6 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	GQ922647.1	699	Tetraophasis szechenyii bio-material A018 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	GQ922646.1	699	Tetraophasis szechenyii bio-material A015 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	GQ922645.1	699	Tetraophasis szechenyii bio-material A009 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	FJ799728.1	16706	Tetraophasis szechenyii mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	FJ752428.1	16709	Tetraophasis szechenyii mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	NC_020613.1	16709	Tetraophasis szechenyii mitochondrion, complete genome

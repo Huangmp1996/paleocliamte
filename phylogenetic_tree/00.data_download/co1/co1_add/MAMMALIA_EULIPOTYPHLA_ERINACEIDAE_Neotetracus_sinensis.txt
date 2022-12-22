@@ -1,7 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	KY605342.1	690	Neotetracus sinensis isolate LC070 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	KY605341.1	690	Neotetracus sinensis isolate LC057 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	KY605340.1	690	Neotetracus sinensis isolate LC004 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	KY605339.1	690	Neotetracus sinensis isolate LC002 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	NC_019626.1	16982	Neotetracus sinensis mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	JX519466.1	16982	Neotetracus sinensis mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_ERINACEIDAE_Neotetracus_sinensis	JQ600048.1	657	Neotetracus sinensis voucher ROM:118589 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

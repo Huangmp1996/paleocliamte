@@ -1,8 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	AY239042.1	16357	Muntiacus crinifrons mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	NC_004577.1	16357	Muntiacus crinifrons mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523634.1	321	Muntiacus crinifrons isolate nmr02 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523633.1	320	Muntiacus crinifrons isolate nmr03 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523632.1	320	Muntiacus crinifrons isolate nmr01 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523631.1	321	Muntiacus crinifrons isolate nmr05 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	EF523630.1	320	Muntiacus crinifrons isolate nmr04 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_crinifrons	AF108035.1	495	Muntiacus crinifrons 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	KX687333.1	549	Parus venustulus isolate VF02712 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	NC_026701.1	16778	Parus venustulus mitochondrion, complete genome
-AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	KP313823.1	16778	Parus venustulus mitochondrion, complete genome
-AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	HM185354.1	948	Parus venustulus voucher IOZ1945 cytochrome b (cyt b) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	HM185353.1	948	Parus venustulus voucher IOZ2806 cytochrome b (cyt b) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	HM185326.1	1201	Parus venustulus voucher IOZ2806 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PARIDAE_Pardaliparus_venustulus	HM185325.1	1201	Parus venustulus voucher IOZ1945 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

@@ -1,8 +1,0 @@
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	MH978908.1	16672	Otocolobus manul mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KF297805.1	658	Otocolobus manul voucher 89_Ot_man cytochrome c oxidase subunit I (COX1) gene, partial sequence; nuclear copy of mitochondrial gene
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KF297800.1	658	Otocolobus manul voucher 193_Ot_man cytochrome c oxidase subunit I (COX1) gene, partial sequence; nuclear copy of mitochondrial gene
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KF297799.1	658	Otocolobus manul voucher 87_Ot_man cytochrome c oxidase subunit I (COX1) gene, partial sequence; nuclear copy of mitochondrial gene
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KF297787.1	658	Otocolobus manul voucher 102_Ot_man cytochrome c oxidase subunit I (COX1) gene, partial sequence; nuclear copy of mitochondrial gene
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	NC_028323.1	16626	Otocolobus manul isolate OMA mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KP202295.1	16626	Otocolobus manul isolate OMA mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KR132585.1	17009	Otocolobus manul mitochondrion, partial genome

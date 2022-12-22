@@ -1,4 +1,0 @@
-REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	AB179620.1	18872	Xenopeltis unicolor mitochondrial DNA, complete genome
-REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	MK199050.1	1026	Xenopeltis unicolor voucher CHS725 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	MK198950.1	1026	Xenopeltis unicolor voucher CHS270 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENOPELTIDAE_Xenopeltis_unicolor	NC_007402.1	18872	Xenopeltis unicolor mitochondrion, complete genome

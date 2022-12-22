@@ -1,7 +1,0 @@
-AVES_PSITTACIFORMES_PSITTACIDAE_Himalayapsitta_roseata	NC_045379.1	16814	Psittacula roseata mitochondrion, complete genome
-AVES_PSITTACIFORMES_PSITTACIDAE_Himalayapsitta_roseata	MK986661.1	16814	Psittacula roseata mitochondrion, complete genome
-AVES_PSITTACIFORMES_PSITTACIDAE_Himalayapsitta_roseata	KM372577.1	1065	Psittacula roseata isolate 35060 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PSITTACIFORMES_PSITTACIDAE_Himalayapsitta_roseata	MH645642.1	718	Psittacula roseata cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PSITTACIFORMES_PSITTACIDAE_Himalayapsitta_roseata	AY220107.1	799	Psittacula roseata cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PSITTACIFORMES_PSITTACIDAE_Himalayapsitta_roseata	KJ456438.1	1065	Psittacula roseata voucher FMNH:279239 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PSITTACIFORMES_PSITTACIDAE_Himalayapsitta_roseata	KF851356.1	799	Psittacula roseata voucher ABPPPROS201201 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,8 +1,0 @@
-MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MW257229.1	16491	Mustela nivalis mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MT410954.1	2958	Mustela nivalis mitochondrion, partial genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	MF459691.1	16502	Mustela nivalis mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	KT901457.1	16372	Mustela nivalis mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	HM106319.1	16512	Mustela nivalis voucher YP1 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	GU167301.1	957	Mustela nivalis NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	KT693382.1	16511	Mustela nivalis isolate Weasel mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Mustela_nivalis	NC_020639.1	16512	Mustela nivalis voucher YP1 mitochondrion, complete genome

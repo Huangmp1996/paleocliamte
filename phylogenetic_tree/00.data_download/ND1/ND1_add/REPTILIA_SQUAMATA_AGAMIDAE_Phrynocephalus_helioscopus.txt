@@ -1,3 +1,0 @@
-REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	KJ195921.1	1724	Phrynocephalus helioscopus voucher CAS:HERP:183380 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	NC_025639.1	16249	Phrynocephalus helioscopus mitochondrion, complete genome
-REPTILIA_SQUAMATA_AGAMIDAE_Phrynocephalus_helioscopus	KM093858.1	16249	Phrynocephalus helioscopus mitochondrion, complete genome

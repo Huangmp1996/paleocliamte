@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_strophiata	DQ674502.1	998	Ficedula strophiata cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_strophiata	KJ456277.1	1143	Ficedula strophiata cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_strophiata	KJ930557.1	1143	Ficedula strophiata voucher KU15267 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_strophiata	HM633308.1	1076	Ficedula strophiata voucher DZUG-U313 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_strophiata	EF081343.1	1143	Ficedula strophiata cytochrome b (cytb) gene, complete cds; mitochondrial

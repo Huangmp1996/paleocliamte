@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MF807895.1	746	Nidirana pleuraden voucher SYS a003776 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	MF807894.1	747	Nidirana pleuraden voucher SYS a003775 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	KF771283.1	1602	Babina pleuraden 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	JN541324.1	400	Rana pleuraden 12S ribosomal RNA gene, partial sequence
-AMPHIBIA_ANURA_RANIDAE_Nidirana_pleuraden	DQ359958.1	695	Rana pleuraden voucher SCUM0405185CJ 12S ribosomal RNA gene, partial sequence; mitochondrial

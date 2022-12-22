@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	MN356320.1	16838	Prunella fulvescens mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	NC_035747.1	16837	Prunella fulvescens isolate PF201601 mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KY787003.1	904	Prunella fulvescens fulvescens voucher DZUG 2058 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KY787002.1	1027	Prunella fulvescens nanschanica voucher DZUG 162 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KY787001.1	1126	Prunella fulvescens nanschanica voucher IOZ 6516 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KY787000.1	1126	Prunella fulvescens voucher KUBI 114388 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KY471556.1	16837	Prunella fulvescens isolate PF201601 mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KX109632.1	1041	Prunella fulvescens isolate MAR7548 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_fulvescens	KJ456428.1	1143	Prunella fulvescens voucher FMNH:242448 cytochrome b (cytb) gene, complete cds; mitochondrial

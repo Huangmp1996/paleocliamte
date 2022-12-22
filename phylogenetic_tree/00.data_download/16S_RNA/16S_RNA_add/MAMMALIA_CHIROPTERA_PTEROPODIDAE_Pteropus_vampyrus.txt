@@ -1,4 +1,0 @@
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	NC_026542.1	16554	Pteropus vampyrus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	KP214033.1	16554	Pteropus vampyrus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	JN398189.1	2455	Pteropus vampyrus 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	DQ002952.1	1296	Pteropus vampyrus isolate P. V. 1 12S ribosomal RNA, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA, partial sequence; mitochondrial

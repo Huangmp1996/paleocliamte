@@ -1,5 +1,0 @@
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	KU320632.1	16725	Tylototriton kweichowensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	EF627456.1	753	Tylototriton kweichowensis haplotype W cytochrome b gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	EF627453.1	753	Tylototriton kweichowensis haplotype V cytochrome b gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	JX854517.1	2474	Tylototriton kweichowensis voucher ZD195 cytochrome b (cytb) gene, partial cds; D-loop and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_kweichowensis	AB686173.1	1141	Tylototriton kweichowensis mitochondrial cytb gene for cytochrome b, partial cds

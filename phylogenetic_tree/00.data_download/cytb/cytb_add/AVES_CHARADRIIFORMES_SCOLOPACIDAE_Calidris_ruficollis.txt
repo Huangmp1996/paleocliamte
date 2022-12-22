@@ -1,4 +1,0 @@
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	NC_040990.1	16860	Calidris ruficollis mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	MG736926.1	16860	Calidris ruficollis mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	KC969167.1	1005	Calidris ruficollis cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_ruficollis	FJ499023.1	508	Calidris ruficollis cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	MZ435950.1	17224	Takydromus kuehnei voucher LSU20210413QLG001 mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	MF631864.1	707	Takydromus kuehnei voucher SYS r001338 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	MF631863.1	707	Takydromus kuehnei voucher SYS r001268 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	AY248540.1	758	Takydromus kuehnei isolate KUE0201 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial gene for mitochondrial product
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_kuehnei	AY248539.1	758	Takydromus kuehnei isolate KUE0102 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial gene for mitochondrial product

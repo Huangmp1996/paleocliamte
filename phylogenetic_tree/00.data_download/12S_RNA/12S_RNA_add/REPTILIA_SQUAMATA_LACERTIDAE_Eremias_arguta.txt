@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	KU605241.1	15192	Eremias arguta mitochondrion, partial genome
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	DQ658806.1	379	Eremias arguta isolate V 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	DQ658805.1	379	Eremias arguta isolate W 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	DQ658804.1	379	Eremias arguta isolate X 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	DQ658803.1	379	Eremias arguta isolate U 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	DQ658802.1	379	Eremias arguta isolate AB 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	AY035827.1	459	Eremias arguta strain ACA-17 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_arguta	AF080363.1	309	Eremias arguta 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

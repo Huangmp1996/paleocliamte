@@ -1,7 +1,0 @@
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Plegadis_falcinellus	MK208916.1	1038	Plegadis falcinellus voucher LSUMZ:85048 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Plegadis_falcinellus	MK208907.1	1043	Plegadis falcinellus voucher AMNH:7978 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Plegadis_falcinellus	MK208905.1	1043	Plegadis falcinellus voucher CSIRO:51252 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Plegadis_falcinellus	MK208904.1	1043	Plegadis falcinellus voucher AMNH:17030 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Plegadis_falcinellus	MK208903.1	1038	Plegadis falcinellus voucher LSUMZ:84051 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Plegadis_falcinellus	MK208902.1	1037	Plegadis falcinellus voucher CSIRO:32690 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Plegadis_falcinellus	MK208900.1	757	Plegadis falcinellus voucher LSUMZ:51600 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

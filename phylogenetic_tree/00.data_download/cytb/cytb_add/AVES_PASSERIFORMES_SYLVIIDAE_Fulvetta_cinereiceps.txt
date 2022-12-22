@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_cinereiceps	MG833030.1	16969	Fulvetta cinereiceps mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_cinereiceps	JF756764.1	1143	Alcippe cinereiceps voucher NTNU T2263 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_cinereiceps	HM140308.1	621	Alcippe cinereiceps isolate 2608 cytochrome b (Cyt b) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_cinereiceps	JN827017.1	967	Alcippe cinereiceps voucher AMNH DOT5181 cytochrome b (CYTB) gene, partial cds; mitochondrial

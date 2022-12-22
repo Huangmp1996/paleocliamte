@@ -1,7 +1,0 @@
-REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	MH822616.1	19093	Platysternon megacephalum peguense mitochondrion, complete genome
-REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	QXTE01000552.1	292308	Platysternon megacephalum isolate DO16091913 scaf552, whole genome shotgun sequence
-REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	QXTE01001502.1	13957	Platysternon megacephalum isolate DO16091913 scaf1503, whole genome shotgun sequence
-REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	QXTE01008397.1	2813	Platysternon megacephalum isolate DO16091913 scaf8426, whole genome shotgun sequence
-REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	DQ016387.1	19161	Platysternon megacephalum mitochondrion, complete genome
-REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	JN860638.1	1136	Platysternon megacephalum voucher ANUM26080324 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_TESTUDINES_PLATYSTERNIDAE_Platysternon_megacephalum	HQ123496.1	541	Platysternon megacephalum voucher ECSFRI-G10 16S ribosomal RNA gene, partial sequence; mitochondrial

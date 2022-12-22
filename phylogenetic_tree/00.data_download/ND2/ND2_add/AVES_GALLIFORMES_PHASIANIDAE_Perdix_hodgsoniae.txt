@@ -1,9 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	KX838507.1	16697	Perdix hodgsoniae mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	EU845766.1	1023	Perdix hodgsoniae voucher 801 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	EU845765.1	1023	Perdix hodgsoniae voucher 802 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	EU845764.1	1023	Perdix hodgsoniae voucher 805 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	GU214310.1	1023	Perdix hodgsoniae koslowi isolate 803 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	GU214309.1	1023	Perdix hodgsoniae hodgsoniae isolate 808 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	NC_023940.1	16699	Perdix hodgsoniae mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	KF027440.1	16699	Perdix hodgsoniae mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Perdix_hodgsoniae	KC778822.1	1016	Perdix hodgsoniae NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	EF529832.1	1038	Emberiza rustica NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	KX109692.1	732	Schoeniclus rusticus isolate MAR3968 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	AY329421.1	1037	Emberiza rustica NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	NC_024924.1	16798	Emberiza rustica voucher AHHF01 mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	KC831775.1	16798	Emberiza rustica voucher AHHF01 mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_rustica	FJ547328.1	1038	Emberiza rustica isolate UWBM SVD141 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

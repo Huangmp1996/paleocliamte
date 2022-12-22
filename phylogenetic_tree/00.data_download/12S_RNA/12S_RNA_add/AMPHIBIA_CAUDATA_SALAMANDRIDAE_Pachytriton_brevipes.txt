@@ -1,5 +1,0 @@
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_brevipes	NC_053711.1	16301	Pachytriton brevipes voucher LSU20200714WY01 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_brevipes	MW004669.1	16298	Pachytriton brevipes voucher LSU20200716WY01 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_brevipes	MT993830.1	16301	Pachytriton brevipes voucher LSU20200714WY01 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_brevipes	DQ283447.1	499	Pachytriton brevipes voucher AMNH A168417 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Pachytriton_brevipes	EU880324.1	16295	Pachytriton brevipes mitochondrion, partial genome

@@ -1,4 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_wardi	KY997275.1	1539	Eothenomys wardi isolate MLXS084 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_wardi	JQ818227.1	1545	Eothenomys wardi isolate mlxs405 cytochrome c oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_wardi	JQ818226.1	1545	Eothenomys wardi isolate mlxs367 cytochrome c oxidase subunit 1 (COX1) gene, complete cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Eothenomys_wardi	JQ818225.1	1545	Eothenomys wardi isolate mlxs035 cytochrome c oxidase subunit 1 (COX1) gene, complete cds; mitochondrial

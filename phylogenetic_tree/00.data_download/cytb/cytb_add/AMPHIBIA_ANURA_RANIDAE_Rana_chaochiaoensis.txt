@@ -1,7 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KU246048.1	18591	Rana chaochiaoensis voucher SM-ZJLW-01 mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	NC_035803.1	18591	Rana chaochiaoensis voucher SM-ZJLW-01 mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	JF939140.1	733	Rana chaochiaoensis voucher KIZ06425 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	JF939106.1	733	Rana chaochiaoensis voucher SCUM045096WD cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	AF274927.1	367	Rana chaochiaoensis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KX269339.1	793	Rana chaochiaoensis isolate SCUM0405170CJ cytochrome b gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_chaochiaoensis	KF771320.1	1937	Rana chaochiaoensis NADH dehydrogenase subunit 5 (nad5) gene, partial cds; NADH dehydrogenase subunit 6 (nad6) gene, complete cds; tRNA-Glu (trnE) gene, complete sequence; and cytochrome b (cytb) gene, partial cds; mitochondrial

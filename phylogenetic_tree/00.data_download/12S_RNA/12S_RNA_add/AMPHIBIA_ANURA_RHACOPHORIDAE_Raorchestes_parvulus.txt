@@ -1,6 +1,0 @@
-AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MH590205.1	768	Raorchestes parvulus voucher LSUHC:7460 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MH590204.1	772	Raorchestes parvulus voucher LSUHC:5880 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MH590203.1	772	Raorchestes parvulus voucher LSUHC:10473 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MH590202.1	777	Raorchestes parvulus voucher LSUHC:7596 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	MH590201.1	772	Raorchestes parvulus voucher LSUHC:11118 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Raorchestes_parvulus	LC012865.1	1911	Raorchestes parvulus mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: KUHE:38322

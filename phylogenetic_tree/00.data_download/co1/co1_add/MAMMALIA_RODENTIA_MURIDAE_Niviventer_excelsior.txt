@@ -1,7 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	NC_019617.1	16298	Niviventer excelsior mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	JQ927552.1	16298	Niviventer excelsior mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KF999099.1	645	Niviventer excelsior voucher m35 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KF999098.1	645	Niviventer excelsior voucher m34 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KF999097.1	645	Niviventer excelsior voucher m22 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KF999096.1	645	Niviventer excelsior voucher m21 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Niviventer_excelsior	KF999095.1	645	Niviventer excelsior voucher m9 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

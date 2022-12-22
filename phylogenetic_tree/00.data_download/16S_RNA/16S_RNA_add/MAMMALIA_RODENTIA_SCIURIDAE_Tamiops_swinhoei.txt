@@ -1,5 +1,0 @@
-MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KY410972.1	16214	Tamiops swinhoei voucher AMNH 114932 mitochondrion, partial genome
-MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KY410971.1	16126	Tamiops swinhoei voucher MSWC 218 mitochondrion, partial genome
-MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	NC_026875.1	16513	Tamiops swinhoei mitochondrion, complete genome
-MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	KP027416.1	16513	Tamiops swinhoei mitochondrion, complete genome
-MAMMALIA_RODENTIA_SCIURIDAE_Tamiops_swinhoei	AY227466.1	549	Tamiops swinhoei isolate Tsw 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

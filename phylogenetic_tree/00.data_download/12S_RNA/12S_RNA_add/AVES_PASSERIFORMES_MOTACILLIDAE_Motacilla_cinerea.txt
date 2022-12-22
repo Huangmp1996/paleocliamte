@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	MW929089.1	16836	Motacilla cinerea mitochondrion, complete genome
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	NC_027933.1	16835	Motacilla cinerea mitochondrion, complete genome
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	KR092187.1	16835	Motacilla cinerea mitochondrion, complete genome
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AY259390.1	1266	Motacilla cinerea cinerea isolate M.cin.Heil mitochondrial control region, partial sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	AF447242.1	858	Motacilla cinerea 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_cinerea	U86138.1	973	Motacilla cinerea 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene, partial sequence

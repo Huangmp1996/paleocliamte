@@ -1,5 +1,0 @@
-AVES_PICIFORMES_PICIDAE_Dryocopus_martius	LC541437.1	16801	Dryocopus martius martius 2002-0288 mitochondrial DNA, complete genome
-AVES_PICIFORMES_PICIDAE_Dryocopus_martius	EU556855.1	481	Dryocopus martius isolate M81 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Dryocopus_martius	KF765983.1	952	Dryocopus martius martius isolate Dmarmar3 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Dryocopus_martius	KF765982.1	952	Dryocopus martius martius isolate Dmarmar2 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Dryocopus_martius	KF765981.1	573	Dryocopus martius martius isolate Dmarmar1 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,4 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	GU981234.1	591	Episoriculus fumidus isolate Epifumi6 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	GU981233.1	591	Episoriculus fumidus isolate Epifumi2 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	GU981232.1	591	Episoriculus fumidus isolate Epifumi1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	NC_003040.1	17488	Episoriculus fumidus mitochondrion, complete genome

@@ -1,7 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	EU845759.1	1023	Tetraophasis szechenyii voucher SC1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	EU090725.1	1041	Tetraophasis szechenyii isolate 12 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	EU049326.1	1041	Tetraophasis szechenyii isolate 09 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	EU049325.1	1041	Tetraophasis szechenyii isolate 04 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	FJ799728.1	16706	Tetraophasis szechenyii mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	FJ752428.1	16709	Tetraophasis szechenyii mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetraophasis_szechenyii	NC_020613.1	16709	Tetraophasis szechenyii mitochondrion, complete genome

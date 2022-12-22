@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_BUFONIDAE_Bufotes_zamdaensis	MW133482.1	853	Bufotes pseudoraddei voucher KIZ048548 cytochrome b (cytb) gene, partial cds; and D-loop, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Bufotes_zamdaensis	MW133481.1	860	Bufotes pseudoraddei voucher KIZ048589 cytochrome b (cytb) gene, partial cds; and D-loop, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Bufotes_zamdaensis	MW133480.1	860	Bufotes pseudoraddei voucher KIZ048595 cytochrome b (cytb) gene, partial cds; and D-loop, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Bufotes_zamdaensis	NC_046047.1	17189	Bufotes zamdaensis mitochondrion, complete genome
-AMPHIBIA_ANURA_BUFONIDAE_Bufotes_zamdaensis	MK867845.1	17189	Bufotes zamdaensis mitochondrion, complete genome

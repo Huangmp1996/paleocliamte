@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_solaris	MG590022.1	1041	Pericrocotus solaris voucher LSUMNS B-79142 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_solaris	MG590021.1	1041	Pericrocotus solaris voucher LSUMNS B-79096 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_solaris	MG590020.1	927	Pericrocotus solaris voucher LSUMNS B-52683 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_solaris	GQ255868.1	222	Pericrocotus solaris cinereigula NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_solaris	GQ255867.1	135	Pericrocotus solaris montanus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_solaris	JQ864472.1	1041	Pericrocotus solaris voucher LSUMZ 51210 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,9 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516826.1	912	Uropsilus soricipes voucher JJSA333 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516825.1	912	Uropsilus soricipes voucher JJSA246 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516824.1	912	Uropsilus soricipes voucher JJSA595 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516823.1	912	Uropsilus soricipes voucher TX0901 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516822.1	879	Uropsilus soricipes voucher MX003 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516821.1	912	Uropsilus soricipes voucher YX09002 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	KC516820.1	912	Uropsilus soricipes voucher YX09019 cytochrome c oxidase subunit I (COI) gene, partial cds, alternatively spliced; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	NC_023244.1	16575	Uropsilus soricipes mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_soricipes	JQ658979.1	16575	Uropsilus soricipes mitochondrion, complete genome

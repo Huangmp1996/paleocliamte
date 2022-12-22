@@ -1,5 +1,0 @@
-AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	MN356316.1	17709	Upupa epops mitochondrion, complete genome
-AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	MK060147.1	15515	Upupa epops mitochondrion, partial genome
-AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	EU166944.1	2656	Upupa epops tRNA-Leu gene, partial sequence; NADH dehydrogenase subunit 1 gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 gene, partial cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial
-AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	NC_028178.1	16562	Upupa epops mitochondrion, complete genome
-AVES_BUCEROTIFORMES_UPUPIDAE_Upupa_epops	KT356220.1	16562	Upupa epops mitochondrion, complete genome

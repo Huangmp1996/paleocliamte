@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	MK064634.1	657	Elaphe bimaculata voucher CHS131 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	MH469728.1	664	Elaphe bimaculata isolate F3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	AY122753.1	513	Elaphe bimaculata SH1438 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	AY122684.1	513	Elaphe bimaculata SH1420 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	AY122683.1	513	Elaphe bimaculata SH1164 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	NC_024743.1	17183	Elaphe bimaculata mitochondrion, complete genome
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	KM065513.1	17183	Elaphe bimaculata mitochondrion, complete genome
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	JQ712876.1	513	Elaphe bimaculata isolate E13 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

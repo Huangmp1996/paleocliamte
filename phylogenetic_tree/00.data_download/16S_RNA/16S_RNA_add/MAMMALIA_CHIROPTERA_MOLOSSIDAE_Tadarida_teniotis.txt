@@ -1,4 +1,0 @@
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	NC_036330.1	16869	Tadarida teniotis mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	KY581661.1	16869	Tadarida teniotis mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	JF509373.1	662	Tadarida teniotis isolate Teniotis48458 16S ribosomal RNA gene, partial sequence; tRNA-Leu (trnL) gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_MOLOSSIDAE_Tadarida_teniotis	KJ948308.1	1142	Tadarida teniotis isolate TTE_SI1 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; and tRNA-Ile gene, partial sequence; mitochondrial

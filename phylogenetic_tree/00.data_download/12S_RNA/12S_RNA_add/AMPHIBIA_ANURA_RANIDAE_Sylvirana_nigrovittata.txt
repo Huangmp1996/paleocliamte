@@ -1,9 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	DQ283371.1	1967	Sylvirana nigrovittata voucher AMNH A161280 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KU840541.1	743	Sylvirana nigrovittata clone 12SJR4 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	KF771300.1	1604	Hylarana nigrovittata 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	AB719221.1	424	Rana nigrovittata mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUHE:23726
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	AY322324.1	746	Rana nigrovittata 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	AB200940.1	808	Rana nigrovittata mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUHE:19781
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	AJ440814.1	483	Rana nigrovittata partial mitochondrial 16S ribosomal RNA gene
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	AJ440775.1	409	Rana nigrovittata mitochondrion partial 12S rRNA gene
-AMPHIBIA_ANURA_RANIDAE_Sylvirana_nigrovittata	AF161034.1	426	Rana nigrovittata 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

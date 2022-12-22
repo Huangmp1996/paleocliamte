@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_LANIIDAE_Lanius_excubitor	MN122925.1	16932	Lanius excubitor mitochondrion, partial genome
-AVES_PASSERIFORMES_LANIIDAE_Lanius_excubitor	AY030127.1	1041	Lanius excubitor NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_LANIIDAE_Lanius_excubitor	KP069730.1	1041	Lanius excubitor voucher KUNHM 28984 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_excubitor	JN614723.1	1041	Lanius excubitor voucher NRM 996541 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

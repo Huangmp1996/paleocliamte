@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_castaniceps	MH079374.1	1051	Seicercus castaniceps voucher IOZ 18241 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_castaniceps	MH079373.1	1041	Seicercus castaniceps voucher AMNH CJV64 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_castaniceps	AY887680.1	1038	Seicercus castaniceps cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_castaniceps	AY635067.1	1038	Seicercus castaniceps castaniceps cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_castaniceps	HQ608893.1	1176	Seicercus castaniceps isolate Y36 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_castaniceps	HQ608857.1	1143	Seicercus castaniceps isolate Y37 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_castaniceps	KJ456461.1	1143	Seicercus castaniceps cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_castaniceps	AY606145.1	668	Seicercus castaniceps isolate c2636 cytochrome b (cytb) gene, partial cds; mitochondrial

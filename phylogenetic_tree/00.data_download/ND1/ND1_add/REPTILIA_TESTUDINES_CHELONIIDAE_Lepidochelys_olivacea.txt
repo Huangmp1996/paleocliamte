@@ -1,6 +1,0 @@
-REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	NC_028634.1	16718	Lepidochelys olivacea isolate CGG-01Lol mitochondrion, complete genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	DQ486893.1	16808	Lepidochelys olivacea mitochondrion sequence
-REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	JX454991.1	16718	Lepidochelys olivacea isolate CGG-01Lol mitochondrion, complete genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	JX454987.1	16387	Lepidochelys olivacea isolate 78920 mitochondrion, partial genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	JX454979.1	16379	Lepidochelys olivacea isolate 55352 mitochondrion, partial genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Lepidochelys_olivacea	AM258984.1	16808	Lepidochelys olivacea complete mitochondrial genome

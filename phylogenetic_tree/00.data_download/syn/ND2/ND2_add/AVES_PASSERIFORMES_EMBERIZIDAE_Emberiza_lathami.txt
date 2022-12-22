@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	EF529830.1	989	Melophus lathami NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	NC_031845.1	16799	Melophus lathami mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	KX702277.1	16799	Melophus lathami mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	KJ455497.1	1041	Melophus lathami voucher AMNH:5536 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_lathami	FJ547329.1	989	Melophus lathami isolate AMNH JGG1191 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

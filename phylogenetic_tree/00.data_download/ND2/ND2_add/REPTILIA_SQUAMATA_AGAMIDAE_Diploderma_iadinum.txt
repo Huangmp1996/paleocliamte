@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_iadinum	MW133366.1	1104	Diploderma iadinum voucher KIZ019327 tRNA-Xle and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_iadinum	MW111458.1	1097	Diploderma iadinum voucher KIZ019328 tRNA-Ile gene, partial sequence; tRNA-Glx and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_iadinum	MT577957.1	995	Diploderma iadinum voucher KIZ:027702 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_iadinum	MT577956.1	1004	Diploderma iadinum voucher KIZ:027697 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_iadinum	MT577955.1	1010	Diploderma iadinum voucher KIZ:027706 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

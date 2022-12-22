@@ -1,5 +1,0 @@
-MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	NC_053969.1	16506	Arctictis binturong mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	MW257218.1	16506	Arctictis binturong mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	KX449332.1	16642	Arctictis binturong albifrons mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	NC_043895.1	16642	Arctictis binturong albifrons mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Arctictis_binturong	DQ286781.1	372	Arctictis binturong voucher AHNU0311 12S ribosomal RNA gene, partial sequence; mitochondrial

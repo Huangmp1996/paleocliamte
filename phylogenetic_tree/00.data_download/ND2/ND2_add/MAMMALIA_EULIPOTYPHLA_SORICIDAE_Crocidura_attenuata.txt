@@ -1,5 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_attenuata	FJ814603.1	1089	Crocidura attenuata voucher ROM116033 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_attenuata	FJ814599.1	1127	Crocidura attenuata voucher ROM114916 tRNA-Met (trnM) gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp (trnW) gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_attenuata	NC_026204.2	17534	Crocidura attenuata mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_attenuata	KP120863.2	17534	Crocidura attenuata mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Crocidura_attenuata	GU358542.1	972	Crocidura attenuata voucher AMCC101492 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,6 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	DQ333818.1	16394	Batrachuperus yenyuanensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY915962.1	1456	Batrachuperus yenyuanensis voucher RM9965 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY915961.1	1455	Batrachuperus yenyuanensis voucher RM10305 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY915960.1	1453	Batrachuperus yenyuanensis voucher RM10102 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY593173.1	1042	Batrachuperus yenyuanensis NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	NC_012430.1	16394	Batrachuperus yenyuanensis mitochondrion, complete genome

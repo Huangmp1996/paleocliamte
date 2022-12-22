@@ -1,9 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	MN857545.1	16678	Chrysolophus pictus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	MG735217.1	16678	Chrysolophus pictus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	EU845768.1	1023	Chrysolophus pictus voucher 18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	EU845767.1	1023	Chrysolophus pictus voucher 17 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	DQ307004.1	1041	Chrysolophus pictus NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	HQ221859.1	16678	Chrysolophus pictus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	FJ752433.1	16678	Chrysolophus pictus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	DQ768255.1	1041	Chrysolophus pictus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Chrysolophus_pictus	NC_014576.1	16678	Chrysolophus pictus mitochondrion, complete genome

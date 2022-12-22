@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_maculipennis	Y10731.1	1041	P.maculipennis mitochondrial cytb gene, partial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_maculipennis	MH079305.1	1076	Abrornis maculipennis maculipennis voucher DZUG U4653 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_maculipennis	AY635055.1	1038	Phylloscopus maculipennis maculipennis cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_maculipennis	AY583271.1	442	Phylloscopus maculipennis isolate 03215MAC cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_maculipennis	HQ608866.1	1176	Phylloscopus maculipennis isolate Y9 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_maculipennis	HQ608828.1	1143	Phylloscopus maculipennis isolate Y8 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_maculipennis	KJ456395.1	1054	Abrornis maculipennis cytochrome b (cytb) gene, partial cds; mitochondrial

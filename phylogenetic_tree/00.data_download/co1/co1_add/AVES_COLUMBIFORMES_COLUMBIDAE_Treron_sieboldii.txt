@@ -1,9 +1,0 @@
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	LC619127.1	657	Treron sieboldii FA_48 mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	AY274071.1	2853	Treron sieboldii 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	KT023357.1	378	Treron sieboldii voucher LSU B16978 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	AB843813.1	701	Treron sieboldii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO498-10
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	AB843812.1	683	Treron sieboldii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO099-10
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	AB843811.1	662	Treron sieboldii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO098-10
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	AB843239.1	659	Treron sieboldii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM161-10
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	AB843238.1	668	Treron sieboldii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM496-10
-AVES_COLUMBIFORMES_COLUMBIDAE_Treron_sieboldii	AB843237.1	662	Treron sieboldii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM162-10

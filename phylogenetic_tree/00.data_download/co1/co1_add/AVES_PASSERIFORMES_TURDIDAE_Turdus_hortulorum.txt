@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_TURDIDAE_Turdus_hortulorum	GQ482823.1	694	Turdus hortulorum voucher UWBM 75036 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_hortulorum	GQ482822.1	694	Turdus hortulorum voucher UWBM 75228 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_hortulorum	NC_024552.1	16759	Turdus hortulorum mitochondrion, complete genome
-AVES_PASSERIFORMES_TURDIDAE_Turdus_hortulorum	KF926987.1	16759	Turdus hortulorum mitochondrion, complete genome

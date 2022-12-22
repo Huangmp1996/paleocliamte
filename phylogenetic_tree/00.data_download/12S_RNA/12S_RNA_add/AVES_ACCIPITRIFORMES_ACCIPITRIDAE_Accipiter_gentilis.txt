@@ -1,7 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	MN122867.1	16197	Accipiter gentilis mitochondrion, partial genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	LC104773.1	180	Accipiter gentilis fujiyamae mitochondrial gene for 12S rRNA, partial sequence, bio_material: NSMT(National Science Museum, Tokyo)-DNA-9330
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	FJ627047.1	3945	Accipiter gentilis isolate HAB-1A tRNA-Thr gene, partial sequence; control region and tRNA-Pro gene, complete sequence; NADH dehydrogenase subunit 6 (nd6) gene, complete cds; tRNA-Glu and tRNA-Phe genes, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	KF781309.1	439	Accipiter gentilis strain OS112 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	NC_011818.1	18266	Accipiter gentilis mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	AP010797.1	18266	Accipiter gentilis mitochondrial DNA, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_gentilis	AB219551.1	940	Accipiter gentilis fujiyamae mitochondrial gene for 12S ribosomal RNA, partial sequence

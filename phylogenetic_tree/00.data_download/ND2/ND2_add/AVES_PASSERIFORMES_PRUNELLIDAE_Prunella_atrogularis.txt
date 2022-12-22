@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KX109707.1	691	Prunella atrogularis voucher MTD-C63037 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	AY329434.1	1041	Prunella atrogularis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KC759310.1	1041	Prunella atrogularis huttoni voucher SGA1419 (MSUZM) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KC759309.1	1041	Prunella atrogularis huttoni voucher SGA1414 (MSUZM) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KC759304.1	1041	Prunella atrogularis atrogularis voucher MSUZM R11889 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KC759303.1	1041	Prunella atrogularis atrogularis voucher MSUZM R11888 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_atrogularis	KC759285.1	1041	Prunella atrogularis huttoni voucher GAV210 (UWBM 46587) NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

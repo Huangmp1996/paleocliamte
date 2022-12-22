@@ -1,8 +1,0 @@
-AVES_PICIFORMES_PICIDAE_Dendrocopos_major	MN122831.1	16795	Dendrocopos major mitochondrion, partial genome
-AVES_PICIFORMES_PICIDAE_Dendrocopos_major	NC_028174.1	16845	Dendrocopos major mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Dendrocopos_major	KT350609.1	16845	Dendrocopos major mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Dendrocopos_major	KF766048.1	962	Dendrocopos major pinetorum isolate Dmajpin1 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PICIFORMES_PICIDAE_Dendrocopos_major	KF766047.1	963	Dendrocopos major brevirostris isolate Dmajbre1 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PICIFORMES_PICIDAE_Dendrocopos_major	AB080369.1	342	Dendrocopos major mitochondrial gene for 12S rRNA, partial sequence
-AVES_PICIFORMES_PICIDAE_Dendrocopos_major	AB080368.1	342	Dendrocopos major mitochondrial gene for 12S rRNA, partial sequence
-AVES_PICIFORMES_PICIDAE_Dendrocopos_major	AB080367.1	342	Dendrocopos major mitochondrial gene for 12S rRNA, partial sequence

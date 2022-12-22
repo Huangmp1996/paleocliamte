@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	AY128555.1	660	Alcippe dubia genestieri cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	HM140309.1	621	Alcippe dubia isolate 3642 cytochrome b (Cyt b) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	FJ754289.1	642	Alcippe dubia cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	DQ861989.1	478	Alcippe dubia genestieri cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	KJ456459.1	1143	Alcippe dubia voucher CAS:95880 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	JN827174.1	1143	Alcippe dubia voucher KUNHM 15160 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	JN827173.1	1143	Alcippe dubia voucher KUNHM 11340 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	JN827169.1	967	Alcippe dubia voucher USNM 5623 cytochrome b (CYTB) gene, partial cds; mitochondrial

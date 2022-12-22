@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	MK408450.1	17191	Elaphe moellendorffi mitochondrion, complete genome
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	JF700191.1	658	Orthriophis moellendorffi voucher AS60MT01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	JN833618.1	658	Orthriophis moellendorffi isolate EM2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	JN833617.1	658	Orthriophis moellendorffi isolate EM1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	AY122703.1	513	Orthriophis moellendorffi SH532 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	AY122702.1	513	Orthriophis moellendorffi SH1096 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	KF698944.1	658	Orthriophis moellendorffi voucher S-113 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_moellendorffi	KF698943.1	658	Orthriophis moellendorffi voucher S-112 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

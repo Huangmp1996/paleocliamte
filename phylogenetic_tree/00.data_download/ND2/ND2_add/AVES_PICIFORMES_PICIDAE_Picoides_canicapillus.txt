@@ -1,4 +1,0 @@
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	MK335534.1	16847	Dendrocopos canicapillus voucher AHNU:A0340 mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	NC_041121.1	16843	Dendrocopos canicapillus mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	MK015644.1	16843	Dendrocopos canicapillus mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	DQ361303.1	1036	Dendrocopos canicapillus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

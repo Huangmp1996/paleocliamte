@@ -1,7 +1,0 @@
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	AY458591.1	17575	Bombina fortinuptialis mitochondrion, complete genome
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	HQ677510.1	691	Bombina fortinuptialis voucher IZCAS:H30051 12S ribosomal RNA gene, partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	EU531333.1	1951	Bombina fortinuptialis voucher IZCAS:H30050 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	DQ925757.1	446	Bombina fortinuptialis isolate JX5-26 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	DQ925741.1	446	Bombina fortinuptialis isolate JX4-6 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	DQ925740.1	392	Bombina fortinuptialis isolate JX3-5 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_fortinuptialis	DQ925737.1	448	Bombina fortinuptialis isolate JX2-2 12S ribosomal RNA gene, partial sequence; mitochondrial

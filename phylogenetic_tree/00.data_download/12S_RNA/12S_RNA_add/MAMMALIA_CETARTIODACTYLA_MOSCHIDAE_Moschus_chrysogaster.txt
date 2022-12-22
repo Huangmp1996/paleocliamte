@@ -1,8 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	MK697349.1	16352	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	MW284875.1	16354	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	KP684123.1	16354	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	NC_020093.1	16353	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	KC425457.1	16354	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	JQ608470.1	16353	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	AY184426.1	956	Moschus chrysogaster 12S ribosomal RNA gene, complete sequence
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	AY847268.1	435	Moschus chrysogaster 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,7 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_puxiongensis	MF805619.1	394	Pseudohynobius puxiongensis voucher YXS12-1 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_puxiongensis	NC_020634.1	16398	Pseudohynobius puxiongensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_puxiongensis	FJ532058.1	16398	Protohynobius puxiongensis voucher CIB-XM3126 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_puxiongensis	JN165950.1	466	Pseudohynobius puxiongensis voucher XM3365 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_puxiongensis	JN165949.1	466	Pseudohynobius puxiongensis voucher XM3323 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_puxiongensis	JN165834.1	582	Pseudohynobius puxiongensis voucher XM3365 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Pseudohynobius_puxiongensis	JN165833.1	582	Pseudohynobius puxiongensis voucher XM3323 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

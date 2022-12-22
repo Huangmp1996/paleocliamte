@@ -1,9 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	JF499138.1	668	Ixobrychus sinensis voucher USNM:641867 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	AB843554.1	683	Ixobrychus sinensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO093-10
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	AB843553.1	682	Ixobrychus sinensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO079-10
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	AB843552.1	671	Ixobrychus sinensis mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO002-08
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	NC_025925.1	19493	Ixobrychus sinensis mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	KJ941173.1	611	Ixobrychus sinensis voucher MAR8601 cytochrome oxidase (COI) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	KJ941172.1	611	Ixobrychus sinensis voucher MAR8394 cytochrome oxidase (COI) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	KJ941171.1	611	Ixobrychus sinensis voucher MAR8648 cytochrome oxidase (COI) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_sinensis	KJ190958.1	19493	Ixobrychus sinensis mitochondrion, complete genome

@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	NC_031809.1	16273	Phodopus roborovskii mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	KU885975.1	16273	Phodopus roborovskii mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	EF025539.3	3137	Phodopus roborovskii haplotype 01 cytochrome b gene, complete cds; tRNA-Thr and tRNA-Pro genes, control region, and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	AY997825.1	909	Phodopus roborovskii 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	AM000050.1	789	Phodopus roborovskii partial vwf gene for von Willebrand factor
-MAMMALIA_RODENTIA_CRICETIDAE_Phodopus_roborovskii	AJ973391.1	925	Phodopus roborovskii mitochondrial partial cytb gene for cytochrome b

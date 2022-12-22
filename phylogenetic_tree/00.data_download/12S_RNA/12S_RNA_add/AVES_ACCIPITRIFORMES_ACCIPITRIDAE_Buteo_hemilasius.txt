@@ -1,6 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	NC_029377.1	18079	Buteo hemilasius mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	KT935541.1	18079	Buteo hemilasius mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	GU390888.1	418	Buteo hemilasius 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	GQ264617.1	972	Buteo hemilasius voucher NMW-ML Bhem5 12S ribosomal RNA gene, complete sequence; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	GQ264616.1	972	Buteo hemilasius voucher NMW-ML Bhem16 12S ribosomal RNA gene, complete sequence; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_hemilasius	GQ264615.1	972	Buteo hemilasius voucher NMW-ML Bhem12 12S ribosomal RNA gene, complete sequence; mitochondrial

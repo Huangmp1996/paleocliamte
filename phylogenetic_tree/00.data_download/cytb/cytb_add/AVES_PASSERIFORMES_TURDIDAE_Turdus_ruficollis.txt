@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	NC_057250.1	16737	Turdus ruficollis mitochondrion, complete genome
-AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	MT712159.1	16737	Turdus ruficollis mitochondrion, complete genome
-AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	DQ910990.1	1000	Turdus ruficollis cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_ruficollis	EU154669.1	1038	Turdus ruficollis ruficollis voucher NRM-2005-06-09 cytochrome b (cytb) gene, partial cds; mitochondrial

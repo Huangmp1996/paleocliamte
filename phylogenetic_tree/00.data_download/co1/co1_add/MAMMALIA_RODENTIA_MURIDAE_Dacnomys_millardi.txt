@@ -1,9 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	KX977414.1	694	Dacnomys millardi voucher ZIN 91168 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	KX977413.1	662	Dacnomys millardi voucher ZIN 103214 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	KX977412.1	662	Dacnomys millardi voucher ZIN 103213 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	KX977411.1	662	Dacnomys millardi voucher ZIN 102984 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	KX977410.1	662	Dacnomys millardi voucher ZIN 102983 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	KX977409.1	662	Dacnomys millardi voucher ZIN s.n. cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	KU958013.1	662	Dacnomys millardi isolate 14-094 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	JQ755851.1	724	Dacnomys millardi isolate MB12 cytochrome oxidase subunit I gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Dacnomys_millardi	JQ755850.1	724	Dacnomys millardi isolate MB7 cytochrome oxidase subunit I gene, partial cds; mitochondrial

@@ -1,6 +1,0 @@
-AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	KP252237.1	652	Porphyrio porphyrio voucher USNM 645906 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	NC_025508.1	17020	Porphyrio porphyrio mitochondrion, complete genome
-AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	KF701062.1	17020	Porphyrio porphyrio mitochondrion, complete genome
-AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	KC439332.1	672	Porphyrio porphyrio cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	JQ175971.1	652	Porphyrio porphyrio voucher USNM:Birds:542611 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Porphyrio_porphyrio	JQ175970.1	615	Porphyrio porphyrio voucher USNM:Birds:627740 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

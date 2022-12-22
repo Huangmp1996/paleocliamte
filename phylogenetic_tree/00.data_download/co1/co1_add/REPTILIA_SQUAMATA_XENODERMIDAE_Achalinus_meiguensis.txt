@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_meiguensis	MZ442641.1	519	Achalinus meiguensis voucher GP835 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_meiguensis	MT365518.1	615	Achalinus meiguensis voucher GP836 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_meiguensis	MT365517.1	615	Achalinus meiguensis voucher GP837 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_meiguensis	MK064943.1	657	Achalinus meiguensis voucher CHS898 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_meiguensis	FJ424614.1	17239	Achalinus meiguensis mitochondrion, complete genome
-REPTILIA_SQUAMATA_XENODERMIDAE_Achalinus_meiguensis	NC_011576.1	17239	Achalinus meiguensis mitochondrion, complete genome

@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	NC_030771.1	16885	Stachyris ruficeps mitochondrion, complete genome
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	KU362930.1	16885	Stachyris ruficeps mitochondrion, complete genome
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	HQ529131.1	519	Stachyris ruficeps voucher AMNH:DOT 5146 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	KJ455656.1	1041	Stachyris ruficeps voucher CAS:95878 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	GU724478.1	1041	Stachyris ruficeps voucher KIZ:GLGS1396 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	JN826683.1	1041	Stachyris ruficeps voucher KUNHM 6645 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_ruficeps	JN826682.1	1041	Stachyris ruficeps voucher KUNHM 11083 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	EF490071.1	19542	Eremias brenchleyi mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	NC_011764.1	19542	Eremias brenchleyi mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	DQ658833.1	516	Eremias brenchleyi isolate O 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	DQ658832.1	516	Eremias brenchleyi isolate N 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	DQ494828.1	554	Eremias brenchleyi isolate S126 16S ribosomal RNA gene, complete sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	DQ494827.1	552	Eremias brenchleyi isolate S123 16S ribosomal RNA gene, complete sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	DQ494826.1	551	Eremias brenchleyi isolate S122 16S ribosomal RNA gene, complete sequence; mitochondrial

@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	NC_053917.1	16776	Phoenicurus frontalis mitochondrion, complete genome
-AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	MT360379.1	16776	Phoenicurus frontalis mitochondrion, complete genome
-AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	GU930801.1	998	Phoenicurus frontalis voucher AMNH DOT5565 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	KJ456387.1	1026	Phoenicurus frontalis cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	HM633363.1	1076	Phoenicurus frontalis voucher AMNH-JGG1022 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	DQ285428.1	983	Phoenicurus frontalis cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Phoenicurus_frontalis	AY206917.1	1143	Phoenicurus frontalis cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product

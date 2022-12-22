@@ -1,9 +1,0 @@
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249887.1	471	Felis chaus voucher Felis_chaus_5 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249886.1	471	Felis chaus voucher Felis_chaus_4 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249885.1	471	Felis chaus voucher Felis_chaus_3 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249884.1	471	Felis chaus voucher Felis_chaus_2 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	MN249883.1	471	Felis chaus voucher Felis_chaus_1 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	AF006394.1	318	Felis chaus NADH dehydrogenase subunit 5 gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	NC_028307.1	16653	Felis chaus isolate FCH mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	KP202274.1	16653	Felis chaus isolate FCH mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Felis_chaus	AF006393.1	375	Felis chaus 16S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

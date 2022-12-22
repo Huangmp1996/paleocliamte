@@ -1,7 +1,0 @@
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	MT410896.1	16512	Martes foina mitochondrion, partial genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	KX859290.1	687	Martes foina voucher MGL-159 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	KY754515.1	708	Martes foina voucher NMW 69090 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	KY754514.1	697	Martes foina voucher NMW 68228 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	KY754513.1	697	Martes foina voucher NMW 68272 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	HM106325.1	16530	Martes foina voucher YP6135 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	NC_020643.1	16530	Martes foina voucher YP6135 mitochondrion, complete genome

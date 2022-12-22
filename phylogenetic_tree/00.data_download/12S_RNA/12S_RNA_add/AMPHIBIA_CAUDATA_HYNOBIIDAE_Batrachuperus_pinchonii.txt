@@ -1,7 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	DQ283339.1	471	Batrachuperus pinchonii voucher FMNH 232841 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	DQ333815.1	16390	Batrachuperus pinchonii mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	KP122337.1	16375	Batrachuperus pinchonii voucher BTIBET201411 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	NC_008083.1	16390	Batrachuperus pinchonii mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	AY916007.1	1065	Batrachuperus pinchonii voucher RM9930 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	AY916006.1	1065	Batrachuperus pinchonii voucher RM10418 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_pinchonii	AY593114.1	932	Batrachuperus pinchonii 12S ribosomal RNA gene, partial sequence; mitochondrial

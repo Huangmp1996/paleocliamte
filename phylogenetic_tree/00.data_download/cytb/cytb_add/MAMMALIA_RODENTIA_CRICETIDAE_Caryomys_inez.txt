@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	KY997389.1	1140	Eothenomys inez isolate LPS039 cytochrome b (Cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	KY997388.1	1140	Eothenomys inez isolate LPS031 cytochrome b (Cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	KU200225.1	16354	Eothenomys inez mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	HM165387.1	1140	Eothenomys inez isolate SAF04036 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	HM165386.1	1140	Eothenomys inez isolate SAF04030 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	HM165385.1	1140	Eothenomys inez isolate SAF04040 cytochrome b (cytb) gene, partial cds; mitochondrial

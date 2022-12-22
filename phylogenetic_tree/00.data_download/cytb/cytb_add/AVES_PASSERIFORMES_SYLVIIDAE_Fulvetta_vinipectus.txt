@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	NC_050289.1	16961	Alcippe vinipectus mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	MT263986.1	16961	Alcippe vinipectus mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	JF756766.1	1143	Alcippe vinipectus voucher NTNU T1526 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	AY128567.1	863	Alcippe vinipectus bieti cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	KJ456283.1	1026	Alcippe vinipectus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	JN827019.1	967	Alcippe vinipectus voucher CAS 95904 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_vinipectus	JN827018.1	967	Alcippe vinipectus voucher AMNH DOT5655 cytochrome b (CYTB) gene, partial cds; mitochondrial

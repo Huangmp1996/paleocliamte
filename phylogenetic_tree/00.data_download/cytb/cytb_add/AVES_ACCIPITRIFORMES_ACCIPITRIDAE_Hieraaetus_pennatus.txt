@@ -1,8 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	EU345502.1	965	Hieraaetus pennatus voucher IPMB 28266 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	MK294165.1	17666	Hieraaetus pennatus mitochondrion, partial genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	AY987289.1	1039	Hieraaetus pennatus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	AY987288.1	1026	Hieraaetus pennatus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	EF459636.1	264	Hieraaetus pennatus isolate Hpen2 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	Y15761.1	1041	Hieraaetus pennatus minisculus mitochondrial cytb gene, partial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	Y15760.1	1041	Hieraaetus pennatus pennatus mitochondrial cytb gene, partial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Hieraaetus_pennatus	AJ604500.1	1143	Hieraaetus pennatus partial mitochondrial cytb gene for cytochrome b

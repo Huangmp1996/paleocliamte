@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	KX778363.1	1439	Typhlomys cinereus isolate Tcin_7-1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	KX778362.1	1449	Typhlomys cinereus isolate Tsp2_5-1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	KX778361.1	1448	Typhlomys cinereus isolate Tsp2_4-1 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	KX397283.1	15011	Typhlomys cinereus mitochondrion, partial genome
-MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	NC_033382.1	15011	Typhlomys cinereus mitochondrion, complete genome
-MAMMALIA_RODENTIA_PLATACANTHOMYIDAE_Typhlomys_cinereus	JF444274.1	657	Typhlomys cinereus voucher ROM 118593 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

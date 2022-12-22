@@ -1,7 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Rana_sauteri	DQ283124.1	2405	Rana sauteri voucher UMMZ 189938 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_sauteri	KX269204.1	1956	Rana sauteri isolate SCUM0405175CJ 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_sauteri	AB685767.1	2407	Rana sauteri mitochondrial genes for 12S rRNA, tRNA-Val, 16S rRNA, complete and partial sequence, specimen_voucher: KUHE:6894
-AMPHIBIA_ANURA_RANIDAE_Rana_sauteri	DQ289109.1	526	Pseudoamolops sauteri voucher KizYP06052 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_sauteri	DQ289084.1	408	Pseudoamolops sauteri voucher KizYP06052 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_sauteri	JN098483.1	221	Rana sauteri 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_sauteri	AB211495.1	857	Rana sauteri mitochondrial gene for 16S rRNA, partial sequence

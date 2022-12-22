@@ -1,9 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	KY766921.1	16692	Tetraogallus tibetanus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	EU845747.1	1023	Tetraogallus tibetanus voucher 103 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	EU845746.1	1023	Tetraogallus tibetanus voucher 102 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	GU214303.1	1023	Tetraogallus tibetanus tibetanus isolate T108 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	GU214302.1	1023	Tetraogallus tibetanus tibetanus isolate T95 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	GU214301.1	1023	Tetraogallus tibetanus przewalskii isolate 111 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	NC_023939.1	16692	Tetraogallus tibetanus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	KF027439.1	16692	Tetraogallus tibetanus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_tibetanus	KC778829.1	1022	Tetraogallus tibetanus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

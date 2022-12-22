@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	GU816851.1	1041	Fringilla montifringilla NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	FJ547499.1	1041	Fringilla montifringilla voucher UWBM 66395 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	NC_024048.1	16807	Fringilla montifringilla voucher AHNU:A0112 mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_montifringilla	JQ922259.1	16807	Fringilla montifringilla mitochondrion, complete genome

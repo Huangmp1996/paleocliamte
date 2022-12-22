@@ -1,8 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	KX355640.1	17236	Pipistrellus abramus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	AB061528.1	16976	Pipistrellus abramus mitochondrial DNA, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	KF059978.1	490	Pipistrellus abramus voucher NHM.OU.CHI.1.2009 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	NC_005436.1	16976	Pipistrellus abramus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	GU461878.1	522	Pipistrellus abramus isolate B 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	GU461877.1	532	Pipistrellus abramus isolate A 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	DQ989620.1	1506	Pipistrellus abramus voucher GZNU200333 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Pipistrellus_abramus	AB032844.1	1563	Pipistrellus abramus mitochondrial gene for 16S ribosomal RNA, complete sequence

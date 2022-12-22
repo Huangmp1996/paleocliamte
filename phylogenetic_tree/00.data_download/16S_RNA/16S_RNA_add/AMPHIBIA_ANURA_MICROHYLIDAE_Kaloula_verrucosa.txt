@@ -1,7 +1,0 @@
-AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_verrucosa	NC_039411.1	17061	Kaloula verrucosa mitochondrion, complete genome
-AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_verrucosa	MG962359.1	17061	Kaloula verrucosa mitochondrion, complete genome
-AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_verrucosa	KC567239.1	537	Kaloula verrucosa voucher CIB20090351 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_verrucosa	KC567238.1	537	Kaloula verrucosa voucher CIB20090349 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_verrucosa	KC822507.1	2236	Kaloula verrucosa voucher NMNS3246 12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_verrucosa	JX678901.1	1153	Kaloula verrucosa voucher KIZHERP2020 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Kaloula_verrucosa	JX678900.1	1183	Kaloula verrucosa voucher KIZHERP2015 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,9 +1,0 @@
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	MK388868.1	15977	Hyla sanchiangensis mitochondrion, complete genome
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	MK388867.1	15675	Hyla sanchiangensis mitochondrion, complete genome
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	MT561180.1	15664	Hyla sanchiangensis voucher LSU20200425002JL mitochondrion, partial genome
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	KP742641.1	857	Hyla sanchiangensis isolate Chongzuo_Guangxi 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	KP742640.1	904	Hyla sanchiangensis isolate Xiuning_Anhui5 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	KP742639.1	898	Hyla sanchiangensis isolate Xiuning_Anhui4 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	KP742638.1	898	Hyla sanchiangensis isolate Xiuning_Anhui3 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	KP742637.1	898	Hyla sanchiangensis isolate Xiuning_Anhui2 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_HYLIDAE_Hyla_sanchiangensis	KP742636.1	904	Hyla sanchiangensis isolate Xiuning_Anhui1 12S ribosomal RNA gene, partial sequence; mitochondrial

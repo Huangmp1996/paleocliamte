@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilla	MT210133.1	981	Carpodacus rubicilla voucher UWBM76129 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilla	FJ547505.1	1041	Carpodacus rubicilla voucher UWBM 66530 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilla	JN715440.1	1041	Carpodacus rubicilla NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_rubicilla	KF194148.1	677	Carpodacus rubicilla voucher ZFMK J.II.22.f.lambda NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial

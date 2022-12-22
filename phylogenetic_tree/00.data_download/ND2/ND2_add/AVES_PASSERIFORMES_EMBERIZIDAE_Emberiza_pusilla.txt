@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	MT210126.1	908	Emberiza pusilla voucher MAR4898 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	EF529835.1	1038	Emberiza pusilla NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	NC_021408.1	16790	Emberiza pusilla mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	KC407232.1	16790	Emberiza pusilla mitochondrion, complete genome

@@ -1,5 +1,0 @@
-AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	LC114480.1	5240	Grus nigricollis mitochondrial cytb, ND6 genes for cytochrome b, NADH dehydrogenase subunit 6, tRNA-Thr, tRNA-Pro and control region
-AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	AF123909.1	522	Grus nigricollis NADH dehydrogenase subunit 6 (ND6) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	U27547.1	1143	Grus nigricollis cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	NC_020579.1	16646	Grus nigricollis mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Grus_nigricollis	FJ769851.1	16646	Grus nigricollis mitochondrion, complete genome

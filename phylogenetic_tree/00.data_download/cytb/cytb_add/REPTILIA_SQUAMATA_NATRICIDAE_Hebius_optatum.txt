@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_optatum	MN427890.1	17259	Hebius optatum mitochondrion, complete genome
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_optatum	MK201537.1	585	Hebius optatum voucher CHS802 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_optatum	MK201298.1	585	Hebius optatum voucher CHS152 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_optatum	KJ685687.1	1074	Hebius optatum voucher GP1885 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_optatum	KJ685662.1	1074	Hebius optatum voucher AMNH:147155 cytochrome b (cytb) gene, partial cds; mitochondrial

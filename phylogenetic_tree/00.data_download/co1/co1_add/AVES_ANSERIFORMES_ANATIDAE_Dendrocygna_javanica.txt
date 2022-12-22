@@ -1,5 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	FJ379296.1	16753	Dendrocygna javanica mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	JN788899.1	503	Dendrocygna javanica isolate KH08-0852 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	U97737.1	416	Dendrocygna javanica tRNA-Tyr gene, partial sequence, and cytochrome oxidase subunit I (COI) gene, partial cds, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	KC439310.1	679	Dendrocygna javanica cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Dendrocygna_javanica	NC_012844.1	16753	Dendrocygna javanica mitochondrion, complete genome

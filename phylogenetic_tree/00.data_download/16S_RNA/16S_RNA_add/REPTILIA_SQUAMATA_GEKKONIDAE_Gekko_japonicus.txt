@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	MW451656.1	543	Gekko japonicus voucher SYSr001540 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	MW451651.1	542	Gekko japonicus voucher SYSr001325 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	MW451649.1	543	Gekko japonicus voucher SYSr001317 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	MW451628.1	543	Gekko japonicus voucher SYSr000672 large subunit ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	KT005800.1	17956	Gekko japonicus mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	NC_028035.1	16544	Gekko japonicus mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	KR996131.1	16544	Gekko japonicus mitochondrion, complete genome

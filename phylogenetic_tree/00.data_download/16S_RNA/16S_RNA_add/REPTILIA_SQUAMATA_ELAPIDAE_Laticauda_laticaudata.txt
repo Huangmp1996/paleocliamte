@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	NC_036053.1	17209	Laticauda laticaudata mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	KY496323.1	17209	Laticauda laticaudata mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	KX239663.1	1313	Laticauda laticaudata 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	FJ587204.1	499	Laticauda laticaudata voucher AM-EBU13951 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Laticauda_laticaudata	FJ587203.1	513	Laticauda laticaudata voucher AM-EBU13932 16S ribosomal RNA gene, partial sequence; mitochondrial

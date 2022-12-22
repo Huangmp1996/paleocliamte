@@ -1,5 +1,0 @@
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_yangi	LC017830.1	988	Tylototriton yangi mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: KIZ:RDQ 201203002
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_yangi	LC017829.1	988	Tylototriton yangi mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: KIZ:RDQ 201203001
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_yangi	KY800887.1	1035	Tylototriton yangi voucher KUHE:42282 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_yangi	LC017831.1	988	Tylototriton yangi mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: NMNS:3114
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Tylototriton_yangi	AB830739.1	1035	Tylototriton yangi mitochondrial ND2 gene for NADH dehydrogenase subunit 2, partial cds, specimen_voucher: NMNS:3114

@@ -1,5 +1,0 @@
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Sphaerias_blanfordi	NC_046933.1	16776	Sphaerias blanfordi isolate LNK94 mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Sphaerias_blanfordi	MN816364.1	16776	Sphaerias blanfordi isolate LNK94 mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Sphaerias_blanfordi	KX823317.1	1140	Sphaerias blanfordi isolate LNK94 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Sphaerias_blanfordi	GQ410229.1	1140	Sphaerias blanfordi voucher AMNH 274187 cytochrome b (Cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Sphaerias_blanfordi	GQ410228.1	1140	Sphaerias blanfordi voucher AMNH 274189 cytochrome b (Cytb) gene, complete cds; mitochondrial

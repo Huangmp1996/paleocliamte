@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Myophonus_caeruleus	MN564936.1	16815	Myophonus caeruleus mitochondrion, complete genome
-AVES_PASSERIFORMES_MUSCICAPIDAE_Myophonus_caeruleus	KJ456359.1	1026	Myophonus caeruleus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Myophonus_caeruleus	HM633345.1	1074	Myophonus caeruleus voucher DZUG-U1138 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Myophonus_caeruleus	DQ263760.1	991	Myiophonus caeruleus cytochrome b gene, partial cds; mitochondrial

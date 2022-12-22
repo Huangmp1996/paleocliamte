@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_cantator	MH079252.1	1022	Phylloscopus cantator voucher IOZ 19241 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_cantator	MH079251.1	1033	Phylloscopus cantator voucher IOZ 19256 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_cantator	AY656208.1	1038	Phylloscopus cantator cantator cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_cantator	KJ456390.1	1024	Phylloscopus cantator cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_cantator	AY606157.1	668	Phylloscopus cantator isolate ca2781 cytochrome b (cytb) gene, partial cds; mitochondrial

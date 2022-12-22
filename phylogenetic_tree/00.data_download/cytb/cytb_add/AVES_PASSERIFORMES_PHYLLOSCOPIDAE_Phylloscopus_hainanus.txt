@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_hainanus	MH079286.1	1077	Phylloscopus hainanus voucher DZUG U4418 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_hainanus	MH079285.1	1032	Phylloscopus hainanus voucher IOZ 6237 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_hainanus	AY656229.1	1038	Phylloscopus hainanus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_hainanus	EU851082.1	851	Phylloscopus hainanus isolate MAR5702 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_hainanus	EU771071.1	655	Phylloscopus hainanus isolate MAR5701 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_hainanus	EU771070.1	655	Phylloscopus hainanus isolate MAR5706 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_hainanus	EU771069.1	655	Phylloscopus hainanus isolate MAR5705 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_hainanus	EU771068.1	655	Phylloscopus hainanus isolate MAR5702 cytochrome b (cytb) gene, partial cds; mitochondrial

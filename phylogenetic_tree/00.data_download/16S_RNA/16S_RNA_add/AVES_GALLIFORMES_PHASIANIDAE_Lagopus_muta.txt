@@ -1,6 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	LC541459.1	16687	Lagopus muta japonica HN0868 mitochondrial DNA, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	LC528834.1	16687	Lagopus muta japonica mitochondrial DNA, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	KX609785.1	16687	Lagopus muta mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	NC_034002.1	16683	Lagopus muta voucher UWBM 51660 mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	KY411593.1	16683	Lagopus muta voucher UWBM 51660 mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Lagopus_muta	AF230136.1	546	Lagopus mutus 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

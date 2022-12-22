@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ijimae	LC541468.1	16917	Seicercus ijimae 2007-1397 mitochondrial DNA, complete genome
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ijimae	LC541446.1	16925	Seicercus ijimae 1996-0249 mitochondrial DNA, complete genome
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ijimae	L77142.1	869	Phylloscopus ijimaei cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ijimae	L77141.1	910	Phylloscopus ijimaei cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ijimae	Y10741.1	1041	P.ijimaei mitochondrial cytb gene, partial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ijimae	MH079296.1	1076	Seicercus ijimae voucher DZUG U1368 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ijimae	MH079295.1	1076	Seicercus ijimae voucher DZUG U1361 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_ijimae	MH079294.1	1076	Seicercus ijimae voucher DZUG U3208 cytochrome b (cytb) gene, partial cds; mitochondrial

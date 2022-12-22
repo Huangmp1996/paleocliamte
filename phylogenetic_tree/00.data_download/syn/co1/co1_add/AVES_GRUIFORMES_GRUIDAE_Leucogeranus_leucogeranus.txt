@@ -1,9 +1,0 @@
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	MH041490.1	16747	Grus leucogeranus mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	KJ862169.1	648	Grus leucogeranus voucher N30 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	KJ862168.1	648	Grus leucogeranus voucher N29 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	KJ862159.1	648	Grus leucogeranus voucher N19 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	KJ862158.1	648	Grus leucogeranus voucher N18 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	KF939578.1	695	Grus leucogeranus voucher Grle-B3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	KF958462.1	695	Grus leucogeranus voucher Grle-B6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	NC_020574.1	16688	Grus leucogeranus mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Leucogeranus_leucogeranus	FJ769846.1	16688	Grus leucogeranus mitochondrion, complete genome

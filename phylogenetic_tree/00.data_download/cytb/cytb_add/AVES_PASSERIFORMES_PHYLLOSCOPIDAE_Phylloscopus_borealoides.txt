@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealoides	MN125373.1	16904	Phylloscopus borealoides mitochondrion, complete genome
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealoides	MH079245.1	1076	Phylloscopus borealoides voucher DZUG U482 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealoides	MH079244.1	1076	Phylloscopus borealoides voucher DZUG U3036 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealoides	MH079243.1	1076	Phylloscopus borealoides voucher DZUG U3035 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealoides	AY887677.1	1038	Phylloscopus borealoides cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealoides	KP267732.1	852	Phylloscopus borealoides isolate MAR2804 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealoides	AB362467.1	1951	Phylloscopus borealoides mitochondrial ND5, cytb genes for NADH dehydrogenase subunit 5, cytochrome b, partial and complete cds, isolate: 1D-36291
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_borealoides	AB362459.1	1012	Phylloscopus borealoides mitochondrial cytb gene for cytochrome b, partial cds, isolate: 1D-36291

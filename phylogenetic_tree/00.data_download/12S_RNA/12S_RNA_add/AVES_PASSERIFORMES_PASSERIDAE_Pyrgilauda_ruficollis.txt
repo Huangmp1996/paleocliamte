@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	NW_024510099.1	1486426	Pyrgilauda ruficollis isolate IOZ18807 unplaced genomic scaffold, ASM1759013v1 scaffold118, whole genome shotgun sequence
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	NW_024527599.1	7010658	Pyrgilauda ruficollis isolate IOZ18807 unplaced genomic scaffold, ASM1759013v1 scaffold59, whole genome shotgun sequence
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	KC836121.1	16909	Montifringilla ruficollis mitochondrion, complete genome
-AVES_PASSERIFORMES_PASSERIDAE_Pyrgilauda_ruficollis	NC_022815.1	16909	Montifringilla ruficollis mitochondrion, complete genome

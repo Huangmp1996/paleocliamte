@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_LANIIDAE_Lanius_sphenocercus	GU253565.1	1076	Lanius sphenocercus sphenocercus voucher UWBM:75460 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_sphenocercus	GU253564.1	1076	Lanius sphenocercus sphenocercus voucher UWBM:75445 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_sphenocercus	GU253563.1	995	Lanius sphenocercus giganteus voucher AMNH:448033 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_sphenocercus	KU884610.1	16833	Lanius sphenocercus sphenocercus mitochondrion, complete genome
-AVES_PASSERIFORMES_LANIIDAE_Lanius_sphenocercus	AM494445.1	828	Lanius sphenocercus mitochondrial partial cytb gene for cytochrome b, haplotype 1

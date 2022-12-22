@@ -1,8 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_guabangshanensis	GU384690.1	16408	Hynobius guabangshanensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_guabangshanensis	EF616473.1	1142	Hynobius guabangshanensis cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_guabangshanensis	EF076245.1	1144	Hynobius guabangshanensis cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_guabangshanensis	JQ929944.1	1141	Hynobius guabangshanensis voucher CIB-XM1993 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_guabangshanensis	JQ929943.1	1141	Hynobius guabangshanensis voucher CIB-XM1991 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_guabangshanensis	JQ929942.1	1141	Hynobius guabangshanensis voucher CIB-XM1683 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_guabangshanensis	NC_013762.1	16408	Hynobius guabangshanensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_guabangshanensis	AB548373.1	1141	Hynobius guabangshanensis mitochondrial cytb gene for cytochrome b, partial cds, specimen_voucher: 070319

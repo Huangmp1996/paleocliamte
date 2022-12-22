@@ -1,6 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_virgatus	GQ481253.1	694	Accipiter virgatus voucher UWBM 59853 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_virgatus	GQ481252.1	694	Accipiter virgatus voucher UWBM 59914 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_virgatus	KP336714.1	17654	Accipiter virgatus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_virgatus	NC_026082.1	17952	Accipiter virgatus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_virgatus	KJ699124.1	17952	Accipiter virgatus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_virgatus	JF312186.1	694	Accipiter virgatus voucher RMCA A9009A0001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

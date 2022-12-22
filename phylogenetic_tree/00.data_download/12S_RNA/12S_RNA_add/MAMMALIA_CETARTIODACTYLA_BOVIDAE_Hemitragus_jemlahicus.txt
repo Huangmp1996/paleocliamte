@@ -1,8 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Hemitragus_jemlahicus	FJ207531.1	16712	Hemitragus jemlahicus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Hemitragus_jemlahicus	KF317938.1	622	Hemitragus jemlahicus voucher MT1T_12S 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Hemitragus_jemlahicus	KF317937.1	640	Hemitragus jemlahicus voucher MT2T_12S 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Hemitragus_jemlahicus	NC_020628.1	16712	Hemitragus jemlahicus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Hemitragus_jemlahicus	AY670659.1	957	Hemitragus jemlahicus 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Hemitragus_jemlahicus	EU521722.1	364	Hemitragus jemlahicus schaferi isolate WFC/H-667 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Hemitragus_jemlahicus	AF401511.1	438	Hemitragus jemlahicus 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Hemitragus_jemlahicus	U86984.1	241	Hemitragus jemlahicus 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

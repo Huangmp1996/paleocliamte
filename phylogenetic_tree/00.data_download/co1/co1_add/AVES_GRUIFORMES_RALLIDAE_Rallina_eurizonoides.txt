@@ -1,9 +1,0 @@
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	AB843733.1	695	Rallina eurizonoides mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO165-10
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	AB843732.1	659	Rallina eurizonoides mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO454-10
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	AB843731.1	693	Rallina eurizonoides mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO164-10
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	AB843120.1	709	Rallina eurizonoides mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM615-10
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	AB843119.1	695	Rallina eurizonoides mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM612-10
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	KC354953.1	658	Rallina eurizonoides voucher PAA2419 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	KC354952.1	695	Rallina eurizonoides voucher MRMD1118 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	NC_012142.1	16942	Rallina eurizonoides sepiaria mitochondrion, complete genome
-AVES_GRUIFORMES_RALLIDAE_Rallina_eurizonoides	AP010822.1	16942	Rallina eurizonoides sepiaria mitochondrial DNA, complete genome, isolate: RE01

@@ -1,6 +1,0 @@
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_auritus	GU572054.1	634	Podiceps auritus voucher BISE-Aves210 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_auritus	GU572053.1	648	Podiceps auritus voucher BISE-Aves328 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_auritus	GU571583.1	743	Podiceps auritus voucher NHMO-BC148 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_auritus	GU571582.1	740	Podiceps auritus voucher NHMO-BC147 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_auritus	DQ433125.1	645	Podiceps auritus voucher USNM 601768 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_auritus	DQ434721.1	697	Podiceps auritus voucher BIOUG<CAN>:LPBO006 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

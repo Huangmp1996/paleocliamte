@@ -1,8 +1,0 @@
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	MF037878.1	16465	Cynops cyanurus cyanurus mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	KY418068.1	16465	Cynops cyanurus chuxiongensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	AY233158.1	499	Cynops cyanurus isolate SN02042 tRNA-Met, partial sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	AY233157.1	499	Cynops cyanurus isolate SN02041 tRNA-Met, partial sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	GU301784.1	1219	Cynops cyanurus isolate CIB95897 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp and tRNA-Ala genes, complete sequence; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	FJ415604.1	1411	Cynops cyanurus haplotype GZNU20050727002 NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	DQ517768.1	2701	Cynops cyanurus voucher MVZ219759 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_cyanurus	EU880309.1	16468	Cynops cyanurus mitochondrion, partial genome

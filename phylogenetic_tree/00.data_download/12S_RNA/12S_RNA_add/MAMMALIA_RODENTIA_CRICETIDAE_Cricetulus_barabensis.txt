@@ -1,7 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	NC_053822.1	16282	Cricetulus barabensis mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	MN056361.1	16282	Cricetulus barabensis mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	AY997831.1	928	Cricetulus barabensis pseudogriseus 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	AY997830.1	928	Cricetulus barabensis tuvinicus 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	AY997829.1	914	Cricetulus barabensis ferrugineus 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	AM000043.1	789	Cricetulus barabensis partial vwf gene for von Willebrand factor
-MAMMALIA_RODENTIA_CRICETIDAE_Cricetulus_barabensis	AJ973384.1	925	Cricetulus barabensis mitochondrial partial cytb gene for cytochrome b

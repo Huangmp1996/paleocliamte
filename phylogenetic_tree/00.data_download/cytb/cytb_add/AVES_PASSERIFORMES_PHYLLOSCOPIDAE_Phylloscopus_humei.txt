@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_humei	Z73488.1	1038	Phylloscopus humei humei mitochondrial cytochrome b gene
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_humei	MH079290.1	1076	Abrornis humei humei voucher NHMO 3669 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_humei	MH079289.1	1076	Abrornis humei humei voucher UWBM 46412 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_humei	MH079288.1	1076	Abrornis humei humei voucher UWBM 46382 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_humei	KJ456394.1	1097	Abrornis humei cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_humei	KP267726.1	852	Abrornis humei isolate MAR6491 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_humei	KP267725.1	852	Abrornis humei isolate MAR90111 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_humei	KP267724.1	852	Abrornis humei isolate MAR327 cytochrome b (cytb) gene, partial cds; mitochondrial

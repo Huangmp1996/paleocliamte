@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_brachyura	NC_050263.1	16833	Hystrix brachyura mitochondrion, complete genome
-MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_brachyura	MT240946.1	16833	Hystrix brachyura mitochondrion, complete genome
-MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_brachyura	MK419155.1	572	Hystrix brachyura isolate CADG68 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_brachyura	MK419154.1	598	Hystrix brachyura isolate CADG67 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_brachyura	MH538943.1	437	Hystrix brachyura isolate Vmt5 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_HYSTRICIDAE_Hystrix_brachyura	AY012117.1	1025	Hystrix brachyura 12S ribosomal RNA gene, partial sequence; and tRNA-Val gene, complete sequence; mitochondrial

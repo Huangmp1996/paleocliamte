@@ -1,4 +1,0 @@
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	NC_046877.1	16902	Calidris pugnax mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	MN956840.1	16902	Calidris pugnax mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	EF373150.1	963	Philomachus pugnax voucher 1337609 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_pugnax	KC969173.1	1005	Philomachus pugnax cytochrome b (cytb) gene, partial cds; mitochondrial

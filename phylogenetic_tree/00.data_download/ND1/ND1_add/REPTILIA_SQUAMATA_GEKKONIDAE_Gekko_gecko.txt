@@ -1,4 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	AY282753.1	16435	Gekko gecko mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	AF114249.1	1763	Gekko gecko NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	HM370130.1	16591	Gekko gecko LW1 mitochondrial DNA, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_gecko	NC_007627.1	16435	Gekko gecko mitochondrion, complete genome

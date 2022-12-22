@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	NC_053710.1	16852	Certhia himalayana mitochondrion, complete genome
-AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	MT439963.1	1038	Certhia himalayana voucher MAR3241 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	MT439961.1	1038	Certhia himalayana voucher MAR3318 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	MN624167.1	16852	Certhia himalayana mitochondrion, complete genome
-AVES_PASSERIFORMES_CERTHIIDAE_Certhia_himalayana	KJ455357.1	1041	Certhia himalayana NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

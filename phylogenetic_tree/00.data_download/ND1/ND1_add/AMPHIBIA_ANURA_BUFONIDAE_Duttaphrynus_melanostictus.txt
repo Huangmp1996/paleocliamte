@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	FJ882791.1	3864	Duttaphrynus melanostictus voucher VUB 0052; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY458592.1	17374	Bufo melanostictus mitochondrion, complete genome
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	KJ697684.1	3900	Duttaphrynus melanostictus voucher D_mel-(WB/N-24P)-10B/2011 tRNA-Leu gene, partial sequence; tRNA-Thr, tRNA-Pro, tRNA-Phe, 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, and tRNA-Leu genes, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, partial cds; and tRNA-Ile gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	NC_005794.2	17374	Bufo melanostictus mitochondrion, complete genome
-AMPHIBIA_ANURA_BUFONIDAE_Duttaphrynus_melanostictus	AY948727.1	1632	Bufo melanostictus 16S ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 gene, partial sequence

@@ -1,4 +1,0 @@
-REPTILIA_SQUAMATA_ANGUIDAE_Dopasia_harti	AF085624.1	2057	Ophisaurus harti NADH dehydrogenase subunit I (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit II (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_ANGUIDAE_Dopasia_harti	KF806482.1	17571	Ophisaurus harti mitochondrion, complete genome
-REPTILIA_SQUAMATA_ANGUIDAE_Dopasia_harti	NC_022700.1	17163	Ophisaurus harti mitochondrion, complete genome
-REPTILIA_SQUAMATA_ANGUIDAE_Dopasia_harti	KF279681.1	17163	Ophisaurus harti mitochondrion, complete genome

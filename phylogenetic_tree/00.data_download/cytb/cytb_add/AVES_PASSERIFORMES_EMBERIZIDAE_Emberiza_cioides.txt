@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	KP877780.1	1035	Emberiza cioides isolate MAR655 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	KP877755.1	657	Emberiza cioides isolate MAR4872 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	NC_024524.1	16765	Emberiza cioides mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	KF322027.1	16765	Emberiza cioides mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	EU325759.1	1076	Emberiza cioides weigoldi cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	AB159176.1	1143	Emberiza cioides mitochondrial gene for cytochrome b, complete cds, isolate: EC138
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	AB159175.1	1143	Emberiza cioides mitochondrial gene for cytochrome b, complete cds, isolate: EC12161
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	AB159174.1	1143	Emberiza cioides mitochondrial gene for cytochrome b, complete cds, isolate: EC9809
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_cioides	AB159173.1	1143	Emberiza cioides mitochondrial gene for cytochrome b, complete cds, isolate: EC9767

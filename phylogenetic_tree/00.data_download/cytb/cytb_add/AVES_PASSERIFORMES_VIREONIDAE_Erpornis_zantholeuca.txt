@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	MW540531.1	16902	Erpornis zantholeuca mitochondrion, complete genome
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	NC_053069.1	16903	Erpornis zantholeuca mitochondrion, complete genome
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	MN356277.1	16903	Erpornis zantholeuca mitochondrion, complete genome
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	MN991562.1	1143	Erpornis zantholeuca voucher LSUMNS B-58550 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	KJ456271.1	1143	Erpornis zantholeuca voucher AMNH:10977 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	JX236386.1	1134	Erpornis zantholeuca cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	JN827016.1	1143	Erpornis zantholeuca voucher KUNHM 13848 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	JN827015.1	1143	Erpornis zantholeuca voucher KUNHM 10015 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	JN614888.1	972	Erpornis zantholeuca voucher NRM 947312 cytochrome b (cytb) gene, partial cds; mitochondrial

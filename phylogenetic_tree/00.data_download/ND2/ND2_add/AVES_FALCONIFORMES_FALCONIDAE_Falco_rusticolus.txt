@@ -1,5 +1,0 @@
-AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	KX534744.1	1037	Falco rusticolus voucher TPF-337 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	NC_029359.1	18218	Falco rusticolus mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	KT989235.1	18218	Falco rusticolus mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	KM876060.1	2345	Falco rusticolus voucher CAS TPF337 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_rusticolus	KM876058.1	2345	Falco rusticolus voucher CAS TPF1024 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

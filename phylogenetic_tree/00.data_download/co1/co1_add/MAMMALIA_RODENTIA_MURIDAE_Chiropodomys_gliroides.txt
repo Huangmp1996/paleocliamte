@@ -1,5 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Chiropodomys_gliroides	NC_049121.1	16262	Chiropodomys gliroides voucher CBGPR4959 mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Chiropodomys_gliroides	MN964124.1	16262	Chiropodomys gliroides voucher CBGPR4959 mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Chiropodomys_gliroides	KY605293.1	690	Chiropodomys gliroides isolate LC113 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Chiropodomys_gliroides	KY605292.1	690	Chiropodomys gliroides isolate LC033 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Chiropodomys_gliroides	JF444993.1	657	Chiropodomys gliroides voucher ROM:116069 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

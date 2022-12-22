@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	MT210108.1	683	Petronia petronia voucher UWBM66486 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	MN337356.1	683	Petronia petronia isolate UWBM66486 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	MF071218.1	17426	Petronia petronia mitochondrion, complete genome
-AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	KY378769.1	929	Petronia petronia petronia voucher L383_Va6 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	AF230914.1	924	Petronia petronia 241 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	DQ244065.1	879	Petronia petronia voucher QPP cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PASSERIDAE_Petronia_petronia	AY228074.1	879	Petronia petronia cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

@@ -1,5 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	KU140668.1	16622	Tadorna tadorna mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	AF059173.1	1093	Tadorna tadorna tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	AF059113.1	1073	Tadorna tadorna cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	NC_024750.1	16604	Tadorna tadorna mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Tadorna_tadorna	KJ794187.1	16604	Tadorna tadorna breed Lin Wu mitochondrion, complete genome

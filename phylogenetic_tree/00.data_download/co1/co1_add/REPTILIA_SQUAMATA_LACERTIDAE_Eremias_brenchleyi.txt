@@ -1,4 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	EF490071.1	19542	Eremias brenchleyi mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HQ733908.1	707	Eremias brenchleyi voucher CIB<CHN>:DE0709001 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	HQ733907.1	660	Eremias brenchleyi isolate GE0708048 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_brenchleyi	NC_011764.1	19542	Eremias brenchleyi mitochondrion, complete genome

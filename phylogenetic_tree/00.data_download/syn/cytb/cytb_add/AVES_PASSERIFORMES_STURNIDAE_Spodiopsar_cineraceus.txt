@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	HQ896037.1	16821	Sturnus cineraceus mitochondrion, complete genome
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	NC_015237.1	16821	Sturnus cineraceus mitochondrion, complete genome
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	AB600555.1	307	Sturnus cineraceus mitochondrial cytb gene for cytochrome b, partial cds, isolate: k35-111
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	AB600554.1	477	Sturnus cineraceus mitochondrial cytb gene for cytochrome b, partial cds, isolate: k111
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	AB600553.1	477	Sturnus cineraceus mitochondrial cytb gene for cytochrome b, partial cds, isolate: k35
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	D38327.1	646	Sturnus cineraceus mitochondrial gene for cytochrome b, partial cds
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	D38336.1	293	Sturnus cineraceus gene for 18S rRNA, partial sequence

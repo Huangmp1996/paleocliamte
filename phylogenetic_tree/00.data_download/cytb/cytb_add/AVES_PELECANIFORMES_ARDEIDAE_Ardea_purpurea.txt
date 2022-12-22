@@ -1,7 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_purpurea	HM804868.1	442	Ardea purpurea isolate Ardpur6 cytochrome b gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_purpurea	HM804867.1	442	Ardea purpurea isolate Ardpur5 cytochrome b gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_purpurea	HM804866.1	442	Ardea purpurea isolate Ardpur4 cytochrome b gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_purpurea	HM804865.1	442	Ardea purpurea isolate Ardpur3 cytochrome b gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_purpurea	NC_025919.1	18722	Ardea purpurea mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_purpurea	KJ941160.1	874	Ardea purpurea voucher MAR4050 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_purpurea	KJ190948.1	18722	Ardea purpurea mitochondrion, complete genome

@@ -1,5 +1,0 @@
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_trifasciata	NC_022857.1	16675	Cuora trifasciata mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_trifasciata	KF574821.1	16675	Cuora trifasciata mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_trifasciata	KC543355.1	16633	Cuora trifasciata mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_trifasciata	KF724151.1	16594	Cuora trifasciata mitochondrion, complete genome
-REPTILIA_TESTUDINES_GEOEMYDIDAE_Cuora_trifasciata	AB090060.1	454	Cuora trifasciata mitochondrial gene for 16S rRNA, partial sequence

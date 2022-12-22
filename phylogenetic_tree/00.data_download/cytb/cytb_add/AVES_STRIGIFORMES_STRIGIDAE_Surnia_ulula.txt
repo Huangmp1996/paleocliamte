@@ -1,8 +1,0 @@
-AVES_STRIGIFORMES_STRIGIDAE_Surnia_ulula	AF115876.1	272	Surnia ulula cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_STRIGIFORMES_STRIGIDAE_Surnia_ulula	AF115875.1	258	Surnia ulula cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_STRIGIFORMES_STRIGIDAE_Surnia_ulula	EU348942.1	948	Surnia ulula voucher IPMB 6305 recombination activating protein 1 (RAG-1) gene, partial cds
-AVES_STRIGIFORMES_STRIGIDAE_Surnia_ulula	AJ004069.1	1041	Surnia ulula partial mitochondrial cytb gene, isolate 4
-AVES_STRIGIFORMES_STRIGIDAE_Surnia_ulula	AJ004068.1	1041	Surnia ulula partial mitochondrial cytb gene, isolate 3
-AVES_STRIGIFORMES_STRIGIDAE_Surnia_ulula	AJ004067.1	1041	Surnia ulula partial mitochondrial cytb gene, isolate 2
-AVES_STRIGIFORMES_STRIGIDAE_Surnia_ulula	AJ003921.1	300	Surnia ulula partial mitochondrial cytb gene, isolate 1
-AVES_STRIGIFORMES_STRIGIDAE_Surnia_ulula	Y15688.1	300	Surnia ulula mitochondrial cytb gene, partial (isolate 5)

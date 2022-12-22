@@ -1,6 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	AY870271.1	828	Tragopan caboti isolate V1 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	AF200723.1	1143	Tragopan caboti cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	GU187969.1	16727	Tragopan caboti mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	AF534554.1	1143	Tragopan caboti cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	NC_013619.1	16727	Tragopan caboti mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tragopan_caboti	AB004239.1	431	Tragopan caboti mitochondrial gene for cytochrome b, partial cds

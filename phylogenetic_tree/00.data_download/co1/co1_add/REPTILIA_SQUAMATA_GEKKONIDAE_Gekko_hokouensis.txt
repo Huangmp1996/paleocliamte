@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_hokouensis	NC_035304.1	17769	Gekko hokouensis mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_hokouensis	KT005801.1	17769	Gekko hokouensis mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_hokouensis	EU417722.1	825	Gekko hokouensis isolate JZ3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_hokouensis	EU417721.1	825	Gekko hokouensis isolate JZ2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_hokouensis	EU417720.1	825	Gekko hokouensis isolate JZ1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

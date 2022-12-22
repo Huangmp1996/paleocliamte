@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	MH265790.1	524	Garrulax albogularis ruficeps voucher NRM 570053 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	MH265789.1	627	Garrulax albogularis eous voucher NRM 570099 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	MH265788.1	394	Garrulax albogularis albogularis voucher NRM 570051 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	NC_037464.1	17870	Garrulax albogularis mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	KX082660.1	17870	Garrulax albogularis mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	EU447020.1	615	Garrulax albogularis ruficeps cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_albogularis	EU447019.1	615	Garrulax albogularis eous cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	NC_056389.1	17056	Dicrurus macrocercus mitochondrion, complete genome
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	MW307917.1	17056	Dicrurus macrocercus mitochondrion, complete genome
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	GU253469.1	1076	Dicrurus macrocercus voucher DZGU 1786 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	EF449747.1	432	Dicrurus macrocercus isolate E78 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_DICRURIDAE_Dicrurus_macrocercus	JQ864501.1	1026	Dicrurus macrocercus cytochrome b (cytb) gene, complete cds; mitochondrial

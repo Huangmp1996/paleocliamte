@@ -1,7 +1,0 @@
-AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	MZ508452.1	362	Mycteria leucocephala voucher AIWC 145 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	MZ508451.1	362	Mycteria leucocephala voucher AIWC 144 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	MH645666.1	718	Mycteria leucocephala cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	HM804896.1	429	Mycteria leucocephala isolate Mycleu5 cytochrome b gene, partial cds; mitochondrial
-AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	HM804895.1	429	Mycteria leucocephala isolate Mycleu4 cytochrome b gene, partial cds; mitochondrial
-AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	KC439298.1	425	Mycteria leucocephala cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_CICONIIFORMES_CICONIIDAE_Mycteria_leucocephala	U72777.1	1071	Mycteria leucocephala cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

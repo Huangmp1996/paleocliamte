@@ -1,6 +1,0 @@
-REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	LT992712.1	1169	Palea steindachneri mitochondrion genomic DNA containing cytb region, specimen voucher MTD T 5309
-REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	KX882746.1	16875	Palea steindachneri mitochondrion, complete genome
-REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	AY743417.1	1140	Palea steindachneri cytochrome b (CYTB) gene, complete cds; mitochondrial
-REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	AY259552.1	1140	Palea steindachneri cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
-REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	FJ541030.1	17243	Palea steindachneri mitochondrion, complete genome
-REPTILIA_TESTUDINES_TRIONYCHIDAE_Palea_steindachneri	NC_013841.1	17243	Palea steindachneri mitochondrion, complete genome

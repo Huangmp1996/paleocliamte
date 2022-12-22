@@ -1,6 +1,0 @@
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	MF085568.1	992	Cuculus poliocephalus voucher LSNF0038 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	AF072627.1	304	Cuculus poliocephalus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	AF072612.1	249	Cuculus poliocephalus cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	NC_028414.1	17508	Cuculus poliocephalus mitochondrion, complete genome
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	KT378620.1	17508	Cuculus poliocephalus mitochondrion, complete genome
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	KJ456242.1	1143	Cuculus poliocephalus voucher UWBM:75459 cytochrome b (cytb) gene, complete cds; mitochondrial

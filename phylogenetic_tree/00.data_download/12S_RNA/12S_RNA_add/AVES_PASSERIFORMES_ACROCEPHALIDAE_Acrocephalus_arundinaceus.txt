@@ -1,3 +1,0 @@
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	HQ852926.1	533	Acrocephalus arundinaceus 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AB492871.1	3092	Acrocephalus arundinaceus mitochondrial tRNA-Phe, 12S rRNA, tRNA-Val, 16S rRNA, tRNA-Leu, ND1 genes, complete sequence and partial cds
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_arundinaceus	AF111791.1	596	Acrocephalus arundinaceus control region II D-loop, partial sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene, partial sequence, mitochondrial genes for mitochondrial RNAs

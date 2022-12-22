@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_ferreus	AF151407.1	484	Saxicola ferrea cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_ferreus	KJ456455.1	1143	Saxicola ferreus cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_ferreus	HM633374.1	1076	Saxicola ferreus voucher AMNH-JGG1083 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_ferreus	EU421127.1	958	Saxicola ferreus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_ferreus	DQ285436.1	983	Saxicola ferrea cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Saxicola_ferreus	AY206918.1	1090	Saxicola ferrea cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product

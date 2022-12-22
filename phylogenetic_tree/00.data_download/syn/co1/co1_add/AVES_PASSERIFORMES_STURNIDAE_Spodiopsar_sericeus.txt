@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	MK206391.1	538	Sturnus sericeus haplotype Hap3 cytochrome oxidase subunit 1 (Cox1) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	MK206390.1	630	Sturnus sericeus haplotype Hap2 cytochrome oxidase subunit 1 (Cox1) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	MK206389.1	630	Sturnus sericeus haplotype Hap1 cytochrome oxidase subunit 1 (Cox1) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	FJ661104.1	667	Sturnus sericeus voucher AHNU:Y06033 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	EF484210.1	1551	Sturnus sericeus isolate SturnussericeusBTK1 cytochrome oxidase subunit I (COI) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	NC_014455.1	16823	Sturnus sericeus mitochondrion, complete genome
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_sericeus	HM859900.1	16823	Sturnus sericeus mitochondrion, complete genome

@@ -1,8 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	AF348081.1	17488	Soriculus fumidus mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	GU981085.1	1579	Episoriculus fumidus isolate Epifumi6 16S ribosomal RNA gene, complete sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	GU981084.1	1580	Episoriculus fumidus isolate Epifumi1 16S ribosomal RNA gene, complete sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	NC_003040.1	17488	Episoriculus fumidus mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	GU981064.1	1375	Episoriculus fumidus isolate Epifumi2 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	DQ630361.1	973	Episoriculus fumidus isolate 2 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	DQ630357.1	970	Episoriculus fumidus isolate 1 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Episoriculus_fumidus	AF274561.1	531	Soriculus fumidus 16S ribosomal RNA gene, partial sequence

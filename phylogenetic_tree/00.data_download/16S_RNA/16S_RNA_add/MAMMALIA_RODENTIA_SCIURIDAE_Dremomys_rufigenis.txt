@@ -1,4 +1,0 @@
-MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	KY410872.1	16189	Dremomys rufigenis voucher ROM 111385 mitochondrion, complete genome
-MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	NC_026442.1	16545	Dremomys rufigenis mitochondrion, complete genome
-MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	KC447304.1	16545	Dremomys rufigenis mitochondrion, complete genome
-MAMMALIA_RODENTIA_SCIURIDAE_Dremomys_rufigenis	AY227454.1	545	Dremomys rufigenis isolate Dru1 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

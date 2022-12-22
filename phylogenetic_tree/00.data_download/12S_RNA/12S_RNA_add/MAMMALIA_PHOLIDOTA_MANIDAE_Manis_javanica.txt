@@ -1,8 +1,0 @@
-MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	NW_023435942.1	5797718	Manis javanica isolate MJ74 unplaced genomic scaffold, YNU_ManJav_2.0 scaffold_48, whole genome shotgun sequence
-MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	NW_023435971.1	20824157	Manis javanica isolate MJ74 unplaced genomic scaffold, YNU_ManJav_2.0 scaffold_77, whole genome shotgun sequence
-MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MN365836.1	16170	Manis javanica mitochondrion, partial genome
-MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MG196309.1	16577	Manis javanica isolate MJA633 mitochondrion, complete genome
-MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	MG196302.1	16578	Manis javanica isolate EP2 mitochondrion, complete genome
-MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	KT445979.1	16593	Manis javanica isolate MP_PG03-UM mitochondrion, complete genome
-MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	NC_026781.1	16576	Manis javanica isolate T298 mitochondrion, complete genome
-MAMMALIA_PHOLIDOTA_MANIDAE_Manis_javanica	KP306515.1	16576	Manis javanica isolate T298 mitochondrion, complete genome

@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	MT210127.1	994	Schoeniclus spodocephala voucher MAR4352 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	KX109694.1	995	Schoeniclus spodocephala isolate MAR337 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	AF447277.1	1398	Emberiza spodocephala NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; mitochondrial genes for mitochondrial products
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	GQ370013.1	1008	Emberiza spodocephala NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	NC_021445.1	16796	Emberiza spodocephala mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_spodocephala	KC758647.1	16796	Emberiza spodocephala mitochondrion, complete genome

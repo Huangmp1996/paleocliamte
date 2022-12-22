@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KY673247.1	544	Bandicota indica voucher PDZ 43 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	NC_028335.1	16326	Bandicota indica mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	KT029807.1	16326	Bandicota indica mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	JQ843689.1	545	Bandicota indica voucher MNHN_VV1999504 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	JQ735467.1	1140	Bandicota indica voucher MNHN:VV1999504 cytochrome b (CYTB) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Bandicota_indica	JQ667597.1	721	Bandicota indica voucher MNHN:VV1999504 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

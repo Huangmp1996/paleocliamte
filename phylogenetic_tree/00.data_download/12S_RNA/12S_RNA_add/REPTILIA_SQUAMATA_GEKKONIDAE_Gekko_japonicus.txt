@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	KT005800.1	17956	Gekko japonicus mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	LC104760.1	171	Gekko japonicus mitochondrial gene for 12S rRNA, partial sequence, bio_material: CBM(Chiba Museum) DNA No. 2015-484
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	NW_015173122.1	3101052	Gekko japonicus isolate JY-2015 unplaced genomic scaffold, Gekko_japonicus_V1.1 scaffold21, whole genome shotgun sequence
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	NC_028035.1	16544	Gekko japonicus mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	KR996131.1	16544	Gekko japonicus mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	AF318271.1	384	Gekko japonicus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_japonicus	AF323510.1	377	Gekko japonicus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

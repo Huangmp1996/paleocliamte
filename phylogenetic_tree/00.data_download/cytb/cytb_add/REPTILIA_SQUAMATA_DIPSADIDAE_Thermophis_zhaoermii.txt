@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	MK201368.1	585	Thermophis zhaoermii voucher CHS256 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	EU864146.1	1100	Thermophis zhaoermii voucher CS2 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	EU864145.1	1100	Thermophis zhaoermii voucher CS1 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	GQ166168.1	17322	Thermophis zhaoermii mitochondrion, complete genome
-REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	KP777538.1	694	Thermophis zhaoermii isolate SH1406T3 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	KF595120.1	698	Thermophis zhaoermii haplotype LitangT1_cytb cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_DIPSADIDAE_Thermophis_zhaoermii	NC_012816.1	17322	Thermophis zhaoermii mitochondrion, complete genome

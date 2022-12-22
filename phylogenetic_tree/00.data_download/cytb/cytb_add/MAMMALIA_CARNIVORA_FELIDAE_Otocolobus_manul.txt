@@ -1,8 +1,0 @@
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	MH978908.1	16672	Otocolobus manul mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	MF997607.1	352	Otocolobus manul cytochrome b (CYTB) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KX181465.1	350	Otocolobus manul isolate OM 26 cytochrome b (cytB) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KX181464.1	350	Otocolobus manul isolate OM 25 cytochrome b (cytB) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	NC_028323.1	16626	Otocolobus manul isolate OMA mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KP202295.1	16626	Otocolobus manul isolate OMA mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KF990330.1	1140	Otocolobus manul haplotype Om01 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KR132585.1	17009	Otocolobus manul mitochondrion, partial genome

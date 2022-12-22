@@ -1,7 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	HM036355.1	16421	Hynobius maoershanensis voucher CIB-XM2121 mitochondrion, partial genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	NC_023789.1	16412	Hynobius maoershanensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	KF974475.1	16412	Hynobius maoershanensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	JN165984.1	466	Hynobius maoershanensis voucher XM2142 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	JN165983.1	466	Hynobius maoershanensis voucher XM2127 16S ribosomal RNA (16S) gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	JN165866.1	582	Hynobius maoershanensis voucher XM2142 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_maoershanensis	JN165865.1	582	Hynobius maoershanensis voucher XM2127 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,4 +1,0 @@
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	MH645651.1	718	Tachybaptus ruficollis cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	AF172370.1	300	Tachybapthus ruficollis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	NC_024594.1	16688	Tachybaptus ruficollis mitochondrion, complete genome
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	KJ913674.1	16688	Tachybaptus ruficollis mitochondrion, complete genome

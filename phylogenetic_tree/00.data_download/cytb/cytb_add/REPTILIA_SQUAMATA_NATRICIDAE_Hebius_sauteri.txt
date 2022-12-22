@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_sauteri	MK201302.1	585	Hebius sauteri voucher CHS156 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_sauteri	AF402905.1	1086	Amphiesma sauteri cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_sauteri	KJ685706.1	1074	Hebius sauteri voucher GP864 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_sauteri	KJ685702.1	1071	Hebius sauteri voucher GP2550 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_sauteri	KJ685701.1	1074	Hebius sauteri voucher GP2549 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Hebius_sauteri	KJ685696.1	1074	Hebius sauteri voucher GP2382 cytochrome b (cytb) gene, partial cds; mitochondrial

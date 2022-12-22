@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	MN217252.1	16829	Motacilla tschutschensis mitochondrion, complete genome
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	GQ482208.1	694	Motacilla tschutschensis voucher UWBM 44480 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	GQ482207.1	694	Motacilla tschutschensis voucher UWBM 43941 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	DQ433819.1	681	Motacilla tschutschensis voucher UWBM 67187 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	DQ433818.1	672	Motacilla tschutschensis voucher UWBM 43920 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MOTACILLIDAE_Motacilla_tschutschensis	DQ433817.1	641	Motacilla tschutschensis voucher UWBM 53913 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

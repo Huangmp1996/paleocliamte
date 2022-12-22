@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	MK411584.1	16920	Phylloscopus schwarzi mitochondrion, partial genome
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	JQ175812.1	652	Phylloscopus schwarzi voucher USNM:Birds:620463 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	JQ175811.1	652	Phylloscopus schwarzi voucher USNM:Birds:620464 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	HQ608863.1	1176	Phylloscopus schwarzi isolate Y6 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_schwarzi	HQ608825.1	1143	Phylloscopus schwarzi isolate Y5 cytochrome b (cytb) gene, partial cds; mitochondrial

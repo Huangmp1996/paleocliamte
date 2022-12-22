@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	JN019061.1	1321	Gekko swinhonis voucher NNU Z 20051124.001 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; and tRNA-Cys gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	HQ896028.1	15840	Gekko swinhonis mitochondrion, partial genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	FJ971051.1	594	Gekko swinhonis isolate N37 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	NC_018050.1	16818	Gekko swinhonis mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Gekko_swinhonis	JQ906550.1	16818	Gekko swinhonis mitochondrion, complete genome

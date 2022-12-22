@@ -1,6 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	MN356434.1	16462	Haliaeetus albicilla mitochondrion, partial genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	NC_040858.1	17719	Haliaeetus albicilla voucher IN1796 mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	MK043028.1	17719	Haliaeetus albicilla voucher IN1796 mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	AY034150.1	1874	Haliaeetus albicilla NADH dehydrogenase subunit 6 (ND6) gene, partial cds; tRNA-Glu and tRNA-Phe genes, complete sequence; mitochondrial DNA pseudo-control region, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	NW_009791415.1	6228	Haliaeetus albicilla isolate BGI_N329 unplaced genomic scaffold, ASM69140v1 scaffold8649, whole genome shotgun sequence
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Haliaeetus_albicilla	AB219552.1	940	Haliaeetus albicilla albicilla mitochondrial gene for 12S ribosomal RNA, partial sequence

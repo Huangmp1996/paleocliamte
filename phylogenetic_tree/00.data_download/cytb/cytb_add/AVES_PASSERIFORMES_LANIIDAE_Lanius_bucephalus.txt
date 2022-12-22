@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	LC550390.1	1143	Lanius bucephalus ESLB13-06 mitochondrial cytb gene for cytochrome b, complete cds
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	EF621607.1	1176	Lanius bucephalus isolate N12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	EF621601.1	1176	Lanius bucephalus isolate N6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	EF621583.1	1143	Lanius bucephalus isolate M12 cytochrome b gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	EF621577.1	1143	Lanius bucephalus isolate M6 cytochrome b gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	AB159157.1	1143	Lanius bucephalus mitochondrial gene for cytochrome b, complete cds, isolate: LB61
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	AB159156.1	1143	Lanius bucephalus mitochondrial gene for cytochrome b, complete cds, isolate: LB59
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	AB159155.1	1143	Lanius bucephalus mitochondrial gene for cytochrome b, complete cds, isolate: LB9501
-AVES_PASSERIFORMES_LANIIDAE_Lanius_bucephalus	AB159154.1	1143	Lanius bucephalus mitochondrial gene for cytochrome b, complete cds, isolate: LBM1

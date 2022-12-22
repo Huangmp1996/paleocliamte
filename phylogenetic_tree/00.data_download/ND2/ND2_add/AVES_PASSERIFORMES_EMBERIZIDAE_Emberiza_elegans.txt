@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	MT210122.1	1012	Schoeniclus elegans voucher MAR702 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KY349099.1	16780	Schoeniclus elegans mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KX109688.1	1012	Schoeniclus elegans isolate MAR4775 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	NC_030368.1	16779	Emberiza elegans mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_elegans	KJ813903.1	16779	Emberiza elegans mitochondrion, complete genome

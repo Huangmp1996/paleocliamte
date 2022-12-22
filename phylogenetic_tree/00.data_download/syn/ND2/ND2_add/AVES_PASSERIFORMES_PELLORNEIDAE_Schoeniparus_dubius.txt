@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	KJ455638.1	1041	Alcippe dubia voucher CAS:95880 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	DQ861961.1	1023	Alcippe dubia genestieri isolate A70 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	DQ861948.1	1023	Alcippe dubia genestieri isolate A53 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	JN826652.1	1041	Alcippe dubia voucher KUNHM 15160 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	JN826651.1	1041	Alcippe dubia voucher KUNHM 11340 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PELLORNEIDAE_Schoeniparus_dubius	JN826646.1	1041	Alcippe dubia voucher USNM 5623 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

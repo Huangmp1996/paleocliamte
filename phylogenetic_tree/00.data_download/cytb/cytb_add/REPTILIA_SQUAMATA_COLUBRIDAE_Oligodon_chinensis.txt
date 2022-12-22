@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_chinensis	NC_052835.1	17146	Oligodon chinensis mitochondrion, complete genome
-REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_chinensis	MK347418.1	17146	Oligodon chinensis mitochondrion, complete genome
-REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_chinensis	MK201517.1	585	Oligodon chinensis voucher CHS769 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_chinensis	MK201505.1	585	Oligodon chinensis voucher CHS752 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_chinensis	MK201320.1	585	Oligodon chinensis voucher CHS189 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_chinensis	MK201319.1	585	Oligodon chinensis voucher CHS188 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Oligodon_chinensis	KF732930.1	1085	Oligodon chinensis isolate CIB107 cytochrome b (cytb) gene, partial cds; mitochondrial
