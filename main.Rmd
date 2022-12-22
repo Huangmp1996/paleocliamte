@@ -213,7 +213,7 @@ model_result$item <- dplyr::recode(model_result$item,
                                   'X50km_range' = 'elev. range',
                                   'pop_10000BC_value' = 'prehist. pop.')
 model_result$item <- factor(model_result$item,
-                            levels = c('LGM temp.', 'LGM prec.', 'modern temp.', 'modern prec.', 'elev. range', 'historical anthrop.'))
+                            levels = c('LGM temp.', 'LGM prec.', 'modern temp.', 'modern prec.', 'elev. range', 'prehist. pop.'))
 
 head(model_result)
 ```
