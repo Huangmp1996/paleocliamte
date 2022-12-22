@@ -1,0 +1,106 @@
+---
+jupyter:
+  jupytext:
+    formats: ipynb,Rmd
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(png)
+library(tidyverse)
+library(ragg)
+```
+
+```{r}
+load('amphibian/amphibian_FD.Rdata')
+load('reptile/lizard_FD.Rdata')
+load('ave/bird_FD.Rdata')
+load('mammal/mammal_FD.Rdata')
+load('Fig/nri.Rdata')
+```
+
+```{r}
+lizard_img <- readPNG('phyloPic/PhyloPic.02811a3f.Gopal-Murali.Lygosominae_Scincidae_Scincoidea_Scincomorpha_Sphenomorphini_Sphenomorphus_Sphenomorphus-dussumieri_Squamata_Unidentata.png')
+amphibian_img <- readPNG('phyloPic/PhyloPic.4d1f2d5f.Beth-Reinke.Pelophylax_Pelophylax-perezi_Ranidae.png')
+bird_img <- readPNG('phyloPic/PhyloPic.7f02b605.Lauren-Anderson.Gruidae_Gruinae_Grus_Grus-canadensis.png')
+mammal_img <- readPNG('phyloPic/PhyloPic.3d259941.Margot-Michaud.Ailuropoda-melanoleuca.png')
+```
+
+```{r}
+options(repr.plot.width=13, repr.plot.height=12)
+fig_richness <- ggpubr::ggarrange(amphibian_richness, lizard_richness, bird_richness, mammal_richness, labels = c("A", "B", "C", "D"),
+                             font.label = list(size = 18), ncol = 2, nrow = 2) +
+                                annotation_raster(amphibian_img,0.16,0.24,0.56,0.655) +                
+                                annotation_raster(lizard_img,0.68,0.74,0.53,0.67) +
+                                annotation_raster(bird_img,0.16,0.23,0.08,0.17) +
+                                annotation_raster(mammal_img,0.66,0.74,0.08,0.16)
+fig_richness
+ggsave('Fig/richness.tiff',height = 10,width = 10,units = 'in',dpi = 300)
+```
+
+```{r}
+options(repr.plot.width=13, repr.plot.height=12)
+fig_FD <- ggpubr::ggarrange(amphibian_FD, lizard_FD, bird_FD, mammal_FD, labels = c("A", "B", "C", "D"),
+                             font.label = list(size = 18), ncol = 2, nrow = 2) +
+                                annotation_raster(amphibian_img,0.16,0.24,0.56,0.655) +                
+                                annotation_raster(lizard_img,0.68,0.74,0.53,0.67) +
+                                annotation_raster(bird_img,0.16,0.23,0.08,0.17) +
+                                annotation_raster(mammal_img,0.66,0.74,0.08,0.16)
+fig_FD
+ggsave('Fig/FD.tiff',height = 10,width = 10,units = 'in',dpi = 300)
+```
+
+```{r}
+options(repr.plot.width=13, repr.plot.height=12)
+fig_FV <- ggpubr::ggarrange(amphibian_FV, lizard_FV, bird_FV, mammal_FV, labels = c("A", "B", "C", "D"),
+                             font.label = list(size = 18), ncol = 2, nrow = 2) +
+                                annotation_raster(amphibian_img,0.16,0.24,0.56,0.655) +                
+                                annotation_raster(lizard_img,0.68,0.74,0.53,0.67) +
+                                annotation_raster(bird_img,0.16,0.23,0.08,0.17) +
+                                annotation_raster(mammal_img,0.66,0.74,0.08,0.16)
+fig_FV
+ggsave('Fig/FV.tiff',height = 10,width = 10,units = 'in',dpi = 300)
+```
+
+```{r}
+options(repr.plot.width=13, repr.plot.height=12)
+fig_FE <- ggpubr::ggarrange(amphibian_FE, lizard_FE, bird_FE, mammal_FE, labels = c("A", "B", "C", "D"),
+                             font.label = list(size = 18), ncol = 2, nrow = 2) +
+                                annotation_raster(amphibian_img,0.16,0.24,0.56,0.655) +                
+                                annotation_raster(lizard_img,0.68,0.74,0.53,0.67) +
+                                annotation_raster(bird_img,0.16,0.23,0.08,0.17) +
+                                annotation_raster(mammal_img,0.66,0.74,0.08,0.16)
+fig_FE
+ggsave('Fig/FE.tiff',height = 10,width = 10,units = 'in',dpi = 300)
+```
+
+```{r}
+options(repr.plot.width=14, repr.plot.height=12)
+fig_cwm <- ggpubr::ggarrange(bird_cwm_fast_slow, mammal_cwm_fast_slow,
+                             font.label = list(size = 18), ncol = 2, nrow = 1)
+```
+
+```{r}
+fig_cwm
+ggsave('Fig/cwm.tiff',height = 3,width = 7,device = agg_tiff,units = 'in',dpi = 300, scaling = 0.5)
+```
+
+```{r}
+options(repr.plot.width=13, repr.plot.height=12)
+fig_nri <- ggpubr::ggarrange(amphibian_nri, lizard_nri, ave_nri, mammal_nri, labels = c("A", "B", "C", "D"),
+                             font.label = list(size = 18), ncol = 2, nrow = 2) +
+                                annotation_raster(amphibian_img,0.16,0.24,0.56,0.66) +                
+                                annotation_raster(lizard_img,0.68,0.74,0.53,0.67) +
+                                annotation_raster(bird_img,0.17,0.23,0.07,0.17) +
+                                annotation_raster(mammal_img,0.66,0.74,0.08,0.16)
+fig_nri
+ggsave('Fig/NRI.tiff',height = 10,width = 10,device = agg_tiff,units = 'in',dpi = 300, scaling = 0.8)
+```

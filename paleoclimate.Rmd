@@ -1,0 +1,277 @@
+---
+jupyter:
+  jupytext:
+    formats: ipynb,Rmd
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(ncdf4)
+library(raster)
+library(sf)
+library(tidyverse)
+```
+
+```{r}
+grid <- st_read("./chinese_terrestral//input//grid.shp")  # china grid
+south_ocean <- st_read("./chinese_terrestral//input//China-9-1.shp") %>%
+    st_transform(crs = st_crs(grid))
+grid_raster <- raster(crs = crs(grid), vals = 0, resolution = c(50000, 50000), ext = extent(as.vector(extent(grid)))) %>%
+    rasterize(grid, .)
+intersection_grid <- raster("./chinese_terrestral/SHP/intersection_grid.tif")
+x <- (grid$left + grid$right)/2
+y <- (grid$top + grid$bottom)/2
+xy <- cbind(x, y)  # midpoint of grid
+```
+
+# Climate
+
+```{r}
+satncfile <- '~/paleoclimate/LGM_data/LGMR_SAT_climo.nc'
+satnc <- ncdf4::nc_open(satncfile)
+names(satnc$var)
+sat <- ncvar_get(satnc,varid = 'sat')
+ncatt_get(satnc,'sat',"_FillValue")
+dim(sat)
+nc_close(satnc)
+```
+
+## LGM sat
+
+```{r}
+sat_raster <- raster::stack(satncfile,varname = 'sat')
+LGM_sat_raster_mean <- raster::calc(sat_raster[[90:110]],mean)
+
+plot(LGM_sat_raster_mean)
+crs(LGM_sat_raster_mean) <- "+init=epsg:4326"
+plot(LGM_sat_raster_mean)
+LGM_sat_raster_projected <- projectRaster(LGM_sat_raster_mean,grid_raster)
+plot(LGM_sat_raster_projected )
+LGM_sat_value <- raster::extract(LGM_sat_raster_projected,xy)
+```
+
+## modern sat
+
+```{r}
+sat_raster <- raster::stack(satncfile,varname = 'sat')
+modern_sat_raster_mean <- raster::calc(sat_raster[[1]],mean)
+
+plot(modern_sat_raster_mean)
+crs(modern_sat_raster_mean) <- "+init=epsg:4326"
+modern_sat_raster_projected <- projectRaster(modern_sat_raster_mean,grid_raster)
+plot(modern_sat_raster_projected)
+modern_sat_value <- raster::extract(modern_sat_raster_projected,xy)
+```
+
+## modern dO
+
+```{r}
+dOncfile <- '~/paleoclimate/LGM_data/LGMR_d18Op_climo.nc'
+dOnc <- ncdf4::nc_open(dOncfile)
+names(dOnc$var)
+dO <- ncvar_get(dOnc,varid = 'd18Op')
+ncatt_get(dOnc,'d18Op',"_FillValue")
+dim(dO)
+nc_close(dOnc)
+
+dO_raster <- raster::stack(dOncfile,varname = 'd18Op')
+modern_dO_raster_mean <- raster::calc(dO_raster[[1]],mean)
+
+plot(modern_dO_raster_mean)
+crs(modern_dO_raster_mean) <- "+init=epsg:4326"
+modern_dO_raster_projected <- projectRaster(modern_dO_raster_mean,grid_raster)
+plot(modern_dO_raster_projected )
+modern_dO_value <- raster::extract(modern_dO_raster_projected,xy)
+```
+
+## LGM dO
+
+```{r}
+LGM_dO_raster_mean <- raster::calc(dO_raster[[90:110]],mean)
+
+plot(LGM_dO_raster_mean)
+crs(LGM_dO_raster_mean) <- "+init=epsg:4326"
+LGM_dO_raster_projected <- projectRaster(LGM_dO_raster_mean,grid_raster)
+plot(LGM_dO_raster_projected )
+LGM_dO_value <- raster::extract(LGM_dO_raster_projected,xy)
+```
+
+## modern factors
+
+```{r}
+# modern climate
+files <- list.files("~/paleoclimate/worldclim/",full.names = TRUE,recursive = TRUE)
+prec <- files[grep('wc2.0_10m_prec_',files)] %>% lapply(raster) %>% stack() %>% calc(sum)
+prec_projected <- projectRaster(prec,grid_raster)
+
+files <- list.files("~/paleoclimate/worldclim/",full.names = TRUE,recursive = TRUE)
+tavg <- files[grep('wc2.0_10m_tavg_',files)] %>% lapply(raster) %>% stack() %>% calc(mean)
+tavg_projected <- projectRaster(tavg,grid_raster)
+
+prec <- raster::extract(prec_projected,xy)
+tavg <- raster::extract(tavg_projected,xy)
+```
+
+```{r}
+pop <- raster("~/paleoclimate/pop2000/tpop2000/w001001.adf")
+pop_projected <- projectRaster(pop,grid_raster)
+pop_value <- raster::extract(pop_projected,xy)
+```
+
+```{r}
+dem <- raster("~/paleoclimate/dem_1km//dem_1km/w001001.adf")
+plot(dem)
+dem_projected <- projectRaster(dem,grid_raster)
+dem_value <- raster::extract(dem_projected,xy)
+```
+
+```{r}
+rdls <- st_read('~/paleoclimate/Rdls_SHP/rdls.shp')
+ggplot()+
+    geom_sf(data = rdls,aes(fill = X50km_range,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("rdls")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+rdls <- st_read('~/paleoclimate/Rdls_SHP/rdls.shp')
+ggplot()+
+    geom_sf(data = rdls,aes(fill = X50km_stdev,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("rdls")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+
+```
+
+## population 10000BC
+
+```{r}
+pop_10000BC <- raster('~/paleoclimate/HYDE3.2/popd_10000BC.asc')
+crs(pop_10000BC) <- CRS('+init=EPSG:4326')
+pop_10000BC_projected <- projectRaster(pop_10000BC,grid_raster)
+pop_10000BC_value <- raster::extract(pop_10000BC_projected,xy)
+```
+
+## merge
+
+```{r}
+paleovalue <- cbind(grid$id,xy,
+                    prec,tavg,pop_value,dem_value,pop_10000BC_value,
+                    LGM_sat_value,modern_sat_value,LGM_dO_value,modern_dO_value) %>%
+            as.data.frame() %>% mutate(
+                                       LGM_sat_velocity = abs(modern_sat_value-LGM_sat_value),
+                                       LGM_dO_velocity = abs(modern_dO_value-LGM_dO_value),
+                                        ) %>% 
+            rename(id=V1) %>% left_join(st_drop_geometry(rdls),by = c('id'))
+```
+
+## draw
+
+```{r}
+options(repr.plot.width=10, repr.plot.height=8)
+
+map <- left_join(paleovalue,grid,by = 'id')
+china_map <- st_read("./chinese_terrestral//SHP//China_map.shp")
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = prec,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("prec")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = LGM_dO_velocity,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral",direction = -1)+ # fill 
+    ggtitle("LGM_dO_velocity")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = tavg,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(name="modern temperature",palette = "Spectral")+ # fill 
+    ggtitle("modern temperature")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          legend.position = c(0.2,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = south_ocean,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = -1*LGM_sat_velocity,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(name="LGM temperature change(℃)",palette = "Spectral")+ # fill 
+    ggtitle("LGM_temperature_change")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          legend.position = c(0.2,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10),
+          plot.title = element_text(hjust = 0.5))
+
+# ggsave('LGM_sat_velocity.tiff',width = 7,height = 7,units = 'in',dpi = 300)
+```
+
+```{r}
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = pop_value,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("Population")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+ggplot()+geom_sf(data = china_map,aes(geometry = geometry),colour='grey60',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = pop_10000BC_value,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    ggtitle("pop_10000BC_value")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+write.csv(paleovalue,'environment_variables.csv',row.names = F)
+```
+
+# trends
+
+```{r}
+satncfile <- '~/paleoclimate/LGM_data/LGMR_SAT_climo.nc'
+sat_raster <- raster::stack(satncfile,varname = 'sat')
+sat_raster_mean <- raster::cellStats(sat_raster,stat='mean')
+year <- -1*seq(200,24000,200)
+avg_sat <- data.frame(sat_raster_mean,year)
+ggplot(avg_sat, aes(x=year, y=sat_raster_mean)) + geom_line()
+```
+
+```{r}
+dOncfile <- '~/paleoclimate/LGM_data/LGMR_d18Op_climo.nc'
+dO_raster <- raster::stack(dOncfile,varname = 'd18Op')
+dO_raster_mean <- raster::cellStats(dO_raster,stat='mean')
+year <- -1*seq(200,24000,200)
+avg_dO <- data.frame(dO_raster_mean,year)
+ggplot(avg_dO, aes(x=year, y=dO_raster_mean)) + geom_line()
+```

@@ -1,0 +1,275 @@
+---
+jupyter:
+  jupytext:
+    encoding: '# -*- coding: utf-8 -*-'
+    formats: ipynb,R:light,Rmd
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(dplyr)
+library(corrplot)
+library(ggplot2)
+library(DHARMa)
+```
+
+
+# Functional diversity
+
+```{r}
+amphibian_FD <- read.csv("./amphibian/amphibian_result.csv")
+reptile_FD <- read.csv("./reptile/result.csv")
+reptile_FD <- dplyr::rename(reptile_FD, grid_id = i)
+ave_FD <- read.csv("./ave/FD_bird_total.csv")
+mammal_FD <- read.csv("./mammal/mammal_result.csv")
+
+
+# 给列名加上类群名，除了grid_id列
+colnames(amphibian_FD) <- ifelse(colnames(amphibian_FD)!='grid_id',paste0('amphibian_',colnames(amphibian_FD)),'grid_id') 
+
+colnames(reptile_FD) <- ifelse(colnames(reptile_FD)!='grid_id',paste0('lizard_',colnames(reptile_FD)),'grid_id') 
+
+colnames(ave_FD) <- ifelse(colnames(ave_FD)!='grid_id',paste0('bird_',colnames(ave_FD)),'grid_id')
+
+colnames(mammal_FD) <- ifelse(colnames(mammal_FD)!='grid_id',paste0('mammal_',colnames(mammal_FD)),'grid_id')
+```
+
+# phylogenetic diversity
+
+```{r}
+# transfer MPD,MNTD to NRI,NTI
+amphibian_phylog <- read.csv("./phylogenetic_result/amphibian_phylogenetic_diversity.csv") %>% 
+                        select(grid_id, amphibian_ntaxa.x, amphibian_NRI, amphibian_NTI)
+lizard_phylog <- read.csv("./phylogenetic_result/lizard_phylogenetic_diversity.csv") %>% 
+                    select(grid_id, lizard_ntaxa.x, lizard_NRI, lizard_NTI)
+ave_phylog <- read.csv("./phylogenetic_result/ave_phylogenetic_diversity.csv") %>% 
+                    select(grid_id, ave_ntaxa.x, ave_NRI, ave_NTI)
+mammal_phylog <- read.csv("./phylogenetic_result/mammal_phylogenetic_diversity.csv") %>% 
+                    select(grid_id, mammal_ntaxa.x, mammal_NRI, mammal_NTI)
+```
+
+
+# environmental variables
+
+```{r}
+env <- read.csv("./environment_variables.csv")
+```
+
+```{r}
+colnames(env)
+```
+
+```{r}
+total_table <- full_join(amphibian_FD,ave_FD,by = 'grid_id') %>% 
+                full_join(mammal_FD,by = 'grid_id') %>%
+                full_join(reptile_FD,by = 'grid_id')  %>% 
+                full_join(amphibian_phylog,by = 'grid_id') %>% 
+                full_join(ave_phylog,by = 'grid_id') %>% 
+                full_join(mammal_phylog,by = 'grid_id') %>% 
+                full_join(lizard_phylog,by = 'grid_id') %>% 
+                full_join(env,by = c('grid_id' = 'id'))
+```
+
+# anova comapre
+
+```{r}
+library(agricolae)
+```
+
+```{r}
+total_anova <- select(total_table, contains('NRI')|contains('NTI')) %>% tidyr::gather(taxonomy, value, colnames(.)) %>% 
+                na.omit() %>% tidyr::separate(col = taxonomy, into = c('taxonomy', 'index'), sep = '_', remove = TRUE)
+head(total_anova)
+total_anova$taxonomy <- factor(total_anova$taxonomy, levels = c('amphibian', 'lizard', 'ave', 'mammal'))
+```
+
+```{r}
+nri_anova <- filter(total_anova, index == 'NRI')
+
+fit1 <- aov(value~taxonomy, data = nri_anova)
+summary(fit1)
+
+lsd1 <- LSD.test(fit1, "taxonomy", p.adj = "bonferroni" )
+print(lsd1$groups)
+```
+
+```{r}
+nti_anova <- filter(total_anova, index == 'NTI')
+fit2 <- aov(value~taxonomy, data = nti_anova)
+summary(fit2)
+
+lsd2 <- LSD.test(fit2, "taxonomy", p.adj = "bonferroni" )
+print(lsd2$groups)
+```
+
+```{r}
+options(repr.plot.width=10, repr.plot.height=5)
+ggplot(data = total_anova) + geom_boxplot(aes(x = taxonomy, y = value)) + facet_grid(. ~ index) + theme_bw()
+ggsave('Fig/phylogenetic_struture_compare_boxplot.tiff', width = 6, height = 3, units = 'in', dpi = 300)
+```
+
+# model analyze
+
+```{r}
+pdf("Fig/env_corr.pdf")
+res <- cor(select(total_table, X50km_range, LGM_dO_velocity, LGM_sat_velocity, prec, tavg, pop_10000BC_value), use = 'complete.obs')
+options(repr.plot.width=14, repr.plot.height=8)
+corrplot(res,method = "shade",shade.col = NA, tl.col ="black", tl.srt = 45, order = "alphabet",tl.cex = 1.5,addCoef.col = "grey")
+dev.off()
+head(total_table)
+```
+
+```{r}
+# Spatial regression in R part 1: spaMM vs glmmTMB: https://www.r-bloggers.com/2019/09/spatial-regression-in-r-part-1-spamm-vs-glmmtmb/
+spamm_performing <- function(i){
+    tmp <- select(total_table, i, x, y, prec, tavg, LGM_sat_velocity, LGM_dO_velocity, X50km_range, pop_10000BC_value) %>%
+                            na.omit() %>% scale() %>% as.data.frame()
+    # fit a non-spatial model
+    fml <- as.formula(paste(i, 'prec + tavg + LGM_sat_velocity + LGM_dO_velocity + X50km_range + pop_10000BC_value',sep = '~'))
+    print(fml)
+    m_non <- lm(fml, tmp)
+    # # plot residuals
+    # tmp$resid <- resid(m_non)
+    # ggplot(tmp, aes(x = x, y = y, size = resid)) +
+    #   geom_point(alpha=0.2) +
+    #   scale_size_continuous(range = c(0.1,3))
+
+    # formal test
+    sims <- simulateResiduals(m_non)
+    moran <- testSpatialAutocorrelation(sims, x = tmp$x, y = tmp$y, plot = FALSE) # # need to take into account space if p < 0.05
+    print(i)
+    print(moran)
+    if (moran$p.value < 0.05){
+        # fit the model
+        spamm_fml <- as.formula(
+            paste(i, 'prec + tavg + LGM_sat_velocity + LGM_dO_velocity + X50km_range + pop_10000BC_value + Matern(1 | x + y)', sep = '~'))
+        m_spamm <- spaMM::fitme(spamm_fml, data = tmp, family = "gaussian") # this take a bit of time
+        
+        taxa <- strsplit(i,split = '_')[[1]][1]
+        diversity_index <- paste(strsplit(i,split = '_')[[1]][-1],collapse="_")
+        summary_table <- as.data.frame(summary(m_spamm)$beta_table) %>% mutate(item = row.names(.)) %>%
+                            mutate(class = rep(taxa,nrow(.)), diversity_index = rep(diversity_index,nrow(.)))
+        result <- list()
+        result$m_spamm <- m_spamm
+        result$summary_table <- summary_table
+        return(result$summary_table)
+    }
+}
+```
+
+```{r}
+summary(total_table)
+```
+
+```{r}
+y_variables <- c('amphibian_FD.FRic','amphibian_FD.FEve','amphibian_FD.FDiv',
+                 'lizard_FD.FRic','lizard_FD.FEve','lizard_FD.FDiv',
+                 'bird_FD.FRic','bird_FD.FEve','bird_FD.FDiv',
+                 'mammal_FD.FRic','mammal_FD.FEve','mammal_FD.FDiv',
+                 'amphibian_NRI','amphibian_NTI',
+                 'ave_NRI','ave_NTI',
+                 'mammal_NRI','mammal_NTI',
+                 'lizard_NRI','lizard_NTI')
+```
+
+```{r}
+library(foreach)
+library(doParallel)
+print(paste0('CPUs_used:', length(y_variables)))
+cl <- makeCluster(length(y_variables))
+registerDoParallel(cl)
+model_result_tmp <- foreach(
+    i = y_variables,
+    .combine = rbind,
+    .export = c('total_table','spamm_performing'),
+    .packages = c("spaMM","dplyr",'DHARMa')
+) %dopar% spamm_performing(i)
+stopCluster(cl)
+```
+
+
+## result
+
+```{r}
+names(model_result_tmp)[names(model_result_tmp) == 't-value'] <- 't_value'
+# write.csv(model_result_tmp,'model_result_original.csv',row.names=F)
+model_result <- model_result_tmp
+model_result$class[model_result$class == 'ave'] <- 'bird'
+model_result$diversity_index <- gsub('FD\\.', '', model_result$diversity_index)
+model_result$diversity_index <- gsub('FD_', '', model_result$diversity_index)
+model_result$item <- dplyr::recode(model_result$item,
+                                   'LGM_sat_velocity' = 'LGM temp.',
+                                   'LGM_dO_velocity' = 'LGM prec.',
+                                   'tavg' = 'modern temp.',
+                                   'prec' = 'modern prec.',
+                                  'X50km_range' = 'elev. range',
+                                  'pop_10000BC_value' = 'prehist. pop.')
+model_result$item <- factor(model_result$item,
+                            levels = c('LGM temp.', 'LGM prec.', 'modern temp.', 'modern prec.', 'elev. range', 'historical anthrop.'))
+
+head(model_result)
+```
+
+```{r}
+# set p value threshold
+options(repr.plot.width=18, repr.plot.height=8)
+model_result_main <- filter(model_result,diversity_index %in% c('NRI','NTI','FRic','FDiv','FEve')) %>% 
+    mutate(p_value = case_when(
+        class == 'amphibian' & diversity_index %in% c('FRic', 'FDiv', 'FEve') ~ pt(abs(t_value), 2350, lower.tail = FALSE),
+        class == 'amphibian' & diversity_index %in% c('NRI', 'NTI') ~ pt(abs(t_value), 2530, lower.tail = FALSE),
+        class == 'lizard' & diversity_index %in% c('FRic', 'FDiv', 'FEve') ~ pt(abs(t_value), 3650, lower.tail = FALSE),
+        class == 'lizard' & diversity_index %in% c('NRI', 'NTI') ~ pt(abs(t_value), 3848, lower.tail = FALSE),
+        class %in% c('bird', 'mammal') ~ pt(abs(t_value), 3881, lower.tail = FALSE)),  # number of grids: 3888
+       sig = case_when(p_value > 0.05 ~ 'not_significant',
+                       p_value <= 0.05 & Estimate > 0 ~ 'positively_significant',
+                       p_value <= 0.05 & Estimate < 0 ~ 'negatively_significant')
+    ) %>% 
+    filter(item != '(Intercept)') 
+
+model_result_main$class<- factor(model_result_main$class, 
+                                 levels = c("amphibian","lizard","bird","mammal"))
+model_result_main$diversity_index <- factor(model_result_main$diversity_index,
+                                            levels = c('NRI','NTI','FRic','FDiv','FEve'))
+
+# write.csv(model_result_main,'model_result_main.csv',row.names=F)
+```
+
+```{r}
+# model_result <- read.csv('model_result.csv')
+options(repr.plot.width=14, repr.plot.height=8)
+
+limits_fun <- function(y) {
+  if (min(y) < -0.5) {  
+    c(-1, 1)
+  } else { 
+    c(-0.5,0.5)
+      }
+    }
+
+p_main <- ggplot(model_result_main,aes(x = item, y = Estimate, fill = sig)) + geom_point(shape=21,size = 4) + 
+    scale_fill_manual(breaks = c("positively_significant",'negatively_significant', "not_significant"),
+                      values = c('#FF6E00','#3FA0FF','gray100')) + # fill
+    geom_hline(yintercept = c(0), linetype="dotted")+
+    facet_grid(class ~ diversity_index,
+              scales = "free_y")+
+    geom_rect(aes(xmin=2.5, xmax=4.5, ymin=-Inf, ymax=Inf),fill='#FF3300',alpha = .02)+
+    geom_rect(aes(xmin=0.5, xmax=2.5, ymin=-Inf, ymax=Inf),fill='#5BC2E7',alpha = .02)+
+    theme_bw()+
+    theme(strip.text = element_text(size = rel(1)), # 分面标签字号
+          panel.grid = element_blank(),
+         axis.title.x = element_blank(),axis.title.y = element_text(size = 14),
+         axis.text.x = element_text(size = 12,angle = 45,vjust = 1,hjust = 1),axis.text.y = element_text(size = 10),
+         legend.position = 'none')+
+    scale_y_continuous(limits = limits_fun)+
+    scale_x_discrete(expand=c(0, 0.5))
+ggsave('Fig/model_result_main.tiff', plot = p_main, height = 6, width = 11, units = 'in', dpi=300)
+
+```
