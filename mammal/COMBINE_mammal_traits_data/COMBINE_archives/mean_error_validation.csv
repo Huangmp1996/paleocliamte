@@ -1,0 +1,12 @@
+trait_name,mean_missingness,mean_nrmse
+age_first_reproduction,0.672,0.268
+adult_body_length,0.351,0.272
+brain_mass,0.715,0.298
+female_maturity,0.668,0.234
+generation_length,0.777,0.305
+gestation_length,0.631,0.211
+interbirth_interval,0.79,0.264
+litter_size,0.414,0.379
+litters_per_year,0.642,0.358
+max_longevity,0.572,0.347
+weaning_age,0.659,0.344
