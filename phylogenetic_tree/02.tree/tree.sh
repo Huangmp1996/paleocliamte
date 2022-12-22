@@ -1,1 +1,0 @@
-iqtree -s six_gene.phy -T AUTO -m MFP+MERGE -p partition.txt -b 1000 -o Actinopterygii_Cypriniformes_Danionidae_Danio_rerio
