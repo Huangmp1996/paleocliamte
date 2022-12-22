@@ -1,0 +1,600 @@
+---
+jupyter:
+  jupytext:
+    formats: ipynb,Rmd
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(dplyr)
+library(tidyverse)
+library(factoextra)
+library(sf)
+```
+
+# 物种丰富度
+
+```{r}
+china_map_std <- st_read('../StandardMap_China/Base_SingleChinaRegion_GS20204615_2.shp')
+grid <- st_read("../chinese_terrestral//input//grid.shp")
+china_map_std <- st_transform(china_map_std, st_crs(grid)) %>% mutate(line = tidyr::replace_na(line, 0)) %>% filter(line != 2)
+```
+
+```{r}
+# calculate species richness
+chinese_wild_life_list <- read.csv('../chinese_terrestral/chinese_wildlife_list/taxonomy.csv') %>% 
+                        select('scientificName','kingdomName','phylumName','className','orderName','familyName')
+Chinese_species_distribution_grid <- read.csv("../chinese_terrestral/species_distribution_grid_filtered.csv",
+                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                            group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup() %>%
+                                                filter(class == 'ave') %>% 
+                                            left_join(chinese_wild_life_list,by = c('species' = 'scientificName')) %>% 
+                                            filter(!(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae','Phaethontidae','Diomedeidae',
+                                               'Stercorariidae','Sulidae','Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae')))) %>% 
+                                            select("class","species","grid_id")
+
+n_distinct(Chinese_species_distribution_grid$species)
+aves <- group_by(Chinese_species_distribution_grid,grid_id) %>% summarize(richness = n_distinct(species))
+map <- left_join(aves,grid,by = c('grid_id'='id'))
+
+options(repr.plot.width=12, repr.plot.height=10)
+bird_richness <- ggplot()+
+    geom_sf(data = china_map_std,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
+    geom_sf(data = map,aes(fill = richness,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_size_manual(values = c(0.8,0.6,0.5),guide = "none")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
+bird_richness
+ggsave('bird_species_richness.tiff',height = 7,width = 7,units = 'in',dpi=300)
+```
+
+# 数据整合
+
+
+## 加载数据
+
+```{r}
+bird_trait_data_ecography <- read.csv("bird_trait_data_ecography.csv", header = T) %>% 
+                            select(Species, iucn_2021_binomial, Habitat_specificity)
+avonet <- read.csv('ELEData/TraitData/AVONET1_BirdLife.csv') %>% select(Species1, Trophic.Niche, Hand_Wing.Index) %>% 
+                    mutate(Species1=gsub(' ', '_', Species1))
+lifespan <- read.csv('Generation_lengths_of_the_world_birds_cobi13486_sup_0002_tables2.csv')
+
+Chinesebirdsdata <- read.csv('Chinesebirdsdata/Chinesebirdsdata.csv') %>% 
+                    left_join(bird_trait_data_ecography, by='iucn_2021_binomial') %>% 
+                    left_join(avonet, by=c('iucn_2021_binomial' = 'Species1')) %>% 
+                    left_join(lifespan, by=c('iucn_2021_binomial' = 'Species'))
+
+Chinesebirdsdata <- within(Chinesebirdsdata, {
+    male_mass_max_g <- ifelse(is.na(male_mass_max_g), male_mass_min_g, male_mass_max_g)
+    female_mass_max_g <- ifelse(is.na(female_mass_max_g), female_mass_min_g, female_mass_max_g)
+    male_size_max_mm <- ifelse(is.na(male_size_max_mm), male_size_min_mm, male_size_max_mm)
+    female_size_max_mm <- ifelse(is.na(female_size_max_mm), female_size_min_mm, female_size_max_mm)
+    clutch_size_max <- ifelse(is.na(clutch_size_max), clutch_size_min, clutch_size_max)
+    
+    male_mass_mean <- (male_mass_max_g + male_mass_min_g) / 2
+    female_mass_mean <- (female_mass_min_g + female_mass_max_g) / 2
+    male_size_mean <- (male_size_min_mm + male_size_max_mm) / 2
+    female_size_mean <- (female_size_min_mm + female_size_max_mm) / 2
+    clutch_size_mean <- (clutch_size_min + clutch_size_max) / 2
+}) %>% select(family, iucn_2021_binomial, Species, elton_bird_name, ends_with('_mean'), egg_volume, Maximum_longevity, 
+              nest_type, nest_site, flocking_tendency, Habitat_specificity, Trophic.Niche, Hand_Wing.Index)
+```
+
+```{r}
+# # data from reference supplementary material
+altricial_precocial_spectrum <- read.csv(
+                                'Disentangling_the_avian_altricial_precocial_spectrum_evo14365_sup_0009_datasets2.csv'
+                                ) %>% select(Species_CooneyTaxonomy, chickPC1, chickPC2)
+elton_birds <- read.csv("elton_traits/BirdFuncDat.csv") %>% 
+                mutate(Scientific = gsub(' ', '_', Scientific)) %>%
+                left_join(altricial_precocial_spectrum, by = c('Scientific'='Species_CooneyTaxonomy')) %>%
+                select(Scientific, Nocturnal, starts_with('Diet'), starts_with('ForStrat'), chickPC1, chickPC2) %>% 
+                distinct() %>% select(-Diet_5Cat)
+
+# total table contains all information from above data
+total <- left_join(Chinesebirdsdata,elton_birds,by = c('Species'='Scientific'))
+```
+
+```{r}
+# use iucn_2021_binomial to merge elton additionally
+name <- filter(total, is.na(ForStrat_ground))$elton_bird_name 
+addition <- filter(elton_birds, Scientific %in% name) %>%
+            left_join(Chinesebirdsdata, by = c('Scientific'='elton_bird_name'), keep = TRUE) %>% select(-Scientific)
+total_addition <- filter(total, !(elton_bird_name %in% addition$elton_bird_name)) %>% rbind(addition) %>% 
+                    mutate(iucn_2021_binomial = gsub('_', ' ', iucn_2021_binomial))
+```
+
+## 提取中国鸟类数据集
+
+```{r}
+chinese_traits_origin <- filter(total_addition,iucn_2021_binomial %in% Chinese_species_distribution_grid$species,
+                                !(family %in% c('Procellariidae','Alcidae','Fregatidae','Gaviidae','Phaethontidae','Diomedeidae',
+                                               'Stercorariidae','Sulidae','Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae'))) # 筛选出中国陆生鸟类
+```
+
+```{r}
+filter(chinese_traits_origin,is.na(ForStrat_ground))$iucn_2021_binomial # species not have elton bird data 
+```
+
+```{r}
+setdiff(gsub('_',' ',Chinesebirdsdata$iucn_2021_binomial),unique(Chinese_species_distribution_grid$species)) %>% length()
+```
+
+```{r}
+setdiff(unique(Chinese_species_distribution_grid$species),gsub('_',' ',Chinesebirdsdata$iucn_2021_binomial))
+```
+
+```{r}
+chinese_traits_origin <- distinct(chinese_traits_origin, iucn_2021_binomial, .keep_all = TRUE)
+print(paste('鸟类物种数',chinese_traits_origin$iucn_2021_binomial %>% unique() %>% length())) # 包含了一些近年来的新种
+```
+
+# 清洗和重编码
+
+
+## 变量清洗和选取
+
+```{r}
+# summary(chinese_traits_origin)
+chinese_traits <- within(chinese_traits_origin, {
+    # recode
+    # transform categorical variables to factors
+    Maximum_longevity <- as.numeric(Maximum_longevity)
+    flocking_tendency <- as.factor(flocking_tendency)
+    Trophic.Niche <- as.factor(Trophic.Niche)
+    Nocturnal <- as.factor(Nocturnal)
+    nest_type <- as.factor(nest_type)
+    nest_site <- as.factor(nest_site)
+
+}) %>% dplyr::select(-c(family, Species, elton_bird_name, Diet_Source, Diet_Certainty, Diet_EnteredBy,
+                        ForStrat_Source, ForStrat_EnteredBy, ForStrat_SpecLevel)) %>%
+                          data.table::as.data.table()
+summary(chinese_traits)
+```
+
+## 填补数据集中的缺失值
+
+```{r}
+row.names(chinese_traits) <- gsub(' ','_',chinese_traits$iucn_2021_binomial) # species name as row names
+chinese_traits <- dplyr::select(chinese_traits,-c(iucn_2021_binomial))
+```
+
+### missMFA方法填补缺失值
+
+```{r}
+colnames(chinese_traits)
+```
+
+```{r}
+# reorder columns
+chinese_traits <- dplyr::select(chinese_traits,
+                                'female_size_mean', 'male_size_mean', 'female_mass_mean', 'male_mass_mean', 'egg_volume',
+                                'Maximum_longevity',
+                                'clutch_size_mean',
+                                starts_with('Diet_'),
+                                starts_with('ForStrat_'),
+                                'Hand_Wing.Index',
+                                'chickPC1', 'chickPC2',
+                                'Habitat_specificity',
+                                'flocking_tendency',
+                                'Trophic.Niche',
+                                'nest_site', 'nest_type',
+                                'Nocturnal')
+chinese_traits_missmfa <- missMDA::imputeMFA(chinese_traits,group = c(5, 1, 1, 10, 7, 1, 2, 1, 1, 1, 2, 1),
+                                             type = c(rep('s', 8), rep('n', 4)))
+summary(chinese_traits_missmfa$completeObs)
+row.names(chinese_traits_missmfa$completeObs) <- row.names(chinese_traits)
+```
+
+### 系统发育信号
+
+```{r}
+library(Rphylopars)
+phy <- ape::read.tree('../tree2.treefile.dated.tree_with_outgroup_inputed_distribution_species')
+matched <- picante::match.phylo.data(phy, chinese_traits_missmfa$completeObs)
+matched$data_sub <- dplyr::select(matched$data,
+                                  !any_of(c('flocking_tendency', 'Trophic.Niche', 'nest_site',
+                                             'nest_type', 'Nocturnal'))) %>% mutate_all(as.numeric)
+```
+
+```{r}
+p4d <- phylobase::phylo4d(matched$phy, matched$data_sub)
+p_lambda <- phylosignal::phyloSignal(p4d, methods = 'Lambda')
+```
+
+```{r}
+phylo_sig <- bind_cols(p_lambda$stat, p_lambda$pvalue)
+phylo_sig
+write.csv(phylo_sig, 'phylo_sig.csv')
+```
+
+### missForest 方法填补缺失值
+
+```{r}
+# # # fill NA by random forest
+# chinese_traits_imputed <- missForest::missForest(chinese_traits) # need to delete species name(character)
+# summary(chinese_traits_imputed$ximp)
+```
+
+# 数据降维
+
+
+## mFD space quality and dimension choose
+
+```{r}
+library(mFD)
+```
+
+```{r}
+fruits_traits_cat <- data.frame(trait_name = colnames(chinese_traits_missmfa$completeObs), 
+                               trait_type = c(rep('Q', 28), rep('N', 5)))
+```
+
+```{r}
+sp_dist_fruits <- mFD::funct.dist(
+  sp_tr         = chinese_traits_missmfa$completeObs,
+  tr_cat        = fruits_traits_cat,
+  metric        = "gower",
+  scale_euclid  = "scale_center",
+  ordinal_var   = "classic",
+  weight_type   = "equal",
+  stop_if_NA    = TRUE)
+```
+
+```{r}
+fspaces_quality_fruits <- mFD::quality.fspaces(
+  sp_dist             = sp_dist_fruits,
+  maxdim_pcoa         = 15,
+  deviation_weighting = "absolute",
+  fdist_scaling       = FALSE,
+  fdendro             = "average")
+```
+
+```{r}
+mFD::quality.fspaces.plot(
+  fspaces_quality            = fspaces_quality_fruits,
+  quality_metric             = "mad",
+  fspaces_plot               = c("tree_average", "pcoa_2d", "pcoa_3d", "pcoa_4d", "pcoa_5d", "pcoa_6d",
+                                 "pcoa_7d", "pcoa_8d", "pcoa_9d", "pcoa_10d"),
+  name_file                  = NULL,
+  range_dist                 = NULL,
+  range_dev                  = NULL,
+  range_qdev                 = NULL,
+  gradient_deviation         = c(neg = "darkblue", nul = "grey80", pos = "darkred"),
+  gradient_deviation_quality = c(low = "yellow", high = "red"),
+  x_lab                      = "Trait-based distance")
+ggsave('PCA/quality.fspaces.plot.tiff', height = 7, width = 28, units = 'in', dpi=300)
+```
+
+## MFA
+
+```{r}
+mfa <- FactoMineR::MFA(chinese_traits_missmfa$completeObs,
+                       group = c(5, 1, 1, 10, 7, 1, 2, 1, 1, 1, 2, 1),
+                       type = c(rep('s', 8), rep('n', 4)),
+                       name.group = c('intrinstic_features', 'Maximum_longevity', 'Clutch_size', 'Diets', 'ForStrat', 'Hand_Wing.Index',
+                                     'altricial_precocial', 'Habitat_specificity', 'flocking_trend', 'Trophic.Niche', 'Nest', 'Nocturnal'
+                                     ),
+                       num.group.sup = c(1, 12),
+                       ncp = 7)
+```
+
+```{r}
+library(factoextra)
+options(repr.plot.width=9, repr.plot.height=6)
+eig.val <- get_eigenvalue(mfa)
+fviz_screeplot(mfa, addlabels = TRUE, ncp=15)
+# ggsave('PCA/screeplot.tiff', height = 5, width = 7, units = 'in', dpi=300)
+```
+
+```{r}
+options(repr.plot.width=16,repr.plot.height=14)
+p1 <- fviz_mfa_var(mfa, "group", labelsize=3, xlim = c(-0.05,0.65)) # the correlation between groups and dimensions. red color = active groups of variables; green color = supplementary groups of variables
+p2 <- fviz_mfa_var(mfa, "quanti.var", palette = "jco", 
+             col.var.sup = "violet", repel = TRUE, 
+            geom = c("point", "text"), legend = "none",labelsize=3) # Correlation between quantitative variables and dimensions
+# Contributions to dimension 1
+p3 <- fviz_contrib(mfa, choice = "quanti.var", axes = 1, top = 10,
+             palette = "jco", labelsize=3, legend = c(0.85,0.8))
+# Contributions to dimension 2
+p4 <- fviz_contrib(mfa, choice = "quanti.var", axes = 2, top = 10,
+             palette = "jco", labelsize=3, legend = c(0.85,0.8))
+
+p1 <- ggpubr::annotate_figure(p1,fig.lab = "A",fig.lab.size = 18)
+p2 <- ggpubr::annotate_figure(p2,fig.lab = "B",fig.lab.size = 18)
+p3 <- ggpubr::annotate_figure(p3,fig.lab = "C",fig.lab.size = 18)
+p4 <- ggpubr::annotate_figure(p4,fig.lab = "D",fig.lab.size = 18)
+
+pca_dimensions_plot <- ggpubr::ggarrange(p1,p2,p3,p4,ncol = 2,nrow = 2)
+ggsave(filename = 'PCA/pca_dimensions.tiff',plot = pca_dimensions_plot,height = 9,width = 10,units = 'in',dpi=300)
+```
+
+```{r}
+# functional distribution of individual species. Individuals with similar profiles are close to each other on the factor map
+options(repr.plot.width=14,repr.plot.height=12)
+fviz_mfa_ind(mfa, col.ind = "cos2", 
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE,legend = c(0.85,0.85))
+# ggsave('PCA/species_space.tiff',height = 10,width = 10,units = 'in',dpi=300)
+```
+
+```{r}
+ind_mfa <- get_mfa_ind(mfa)$coord # 提取主成分
+head(ind_mfa)
+write.csv(ind_mfa,'ind_mfa.csv')
+```
+
+```{r}
+row.names(ind_mfa) <- gsub(' ','_',row.names(ind_mfa))
+Chinese_species_distribution_grid$species <- gsub(' ','_',Chinese_species_distribution_grid$species)
+```
+
+# 计算功能多样性
+
+
+## function
+
+```{r code_folding=c()}
+# FD_calculate <- function(grid_id,ind_pca,Chinese_species_distribution_grid_selected){
+#     grid_table <- subset(Chinese_species_distribution_grid_selected,rownames(Chinese_species_distribution_grid_selected)==grid_id)
+#     grid_table <- subset(grid_table,select=colnames(grid_table)[colSums(grid_table)!=0])
+#     species <- colnames(grid_table)
+#     ind_pca_table <- subset(ind_pca,rownames(ind_pca) %in% species)
+#     FD <- FD::dbFD(ind_pca_table,grid_table)
+#     result <- data.frame(grid_id,FD$FRic,FD$FEve,FD$FDiv,FD$FDis,FD$RaoQ)
+#     return(result)
+
+# }
+```
+
+## commands
+
+```{r}
+# # distribution data
+#long table to wide table
+Chinese_species_distribution_grid_selected <- filter(
+                                                    Chinese_species_distribution_grid,
+                                                    species %in% unique(row.names(ind_mfa))
+                                                    ) %>% 
+                                              dplyr::select(grid_id,species)
+Chinese_species_distribution_grid_selected$occurrence <- rep(1,nrow(Chinese_species_distribution_grid_selected))
+Chinese_species_distribution_grid_selected <- spread(Chinese_species_distribution_grid_selected,species,occurrence) 
+
+# to matrix
+Chinese_species_distribution_grid_selected[is.na(Chinese_species_distribution_grid_selected)] <- 0
+Chinese_species_distribution_grid_selected <- dplyr::select(Chinese_species_distribution_grid_selected, grid_id,row.names(ind_mfa)) %>% data.matrix()
+row.names(Chinese_species_distribution_grid_selected) <- as.character(Chinese_species_distribution_grid_selected[,'grid_id'])
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[,-1]
+nrow(Chinese_species_distribution_grid_selected) # sites that has mammal
+```
+
+```{r}
+nrow(ind_mfa)==ncol(Chinese_species_distribution_grid_selected)
+save(ind_mfa,Chinese_species_distribution_grid_selected,file = 'parafly/comm_data.RData')
+```
+
+```{r}
+# generated commands.txt
+grid_id <- row.names(Chinese_species_distribution_grid_selected)
+commands <- paste0('Rscript FD_calculate.R ',grid_id) %>% as.data.frame()
+write.table(commands,'parafly/commands.txt',sep = '\t',row.names = F,col.names = F,quote = F)
+```
+
+### read result
+
+```{r}
+# read Functional diversity calculate result from parafly/
+FD_total <- read.csv('parafly/result.csv',header = T)
+FD_total <- FD_total[seq(1,nrow(FD_total),2),] %>% dplyr::mutate_all(as.numeric)
+# write.csv(FD_total,'FD_bird_total.csv',row.names = F)
+```
+
+```{r}
+filter(FD_total,is.na(FD.FDiv))
+rerun_grid_id <- c(arrange(FD_total, desc(FD.FDiv))$grid_id[1:20],
+  arrange(FD_total, FD.FDiv)$grid_id[1:20])# need to re-run to deal with Outliers
+commands_rerun <- paste0('Rscript FD_calculate.R ',rerun_grid_id) %>% as.data.frame()
+write.table(commands_rerun,'parafly/commands_rerun.txt',sep = '\t',row.names = F,col.names = F,quote = F)
+```
+
+```{r}
+grid <- st_read("../chinese_terrestral//input//grid.shp")
+FD_total_map <- left_join(FD_total,grid,by = c('grid_id'='id'))
+```
+
+```{r}
+options(repr.plot.width=12, repr.plot.height=10)
+bird_FD <- ggplot()+
+    geom_sf(data = china_map_std,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
+    geom_sf(data = FD_total_map,aes(fill = FD.FRic,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_size_manual(values = c(0.8,0.6,0.5),guide = "none")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
+bird_FD
+ggsave('bird_FRic.tiff',height = 7,width = 7,units = 'in' ,dpi=300)
+bird_FV <- ggplot()+
+    geom_sf(data = china_map_std,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
+    geom_sf(data = filter(FD_total_map,!is.na(FD.FDiv)),aes(fill = FD.FDiv,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+     scale_size_manual(values = c(0.8,0.6,0.5),guide = "none")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
+bird_FV
+ggsave('bird_FDiv.tiff',height = 7,width = 7,units = 'in' ,dpi=300)
+bird_FE <- ggplot()+
+    geom_sf(data = china_map_std,aes(geometry = geometry),colour='black',fill='grey90',size=0.2)+
+    geom_sf(data = filter(FD_total_map,!is.na(FD.FEve)),aes(fill = FD.FEve,geometry = geometry),colour='white',alpha=0.8,size=0)+
+    scale_fill_distiller(palette = "Spectral")+ # fill 
+    scale_size_manual(values = c(0.8,0.6,0.5),guide = "none")+
+    theme_bw()+
+    theme(panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),
+          plot.title = element_text(hjust = 0.5),
+         legend.position = c(0.13,0.2),
+         legend.key.size = unit(18, "pt"),
+         legend.title=element_text(size=13),
+         legend.text=element_text(size=10))
+bird_FE
+ggsave('bird_FEve.tiff',height = 7,width = 7,units = 'in' ,dpi=300)
+```
+
+# fast-slow spectrum
+
+```{r}
+fast_slow_traits <- select(chinese_traits_missmfa$completeObs,
+                           'female_size_mean', 'male_size_mean', 'female_mass_mean', 'male_mass_mean',
+                          'Maximum_longevity', 'clutch_size_mean', 'chickPC1', 'chickPC2')
+pca <- FactoMineR::PCA(fast_slow_traits, ncp = 3)
+eig.val <- get_eigenvalue(pca)
+fviz_eig(pca)
+eig.val
+write.csv(eig.val, 'PCA/fast_slow_eig.val.csv', row.names = F)
+```
+
+```{r}
+fviz_pca_var(pca, col.var = "contrib",gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+            geom = c("arrow", "text"), labelsize=3, repel = TRUE) # Correlation between quantitative variables and dimensions
+# ggsave('PCA/pca_var.tiff',height = 6,width = 6,units = 'in',dpi=300)
+ggsave('PCA/pca_var.pdf',height = 6,width = 6,units = 'in')
+```
+
+```{r}
+ind_pca <- get_pca_ind(pca)$coord
+```
+
+```{r}
+fruits_tr_faxes <- mFD::traits.faxes.cor(
+  sp_tr          = fast_slow_traits,
+  sp_faxes_coord = ind_pca, 
+  plot           = TRUE)
+```
+
+```{r}
+# Print traits with significant effect:
+eta2_table <- fruits_tr_faxes$"tr_faxes_stat"[which(fruits_tr_faxes$"tr_faxes_stat"$"p.value" < 0.05), ]
+eta2_table
+write.csv(eta2_table, 'PCA/eta2_table.csv', row.names = F)
+```
+
+```{r}
+# Return plots:
+options(repr.plot.width=18,repr.plot.height=8)
+fruits_tr_faxes$"tr_faxes_plot"
+ggsave('PCA/tr_faxes_plot_fast_slow.tiff',height = 10,width = 24,units = 'in',dpi=300)
+```
+
+```{r}
+fast_slow_cwm <- FD::functcomp(ind_pca,Chinese_species_distribution_grid_selected) %>% dplyr::select(Dim.1,Dim.2,Dim.3) %>% 
+            tibble::rownames_to_column('id')
+
+fast_slow_cwm_table <- read.csv("../environment_variables.csv") %>% 
+                dplyr::select(id, x, y, prec, tavg, LGM_sat_velocity, LGM_dO_velocity, X50km_range, pop_10000BC_value) %>% 
+                as.data.frame() %>%  dplyr::mutate_at(vars(contains('id')), as.character) %>%
+                    left_join(fast_slow_cwm,by = 'id')
+```
+
+```{r}
+lm_eqn <- function(m){
+  eq <- substitute(italic(y) == a + b * italic(x)*","~~italic(r)^2~"="~r2~", p ="~p, 
+                   list(a = format(unname(coef(m)[1]), digits = 2),
+                        b = format(unname(coef(m)[2]), digits = 2),
+                        r2 = format(summary(m)$r.squared, digits = 3),
+                        p = format(summary(m)$coef[2,4], digits = 2)))
+  as.character(as.expression(eq));
+}
+```
+
+```{r}
+options(repr.plot.width=10,repr.plot.height=10)
+m1 <- lm(Dim.1~LGM_sat_velocity, fast_slow_cwm_table)
+f1 <- ggplot(data = fast_slow_cwm_table,aes(x = LGM_sat_velocity,y = Dim.1))+geom_point(color = '#3366CC')+
+            geom_smooth(method = "lm") + theme_bw()+ theme(panel.grid = element_blank(), axis.title.x = element_blank())+
+                  geom_text(x = 4.3, y = 1.4, label = lm_eqn(m1), size = 7,parse = TRUE)
+cwm_p1 <- ggpubr::annotate_figure(f1,fig.lab = "B",fig.lab.size = 18)
+
+m2 <- lm(Dim.2~LGM_sat_velocity, fast_slow_cwm_table)
+f2 <- ggplot(data = fast_slow_cwm_table,aes(x = LGM_sat_velocity,y = Dim.2))+geom_point(color = '#3366CC')+
+            geom_smooth(method = "lm") + theme_bw()+ theme(panel.grid = element_blank(), axis.title.x = element_blank())+
+                  geom_text(x = 4.3, y = 0.62, label = lm_eqn(m2), size = 7, parse = TRUE)
+cwm_p2 <- ggpubr::annotate_figure(f2,fig.lab = "C",fig.lab.size = 18)
+
+# m3 <- lm(Dim.3~LGM_sat_velocity, fast_slow_cwm_table)
+# f3 <- ggplot(data = fast_slow_cwm_table,aes(x = LGM_sat_velocity,y = Dim.3))+geom_point(color = '#3366CC')+
+#             geom_smooth(method = "lm") + theme_bw()+ theme(panel.grid = element_blank(), axis.title.x = element_blank())+
+#                   geom_text(x = 7, y = -0.2, label = lm_eqn(m3), size = 7, parse = TRUE)
+# cwm_p3 <- ggpubr::annotate_figure(f3,fig.lab = "C",fig.lab.size = 18)
+
+
+bird_cwm_fast_slow <- ggpubr::ggarrange(cwm_p1,cwm_p2, ncol = 1,nrow = 2)
+bird_cwm_fast_slow
+ggsave('PCA/cwm_lm_fast_slow.tiff',height = 12,width = 10,units = 'in',dpi=300)
+```
+
+# Functional rarity
+
+```{r}
+species_distribution_area <- group_by(Chinese_species_distribution_grid, species) %>% summarise(grid_area = n_distinct(grid_id))
+```
+
+```{r}
+iucn_level <- read.csv('../iucn_level_download.csv') %>% dplyr::select(-X) %>% mutate(name = gsub(' ', '_', name))
+```
+
+```{r}
+dist_matrix <- funrar::compute_dist_matrix(ind_mfa, metric = "euclidean")
+funrar <- funrar::funrar(Chinese_species_distribution_grid_selected, dist_matrix, rel_abund = FALSE)
+Distinctness <- as.data.frame(funrar$Di) %>% rownames_to_column(var = 'grid_id')
+Dinstinctness_long <- gather(Distinctness, key = 'species', value = 'distinctness', -grid_id) %>% filter(!is.na(distinctness))
+
+```
+
+```{r}
+thresold_area <- 30
+top_FRic_grid <- arrange(FD_total, desc(FD.FRic))[1:thresold_area, ] %>% pull(grid_id)
+top_FRic_species <- filter(Dinstinctness_long, grid_id %in% top_FRic_grid)  %>%
+                        left_join(iucn_level, by = c('species' = 'name')) %>% 
+                        left_join(species_distribution_area, by = c('species')) %>% 
+                        group_by(grid_id) %>% arrange(desc(distinctness)) %>%
+                        filter(grid_area < thresold_area & result.category %in% c('VU', 'EN', 'CR', 'EX', 'EW')) %>% slice(1:3)
+unique(top_FRic_species$species)
+```
+
+```{r}
+top_FRic_species
+```
+
+# save picture
+
+```{r}
+save(bird_richness, bird_FD, bird_FV, bird_FE, bird_cwm, bird_cwm_fast_slow,
+     file = "bird_FD.Rdata")
+```

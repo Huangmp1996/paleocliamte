@@ -1,0 +1,69 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.13.0
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
+---
+
+```{r}
+library(dplyr)
+library(sf)
+```
+
+```{r}
+chinese_wild_life_list <- read.csv('taxonomy.csv') %>% 
+                        select('scientificName','kingdomName','phylumName','className','orderName','familyName')
+Chinese_species_distribution_grid <- read.csv("../species_distribution_grid_filtered.csv",
+                                              header = F, col.names = c("class","species","grid_id","area")) %>% 
+                                    group_by(class,species,grid_id) %>% summarise(area = sum(area)) %>% ungroup()
+Chinese_species_distribution_grid <- left_join(Chinese_species_distribution_grid,chinese_wild_life_list,by = c('species' = 'scientificName'))
+Chinese_species_distribution_grid_selected <- filter(Chinese_species_distribution_grid,
+                                                     !(familyName %in% toupper(c('Procellariidae','Alcidae','Fregatidae','Gaviidae',
+                                                                       'Phaethontidae','Diomedeidae','Stercorariidae','Sulidae',
+                                                                       'Pelecanidae','Phalacrocoracidae','Laridae','Hydrobatidae', # marine bird
+                                                                       'Balaenopteridae','Delphinidae','Eschrichtiidae','Ziphiidae',
+                                                                       'Kogiidae','Dugongidae','Iniidae','Phocoenidae','Physeteridae',
+                                                                       'Phocidae','Otariidae','Sirenia')))) %>%  # marine mammal
+                                                dplyr::select('className','orderName','familyName','species') %>% as.data.frame() 
+
+```
+
+```{r}
+Chinese_species_distribution_grid_selected$species <- gsub(' ','_',Chinese_species_distribution_grid_selected$species)
+```
+
+```{r}
+Chinese_species_distribution_grid_selected <- Chinese_species_distribution_grid_selected[!duplicated(Chinese_species_distribution_grid_selected),]
+head(Chinese_species_distribution_grid_selected)
+write.table(Chinese_species_distribution_grid_selected,'taxonomy_.csv',sep = '_',row.names = F,quote = F,col.names = F)
+```
+
+```{r}
+# add lizards in Chinese213lizards_9_27 BUT NOT IN Chinese_species_distribution_grid_selected
+lizard <- sf::st_read('../../reptile/data_reptile/Chinese213lizards_9_27/Chinese_lizards_214_version20200927.shp') %>% st_set_geometry(NULL)
+lizard$Binomial <- gsub(' ','_',lizard$Binomial)
+lizard <- within(lizard,{
+    Group_ <- dplyr::recode(Group_,
+                  'Agamid' = 'Agamidae',
+                  'Scincid' = 'Scincidae',
+                  'Dibamid' = 'Dibamidae',
+                  'Lacertid' = 'Lacertidae',
+                  'Shinisaurid' = 'Shinisauridae ',
+                  'Varanid' = 'Varanidae' )
+})
+taxa <- filter(lizard,!(Binomial %in% Chinese_species_distribution_grid_selected$species)) %>% select(Group_,Binomial) %>% 
+    mutate(taxa = paste0('REPTILIA_SQUAMATA_',Group_,'_',Binomial)) %>% select(taxa)
+write.table(taxa,'./lizard_sup.txt',sep = '\t',row.names = F,quote = F,col.names = F)
+```
+
+```{r}
+head(lizard)
+unique(lizard$Group_)
+```

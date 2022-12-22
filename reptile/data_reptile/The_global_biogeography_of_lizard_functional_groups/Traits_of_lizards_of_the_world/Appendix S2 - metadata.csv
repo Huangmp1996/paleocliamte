@@ -1,0 +1,51 @@
+Field,explanation,units,species with data,missing data (# of species),percent completion (species with data of 6657 species in the whole dataset)
+Binomial," the binomial as spelled in the Reptile Database (Uetz, 2017)",none,6657,0,100%
+Genus," the generic name (i.e. the first part of the binomial) as spelled in the Reptile Database (Uetz, 2018)",none,6657,0,100%
+epithet," the specific epithet name (i.e. the seconf part of the binomial) as spelled in the Reptile Database (Uetz, 2018)",none,6657,0,100%
+valid (reptile database; February 2018),"Whether the species is listed in the database, or has been described since (""new"": 12 species)",none,6657,0,100%
+year of description,the year when the publication describing the species was published,years (AD),6657,0,100%
+country described from,the country (according to 2017 political boundaries) each species was described from,none,6510,147,98%
+main biogeographic Realm,"the realm (according to the WWF, 2006) a species’ range resides in",none,6656,1,100%
+Geographic Range,a short verbal description of the range (mostly countries inhabited). Range maps are available in Roll et al. (2017).,none,6655,2,100%
+known only from the only type?,"Whether the species maximum linear distribution extent is higher than 10km (‘wide ranging’), or not. Species with smaller ranges are divided into those known only from the description paper (“description”), or only from the holotype (“specimen”), or whether they were observed after they were first described (“locality; Meiri et al. 2018)",none,6655,2,100%
+Latitude centroid (from Roll et al. 2017)," Latitudinal centroids (from Roll et al., 2017 and newer data; in decimal degrees, rounded to 2 decimal points)",decimal degrees,6631,26,100%
+Longitude centroid (from Roll et al. 2017),"Longitudinal centroids (from Roll et al., 2017 and newer data; in decimal degrees, rounded to 2 decimal points)",decimal degrees,6631,26,100%
+insular endemic,whether species reside only only on islands (i.e. on landmasses smaller than Australia) - or not.,none,6656,1,100%
+maximum SVL,the maximum known snout-vent length (SVL) of individuals of the species,mm,6633,24,100%
+female SVL,mean female SVL (midpoints between the minimum and maximum values where means are not reported),mm,4452,2205,67%
+hatchling/neonate SVL,midpoint of hatchling or neonate SVL,mm,2112,4545,32%
+Leg development,"whether the species has four functioning legs (“four-legged”), reduced pair or two pairs of legs (“leg reduced”, usually meaning either that the species has fewer than 20 fingers or very short limbs relative to the expectation given its body length), only forelimbs or hind-limbs, or no limbs at all (no missing values).",none,6657,0,100%
+mass equation (Feldman et al. 2016 unless stated),"Mass equations – the source for the best equation I have for converting the species (log10) SVL (in mm) into (log 10) mass (in grams; Meiri, 2008, Feldman et al., 2016).",none,6657,0,100%
+intercept,the intercept for the above equation (the log mass when SVL is 1mm),log(10)mm to log(10) grams,6657,0,100%
+slope,allometric slope of the above equation,log(10)mm to log(10) grams,6657,0,100%
+Activity time,"whether a species is diurnal, nocturnal, or cathemera",none,5093,1564,77%
+Activity time: comments,"whether a species is diurnal, nocturnal, or cathemera",none,5093,1564,77%
+substrate,"whether a species is arboreal, fossorial or cryptic (i.e. almost always only found under objects such as rocks or logs, e.g., the skink Chalcides ocellatus) saxicolous, semi-aquatic, terrestrial– or a combination of some of those",none,5644,1013,85%
+substrate: comments,"whether a species is arboreal, fossorial or cryptic (i.e. almost always only found under objects such as rocks or logs, e.g., the skink Chalcides ocellatus) saxicolous, semi-aquatic, terrestrial– or a combination of some of those",none,5644,1013,85%
+diet,"whether a species is herbivorous (consumes mostly plants: >50% if quantitative data are available), carnivorous (eats only, or nearly only, animal matter, >90% if quantitative data are available), or omnivorous (eats mostly animal matter but with considerable percentage of plants: i.e. 10-50% plant matter, if quantitative data exist)",none,3359,3298,50%
+diet: comments,"whether a species is herbivorous (consumes mostly plants: >50% if quantitative data are available), carnivorous (eats only, or nearly only, animal matter, >90% if quantitative data are available), or omnivorous (eats mostly animal matter but with considerable percentage of plants: i.e. 10-50% plant matter, if quantitative data exist)",none,3359,3298,50%
+foraging mode,"whether the species is reported to be an ambush predator (“sit and wait”), an active forager (“Active foraging”) or uses a mixed strategy (“mixed”)",none,1070,5587,16%
+foraging mode (comments),"whether the species is reported to be an ambush predator (“sit and wait”), an active forager (“Active foraging”) or uses a mixed strategy (“mixed”)",none,1070,5587,16%
+reproductive mode,"whether a species is oviparous or viviparous, or whether there are reports on both parity modes (“mixed”). Ovoviviparous species are considered viviparous because the mother carries the young until full term is reached",none,4054,2603,61%
+clutch size,"minima, maxima and means (highest and lowest reported means) of clutch or litter sizes",eggs/neonates,3595,3062,54%
+smallest clutch,largest reported clutch or litter sizes,eggs/neonates,3595,3062,54%
+largest clutch,smallest reported clutch or litter sizes,eggs/neonates,3595,3062,54%
+smallest mean clutch size,lowest reported means clutch or litter sizes,eggs/neonates,2320,4337,35%
+largest mean clutch size,Highest reported means clutch or litter sizes,eggs/neonates,2320,4337,35%
+breeding age (months),the youngest and oldest reported ages of first breeding (in females if data are given separately for males and females),months,701,5956,11%
+youngest age at first breeding (months),the youngest reported ages of first breeding (in females if data are given separately for males and females),months,701,5956,11%
+oldest age at first breeding (months),the oldest reported ages of first breeding (in females if data are given separately for males and females),months,701,5956,11%
+mean body temperature of active animals in the wild,the highest and lowest reported mean body temperatures of active lizards recorded in the field,,1057,5600,16%
+minimum mean Tb,the lowest reported mean body temperatures of active lizards recorded in the field,°C,1057,5600,16%
+maximum mean Tb,the highest reported mean body temperatures of active lizards recorded in the field,°C,1057,5600,16%
+Family,The family the species belongs to according to the taxonomy of the reptile database (or a slightly more conservative one).,none,6657,0,100%
+Phylogeny,references of ublished accounts of the phylogeny of the species,none,4696,1961,71%
+phylogenetic data,"Data (usually genetic loci, genes or gene fragments), used to infer the phylogenies reported in the previous field",none,3275,3382,49%
+IUCN redlist assessment,"IUCN Assessment, as of January 2018. Data were converted to the Reptile Database taxonomy when needed. Missing values include 453 data deficient species",LC to EX,3183,3474,48%
+IUCN population trend,"Assessment and population trends, as of January 2018. Data were converted to the Reptile Database taxonomy when needed.","decreasing, increasing, or stable",1940,4717,29%
+Extant/Extinct,"whether the species is known or strongly suspected to be extinct (43 species; Slavenko et al. 2016), or whether (to the best of our knowledge, but see Meiri et al. 2018) it is still extant. Two species are considered extinct in the wild","extant, extinct in the wild, extinct",6657,0,100%
+Remarks, interesting natural history attributes ,none,NA,NA,NA
+"References (for all columns except those dealing with SVL data and phylogeny, and those derived directly from the Reptile Database).","References (for all columns except those dealing with SVL data and phylogeny, and those derived directly from the Reptile Database).",none,6489,168,97%
+"References: SVL of unsexed individuals, neonates and hatchlings","References for SVL data of unsexed individuals, neonates and hatchlings, or of pooled male and female data",none,5609,1048,84%
+References: SVL of females,"References for maximum, midpoint or mean SVL data of adult females",none,5012,1645,75%
+References: SVL of males,"References for maximum SVL data of adult males (used in som,e cases to determine the maximum species' SVL)",none,5018,1639,75%

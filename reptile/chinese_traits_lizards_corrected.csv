@@ -1,0 +1,217 @@
+﻿Family,Species,Name_in_Tonini_et_al_2016,Male_size_mm,Female_size_mm,Male_mass_g,Female_mass_g,Clutch_size,body_size,habitat_use,habitat_specialization,leg_development,reproductive_mode,activity_time
+Scincidae,Ablepharus alaicus,Asymblepharus alaicus,46,51.9,1.737801,2.570396,4,8.35,3,4,1,2,2
+Scincidae,Ablepharus deserti,Ablepharus deserti,47.3,54.2,1.905461,2.951209,4.5,NA,2,NA,1,1,2
+Agamidae,Acanthosaura armata,Acanthosaura armata,100.5,108,33.88442,42.65795,14.5,10.66,4,1,1,1,2
+Agamidae,Acanthosaura lepidogaster,Acanthosaura lepidogaster,78.5,82.25,15.84893,18.19701,15,9.94,4,4,1,1,2
+Agamidae,Acanthosaura tongbiguanensis,NA,109.45,105.27,44.66836,38.90451,NA,NA,2,NA,1,NA,2
+Gekkonidae,Alsophylax pipiens,Alsophylax pipiens,33.17,36,0.912011,1.122018,1,6.05,3,3,1,1,1
+Gekkonidae,Alsophylax przewalskii,Alsophylax przewalskii,32,31.5,0.812831,0.776247,1.5,5.62,3,1,1,1,1
+Gekkonidae,Altiphylax stoliczkai,Altiphylax stoliczkai,49,50,2.630268,2.818383,NA,NA,3,NA,1,1,1
+Scincidae,Ateuchosaurus chinensis,Ateuchosaurus chinensis,76.5,76.17,9.120108,8.912509,13,9.75,2,1,1,1,3
+Agamidae,Calotes emma,Calotes emma,100.5,104.83,33.88442,38.90451,7.5,10.31,4,1,1,1,2
+Agamidae,Calotes jerdoni,Calotes jerdoni,93,102,26.91535,35.48134,15,10.43,4,2,1,1,2
+Agamidae,Calotes medogensis,Calotes medogensis,NA,NA,NA,NA,14.33,8.76,4,2,1,1,2
+Agamidae,Calotes mystaceus,Calotes mystaceus,120.21,113.11,58.88437,48.97788,7,11.03,4,3,1,1,2
+Agamidae,Calotes paulus,Oriocalotes paulus,61.34,67.7,7.24436,10,NA,NA,NA,NA,1,1,2
+Agamidae,Calotes versicolor,Calotes versicolor,89.76,89.09,23.98833,23.44229,20,10.87,4,4,1,1,2
+Gekkonidae,Cyrtodactylus cayuensis,NA,66.8,71.6,6.309573,7.585776,4,NA,3,NA,1,NA,1
+Gekkonidae,Cyrtodactylus khasiensis,Cyrtodactylus khasiensis,69.63,77.73,7.079458,9.549926,2,NA,3,NA,1,1,1
+Gekkonidae,Cyrtodactylus tibetanus,Cyrtodactylus tibetanus,59.66,55.96,4.570882,3.801894,4,6.77,2,2,1,1,1
+Gekkonidae,Cyrtodactylus wayakonei,Cyrtodactylus wayakonei,82.95,79.25,11.48154,10,2,NA,3,NA,1,1,1
+Gekkonidae,Cyrtodactylus zhaoermii,Cyrtodactylus zhaoermii,53.92,58.9,3.467369,4.466836,10,NA,3,NA,1,NA,1
+Gekkonidae,Cyrtopodion medogense,Cyrtopodion medogense,42.5,46,NA,NA,2,NA,3,NA,1,NA,1
+Dibamidae,Dibamus bogadeki,Dibamus bogadeki,NA,146,NA,NA,10.36,7.74,2,2,2,1,1
+Dibamidae,Dibamus bourreti,Dibamus bourreti,157.25,132.87,7.079458,4.786301,10.36,7.74,2,1,2,1,1
+Agamidae,Diploderma batangense,Japalura batangensis,58.5,58.6,6.309573,6.309573,8,NA,3,NA,1,NA,NA
+Agamidae,Diploderma brevicaudum,Japalura brevicauda,48,62,3.388442,7.585776,NA,NA,2,NA,1,NA,2
+Agamidae,Diploderma brevipes,Japalura brevipes,NA,NA,NA,NA,6.18,8.64,4,1,1,1,2
+Agamidae,Diploderma chapaense,NA,62.15,72.38,7.585776,12.30269,4.3,NA,4,NA,1,1,2
+Agamidae,Diploderma drukdaypo,NA,50.67,54.32,4.073803,5.011872,NA,NA,3,NA,1,NA,NA
+Agamidae,Diploderma dymondi,Japalura dymondi,81.15,80.27,17.37801,16.98244,6.5,9.55,4,2,1,1,2
+Agamidae,Diploderma fasciatum,Japalura fasciata,74.6,66,13.48963,9.120108,7,9,4,4,1,1,2
+Agamidae,Diploderma flaviceps,Japalura flaviceps,75.9,68.25,14.12538,10.23293,6,9.14,4,3,1,1,2
+Agamidae,Diploderma grahami,Japalura grahami,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
+Agamidae,Diploderma iadinum,NA,61,62,7.24436,7.585776,NA,NA,3,NA,1,NA,NA
+Agamidae,Diploderma laeviventre,NA,70,68,10.96478,10,NA,NA,3,NA,1,NA,NA
+Agamidae,Diploderma luei,Japalura luei,71.5,68.18,11.74898,10.23293,5.5,8.7,4,1,1,1,2
+Agamidae,Diploderma makii,Japalura makii,78.7,71.6,15.84893,11.74898,6.18,9.07,4,1,1,1,2
+Agamidae,Diploderma menghaiense,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+Agamidae,Diploderma micangshanense,Japalura micangshanensis,67.33,64.19,9.772372,8.51138,6.5,8.59,4,1,1,1,2
+Agamidae,Diploderma polygonatum,Japalura polygonata,80.2,68.5,16.98244,10.23293,3.4,NA,4,NA,1,1,2
+Agamidae,Diploderma slowinskii,NA,95,80,28.18383,16.59587,NA,NA,2,NA,1,1,2
+Agamidae,Diploderma splendidum,Japalura splendida,81.55,80.37,17.78279,16.98244,7,9.61,4,2,1,1,2
+Agamidae,Diploderma swild,NA,66.57,66.5,9.549926,9.332543,NA,NA,4,NA,1,NA,2
+Agamidae,Diploderma swinhonis,Japalura swinhonis,82.7,74,18.62087,13.18257,5,9.18,4,2,1,1,2
+Agamidae,Diploderma varcoae,Japalura varcoae,60.85,63.7,7.079458,8.317638,8.5,9.11,4,1,1,1,2
+Agamidae,Diploderma vela,NA,62.1,59.32,7.585776,6.606934,NA,NA,3,NA,1,NA,2
+Agamidae,Diploderma yulongense,Japalura yulongensis,56,56,5.495409,5.495409,NA,NA,NA,NA,1,NA,NA
+Agamidae,Diploderma yunnanense,Japalura yunnanensis,63.91,64.27,8.317638,8.51138,8,9.22,4,1,1,1,2
+Agamidae,Diploderma zhaoermii,Japalura zhaoermii,76.75,69.45,14.79108,10.71519,NA,NA,NA,NA,1,1,2
+Anguidae,Dopasia gracilis,Dopasia gracilis,143,143,54.95409,54.95409,8.5,11.72,2,2,2,1,3
+Anguidae,Dopasia hainanensis,Dopasia hainanensis,NA,NA,NA,NA,21,11.12,2,1,2,1,2
+Anguidae,Dopasia harti,Dopasia harti,193.6,179,154.8817,117.4898,7,11.13,2,1,2,1,2
+Agamidae,Draco blanfordii,Draco blanfordii,102,93,35.48134,26.91535,4.7,8.65,4,1,1,1,2
+Agamidae,Draco maculatus,Draco maculatus,70,72.59,10.96478,12.30269,3.6,7.75,4,2,1,1,2
+Scincidae,Emoia atrocostata,Emoia atrocostata,NA,82.1,NA,NA,1.95,9.75,2,1,1,1,2
+Lacertidae,Eremias argus,Eremias argus,55.42,56.52,3.981072,4.265795,3.5,7.89,2,6,1,1,2
+Lacertidae,Eremias arguta,Eremias arguta,67.13,66.07,7.079458,6.76083,7,9.05,2,5,1,1,2
+Lacertidae,Eremias brenchleyi,Eremias brenchleyi,56.65,58.09,4.265795,4.570882,4,7.95,2,3,1,1,2
+Lacertidae,Eremias buechneri,NA,NA,NA,NA,NA,2.5,NA,NA,NA,1,2,2
+Lacertidae,Eremias grammica,Eremias grammica,60,58.5,5.011872,4.677351,3.5,9.05,2,3,1,1,2
+Lacertidae,Eremias kokshaaliensis,NA,NA,52,NA,NA,NA,NA,NA,NA,1,NA,2
+Lacertidae,Eremias multiocellata,Eremias multiocellata,57.34,55.84,4.466836,4.073803,3.4,8.31,2,3,1,2,2
+Lacertidae,Eremias przewalskii,Eremias przewalskii,71.5,73.2,8.51138,9.120108,3.55,8.99,2,4,1,2,2
+Lacertidae,Eremias quadrifrons,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+Lacertidae,Eremias roborowskii,NA,62.98,59.79,5.888437,5.011872,NA,NA,NA,NA,1,NA,NA
+Lacertidae,Eremias stummeri,NA,NA,53.1,NA,NA,3.5,NA,NA,NA,1,2,2
+Lacertidae,Eremias velox,Eremias velox,59.67,57.63,5.011872,4.466836,4,8.86,2,5,1,1,2
+Lacertidae,Eremias vermiculata,Eremias vermiculata,52.5,46.63,3.388442,2.398833,1.5,8.07,2,3,1,1,2
+Lacertidae,Eremias yarkandensis,NA,NA,53,NA,NA,4,7.59,3,4,1,2,2
+Scincidae,Eutropis cumingi,NA,NA,53.1,NA,NA,2,NA,2,NA,1,1,2
+Scincidae,Eutropis longicaudata,Eutropis longicaudata,101.25,108.84,22.38721,28.18383,6.9,10.83,3,2,1,1,2
+Scincidae,Eutropis multicarinata,Eutropis multicarinata,79.4,73.9,10.23293,8.128305,2.42,9.65,2,1,1,1,2
+Scincidae,Eutropis multifasciata,Eutropis multifasciata,106.27,108.91,26.30268,28.18383,6,10.83,2,4,1,2,2
+Gekkonidae,Gehyra mutilata,Gehyra mutilata,48,50.91,2.511886,2.951209,1.5,7.24,4,1,1,1,1
+Gekkonidae,Gekko adleri,Gekko adleri,69,69,6.91831,6.91831,NA,NA,3,NA,1,NA,3
+Gekkonidae,Gekko auriverrucosus,Gekko auriverrucosus,53.08,58.62,3.311311,4.365158,NA,NA,3,NA,1,1,1
+Gekkonidae,Gekko chinensis,Gekko chinensis,65.63,65.8,6.025596,6.025596,2,7.86,4,2,1,1,1
+Gekkonidae,Gekko gecko,Gekko gecko,165.2,135.36,75.85776,43.65158,2,10.65,4,2,1,1,1
+Gekkonidae,Gekko guishanicus,NA,60.67,62,4.786301,5.128614,NA,NA,3,NA,1,1,1
+Gekkonidae,Gekko hokouensis,Gekko hokouensis,58.79,61.15,4.365158,4.897788,2,8.02,4,3,1,1,1
+Gekkonidae,Gekko japonicus,Gekko japonicus,54.93,61.33,3.630781,4.897788,2,8.02,3,3,1,1,1
+Gekkonidae,Gekko kikuchii,Gekko kikuchii,NA,NA,NA,NA,2,7.86,4,3,1,1,1
+Gekkonidae,Gekko kwangsiensis,NA,66.03,65.5,6.025596,5.888437,3,NA,3,NA,1,1,1
+Gekkonidae,Gekko liboensis,NA,77.1,79.65,9.332543,10.23293,2,8.01,3,1,1,1,1
+Gekkonidae,Gekko melli,Gekko melli,NA,68.1,NA,NA,1.95,8.01,4,2,1,1,1
+Gekkonidae,Gekko reevesii,Gekko reevesii,124.24,128.95,34.67369,38.01894,1.95,9.99,4,2,1,1,1
+Gekkonidae,Gekko scabridus,Gekko scabridus,59.5,59,4.570882,4.466836,1.95,7.75,3,1,1,1,1
+Gekkonidae,Gekko similignum,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+Gekkonidae,Gekko subpalmatus,Gekko subpalmatus,59.89,63.09,4.677351,5.370318,2,7.92,4,2,1,1,1
+Gekkonidae,Gekko swinhonis,Gekko swinhonis,55.36,58.27,3.715352,4.265795,2,7.64,4,1,1,1,1
+Gekkonidae,Gekko taibaiensis,Gekko taibaiensis,60.5,61.5,4.786301,5.011872,1.95,7.49,3,1,1,1,1
+Gekkonidae,Gekko wenxianensis,Gekko wenxianensis,52.87,55,3.311311,3.630781,1.95,7.02,3,2,1,1,1
+Eublepharidae,Goniurosaurus araneus,NA,114.9,109.9,NA,NA,2,NA,3,NA,1,1,1
+Eublepharidae,Goniurosaurus bawanglingensis,Goniurosaurus bawanglingensis,92.28,89.77,15.84893,14.4544,2,9.92,3,1,1,1,1
+Eublepharidae,Goniurosaurus hainanensis,Goniurosaurus hainanensis,69,90.5,6.025596,14.79108,2,9.75,3,1,1,1,1
+Eublepharidae,Goniurosaurus kadoorieorum,NA,115.25,116,32.35937,33.11311,NA,NA,3,NA,1,NA,1
+Eublepharidae,Goniurosaurus kwangsiensis,NA,104,103.35,22.90868,22.90868,3,NA,3,NA,1,1,1
+Eublepharidae,Goniurosaurus liboensis,Goniurosaurus liboensis,105.5,106.75,23.98833,25.11886,2,10.11,3,1,1,1,1
+Eublepharidae,Goniurosaurus lichtenfelderi,Goniurosaurus lichtenfelderi,93,90.6,16.2181,14.79108,2,9.95,3,2,1,1,1
+Eublepharidae,Goniurosaurus luii,Goniurosaurus luii,NA,108.9,NA,NA,1.82,10.46,3,2,1,1,1
+Eublepharidae,Goniurosaurus sinensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+Eublepharidae,Goniurosaurus yingdeensis,Goniurosaurus yingdeensis,89.15,84.85,14.12538,12.02264,2,9.64,3,2,1,1,1
+Eublepharidae,Goniurosaurus zhelongi,Goniurosaurus zhelongi,87.1,92.2,12.8825,15.48817,NA,NA,3,NA,1,NA,1
+Eublepharidae,Goniurosaurus zhoui,NA,94.95,95.93,17.37801,17.78279,2,NA,3,NA,1,1,1
+Gekkonidae,Hemidactylus aquilonius,Hemidactylus aquilonius,51.3,NA,NA,NA,2,NA,3,NA,1,1,1
+Gekkonidae,Hemidactylus bowringii,Hemidactylus bowringii,49.96,48.35,2.818383,2.570396,2,7.9,4,2,1,1,1
+Gekkonidae,Hemidactylus brookii,Hemidactylus brookii,67,61,6.309573,4.897788,2,8.02,4,4,1,1,1
+Gekkonidae,Hemidactylus frenatus,Hemidactylus frenatus,51.24,47.57,3.019952,2.454709,2,7.37,4,5,1,1,1
+Gekkonidae,Hemidactylus garnotii,Hemidactylus garnotii,124,108,34.67369,23.44229,2,7.41,4,4,1,1,1
+Gekkonidae,Hemidactylus platyurus,Hemidactylus platyurus,NA,54.5,NA,NA,2,7.45,4,4,1,1,3
+Gekkonidae,Hemidactylus stejnegeri,NA,NA,54.1,NA,NA,1.5,7.04,4,3,1,1,3
+Gekkonidae,Hemiphyllodactylus changningensis,NA,39.23,41.11,1.44544,1.62181,2,NA,3,NA,1,1,1
+Gekkonidae,Hemiphyllodactylus dushanensis,NA,45.02,48.4,2.089296,2.570396,NA,NA,NA,NA,1,NA,NA
+Gekkonidae,Hemiphyllodactylus hongkongensis,NA,33,39.9,0.891251,1.513561,NA,NA,NA,NA,1,NA,NA
+Gekkonidae,Hemiphyllodactylus huishuiensis,NA,45,47.58,2.089296,2.454709,2,NA,3,NA,1,1,1
+Gekkonidae,Hemiphyllodactylus jinpingensis,NA,38.03,40.4,1.318257,1.548817,NA,NA,NA,NA,1,1,1
+Gekkonidae,Hemiphyllodactylus longlingensis,NA,38.08,43.14,1.318257,1.862087,NA,NA,NA,NA,1,1,1
+Gekkonidae,Hemiphyllodactylus typus,Hemiphyllodactylus typus,46.5,34.5,2.290868,1,2,NA,NA,NA,1,1,1
+Gekkonidae,Hemiphyllodactylus yunnanensis,Hemiphyllodactylus yunnanensis,40.7,42.96,1.584893,1.862087,1,6.77,4,2,1,1,1
+Agamidae,Japalura andersoniana,Japalura andersoniana,54.75,54.41,5.128614,5.011872,7,8.72,4,2,1,1,2
+Agamidae,Japalura tricarinata,Japalura tricarinata,47.57,54.8,3.311311,5.128614,NA,NA,4,NA,1,1,2
+Lacertidae,Lacerta agilis,Lacerta agilis,153.39,141.07,81.28305,63.09573,11.5,9.43,2,4,1,1,2
+Agamidae,Laudakia himalayana,Paralaudakia himalayana,217,156.5,371.5352,134.8963,3.5,NA,3,NA,1,1,NA
+Agamidae,Laudakia papenfussi,Laudakia papenfussi,124,119.5,64.56542,57.54399,6,NA,3,NA,1,1,2
+Agamidae,Laudakia sacra,Laudakia sacra,120.57,109,60.25596,43.65158,9.4,10.81,3,2,1,1,2
+Agamidae,Laudakia stoliczkana,Paralaudakia stoliczkana,114.73,117.29,51.28614,54.95409,7.5,10.81,3,3,1,1,2
+Agamidae,Laudakia tuberculata,Laudakia tuberculata,122,112.2,61.6595,47.86301,7,10.87,3,1,1,1,2
+Agamidae,Laudakia wui,Laudakia wui,123.71,103.92,64.56542,38.01894,9.4,11.17,3,2,1,1,2
+Agamidae,Leiolepis reevesii,Leiolepis reevesii,109.26,99.49,43.65158,33.11311,3.8,11.61,2,1,1,1,2
+Gekkonidae,Lepidodactylus lugubris,Lepidodactylus lugubris,39.7,38,1.479108,1.318257,2,6.61,4,1,1,1,1
+Gekkonidae,Lepidodactylus yami,Lepidodactylus yami,36.5,34.25,1.174898,1,2,6.08,4,1,1,1,1
+Scincidae,Lygosoma bowringii,Lygosoma bowringii,NA,49.7,NA,NA,3,NA,2,NA,1,1,2
+Gekkonidae,Mediodactylus russowii,Mediodactylus russowii,44.15,46.8,1.995262,2.344229,1.5,6.73,4,3,1,1,3
+Agamidae,Phrynocephalus alpherakii,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+Agamidae,Phrynocephalus axillaris,Phrynocephalus axillaris,52.8,49.2,4.570882,3.715352,2.6,8.2,2,1,1,1,2
+Agamidae,Phrynocephalus erythrurus,Phrynocephalus erythrurus,54.5,58,5.128614,6.16595,2.4,7.83,2,1,1,2,2
+Agamidae,Phrynocephalus forsythii,Phrynocephalus forsythii,47.1,54,3.235937,4.897788,4.8,8.06,2,1,1,2,2
+Agamidae,Phrynocephalus frontalis,NA,40.03,43.03,1.949845,2.454709,3.2,7.83,2,2,1,1,2
+Agamidae,Phrynocephalus grumgrzimailoi,NA,55.31,54.89,5.370318,5.248075,3.7,8.2,2,3,1,1,2
+Agamidae,Phrynocephalus helioscopus,Phrynocephalus helioscopus,46.96,47.86,3.162278,3.388442,4.5,8.51,2,2,1,1,2
+Agamidae,Phrynocephalus melanurus,Phrynocephalus guttatus,46.4,49,3.090295,3.630781,3.2,8.28,2,1,1,1,2
+Agamidae,Phrynocephalus mystaceus,Phrynocephalus mystaceus,74.62,67.83,13.48963,10,5,10.25,2,1,1,1,2
+Agamidae,Phrynocephalus nasatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
+Agamidae,Phrynocephalus przewalskii,Phrynocephalus przewalskii,54.85,52.1,5.128614,4.365158,3.3,9.29,2,4,1,1,2
+Agamidae,Phrynocephalus putjatai,Phrynocephalus putjatai,58.1,61.7,6.16595,7.413102,3.2,9.07,2,3,1,2,2
+Agamidae,Phrynocephalus theobaldi,Phrynocephalus theobaldi,48.1,53.7,3.467369,4.897788,2.4,8.2,2,3,1,2,2
+Agamidae,Phrynocephalus versicolor,Phrynocephalus versicolor,51.7,52.2,4.265795,4.466836,3.8,8.37,2,4,1,1,2
+Agamidae,Phrynocephalus vlangalii,Phrynocephalus vlangalii,58.47,58.53,6.309573,6.309573,4,9.03,2,3,1,2,2
+Agamidae,Physignathus cocincinus,Physignathus cocincinus,190.25,168.33,245.4709,169.8244,10.4,12.46,1,2,1,1,2
+Scincidae,Plestiodon capito,Plestiodon capito,67,69.95,5.888437,6.76083,6,9.02,2,2,1,1,2
+Scincidae,Plestiodon chinensis,Plestiodon chinensis,100.45,96.91,21.87762,19.49845,19.3,10.69,2,4,1,1,2
+Scincidae,Plestiodon elegans,Plestiodon elegans,75.91,71.21,8.912509,7.24436,6.4,9.9,2,4,1,1,2
+Scincidae,Plestiodon leucostictus,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+Scincidae,Plestiodon liui,Plestiodon liui,61,66.8,4.365158,5.888437,2,8.44,2,4,1,1,2
+NA,Plestiodon popei,NA,NA,NA,NA,NA,2,8.93,2,1,1,1,2
+Scincidae,Plestiodon quadrilineatus,Plestiodon quadrilineatus,72,80,7.413102,10.47129,2,9.02,2,1,1,1,2
+Scincidae,Plestiodon takarai,NA,72,70.12,7.413102,6.91831,6.5,NA,3,NA,1,1,2
+Scincidae,Plestiodon tamdaoensis,Plestiodon tamdaoensis,122.5,129,41.68694,48.97788,16.4,10.57,2,1,1,1,2
+Scincidae,Plestiodon tunganus,Plestiodon tunganus,69.55,64.5,6.606934,5.248075,11,9.06,2,1,1,1,2
+Agamidae,Pseudocalotes austeniana,Pseudocalotes austeniana,86.6,87.45,21.37962,21.87762,8,NA,4,NA,1,1,2
+Agamidae,Pseudocalotes bapoensis,NA,111.25,125,46.77351,66.06934,11,NA,NA,NA,1,1,NA
+Agamidae,Pseudocalotes brevipes,Pseudocalotes brevipes,77.5,54.8,15.13561,5.128614,3,8.82,4,1,1,1,2
+Agamidae,Pseudocalotes kakhienensis,Pseudocalotes kakhienensis,104,103.5,38.01894,37.15352,5,10.36,4,1,1,1,2
+Agamidae,Pseudocalotes kingdonwardi,Pseudocalotes kingdonwardi,98,100,31.62278,33.11311,4,9.71,4,2,1,1,2
+Agamidae,Pseudocalotes microlepis,Pseudocalotes microlepis,68.7,66,10.47129,9.120108,4,9.11,4,2,1,1,2
+Gekkonidae,Ptychozoon bannaense,NA,87.5,83.2,13.18257,11.48154,NA,NA,4,NA,1,NA,1
+Agamidae,Ptyctolaemus gularis,Ptyctolaemus gularis,87.4,77.53,21.87762,15.13561,10.4,9.19,4,1,1,1,3
+Scincidae,Scincella barbouri,Scincella barbouri,NA,NA,NA,NA,5.2,7.38,2,1,1,1,2
+Scincidae,Scincella doriae,Scincella doriae,47.4,50,1.949845,2.290868,4,8.04,2,1,1,1,1
+Scincidae,Scincella formosensis,NA,NA,39.3,NA,NA,8,7.33,2,1,1,1,2
+Scincidae,Scincella himalayanus,Asymblepharus himalayanus,NA,NA,NA,NA,2.75,8.62,2,1,1,2,2
+Scincidae,Scincella huanrenensis,Scincella huanrenensis,49.67,54.8,2.238721,3.090295,4.56,8.21,2,1,1,2,2
+Scincidae,Scincella ladacensis,Asymblepharus ladacensis,46.4,45.9,1.819701,1.737801,2.5,8.62,3,4,1,2,2
+Scincidae,Scincella modesta,Scincella modesta,42.55,47.05,1.348963,1.905461,9.1,8.43,2,1,1,1,2
+Scincidae,Scincella monticola,Scincella monticola,52.2,52,2.630268,2.630268,6,8.04,2,3,1,1,2
+Scincidae,Scincella potanini,Scincella potanini,51.95,59.3,2.570396,3.981072,4.9,7.13,2,4,1,2,2
+Scincidae,Scincella przewalskii,Scincella przewalskii,NA,NA,NA,NA,4.9,7.02,2,1,1,2,2
+Scincidae,Scincella reevesii,Scincella reevesii,41.33,41.25,1.230269,1.230269,4.8,8.1,2,2,1,2,2
+Scincidae,Scincella schmidti,NA,NA,NA,NA,NA,2,7.29,2,1,1,2,2
+Scincidae,Scincella sikimmensis,NA,NA,NA,NA,NA,5,7.86,2,1,1,1,2
+Scincidae,Scincella tsinlingensis,Scincella tsinlingensis,49.75,59.42,2.238721,3.981072,18,8.59,2,1,1,2,2
+Shinisauridae,Shinisaurus crocodilurus,Shinisaurus crocodilurus,153.17,134.11,64.56542,42.65795,6.3,11.01,1,2,1,2,2
+Scincidae,Sphenomorphus courcyanum,NA,NA,NA,NA,NA,5.22,7.09,2,2,1,1,2
+Scincidae,Sphenomorphus incognitus,Sphenomorphus incognitus,80.08,74,10.47129,8.128305,4,10.04,1,2,1,1,2
+Scincidae,Sphenomorphus indicus,Sphenomorphus indicus,73.75,77.51,8.128305,9.549926,9,9.89,2,2,1,2,2
+Scincidae,Sphenomorphus maculatus,Sphenomorphus maculatus,53,59.1,2.754229,3.981072,6,8.59,2,2,1,1,2
+Scincidae,Sphenomorphus taiwanensis,Sphenomorphus taiwanensis,52.8,53.8,2.754229,2.884032,5.22,8.53,3,2,1,1,2
+Scincidae,Sphenomorphus tonkinensis,Sphenomorphus tonkinensis,42.3,40,1.348963,1.122018,3.5,7.66,2,3,1,1,2
+Lacertidae,Takydromus albomaculosus,NA,65.5,70.9,6.606934,8.317638,NA,NA,NA,NA,1,NA,2
+Lacertidae,Takydromus amurensis,Takydromus amurensis,61.3,61.39,5.370318,5.370318,8,8.39,2,2,1,1,2
+Lacertidae,Takydromus formosanus,Takydromus formosanus,40.56,44.27,1.584893,2.041738,2,7.73,2,1,1,1,2
+Lacertidae,Takydromus hsuehshanensis,Takydromus hsuehshanensis,60.5,61.2,5.128614,5.370318,3.2,8.08,2,2,1,1,2
+Lacertidae,Takydromus intermedius,Takydromus intermedius,47.38,50.82,2.511886,3.090295,3,7.64,4,2,1,1,2
+Lacertidae,Takydromus kuehnei,Takydromus kuehnei,52.93,51.3,3.467369,3.162278,1.8,7.8,4,2,1,1,2
+Lacertidae,Takydromus luyeanus,Takydromus luyeanus,49.3,48.5,2.818383,2.691535,2.5,7.24,2,2,1,1,2
+Lacertidae,Takydromus sauteri,Takydromus sauteri,73.7,76.5,9.332543,10.47129,2,8.26,4,2,1,1,2
+Lacertidae,Takydromus septentrionalis,Takydromus septentrionalis,60.24,65.47,5.128614,6.606934,5,8.39,4,3,1,1,2
+Lacertidae,Takydromus sexlineatus,Takydromus sexlineatus,48.5,48.5,2.691535,2.691535,2.2,7.99,4,3,1,1,2
+Lacertidae,Takydromus stejnegeri,Takydromus stejnegeri,NA,54.4,NA,NA,2.2,7.64,2,2,1,1,2
+Lacertidae,Takydromus sylvaticus,Takydromus sylvaticus,47.97,54.58,2.630268,3.801894,3,7.44,4,3,1,1,2
+Lacertidae,Takydromus viridipunctatus,Takydromus viridipunctatus,51.54,51.02,3.235937,3.162278,2.5,7.51,2,1,1,1,2
+Lacertidae,Takydromus wolteri,Takydromus wolteri,52.13,55.86,3.311311,4.073803,7.2,7.82,4,3,1,1,2
+Lacertidae,Takydromus yunkaiensis,NA,46.9,51.7,2.454709,3.235937,NA,NA,NA,NA,1,NA,NA
+Gekkonidae,Tenuidactylus dadunensis,Tenuidactylus dadunensis,45.2,42.5,2.137962,1.778279,2,NA,NA,NA,1,1,1
+Gekkonidae,Tenuidactylus elongatus,Tenuidactylus elongatus,55,57,3.630781,4.073803,2,6.91,2,2,1,1,1
+Sphaerodactylidae,Teratoscincus przewalskii,Teratoscincus przewalskii,75.8,75,10.47129,10.23293,2,9.03,2,2,1,1,1
+Sphaerodactylidae,Teratoscincus roborowskii,Teratoscincus roborowskii,82.14,81.54,13.48963,13.18257,2,8.97,2,2,1,1,1
+Sphaerodactylidae,Teratoscincus scincus,Teratoscincus scincus,NA,77.2,NA,NA,2,9.66,2,2,1,1,1
+Agamidae,Trapelus sanguinolentus,Trapelus sanguinolentus,97.84,94,30.90295,27.54229,11,11.57,4,3,1,1,2
+Scincidae,Tropidophorus berdmorei,Tropidophorus berdmorei,97,107.5,19.49845,26.91535,7,9.65,1,2,1,2,2
+Scincidae,Tropidophorus guangxiensis,Tropidophorus guangxiensis,59.87,65.47,4.073803,5.495409,5.3,8.3,1,3,1,2,2
+Scincidae,Tropidophorus hainanus,Tropidophorus hainanus,43.42,50.63,1.44544,2.398833,4,7.98,1,2,1,1,2
+Scincidae,Tropidophorus sinicus,Tropidophorus sinicus,71,62.35,7.079458,4.677351,4.5,8.64,1,2,1,2,1
+Varanidae,Varanus irrawadicus,Varanus bengalensis,NA,NA,NA,NA,20.2,16.7,2,6,1,1,2
+Varanidae,Varanus nebulosus,NA,NA,523,NA,NA,17,NA,4,NA,1,1,2
+Varanidae,Varanus salvator,Varanus salvator,NA,499.5,NA,NA,10.65,17.55,1,4,1,1,2
+Lacertidae,Zootoca vivipara,Zootoca vivipara,121,127.66,39.81072,46.77351,6.4,8.28,2,5,1,2,2
