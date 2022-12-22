@@ -1,9 +1,0 @@
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MW020356.1	373	Naja atra voucher KIZ07215 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK065644.1	497	Naja atra voucher CHS781 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK065521.1	497	Naja atra voucher CHS607 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK065330.1	497	Naja atra voucher CHS030 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK065329.1	497	Naja atra voucher CHS029 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	KX694544.1	461	Naja atra voucher ROM_30851 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EU921898.1	17214	Naja atra voucher CIB093931 mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EU913475.1	17216	Naja atra voucher CIB093930 mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	NC_011389.1	17216	Naja atra mitochondrion, complete genome

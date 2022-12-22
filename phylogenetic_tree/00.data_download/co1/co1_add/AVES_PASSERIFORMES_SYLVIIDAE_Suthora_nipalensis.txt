@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MK598985.1	652	Suthora nipalensis voucher SR2016-462 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	MH265920.1	633	Paradoxornis nipalensis craddocki voucher NRM 20046746 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	NC_028437.1	16996	Paradoxornis nipalensis voucher PNIP20150817V2 mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	KT598467.1	16996	Paradoxornis nipalensis voucher PNIP20150817V2 mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_nipalensis	JQ175670.1	652	Paradoxornis nipalensis voucher USNM:Birds:631818 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

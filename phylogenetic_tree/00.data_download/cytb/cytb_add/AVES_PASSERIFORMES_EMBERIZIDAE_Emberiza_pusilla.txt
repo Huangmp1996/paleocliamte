@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	EF529946.1	1143	Emberiza pusilla cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	AF284083.1	1225	Emberiza pusilla NADH dehydrogenase subunit 5 (ND5) and cytochrome b (CYTB) genes, partial cds; mitochondrial genes for mitochondrial products
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	EU571275.1	1076	Emberiza pusilla cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	AF053699.1	506	Emberiza pusilla NADH dehydrogenase subunit 5 (nd5) and cytochrome b (cytb) genes, mitochondrial genes encoding mitochondrial proteins, partial cds
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	KP877759.1	957	Emberiza pusilla isolate MAR4898 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	NC_021408.1	16790	Emberiza pusilla mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	KC407232.1	16790	Emberiza pusilla mitochondrion, complete genome
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_pusilla	EU325740.1	1076	Emberiza pusilla cytochrome b gene, partial cds; mitochondrial

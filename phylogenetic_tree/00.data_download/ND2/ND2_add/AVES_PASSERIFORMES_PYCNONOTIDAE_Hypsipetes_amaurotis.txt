@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PYCNONOTIDAE_Hypsipetes_amaurotis	EU166962.1	2593	Hypsipetes amaurotis NADH dehydrogenase subunit 1 gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Hypsipetes_amaurotis	GU112667.1	1041	Microscelis amaurotis batanensis voucher KU17926 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Hypsipetes_amaurotis	GU112666.1	1041	Microscelis amaurotis batanensis voucher KU17882 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Hypsipetes_amaurotis	GU112665.1	1041	Microscelis amaurotis fugensis voucher KU15261 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Hypsipetes_amaurotis	GU112664.1	1041	Microscelis amaurotis fugensis voucher KU10971 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Hypsipetes_amaurotis	GU112663.1	1041	Microscelis amaurotis batanensis voucher KU10907 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Hypsipetes_amaurotis	GU112662.1	1041	Microscelis amaurotis camiguinensis voucher KU10888 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Hypsipetes_amaurotis	DQ402222.1	1041	Microscelis amaurotis NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

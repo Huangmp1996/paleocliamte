@@ -1,6 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	JN703250.1	695	Anas formosa isolate 46_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	JN703249.1	695	Anas formosa isolate 45_R1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	FJ808623.1	677	Anas formosa voucher KU08004 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	EF515741.1	686	Anas formosa voucher KRIBB1885 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	NC_015482.1	16594	Anas formosa mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	JF730435.1	16594	Anas formosa mitochondrion, complete genome

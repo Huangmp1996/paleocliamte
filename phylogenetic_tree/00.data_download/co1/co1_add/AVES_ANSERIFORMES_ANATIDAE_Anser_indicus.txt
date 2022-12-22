@@ -1,4 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Anser_indicus	GU179002.1	1551	Anser indicus cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Anser_indicus	GU571246.1	724	Anser indicus voucher NHMO-BC396 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Anser_indicus	NC_025654.1	16731	Anser indicus mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anser_indicus	KM455570.1	16731	Anser indicus mitochondrion, complete genome

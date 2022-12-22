@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_PARIDAE_Lophophanes_dichrous	KX388477.1	16799	Lophophanes dichrous isolate 6117 mitochondrion, complete genome
-AVES_PASSERIFORMES_PARIDAE_Lophophanes_dichrous	HM185368.1	948	Lophophanes dichrous voucher IOZ6117 cytochrome b (cyt b) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PARIDAE_Lophophanes_dichrous	HM185367.1	948	Lophophanes dichrous voucher IOZ2489 cytochrome b (cyt b) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PARIDAE_Lophophanes_dichrous	HM185314.1	1201	Lophophanes dichrous voucher IOZ2489 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PARIDAE_Lophophanes_dichrous	HM185313.1	1201	Lophophanes dichrous voucher IOZ6117 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

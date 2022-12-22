@@ -1,5 +1,0 @@
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	MW692165.1	594	Paramesotriton deloustali voucher HU2013101 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	NC_037713.1	16391	Paramesotriton deloustali voucher CAU1507046 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	KY744236.1	16391	Paramesotriton deloustali voucher CAU1507046 mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	DQ517802.1	2702	Paramesotriton deloustali voucher TP23630 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Paramesotriton_deloustali	EU880327.1	16335	Paramesotriton deloustali mitochondrion, partial genome

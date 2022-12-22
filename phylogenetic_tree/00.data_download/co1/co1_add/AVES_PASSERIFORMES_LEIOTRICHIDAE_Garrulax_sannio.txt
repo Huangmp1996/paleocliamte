@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_sannio	MH265844.1	633	Garrulax sannio sannio voucher MNHN 16-5J cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_sannio	EU447043.1	615	Garrulax sannio comis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_sannio	EU447042.1	615	Garrulax sannio oblectans cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_sannio	EU447041.1	615	Garrulax sannio sannio cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_sannio	HM140293.1	594	Garrulax sannio isolate 2622 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_sannio	KR869824.1	17840	Garrulax sannio mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_sannio	NC_028186.1	17848	Garrulax sannio voucher GSAN20150704V3 mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_sannio	KT373847.1	17848	Garrulax sannio voucher GSAN20150704V3 mitochondrion, complete genome

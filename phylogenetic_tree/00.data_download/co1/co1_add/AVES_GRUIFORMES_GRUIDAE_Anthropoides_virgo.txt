@@ -1,7 +1,0 @@
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	KX012862.1	623	Anthropoides virgo voucher NZG:BWP36417 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	KJ862167.1	648	Anthropoides virgo voucher N28 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	KJ862166.1	648	Anthropoides virgo voucher N27 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	KC439304.1	674	Anthropoides virgo cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	NC_020573.1	16541	Anthropoides virgo mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	FJ769845.1	16541	Grus virgo mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	JQ174043.1	652	Grus virgo voucher USNM:Birds:622461 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

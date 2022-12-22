@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Odorrana_schmackeri	KX233866.1	16783	Odorrana schmackeri mitochondrion, partial genome
-AMPHIBIA_ANURA_RANIDAE_Odorrana_schmackeri	KP732086.1	18610	Odorrana schmackeri mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Odorrana_schmackeri	NC_027827.1	18302	Odorrana schmackeri mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Odorrana_schmackeri	KJ149452.1	18302	Odorrana schmackeri mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Odorrana_schmackeri	KF771337.1	1483	Odorrana schmackeri NADH dehydrogenase subunit 2 (nad2) gene, partial cds; tRNA-Trp (trnW), tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial

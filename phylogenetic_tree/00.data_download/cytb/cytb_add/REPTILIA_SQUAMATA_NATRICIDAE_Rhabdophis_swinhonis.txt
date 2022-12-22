@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_swinhonis	MK530546.1	1057	Rhabdophis swinhonis isolate GP2551 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_swinhonis	MK201576.1	585	Rhabdophis swinhonis voucher CHS861 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_swinhonis	LC325334.1	973	Rhabdophis swinhonis HT717 mitochondrial MT-CYB gene for cytochrome b, partial cds
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_swinhonis	LC325303.1	1034	Rhabdophis swinhonis HT021 mitochondrial MT-CYB gene for cytochrome b, partial cds
-REPTILIA_SQUAMATA_NATRICIDAE_Rhabdophis_swinhonis	AB842176.1	990	Rhabdophis swinhonis mitochondrial cytb gene for cytochrome b, partial cds

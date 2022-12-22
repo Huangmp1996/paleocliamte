@@ -1,7 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	AB287354.1	957	Vespertilio sinensis mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds, specimen_voucher: KK158 (Kuniko Kawai private collection)
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	AB287353.1	957	Vespertilio sinensis mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds, specimen_voucher: KK157 (Kuniko Kawai private collection)
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	KM092493.1	17146	Vespertilio sinensis mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	NC_024558.1	16971	Vespertilio sinensis mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	KJ081440.1	16971	Vespertilio sinensis mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	FR848582.1	798	Vespertilio sinensis partial ND1 gene for NADH dehydrogenase subunit 1, isolate Vsin5879
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Vespertilio_sinensis	AB079823.1	957	Vespertilio superans mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

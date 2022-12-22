@@ -1,4 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	MT410934.1	16640	Aythya fuligula mitochondrion, partial genome
-AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	EU585687.1	1041	Aythya fuligula voucher IPMB 1 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	NC_024595.1	16616	Aythya fuligula voucher JS04 mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Aythya_fuligula	KJ722069.1	16616	Aythya fuligula voucher JS04 mitochondrion, complete genome

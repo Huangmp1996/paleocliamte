@@ -1,6 +1,0 @@
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	NC_021477.1	18554	Bombina lichuanensis voucher BL3589 mitochondrion, complete genome
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	JX893183.1	18554	Bombina lichuanensis voucher BL3589 mitochondrion, complete genome
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531341.1	1952	Bombina lichuanensis voucher IZCAS:H30065 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	EU531334.1	1951	Bombina lichuanensis voucher IZCAS:H30053 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	DQ925767.1	563	Bombina lichuanensis isolate LC2-10 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_BOMBINATORIDAE_Bombina_lichuanensis	DQ925766.1	610	Bombina lichuanensis isolate LC1-9 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,5 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	MT410898.1	16241	Micromys minutus isolate DM59c mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	HM217483.1	655	Micromys minutus voucher BZ07 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	HM217482.1	652	Micromys minutus voucher BZ02 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	NC_027932.1	16232	Micromys minutus mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	KP399599.1	16232	Micromys minutus mitochondrion, complete genome

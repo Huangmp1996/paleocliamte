@@ -1,8 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	MH645661.1	718	Ardea alba cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	AF193822.1	1041	Ardea alba cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804864.1	400	Ardea alba isolate Ardalb8 cytochrome b gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804863.1	442	Ardea alba isolate Ardalb3 cytochrome b gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804862.1	442	Ardea alba isolate Ardalb2 cytochrome b gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	HM804861.1	442	Ardea alba isolate Ardalb1 cytochrome b gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	GU346975.1	767	Ardea alba isolate Aa3533 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Ardea_alba	AB600556.1	477	Ardea alba mitochondrial cytb gene for cytochrome b, partial cds, isolate: k85

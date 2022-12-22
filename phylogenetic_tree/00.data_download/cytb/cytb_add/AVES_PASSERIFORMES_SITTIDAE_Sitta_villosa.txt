@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT472765.1	1132	Sitta villosa isolate MAR6495 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT472751.1	780	Sitta villosa isolate MAR8807 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT472746.1	780	Sitta villosa isolate MAR8803 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT472743.1	780	Sitta villosa isolate MAR4963 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT472741.1	1139	Sitta villosa isolate MAR362 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT472740.1	1139	Sitta villosa isolate MAR358 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	NC_051513.1	16816	Sitta villosa mitochondrion, complete genome
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	MT444149.1	16816	Sitta villosa mitochondrion, complete genome
-AVES_PASSERIFORMES_SITTIDAE_Sitta_villosa	U63403.1	491	Sitta villosa cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds

@@ -1,6 +1,0 @@
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MZ407976.1	630	Paradoxurus hermaphroditus voucher FBRC_ZSI_DNA893 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MW257219.1	16666	Paradoxurus hermaphroditus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	NC_039591.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	MG200264.1	16706	Paradoxurus hermaphroditus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	JF444385.1	421	Paradoxurus hermaphroditus voucher ROM:101981 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_VIVERRIDAE_Paradoxurus_hermaphroditus	KC894743.1	1480	Paradoxurus hermaphroditus cytochrome c oxidase subunit I gene, partial cds; mitochondrial

@@ -1,5 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_fasciata	AY987120.1	1041	Hieraaetus fasciatus fasciatus voucher UMMZ 78294 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_fasciata	AY987119.1	1041	Hieraaetus fasciatus fasciatus voucher UMMZ 78295 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_fasciata	AY987118.1	1041	Hieraaetus fasciatus fasciatus voucher UMMZ 224053 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_fasciata	NC_029188.1	18513	Hieraaetus fasciatus voucher AHNU:A0318 mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_fasciata	KP329567.1	18513	Hieraaetus fasciatus voucher AHNU:A0318 mitochondrion, complete genome

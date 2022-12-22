@@ -1,5 +1,0 @@
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_pusilla	MN547458.1	16490	Ochotona pusilla voucher SAF16770 mitochondrion, partial genome
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_pusilla	HM366945.1	1140	Ochotona pusilla voucher FGS18 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_pusilla	AY260744.1	402	Ochotona pusilla cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_pusilla	JX682568.1	1140	Ochotona pusilla voucher ZMMU:S-181301 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_pusilla	JX682567.1	1140	Ochotona pusilla voucher ZMMU:S-181303 cytochrome b (cytb) gene, complete cds; mitochondrial

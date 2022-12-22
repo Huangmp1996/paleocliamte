@@ -1,6 +1,0 @@
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_pileatus	MF872228.1	16522	Trachypithecus pileatus, complete genome
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_pileatus	EU526386.1	738	Trachypithecus pileatus isolate E20 cytochrome b gene, partial cds; mitochondrial
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_pileatus	EU004472.1	573	Trachypithecus pileatus cytochrome b gene, partial cds; mitochondrial
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_pileatus	AF294626.1	1140	Trachypithecus pileatus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_pileatus	NC_024529.1	16526	Trachypithecus pileatus mitochondrion, complete genome
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_pileatus	KF680163.1	16526	Trachypithecus pileatus mitochondrion, complete genome

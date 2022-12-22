@@ -1,5 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_altaicus	MW574391.1	16692	Tetraogallus altaicus voucher UWBM 75676 mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_altaicus	AY563127.1	535	Tetraogallus altaicus isolate A1 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_altaicus	AB200357.1	535	Tetraogallus altaicus mitochondrial cytb gene for cytochrome b, partial cds, clone: cytPCR-3
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_altaicus	AB200356.1	535	Tetraogallus altaicus mitochondrial cytb gene for cytochrome b, partial cds, clone: cytPCR-2
-AVES_GALLIFORMES_PHASIANIDAE_Tetraogallus_altaicus	AB200355.1	535	Tetraogallus altaicus mitochondrial cytb gene for cytochrome b, partial cds, clone: cytPCR-1

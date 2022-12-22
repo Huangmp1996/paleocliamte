@@ -1,6 +1,0 @@
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_rugosus	MF805606.1	462	Oreolalax rugosus voucher YXS41-3 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_rugosus	MF805593.1	516	Oreolalax rugosus voucher YXS35 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_rugosus	MF805592.1	516	Oreolalax rugosus voucher YXS43-3 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_rugosus	MF805591.1	516	Oreolalax rugosus voucher YXS44-3 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_rugosus	MF805590.1	516	Oreolalax rugosus voucher YXS45-3 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Oreolalax_rugosus	EF397254.1	1957	Oreolalax rugosus voucher CIB-xm340 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

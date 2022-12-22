@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_STURNIDAE_Sturnia_sinensis	EU551969.1	1041	Sturnus sinensis voucher NRM 569654 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Sturnia_sinensis	DQ466883.1	1041	Sturnus sinensis voucher NRM 20036882 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Sturnia_sinensis	EF468184.1	1041	Sturnus sinensis isolate SturniasinenBTK3 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Sturnia_sinensis	EF468183.1	1041	Sturnus sinensis isolate SturniasinenAKD07 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

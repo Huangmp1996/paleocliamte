@@ -1,5 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_millicens	MN122074.1	1143	Volemys millicens isolate csd2046 cytochrome b (CYTB) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_millicens	MN122073.1	1143	Volemys millicens isolate csd2045 cytochrome b (CYTB) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_millicens	KP190253.1	1119	Volemys millicens isolate JDS11038 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_millicens	KP190252.1	1119	Volemys millicens isolate JDS11027 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_millicens	JF906123.1	1143	Volemys millicens voucher JJSA091 cytochrome b (cytb) gene, complete cds; mitochondrial

@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	EU204973.1	345	Pycnonotus taivanus CHD-W (CHD-W) gene, partial cds
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	EU204972.1	729	Pycnonotus taivanus cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	EU204971.1	293	Pycnonotus taivanus CHD-Z (CHD-Z) gene, partial cds
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	FJ378536.2	16923	Pycnonotus taivanus mitochondrion, complete genome
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_taivanus	NC_013483.2	16923	Pycnonotus taivanus mitochondrion, complete genome

@@ -1,5 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	AY986771.1	547	Botaurus stellaris oocyte maturation factor Mos (c-mos) gene, partial cds
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	NC_025923.1	20350	Botaurus stellaris mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	KJ190955.1	20350	Botaurus stellaris mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	AF407140.1	976	Botaurus stellaris isolate SZ01 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	AF407139.1	976	Botaurus stellaris isolate NJ01 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

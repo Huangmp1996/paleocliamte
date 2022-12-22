@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	MK198990.1	582	Naja atra voucher CHS607 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EU921898.1	17214	Naja atra voucher CIB093931 mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	EU913475.1	17216	Naja atra voucher CIB093930 mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	DQ302759.1	1032	Naja atra NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Naja_atra	NC_011389.1	17216	Naja atra mitochondrion, complete genome

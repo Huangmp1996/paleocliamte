@@ -1,5 +1,0 @@
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_grisegena	GU572057.1	635	Podiceps grisegena voucher BISE-Aves235 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_grisegena	GU571586.1	723	Podiceps grisegena voucher NHMO-BC448 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_grisegena	DQ433967.1	672	Podiceps grisegena voucher CWSL93-58309-00-01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_grisegena	DQ433966.1	673	Podiceps grisegena voucher CWSL93-58311-00-01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Podiceps_grisegena	DQ433965.1	630	Podiceps grisegena voucher CWS7958 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

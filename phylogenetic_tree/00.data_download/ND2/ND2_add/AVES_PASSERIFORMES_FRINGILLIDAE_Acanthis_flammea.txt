@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	FJ547507.1	1041	Carduelis flammea voucher UAAAC svd3100 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	NC_027285.1	16820	Acanthis flammea mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	KR422696.1	16820	Acanthis flammea mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	JN715417.1	1041	Carduelis flammea NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial

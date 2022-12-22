@@ -1,5 +1,0 @@
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	MK043030.1	17158	Columba rupestris voucher IN3905 mitochondrion, complete genome
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	NC_031867.1	17201	Columba rupestris mitochondrion, complete genome
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	KX902246.1	17201	Columba rupestris mitochondrion, complete genome
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	AF353434.1	1067	Columba rupestris NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_COLUMBIFORMES_COLUMBIDAE_Columba_rupestris	KJ455389.1	1041	Columba rupestris voucher UWBM:66643 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

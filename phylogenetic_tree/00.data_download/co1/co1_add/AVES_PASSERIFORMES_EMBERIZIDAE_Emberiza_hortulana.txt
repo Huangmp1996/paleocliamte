@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_hortulana	GQ481767.1	669	Emberiza hortulana voucher UWBM 49363 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_hortulana	GU571375.1	747	Emberiza hortulana voucher NHMO-BC272 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_hortulana	GU571374.1	740	Emberiza hortulana voucher NHMO-BC99 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_hortulana	FJ465326.1	612	Emberiza hortulana voucher ZMA 56201 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_hortulana	KX283116.1	647	Emberiza hortulana voucher AI-B134 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_hortulana	KX283115.1	629	Emberiza hortulana voucher AI-B133 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_hortulana	KX283114.1	506	Emberiza hortulana voucher AI-B132 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_hortulana	KP877694.1	695	Emberiza hortulana isolate MAR557 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	GQ482572.1	677	Pyrrhocorax graculus voucher UWBM 61471 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	GQ482571.1	605	Pyrrhocorax graculus voucher UWBM 61472 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	NC_025927.1	16905	Pyrrhocorax graculus mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Pyrrhocorax_graculus	KJ598623.1	16905	Pyrrhocorax graculus mitochondrion, complete genome

@@ -1,6 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_baileyi	JN632663.1	16448	Naemorhedus baileyi isolate 104487 mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_baileyi	KP203894.1	16448	Naemorhedus baileyi mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_baileyi	JX506311.1	1140	Naemorhedus baileyi isolate z03 cytochrome b (CYTB) gene, complete cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_baileyi	JX506310.1	1140	Naemorhedus baileyi isolate z02 cytochrome b (CYTB) gene, complete cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_baileyi	JX506309.1	1140	Naemorhedus baileyi isolate z01 cytochrome b (CYTB) gene, complete cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_baileyi	NC_020722.1	16448	Naemorhedus baileyi isolate 104487 mitochondrion, complete genome

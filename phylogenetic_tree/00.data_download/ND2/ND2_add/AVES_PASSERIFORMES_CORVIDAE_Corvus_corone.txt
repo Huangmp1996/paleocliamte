@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_CORVIDAE_Corvus_corone	MK714020.1	16947	Corvus corone orientalis mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Corvus_corone	AY529949.1	1034	Corvus corone voucher MNHN 13-16 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Corvus_corone	JQ864447.1	1041	Corvus corone voucher IPMB 156 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Corvus_corone	JQ023936.1	1041	Corvus corone corone voucher ZMUC 138386 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

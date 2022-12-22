@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	NC_053908.1	18475	Pseudoxenodon stejnegeri mitochondrion, complete genome
-REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MW018358.1	18475	Pseudoxenodon stejnegeri mitochondrion, complete genome
-REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK201414.1	585	Pseudoxenodon stejnegeri voucher CHS572 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK201346.1	585	Pseudoxenodon stejnegeri voucher CHS221 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_PSEUDOXENODONTIDAE_Pseudoxenodon_stejnegeri	MK201343.1	585	Pseudoxenodon stejnegeri voucher CHS214 cytochrome b (cytb) gene, partial cds; mitochondrial

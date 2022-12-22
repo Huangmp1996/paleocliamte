@@ -1,6 +1,0 @@
-AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_yei	NC_024843.1	17072	Quasipaa yei voucher HNNU0908I061 mitochondrion, complete genome
-AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_yei	KJ842105.1	17072	Quasipaa yei voucher HNNU0908I061 mitochondrion, complete genome
-AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_yei	DQ118489.1	546	Paa yei voucher KizYP156 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_yei	DQ118488.1	546	Paa yei voucher KizYP155 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_yei	DQ118445.1	371	Paa yei voucher KizYP156 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_DICROGLOSSIDAE_Quasipaa_yei	DQ118444.1	371	Paa yei voucher KizYP155 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,9 +1,0 @@
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	AY666432.1	667	Strix nebulosa voucher 1B-3675 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	GU572108.1	648	Strix nebulosa voucher BISE-Aves26 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	GU572107.1	648	Strix nebulosa voucher BISE-Aves393 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	GU571636.1	732	Strix nebulosa voucher NHMO-BC122 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	GU571635.1	741	Strix nebulosa voucher NHMO-BC160 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	DQ434173.1	681	Strix nebulosa voucher CWSK03-09127-01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	DQ433222.1	652	Strix nebulosa voucher FMNH 437268 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	DQ433221.1	652	Strix nebulosa voucher FMNH 437269 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Strix_nebulosa	KF525370.1	694	Strix nebulosa voucher 1641-4756 cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial

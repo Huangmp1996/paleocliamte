@@ -1,5 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KJ722534.1	17255	Bubulcus ibis mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	NC_025917.1	18959	Bubulcus ibis mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	KJ190945.1	18959	Bubulcus ibis mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	DQ485800.1	1044	Bubulcus ibis 12S ribosomal RNA and tRNA-Val genes, complete sequence; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Bubulcus_ibis	AF407144.1	972	Bubulcus ibis 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

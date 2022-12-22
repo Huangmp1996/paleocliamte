@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	NC_039538.1	16770	Niltava davidi mitochondrion, complete genome
-AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KY024217.1	16770	Niltava davidi mitochondrion, complete genome
-AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KP337031.1	974	Niltava davidi isolate 2583 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	KP337030.1	974	Niltava davidi isolate 2582 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	HM633352.1	1076	Niltava davidi voucher DZUG-2198 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Niltava_davidi	EF081353.1	1143	Niltava davidi cytochrome b (cytb) gene, complete cds; mitochondrial

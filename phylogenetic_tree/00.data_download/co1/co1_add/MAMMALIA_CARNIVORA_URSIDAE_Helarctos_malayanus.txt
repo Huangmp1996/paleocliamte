@@ -1,5 +1,0 @@
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	EF196664.1	16783	Helarctos malayanus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	AH014080.2	10751	Helarctos malayanus ATP synthase F0 subunit 6 (ATP6), ATP synthase F0 subunit 8 (ATP8), cytochrome c oxidase subunit I (COX1), cytochrome c oxidase subunit II (COX2), cytochrome c oxidase subunit III (COX3), NADH dehydrogenase subunit 1 (ND1), NADH dehydrogenase subunit 2 (ND2), NADH dehydrogenase subunit 3 (ND3), NADH dehydrogenase subunit 4 (ND4), NADH dehydrogenase subunit 4L (ND4L), and NADH dehydrogenase subunit 5 (ND5) genes, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	KF986481.1	623	Helarctos malayanus cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	NC_009968.1	16783	Helarctos malayanus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	FM177765.1	16792	Helarctos malayanus complete mitochondrial genome

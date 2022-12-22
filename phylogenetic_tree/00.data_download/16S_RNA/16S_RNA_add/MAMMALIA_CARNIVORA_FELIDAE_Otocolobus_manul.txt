@@ -1,6 +1,0 @@
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	MH978908.1	16672	Otocolobus manul mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	AF006432.1	318	Otocolobus manul NADH dehydrogenase subunit 5 gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	NC_028323.1	16626	Otocolobus manul isolate OMA mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KP202295.1	16626	Otocolobus manul isolate OMA mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	KR132585.1	17009	Otocolobus manul mitochondrion, partial genome
-MAMMALIA_CARNIVORA_FELIDAE_Otocolobus_manul	AF006431.1	372	Otocolobus manul 16S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

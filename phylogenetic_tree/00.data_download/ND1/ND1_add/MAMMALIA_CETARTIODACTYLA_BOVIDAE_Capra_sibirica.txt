@@ -1,4 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	AB743814.1	955	Capra sibirica mitochondrial ND1 gene for NADH dehydrogenase subunit 1, partial cds, isolate: G1253
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	FJ207529.1	16583	Capra sibirica mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	DQ236328.1	957	Capra sibirica NADH dehydrogenase subunit I (ND1) gene, complete cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	NC_020626.1	16583	Capra sibirica mitochondrion, complete genome

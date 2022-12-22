@@ -1,5 +1,0 @@
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_brevipes	GQ482778.1	694	Tringa brevipes voucher UWBM 44448 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_brevipes	MK262463.1	648	Tringa brevipes voucher SP180 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_brevipes	EU525550.1	613	Tringa brevipes voucher AJB 6033 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_brevipes	EU525549.1	613	Tringa brevipes voucher MKP 2178 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Tringa_brevipes	EU525548.1	640	Tringa brevipes voucher AJB 6042 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

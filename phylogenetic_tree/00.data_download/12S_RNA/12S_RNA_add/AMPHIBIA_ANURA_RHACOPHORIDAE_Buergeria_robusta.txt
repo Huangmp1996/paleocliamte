@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_RHACOPHORIDAE_Buergeria_robusta	AB530077.1	473	Buergeria robusta mitochondrial gene for 12S ribosomal RNA, partial sequence, haplotype: B.rob.44-3
-AMPHIBIA_ANURA_RHACOPHORIDAE_Buergeria_robusta	AB530076.1	473	Buergeria robusta mitochondrial gene for 12S ribosomal RNA, partial sequence, haplotype: B.rob.44-2
-AMPHIBIA_ANURA_RHACOPHORIDAE_Buergeria_robusta	AB530075.1	473	Buergeria robusta mitochondrial gene for 12S ribosomal RNA, partial sequence, haplotype: B.rob.44-1
-AMPHIBIA_ANURA_RHACOPHORIDAE_Buergeria_robusta	U22083.1	744	Buergeria robusta 12S ribosomal RNA and 16S ribosomal RNA genes, partial sequence, and Val-tRNA gene, mitochondrial genes encoding mitochondrial RNA, complete sequence
-AMPHIBIA_ANURA_RHACOPHORIDAE_Buergeria_robusta	AF458125.1	1963	Buergeria robusta 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

@@ -1,6 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	GU571758.1	637	Botaurus stellaris voucher BISE-Aves106 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	GU571757.1	648	Botaurus stellaris voucher BISE-Aves479 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	AB843373.1	633	Botaurus stellaris mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO073-10
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	AB842589.1	710	Botaurus stellaris mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM619-10
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	NC_025923.1	20350	Botaurus stellaris mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Botaurus_stellaris	KJ190955.1	20350	Botaurus stellaris mitochondrion, complete genome

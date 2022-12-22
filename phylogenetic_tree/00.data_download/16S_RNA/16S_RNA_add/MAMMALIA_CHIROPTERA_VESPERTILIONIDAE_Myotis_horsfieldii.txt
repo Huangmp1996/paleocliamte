@@ -1,6 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	NC_036325.1	17083	Myotis horsfieldii mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	MF143494.1	17083	Myotis horsfieldii mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	AY956400.1	543	Myotis horsfieldii voucher MHFB169 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	AY606935.1	543	Myotis horsfieldii MHFB170 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	AY606934.1	543	Myotis horsfieldii MHFB163 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_horsfieldii	AY606932.1	543	Myotis horsfieldii MHFB154 16S ribosomal RNA gene, partial sequence; mitochondrial

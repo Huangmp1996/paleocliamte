@@ -1,8 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	HQ580338.1	657	Myotis macrodactylus voucher KAT J-03 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	HQ580337.1	657	Myotis macrodactylus voucher KAT J-02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	JF443003.1	377	Myotis macrodactylus voucher ZMMU CBH004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KP993032.1	516	Myotis macrodactylus isolate MyM1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KT862814.1	868	Myotis macrodactylus haplotype Hap02 tRNA-Tyr gene, complete sequence; and cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KT862813.1	868	Myotis macrodactylus haplotype Hap01 tRNA-Tyr gene, complete sequence; and cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	NC_022694.1	17562	Myotis macrodactylus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KF440685.1	17562	Myotis macrodactylus mitochondrion, complete genome

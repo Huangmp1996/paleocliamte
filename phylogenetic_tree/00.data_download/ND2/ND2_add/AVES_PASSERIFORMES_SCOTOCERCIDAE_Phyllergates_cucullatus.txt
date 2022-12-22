@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Phyllergates_cucullatus	MN518857.1	1014	Phyllergates cucullatus isolate LUW14 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Phyllergates_cucullatus	MN518856.1	807	Phyllergates cucullatus isolate LUW01 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Phyllergates_cucullatus	MG546445.1	1041	Orthotomus cucullatus voucher LSUMNS B-79210 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Phyllergates_cucullatus	DQ125999.1	1041	Orthotomus cucullatus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Phyllergates_cucullatus	KJ455555.1	1030	Orthotomus cucullatus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Phyllergates_cucullatus	JX006119.1	1041	Orthotomus cucullatus cinereicollis voucher LSUMNS52577 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Phyllergates_cucullatus	JX006118.1	1041	Orthotomus cucullatus philippinus voucher KUMNH21046 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Phyllergates_cucullatus	JX006117.1	1041	Orthotomus cucullatus coronatus voucher KUMNH10329 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

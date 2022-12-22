@@ -1,7 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MF807859.1	562	Nidirana lini voucher SYS a003969 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MF807858.1	562	Nidirana lini voucher SYS a003968 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MF807857.1	562	Nidirana lini voucher SYS a003967 cytochrome C oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MK293836.1	562	Nidirana lini isolate CIB20110629008 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MK293835.1	562	Nidirana lini isolate CIB20110629010 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MK293834.1	562	Nidirana lini isolate CIB20110629011 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	HQ395352.1	1348	Rana lini cytochrome oxidase subunit I (COI) and cytochrome b (cyt b) genes, partial cds; mitochondrial

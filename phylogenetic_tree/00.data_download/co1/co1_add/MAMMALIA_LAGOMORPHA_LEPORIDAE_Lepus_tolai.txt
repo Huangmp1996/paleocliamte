@@ -1,5 +1,0 @@
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	MN539744.1	17047	Lepus tolai mitochondrion, complete genome
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	KX882058.1	633	Lepus tolai voucher MGL-130 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	KX882048.1	708	Lepus tolai voucher MGL-51 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	NC_025748.1	17472	Lepus tolai mitochondrion, complete genome
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_tolai	KM609214.1	17472	Lepus tolai mitochondrion, complete genome

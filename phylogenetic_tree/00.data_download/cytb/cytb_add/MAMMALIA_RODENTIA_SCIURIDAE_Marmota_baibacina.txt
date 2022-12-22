@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_baibacina	MT412466.1	1140	Marmota baibacina isolate 25277 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_baibacina	MT412465.1	1140	Marmota baibacina isolate 25270 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_baibacina	MT412462.1	1140	Marmota baibacina isolate 24840 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_baibacina	AF100714.1	1140	Marmota baibacina cytochrome b (cyt b) gene, complete cds; mitochondrial gene for mitochondrial product
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_baibacina	AF143915.1	1140	Marmota baibacina clone IDB_23929 cytochrome b (cyt-b) gene, complete cds; mitochondrial gene for mitochondrial product
-MAMMALIA_RODENTIA_SCIURIDAE_Marmota_baibacina	AF143914.1	1140	Marmota baibacina clone IDB_23766 cytochrome b (cyt-b) gene, complete cds; mitochondrial gene for mitochondrial product

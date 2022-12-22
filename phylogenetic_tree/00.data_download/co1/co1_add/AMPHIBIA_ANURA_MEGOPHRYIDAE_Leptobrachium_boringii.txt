@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_boringii	MH643882.1	16557	Leptobrachium boringii mitochondrion, partial genome
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_boringii	KX812164.1	561	Leptobrachium boringii isolate YPX37539 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_boringii	NC_024427.1	17085	Leptobrachium boringii voucher SCUM120630 mitochondrion, complete genome
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_boringii	KJ630505.1	17085	Leptobrachium boringii voucher SCUM120630 mitochondrion, complete genome
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_boringii	JN700833.1	572	Leptobrachium boringii voucher KIZ04259 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

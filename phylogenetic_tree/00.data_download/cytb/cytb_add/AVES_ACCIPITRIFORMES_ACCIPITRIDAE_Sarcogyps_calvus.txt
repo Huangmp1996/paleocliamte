@@ -1,6 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Sarcogyps_calvus	MH423754.1	375	Sarcogyps calvus voucher THV1 cytochrome b gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Sarcogyps_calvus	MH423753.1	303	Sarcogyps calvus voucher THV2 cytochrome b gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Sarcogyps_calvus	X86759.1	1026	S.calvus mitochondrial cytb gene
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Sarcogyps_calvus	EU496462.1	1011	Sarcogyps calvus haplotype SC62 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Sarcogyps_calvus	EU496461.1	1026	Sarcogyps calvus haplotype SC61 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Sarcogyps_calvus	AY987264.1	1026	Sarcogyps calvus cytochrome b (cytb) gene, partial cds; mitochondrial

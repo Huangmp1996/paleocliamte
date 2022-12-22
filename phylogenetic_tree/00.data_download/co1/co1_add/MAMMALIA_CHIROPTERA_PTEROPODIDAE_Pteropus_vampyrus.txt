@@ -1,5 +1,0 @@
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	KX756022.1	204	Pteropus vampyrus isolate OBTC_PTVA_G0087 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	HM541309.1	657	Pteropus vampyrus voucher ROM MAM 110948 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	HM541308.1	657	Pteropus vampyrus voucher ROM MAM 110949 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	NC_026542.1	16554	Pteropus vampyrus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_PTEROPODIDAE_Pteropus_vampyrus	KP214033.1	16554	Pteropus vampyrus mitochondrion, complete genome

@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	NC_045376.1	16875	Dendrocitta formosae mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	MK875763.1	16875	Dendrocitta formosae mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	KY495249.1	1027	Dendrocitta formosae NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	DQ912617.1	996	Dendrocitta formosae voucher KUNHM B-6699 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Dendrocitta_formosae	JQ864451.1	1024	Dendrocitta formosae NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,7 +1,0 @@
-AVES_CHARADRIIFORMES_RECURVIROSTRIDAE_Recurvirostra_avosetta	MT132172.1	199	Recurvirostra avosetta voucher Recavo1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_RECURVIROSTRIDAE_Recurvirostra_avosetta	KY623657.1	16856	Recurvirostra avosetta mitochondrion, complete genome
-AVES_CHARADRIIFORMES_RECURVIROSTRIDAE_Recurvirostra_avosetta	GU572073.1	648	Recurvirostra avosetta voucher BISE-Aves131 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_RECURVIROSTRIDAE_Recurvirostra_avosetta	GU572072.1	648	Recurvirostra avosetta voucher BISE-Aves462 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_RECURVIROSTRIDAE_Recurvirostra_avosetta	NC_027420.1	16897	Recurvirostra avosetta voucher NJNU:ZBHH-2014002 mitochondrion, complete genome
-AVES_CHARADRIIFORMES_RECURVIROSTRIDAE_Recurvirostra_avosetta	KP757766.1	16897	Recurvirostra avosetta voucher NJNU:ZBHH-2014002 mitochondrion, complete genome
-AVES_CHARADRIIFORMES_RECURVIROSTRIDAE_Recurvirostra_avosetta	KF946842.1	693	Recurvirostra avosetta voucher ZMA58216 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial

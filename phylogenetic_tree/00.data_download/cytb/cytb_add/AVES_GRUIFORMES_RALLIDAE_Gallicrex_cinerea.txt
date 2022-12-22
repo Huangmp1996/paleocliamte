@@ -1,6 +1,0 @@
-AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	NC_028408.1	17184	Gallicrex cinerea mitochondrion, complete genome
-AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	KP057881.1	17184	Gallicrex cinerea mitochondrion, complete genome
-AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	KC614080.1	884	Gallicrex cinerea cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	KC439273.1	407	Gallicrex cinerea cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	JQ342152.1	934	Gallicrex cinerea isolate DJ2 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Gallicrex_cinerea	JQ342151.1	934	Gallicrex cinerea isolate DJ1 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	U79015.1	924	Carduelis flammea cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	U79014.1	924	Carduelis flammea cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	DQ192028.1	1143	Carduelis flammea cytochrome b gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	L76386.1	924	Carduelis flammea cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	AF399686.1	302	Carduelis flammea isolate CORE cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	U18859.1	307	Acanthis flammea cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	NC_027285.1	16820	Acanthis flammea mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Acanthis_flammea	KR422696.1	16820	Acanthis flammea mitochondrion, complete genome

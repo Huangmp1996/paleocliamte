@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MK199070.1	1026	Protobothrops mucrosquamatus voucher CHS759 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MK199044.1	1026	Protobothrops mucrosquamatus voucher CHS716 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	MK198966.1	1026	Protobothrops mucrosquamatus voucher CHS364 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KT447436.1	17223	Protobothrops mucrosquamatus mitochondrion, complete genome
-REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	NC_021412.1	17234	Protobothrops mucrosquamatus mitochondrion, complete genome
-REPTILIA_SQUAMATA_VIPERIDAE_Protobothrops_mucrosquamatus	KC438281.1	17234	Protobothrops mucrosquamatus mitochondrion, complete genome

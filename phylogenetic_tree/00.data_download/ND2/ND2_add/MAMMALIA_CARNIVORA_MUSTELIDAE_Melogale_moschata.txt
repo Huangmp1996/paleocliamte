@@ -1,7 +1,0 @@
-MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MW257240.1	16546	Melogale moschata mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	MN400429.1	16597	Melogale moschata mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	HM106328.1	16587	Melogale moschata voucher YP6128 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	KP726273.1	16497	Melogale moschata subaurantiaca voucher TESRI-S3911 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	NC_020644.1	16587	Melogale moschata voucher YP6128 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AB564143.1	1044	Melogale moschata mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS2372
-MAMMALIA_CARNIVORA_MUSTELIDAE_Melogale_moschata	AB564142.1	1044	Melogale moschata mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Alexei P. Kyukov:AK703

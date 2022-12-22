@@ -1,7 +1,0 @@
-REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AF432918.1	1241	Alligator sinensis cytochrome b (cytb) gene, partial cds; and tRNA-Thr gene, partial sequence; mitochondrial genes for mitochondrial products
-REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	JF315323.1	1315	Alligator sinensis isolate LSUMZ_H-7868 tRNA-Glu gene, partial sequence; cytochrome b gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial
-REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	JF315321.1	1293	Alligator sinensis isolate LSUMZ_H-21699 tRNA-Glu gene, partial sequence; cytochrome b gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial
-REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	JF315320.1	1293	Alligator sinensis isolate LSUMZ_H-21700 tRNA-Glu gene, partial sequence; cytochrome b gene, complete cds; and tRNA-Thr gene, partial sequence; mitochondrial
-REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AY914767.1	297	Alligator sinensis NADH dehydrogenase subunit 6 and cytochrome b genes, partial cds; mitochondrial
-REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AY239158.1	240	Alligator sinensis cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-REPTILIA_CROCODYLIA_ALLIGATORIDAE_Alligator_sinensis	AF511507.1	16746	Alligator sinensis mitochondrion, complete genome

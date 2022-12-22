@@ -1,5 +1,0 @@
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	MG256969.1	381	Helarctos malayanus isolate SB_R1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	EF196664.1	16783	Helarctos malayanus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	NC_009968.1	16783	Helarctos malayanus mitochondrion, complete genome
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	FM177765.1	16792	Helarctos malayanus complete mitochondrial genome
-MAMMALIA_CARNIVORA_URSIDAE_Helarctos_malayanus	L21882.1	346	Helarctos malayanus mitochondrial 12S ribosomal RNA (12S rRNA) gene fragment

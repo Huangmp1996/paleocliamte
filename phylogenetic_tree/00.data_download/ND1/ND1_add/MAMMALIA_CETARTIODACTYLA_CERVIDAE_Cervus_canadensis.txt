@@ -1,6 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	NC_050863.1	16428	Cervus canadensis isolate 19FC017 mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	MT534583.1	16428	Cervus canadensis isolate 19FC017 mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	MT430939.1	16428	Cervus canadensis nannodes mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	HQ191429.1	16419	Cervus elaphus songaricus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	KJ025072.1	16419	Cervus elaphus songaricus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Cervus_canadensis	NC_014703.1	16419	Cervus elaphus songaricus mitochondrion, complete genome

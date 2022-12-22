@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	NC_053082.1	16842	Prunella himalayana mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	MN356328.1	16842	Prunella himalayana mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	GQ482565.1	691	Prunella himalayana voucher UWBM 46423 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	GQ482564.1	684	Prunella himalayana voucher UWBM 67647 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	JQ175991.1	568	Prunella himalayana voucher USNM:Birds:616447 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

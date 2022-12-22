@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_burkii	KX977449.1	16963	Seicercus burkii mitochondrion, complete genome
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_burkii	HQ608892.1	1176	Seicercus burkii isolate Y35 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_burkii	HQ608856.1	1143	Seicercus burkii isolate Y36 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_burkii	KU343244.1	633	Seicercus burkii voucher IOZ62965 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_burkii	KU343231.1	693	Seicercus burkii voucher MTD:C61083 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_burkii	KU343223.1	669	Seicercus burkii voucher MTD:C61082 cytochrome oxidase I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_burkii	JQ176207.1	652	Seicercus burkii voucher USNM:Birds:609270 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

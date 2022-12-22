@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_CORVIDAE_Podoces_hendersoni	GQ482522.1	674	Podoces hendersoni voucher UWBM 57850 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Podoces_hendersoni	GQ482521.1	671	Podoces hendersoni voucher UWBM 57981 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CORVIDAE_Podoces_hendersoni	GU592504.1	16867	Podoces hendersoni mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Podoces_hendersoni	NC_014879.1	16867	Podoces hendersoni mitochondrion, complete genome
-AVES_PASSERIFORMES_CORVIDAE_Podoces_hendersoni	JQ175920.1	645	Podoces hendersoni voucher USNM:Birds:621506 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

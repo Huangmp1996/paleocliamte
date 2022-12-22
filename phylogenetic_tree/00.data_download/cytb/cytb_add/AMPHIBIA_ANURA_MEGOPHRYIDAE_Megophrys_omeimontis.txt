@@ -1,9 +1,0 @@
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH407188.1	1049	Megophrys omeimontis isolate 5330 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH407179.1	1049	Megophrys omeimontis isolate 5301 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH407158.1	1049	Megophrys omeimontis isolate 4939 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH407157.1	1049	Megophrys omeimontis isolate 4918 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH407156.1	1049	Megophrys omeimontis isolate 4916 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406992.1	1049	Megophrys omeimontis isolate 2741 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	AY561314.1	300	Megophrys omeimontis cytochrome b gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	HQ677512.1	576	Xenophrys omeimontis voucher ZYC1513 NADH dehydrogenase subunit 6 (ND6) gene, partial cds; tRNA-Glu (trnE) gene, complete sequence; and cytochrome b (CYTB) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	KP728257.1	17013	Xenophrys omeimontis mitochondrion, partial genome

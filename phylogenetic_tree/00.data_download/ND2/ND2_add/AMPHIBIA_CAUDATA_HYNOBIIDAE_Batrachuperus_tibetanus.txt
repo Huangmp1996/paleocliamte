@@ -1,4 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	DQ333817.1	16379	Batrachuperus tibetanus mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY915956.1	1455	Batrachuperus tibetanus voucher RM7797 NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	AY593172.1	1044	Batrachuperus tibetanus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_tibetanus	NC_008085.1	16379	Batrachuperus tibetanus mitochondrion, complete genome

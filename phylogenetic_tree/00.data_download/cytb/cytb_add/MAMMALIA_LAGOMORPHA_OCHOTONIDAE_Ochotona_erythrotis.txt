@@ -1,5 +1,0 @@
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_erythrotis	MN547436.1	13883	Ochotona erythrotis voucher LMS17001 mitochondrion, partial genome
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_erythrotis	NC_037186.1	16663	Ochotona erythrotis mitochondrion, complete genome
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_erythrotis	MG051346.1	16663	Ochotona erythrotis mitochondrion, complete genome
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_erythrotis	AY056606.1	402	Ochotona erythrotis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_erythrotis	AF272999.1	1140	Ochotona erythrotis cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product

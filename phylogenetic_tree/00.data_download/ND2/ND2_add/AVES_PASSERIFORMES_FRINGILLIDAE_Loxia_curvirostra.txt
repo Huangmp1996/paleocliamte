@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_curvirostra	MN356412.1	16811	Loxia curvirostra mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_curvirostra	AF447290.1	1398	Loxia curvirostra NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; mitochondrial genes for mitochondrial products
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_curvirostra	GU816852.1	1041	Loxia curvirostra NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_curvirostra	KM078800.1	16805	Loxia curvirostra mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Loxia_curvirostra	NC_025623.1	16805	Loxia curvirostra mitochondrion, complete genome

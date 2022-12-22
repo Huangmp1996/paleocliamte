@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	AB738945.1	16762	Lepidodactylus lugubris mitochondrial DNA, complete genome, isolate: Llug1
-REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	MH140810.1	474	Lepidodactylus lugubris voucher USNMFS51885 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	MH140809.1	554	Lepidodactylus lugubris voucher CH 5077 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	MH140808.1	474	Lepidodactylus lugubris voucher USNMFS51886 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_Gecko_Lepidodactylus_lugubris	NC_025782.1	16762	Lepidodactylus lugubris isolate Llug1 mitochondrion, complete genome

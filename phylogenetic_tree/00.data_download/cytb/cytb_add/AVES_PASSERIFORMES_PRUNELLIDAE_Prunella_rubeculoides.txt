@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_rubeculoides	NC_054361.1	16796	Prunella rubeculoides mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_rubeculoides	MT903225.1	16796	Prunella rubeculoides mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_rubeculoides	KY787022.1	1126	Prunella rubeculoides voucher IOZ 6510 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_rubeculoides	KY787021.1	1027	Prunella rubeculoides voucher NHMO-BI-7744 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_rubeculoides	KX109636.1	1041	Prunella rubeculoides isolate MAR3636 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_rubeculoides	KJ456430.1	1038	Prunella rubeculoides cytochrome b (cytb) gene, partial cds; mitochondrial

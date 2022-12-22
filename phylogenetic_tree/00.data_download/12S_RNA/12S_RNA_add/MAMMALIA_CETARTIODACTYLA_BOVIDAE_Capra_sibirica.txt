@@ -1,5 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	FJ207529.1	16583	Capra sibirica mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	NC_020626.1	16583	Capra sibirica mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	AF363779.1	956	Capra sibirica 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	AY670658.1	957	Capra sibirica 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capra_sibirica	AF400655.1	1425	Capra sibirica 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

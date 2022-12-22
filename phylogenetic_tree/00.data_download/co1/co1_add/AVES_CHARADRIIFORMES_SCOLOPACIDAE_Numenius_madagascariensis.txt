@@ -1,9 +1,0 @@
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	MW930394.1	17117	Numenius madagascariensis mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	LC541451.1	17275	Numenius madagascariensis 2005-0691 mitochondrial DNA, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	GQ482249.1	694	Numenius madagascariensis voucher UWBM 47020 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	MK262497.1	648	Numenius madagascariensis voucher SP183 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	GQ482250.1	694	Numenius madagascariensis voucher UWBM 47043 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	GQ482248.1	694	Numenius madagascariensis voucher UWBM 47183 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	GQ482247.1	694	Numenius madagascariensis voucher UWBM 46886 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	GQ482246.1	694	Numenius madagascariensis voucher UWBM 46885 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Numenius_madagascariensis	KF009547.1	662	Numenius madagascariensis voucher MKP 2107 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

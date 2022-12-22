@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150801.1	1355	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R36177
-REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150800.1	1355	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R66355
-REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150799.1	1356	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R71915
-REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC150798.1	1356	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R71914
-REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	LC147648.1	1355	Plestiodon elegans mitochondrial genes for 16S rRNA, tRNA-Leu, NADH dehydrogenase subunit 1, tRNA-Ile, tRNA-Gln, tRNA-Met, specimen_voucher: KUZ<JPN>:R66354
-REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	AY649153.1	492	Plestiodon elegans voucher MVZ 231239 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	EU202994.1	428	Plestiodon elegans voucher KUZ R58273 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_SCINCIDAE_Plestiodon_elegans	AB543278.1	422	Plestiodon elegans mitochondrial gene for 16S rRNA, partial sequence, country: Taiwan:Taipei

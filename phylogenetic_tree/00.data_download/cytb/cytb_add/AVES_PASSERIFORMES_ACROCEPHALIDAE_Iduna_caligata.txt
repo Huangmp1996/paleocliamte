@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Iduna_caligata	FJ883044.1	720	Hippolais caligata cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Iduna_caligata	JN574461.1	879	Iduna caligata voucher GNM<SWE>:U2574 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Iduna_caligata	JN574460.1	879	Iduna caligata voucher GNM<SWE>:U2575 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Iduna_caligata	AJ004315.1	1047	Hippolais caligata partial mitochondrial cytb gene, isolate 1
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Iduna_caligata	AJ004793.1	1041	Hippolais caligata ssp. caligata mitochondrial cytb gene
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Iduna_caligata	AJ004792.1	1041	Hippolais caligata ssp. rama mitochondrial cytb gene

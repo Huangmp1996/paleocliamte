@@ -1,4 +1,0 @@
-AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	NW_004994735.1	11850152	Falco cherrug unplaced genomic scaffold, F_cherrug_v1.0 scaffold275_1, whole genome shotgun sequence
-AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	NC_026715.1	18059	Falco cherrug mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	KP337902.1	18059	Falco cherrug mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	GU390891.1	421	Falco cherrug 12S ribosomal RNA gene, partial sequence; mitochondrial

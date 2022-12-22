@@ -1,7 +1,0 @@
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	KY399474.1	16294	Cynops orientalis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	AB638713.1	1141	Cynops orientalis mitochondrial gene for Cytochrome b, partial cds, specimen_voucher: CIB:ZJ200806473
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	JX480899.1	743	Cynops orientalis voucher GZNU2006517001 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	AB754753.1	1407	Cynops orientalis mitochondrial genes for NADH dehydrogenase subunit 6, tRNA-glu and cytochrome b, partial and complete cds, complete sequence, haplotype: Cori3
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	AB754752.1	1407	Cynops orientalis mitochondrial genes for NADH dehydrogenase subunit 6, tRNA-glu and cytochrome b, partial and complete cds, complete sequence, haplotype: Cori2
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	AB754751.1	1407	Cynops orientalis mitochondrial genes for NADH dehydrogenase subunit 6, tRNA-glu and cytochrome b, partial and complete cds, complete sequence, haplotype: Cori1
-AMPHIBIA_CAUDATA_SALAMANDRIDAE_Cynops_orientalis	EU880311.1	16299	Cynops orientalis mitochondrion, partial genome

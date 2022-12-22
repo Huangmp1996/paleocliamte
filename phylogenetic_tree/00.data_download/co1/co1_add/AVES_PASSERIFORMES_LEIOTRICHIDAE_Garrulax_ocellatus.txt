@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	MH265835.1	421	Garrulax ocellatus ocellatus voucher NRM 570087 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	EU447040.1	615	Garrulax ocellatus maculipectus cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	HM185340.1	1201	Garrulax ocellatus voucher IOZ5083 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	NC_027657.1	17828	Garrulax ocellatus mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	KP995195.1	17828	Garrulax ocellatus mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Garrulax_ocellatus	HM185386.1	948	Garrulax ocellatus voucher IOZ5083 cytochrome b (cyt b) gene, partial cds; mitochondrial

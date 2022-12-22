@@ -1,6 +1,0 @@
-AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	AY247260.2	713	Bufo bankorensis mitochondrial cytochrome b (cytb) gene and control region, partial sequence
-AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	JN653296.1	722	Bufo bankorensis isolate BbankBB99 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	JN653295.1	722	Bufo bankorensis isolate BbankBB98 cytochrome b (cytb) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	AF171197.1	518	Bufo bankorensis KIZ-97L366 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	AF174508.1	100	Bufo bankorensis KIS-97L366 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AMPHIBIA_ANURA_BUFONIDAE_Bufo_bankorensis	AB159260.1	870	Bufo bankorensis mitochondrial cytb gene for cytochrome b, partial cds, haplotype:B.j.ban

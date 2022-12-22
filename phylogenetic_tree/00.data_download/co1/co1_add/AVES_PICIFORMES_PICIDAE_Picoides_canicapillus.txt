@@ -1,9 +1,0 @@
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	MK335534.1	16847	Dendrocopos canicapillus voucher AHNU:A0340 mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	NC_041121.1	16843	Dendrocopos canicapillus mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	MK015644.1	16843	Dendrocopos canicapillus mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	GQ481697.1	694	Dendrocopos canicapillus voucher UWBM 51079 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	GQ481696.1	694	Dendrocopos canicapillus voucher UWBM 72096 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	AF394279.1	1551	Picoides canicapillus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	AF389309.1	1029	Picoides canicapillus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	JQ174660.1	652	Dendrocopos canicapillus voucher USNM:Birds:620434 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Picoides_canicapillus	JQ174659.1	652	Dendrocopos canicapillus voucher USNM:Birds:620400 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

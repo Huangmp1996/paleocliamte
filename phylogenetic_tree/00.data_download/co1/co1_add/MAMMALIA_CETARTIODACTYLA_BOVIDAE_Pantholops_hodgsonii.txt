@@ -1,7 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	NC_007441.1	16498	Pantholops hodgsonii mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	DQ191826.1	16498	Pantholops hodgsonii mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	HQ269461.1	671	Pantholops hodgsonii voucher m305 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	HQ269460.1	671	Pantholops hodgsonii voucher m304 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	KJ862178.1	648	Pantholops hodgsonii voucher A53 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	KC679039.1	617	Pantholops hodgsonii isolate AJ3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Pantholops_hodgsonii	KC679038.1	617	Pantholops hodgsonii isolate AJ2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

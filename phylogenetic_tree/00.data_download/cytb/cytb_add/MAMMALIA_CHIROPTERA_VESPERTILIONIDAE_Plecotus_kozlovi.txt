@@ -1,7 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Plecotus_kozlovi	MT583389.1	911	Plecotus kozlovi voucher ZMMU:S-198765 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Plecotus_kozlovi	MT583363.1	851	Plecotus kozlovi voucher ZMMU:S-191124 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Plecotus_kozlovi	MT583360.1	851	Plecotus kozlovi voucher ZMMU:S-191121 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Plecotus_kozlovi	MT583355.1	851	Plecotus kozlovi voucher ZMMU:S-189182 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Plecotus_kozlovi	MT583352.1	851	Plecotus kozlovi voucher ZMMU:S-187512 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Plecotus_kozlovi	MT583349.1	1140	Plecotus kozlovi voucher ZMMU:S-198764 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Plecotus_kozlovi	MF285087.1	705	Plecotus kozlovi isolate 189182 cytochrome b (cyt b) gene, partial cds; mitochondrial

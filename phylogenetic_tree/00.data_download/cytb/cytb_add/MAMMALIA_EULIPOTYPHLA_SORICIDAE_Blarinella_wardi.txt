@@ -1,5 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_wardi	MH801943.1	515	Blarinella wardi voucher KIZ:GS113 apolipoprotein B (ApoB) gene, partial cds
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_wardi	MH801937.1	17025	Blarinella wardi voucher KIZ:GS113 mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_wardi	NC_041145.1	16951	Blarinella wardi mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_wardi	MF125692.1	16951	Blarinella wardi mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Blarinella_wardi	JF719714.1	1140	Blarinella wardi haplotype C14 cytochrome b (cytb) gene, complete cds; mitochondrial

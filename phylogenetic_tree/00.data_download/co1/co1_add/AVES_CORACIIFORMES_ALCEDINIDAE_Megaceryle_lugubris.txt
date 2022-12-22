@@ -1,5 +1,0 @@
-AVES_CORACIIFORMES_ALCEDINIDAE_Megaceryle_lugubris	NC_035658.1	17223	Megaceryle lugubris mitochondrion, complete genome
-AVES_CORACIIFORMES_ALCEDINIDAE_Megaceryle_lugubris	KY940558.1	17223	Megaceryle lugubris mitochondrion, complete genome
-AVES_CORACIIFORMES_ALCEDINIDAE_Megaceryle_lugubris	AB843594.1	597	Megaceryle lugubris mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO013-08
-AVES_CORACIIFORMES_ALCEDINIDAE_Megaceryle_lugubris	AB842926.1	713	Megaceryle lugubris mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM536-10
-AVES_CORACIIFORMES_ALCEDINIDAE_Megaceryle_lugubris	AB842925.1	713	Megaceryle lugubris mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM078-08

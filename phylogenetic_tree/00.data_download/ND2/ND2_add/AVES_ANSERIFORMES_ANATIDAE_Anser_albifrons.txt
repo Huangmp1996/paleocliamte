@@ -1,6 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	NC_039888.1	16740	Anser albifrons frontalis mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	MH000287.1	16740	Anser albifrons frontalis mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	EU585675.1	1041	Anser albifrons albifrons voucher IPMB 6976 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	AF363031.1	16737	Anser albifrons mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	JQ282385.1	487	Anser albifrons NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Anser_albifrons	NC_004539.1	16737	Anser albifrons mitochondrion, complete genome

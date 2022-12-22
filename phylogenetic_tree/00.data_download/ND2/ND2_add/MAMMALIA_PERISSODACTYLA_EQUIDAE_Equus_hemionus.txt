@@ -1,5 +1,0 @@
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	HM118851.1	16634	Equus hemionus mitochondrion, complete genome
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	NC_018782.1	16381	Equus hemionus kulan isolate Ehemionus mitochondrion, complete genome
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	JX312728.1	16381	Equus hemionus kulan isolate Ehemionus mitochondrion, complete genome
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	JX312730.1	16379	Equus hemionus onager isolate O91 mitochondrion, complete genome
-MAMMALIA_PERISSODACTYLA_EQUIDAE_Equus_hemionus	NC_016061.1	16634	Equus hemionus mitochondrion, complete genome

@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_rufiventer	AF484879.1	477	Pteruthius rufiventer cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_rufiventer	EF453351.1	1143	Pteruthius rufiventer voucher AMNH 306976 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_rufiventer	EF453341.1	1143	Pteruthius rufiventer voucher AMNH DOT 5597 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_rufiventer	EF453340.1	1143	Pteruthius rufiventer voucher AMNH 291117 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_rufiventer	EF453339.1	1143	Pteruthius rufiventer voucher AMNH 291121 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Pteruthius_rufiventer	EF453338.1	1143	Pteruthius rufiventer voucher MNHN 7-09 cytochrome b (cytb) gene, complete cds; mitochondrial

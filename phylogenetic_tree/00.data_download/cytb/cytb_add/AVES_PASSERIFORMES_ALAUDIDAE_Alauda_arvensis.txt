@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_ALAUDIDAE_Alauda_arvensis	AF074595.1	906	Alauda arvensis cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
-AVES_PASSERIFORMES_ALAUDIDAE_Alauda_arvensis	AY228047.1	879	Alauda arvensis NRM 966614 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_ALAUDIDAE_Alauda_arvensis	AY165156.1	849	Alauda arvensis isolate SL1 cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_ALAUDIDAE_Alauda_arvensis	NC_020425.1	17018	Alauda arvensis mitochondrion, complete genome
-AVES_PASSERIFORMES_ALAUDIDAE_Alauda_arvensis	JQ322641.1	17018	Alauda arvensis mitochondrion, complete genome
-AVES_PASSERIFORMES_ALAUDIDAE_Alauda_arvensis	JX236372.1	1065	Alauda arvensis cytochrome b (cytb) gene, partial cds; mitochondrial

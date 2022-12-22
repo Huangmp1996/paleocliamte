@@ -1,5 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	DQ333808.1	16401	Hynobius amjiensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	NC_008076.1	16401	Hynobius amjiensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	AY915980.1	1075	Hynobius amjiensis voucher RM9869 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	AY593120.1	1593	Hynobius amjiensis 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_amjiensis	AY372533.1	591	Hynobius amjiensis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

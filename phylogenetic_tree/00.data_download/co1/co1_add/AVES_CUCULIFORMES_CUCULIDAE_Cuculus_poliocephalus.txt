@@ -1,9 +1,0 @@
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	LN734601.1	695	Cuculus poliocephalus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate pol19
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	LN734600.1	695	Cuculus poliocephalus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate pol643
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	MF085565.1	637	Cuculus poliocephalus voucher LSNF0038 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	NC_028414.1	17508	Cuculus poliocephalus mitochondrion, complete genome
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	KT378620.1	17508	Cuculus poliocephalus mitochondrion, complete genome
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	AB843450.1	662	Cuculus poliocephalus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO011-08
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	AB842693.1	709	Cuculus poliocephalus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM604-10
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	AB842692.1	694	Cuculus poliocephalus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM614-10
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_poliocephalus	AB842691.1	664	Cuculus poliocephalus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM231-10

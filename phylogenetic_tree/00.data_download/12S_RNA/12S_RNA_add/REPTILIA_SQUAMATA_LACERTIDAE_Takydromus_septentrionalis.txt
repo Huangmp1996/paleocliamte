@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_septentrionalis	MK630237.1	18304	Takydromus septentrionalis mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_septentrionalis	DQ658819.1	379	Takydromus septentrionalis isolate AF 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_septentrionalis	AY218021.1	519	Takydromus septentrionalis isolate LA4 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_septentrionalis	AF217065.1	1021	Takydromus septentrionalis 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_septentrionalis	AF217064.1	1021	Takydromus septentrionalis 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_septentrionalis	AF217063.1	1021	Takydromus septentrionalis 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_septentrionalis	AF217062.1	1021	Takydromus septentrionalis 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_septentrionalis	AF080337.1	307	Takydromus septentrionalis 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

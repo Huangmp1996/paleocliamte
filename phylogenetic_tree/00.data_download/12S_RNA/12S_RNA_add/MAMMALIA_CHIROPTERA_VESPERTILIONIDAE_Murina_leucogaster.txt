@@ -1,6 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	NC_025949.1	16823	Murina leucogaster mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	KM893454.1	16823	Murina leucogaster mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	FJ743919.1	963	Murina leucogaster isolate 200657 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	FJ743918.1	963	Murina leucogaster voucher B00058 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	FJ743917.1	963	Murina leucogaster isolate HHC017 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Murina_leucogaster	FJ743916.1	963	Murina leucogaster isolate HHC001 12S ribosomal RNA gene, partial sequence; mitochondrial

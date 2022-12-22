@@ -1,6 +1,0 @@
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	NC_027606.1	18966	Asio flammeus mitochondrion, complete genome
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	KP889214.1	18966	Asio flammeus mitochondrion, complete genome
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	U83758.1	978	Asio flammeus 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	AF406882.1	958	Asio flammeus isolate NJ02 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	AF406881.1	959	Asio flammeus isolate NJ01 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	U89228.1	946	Asio flammeus 12S ribosomal RNA, mitochondrial gene

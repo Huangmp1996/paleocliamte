@@ -1,5 +1,0 @@
-MAMMALIA_CARNIVORA_PRIONODONTIDAE_Prionodon_pardicolor	KX447638.1	16689	Prionodon pardicolor pardicolor mitochondrion, complete genome
-MAMMALIA_CARNIVORA_PRIONODONTIDAE_Prionodon_pardicolor	AF522349.1	1140	Prionodon pardicolor voucher C163 cytochrome b (cytB) gene, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_PRIONODONTIDAE_Prionodon_pardicolor	NC_024569.1	16718	Prionodon pardicolor isolate TC108 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_PRIONODONTIDAE_Prionodon_pardicolor	KJ636050.1	16718	Prionodon pardicolor isolate TC108 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_PRIONODONTIDAE_Prionodon_pardicolor	DQ286783.1	374	Prionodon pardicolor voucher AHNU0312 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	AY248557.1	788	Takydromus wolteri isolate WOL101 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial gene for mitochondrial product
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JQ844542.1	660	Takydromus wolteri voucher NIBRRP0000100350 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JQ844541.1	660	Takydromus wolteri voucher NIBRRP0000100357 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JQ844540.1	660	Takydromus wolteri voucher NIBRRP0000100351 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	NC_018777.1	18236	Takydromus wolteri mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_wolteri	JX181764.1	18236	Takydromus wolteri mitochondrion, complete genome

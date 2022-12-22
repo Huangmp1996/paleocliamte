@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MN356265.1	14913	Leiothrix lutea mitochondrion, partial genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MH265872.1	633	Leiothrix lutea yunnanensis voucher MNHN 15-39 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	MH265871.1	633	Leiothrix lutea kwangtungensis voucher NRM 20026687 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	EU447049.1	615	Leiothrix lutea yunnanensis cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	JF498868.1	694	Leiothrix lutea voucher USNM:643392 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	JF498867.1	694	Leiothrix lutea voucher USNM:643454 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	JF498866.1	694	Leiothrix lutea voucher USNM:643394 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	NC_020427.1	17615	Leiothrix lutea mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_lutea	JQ423933.1	17615	Leiothrix lutea mitochondrion, complete genome

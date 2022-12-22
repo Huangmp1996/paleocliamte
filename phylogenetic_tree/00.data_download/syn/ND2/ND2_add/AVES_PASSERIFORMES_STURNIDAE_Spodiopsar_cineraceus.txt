@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	DQ466881.1	1041	Sturnus cineraceus voucher UWBM 59925 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	HQ896037.1	16821	Sturnus cineraceus mitochondrion, complete genome
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	EF468177.1	1041	Sturnus cineraceus isolate Sturnuscineraceus47190 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Spodiopsar_cineraceus	NC_015237.1	16821	Sturnus cineraceus mitochondrion, complete genome

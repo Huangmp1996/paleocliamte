@@ -1,5 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	AY870283.1	828	Pucrasia macrolopha isolate V21 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	AF028800.1	1143	Pucrasia macrolopha cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	GU214287.1	1143	Pucrasia macrolopha isolate 525 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	FJ752429.1	16696	Pucrasia macrolopha mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	NC_020587.1	16696	Pucrasia macrolopha mitochondrion, complete genome

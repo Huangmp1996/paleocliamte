@@ -1,5 +1,0 @@
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	LC114477.1	5242	Grus grus mitochondrial cytb, ND6 genes for cytochrome b, NADH dehydrogenase subunit 6, tRNA-Thr, tRNA-Pro and control region
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	AF123906.1	522	Grus grus NADH dehydrogenase subunit 6 (ND6) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	U27546.1	1143	Grus grus cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	NC_020577.1	16649	Grus grus mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Grus_grus	FJ769849.1	16649	Grus grus mitochondrion, complete genome

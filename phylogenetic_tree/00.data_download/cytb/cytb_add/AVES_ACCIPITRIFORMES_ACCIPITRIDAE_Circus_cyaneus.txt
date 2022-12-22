@@ -1,7 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KU237286.1	20173	Circus cyaneus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	X86745.1	1026	C.cyaneus mitochondrial cytb gene
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KX925606.1	18754	Circus cyaneus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KX453172.1	744	Circus cyaneus cyaneus voucher SMNH<SWE>:856428 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KX453171.1	651	Circus cyaneus cyaneus voucher SMNH<SWE>:826569 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	KX453170.1	717	Circus cyaneus cyaneus voucher SMNH<SWE>:836680 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Circus_cyaneus	AF115891.1	282	Circus cyaneus cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product

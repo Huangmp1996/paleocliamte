@@ -1,8 +1,0 @@
-MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_urva	FJ391221.1	1140	Herpestes urva voucher FMNH:39352 cytochrome b gene, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_urva	FJ391220.1	354	Herpestes urva voucher FMNH:39355 cytochrome b gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_urva	DQ519074.1	1140	Herpestes urva isolate HurC253 cytochrome b (Cytb) gene, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_urva	KJ438355.1	404	Herpestes urva voucher MNHN:V07-84 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_urva	KJ438354.1	985	Herpestes urva voucher MNHN:TC416 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_urva	KJ438353.1	497	Herpestes urva voucher MNHN:TC175 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_urva	KJ438352.1	811	Herpestes urva voucher FMNH:39351 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_HERPESTIDAE_Herpestes_urva	KJ438351.1	815	Herpestes urva voucher AMNH:87390 cytochrome b (cytb) gene, partial cds; mitochondrial

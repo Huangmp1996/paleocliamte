@@ -1,7 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	MT410898.1	16241	Micromys minutus isolate DM59c mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	NC_027932.1	16232	Micromys minutus mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	KP399599.1	16232	Micromys minutus mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	EF027260.1	144	Micromys minutus isolate 3 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	EF027259.1	144	Micromys minutus isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	EF027258.1	144	Micromys minutus isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Micromys_minutus	AJ311139.1	952	Micromys minutus mitochondrial 12S rRNA gene, tissue library T-1196

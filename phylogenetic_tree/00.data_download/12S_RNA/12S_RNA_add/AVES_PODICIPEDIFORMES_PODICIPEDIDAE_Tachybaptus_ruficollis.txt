@@ -1,4 +1,0 @@
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	LC104785.1	174	Tachybaptus ruficollis mitochondrial gene for 12S rRNA, partial sequence, bio_material: NSMT(National Science Museum, Tokyo)-DNA-50464
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	LC104784.1	174	Tachybaptus ruficollis mitochondrial gene for 12S rRNA, partial sequence, bio_material: CBM(Chiba Museum) DNA No. 2015-191
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	NC_024594.1	16688	Tachybaptus ruficollis mitochondrion, complete genome
-AVES_PODICIPEDIFORMES_PODICIPEDIDAE_Tachybaptus_ruficollis	KJ913674.1	16688	Tachybaptus ruficollis mitochondrion, complete genome

@@ -1,7 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	EU914150.1	1045	Anas poecilorhyncha voucher IPMB 7098 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	AF059143.1	1093	Anas poecilorhyncha tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	AF059083.1	1074	Anas poecilorhyncha cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KC466567.1	16603	Anas poecilorhyncha mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KF751616.1	16606	Anas poecilorhyncha mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	NC_022418.1	16608	Anas poecilorhyncha mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anas_poecilorhyncha	KF156760.1	16608	Anas poecilorhyncha mitochondrion, complete genome

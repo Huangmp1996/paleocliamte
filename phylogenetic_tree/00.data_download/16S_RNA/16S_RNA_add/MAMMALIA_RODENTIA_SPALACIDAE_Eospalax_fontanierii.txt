@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_fontanierii	NC_045904.1	16369	Eospalax fontanierii mitochondrion, complete genome
-MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_fontanierii	MH884481.1	16369	Eospalax fontanierii mitochondrion, complete genome
-MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_fontanierii	NC_021129.1	16354	Eospalax cansus mitochondrion, complete genome
-MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_fontanierii	KC514112.1	16354	Eospalax cansus mitochondrion, complete genome
-MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_fontanierii	NC_018098.1	16351	Eospalax baileyi mitochondrion, complete genome
-MAMMALIA_RODENTIA_SPALACIDAE_Eospalax_fontanierii	JN540033.1	16351	Eospalax baileyi mitochondrion, complete genome

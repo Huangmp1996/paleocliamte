@@ -1,5 +1,0 @@
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	KU133958.1	16859	Neofelis nebulosa mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	DQ257669.1	16844	Neofelis nebulosa mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	AY634385.1	1038	Neofelis nebulosa NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	KP202291.1	16657	Neofelis nebulosa isolate NNE mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Neofelis_nebulosa	NC_008450.1	16844	Neofelis nebulosa mitochondrion, complete genome

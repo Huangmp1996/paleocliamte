@@ -1,8 +1,0 @@
-AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	MW364567.1	16951	Otus lettia voucher PB2019-211-1 mitochondrion, complete genome
-AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	AY142076.1	500	Otus lettia cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	EU601111.1	901	Otus lettia ussuriensis isolate L73 cytochrome b gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	EU601109.1	900	Otus lettia isolate L7 cytochrome b gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	EU348923.1	948	Otus lettia erythrocampe voucher IPMB 9572 recombination activating protein 1 (RAG-1) gene, partial cds
-AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	EU348921.1	948	Otus lettia glabripes voucher IPMB 6272 recombination activating protein 1 (RAG-1) gene, partial cds
-AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	EU348988.1	1041	Otus lettia erythrocampe voucher IPMB 9572 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Otus_lettia	EU348986.1	1031	Otus lettia glabripes voucher IPMB 6272 cytochrome b (cytb) gene, partial cds; mitochondrial

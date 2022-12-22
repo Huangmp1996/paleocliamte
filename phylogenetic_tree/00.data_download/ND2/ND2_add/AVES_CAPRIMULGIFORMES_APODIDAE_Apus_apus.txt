@@ -1,9 +1,0 @@
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	MH719106.1	1041	Apus apus voucher USNM:586198 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	MF595054.1	775	Apus apus haplotype Hapl4 NADH dehydrogenase 2 (ND2) gene, partial cds; mitochondrial
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	MF595053.1	775	Apus apus haplotype Hapl3 NADH dehydrogenase 2 (ND2) gene, partial cds; mitochondrial
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	MF595052.1	775	Apus apus haplotype Hapl2 NADH dehydrogenase 2 (ND2) gene, partial cds; mitochondrial
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	MF595051.1	775	Apus apus haplotype Hapl1 NADH dehydrogenase 2 (ND2) gene, partial cds; mitochondrial
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	AY294532.1	1076	Apus apus specimen-voucher PL05 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	AF543535.1	1041	Apus apus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	NC_008540.1	17037	Apus apus mitochondrion, complete genome
-AVES_CAPRIMULGIFORMES_APODIDAE_Apus_apus	AM237310.1	17037	Apus apus complete mitochondrial genome

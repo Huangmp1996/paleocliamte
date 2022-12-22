@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_thura	JN715443.1	1041	Carpodacus thura NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_thura	KF194165.1	838	Carpodacus thura voucher MAR 7547 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_thura	KF194144.1	915	Carpodacus thura voucher MAR 8141 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_thura	KF194135.1	1038	Carpodacus thura voucher AMNH DOT 5609 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial

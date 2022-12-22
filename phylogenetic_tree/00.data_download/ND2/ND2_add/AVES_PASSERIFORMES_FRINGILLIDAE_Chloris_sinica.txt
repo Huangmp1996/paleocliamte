@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Chloris_sinica	LC541433.1	16815	Chloris sinica kittlitzi 1997-0234 mitochondrial DNA, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Chloris_sinica	MH102388.1	16813	Chloris sinica mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Chloris_sinica	NC_041094.1	16812	Chloris sinica mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Chloris_sinica	MH047559.1	16813	Chloris sinica ussuriensis mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Chloris_sinica	MH047558.1	16812	Chloris sinica mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Chloris_sinica	HQ915865.1	16813	Carduelis sinica mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Chloris_sinica	KM078783.1	16816	Carduelis sinica mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Chloris_sinica	JN715424.1	1041	Carduelis sinica NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial

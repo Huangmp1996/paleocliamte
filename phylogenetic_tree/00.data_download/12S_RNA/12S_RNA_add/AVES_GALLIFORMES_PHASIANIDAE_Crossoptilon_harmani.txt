@@ -1,9 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH620436.1	632	Crossoptilon harmani isolate PZ7 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH620435.1	632	Crossoptilon harmani isolate PZ6 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH620434.1	632	Crossoptilon harmani isolate PZ5 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH620433.1	632	Crossoptilon harmani isolate PZ4 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH620432.1	632	Crossoptilon harmani isolate PZ3 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	MH620431.1	632	Crossoptilon harmani isolate PZ1 small subunit ribosomal RNA gene, partial sequence; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	NC_026547.1	16682	Crossoptilon harmani voucher M10 mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	KP259806.1	16682	Crossoptilon harmani voucher M10 mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Crossoptilon_harmani	KC778967.1	956	Crossoptilon harmani 12S ribosomal RNA gene, partial sequence; mitochondrial

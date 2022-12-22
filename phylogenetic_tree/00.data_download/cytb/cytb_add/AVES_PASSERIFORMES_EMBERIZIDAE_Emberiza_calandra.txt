@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_calandra	AF255706.1	924	Miliaria calandra cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_calandra	KY378746.1	1123	Emberiza calandra voucher L581 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_calandra	KY378745.1	844	Emberiza calandra voucher L344_IP4 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_calandra	EF529949.1	1065	Emberiza calandra cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_calandra	AF284079.1	1222	Miliaria calandra NADH dehydrogenase subunit 5 (ND5) and cytochrome b (CYTB) genes, partial cds; mitochondrial genes for mitochondrial products
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_calandra	KP877792.1	1035	Emberiza calandra isolate MAR696 cytochrome b (Cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_EMBERIZIDAE_Emberiza_calandra	EU325746.1	1076	Miliaria calandra parroti cytochrome b gene, partial cds; mitochondrial

@@ -1,9 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	MN122915.1	16867	Neomys fodiens isolate DM31 mitochondrion, partial genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	MN122912.1	16188	Neomys fodiens isolate DM30 mitochondrion, partial genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	FJ486986.1	388	Neomys fodiens isolate 334 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	NC_025559.1	17260	Neomys fodiens mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	KM092492.1	17260	Neomys fodiens mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	GU981100.1	1568	Neomys fodiens isolate Neomfod1 16S ribosomal RNA gene, complete sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ630343.1	967	Neomys fodiens isolate 3 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ630331.1	967	Neomys fodiens isolate 2 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Neomys_fodiens	DQ630330.1	967	Neomys fodiens isolate 1 16S ribosomal RNA gene, partial sequence; mitochondrial

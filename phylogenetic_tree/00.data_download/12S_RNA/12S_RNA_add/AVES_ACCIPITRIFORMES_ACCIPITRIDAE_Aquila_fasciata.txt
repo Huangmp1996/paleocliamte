@@ -1,3 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_fasciata	FJ627048.1	3825	Aquila fasciata isolate HFC tRNA-Thr gene, partial sequence; control region and tRNA-Pro gene, complete sequence; NADH dehydrogenase subunit 6 (nd6) gene, complete cds; tRNA-Glu and tRNA-Phe genes, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_fasciata	NC_029188.1	18513	Hieraaetus fasciatus voucher AHNU:A0318 mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Aquila_fasciata	KP329567.1	18513	Hieraaetus fasciatus voucher AHNU:A0318 mitochondrion, complete genome

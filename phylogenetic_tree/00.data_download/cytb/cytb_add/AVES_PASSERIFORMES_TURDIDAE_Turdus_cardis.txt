@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	NC_046948.1	16761	Turdus cardis mitochondrion, complete genome
-AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	MN865118.1	16761	Turdus cardis mitochondrion, complete genome
-AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	DQ910938.1	1000	Turdus cardis cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	DQ263755.1	991	Turdus cardis cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	EU154607.1	1038	Turdus cardis voucher NRM 2007 6471 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	D38320.1	646	Turdus cardis mitochondrial gene for cytochrome b, partial cds
-AVES_PASSERIFORMES_TURDIDAE_Turdus_cardis	D38348.1	293	Turdus cardis gene for 18S rRNA, partial sequence

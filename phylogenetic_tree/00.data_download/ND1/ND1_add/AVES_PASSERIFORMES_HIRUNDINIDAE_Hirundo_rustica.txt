@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	MN356225.1	16205	Hirundo rustica mitochondrion, partial genome
-AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	NC_050297.1	18051	Hirundo rustica tytleri voucher NB021 mitochondrion, complete genome
-AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	NC_050295.1	17893	Hirundo rustica transitiva mitochondrion, complete genome
-AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	MN843972.1	18051	Hirundo rustica tytleri voucher NB021 mitochondrion, complete genome
-AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	MN840495.1	17893	Hirundo rustica transitiva mitochondrion, complete genome
-AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	MN954681.1	18032	Hirundo rustica transitiva mitochondrion, complete genome
-AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KX398931.1	18133	Hirundo rustica erythrogaster mitochondrion, complete genome
-AVES_PASSERIFORMES_HIRUNDINIDAE_Hirundo_rustica	KP148840.1	18129	Hirundo rustica gutturalis mitochondrion, complete genome

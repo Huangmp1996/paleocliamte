@@ -1,7 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	EU845755.1	1023	Syrmaticus ellioti voucher 506 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	DQ307011.1	1041	Syrmaticus ellioti NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	GU214318.1	1023	Syrmaticus ellioti isolate 505 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	GU214317.1	1023	Syrmaticus ellioti isolate 501 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	DQ768270.1	1041	Syrmaticus ellioti NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	NC_010771.1	16688	Syrmaticus ellioti mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_ellioti	AB164624.1	16688	Syrmaticus ellioti mitochondrial DNA, complete genome

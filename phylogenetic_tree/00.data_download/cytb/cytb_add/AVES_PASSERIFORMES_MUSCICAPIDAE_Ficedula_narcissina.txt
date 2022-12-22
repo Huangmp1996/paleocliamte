@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	DQ674494.1	996	Ficedula narcissina voucher UW_Burke_51116 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	KJ930554.1	1143	Ficedula narcissina voucher KU15129 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	D38331.1	646	Ficedula narcissina mitochondrial gene for cytochrome b, partial cds
-AVES_PASSERIFORMES_MUSCICAPIDAE_Ficedula_narcissina	D38356.1	293	Ficedula narcissina gene for 18S rRNA, partial sequence

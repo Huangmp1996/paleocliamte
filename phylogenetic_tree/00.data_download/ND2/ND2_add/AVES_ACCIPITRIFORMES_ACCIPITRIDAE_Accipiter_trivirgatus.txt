@@ -1,8 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_trivirgatus	NC_045364.1	18454	Accipiter trivirgatus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_trivirgatus	MK953813.1	18454	Accipiter trivirgatus mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_trivirgatus	KF818963.1	994	Accipiter trivirgatus palawanus voucher UAM24765 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_trivirgatus	KF818962.1	994	Accipiter trivirgatus palawanus voucher UAM24764 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_trivirgatus	KF818961.1	994	Accipiter trivirgatus extimus voucher CMNH:B39089 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_trivirgatus	KF818960.1	994	Accipiter trivirgatus extimus voucher CMNH:B39088 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_trivirgatus	KF818959.1	994	Accipiter trivirgatus extimus voucher CMNH:B39087 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Accipiter_trivirgatus	KF818958.1	994	Accipiter trivirgatus extimus voucher CMNH:B39086 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

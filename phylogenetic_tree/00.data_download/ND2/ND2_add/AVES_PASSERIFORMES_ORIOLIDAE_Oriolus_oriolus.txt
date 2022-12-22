@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_oriolus	NC_053058.1	16794	Oriolus oriolus mitochondrion, complete genome
-AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_oriolus	MN356254.1	16794	Oriolus oriolus mitochondrion, complete genome
-AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_oriolus	MK706370.1	1041	Oriolus oriolus voucher ZMUC:137716 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_ORIOLIDAE_Oriolus_oriolus	EF052693.1	1041	Oriolus oriolus isolate N70 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

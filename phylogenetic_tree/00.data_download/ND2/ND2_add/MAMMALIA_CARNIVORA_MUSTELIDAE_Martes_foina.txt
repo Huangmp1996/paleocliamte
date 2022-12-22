@@ -1,5 +1,0 @@
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	EU021504.1	1044	Martes foina voucher YP6135 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	MT410896.1	16512	Martes foina mitochondrion, partial genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	HM106325.1	16530	Martes foina voucher YP6135 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	NC_020643.1	16530	Martes foina voucher YP6135 mitochondrion, complete genome
-MAMMALIA_CARNIVORA_MUSTELIDAE_Martes_foina	AB564140.1	1044	Martes foina mitochondrial ND2 gene for NADH dehydrogenese subunit 2, complete cds, specimen_voucher: personal:Hitoshi Suzuki:HS1753

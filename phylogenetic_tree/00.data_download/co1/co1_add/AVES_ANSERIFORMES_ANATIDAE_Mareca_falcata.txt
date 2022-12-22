@@ -1,5 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	MW020580.1	16597	Mareca falcata mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	JN703209.1	695	Anas falcata isolate 1-4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	GQ481322.1	694	Anas falcata voucher UWBM 46872 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	NC_023352.1	16601	Anas falcata mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_falcata	KC759527.1	16601	Anas falcata mitochondrion, complete genome

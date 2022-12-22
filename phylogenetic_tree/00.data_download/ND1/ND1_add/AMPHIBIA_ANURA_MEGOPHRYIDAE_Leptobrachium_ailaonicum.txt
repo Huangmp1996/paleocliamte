@@ -1,8 +1,0 @@
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_ailaonicum	MZ394043.1	17318	Leptobrachium ailaonicum mitochondrion, complete genome
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_ailaonicum	EF544294.1	921	Vibrissaphora ailaonica voucher IOZCAS 2907-3 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; and tRNA-Ile gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_ailaonicum	EF544293.1	929	Vibrissaphora ailaonica voucher IOZCAS 2907-2 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; and tRNA-Ile gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_ailaonicum	EF544292.1	995	Vibrissaphora ailaonica voucher IOZCAS 2707 tRNA-Leu gene, partial sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; and tRNA-Ile gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_ailaonicum	EF544291.1	987	Vibrissaphora ailaonica voucher IOZCAS 2723-2 tRNA-Leu gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_ailaonicum	EF544290.1	995	Vibrissaphora ailaonica voucher IOZCAS 2728 tRNA-Leu gene, partial sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; and tRNA-Ile gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_ailaonicum	EF544289.1	986	Vibrissaphora ailaonica voucher ROM 38026 tRNA-Leu gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Leptobrachium_ailaonicum	EF544288.1	436	Vibrissaphora ailaonica voucher ROM 38023 tRNA-Leu gene, partial sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial

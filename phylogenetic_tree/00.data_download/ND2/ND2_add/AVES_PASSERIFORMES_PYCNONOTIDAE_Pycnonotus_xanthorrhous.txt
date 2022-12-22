@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_xanthorrhous	MG762118.1	1041	Pycnonotus xanthorrhous voucher MNHN Uncat. 14-19 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_xanthorrhous	MF458403.1	1041	Pycnonotus xanthorrhous NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_xanthorrhous	NC_031830.1	16952	Pycnonotus xanthorrhous mitochondrion, complete genome
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_xanthorrhous	KX129905.1	16952	Pycnonotus xanthorrhous mitochondrion, complete genome
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_xanthorrhous	GU112677.1	1041	Pycnonotus xanthorrhous voucher KU11153 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_xanthorrhous	KR349357.1	806	Pycnonotus xanthorrhous isolate MAR8527 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_xanthorrhous	KF293049.1	1041	Pycnonotus xanthorrhous voucher KU:13728 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Pycnonotus_xanthorrhous	KF293048.1	1041	Pycnonotus xanthorrhous voucher KU:13691 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

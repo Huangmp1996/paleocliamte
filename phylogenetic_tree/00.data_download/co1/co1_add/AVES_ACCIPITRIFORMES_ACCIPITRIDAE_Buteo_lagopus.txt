@@ -1,9 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	AY666502.1	694	Buteo lagopus voucher 1B-3636 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	AY666290.1	552	Buteo lagopus voucher 1B-797 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GU571772.1	648	Buteo lagopus voucher BISE-Aves133 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GU571771.1	648	Buteo lagopus voucher BISE-Aves377 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GU571292.1	743	Buteo lagopus voucher NHMO-BC114 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	GU571291.1	725	Buteo lagopus voucher NHMO-BC134 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	NC_029189.1	18559	Buteo lagopus voucher AHNU:A0381 mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	KP337337.1	18559	Buteo lagopus voucher AHNU:A0381 mitochondrion, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Buteo_lagopus	KR017965.1	944	Buteo lagopus voucher 1641-2250 cytochrome oxidase subunit 1 (COX-1) gene, partial cds; mitochondrial

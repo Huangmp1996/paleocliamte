@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_RHACOPHORIDAE_Gracixalus_carinensis	LC011939.1	439	Kurixalus carinensis mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:46402
-AMPHIBIA_ANURA_RHACOPHORIDAE_Gracixalus_carinensis	LC011938.1	439	Kurixalus carinensis mitochondrial gene for 16S rRNA, partial sequence, specimen_voucher: KUHE:46401
-AMPHIBIA_ANURA_RHACOPHORIDAE_Gracixalus_carinensis	KR827762.1	409	Kurixalus carinensis voucher 1999.5966 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Gracixalus_carinensis	GQ285670.1	1956	Kurixalus carinensis voucher ROM39660 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Gracixalus_carinensis	AY880503.1	508	Aquixalus carinensis 16S ribosomal RNA gene, partial sequence; mitochondrial

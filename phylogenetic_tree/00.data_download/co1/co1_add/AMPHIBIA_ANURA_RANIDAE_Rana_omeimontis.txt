@@ -1,9 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	MK483118.1	20120	Rana omeimontis mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	MT418645.1	647	Rana omeimontis voucher SYS a005305 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	MT418644.1	647	Rana omeimontis voucher SYS a005304 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KU246050.1	19934	Rana omeimontis voucher YC-EMLW-01 mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	NC_035805.1	19934	Rana omeimontis voucher YC-EMLW-01 mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KX139727.1	558	Rana omeimontis voucher SYNU08060317 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	KX024952.1	558	Rana omeimontis voucher SYNU08060314 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	JF939081.1	558	Rana omeimontis voucher KIZSC148 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Rana_omeimontis	JF939069.1	558	Rana omeimontis voucher KIZ02424 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial

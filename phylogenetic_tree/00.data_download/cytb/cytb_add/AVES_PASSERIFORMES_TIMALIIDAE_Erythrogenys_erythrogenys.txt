@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrogenys	HQ529143.1	1040	Pomatorhinus erythrogenys voucher AMNH:DOT 5531 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrogenys	HQ529142.1	1040	Pomatorhinus erythrogenys voucher AMNH:DOT 5179 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrogenys	GU724391.1	1143	Pomatorhinus erythrocnemis voucher NTNU:T3754 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrogenys	KJ456415.1	1143	Erythrogenys erythrogenys cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Erythrogenys_erythrogenys	JF804098.1	619	Pomatorhinus erythrogenys isolate 2759 cytochrome b (cytb) gene, partial cds; mitochondrial

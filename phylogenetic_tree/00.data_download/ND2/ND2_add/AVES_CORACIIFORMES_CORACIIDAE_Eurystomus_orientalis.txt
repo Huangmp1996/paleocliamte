@@ -1,9 +1,0 @@
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	MG008114.1	1041	Eurystomus orientalis voucher KUNHM 18232 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	DQ469024.1	820	Eurystomus orientalis voucher UWBM60364 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	DQ469023.1	820	Eurystomus orientalis voucher UWBM63070 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	DQ469022.1	820	Eurystomus orientalis voucher UWBM47198 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	DQ469021.1	820	Eurystomus orientalis voucher UWBM58735 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	DQ469020.1	820	Eurystomus orientalis voucher UWBM66061 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	AF407468.1	1038	Eurystomus orientalis FMNH 350940 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	NC_011716.2	17210	Eurystomus orientalis mitochondrion, complete genome
-AVES_CORACIIFORMES_CORACIIDAE_Eurystomus_orientalis	EU344978.2	17210	Eurystomus orientalis mitochondrion, complete genome

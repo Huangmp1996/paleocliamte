@@ -1,7 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Phaiomys_leucurus	MK434309.1	354	Neodon leucurus voucher ZIN:C.2090 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Phaiomys_leucurus	KP190226.1	1125	Neodon leucurus isolate qinghai123 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Phaiomys_leucurus	KP190225.1	1140	Neodon leucurus isolate LS11002 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Phaiomys_leucurus	KP190224.1	1125	Neodon leucurus isolate LS11010 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Phaiomys_leucurus	KP190223.1	1140	Neodon leucurus isolate LS11001 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Phaiomys_leucurus	KP190222.1	1122	Neodon leucurus isolate LS11006 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Phaiomys_leucurus	AM392371.1	861	Microtus leucurus mitochondrial partial cytb gene for cytochrome b

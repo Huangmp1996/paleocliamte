@@ -1,6 +1,0 @@
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	HQ896036.1	17027	Gallinula chloropus mitochondrion, complete genome
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	KF469292.1	441	Gallinula chloropus isolate 12 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	NC_015236.1	17027	Gallinula chloropus mitochondrion, complete genome
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	DQ485828.1	1038	Gallinula chloropus 12S ribosomal RNA and tRNA-Val genes, complete sequence; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	U76017.1	865	Gallinula chloropus 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene, domains I-III, partial sequence
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	U77145.1	384	Gallinula chloropus 12S small subunit ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

@@ -1,5 +1,0 @@
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	MK201283.1	585	Elaphe bimaculata voucher CHS131 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	AF036019.1	246	Elaphe bimaculata cytochrome b gene, mitochondrial gene encoding mitochondrial protein, partial cds
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	DQ902104.1	1117	Elaphe bimaculata cytochrome b (cytb) gene, complete cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	NC_024743.1	17183	Elaphe bimaculata mitochondrion, complete genome
-REPTILIA_SQUAMATA_COLUBRIDAE_Elaphe_bimaculata	KM065513.1	17183	Elaphe bimaculata mitochondrion, complete genome

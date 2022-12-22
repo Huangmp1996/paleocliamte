@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_AGAMIDAE_Acanthosaura_lepidogaster	MH047784.1	503	Acanthosaura lepidogaster voucher DW004LJ01003 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Acanthosaura_lepidogaster	MH047783.1	503	Acanthosaura lepidogaster voucher DW004LJ01002 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Acanthosaura_lepidogaster	MH047782.1	503	Acanthosaura lepidogaster voucher DW004LJ01001 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Acanthosaura_lepidogaster	KT763423.1	1158	Acanthosaura lepidogaster isolate ALE04 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Acanthosaura_lepidogaster	KT763422.1	1159	Acanthosaura lepidogaster isolate ALE03 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Acanthosaura_lepidogaster	KT763421.1	1159	Acanthosaura lepidogaster isolate ALE02 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Acanthosaura_lepidogaster	KT763420.1	1159	Acanthosaura lepidogaster isolate ALE01 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Acanthosaura_lepidogaster	KR092427.1	16899	Acanthosaura lepidogaster mitochondrion, complete genome

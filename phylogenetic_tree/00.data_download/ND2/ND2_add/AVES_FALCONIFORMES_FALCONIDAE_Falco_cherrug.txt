@@ -1,4 +1,0 @@
-AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	NC_026715.1	18059	Falco cherrug mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	KP337902.1	18059	Falco cherrug mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	KM876056.1	2345	Falco cherrug voucher CAS SF14 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_cherrug	KM876036.1	2345	Falco cherrug voucher CAS MB40 tRNA-Leu gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

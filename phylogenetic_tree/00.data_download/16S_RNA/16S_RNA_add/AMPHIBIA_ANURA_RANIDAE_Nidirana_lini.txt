@@ -1,7 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MF807820.1	1026	Nidirana lini voucher SYS a003969 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MF807819.1	1026	Nidirana lini voucher SYS a003968 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MF807818.1	1026	Nidirana lini voucher SYS a003967 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MK293818.1	531	Nidirana lini isolate CIB20110629008 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MK293817.1	531	Nidirana lini isolate CIB20110629010 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	MK293816.1	531	Nidirana lini isolate CIB20110629011 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Nidirana_lini	KF185066.1	1051	Nidirana lini voucher HNNU LC001 16S ribosomal RNA gene, partial sequence; mitochondrial

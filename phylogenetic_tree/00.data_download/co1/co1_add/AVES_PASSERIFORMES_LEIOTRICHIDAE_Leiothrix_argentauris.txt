@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	MH265870.1	633	Leiothrix argentauris vernayi voucher MNHN 16-2E cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	MH265869.1	394	Leiothrix argentauris laurinae voucher NRM 570130 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	MH265868.1	633	Leiothrix argentauris cunhaci voucher NRM 570132 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	EU447050.1	615	Leiothrix argentauris cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	HQ690245.1	17833	Leiothrix argentauris mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	NC_015114.1	17833	Leiothrix argentauris mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	JQ175227.1	652	Leiothrix argentauris voucher USNM:Birds:631873 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

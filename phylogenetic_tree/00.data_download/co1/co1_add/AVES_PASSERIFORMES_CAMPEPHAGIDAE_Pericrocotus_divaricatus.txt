@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_divaricatus	LC541447.1	16924	Pericrocotus divaricatus divaricatus 2001-0067 mitochondrial DNA, complete genome
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_divaricatus	GQ482333.1	694	Pericrocotus divaricatus voucher UWBM 72182 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_divaricatus	GQ482334.1	694	Pericrocotus divaricatus voucher UWBM 47237 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_divaricatus	AB843663.1	657	Pericrocotus divaricatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO310-10
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_divaricatus	AB843662.1	695	Pericrocotus divaricatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO274-10
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_divaricatus	AB843035.1	660	Pericrocotus divaricatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM422-10
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_divaricatus	AB843034.1	697	Pericrocotus divaricatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM599-10
-AVES_PASSERIFORMES_CAMPEPHAGIDAE_Pericrocotus_divaricatus	AB843033.1	697	Pericrocotus divaricatus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM600-10

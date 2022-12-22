@@ -1,7 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	DQ333816.1	16394	Hynobius formosanus mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	AY593143.1	1141	Hynobius formosanus cytochrome b (CYTB) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	DQ652212.1	784	Hynobius formosanus voucher YH11 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	DQ652204.1	784	Hynobius formosanus voucher NTNUB 201690 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	DQ652202.1	784	Hynobius formosanus voucher NTNUB 201689 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	DQ652201.1	784	Hynobius formosanus voucher NTNUB 201695 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Hynobius_formosanus	NC_008084.1	16394	Hynobius formosanus mitochondrion, complete genome

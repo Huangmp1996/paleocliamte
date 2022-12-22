@@ -1,9 +1,0 @@
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	JN710009.1	413	Manouria impressa isolate Ruanuivien cytochrome b gene, partial cds; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	AY678409.1	429	Manouria impressa isolate 60B cytochrome b (cytB) gene, partial cds; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	AY678408.1	429	Manouria impressa isolate 60A cytochrome b (cytB) gene, partial cds; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	AY673501.1	737	Manouria impressa NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	AY673500.1	737	Manouria impressa NADH dehydrogenase subunit 4 (ND4) gene, partial cds; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	DQ497317.1	1140	Manouria impressa cytochrome b gene, complete cds; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	EF661586.1	16642	Manouria impressa mitochondrion, complete genome
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	NC_011815.1	16642	Manouria impressa mitochondrion, complete genome
-REPTILIA_TESTUDINES_TESTUDINIDAE_Manouria_impressa	GQ867689.1	423	Manouria impressa voucher 2009-MI-001 cytochrome b (Cytb) gene, partial cds; mitochondrial

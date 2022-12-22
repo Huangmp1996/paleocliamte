@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	MN356243.1	14913	Aegithalos caudatus mitochondrion, partial genome
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	KF951088.1	17935	Aegithalos caudatus caudatus mitochondrion, complete genome
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	GU433983.1	783	Aegithalos caudatus caudatus isolate MAR60007 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	GU433973.1	1396	Aegithalos caudatus caudatus isolate MAR1152 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	GU433972.1	1401	Aegithalos caudatus caudatus isolate MAR91 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	GU433971.1	1401	Aegithalos caudatus taiti isolate MAR540 tRNA-Val (trnV) and 16S ribosomal RNA genes, partial sequence; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_caudatus	AJ224486.1	374	Aegithalos caudatus mitochondrion 16S rRNA gene, partial

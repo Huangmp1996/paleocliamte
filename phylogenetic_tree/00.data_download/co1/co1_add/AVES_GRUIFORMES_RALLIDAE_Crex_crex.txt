@@ -1,5 +1,0 @@
-AVES_GRUIFORMES_RALLIDAE_Crex_crex	KT803614.1	648	Crex crex isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Crex_crex	GU571846.1	648	Crex crex voucher BISE-Aves57 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Crex_crex	GU571845.1	648	Crex crex voucher BISE-Aves397 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Crex_crex	GU571355.1	747	Crex crex voucher NHMO-BC553 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Crex_crex	GQ481654.1	694	Crex crex voucher UWBM 49624 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

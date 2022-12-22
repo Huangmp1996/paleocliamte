@@ -1,8 +1,0 @@
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_micropterus	MZ048030.1	17541	Cuculus micropterus mitochondrion, complete genome
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_micropterus	LN734599.1	695	Cuculus micropterus mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher UWBM 64917, isolate micWLK132
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_micropterus	LN734598.1	695	Cuculus micropterus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate micZ03
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_micropterus	LN734597.1	685	Cuculus micropterus mitochondrial COI gene for cytochrome oxidase subunit 1, isolate micZ02
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_micropterus	LN734596.1	695	Cuculus micropterus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate micZ01
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_micropterus	LN734595.1	695	Cuculus micropterus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate micIC
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_micropterus	LN734594.1	695	Cuculus micropterus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate mic719
-AVES_CUCULIFORMES_CUCULIDAE_Cuculus_micropterus	LN734593.1	695	Cuculus micropterus mitochondrial partial COI gene for cytochrome oxidase subunit 1, isolate mic665

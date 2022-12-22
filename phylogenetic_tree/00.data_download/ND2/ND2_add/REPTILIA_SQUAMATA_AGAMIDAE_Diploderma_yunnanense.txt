@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_yunnanense	MT577914.1	1019	Diploderma yunnanense voucher KIZ:040193 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_yunnanense	MG214261.1	434	Diploderma yunnanense voucher CAS242183 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_yunnanense	MG214260.1	443	Diploderma yunnanense voucher CAS242271 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_yunnanense	MK578658.1	456	Diploderma yunnanense voucher KIZ040193 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_yunnanense	MK001409.1	1002	Diploderma yunnanense voucher CAS242183 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_AGAMIDAE_Diploderma_yunnanense	MK001408.1	1008	Diploderma yunnanense voucher CAS242271 NADH dehydrigenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,8 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	AY870288.1	828	Syrmaticus reevesi isolate V31 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	AY368059.1	1143	Syrmaticus reevesi genotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	AF028801.1	1143	Syrmaticus reevesi cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	NC_010770.1	16678	Syrmaticus reevesii mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	AY368065.1	1152	Syrmaticus reevesi genotype 2 mitochondrial D-loop, partial sequence
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	AY368063.1	1153	Syrmaticus reevesi genotype 1 mitochondrial D-loop, partial sequence
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	AY368066.1	1152	Syrmaticus reevesi genotype 3 mitochondrial D-loop, partial sequence
-AVES_GALLIFORMES_PHASIANIDAE_Syrmaticus_reevesii	AB164623.1	16678	Syrmaticus reevesii mitochondrial DNA, complete genome

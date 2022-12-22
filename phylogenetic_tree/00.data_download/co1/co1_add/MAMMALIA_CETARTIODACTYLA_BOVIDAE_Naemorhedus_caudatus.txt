@@ -1,8 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	FJ469673.1	16519	Naemorhedus caudatus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	KP993119.1	516	Naemorhedus caudatus isolate NC6 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	KP993118.1	516	Naemorhedus caudatus isolate NC5 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	KP993117.1	516	Naemorhedus caudatus isolate NC4 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	KP993116.1	516	Naemorhedus caudatus isolate NC3 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	KP993115.1	516	Naemorhedus caudatus isolate NC2 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	KP993114.1	516	Naemorhedus caudatus isolate NC1 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Naemorhedus_caudatus	NC_013751.1	16519	Naemorhedus caudatus mitochondrion, complete genome

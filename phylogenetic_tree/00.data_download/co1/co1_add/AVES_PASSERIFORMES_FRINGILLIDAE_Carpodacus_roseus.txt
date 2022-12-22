@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	GQ481527.1	694	Carpodacus roseus voucher UWBM 52654 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	GQ481526.1	690	Carpodacus roseus voucher UWBM 52655 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	GQ481525.1	681	Carpodacus roseus voucher UWBM 60180 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	GQ481524.1	678	Carpodacus roseus voucher UWBM 74835 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	GQ481523.1	675	Carpodacus roseus voucher UWBM 57890 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	KM078779.1	16796	Carpodacus roseus mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	NC_025607.1	16796	Carpodacus roseus mitochondrion, complete genome

@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	DQ092880.1	1143	Yuhina diademata voucher 3026 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	AF376877.1	477	Yuhina diademata cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	GU724402.1	1143	Yuhina diademata voucher KIZ:YL20080104 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	NC_029462.1	17834	Yuhina diademata mitochondrion, complete genome
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	KT783535.1	17834	Yuhina diademata mitochondrion, complete genome
-AVES_PASSERIFORMES_ZOSTEROPIDAE_Yuhina_diademata	JN827233.1	1143	Yuhina diademata voucher KUNHM 11118 cytochrome b (CYTB) gene, complete cds; mitochondrial

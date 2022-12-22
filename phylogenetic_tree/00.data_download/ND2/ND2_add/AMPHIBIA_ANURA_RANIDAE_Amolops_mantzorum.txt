@@ -1,8 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MW111444.1	891	Amolops mantzorum voucher KIZCJ200810-138 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MN958765.1	890	Amolops mantzorum voucher SCUM045825HX NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	MN958764.1	890	Amolops mantzorum voucher SCUM045817HX NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	FJ417204.1	1062	Amolops mantzorum voucher FMNH 233124 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	KF771332.1	1397	Amolops mantzorum NADH dehydrogenase subunit 2 (nad2) gene, partial cds; tRNA-Trp (trnW), tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	KF771330.1	1397	Amolops kangtingensis NADH dehydrogenase subunit 2 (nad2) gene, partial cds; tRNA-Trp (trnW), tRNA-Ala (trnA), tRNA-Asn (trnN), tRNA-Cys (trnC), and tRNA-Tyr (trnY) genes, complete sequence; and cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	NC_024180.1	17744	Amolops mantzorum mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Amolops_mantzorum	KJ546429.1	17744	Amolops mantzorum mitochondrion, complete genome

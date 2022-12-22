@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	MT210129.1	1028	Eremopsaltria mongolica voucher UWBM46256 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	FJ547512.1	1041	Eremopsaltria mongolica voucher UWBM 46248 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	FJ547511.1	1041	Eremopsaltria mongolica voucher UWBM 57958 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	KM078792.1	16811	Eremopsaltria mongolica mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	NC_025616.1	16811	Eremopsaltria mongolica mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Bucanetes_mongolicus	JN715475.1	1041	Rhodopechys mongolica NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial

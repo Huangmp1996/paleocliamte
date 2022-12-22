@@ -1,4 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	AF059133.1	1092	Anas formosa tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	AF059073.1	1074	Anas formosa cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	NC_015482.1	16594	Anas formosa mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Sibirionetta_formosa	JF730435.1	16594	Anas formosa mitochondrion, complete genome

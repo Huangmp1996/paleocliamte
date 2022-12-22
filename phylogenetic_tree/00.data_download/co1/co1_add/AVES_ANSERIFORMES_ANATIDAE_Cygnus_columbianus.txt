@@ -1,6 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	DQ083161.1	16728	Cygnus columbianus mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	GU571852.1	648	Cygnus columbianus voucher BISE-Aves490 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	DQ433560.1	697	Cygnus columbianus voucher CWS66045 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	DQ433559.1	696	Cygnus columbianus voucher CWS66049 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	KF800698.1	16723	Cygnus columbianus jankowskii mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Cygnus_columbianus	NC_007691.1	16728	Cygnus columbianus mitochondrion, complete genome

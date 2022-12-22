@@ -1,9 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	NC_031330.1	16536	Uropsilus gracilis voucher Nanchuan0403 mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KM379136.1	16536	Uropsilus gracilis voucher Nanchuan0403 mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KF777847.1	840	Uropsilus gracilis voucher KIZ:028547 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KF777846.1	840	Uropsilus gracilis voucher KIZ:028546 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KF777845.1	840	Uropsilus gracilis voucher KIZ:028545 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KF777844.1	840	Uropsilus gracilis voucher KIZ:028548 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	KF777843.1	840	Uropsilus gracilis voucher KIZ:028544 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	AB106231.1	871	Uropsilus gracilis mitochondrial gene for 12S ribosomal RNA, partial sequence, isolate:KIZ211023
-MAMMALIA_EULIPOTYPHLA_TALPIDAE_Uropsilus_gracilis	AB106230.1	871	Uropsilus gracilis mitochondrial gene for 12S ribosomal RNA, partial sequence, isolate:KIZ211011

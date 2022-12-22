@@ -1,8 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KT862818.1	943	Myotis macrodactylus haplotype Hap03 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KT862817.1	815	Myotis macrodactylus haplotype Hap02 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KT862816.1	920	Myotis macrodactylus haplotype Hap01 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AY699873.1	957	Myotis macrodactylus isolate MA NADH dehydrogenase subunit 1 (ND1) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	NC_022694.1	17562	Myotis macrodactylus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	KF440685.1	17562	Myotis macrodactylus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB106582.1	957	Myotis macrodactylus mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds, specimen_voucher: OCUMS7243 (Osaka City University)
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_macrodactylus	AB079827.1	957	Myotis macrodactylus mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

@@ -1,8 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	NC_030209.1	17333	Takydromus amurensis voucher HRB1506080 mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	KU641018.1	17333	Takydromus amurensis voucher HRB1506080 mitochondrion, complete genome
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	JQ837981.1	447	Takydromus amurensis voucher NIBRRP0000000012 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	JQ815359.1	447	Takydromus amurensis voucher NIBRRP0000100372 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	GQ142090.1	456	Takydromus amurensis isolate ACT-4 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	AF217046.1	1015	Takydromus amurensis 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	AF217045.1	1018	Takydromus amurensis 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_amurensis	AF217044.1	1015	Takydromus amurensis 12S ribosomal RNA gene, complete sequence; and tRNA-Val gene, complete sequence; mitochondrial genes for mitochondrial products

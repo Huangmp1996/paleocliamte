@@ -1,5 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	MH155202.1	16469	Capricornis sumatraensis mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	FJ207534.1	16441	Capricornis sumatraensis mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	HQ269456.1	671	Capricornis sumatraensis voucher lielcdbxdh cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	HQ269431.1	671	Capricornis sumatraensis voucher lieljd1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_BOVIDAE_Capricornis_sumatraensis	NC_020629.1	16441	Capricornis sumatraensis mitochondrion, complete genome

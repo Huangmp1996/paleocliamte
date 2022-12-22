@@ -1,4 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	NC_041638.1	17089	Myotis frater mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	MH177276.1	17089	Myotis frater mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	AB106571.1	957	Myotis frater mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds, specimen_voucher: KM12985 (Kishio Maeda)
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_frater	AB079825.1	957	Myotis frater mitochondrial ND1 gene for NADH dehydrogenase subunit 1, complete cds

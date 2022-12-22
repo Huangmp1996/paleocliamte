@@ -1,4 +1,0 @@
-REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	NC_026105.1	16519	Goniurosaurus luii voucher GL511 mitochondrion, complete genome
-REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	KM455054.1	16519	Goniurosaurus luii voucher GL511 mitochondrion, complete genome
-REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	JX041365.1	1322	Goniurosaurus luii voucher TG00795 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp (trnW), tRNA-Ala (trnA), and tRNA-Asn (trnN) genes, complete sequence; and tRNA-Cys (trnC) gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_EUBLEPHARIDAE_Goniurosaurus_luii	AB308471.1	1759	Goniurosaurus luii mitochondrial ND1, tRNA-Ile, tRNA-Gln, tRNA-Met, ND2, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, tRNA-Tyr, COX1 genes, partial and complete cds and sequence

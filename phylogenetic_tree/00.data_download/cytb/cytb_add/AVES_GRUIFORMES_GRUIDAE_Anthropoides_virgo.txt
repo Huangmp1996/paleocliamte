@@ -1,8 +1,0 @@
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	MH645664.1	718	Anthropoides virgo cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	LC114472.1	5136	Anthropoides virgo mitochondrial cytb, ND6 genes for cytochrome b, NADH dehydrogenase subunit 6, tRNA-Thr, tRNA-Pro and control region
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	AF123897.1	522	Grus virgo NADH dehydrogenase subunit 6 (ND6) gene, complete cds; mitochondrial gene for mitochondrial product
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	AF077928.1	467	Grus virgo cytochrome b gene, partial cds; and tRNA-Thr and tRNA-Pro genes, complete sequence, mitochondrial genes for mitochondrial products
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	U27545.1	1143	Anthropoides virgo cytochrome b (cytb) gene, mitochondrial gene encoding mitochondrial protein, complete cds
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	KC439258.1	398	Anthropoides virgo cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	NC_020573.1	16541	Anthropoides virgo mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Anthropoides_virgo	FJ769845.1	16541	Grus virgo mitochondrion, complete genome

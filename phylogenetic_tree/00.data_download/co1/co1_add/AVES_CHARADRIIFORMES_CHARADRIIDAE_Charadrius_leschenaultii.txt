@@ -1,7 +1,0 @@
-AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_leschenaultii	MF580176.1	658	Charadrius leschenaultii voucher USNM:Birds:653275 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_leschenaultii	KU722516.1	657	Charadrius leschenaultii voucher USNM:Birds:647960 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_leschenaultii	GQ481569.1	694	Charadrius leschenaultii voucher UWBM 66641 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_leschenaultii	DQ432845.1	652	Charadrius leschenaultii voucher USNM 621501 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_leschenaultii	KP975255.1	615	Charadrius leschenaultii isolate NBS_HAN_2011_01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_leschenaultii	KP975243.1	633	Charadrius leschenaultii isolate NBS_CH_486 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_CHARADRIIDAE_Charadrius_leschenaultii	KP975242.1	633	Charadrius leschenaultii isolate NBS_CH_429 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

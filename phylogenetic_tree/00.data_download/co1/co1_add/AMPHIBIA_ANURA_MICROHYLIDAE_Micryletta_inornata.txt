@@ -1,8 +1,0 @@
-AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	MT608364.1	644	Micryletta inornata inornata voucher USNM:Herp:587901 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	MT608363.1	657	Micryletta inornata inornata voucher USNM:Herp:587625 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	EF396057.1	575	Micryletta inornata cytochrome c oxidase subunit I (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	KM509832.1	658	Micryletta inornata isolate PT-177 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	KR087829.1	705	Micryletta inornata voucher K3068 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	KR087828.1	705	Micryletta inornata voucher 2005.0179 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	KR087827.1	705	Micryletta inornata voucher 2006.2401 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MICROHYLIDAE_Micryletta_inornata	AB611965.1	879	Micryletta inornata mitochondrial COX1 gene for cytochrome c oxidase subunit I, partial cds, note: No. X35133

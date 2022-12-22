@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	KY997228.1	1539	Eothenomys inez isolate LPS039 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	KY997227.1	1534	Eothenomys inez isolate LPS031 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	KU200225.1	16354	Eothenomys inez mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	HM165315.1	1539	Eothenomys inez isolate SAF04036 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	HM165314.1	1539	Eothenomys inez isolate SAF04030 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Caryomys_inez	HM165313.1	1539	Eothenomys inez isolate SAF04040 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

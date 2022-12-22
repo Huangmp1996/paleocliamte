@@ -1,9 +1,0 @@
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	KY464178.1	16292	Berylmys berdmorei voucher CBGP_L0006 mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	NC_036730.1	16292	Berylmys berdmorei voucher CBGP_L0006 mitochondrion, complete genome
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217575.1	655	Berylmys berdmorei voucher R4266 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217560.1	655	Berylmys berdmorei voucher R3618 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217559.1	655	Berylmys berdmorei voucher R3603 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217547.1	655	Berylmys berdmorei voucher R3441 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217532.1	579	Berylmys berdmorei voucher R3050 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	HM217487.1	441	Berylmys berdmorei voucher L0006 cytochrome oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_MURIDAE_Berylmys_berdmorei	KC010295.1	713	Berylmys berdmorei haplotype HCOBBE01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

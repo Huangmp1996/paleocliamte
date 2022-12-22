@@ -1,3 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Anas_zonorhyncha	MZ593724.1	16605	Anas zonorhyncha mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Anas_zonorhyncha	AF059155.1	1093	Anas zonorhyncha tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Anas_zonorhyncha	AF059095.1	1074	Anas zonorhyncha cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products

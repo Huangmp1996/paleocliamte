@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_gordoni	MF467910.1	1938	Theloderma gordoni voucher SYNU607001 contains 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_gordoni	MF467909.1	1937	Theloderma gordoni voucher HM-IBE20150901 contains 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_gordoni	LC012852.1	2363	Theloderma gordoni mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: VNMN:4407
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_gordoni	KJ802919.1	1751	Theloderma gordoni voucher KUHE 32447 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_gordoni	KJ802918.1	1753	Theloderma gordoni voucher VNMN PAE217 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial

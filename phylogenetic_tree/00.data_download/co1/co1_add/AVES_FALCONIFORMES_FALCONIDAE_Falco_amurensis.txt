@@ -1,4 +1,0 @@
-AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	NC_039842.1	17464	Falco amurensis mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	KX987839.1	17464	Falco amurensis mitochondrion, complete genome
-AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	GQ481873.1	694	Falco amurensis voucher UWBM 59901 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_FALCONIFORMES_FALCONIDAE_Falco_amurensis	GQ481872.1	693	Falco amurensis voucher UWBM 47521 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

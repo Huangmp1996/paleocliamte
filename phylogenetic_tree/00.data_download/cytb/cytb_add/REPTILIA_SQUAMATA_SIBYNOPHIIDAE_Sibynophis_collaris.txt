@@ -1,9 +1,0 @@
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	MK201362.1	585	Sibynophis collaris voucher CHS244 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000129.1	1084	Sibynophis collaris isolate FTB2661 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000128.1	1084	Sibynophis collaris isolate FTB2660 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000126.1	1084	Sibynophis collaris isolate FTB2657 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000125.1	1084	Sibynophis collaris isolate FTB2659 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000122.1	1084	Sibynophis collaris isolate FTB2656 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	KC000121.1	1084	Sibynophis collaris isolate FTB2658 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	NC_016424.1	17163	Sibynophis collaris mitochondrion, complete genome
-REPTILIA_SQUAMATA_SIBYNOPHIIDAE_Sibynophis_collaris	JN211315.1	17163	Sibynophis collaris mitochondrion, complete genome

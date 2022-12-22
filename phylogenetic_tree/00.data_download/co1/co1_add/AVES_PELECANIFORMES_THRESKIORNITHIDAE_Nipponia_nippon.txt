@@ -1,7 +1,0 @@
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	NC_008132.1	16732	Nipponia nippon mitochondrion, complete genome
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	MN047457.1	16813	Nipponia nippon mitochondrion, complete genome
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	AB843621.1	675	Nipponia nippon mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO537-12
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	AB843620.1	662	Nipponia nippon mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO538-12
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	AB843619.1	689	Nipponia nippon mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO536-12
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	AB843618.1	652	Nipponia nippon mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO539-12
-AVES_PELECANIFORMES_THRESKIORNITHIDAE_Nipponia_nippon	AB104902.1	16732	Nipponia nippon mitochondrial DNA, complete genome, isolate:Midori

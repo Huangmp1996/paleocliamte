@@ -1,5 +1,0 @@
-AVES_GRUIFORMES_GRUIDAE_Grus_vipio	LC541482.1	16671	Antigone vipio TMZ1097 mitochondrial DNA, complete genome
-AVES_GRUIFORMES_GRUIDAE_Grus_vipio	LC114481.1	5262	Antigone vipio mitochondrial cytb, ND6 genes for cytochrome b, NADH dehydrogenase subunit 6, tRNA-Thr, tRNA-Pro and control region
-AVES_GRUIFORMES_GRUIDAE_Grus_vipio	U11065.1	1302	Grus vipio isolate ICF 10-02 cytochrome b gene, complete cds; and tRNA-Thr and tRNA-Pro genes, complete sequence; mitochondrial
-AVES_GRUIFORMES_GRUIDAE_Grus_vipio	NC_021368.1	16678	Grus vipio mitochondrion, complete genome
-AVES_GRUIFORMES_GRUIDAE_Grus_vipio	FJ769852.1	16678	Grus vipio mitochondrion, complete genome

@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	DQ092875.1	1143	Stachyris chrysaea voucher 4035 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	AF376883.1	477	Stachyris chrysaea cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	GU724392.1	1143	Stachyris chrysaea voucher KIZ:GLGS6578 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	DQ837527.1	1143	Stachyris chrysaea voucher KIZ04035 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	KJ456474.1	1143	Stachyris chrysaea voucher CAS:95902 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	JN827187.1	1143	Stachyris chrysaea voucher KUNHM 15240 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_TIMALIIDAE_Cyanoderma_chrysaeum	JN827186.1	1143	Stachyris chrysaea voucher KUNHM 15096 cytochrome b (CYTB) gene, complete cds; mitochondrial

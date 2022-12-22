@@ -1,6 +1,0 @@
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	DQ333818.1	16394	Batrachuperus yenyuanensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	NC_012430.1	16394	Batrachuperus yenyuanensis mitochondrion, complete genome
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY916010.1	1073	Batrachuperus yenyuanensis voucher RM9965 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY916009.1	1074	Batrachuperus yenyuanensis voucher RM10305 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY916008.1	1072	Batrachuperus yenyuanensis voucher RM10102 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_CAUDATA_HYNOBIIDAE_Batrachuperus_yenyuanensis	AY593117.1	934	Batrachuperus yenyuanensis 12S ribosomal RNA gene, partial sequence; mitochondrial

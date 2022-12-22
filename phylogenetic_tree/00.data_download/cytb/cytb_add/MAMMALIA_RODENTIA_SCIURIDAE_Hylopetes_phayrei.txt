@@ -1,5 +1,0 @@
-MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_phayrei	KP708707.1	16530	Hylopetes phayrei electilis mitochondrion, complete genome
-MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_phayrei	NC_026443.1	16530	Hylopetes phayrei mitochondrion, complete genome
-MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_phayrei	KC447305.1	16530	Hylopetes phayrei mitochondrion, complete genome
-MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_phayrei	AB030259.1	1068	Hylopetes phayrei mitochondrial cytb gene for cytochrome b, partial cds
-MAMMALIA_RODENTIA_SCIURIDAE_Hylopetes_phayrei	AB126252.1	1140	Hylopetes phayrei mitochondrial cytb gene for cytochrome b, complete cds, specimen_voucher:M31310

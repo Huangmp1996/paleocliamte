@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK199052.1	1026	Bungarus fasciatus voucher CHS727 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK199009.1	1026	Bungarus fasciatus voucher CHS647 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	MK198954.1	1026	Bungarus fasciatus voucher CHS285 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	EU579523.1	17234	Bungarus fasciatus mitochondrion, complete genome
-REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	AY058997.1	1032	Bungarus fasciatus voucher CAS:HERP:207988 NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Bungarus_fasciatus	NC_011393.1	17234	Bungarus fasciatus mitochondrion, complete genome

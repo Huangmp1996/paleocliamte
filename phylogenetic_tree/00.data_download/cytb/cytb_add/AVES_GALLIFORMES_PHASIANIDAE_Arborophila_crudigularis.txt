@@ -1,6 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Arborophila_crudigularis	MN868242.1	16733	Arborophila crudigularis mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Arborophila_crudigularis	KP119015.1	1143	Arborophila crudigularis voucher TW05 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Arborophila_crudigularis	KP119014.1	1143	Arborophila crudigularis voucher TW04 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Arborophila_crudigularis	KP119013.1	1143	Arborophila crudigularis voucher TW03 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Arborophila_crudigularis	KP119012.1	1143	Arborophila crudigularis voucher TW02 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Arborophila_crudigularis	KP119011.1	1143	Arborophila crudigularis voucher TW01 cytochrome b (CYTB) gene, complete cds; mitochondrial

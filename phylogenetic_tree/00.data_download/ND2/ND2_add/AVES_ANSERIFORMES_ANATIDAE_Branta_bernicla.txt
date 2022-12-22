@@ -1,3 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Branta_bernicla	EU585691.1	1041	Branta bernicla voucher IPMB 6977 NADH dehydrogenase subunit 2 (nd2) gene, complete cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Branta_bernicla	HM063567.1	1092	Branta bernicla voucher JFBM:38648 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Branta_bernicla	KF854338.1	1075	Branta bernicla voucher UWBM 86054 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial

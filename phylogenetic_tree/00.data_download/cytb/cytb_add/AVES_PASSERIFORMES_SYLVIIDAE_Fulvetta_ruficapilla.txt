@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_ruficapilla	NC_045401.1	16941	Fulvetta ruficapilla mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_ruficapilla	MK988446.1	16941	Fulvetta ruficapilla mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_ruficapilla	AY128564.1	872	Alcippe ruficapilla sordidior specimen-voucher 16-7F cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_ruficapilla	AY128563.1	641	Alcippe ruficapilla sordidior specimen-voucher 18-81 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_SYLVIIDAE_Fulvetta_ruficapilla	HM140316.1	621	Alcippe ruficapilla isolate 8028 cytochrome b (Cyt b) gene, partial cds; mitochondrial

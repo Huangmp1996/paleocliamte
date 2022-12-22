@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_CINCLIDAE_Cinclus_pallasii	EF621618.1	1176	Cinclus pallasii isolate N23 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CINCLIDAE_Cinclus_pallasii	GQ481590.1	694	Cinclus pallasii voucher UWBM 51144 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CINCLIDAE_Cinclus_pallasii	GQ481589.1	694	Cinclus pallasii voucher ZMMU EAK 097 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_CINCLIDAE_Cinclus_pallasii	AB843424.1	678	Cinclus pallasii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO327-10
-AVES_PASSERIFORMES_CINCLIDAE_Cinclus_pallasii	AB843423.1	688	Cinclus pallasii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO278-10
-AVES_PASSERIFORMES_CINCLIDAE_Cinclus_pallasii	AB843422.1	683	Cinclus pallasii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO473-10
-AVES_PASSERIFORMES_CINCLIDAE_Cinclus_pallasii	AB842649.1	677	Cinclus pallasii mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM753-11
-AVES_PASSERIFORMES_CINCLIDAE_Cinclus_pallasii	JQ174462.1	652	Cinclus pallasii voucher USNM:Birds:631867 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

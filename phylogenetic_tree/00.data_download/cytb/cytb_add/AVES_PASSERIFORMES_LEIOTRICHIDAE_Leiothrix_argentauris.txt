@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	EU447095.1	846	Leiothrix argentauris cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	HQ690245.1	17833	Leiothrix argentauris mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	AF484861.1	477	Leiothrix argentauris cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	KJ456317.1	1053	Leiothrix argentauris voucher NHMD 137218 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	NC_015114.1	17833	Leiothrix argentauris mitochondrion, complete genome
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	JN827084.1	967	Leiothrix argentauris voucher AMNH DOT2623 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LEIOTRICHIDAE_Leiothrix_argentauris	JN827083.1	1143	Leiothrix argentauris voucher KUNHM 15203 cytochrome b (CYTB) gene, complete cds; mitochondrial

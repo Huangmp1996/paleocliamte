@@ -1,4 +1,0 @@
-REPTILIA_SQUAMATA_Agamidae_Laudakia_tuberculata	AF128514.1	1724	Laudakia tuberculata ZISP20697.1 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Gln, tRNA-Ile, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products
-REPTILIA_SQUAMATA_Agamidae_Laudakia_tuberculata	KU926273.1	549	Laudakia tuberculata isolate YPX26119 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Laudakia_tuberculata	KU926272.1	549	Laudakia tuberculata isolate YPX26118 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_Agamidae_Laudakia_tuberculata	KU926271.1	549	Laudakia tuberculata isolate YPX26117 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

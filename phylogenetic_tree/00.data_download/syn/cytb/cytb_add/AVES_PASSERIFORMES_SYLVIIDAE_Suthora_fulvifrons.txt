@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JF756736.1	1143	Paradoxornis fulvifrons cyanophrys voucher NTNU T3152 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JF756735.1	1143	Paradoxornis fulvifrons cyanophrys voucher NTNU T3151 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JF756734.1	1143	Paradoxornis fulvifrons albifacies voucher NTNU T2666 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JF756733.1	1143	Paradoxornis fulvifrons albifacies voucher NTNU T0968 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	NC_028436.1	17059	Paradoxornis fulvifrons voucher PFUL20150817V2 mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	KT598466.1	17059	Paradoxornis fulvifrons voucher PFUL20150817V2 mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	KJ456369.1	1143	Paradoxornis fulvifrons voucher CAS:95884 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JN827130.1	964	Paradoxornis fulvifrons voucher CAS 95908 cytochrome b (CYTB) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Suthora_fulvifrons	JN827129.1	964	Paradoxornis fulvifrons voucher CAS 95884 cytochrome b (CYTB) gene, partial cds; mitochondrial

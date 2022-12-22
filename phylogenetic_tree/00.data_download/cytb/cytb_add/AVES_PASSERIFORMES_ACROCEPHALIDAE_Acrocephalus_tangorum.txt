@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_tangorum	FJ883041.1	729	Acrocephalus tangorum cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_tangorum	AJ004251.1	1047	Acrocephalus tangorum partial mitochondrial cytb gene, isolate 3
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_tangorum	AJ004250.1	1047	Acrocephalus tangorum partial mitochondrial cytb gene, isolate 2
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_tangorum	AJ004249.1	1047	Acrocephalus tangorum partial mitochondrial cytb gene, isolate 1
-AVES_PASSERIFORMES_ACROCEPHALIDAE_Acrocephalus_tangorum	AJ004777.1	1041	Acrocephalus tangorum mitochondrial cytb gene

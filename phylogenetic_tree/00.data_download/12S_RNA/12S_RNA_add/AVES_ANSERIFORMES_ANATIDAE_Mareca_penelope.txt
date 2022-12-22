@@ -1,5 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MW020582.1	16603	Mareca penelope voucher CGRB5061 mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MW020581.1	16603	Mareca penelope voucher CGRB5038 mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	NC_050973.1	16596	Anas penelope mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MT304825.1	16596	Anas penelope mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	AY164518.1	984	Anas penelope 12S ribosomal RNA gene, complete sequence; mitochondrial gene for mitochondrial product

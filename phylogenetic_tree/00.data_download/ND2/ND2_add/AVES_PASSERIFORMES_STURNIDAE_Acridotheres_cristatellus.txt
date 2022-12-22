@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	JF810423.1	16820	Acridotheres cristatellus mitochondrion, complete genome
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	EU551941.1	1041	Acridotheres cristatellus voucher NRM 569476 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	EU551940.1	1041	Acridotheres cristatellus voucher NRM VNM2004-506 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	EF468165.1	1041	Acridotheres cristatellus isolate AcrisB3778 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_cristatellus	NC_015613.1	16820	Acridotheres cristatellus mitochondrion, complete genome

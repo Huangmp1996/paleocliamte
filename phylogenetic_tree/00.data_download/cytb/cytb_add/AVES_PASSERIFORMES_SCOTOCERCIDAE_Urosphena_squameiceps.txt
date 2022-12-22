@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	DQ119538.1	710	Urosphena squameiceps isolate usq-2 cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	DQ119537.1	1143	Urosphena squameiceps isolate usq-1 cytochrome b gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	DQ008511.1	1038	Urosphena squameiceps cytochrome b gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	HQ121524.1	1041	Urosphena squameiceps cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	JX398860.1	1143	Urosphena squameiceps voucher KU:10198 cytochrome b (CytB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	AB159179.1	1143	Urosphena squameiceps mitochondrial gene for cytochrome b, complete cds, isolate: US194
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	AB159178.1	1143	Urosphena squameiceps mitochondrial gene for cytochrome b, complete cds, isolate: US501
-AVES_PASSERIFORMES_SCOTOCERCIDAE_Urosphena_squameiceps	AB159177.1	1143	Urosphena squameiceps mitochondrial gene for cytochrome b, complete cds, isolate: US1

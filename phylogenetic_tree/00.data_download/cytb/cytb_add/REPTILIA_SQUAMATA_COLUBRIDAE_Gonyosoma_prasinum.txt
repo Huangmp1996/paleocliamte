@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_COLUBRIDAE_Gonyosoma_prasinum	MZ322864.1	1097	Gonyosoma prasinum voucher SEABRI2019120043 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Gonyosoma_prasinum	MZ322863.1	1084	Gonyosoma prasinum voucher SEABRI2019120075 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Gonyosoma_prasinum	MK201383.1	585	Gonyosoma prasinum voucher CHS298 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Gonyosoma_prasinum	LC105618.1	717	Rhadinophis prasinus mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds, isolate: GPR2
-REPTILIA_SQUAMATA_COLUBRIDAE_Gonyosoma_prasinum	LC105617.1	723	Rhadinophis prasinus mitochondrial COI gene for cytochrome c oxidase subunit 1, partial cds, isolate: GPR1
-REPTILIA_SQUAMATA_COLUBRIDAE_Gonyosoma_prasinum	DQ902119.1	1117	Gonyosoma prasinum cytochrome b (cytb) gene, complete cds; mitochondrial

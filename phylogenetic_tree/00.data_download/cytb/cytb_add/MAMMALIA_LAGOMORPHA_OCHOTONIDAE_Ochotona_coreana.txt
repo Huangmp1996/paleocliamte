@@ -1,8 +1,0 @@
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	NC_052873.1	17283	Ochotona coreana mitochondrion, complete genome
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	MT017929.1	17283	Ochotona coreana mitochondrion, complete genome
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	MN547425.1	16471	Ochotona coreana voucher CHBSH009 mitochondrion, partial genome
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	MN547424.1	16487	Ochotona coreana voucher CHBSH010 mitochondrion, partial genome
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	EF567061.1	330	Ochotona coreana voucher S-55611 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	EF567060.1	330	Ochotona coreana voucher S-55612 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	KU359727.1	1137	Ochotona coreana isolate CHBSH009 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_LAGOMORPHA_OCHOTONIDAE_Ochotona_coreana	KU359726.1	1137	Ochotona coreana isolate CHBSH010 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,4 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	KM078779.1	16796	Carpodacus roseus mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	NC_025607.1	16796	Carpodacus roseus mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	JN715438.1	1041	Carpodacus roseus NADH dehydrogenase subunit II (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Carpodacus_roseus	KF194162.1	991	Carpodacus roseus voucher MTD C61316 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial

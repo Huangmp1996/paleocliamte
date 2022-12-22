@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_grammica	KU585904.1	15338	Eremias grammica mitochondrion, partial genome
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_grammica	HQ615636.1	558	Eremias grammica isolate Guo498 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_grammica	HQ615635.1	558	Eremias grammica isolate Guo499 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_grammica	DQ494822.1	559	Eremias grammica isolate Whr14 16S ribosomal RNA gene, complete sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_grammica	DQ494821.1	555	Eremias grammica isolate Whr13 16S ribosomal RNA gene, complete sequence; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Eremias_grammica	DQ494820.1	554	Eremias grammica isolate Whr12 16S ribosomal RNA gene, complete sequence; mitochondrial

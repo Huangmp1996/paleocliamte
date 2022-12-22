@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_gracilis	KT966137.1	1058	Hydrophis gracilis voucher KLS0123 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_gracilis	KT966136.1	1089	Hydrophis gracilis voucher KLS0101 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_gracilis	KT966135.1	241	Hydrophis gracilis voucher KLS0100 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_gracilis	KT966134.1	657	Hydrophis gracilis voucher KLS0099 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_gracilis	KT966133.1	1077	Hydrophis gracilis voucher KLS0001 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_gracilis	KC014420.1	1086	Microcephalophis gracilis voucher MZBOphi4170 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_gracilis	KC014419.1	1056	Microcephalophis gracilis voucher MZBOphi4169 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,6 +1,0 @@
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	NW_024881281.1	13532077	Tyto alba isolate M040663 unplaced genomic scaffold, T.alba_DEE_v4.0 Super-Scaffold_19, whole genome shotgun sequence
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	NW_024881329.1	25136324	Tyto alba isolate M040663 unplaced genomic scaffold, T.alba_DEE_v4.0 Super-Scaffold_8, whole genome shotgun sequence
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	EU410491.1	16148	Tyto alba mitochondrion, partial genome
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	GU799590.1	258	Tyto alba voucher TH_E1 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	EU167085.1	969	Tyto alba 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	U83749.1	966	Tyto alba 12S mitochondrial ribosomal RNA, small subunit, mitochondrial gene

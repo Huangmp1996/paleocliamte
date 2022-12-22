@@ -1,8 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	MN356129.1	17414	Egretta garzetta mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	MH645659.1	718	Egretta garzetta cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	KJ190950.1	19822	Egretta garzetta mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	JJRC01098997.1	6691	Egretta garzetta isolate BGI_Z169 contig98997, whole genome shotgun sequence
-AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	NC_023981.1	17361	Egretta garzetta mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	KJ192197.1	17361	Egretta garzetta mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	AB600558.1	307	Egretta garzetta mitochondrial cytb gene for cytochrome b, partial cds, isolate: k132ptr
-AVES_PELECANIFORMES_ARDEIDAE_Egretta_garzetta	AB600557.1	470	Egretta garzetta mitochondrial cytb gene for cytochrome b, partial cds, isolate: k132atr

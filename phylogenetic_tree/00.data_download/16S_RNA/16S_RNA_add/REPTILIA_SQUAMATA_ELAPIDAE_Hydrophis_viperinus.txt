@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KT966219.1	508	Hydrophis viperinus voucher ZMUC:R661334 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KT966218.1	517	Hydrophis viperinus voucher KLS0139 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KT966217.1	513	Hydrophis viperinus voucher KLS0120 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KT966216.1	464	Hydrophis viperinus voucher KLS0079 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KC014379.1	484	Praescutata viperina voucher ZMUCR661333 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	KC014378.1	464	Praescutata viperina voucher MZBOphi4246 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_viperinus	JX002993.1	466	Praescutata viperina voucher MZBOphi4065 16S ribosomal RNA gene, partial sequence; mitochondrial

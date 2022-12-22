@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthoschistos	MH079365.1	1048	Seicercus xanthoschistos voucher IOZ 19616 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthoschistos	AY635091.1	1038	Seicercus xanthoschistos xanthoschistos cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthoschistos	AY656246.1	1038	Phylloscopus xanthoschistos tephrodiras isolate C cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthoschistos	EU771073.1	655	Phylloscopus xanthoschistos isolate MAR90076 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthoschistos	EU771072.1	655	Phylloscopus xanthoschistos isolate MAR90194 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthoschistos	AY606135.1	660	Seicercus xanthoschistus isolate x76 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PHYLLOSCOPIDAE_Phylloscopus_xanthoschistos	AY606134.1	668	Seicercus xanthoschistus isolate x194 cytochrome b (cytb) gene, partial cds; mitochondrial

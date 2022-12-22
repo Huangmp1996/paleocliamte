@@ -1,6 +1,0 @@
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_cinnamomeus	AB843549.1	687	Ixobrychus cinnamomeus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO534-12
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_cinnamomeus	AB842853.1	596	Ixobrychus cinnamomeus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM788-11
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_cinnamomeus	AB842852.1	669	Ixobrychus cinnamomeus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM687-10
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_cinnamomeus	KJ190959.1	18640	Ixobrychus cinnamomeus mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_cinnamomeus	NC_015077.1	17180	Ixobrychus cinnamomeus mitochondrion, complete genome
-AVES_PELECANIFORMES_ARDEIDAE_Ixobrychus_cinnamomeus	HQ690247.1	17180	Ixobrychus cinnamomeus mitochondrion, complete genome

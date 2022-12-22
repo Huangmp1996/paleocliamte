@@ -1,6 +1,0 @@
-MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	AY634390.1	1038	Felis bieti NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial
-MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	AY170042.1	1044	Felis silvestris specimen-voucher SDZ-32188 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial gene for mitochondrial product
-MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	NC_028310.1	16640	Felis silvestris isolate FSI mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KP202278.1	16640	Felis silvestris isolate FSI mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KP202275.1	16735	Felis silvestris lybica isolate FLI mitochondrion, complete genome
-MAMMALIA_CARNIVORA_FELIDAE_Felis_silvestris	KP202273.1	16809	Felis silvestris bieti isolate FBI mitochondrion, complete genome

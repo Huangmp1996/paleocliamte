@@ -1,4 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Odorrana_chloronota	DQ283394.1	2405	Odorrana chloronota voucher AMNH A163935 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Odorrana_chloronota	KF477634.1	1465	Odorrana chloronota voucher FMNH:256507 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Odorrana_chloronota	AB200930.1	814	Rana chloronota mitochondrial gene for 12S rRNA, partial sequence, specimen_voucher: KUZ 30216(Department of Zoology, Faculty of Science, Kyoto University)
-AMPHIBIA_ANURA_RANIDAE_Odorrana_chloronota	AF206104.1	513	Rana chloronota voucher ROM 14885 12S ribosomal RNA gene, partial sequence; mitochondrial

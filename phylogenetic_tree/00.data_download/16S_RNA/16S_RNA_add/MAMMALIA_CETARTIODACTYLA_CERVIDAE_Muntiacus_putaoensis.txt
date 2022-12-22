@@ -1,8 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	NC_036430.1	16349	Muntiacus putaoensis mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	MF737190.1	16349	Muntiacus putaoensis mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523644.1	320	Muntiacus putaoensis isolate nmr15 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523643.1	320	Muntiacus putaoensis isolate nmr13 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523642.1	320	Muntiacus putaoensis isolate nmr14 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523641.1	320	Muntiacus putaoensis isolate nmr12 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	EF523640.1	320	Muntiacus putaoensis isolate nmr11 16S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Muntiacus_putaoensis	AF108032.1	495	Muntiacus putaoensis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product

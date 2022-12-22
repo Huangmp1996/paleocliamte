@@ -1,9 +1,0 @@
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	MN788508.1	458	Ahaetulla prasina voucher ZSI_SHT14/MZMU 1331 cytochrome b gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	MK201558.1	585	Ahaetulla prasina voucher CHS836 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	LC105637.1	1002	Ahaetulla prasina mitochondrial Cytb gene for cytochrome b, partial cds, isolate: APR2
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	LC105636.1	1002	Ahaetulla prasina mitochondrial Cytb gene for cytochrome b, partial cds, isolate: APR1
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	LC075335.1	723	Ahaetulla prasina mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: APR
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	LC075334.1	749	Ahaetulla prasina mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, isolate: APR01
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	KX660480.1	1096	Ahaetulla prasina isolate LSUHC8586 cytochrome b gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	KC010339.1	1110	Ahaetulla prasina voucher KU:326673 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_COLUBRIDAE_Ahaetulla_prasina	KC010338.1	628	Ahaetulla prasina voucher KU:302954 cytochrome b (cytb) gene, partial cds; mitochondrial

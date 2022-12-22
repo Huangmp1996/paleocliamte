@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	NC_053082.1	16842	Prunella himalayana mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	MN356328.1	16842	Prunella himalayana mitochondrion, complete genome
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	KY787006.1	1027	Prunella himalayana voucher AMNH DOT5695 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	KY787005.1	1027	Prunella himalayana voucher DZUG 649 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	KY787004.1	1049	Prunella himalayana voucher DZUG 4934 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PRUNELLIDAE_Prunella_himalayana	KX109633.1	306	Prunella himalayana isolate MAR2447 cytochrome b (cytb) gene, partial cds; mitochondrial

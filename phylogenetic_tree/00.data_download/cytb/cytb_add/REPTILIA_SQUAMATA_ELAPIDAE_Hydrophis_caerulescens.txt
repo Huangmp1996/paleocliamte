@@ -1,9 +1,0 @@
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	MN480420.1	316	Hydrophis caerulescens isolate 20 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	MN480419.1	316	Hydrophis caerulescens isolate 19 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	JQ217208.1	1032	Hydrophis caerulescens voucher MZBOphi4145 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	KX239641.1	1140	Hydrophis caerulescens cytochrome b (cytb) gene, complete cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	KT966055.1	1035	Hydrophis caerulescens voucher ZMUC:R661145 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	KT966054.1	1058	Hydrophis caerulescens voucher MZBOphi4145 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	KC014405.1	895	Polyodontognathus caerulescens voucher MW04470 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	KC014404.1	884	Polyodontognathus caerulescens voucher MW04469 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_ELAPIDAE_Hydrophis_caerulescens	KC014403.1	1056	Polyodontognathus caerulescens voucher MZBOphi4141 cytochrome b (cytb) gene, partial cds; mitochondrial

@@ -1,8 +1,0 @@
-AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_rubeculoides	KP336982.1	1125	Cyornis rubeculoides isolate JM004 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_rubeculoides	KP336981.1	1125	Cyornis rubeculoides isolate JM003 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_rubeculoides	KP336980.1	1125	Cyornis rubeculoides isolate 7075 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_rubeculoides	KP336979.1	1125	Cyornis rubeculoides isolate 6907 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_rubeculoides	KP336978.1	1125	Cyornis rubeculoides isolate 6863 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_rubeculoides	JQ174627.1	652	Cyornis rubeculoides voucher USNM:Birds:586591 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_rubeculoides	JQ174626.1	652	Cyornis rubeculoides voucher USNM:Birds:620301 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_MUSCICAPIDAE_Cyornis_rubeculoides	JQ174625.1	652	Cyornis rubeculoides voucher USNM:Birds:620312 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial

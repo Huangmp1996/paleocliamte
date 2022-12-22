@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	EU268406.1	295	Hemidactylus bowringii voucher CAS 228109 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	EU268405.1	307	Hemidactylus bowringii voucher CAS 206649 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	DQ120287.1	303	Hemidactylus bowringii isolate E1708.8 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	DQ120286.1	303	Hemidactylus bowringii isolate E170810 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	DQ120285.1	303	Hemidactylus bowringii isolate E1109.6 cytochrome b (cytb) gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	NC_025938.1	17097	Hemidactylus bowringii voucher HB201409 mitochondrion, complete genome
-REPTILIA_SQUAMATA_GEKKONIDAE_Hemidactylus_bowringii	KM508815.1	17097	Hemidactylus bowringii voucher HB201409 mitochondrion, complete genome

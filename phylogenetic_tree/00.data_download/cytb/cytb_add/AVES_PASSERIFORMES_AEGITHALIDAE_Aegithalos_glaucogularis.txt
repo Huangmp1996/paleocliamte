@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	GU244481.1	838	Aegithalos glaucogularis isolate MAR_7812_F cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	GU244480.1	838	Aegithalos glaucogularis isolate MAR_7814_F cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	GU244479.1	841	Aegithalos glaucogularis isolate glauc15_07811 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	GU244478.1	983	Aegithalos glaucogularis isolate glauc14_07809(2) cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	GU244477.1	983	Aegithalos glaucogularis isolate glauc13_07810(2) cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	GU244476.1	983	Aegithalos glaucogularis isolate glauc16_07813(2) cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	NC_024268.1	17937	Aegithalos glaucogularis mitochondrion, complete genome
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	KF951090.1	17938	Aegithalos glaucogularis vinaceus mitochondrion, complete genome
-AVES_PASSERIFORMES_AEGITHALIDAE_Aegithalos_glaucogularis	KF951089.1	17937	Aegithalos glaucogularis mitochondrion, complete genome

@@ -1,9 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	NC_050383.1	16351	Elaphodus cephalophus cephalophus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	MT726046.1	16351	Elaphodus cephalophus cephalophus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	MN251783.1	16356	Elaphodus cephalophus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	JN242418.1	888	Elaphodus cephalophus isolate chongzhou5hao cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	JN242417.1	1072	Elaphodus cephalophus isolate chongzhou4hao cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	DQ379305.1	1140	Elaphodus cephalophus cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	AF526505.1	383	Elaphodus cephalophus cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	DQ873526.1	16347	Elaphodus cephalophus mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_CERVIDAE_Elaphodus_cephalophus	NC_008749.1	16347	Elaphodus cephalophus mitochondrion, complete genome

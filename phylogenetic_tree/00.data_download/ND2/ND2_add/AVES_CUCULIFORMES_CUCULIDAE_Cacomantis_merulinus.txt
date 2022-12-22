@@ -1,6 +1,0 @@
-AVES_CUCULIFORMES_CUCULIDAE_Cacomantis_merulinus	MG546352.1	1041	Cacomantis merulinus voucher LSUMNS B-79020 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_CUCULIFORMES_CUCULIDAE_Cacomantis_merulinus	MG546351.1	1041	Cacomantis merulinus voucher LSUMNS B-58630 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_CUCULIFORMES_CUCULIDAE_Cacomantis_merulinus	MG546350.1	1041	Cacomantis merulinus voucher LSUMNS B-47049 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_CUCULIFORMES_CUCULIDAE_Cacomantis_merulinus	MG546349.1	932	Cacomantis merulinus voucher LSUMNS B-47009 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_CUCULIFORMES_CUCULIDAE_Cacomantis_merulinus	AF205004.1	547	Cacomantis merulinus NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_CUCULIFORMES_CUCULIDAE_Cacomantis_merulinus	KJ455341.1	1041	Cacomantis merulinus voucher UWBM:67474 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

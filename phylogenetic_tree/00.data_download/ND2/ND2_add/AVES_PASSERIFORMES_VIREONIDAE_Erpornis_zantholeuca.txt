@@ -1,7 +1,0 @@
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	MW540531.1	16902	Erpornis zantholeuca mitochondrion, complete genome
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	NC_053069.1	16903	Erpornis zantholeuca mitochondrion, complete genome
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	MN356277.1	16903	Erpornis zantholeuca mitochondrion, complete genome
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	MN991432.1	1041	Erpornis zantholeuca voucher LSUMNS B-58550 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	JQ864460.1	1041	Erpornis zantholeuca voucher AMNH 10977 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	JN826492.1	1041	Erpornis zantholeuca voucher KUNHM 13848 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_VIREONIDAE_Erpornis_zantholeuca	JN826491.1	1041	Erpornis zantholeuca voucher KUNHM 10015 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

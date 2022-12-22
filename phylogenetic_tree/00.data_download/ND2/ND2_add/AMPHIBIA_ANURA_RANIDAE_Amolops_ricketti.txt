@@ -1,6 +1,0 @@
-AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MW111445.1	891	Amolops ricketti voucher KIZYPX6604 NADH dehydrogenase subunit 2 (nd2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MN958816.1	890	Amolops ricketti voucher KIZ07150 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	MN958799.1	890	Amolops ricketti voucher HDSK0043 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	FJ417206.1	1062	Amolops ricketti voucher AMNH 168687 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	NC_023949.1	17772	Amolops ricketti mitochondrion, complete genome
-AMPHIBIA_ANURA_RANIDAE_Amolops_ricketti	KF956111.1	17772	Amolops ricketti mitochondrion, complete genome

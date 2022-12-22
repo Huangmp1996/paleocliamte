@@ -1,4 +1,0 @@
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	HQ896036.1	17027	Gallinula chloropus mitochondrion, complete genome
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	KT384201.1	927	Gallinula chloropus guami haplotype H2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	KT384200.1	927	Gallinula chloropus guami haplotype H1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GRUIFORMES_RALLIDAE_Gallinula_chloropus	NC_015236.1	17027	Gallinula chloropus mitochondrion, complete genome

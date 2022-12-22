@@ -1,5 +1,0 @@
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	LC541458.1	18340	Pernis ptilorhynchus orientalis HN0387 mitochondrial DNA, complete genome
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AB843667.1	652	Pernis ptilorhynchus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: YIO138-10
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AB843046.1	685	Pernis ptilorhynchus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM805-11
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AB843045.1	653	Pernis ptilorhynchus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM806-11
-AVES_ACCIPITRIFORMES_ACCIPITRIDAE_Pernis_ptilorhynchus	AB843044.1	671	Pernis ptilorhynchus mitochondrial COI gene for cytochrome oxidase subunit I, partial cds, isolate: BJNSM770-11

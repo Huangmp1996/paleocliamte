@@ -1,4 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Netta_rufina	EU585657.1	1044	Netta rufina voucher IPMB 7106 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Netta_rufina	AF173759.1	306	Netta rufina cytochrome b (cytb) gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_ANSERIFORMES_ANATIDAE_Netta_rufina	NC_024922.1	16625	Netta rufina mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Netta_rufina	KC466568.1	16625	Netta rufina mitochondrion, complete genome

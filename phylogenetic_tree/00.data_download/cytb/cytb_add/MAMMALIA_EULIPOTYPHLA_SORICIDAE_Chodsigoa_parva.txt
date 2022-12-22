@@ -1,9 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	NC_053858.1	17216	Chodsigoa parva mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	MN038167.1	17216	Chodsigoa parva mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	KX765545.1	1140	Chodsigoa parva isolate Chparva7 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	KX765544.1	1140	Chodsigoa parva isolate Chparva5 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	KX765543.1	1140	Chodsigoa parva isolate Chparva4 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	KX765542.1	1140	Chodsigoa parva isolate Chparva3 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	KX765541.1	1140	Chodsigoa parva isolate Chparva2 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	KX765540.1	1140	Chodsigoa parva isolate Chparva6 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Chodsigoa_parva	KX765539.1	1140	Chodsigoa parva isolate Chparva1 cytochrome b (cytb) gene, complete cds; mitochondrial

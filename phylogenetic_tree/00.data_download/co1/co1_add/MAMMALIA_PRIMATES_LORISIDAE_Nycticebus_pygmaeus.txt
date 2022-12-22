@@ -1,5 +1,0 @@
-MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	NC_033381.1	16856	Nycticebus pygmaeus mitochondrion, complete genome
-MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KX397281.1	16856	Nycticebus pygmaeus mitochondrion, complete genome
-MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	GQ259902.1	1542	Nycticebus pygmaeus cytochrome oxidase subunit I (COXI) gene, complete cds; mitochondrial
-MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KJ862196.1	648	Nycticebus pygmaeus voucher S49 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_PRIMATES_LORISIDAE_Nycticebus_pygmaeus	KJ543734.1	459	Nycticebus pygmaeus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial

@@ -1,6 +1,0 @@
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	NC_023351.1	17460	Nectogale elegans mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	KC503902.1	17460	Nectogale elegans mitochondrion, complete genome
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981052.1	963	Nectogale elegans isolate Neceleg8 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981051.1	967	Nectogale elegans isolate Neceleg7 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981050.1	965	Nectogale elegans isolate Neceleg2 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_EULIPOTYPHLA_SORICIDAE_Nectogale_elegans	GU981049.1	965	Nectogale elegans isolate Neceleg1 12S ribosomal RNA gene, partial sequence; mitochondrial

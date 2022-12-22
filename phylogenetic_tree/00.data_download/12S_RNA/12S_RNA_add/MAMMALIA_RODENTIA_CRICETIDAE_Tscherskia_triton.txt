@@ -1,6 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Tscherskia_triton	EU031048.1	16488	Tscherskia triton mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Tscherskia_triton	NC_013068.1	16488	Tscherskia triton mitochondrion, complete genome
-MAMMALIA_RODENTIA_CRICETIDAE_Tscherskia_triton	AY997828.1	925	Tscherskia triton isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Tscherskia_triton	AY997827.1	917	Tscherskia triton isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Tscherskia_triton	AM000047.1	789	Tscherskia triton partial vwf gene for von Willebrand factor
-MAMMALIA_RODENTIA_CRICETIDAE_Tscherskia_triton	AJ973388.1	925	Tscherskia triton mitochondrial partial cytb gene for cytochrome b

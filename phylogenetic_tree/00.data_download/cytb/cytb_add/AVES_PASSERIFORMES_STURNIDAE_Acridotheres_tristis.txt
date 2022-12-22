@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	HQ915864.1	16822	Sturnus tristis mitochondrion, complete genome
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	KJ456175.1	1143	Acridotheres tristis voucher ZMUC:137744 cytochrome b (cytb) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	KC439254.1	424	Sturnus tristis cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	NC_015195.1	16822	Sturnus tristis mitochondrion, complete genome
-AVES_PASSERIFORMES_STURNIDAE_Acridotheres_tristis	FJ499017.1	524	Sturnus tristis cytochrome b (cytb) gene, partial cds; mitochondrial

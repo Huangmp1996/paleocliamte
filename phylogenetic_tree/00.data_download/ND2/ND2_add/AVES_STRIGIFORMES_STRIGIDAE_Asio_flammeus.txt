@@ -1,5 +1,0 @@
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	MN122899.1	10466	Asio flammeus mitochondrion, partial genome
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	MF769786.1	907	Asio flammeus haplotype Hap2 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	MF769785.1	1021	Asio flammeus haplotype Hap1 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	NC_027606.1	18966	Asio flammeus mitochondrion, complete genome
-AVES_STRIGIFORMES_STRIGIDAE_Asio_flammeus	KP889214.1	18966	Asio flammeus mitochondrion, complete genome

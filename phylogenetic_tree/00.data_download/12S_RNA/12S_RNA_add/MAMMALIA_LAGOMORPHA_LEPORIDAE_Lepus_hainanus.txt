@@ -1,5 +1,0 @@
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	JQ219662.1	16646	Lepus hainanus mitochondrion, complete genome
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	NC_025902.1	16646	Lepus hainanus mitochondrion, complete genome
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	AY745186.1	756	Lepus hainanus isolate hai18 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	AY745185.1	756	Lepus hainanus isolate hai15 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_LAGOMORPHA_LEPORIDAE_Lepus_hainanus	AY745184.1	756	Lepus hainanus isolate hai1 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,5 +1,0 @@
-AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	AF174522.1	100	Bufo raddei KIZ-96G003 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	AF171210.1	518	Bufo raddei KIZ-96G003 cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	KR861720.1	16067	Bufotes raddei voucher AHUAM2012001 mitochondrion, partial genome
-AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	NC_028424.1	17602	Bufotes raddei mitochondrion, complete genome
-AMPHIBIA_ANURA_BUFONIDAE_Strauchbufo_raddei	KT223827.1	17602	Bufotes raddei mitochondrion, complete genome

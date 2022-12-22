@@ -1,4 +1,0 @@
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	MN356151.1	9059	Tyto alba mitochondrion, partial genome
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	EU410491.1	16148	Tyto alba mitochondrion, partial genome
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	EU166976.1	2659	Tyto alba tRNA-Leu gene, partial sequence; NADH dehydrogenase subunit 1 gene, complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial
-AVES_STRIGIFORMES_TYTONIDAE_Tyto_alba	EU601052.1	1041	Tyto alba isolate JF169 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

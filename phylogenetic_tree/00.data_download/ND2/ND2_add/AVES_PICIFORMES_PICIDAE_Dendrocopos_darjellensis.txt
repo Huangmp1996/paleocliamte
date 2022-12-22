@@ -1,5 +1,0 @@
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	NC_042683.1	16864	Dendrocopos darjellensis voucher AHNU:A0328 mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	MK335535.1	16864	Dendrocopos darjellensis voucher AHNU:A0328 mitochondrion, complete genome
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	MF766625.1	1041	Dendrocopos darjellensis voucher AMNH DOT-5627 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	KJ455404.1	1041	Dendrocopos darjellensis voucher AMNH:5627 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PICIFORMES_PICIDAE_Dendrocopos_darjellensis	KF765946.1	1040	Dendrocopos darjellensis isolate Ddardar4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

@@ -1,7 +1,0 @@
-REPTILIA_SQUAMATA_NATRICIDAE_Pseudagkistrodon_rudis	NC_056928.1	19153	Pseudagkistrodon rudis voucher LSU20200722WF01 mitochondrion, complete genome
-REPTILIA_SQUAMATA_NATRICIDAE_Pseudagkistrodon_rudis	MT165518.1	18922	Pseudagkistrodon rudis mitochondrion, complete genome
-REPTILIA_SQUAMATA_NATRICIDAE_Pseudagkistrodon_rudis	MW327508.1	19153	Pseudagkistrodon rudis voucher LSU20200722WF01 mitochondrion, complete genome
-REPTILIA_SQUAMATA_NATRICIDAE_Pseudagkistrodon_rudis	MK194095.1	1286	Macropisthodon rudis voucher CHS611 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Pseudagkistrodon_rudis	MK194085.1	1286	Macropisthodon rudis voucher CHS597 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Pseudagkistrodon_rudis	MK193964.1	1277	Macropisthodon rudis voucher CHS180 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_SQUAMATA_NATRICIDAE_Pseudagkistrodon_rudis	KX694651.1	511	Macropisthodon rudis voucher USNM 539454 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,4 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Lophophorus_impejanus	NC_040850.1	16709	Lophophorus impejanus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Lophophorus_impejanus	MF975712.1	16709	Lophophorus impejanus mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Lophophorus_impejanus	DQ307007.1	1041	Lophophorus impejanus NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Lophophorus_impejanus	DQ768259.1	1041	Lophophorus impejanus NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

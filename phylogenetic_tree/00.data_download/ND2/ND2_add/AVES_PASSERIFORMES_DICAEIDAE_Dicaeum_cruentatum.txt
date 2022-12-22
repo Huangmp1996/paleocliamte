@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_cruentatum	MW629122.1	16812	Dicaeum cruentatum mitochondrion, complete genome
-AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_cruentatum	MN991423.1	1041	Dicaeum cruentatum voucher LSUMNS B-84857 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_cruentatum	MH908336.1	1023	Dicaeum cruentatum nigrimentum voucher USNM:Birds:656303 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_cruentatum	MH908197.1	1032	Dicaeum cruentatum nigrimentum voucher USNM:Birds:656152 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_cruentatum	GQ145278.1	1032	Dicaeum cruentatum voucher UWBM 83538 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_DICAEIDAE_Dicaeum_cruentatum	KJ455407.1	1032	Dicaeum cruentatum voucher UWBM:83538 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial

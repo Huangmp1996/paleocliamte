@@ -1,6 +1,0 @@
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	MW284875.1	16354	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	JF700176.1	658	Moschus chrysogaster voucher AS73MT01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	KP684123.1	16354	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	NC_020093.1	16353	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	KC425457.1	16354	Moschus chrysogaster mitochondrion, complete genome
-MAMMALIA_CETARTIODACTYLA_MOSCHIDAE_Moschus_chrysogaster	JQ608470.1	16353	Moschus chrysogaster mitochondrion, complete genome

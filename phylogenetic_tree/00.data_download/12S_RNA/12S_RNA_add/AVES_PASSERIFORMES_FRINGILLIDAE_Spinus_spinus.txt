@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Spinus_spinus	HQ915866.1	16828	Carduelis spinus mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Spinus_spinus	KM078796.1	16812	Carduelis pinus mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Spinus_spinus	NC_015198.1	16828	Carduelis spinus mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Spinus_spinus	AF447219.1	860	Carduelis pinus 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_FRINGILLIDAE_Spinus_spinus	AF407086.1	1010	Carduelis pinus tRNA-Phe gene, partial sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

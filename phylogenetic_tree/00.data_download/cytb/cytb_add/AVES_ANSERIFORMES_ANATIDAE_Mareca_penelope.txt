@@ -1,7 +1,0 @@
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MW020582.1	16603	Mareca penelope voucher CGRB5061 mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MW020581.1	16603	Mareca penelope voucher CGRB5038 mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	NC_050973.1	16596	Anas penelope mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	MT304825.1	16596	Anas penelope mitochondrion, complete genome
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	EU914158.1	1045	Anas penelope voucher IPMB 6991 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	AF059167.1	1093	Anas penelope tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp gene, partial sequence, mitochondrial genes for mitochondrial products
-AVES_ANSERIFORMES_ANATIDAE_Mareca_penelope	AF059107.1	1074	Anas penelope cytochrome b gene, partial cds; and tRNA-Thr gene, partial sequence, mitochondrial genes for mitochondrial products

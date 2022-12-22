@@ -1,6 +1,0 @@
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MF631862.1	707	Takydromus intermedius voucher SYS r001331 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MF631861.1	707	Takydromus intermedius voucher SYS r001330 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MF631860.1	707	Takydromus intermedius voucher SYS r000856 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MF631859.1	707	Takydromus intermedius voucher SYS r001602 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	MF631858.1	707	Takydromus intermedius voucher SYS r001601 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
-REPTILIA_SQUAMATA_LACERTIDAE_Takydromus_intermedius	AY248538.1	713	Takydromus intermedius isolate INT101 cytochrome oxidase subunit I (COX1) gene, partial cds; mitochondrial gene for mitochondrial product

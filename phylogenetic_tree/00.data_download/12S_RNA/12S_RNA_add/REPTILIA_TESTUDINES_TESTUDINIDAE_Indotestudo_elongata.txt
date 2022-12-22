@@ -1,6 +1,0 @@
-REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	DQ656607.1	16813	Indotestudo elongata mitochondrion, complete genome
-REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	GU477777.1	431	Indotestudo elongata 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	DQ497276.1	564	Indotestudo elongata isolate 16S8 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	DQ497256.1	394	Indotestudo elongata isolate 12S9 12S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AF175338.1	394	Indotestudo elongata 12S small subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-REPTILIA_TESTUDINES_TESTUDINIDAE_Indotestudo_elongata	AF043410.1	388	Indotestudo elongata 12S ribosomal RNA gene, mitochondrial gene for mitochondrial RNA, partial sequence

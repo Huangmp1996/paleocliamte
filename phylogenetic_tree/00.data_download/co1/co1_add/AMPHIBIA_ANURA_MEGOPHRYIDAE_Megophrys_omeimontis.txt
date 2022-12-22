@@ -1,8 +1,0 @@
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406358.1	632	Megophrys omeimontis isolate 5330 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406349.1	632	Megophrys omeimontis isolate 5301 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406328.1	632	Megophrys omeimontis isolate 4939 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406327.1	632	Megophrys omeimontis isolate 4918 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406326.1	632	Megophrys omeimontis isolate 4916 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	MH406162.1	632	Megophrys omeimontis isolate 2741 cytochrome oxidase subunit 1 (CO1) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	KX812136.1	561	Xenophrys omeimontis isolate KIZ025765 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AMPHIBIA_ANURA_MEGOPHRYIDAE_Megophrys_omeimontis	KP728257.1	17013	Xenophrys omeimontis mitochondrion, partial genome

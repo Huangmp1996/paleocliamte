@@ -1,8 +1,0 @@
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_rhododiscus	DQ283392.1	1485	Theloderma rhododiscus voucher AMNH A163892 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_rhododiscus	KY495631.1	355	Theloderma rhododiscus voucher HXPHKJS 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_rhododiscus	KY495630.1	355	Theloderma rhododiscus voucher LPHKJS 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_rhododiscus	LC012842.1	2402	Theloderma rhododiscus mitochondrial genes for 12S ribosomal RNA, tRNA-Val, 16S ribosomal RNA, partial and complete sequence, specimen_voucher: CIB<CH>:GX200807017
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_rhododiscus	KJ802921.1	1744	Theloderma rhododiscus voucher CIB GX200807048 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_rhododiscus	EU215530.1	1951	Philautus rhododiscus voucher SCUM 061102L 12S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_rhododiscus	EF564462.1	419	Philautus rhododiscus isolate KIZ060821170 12S ribosomal RNA gene, partial sequence; mitochondrial
-AMPHIBIA_ANURA_RHACOPHORIDAE_Theloderma_rhododiscus	EF564461.1	422	Philautus rhododiscus isolate KIZ060821063 12S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,9 +1,0 @@
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	DQ533485.1	16478	Eretmochelys imbricata mitochondrion, complete genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	MF571906.1	16498	Eretmochelys imbricata isolate Cc-C-2 mitochondrion, complete genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	KP221806.1	16386	Eretmochelys imbricata mitochondrion, complete genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	NC_012398.1	16478	Eretmochelys imbricata mitochondrion, complete genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX454986.1	16347	Eretmochelys imbricata isolate 72489 mitochondrion, partial genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX454980.1	16349	Eretmochelys imbricata isolate 61392 mitochondrion, partial genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	JX454970.1	16354	Eretmochelys imbricata isolate 5787 mitochondrion, partial genome
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	FJ039971.1	561	Eretmochelys imbricata isolate EI_Atlantic 16S ribosomal RNA gene, partial sequence; mitochondrial
-REPTILIA_TESTUDINES_CHELONIIDAE_Eretmochelys_imbricata	FJ039964.1	561	Eretmochelys imbricata isolate EI_Pacific 16S ribosomal RNA gene, partial sequence; mitochondrial

@@ -1,9 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	MW054879.1	1140	Myotis longipes voucher ZSI M2219 cytochrome b gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	MW054878.1	1140	Myotis longipes voucher ZSI M2210 cytochrome b gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	MW054876.1	412	Myotis longipes voucher HNHM 92.104.40 cytochrome b gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	MW054874.1	404	Myotis longipes voucher HNHM 97.2.3 cytochrome b gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	MW054873.1	412	Myotis longipes voucher HNHM 97.2.1 cytochrome b gene, partial cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	MH183152.1	1140	Myotis longipes isolate YZ18040101 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	FJ215678.1	1140	Myotis longipes cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	EF555231.1	1140	Myotis longipes haplotype 3 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_longipes	EF555230.1	1140	Myotis longipes haplotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial

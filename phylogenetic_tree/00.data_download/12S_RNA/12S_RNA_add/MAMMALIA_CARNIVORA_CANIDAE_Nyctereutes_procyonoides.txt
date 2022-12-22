@@ -1,9 +1,0 @@
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	CAJHUB010000663.1	23636753	Nyctereutes procyonoides isolate TBG_1078 genome assembly, contig: Nypro696, whole genome shotgun sequence
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	CAJHUB010000769.1	89998045	Nyctereutes procyonoides isolate TBG_1078 genome assembly, contig: Nypro791, whole genome shotgun sequence
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	LC424774.1	169	Nyctereutes procyonoides GK1080 mitochondrial gene for 12S ribosomal RNA, partial sequence
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	MG256392.1	16714	Nyctereutes procyonoides mitochondrion, complete genome
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	GU256221.1	16713	Nyctereutes procyonoides mitochondrion, complete genome
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	LC146378.1	169	Nyctereutes procyonoides mitochondrial gene for 12S rRNA, partial sequence, bio_material: CBM:ZZ:6095
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KF709435.1	16802	Nyctereutes procyonoides koreensis mitochondrion, complete genome
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	KF781340.1	432	Nyctereutes procyonoides strain 269 12S ribosomal RNA gene, partial sequence; mitochondrial
-MAMMALIA_CARNIVORA_CANIDAE_Nyctereutes_procyonoides	NC_013700.1	16713	Nyctereutes procyonoides mitochondrion, complete genome

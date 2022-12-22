@@ -1,5 +1,0 @@
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	EU845751.1	1023	Pucrasia macrolopha voucher 523 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	GU214313.1	1023	Pucrasia macrolopha isolate 525 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	FJ752429.1	16696	Pucrasia macrolopha mitochondrion, complete genome
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	DQ768269.1	1041	Pucrasia macrolopha NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_GALLIFORMES_PHASIANIDAE_Pucrasia_macrolopha	NC_020587.1	16696	Pucrasia macrolopha mitochondrion, complete genome

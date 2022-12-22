@@ -1,5 +1,0 @@
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	MF872231.1	16554	Trachypithecus francoisi, complete genome
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	AY972807.1	601	Trachypithecus francoisi isolate PR01099 cytochrome c oxidase subunit I (COXI) gene, partial cds; mitochondrial
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	KJ862193.1	648	Trachypithecus francoisi voucher S44 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	NC_023970.1	16554	Trachypithecus francoisi mitochondrion, complete genome
-MAMMALIA_PRIMATES_CERCOPITHECIDAE_Trachypithecus_francoisi	KJ174502.1	16554	Trachypithecus francoisi mitochondrion, complete genome

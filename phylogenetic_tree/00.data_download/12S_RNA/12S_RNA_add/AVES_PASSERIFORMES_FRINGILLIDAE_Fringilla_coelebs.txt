@@ -1,9 +1,0 @@
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	MN122830.1	16341	Fringilla coelebs mitochondrion, partial genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	KM078769.1	16801	Fringilla coelebs mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	NC_025599.1	16801	Fringilla coelebs mitochondrion, complete genome
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	HM159158.1	906	Fringilla coelebs voucher FRCO 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	EF027308.1	147	Fringilla coelebs isolate 3 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	EF027307.1	147	Fringilla coelebs isolate 2 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	EF027306.1	147	Fringilla coelebs isolate 1 12S ribosomal RNA gene, partial sequence; mitochondrial
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF447231.1	858	Fringilla coelebs 12S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
-AVES_PASSERIFORMES_FRINGILLIDAE_Fringilla_coelebs	AF407088.1	1008	Fringilla coelebs tRNA-Phe gene, partial sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial genes for mitochondrial products

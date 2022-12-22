@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_heudei	NC_046943.1	16924	Paradoxornis heudei mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_heudei	MN865117.1	16924	Paradoxornis heudei mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_heudei	JF756748.1	1143	Paradoxornis heudei heudei voucher NTNU T3089 cytochrome b (CYTB) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_heudei	HM140315.1	621	Paradoxornis heudei isolate 2684 cytochrome b (Cyt b) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Paradoxornis_heudei	JX565696.1	1105	Paradoxornis heudei voucher IOZ13838 cytochrome b (cytb) gene, partial cds; mitochondrial

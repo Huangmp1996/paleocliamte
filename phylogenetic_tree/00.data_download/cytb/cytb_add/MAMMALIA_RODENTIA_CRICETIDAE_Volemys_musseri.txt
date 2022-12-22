@@ -1,5 +1,0 @@
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_musseri	KY754178.1	1140	Volemys musseri cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_musseri	KP190256.1	1140	Volemys musseri isolate JJS002 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_musseri	KP190255.1	1140	Volemys musseri isolate MYL0101 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_musseri	KP190254.1	1140	Volemys musseri isolate DG02002 cytochrome b (cytb) gene, partial cds; mitochondrial
-MAMMALIA_RODENTIA_CRICETIDAE_Volemys_musseri	JF906121.1	1143	Volemys musseri voucher CY35 cytochrome b (cytb) gene, complete cds; mitochondrial

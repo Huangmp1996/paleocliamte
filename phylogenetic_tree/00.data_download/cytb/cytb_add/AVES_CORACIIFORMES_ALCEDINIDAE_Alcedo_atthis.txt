@@ -1,6 +1,0 @@
-AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	NC_035868.1	17383	Alcedo atthis mitochondrion, complete genome
-AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KY964271.1	17383	Alcedo atthis mitochondrion, complete genome
-AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	AF172388.1	300	Alcedo atthis cytochrome b gene, partial cds; mitochondrial gene for mitochondrial product
-AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	KJ456186.1	1134	Alcedo atthis voucher UWBM:83042 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	D38329.1	646	Alcedo atthis mitochondrial gene for cytochrome b, partial cds
-AVES_CORACIIFORMES_ALCEDINIDAE_Alcedo_atthis	D38357.1	293	Alcedo atthis gene for 18S rRNA, partial sequence

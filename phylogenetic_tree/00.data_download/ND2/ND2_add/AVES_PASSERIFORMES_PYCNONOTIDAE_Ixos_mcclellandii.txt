@@ -1,6 +1,0 @@
-AVES_PASSERIFORMES_PYCNONOTIDAE_Ixos_mcclellandii	MG762107.1	1040	Ixos mcclellandii voucher MNHN Uncat. 14-18 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Ixos_mcclellandii	NC_039396.1	17838	Ixos mcclellandii mitochondrion, complete genome
-AVES_PASSERIFORMES_PYCNONOTIDAE_Ixos_mcclellandii	KX640824.1	17838	Ixos mcclellandii mitochondrion, complete genome
-AVES_PASSERIFORMES_PYCNONOTIDAE_Ixos_mcclellandii	GQ242079.1	1041	Hypsipetes mcclellandii voucher NRM 20046796 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Ixos_mcclellandii	GU112653.1	1041	Hypsipetes mcclellandii voucher KU10269 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_PYCNONOTIDAE_Ixos_mcclellandii	KJ455466.1	1041	Ixos mcclellandii voucher CAS:95882 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial

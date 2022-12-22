@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	NC_046417.1	17959	Sylvia curruca mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	MG681102.1	17959	Sylvia curruca mitochondrion, complete genome
-AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	JF502333.1	920	Sylvia curruca voucher B0073 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	JF502332.1	905	Sylvia curruca voucher MSUZM 119078 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_SYLVIIDAE_Sylvia_curruca	JF502331.1	920	Sylvia curruca voucher USNM 640015 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial

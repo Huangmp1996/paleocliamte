@@ -1,5 +1,0 @@
-AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	EF621599.1	1176	Lanius minor isolate N4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	EF621575.1	1143	Lanius minor isolate M4 cytochrome b gene, complete cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	EF635020.1	969	Lanius minor minor voucher IPMB 3592 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	EF635019.1	969	Lanius minor minor voucher IPMB 3525 cytochrome b (cytb) gene, partial cds; mitochondrial
-AVES_PASSERIFORMES_LANIIDAE_Lanius_minor	GU253559.1	1076	Lanius minor voucher NRM:20076367 cytochrome b (cytb) gene, partial cds; mitochondrial

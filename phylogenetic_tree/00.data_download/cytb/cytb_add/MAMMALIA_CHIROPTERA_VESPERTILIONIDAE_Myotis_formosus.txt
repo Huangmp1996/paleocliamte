@@ -1,7 +1,0 @@
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_formosus	KX467605.1	1140	Myotis formosus voucher JL-022 cytchrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_formosus	EF555235.1	1140	Myotis formosus haplotype 2 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_formosus	EF555234.1	1140	Myotis formosus haplotype 1 cytochrome b (cytb) gene, complete cds; mitochondrial
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_formosus	NC_015828.1	17159	Myotis formosus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_formosus	HQ184048.1	17159	Myotis formosus mitochondrion, complete genome
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_formosus	AJ841950.1	1140	Myotis formosus mitochondrial cyt b gene for cytochrome b, specimen voucher ROM 110544
-MAMMALIA_CHIROPTERA_VESPERTILIONIDAE_Myotis_formosus	AB106592.1	1140	Myotis formosus mitochondrial cytb gene for cytochrome b, complete cds, specimen_voucher: OCUMS5290 (Osaka City University)

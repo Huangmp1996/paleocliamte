@@ -1,6 +1,0 @@
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	MW160420.1	15555	Limicola falcinellus mitochondrion, complete genome
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	GQ482054.1	660	Limicola falcinellus voucher UWBM 44493 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	GU571951.1	648	Limicola falcinellus voucher BISE-Aves201 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	GU571950.1	648	Limicola falcinellus voucher BISE-Aves337 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	GU571456.1	718	Limicola falcinellus voucher NHMO-BC321 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
-AVES_CHARADRIIFORMES_SCOLOPACIDAE_Calidris_falcinellus	KF009537.1	900	Limicola falcinellus voucher AJB 6020 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
